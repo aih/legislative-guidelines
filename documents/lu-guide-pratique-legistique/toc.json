@@ -1,0 +1,692 @@
+[
+ {
+  "id": "guide-pratique-de-légistique",
+  "level": 2,
+  "title": "GUIDE PRATIQUE DE LÉGISTIQUE"
+ },
+ {
+  "id": "service-légistique-de-la-chambre-des-députés",
+  "level": 5,
+  "title": "Service légistique de la Chambre des Députés"
+ },
+ {
+  "id": "édition-juillet-2024",
+  "level": 5,
+  "title": "(Édition juillet 2024)"
+ },
+ {
+  "id": "table-des-matières",
+  "level": 3,
+  "title": "Table des matières"
+ },
+ {
+  "id": "avant-propos",
+  "level": 2,
+  "title": "Avant-propos"
+ },
+ {
+  "id": "1-règles-générales-de-bonne-rédaction-des-textes-législatifs",
+  "level": 2,
+  "title": "1. Règles générales de bonne rédaction des textes législatifs"
+ },
+ {
+  "id": "1-1-privilégier-les-phrases-courtes",
+  "level": 3,
+  "title": "1.1. Privilégier les phrases courtes"
+ },
+ {
+  "id": "1-2-utiliser-le-présent-de-l-indicatif-et-la-forme-impersonn",
+  "level": 3,
+  "title": "1.2. Utiliser le présent de l’indicatif et la forme impersonnelle"
+ },
+ {
+  "id": "1-3-préférer-les-phrases-affirmatives-aux-phrases-négatives",
+  "level": 3,
+  "title": "1.3. Préférer les phrases affirmatives aux phrases négatives"
+ },
+ {
+  "id": "attention-éviter-la-double-négation-alors-qu-elle-équivaut-à",
+  "level": 5,
+  "title": " Attention ! Éviter la double négation alors qu’elle équivaut à une affirmation :"
+ },
+ {
+  "id": "1-4-éviter-de-couper-inutilement-les-formes-verbales",
+  "level": 3,
+  "title": "1.4. Éviter de couper inutilement les formes verbales"
+ },
+ {
+  "id": "1-5-éviter-les-synonymes-et-préciser-le-vocabulaire",
+  "level": 3,
+  "title": "1.5. Éviter les synonymes et préciser le vocabulaire"
+ },
+ {
+  "id": "attention",
+  "level": 5,
+  "title": " Attention !"
+ },
+ {
+  "id": "1-6-recours-à-la-féminisation-des-termes",
+  "level": 3,
+  "title": "1.6. Recours à la féminisation des termes"
+ },
+ {
+  "id": "attention-si-c-est-la-fonction-qui-est-visée-et-non-le-titul",
+  "level": 5,
+  "title": " Attention ! Si c’est la fonction qui est visée et non le titulaire, il faut écrire « le ministre » et non"
+ },
+ {
+  "id": "1-7-ponctuation",
+  "level": 3,
+  "title": "1.7. Ponctuation"
+ },
+ {
+  "id": "1-8-termes-à-employer-dans-la-rédaction-des-actes-normatifs",
+  "level": 3,
+  "title": "1.8. Termes à employer dans la rédaction des actes normatifs"
+ },
+ {
+  "id": "exemples-formules",
+  "level": 5,
+  "title": "Exemples Formules"
+ },
+ {
+  "id": "exemples-formules-2",
+  "level": 5,
+  "title": "Exemples Formules"
+ },
+ {
+  "id": "2-actes-normatifs-nationaux",
+  "level": 2,
+  "title": "2. Actes normatifs nationaux"
+ },
+ {
+  "id": "2-1-actes-autonomes-et-actes-modificatifs",
+  "level": 3,
+  "title": "2.1. Actes autonomes et actes modificatifs"
+ },
+ {
+  "id": "2-1-1-règles-applicables-aux-textes-autonomes-et-aux-textes-",
+  "level": 3,
+  "title": "2.1.1. Règles applicables aux textes autonomes et aux textes modificatifs"
+ },
+ {
+  "id": "2-1-2-agencement-des-dispositions",
+  "level": 3,
+  "title": "2.1.2. Agencement des dispositions"
+ },
+ {
+  "id": "attention-dans-les-projets-de-loi-les-propositions-de-loi-et",
+  "level": 5,
+  "title": " Attention ! Dans les projets de loi, les propositions de loi et les propositions de révision de la Constitution, il y a lieu de faire abstraction d’un préambule, contrairement aux projets de règlement ou d’arrêté, qui doivent obligatoirement être munis d’un préambule. Le préambule est seulement ajouté au même moment que la suscription et la formule de promulgation, c’est-à-dire avant la soumission de l’acte voté à la promulgation du"
+ },
+ {
+  "id": "2-1-3-règles-applicables-aux-textes-modificatifs4",
+  "level": 4,
+  "title": "2.1.3. Règles applicables aux textes modificatifs4"
+ },
+ {
+  "id": "chapitre-dispositions-modificatives",
+  "level": 5,
+  "title": "Chapitre […] – Dispositions modificatives"
+ },
+ {
+  "id": "chapitre-dispositions-modificative-s-et-abrogatoire-s",
+  "level": 5,
+  "title": "Chapitre […] – Dispositions modificative(s) et abrogatoire(s)"
+ },
+ {
+  "id": "chapitre-modification-de-la-loi-modifiée-du",
+  "level": 5,
+  "title": "Chapitre […] – Modification de la loi (modifiée) du (…)"
+ },
+ {
+  "id": "chapitre-modification-de-la-loi-modifiée-du-2",
+  "level": 5,
+  "title": "Chapitre […] – Modification de la loi (modifiée) du (…)"
+ },
+ {
+  "id": "2-2-structuration-de-l-acte-législatif5",
+  "level": 4,
+  "title": "2.2. Structuration de l’acte législatif5"
+ },
+ {
+  "id": "2-2-1-intitulé",
+  "level": 3,
+  "title": "2.2.1. Intitulé"
+ },
+ {
+  "id": "2-2-1-1-objet",
+  "level": 3,
+  "title": "2.2.1.1. Objet"
+ },
+ {
+  "id": "2-2-1-2-valeur-juridique",
+  "level": 3,
+  "title": "2.2.1.2. Valeur juridique"
+ },
+ {
+  "id": "2-2-1-3-publication-au-journal-officiel-du-grand-duché-de-lu",
+  "level": 3,
+  "title": "2.2.1.3. Publication au Journal officiel du Grand-Duché de Luxembourg"
+ },
+ {
+  "id": "2-2-1-4-formulation-de-l-intitulé",
+  "level": 3,
+  "title": "2.2.1.4. Formulation de l’intitulé"
+ },
+ {
+  "id": "loi-du-portant-modification",
+  "level": 5,
+  "title": "Loi du (…) portant modification :"
+ },
+ {
+  "id": "3",
+  "level": 5,
+  "title": "3° (…)"
+ },
+ {
+  "id": "loi-du-portant-dérogation-temporaire",
+  "level": 5,
+  "title": "Loi du (…) portant dérogation temporaire (…)"
+ },
+ {
+  "id": "loi-du-portant-modification-2",
+  "level": 5,
+  "title": "Loi du (…) portant modification :"
+ },
+ {
+  "id": "3-de-la-loi-modifiée-du",
+  "level": 5,
+  "title": "3° de la loi (modifiée) du (…)"
+ },
+ {
+  "id": "2-2-1-5-directives-européennes",
+  "level": 3,
+  "title": "2.2.1.5. Directives européennes"
+ },
+ {
+  "id": "projet-de-loi-portant-transposition-de-la-directive-ue-et-in",
+  "level": 5,
+  "title": "Projet de loi portant transposition de la directive (UE) (…) et introduction (…)"
+ },
+ {
+  "id": "projet-de-loi-portant-introduction",
+  "level": 5,
+  "title": "Projet de loi portant introduction (…)"
+ },
+ {
+  "id": "2-2-1-6-intitulé-de-citation",
+  "level": 3,
+  "title": "2.2.1.6. Intitulé de citation"
+ },
+ {
+  "id": "attention-2",
+  "level": 5,
+  "title": " Attention !"
+ },
+ {
+  "id": "étant-donné-que-cet-acte-n-existe-pas-de-manière-autonome-da",
+  "level": 5,
+  "title": "étant donné que cet acte n’existe pas de manière autonome dans l’ordre juridique interne, de sorte qu’aucune référence ne doit y être faite dans les autres textes normatifs. Il en va de même des actes qui ne posent aucune règle juridique, tels que"
+ },
+ {
+  "id": "2-2-1-7-citation-de-l-intitulé-dans-le-dispositif",
+  "level": 3,
+  "title": "2.2.1.7. Citation de l’intitulé dans le dispositif"
+ },
+ {
+  "id": "2-2-2-divisions-du-dispositif7",
+  "level": 4,
+  "title": "2.2.2. Divisions du dispositif7"
+ },
+ {
+  "id": "2-2-2-1-articles",
+  "level": 3,
+  "title": "2.2.2.1. Articles"
+ },
+ {
+  "id": "2-2-2-2-alinéas",
+  "level": 3,
+  "title": "2.2.2.2. Alinéas"
+ },
+ {
+  "id": "2-2-2-3-paragraphes",
+  "level": 3,
+  "title": "2.2.2.3. Paragraphes"
+ },
+ {
+  "id": "2-2-2-4-groupement-des-articles",
+  "level": 3,
+  "title": "2.2.2.4. Groupement des articles"
+ },
+ {
+  "id": "chapitre",
+  "level": 5,
+  "title": "Chapitre […] – (…)"
+ },
+ {
+  "id": "section",
+  "level": 5,
+  "title": "Section […] – (…)"
+ },
+ {
+  "id": "2-3-références",
+  "level": 3,
+  "title": "2.3. Références"
+ },
+ {
+  "id": "2-3-1-généralités",
+  "level": 3,
+  "title": "2.3.1. Généralités"
+ },
+ {
+  "id": "2-3-2-référence-à-des-actes-abrogés-et-modificatifs",
+  "level": 3,
+  "title": "2.3.2. Référence à des actes abrogés et modificatifs"
+ },
+ {
+  "id": "2-3-3-référence-à-un-acte-hiérarchiquement-inférieur",
+  "level": 3,
+  "title": "2.3.3. Référence à un acte hiérarchiquement inférieur"
+ },
+ {
+  "id": "2-3-4-référence-à-des-divisions-successives-du-dispositif",
+  "level": 3,
+  "title": "2.3.4. Référence à des divisions successives du dispositif"
+ },
+ {
+  "id": "2-3-5-référence-à-des-traités-internationaux",
+  "level": 3,
+  "title": "2.3.5. Référence à des traités internationaux"
+ },
+ {
+  "id": "loi-du-portant-approbation-de-la-convention-de-rome",
+  "level": 5,
+  "title": "Loi du (…) portant approbation de la Convention de Rome"
+ },
+ {
+  "id": "faite-à-rome-le",
+  "level": 5,
+  "title": "faite à Rome, le (…)"
+ },
+ {
+  "id": "2-3-6-référence-aux-règlements-européens-et-aux-directives-e",
+  "level": 3,
+  "title": "2.3.6. Référence aux règlements européens et aux directives européennes"
+ },
+ {
+  "id": "2-4-dispositions-modificatives-abrogatoires-et-transitoires",
+  "level": 3,
+  "title": "2.4. Dispositions modificatives, abrogatoires et transitoires"
+ },
+ {
+  "id": "2-4-1-modification-d-une-disposition-législative-existante",
+  "level": 3,
+  "title": "2.4.1. Modification d’une disposition législative existante"
+ },
+ {
+  "id": "attention-l-abrogation-partielle-d-un-acte-normatif-est-à-co",
+  "level": 5,
+  "title": " Attention ! L’abrogation partielle d’un acte normatif est à considérer comme une disposition modificative. Elle n’a donc pas sa place dans un article ou un groupement d’articles"
+ },
+ {
+  "id": "projet-de-loi-portant-modification-de-la-loi-du-portant-modi",
+  "level": 5,
+  "title": "Projet de loi portant modification de la loi du (…) portant modification (…)"
+ },
+ {
+  "id": "projet-de-loi-portant-modification-de-la-loi-modifiée-du-loi",
+  "level": 5,
+  "title": "Projet de loi portant modification de la loi (modifiée) du (…) → loi de base"
+ },
+ {
+  "id": "attention-il-faut-absolument-éviter-d-insérer-la-date-d-entr",
+  "level": 5,
+  "title": " Attention ! Il faut absolument éviter d’insérer la date d’entrée en vigueur de l’acte modificatif dans l’acte à modifier ou de remplacer la date d’entrée en vigueur de l’acte à modifier par"
+ },
+ {
+  "id": "2-4-2-abrogation-d-une-disposition-légale-existante",
+  "level": 3,
+  "title": "2.4.2. Abrogation d’une disposition légale existante"
+ },
+ {
+  "id": "attention-3",
+  "level": 5,
+  "title": " Attention !"
+ },
+ {
+  "id": "attention-si-un-texte-vise-à-remplacer-entièrement-le-dispos",
+  "level": 5,
+  "title": " Attention ! Si un texte vise à remplacer entièrement le dispositif d’un acte, il doit être présenté"
+ },
+ {
+  "id": "2-4-3-parallélisme-des-formes",
+  "level": 3,
+  "title": "2.4.3. Parallélisme des formes"
+ },
+ {
+  "id": "attention-la-modification-de-l-intitulé-d-un-projet-de-loi-d",
+  "level": 5,
+  "title": " Attention ! La modification de l’intitulé d’un projet de loi, d’une proposition de loi ou d’une proposition de révision de la Constitution ne constitue pas un amendement, étant"
+ },
+ {
+  "id": "2-4-5-introduction-de-mesures-transitoires",
+  "level": 3,
+  "title": "2.4.5. Introduction de mesures transitoires"
+ },
+ {
+  "id": "2-5-disposition-fixant-l-entrée-en-vigueur",
+  "level": 3,
+  "title": "2.5. Disposition fixant l’entrée en vigueur"
+ },
+ {
+  "id": "3-actes-normatifs-internationaux",
+  "level": 2,
+  "title": "3. Actes normatifs internationaux"
+ },
+ {
+  "id": "3-1-approbation-des-traités",
+  "level": 3,
+  "title": "3.1. Approbation des traités"
+ },
+ {
+  "id": "3-1-1-généralités",
+  "level": 3,
+  "title": "3.1.1. Généralités"
+ },
+ {
+  "id": "attention-les-protocoles-actes-accessoires-et-annexes-d-un-t",
+  "level": 5,
+  "title": " Attention ! Les protocoles, actes accessoires et annexes d’un traité sont à mentionner dans la loi au même titre que le traité à approuver, sauf si une disposition du traité énonce qu’ils font partie intégrante. Dans ce cas, un assentiment exprès de ces documents n’est"
+ },
+ {
+  "id": "3-1-2-réserves-au-traité",
+  "level": 3,
+  "title": "3.1.2. Réserves au traité"
+ },
+ {
+  "id": "3-1-3-contenu-de-la-loi-d-approbation",
+  "level": 3,
+  "title": "3.1.3. Contenu de la loi d’approbation"
+ },
+ {
+  "id": "attention-l-approbation-d-un-traité-n-a-pas-sa-place-dans-le",
+  "level": 5,
+  "title": " Attention ! L’approbation d’un traité n’a pas sa place dans le dispositif d’une loi comportant un cadre de règles autonomes, bien que celles-ci soient en relation avec la matière faisant"
+ },
+ {
+  "id": "3-1-4-langue",
+  "level": 3,
+  "title": "3.1.4. Langue"
+ },
+ {
+  "id": "3-1-5-abrogation-ou-remplacement-d-un-traité",
+  "level": 3,
+  "title": "3.1.5. Abrogation ou remplacement d’un traité"
+ },
+ {
+  "id": "3-2-transposition-des-directives",
+  "level": 3,
+  "title": "3.2. Transposition des directives"
+ },
+ {
+  "id": "4-coordination-et-codification13",
+  "level": 2,
+  "title": "4. Coordination et codification13"
+ },
+ {
+  "id": "4-1-coordination",
+  "level": 3,
+  "title": "4.1. Coordination"
+ },
+ {
+  "id": "attention-si-le-nombre-de-modifications-projetées-est-d-une-",
+  "level": 5,
+  "title": " Attention ! Si le nombre de modifications projetées est d’une envergure ou d’une complexité telle qu’une coordination serait indiquée, il est recommandé de remplacer l’acte originel"
+ },
+ {
+  "id": "4-2-codification",
+  "level": 3,
+  "title": "4.2. Codification"
+ },
+ {
+  "id": "attention-bien-que-le-texte-codifié-du-fait-qu-il-ait-parcou",
+  "level": 5,
+  "title": " Attention ! Bien que le texte codifié, du fait qu’il ait parcouru la procédure législative ou réglementaire (pour la partie réglementaire), remplace les textes y intégrés et constitue partant l’acte originel pour les modifications ultérieures, il est indiqué"
+ },
+ {
+  "id": "5-principales-règles-typographiques-et-légistiques-applicabl",
+  "level": 2,
+  "title": "5. Principales règles typographiques et légistiques applicables à la rédaction des textes législatifs14"
+ },
+ {
+  "id": "5-1-intitulé",
+  "level": 3,
+  "title": "5.1. Intitulé"
+ },
+ {
+  "id": "projet-de-loi-portant",
+  "level": 5,
+  "title": "Projet de loi portant :"
+ },
+ {
+  "id": "projet-de-loi-portant-introduction-et-modification",
+  "level": 5,
+  "title": "Projet de loi portant introduction (…) et modification :"
+ },
+ {
+  "id": "2-de-la-loi-modifiée-du",
+  "level": 5,
+  "title": "2° de la loi (modifiée) du (…)"
+ },
+ {
+  "id": "projet-de-loi-proposition-de-loi",
+  "level": 5,
+  "title": "PROJET DE LOI (…) / PROPOSITION DE LOI (…)"
+ },
+ {
+  "id": "projet-de-loi-proposition-de-loi-2",
+  "level": 5,
+  "title": "Projet de loi (…) / Proposition de loi (…)"
+ },
+ {
+  "id": "5-2-articles",
+  "level": 3,
+  "title": "5.2. Articles"
+ },
+ {
+  "id": "attention-la-numérotation-des-articles-d-un-acte-autonome-ou",
+  "level": 5,
+  "title": " Attention ! La numérotation des articles d’un acte autonome ou modificatif ne peut pas comporter des articles suivis du qualificatif bis, ter, etc. ou indexés [Art. XY-Z.]. Ce mode de numérotation est réservé aux articles insérés ultérieurement dans les actes"
+ },
+ {
+  "id": "5-3-paragraphes",
+  "level": 3,
+  "title": "5.3. Paragraphes"
+ },
+ {
+  "id": "art-2-intitulé",
+  "level": 5,
+  "title": "Art. 2. (Intitulé)"
+ },
+ {
+  "id": "5-4-énumérations",
+  "level": 3,
+  "title": "5.4. Énumérations"
+ },
+ {
+  "id": "attention-4",
+  "level": 5,
+  "title": " Attention !"
+ },
+ {
+  "id": "5-5-groupement-des-articles",
+  "level": 3,
+  "title": "5.5. Groupement des articles"
+ },
+ {
+  "id": "chapitre-2",
+  "level": 5,
+  "title": "Chapitre […] – (…)"
+ },
+ {
+  "id": "chapitre-3",
+  "level": 5,
+  "title": "Chapitre […] – (…)"
+ },
+ {
+  "id": "section-sous-section",
+  "level": 5,
+  "title": "Section […] – (…) Sous-section […] – (…)"
+ },
+ {
+  "id": "chapitre-champ-d-application",
+  "level": 5,
+  "title": "CHAPITRE […] – CHAMP D’APPLICATION"
+ },
+ {
+  "id": "chapitre-champ-d-application-2",
+  "level": 5,
+  "title": "Chapitre […] – Champ d’application"
+ },
+ {
+  "id": "chapitre-ier",
+  "level": 5,
+  "title": "Chapitre Ier – (…)"
+ },
+ {
+  "id": "chapitre-1er",
+  "level": 5,
+  "title": "Chapitre 1er – (…)"
+ },
+ {
+  "id": "section-1re-sous-section-1re",
+  "level": 5,
+  "title": "Section 1re – (…) Sous-section 1re – (…)"
+ },
+ {
+  "id": "chapitre-bis",
+  "level": 5,
+  "title": "Chapitre […]bis. – (…)"
+ },
+ {
+  "id": "chapitre-1er-2",
+  "level": 5,
+  "title": "Chapitre 1er – (…)"
+ },
+ {
+  "id": "section-1re-paragraphe-1er",
+  "level": 5,
+  "title": "Section 1re – (…) Paragraphe 1er– (…)"
+ },
+ {
+  "id": "5-6-nombres",
+  "level": 3,
+  "title": "5.6. Nombres"
+ },
+ {
+  "id": "attention-5",
+  "level": 5,
+  "title": " Attention !"
+ },
+ {
+  "id": "attention-il-est-recommandé-de-faire-abstraction-dans-les-te",
+  "level": 5,
+  "title": " Attention ! Il est recommandé de faire abstraction dans les textes normatifs de sigles ou d’acronymes, à moins qu’ils soient consacrés par des actes nationaux, européens ou internationaux. Dans ce cas, il faut toutefois indiquer à l’endroit de la première citation la dénomination exacte, suivie de son sigle ou acronyme placé entre parenthèses"
+ },
+ {
+  "id": "5-8-emploi-des-majuscules-et-minuscules",
+  "level": 3,
+  "title": "5.8. Emploi des majuscules et minuscules"
+ },
+ {
+  "id": "5-9-locutions-latines-et-qualificatifs-latins",
+  "level": 3,
+  "title": "5.9. Locutions latines et qualificatifs latins"
+ },
+ {
+  "id": "5-10-guillemets",
+  "level": 3,
+  "title": "5.10. Guillemets"
+ },
+ {
+  "id": "5-11-références",
+  "level": 3,
+  "title": "5.11. Références"
+ },
+ {
+  "id": "5-12-remplacement-d-un-texte",
+  "level": 3,
+  "title": "5.12. Remplacement d’un texte"
+ },
+ {
+  "id": "attention-il-ne-faut-pas-écrire",
+  "level": 5,
+  "title": " Attention ! Il ne faut pas écrire :"
+ },
+ {
+  "id": "les-districts-sont-abolis-l-article-de-la-loi-est-remplacé-p",
+  "level": 5,
+  "title": "Les districts sont abolis. L’article […] de la loi (…) est remplacé par le texte suivant :"
+ },
+ {
+  "id": "section-2",
+  "level": 5,
+  "title": "( … ). »"
+ },
+ {
+  "id": "5-13-abrogation-d-un-texte",
+  "level": 3,
+  "title": "5.13. Abrogation d’un texte"
+ },
+ {
+  "id": "par-souci-de-lisibilité-il-est-recommandé-d-écrire-au-point-",
+  "level": 5,
+  "title": " Par souci de lisibilité, il est recommandé d’écrire au point 2° :"
+ },
+ {
+  "id": "5-14-annexes",
+  "level": 3,
+  "title": "5.14. Annexes"
+ },
+ {
+  "id": "annexe-ii",
+  "level": 5,
+  "title": "« Annexe II – (…)"
+ },
+ {
+  "id": "annexes-annexes-a-annexe-i",
+  "level": 5,
+  "title": "Annexes Annexes A « Annexe I – (…)"
+ },
+ {
+  "id": "annexe-b-annexe-ii",
+  "level": 5,
+  "title": "Annexe B « Annexe II – (…)"
+ },
+ {
+  "id": "5-15-codification",
+  "level": 3,
+  "title": "5.15. Codification"
+ },
+ {
+  "id": "5-16-procédé-de-dénumérotation",
+  "level": 3,
+  "title": "5.16. Procédé de « dénumérotation »"
+ },
+ {
+  "id": "5-17-amendements",
+  "level": 3,
+  "title": "5.17. Amendements"
+ },
+ {
+  "id": "amendement-n-1-concernant-l-article-1er",
+  "level": 5,
+  "title": "Amendement n° 1 concernant l’article 1er"
+ },
+ {
+  "id": "amendement-n-2-concernant-l-article-4",
+  "level": 5,
+  "title": "Amendement n°2 concernant l’article 4"
+ }
+]

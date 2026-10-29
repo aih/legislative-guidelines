@@ -1,0 +1,797 @@
+[
+ {
+  "id": "____________________________________________________________",
+  "level": 2,
+  "title": "______________________________________________________________ Uniform Law Commission ______________________________________________________________ Drafting Rules and Style Manual"
+ },
+ {
+  "id": "drafting-rules-and-style-manual-table-of-contents",
+  "level": 3,
+  "title": "Drafting Rules and Style Manual Table of Contents"
+ },
+ {
+  "id": "part-1-structure-and-format-of-act-subpart-a-text-of-act",
+  "level": 3,
+  "title": "Part 1 Structure and Format of Act Subpart A: Text of Act"
+ },
+ {
+  "id": "subpart-b-prefatory-note-and-comments",
+  "level": 3,
+  "title": "Subpart B: Prefatory Note and Comments"
+ },
+ {
+  "id": "part-2-internal-and-external-references",
+  "level": 3,
+  "title": "Part 2 Internal and External References"
+ },
+ {
+  "id": "part-3-definitions-and-standard-provisions",
+  "level": 3,
+  "title": "Part 3 Definitions and Standard Provisions"
+ },
+ {
+  "id": "part-4-concluding-provisions",
+  "level": 3,
+  "title": "Part 4 Concluding Provisions"
+ },
+ {
+  "id": "part-5-optional-provisions",
+  "level": 3,
+  "title": "Part 5 Optional Provisions"
+ },
+ {
+  "id": "part-6-problematic-provisions",
+  "level": 3,
+  "title": "Part 6 Problematic Provisions"
+ },
+ {
+  "id": "part-7-grammar",
+  "level": 3,
+  "title": "Part 7 Grammar"
+ },
+ {
+  "id": "part-8-words-phrases-numbers",
+  "level": 3,
+  "title": "Part 8 Words, Phrases, Numbers"
+ },
+ {
+  "id": "appendix-a-words-and-phrases",
+  "level": 3,
+  "title": "Appendix A Words and Phrases"
+ },
+ {
+  "id": "appendix-b",
+  "level": 3,
+  "title": "Appendix B"
+ },
+ {
+  "id": "appendix-c",
+  "level": 3,
+  "title": "Appendix C"
+ },
+ {
+  "id": "appendix-d",
+  "level": 3,
+  "title": "Appendix D"
+ },
+ {
+  "id": "drafting-rules-and-style-manual-introduction",
+  "level": 3,
+  "title": "Drafting Rules and Style Manual Introduction"
+ },
+ {
+  "id": "overview-of-drafting-process",
+  "level": 3,
+  "title": "Overview of Drafting Process"
+ },
+ {
+  "id": "part-1-structure-and-format-of-act-subpart-a-text-of-act-rul",
+  "level": 3,
+  "title": "Part 1 Structure and Format of Act Subpart A: Text of Act Rule 101. Arrangement of Provisions of Act"
+ },
+ {
+  "id": "rule-102-title-of-act",
+  "level": 3,
+  "title": "Rule 102. Title of Act"
+ },
+ {
+  "id": "rule-103-arrangement-of-definitions",
+  "level": 3,
+  "title": "Rule 103. Arrangement of Definitions"
+ },
+ {
+  "id": "section-2-definitions",
+  "level": 3,
+  "title": "Section 2. Definitions"
+ },
+ {
+  "id": "section-2-definition",
+  "level": 3,
+  "title": "Section 2. Definition"
+ },
+ {
+  "id": "section-201-definitions",
+  "level": 3,
+  "title": "Section 201. Definitions"
+ },
+ {
+  "id": "section-201-definition",
+  "level": 3,
+  "title": "Section 201. Definition"
+ },
+ {
+  "id": "section-7-enforcement",
+  "level": 3,
+  "title": "Section 7. Enforcement"
+ },
+ {
+  "id": "section-7-enforcement-2",
+  "level": 3,
+  "title": "Section 7. Enforcement"
+ },
+ {
+  "id": "rule-104-sections-and-subdivisions-of-sections",
+  "level": 3,
+  "title": "Rule 104. Sections and Subdivisions of Sections"
+ },
+ {
+  "id": "section-10-rights-of-beneficiary-and-creditor",
+  "level": 3,
+  "title": "Section 10. Rights of Beneficiary and Creditor"
+ },
+ {
+  "id": "section-12-delivery-of-a-document-of-gift-is-not-required",
+  "level": 3,
+  "title": "Section 12. Delivery of a Document of Gift Is Not Required"
+ },
+ {
+  "id": "section-12-delivery-of-document-of-gift-not-required",
+  "level": 3,
+  "title": "Section 12. Delivery of Document of Gift Not Required"
+ },
+ {
+  "id": "rule-105-designation-of-subdivisions-of-section",
+  "level": 3,
+  "title": "Rule 105. Designation of Subdivisions of Section"
+ },
+ {
+  "id": "rule-106-series-and-tabulations",
+  "level": 3,
+  "title": "Rule 106. Series and Tabulations"
+ },
+ {
+  "id": "rule-107-amending-existing-act",
+  "level": 3,
+  "title": "Rule 107. Amending Existing Act"
+ },
+ {
+  "id": "section-5-exclusions",
+  "level": 3,
+  "title": "Section 5. Exclusions"
+ },
+ {
+  "id": "section-12-notice",
+  "level": 3,
+  "title": "Section 12. Notice"
+ },
+ {
+  "id": "rule-108-conforming-other-state-law-with-act",
+  "level": 3,
+  "title": "Rule 108. Conforming Other State Law with Act"
+ },
+ {
+  "id": "subpart-b-prefatory-note-and-comments-rule-121-purpose-and-c",
+  "level": 3,
+  "title": "Subpart B: Prefatory Note and Comments Rule 121. Purpose and Content"
+ },
+ {
+  "id": "rule-122-style",
+  "level": 3,
+  "title": "Rule 122. Style"
+ },
+ {
+  "id": "rule-123-process",
+  "level": 3,
+  "title": "Rule 123. Process"
+ },
+ {
+  "id": "part-2-internal-and-external-references-rule-201-cross-refer",
+  "level": 3,
+  "title": "Part 2 Internal and External References Rule 201. Cross-References"
+ },
+ {
+  "id": "rule-202-limitations-and-qualifications",
+  "level": 3,
+  "title": "Rule 202. Limitations and Qualifications"
+ },
+ {
+  "id": "rule-203-reference-within-same-section",
+  "level": 3,
+  "title": "Rule 203. Reference Within Same Section"
+ },
+ {
+  "id": "section-3-scope",
+  "level": 3,
+  "title": "Section 3. Scope"
+ },
+ {
+  "id": "section-3-scope-2",
+  "level": 3,
+  "title": "Section 3. Scope"
+ },
+ {
+  "id": "section-3-scope-3",
+  "level": 3,
+  "title": "Section 3. Scope"
+ },
+ {
+  "id": "section-3-scope-4",
+  "level": 3,
+  "title": "Section 3. Scope"
+ },
+ {
+  "id": "rule-204-reference-to-another-section",
+  "level": 3,
+  "title": "Rule 204. Reference to Another Section"
+ },
+ {
+  "id": "rule-205-reference-to-another-uniform-act",
+  "level": 3,
+  "title": "Rule 205. Reference to Another Uniform Act"
+ },
+ {
+  "id": "rule-206-reference-to-other-state-law",
+  "level": 3,
+  "title": "Rule 206. Reference to Other State Law"
+ },
+ {
+  "id": "rule-207-reference-to-federal-law",
+  "level": 3,
+  "title": "Rule 207. Reference to Federal Law"
+ },
+ {
+  "id": "rule-208-reference-to-united-states-treaty-or-other-internat",
+  "level": 3,
+  "title": "Rule 208. Reference to United States Treaty or Other International Agreement"
+ },
+ {
+  "id": "part-3-definitions-and-standard-provisions-rule-301-drafting",
+  "level": 3,
+  "title": "Part 3 Definitions and Standard Provisions Rule 301. Drafting Definitions"
+ },
+ {
+  "id": "rule-302-use-of-definitions",
+  "level": 3,
+  "title": "Rule 302. Use of Definitions"
+ },
+ {
+  "id": "rule-303-electronic-record-sign",
+  "level": 3,
+  "title": "Rule 303. “Electronic”, “Record”, “Sign”"
+ },
+ {
+  "id": "rule-304-person",
+  "level": 3,
+  "title": "Rule 304. “Person”"
+ },
+ {
+  "id": "rule-305-state-political-subdivision",
+  "level": 3,
+  "title": "Rule 305. “State”, “Political Subdivision”"
+ },
+ {
+  "id": "rule-306-scope",
+  "level": 3,
+  "title": "Rule 306. Scope"
+ },
+ {
+  "id": "section-3-scope-5",
+  "level": 3,
+  "title": "Section 3. Scope"
+ },
+ {
+  "id": "rule-307-governing-law",
+  "level": 3,
+  "title": "Rule 307. Governing Law"
+ },
+ {
+  "id": "rule-308-notice",
+  "level": 3,
+  "title": "Rule 308. Notice"
+ },
+ {
+  "id": "for-personal-service",
+  "level": 3,
+  "title": "For personal service"
+ },
+ {
+  "id": "for-mail-or-delivery",
+  "level": 3,
+  "title": "For mail or delivery"
+ },
+ {
+  "id": "delivery-by-any-method-reasonably-calculated-to-provide-noti",
+  "level": 3,
+  "title": "Delivery by any method reasonably calculated to provide notice"
+ },
+ {
+  "id": "ineffectiveness-of-a-good-faith-effort-to-deliver-notice",
+  "level": 3,
+  "title": "Ineffectiveness of a good faith effort to deliver notice"
+ },
+ {
+  "id": "notice-effective-even-if-not-received",
+  "level": 3,
+  "title": "Notice effective even if not received"
+ },
+ {
+  "id": "rule-309-provisions-relating-to-litigation",
+  "level": 3,
+  "title": "Rule 309. Provisions Relating to Litigation"
+ },
+ {
+  "id": "section-15-statute-of-limitations",
+  "level": 3,
+  "title": "[Section 15. Statute of Limitations]"
+ },
+ {
+  "id": "section-15-remedies",
+  "level": 3,
+  "title": "Section 15. Remedies"
+ },
+ {
+  "id": "section-6-limitation-of-liability",
+  "level": 3,
+  "title": "Section 6. Limitation of Liability"
+ },
+ {
+  "id": "rule-310-administrative-law-considerations",
+  "level": 3,
+  "title": "Rule 310. Administrative Law Considerations"
+ },
+ {
+  "id": "section-8-rulemaking-authority",
+  "level": 3,
+  "title": "[Section 8. Rulemaking Authority]"
+ },
+ {
+  "id": "section-8-rulemaking-authority-2",
+  "level": 3,
+  "title": "Section 8. Rulemaking Authority"
+ },
+ {
+  "id": "section-9-enforcement",
+  "level": 3,
+  "title": "Section 9. Enforcement"
+ },
+ {
+  "id": "section-10-adjudication-in-contested-case",
+  "level": 3,
+  "title": "[Section 10. Adjudication in [Contested Case]]"
+ },
+ {
+  "id": "part-4-concluding-provisions-rule-401-uniformity-of-applicat",
+  "level": 3,
+  "title": "Part 4 Concluding Provisions Rule 401. Uniformity of Application and Construction"
+ },
+ {
+  "id": "section-10-uniformity-of-application-and-construction",
+  "level": 3,
+  "title": "Section 10. Uniformity of Application and Construction"
+ },
+ {
+  "id": "section-10-consistency-of-application-and-construction",
+  "level": 3,
+  "title": "Section 10. Consistency of Application and Construction"
+ },
+ {
+  "id": "rule-402-electronic-records-and-signatures",
+  "level": 3,
+  "title": "Rule 402. Electronic Records and Signatures"
+ },
+ {
+  "id": "section-11-relation-to-electronic-signatures-in-global-and-n",
+  "level": 3,
+  "title": "Section 11. Relation to Electronic Signatures in Global and National Commerce Act"
+ },
+ {
+  "id": "rule-403-saving-provision-transitional-provision",
+  "level": 3,
+  "title": "Rule 403. Saving Provision, Transitional Provision"
+ },
+ {
+  "id": "section-29-saving-provision",
+  "level": 3,
+  "title": "Section 29. Saving Provision"
+ },
+ {
+  "id": "section-29-transitional-provision",
+  "level": 3,
+  "title": "Section 29. Transitional Provision"
+ },
+ {
+  "id": "section-29-transitional-provision-2",
+  "level": 3,
+  "title": "Section 29. Transitional Provision"
+ },
+ {
+  "id": "section-29-transitional-provision-3",
+  "level": 3,
+  "title": "Section 29. Transitional Provision"
+ },
+ {
+  "id": "rule-404-severability",
+  "level": 3,
+  "title": "Rule 404. Severability"
+ },
+ {
+  "id": "section-11-severability",
+  "level": 3,
+  "title": "[Section 11. Severability]"
+ },
+ {
+  "id": "rule-405-repeals-and-conforming-amendments",
+  "level": 3,
+  "title": "Rule 405. Repeals and Conforming Amendments"
+ },
+ {
+  "id": "section-12-repeals-conforming-amendments",
+  "level": 3,
+  "title": "[Section 12. Repeals; Conforming Amendments]"
+ },
+ {
+  "id": "rule-406-effective-date",
+  "level": 3,
+  "title": "Rule 406. Effective Date"
+ },
+ {
+  "id": "section-13-effective-date",
+  "level": 3,
+  "title": "Section 13. Effective Date"
+ },
+ {
+  "id": "part-5-optional-provisions-rule-501-use-of-brackets-and-brac",
+  "level": 3,
+  "title": "Part 5 Optional Provisions Rule 501. Use of Brackets and Braces"
+ },
+ {
+  "id": "rule-502-legislative-notes",
+  "level": 3,
+  "title": "Rule 502. Legislative Notes"
+ },
+ {
+  "id": "rule-503-alternative-provisions",
+  "level": 3,
+  "title": "Rule 503. Alternative Provisions"
+ },
+ {
+  "id": "alternative-a",
+  "level": 3,
+  "title": "Alternative A"
+ },
+ {
+  "id": "alternative-b",
+  "level": 3,
+  "title": "Alternative B"
+ },
+ {
+  "id": "end-of-alternatives",
+  "level": 3,
+  "title": "End of Alternatives"
+ },
+ {
+  "id": "part-6-problematic-provisions-rule-601-purpose-clause",
+  "level": 3,
+  "title": "Part 6 Problematic Provisions Rule 601. Purpose Clause"
+ },
+ {
+  "id": "rule-602-provision-duplicating-general-law",
+  "level": 3,
+  "title": "Rule 602. Provision Duplicating General Law"
+ },
+ {
+  "id": "rule-603-creation-of-agency",
+  "level": 3,
+  "title": "Rule 603. Creation of Agency"
+ },
+ {
+  "id": "rule-604-criminal-conduct",
+  "level": 3,
+  "title": "Rule 604. Criminal Conduct"
+ },
+ {
+  "id": "section-14-penalty",
+  "level": 3,
+  "title": "Section 14. Penalty"
+ },
+ {
+  "id": "rule-605-enforcement-of-foreign-judgment",
+  "level": 3,
+  "title": "Rule 605. Enforcement of Foreign Judgment"
+ },
+ {
+  "id": "rule-606-graphics",
+  "level": 3,
+  "title": "Rule 606. Graphics"
+ },
+ {
+  "id": "rule-607-forms",
+  "level": 3,
+  "title": "Rule 607. Forms"
+ },
+ {
+  "id": "part-7-grammar-rule-701-sentence-structure",
+  "level": 3,
+  "title": "Part 7 Grammar Rule 701. Sentence Structure"
+ },
+ {
+  "id": "rule-702-subject-of-sentence",
+  "level": 3,
+  "title": "Rule 702. Subject of Sentence"
+ },
+ {
+  "id": "rule-703-tense-mood-number-voice",
+  "level": 3,
+  "title": "Rule 703. Tense, Mood, Number, Voice"
+ },
+ {
+  "id": "rule-704-gender",
+  "level": 3,
+  "title": "Rule 704. Gender"
+ },
+ {
+  "id": "rule-705-consistency",
+  "level": 3,
+  "title": "Rule 705. Consistency"
+ },
+ {
+  "id": "rule-706-brevity",
+  "level": 3,
+  "title": "Rule 706. Brevity"
+ },
+ {
+  "id": "rule-707-punctuation",
+  "level": 3,
+  "title": "Rule 707. Punctuation"
+ },
+ {
+  "id": "rule-708-capitalization",
+  "level": 3,
+  "title": "Rule 708. Capitalization"
+ },
+ {
+  "id": "rule-709-hyphenation",
+  "level": 3,
+  "title": "Rule 709. Hyphenation"
+ },
+ {
+  "id": "rule-710-subject-verb-agreement",
+  "level": 3,
+  "title": "Rule 710. Subject-verb agreement"
+ },
+ {
+  "id": "part-8-words-phrases-numbers-rule-801-choice-of-words-and-ph",
+  "level": 3,
+  "title": "Part 8 Words, Phrases, Numbers Rule 801. Choice of Words and Phrases"
+ },
+ {
+  "id": "rule-802-specific-words-and-phrases",
+  "level": 3,
+  "title": "Rule 802. Specific Words and Phrases"
+ },
+ {
+  "id": "rule-803-shall-must-may-can-might-should",
+  "level": 3,
+  "title": "Rule 803. “Shall”, “Must”, “May”, “Can”, “Might”, “Should”"
+ },
+ {
+  "id": "rule-804-which-that",
+  "level": 3,
+  "title": "Rule 804. “Which”, “That”"
+ },
+ {
+  "id": "rule-805-pronouns",
+  "level": 3,
+  "title": "Rule 805. Pronouns"
+ },
+ {
+  "id": "rule-806-time-age",
+  "level": 3,
+  "title": "Rule 806. Time, Age"
+ },
+ {
+  "id": "rule-807-numbers",
+  "level": 3,
+  "title": "Rule 807. Numbers"
+ },
+ {
+  "id": "appendix-a-words-and-phrases-do-not-use-legalese",
+  "level": 3,
+  "title": "Appendix A Words and Phrases Do Not Use Legalese"
+ },
+ {
+  "id": "use-simple-words-and-phrases",
+  "level": 3,
+  "title": "Use Simple Words and Phrases"
+ },
+ {
+  "id": "do-not-use-consider",
+  "level": 3,
+  "title": "Do not use Consider"
+ },
+ {
+  "id": "do-not-use-consider-2",
+  "level": 3,
+  "title": "Do not use Consider"
+ },
+ {
+  "id": "do-not-use-consider-3",
+  "level": 3,
+  "title": "Do not use Consider"
+ },
+ {
+  "id": "do-not-use-consider-4",
+  "level": 3,
+  "title": "Do not use Consider"
+ },
+ {
+  "id": "do-not-use-consider-5",
+  "level": 3,
+  "title": "Do not use Consider"
+ },
+ {
+  "id": "appendix-b-rules-for-formatting",
+  "level": 3,
+  "title": "Appendix B Rules for Formatting"
+ },
+ {
+  "id": "appendix-c-example-of-format-uniform-electronic-wills-act",
+  "level": 3,
+  "title": "Appendix C Example of Format Uniform Electronic Wills Act"
+ },
+ {
+  "id": "section-1-title",
+  "level": 3,
+  "title": "Section 1. Title"
+ },
+ {
+  "id": "section-2-definitions-2",
+  "level": 3,
+  "title": "Section 2. Definitions"
+ },
+ {
+  "id": "section-3-law-applicable-to-electronic-will-principles-of-eq",
+  "level": 3,
+  "title": "Section 3. Law Applicable to Electronic Will; Principles of Equity"
+ },
+ {
+  "id": "section",
+  "level": 3,
+  "title": "* * *"
+ },
+ {
+  "id": "section-5-electronic-execution-of-electronic-will",
+  "level": 3,
+  "title": "Section 5. Electronic Execution of Electronic Will"
+ },
+ {
+  "id": "section-6-harmless-error-alternative-a",
+  "level": 3,
+  "title": "Section 6. Harmless Error Alternative A"
+ },
+ {
+  "id": "alternative-b-2",
+  "level": 3,
+  "title": "Alternative B"
+ },
+ {
+  "id": "end-of-alternatives-2",
+  "level": 3,
+  "title": "End of Alternatives"
+ },
+ {
+  "id": "section-2",
+  "level": 3,
+  "title": "* * *"
+ },
+ {
+  "id": "section-10-uniformity-of-application-and-construction-2",
+  "level": 3,
+  "title": "Section 10. Uniformity of Application and Construction"
+ },
+ {
+  "id": "section-11-transitional-provision",
+  "level": 3,
+  "title": "Section 11. Transitional Provision"
+ },
+ {
+  "id": "section-12-effective-date",
+  "level": 3,
+  "title": "Section 12. Effective Date"
+ },
+ {
+  "id": "appendix-d-template-of-uniform-or-model-act",
+  "level": 3,
+  "title": "Appendix D Template of Uniform or Model Act"
+ },
+ {
+  "id": "title-of-act",
+  "level": 3,
+  "title": "{Title of Act}"
+ },
+ {
+  "id": "section-1-title-2",
+  "level": 3,
+  "title": "Section 1. Title"
+ },
+ {
+  "id": "section-2-definitions-3",
+  "level": 3,
+  "title": "Section 2. Definitions"
+ },
+ {
+  "id": "comment",
+  "level": 3,
+  "title": "{Comment"
+ },
+ {
+  "id": "section-3-insert-section-heading-e-g-scope",
+  "level": 3,
+  "title": "Section 3. {Insert section heading, e.g., Scope}"
+ },
+ {
+  "id": "for-a-uniform-act-see-rule-401",
+  "level": 3,
+  "title": "For a Uniform Act (See Rule 401)"
+ },
+ {
+  "id": "section-4-uniformity-of-application-and-construction",
+  "level": 3,
+  "title": "Section 4. Uniformity of Application and Construction"
+ },
+ {
+  "id": "for-a-model-act-see-rule-401",
+  "level": 3,
+  "title": "For a Model Act (See Rule 401)"
+ },
+ {
+  "id": "section-4-consistency-of-application-and-construction",
+  "level": 3,
+  "title": "Section 4. Consistency of Application and Construction"
+ },
+ {
+  "id": "section-5-relation-to-electronic-signatures-in-global-and-na",
+  "level": 3,
+  "title": "Section 5. Relation to Electronic Signatures in Global and National Commerce Act"
+ },
+ {
+  "id": "section-6-saving-provision",
+  "level": 3,
+  "title": "Section 6. {Saving Provision"
+ },
+ {
+  "id": "section-7-transitional-provision",
+  "level": 3,
+  "title": "Section 7. {Transitional Provision"
+ },
+ {
+  "id": "section-8-severability",
+  "level": 3,
+  "title": "[Section 8. Severability]"
+ },
+ {
+  "id": "section-9-repeals-conforming-amendments",
+  "level": 3,
+  "title": "[Section 9. Repeals; Conforming Amendments]"
+ },
+ {
+  "id": "section-10-effective-date",
+  "level": 3,
+  "title": "Section 10. Effective Date"
+ },
+ {
+  "id": "index",
+  "level": 3,
+  "title": "INDEX"
+ }
+]

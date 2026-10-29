@@ -33,14 +33,14 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Install converters
+      - name: Install dependencies
         run: |
-          sudo apt-get update
-          sudo apt-get install -y --no-install-recommends pandoc libreoffice-writer
           pip install -r requirements.txt
-      - name: Fetch documents not yet stored in the repository
-        run: python scripts/fetch.py
-      - name: Convert documents to HTML
+      - name: Validate catalog schema
+        run: python scripts/validate_catalog.py
+      - name: Run unit tests
+        run: pytest -v
+      - name: Convert any newly fetched documents to HTML
         run: python scripts/convert.py
       - name: Build site
         run: python scripts/build_site.py

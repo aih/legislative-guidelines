@@ -1,0 +1,360 @@
+# Cross-Jurisdictional Comparative Matrix of Legislative Drafting Rules
+# Used by /compare.html and scripts/evaluate_bill.py
+
+jurisdictions:
+  - id: uk-opc-drafting-guidance
+    short: UK OPC
+    name: United Kingdom (OPC Drafting Guidance, 2024)
+    tradition: common_law
+  - id: eu-joint-practical-guide
+    short: EU JPG
+    name: European Union (Joint Practical Guide, 2015)
+    tradition: supranational
+  - id: us-holc-guide-legislative-drafting
+    short: US HOLC / ULC
+    name: United States (House OLC & Uniform Law Commission)
+    tradition: common_law
+  - id: ca-legistics
+    short: Canada Legistics
+    name: Canada (Dept. of Justice Legistics)
+    tradition: bijural
+  - id: au-opc-plain-english-manual
+    short: Australia OPC
+    name: Australia (OPC Plain English Manual & Directions)
+    tradition: common_law
+  - id: nz-legislation-guidelines-2021
+    short: New Zealand LDAC
+    name: New Zealand (Legislation Guidelines, 2021)
+    tradition: common_law
+  - id: de-handbuch-der-rechtsfoermlichkeit
+    short: Germany HdR
+    name: Germany (BMJ Handbuch der Rechtsförmlichkeit, 2024)
+    tradition: civil_law
+  - id: fr-guide-de-legistique
+    short: France Légistique
+    name: France (SGG / Conseil d'État Guide de légistique, 2026)
+    tradition: civil_law
+  - id: commonwealth-legislative-drafting-manual
+    short: Commonwealth
+    name: Commonwealth Secretariat (Drafting Manual, 2017)
+    tradition: common_law
+  - id: osce-odihr-democratic-lawmaking-2024
+    short: OSCE / OECD
+    name: OSCE/ODIHR & OECD International Standards
+    tradition: international
+
+dimensions:
+  - id: modal_verbs
+    title: "Normative Verbs & Obligations ('shall' vs 'must' vs Present Indicative)"
+    summary: "How mandatory duties, conditions, and legal consequences are expressed—one of the sharpest divergences between modern Commonwealth plain-language manuals and EU/US practice."
+    positions:
+      uk-opc-drafting-guidance:
+        stance: "Avoid 'shall'; use 'must' or present tense"
+        badge: "No 'shall'"
+        detail: "OPC Drafting Guidance § 3.2: Avoid 'shall'. Use 'must' for obligations and present indicative ('is', 'applies') for legal states or declarations."
+      eu-joint-practical-guide:
+        stance: "Requires 'shall' in English operative articles"
+        badge: "Uses 'shall'"
+        detail: "Joint Practical Guide Rule 2 & ISG § 2.3: English binding acts use 'shall' for imperative norms in articles (never in recitals, Rule 10); French/German use present indicative."
+      us-holc-guide-legislative-drafting:
+        stance: "'Shall' for animate duty; 'must' for conditions"
+        badge: "Distinguishes"
+        detail: "HOLC & ULC Rule 304: 'Shall' imposes a duty on an actor ('The Secretary shall...'); 'must' states required conditions ('A notice must include...'). Never use 'shall' for future tense."
+      ca-legistics:
+        stance: "Use 'must' for duties; present tense for rules"
+        badge: "No 'shall'"
+        detail: "Legistics ('Shall' and 'Must'): Strongly discourages 'shall' due to ambiguity; recommends 'must' for obligations and present indicative in both English and French."
+      au-opc-plain-english-manual:
+        stance: "Use 'must' instead of 'shall'"
+        badge: "No 'shall'"
+        detail: "Plain English Manual §§ 44–48 & Drafting Direction 1.5: Replaced 'shall' with 'must' for obligations and 'is/are' for declaratory rules."
+      nz-legislation-guidelines-2021:
+        stance: "Use 'must'; 'shall' eliminated"
+        badge: "No 'shall'"
+        detail: "NZ PCO Plain Language Standard: 'Shall' is eliminated from modern New Zealand legislation in favour of 'must' and present tense."
+      de-handbuch-der-rechtsfoermlichkeit:
+        stance: "Present indicative or 'hat zu' / 'muss'"
+        badge: "Present tense"
+        detail: "HdR Rn. 82–90: Uses present indicative or 'hat zu'/'muss'. 'Soll' (Soll-Vorschrift) denotes a rule binding in normal cases with narrow exception in atypical cases."
+      fr-guide-de-legistique:
+        stance: "Present indicative ('présent de l'indicatif')"
+        badge: "Present tense"
+        detail: "Fiche 3.3.1: The indicative present inherently carries imperative force ('Le ministre arrête...'); avoids future tense or redundant 'doit'."
+      commonwealth-legislative-drafting-manual:
+        stance: "Prefer 'must'; strict limits if 'shall' used"
+        badge: "Prefers 'must'"
+        detail: "Ch. 5.4: Recommends 'must' for imposing duties; if a jurisdiction retains 'shall', prohibits using it for declaratory statements or future actions."
+      osce-odihr-democratic-lawmaking-2024:
+        stance: "Unambiguous differentiation of duties vs powers"
+        badge: "Clarity rule"
+        detail: "Requires strict consistency between mandatory obligations, discretionary powers ('may'), and directory provisions to satisfy legal certainty."
+
+  - id: definitions
+    title: "Definitions: Placement & Prohibition on Substantive Rules"
+    summary: "Where defined terms are placed and the universal rule against hiding rights, duties, or powers inside definitions."
+    positions:
+      uk-opc-drafting-guidance:
+        stance: "Flexible placement + no substantive duties"
+        badge: "Flexible / Index"
+        detail: "OPC § 4.4: Place definitions where most helpful (inline in section, start of Part, or end of Bill with an Index of Defined Expressions). Never put substantive rules in a definition."
+      eu-joint-practical-guide:
+        stance: "Early Article (Art. 2/3); no normative provisions"
+        badge: "Early Article"
+        detail: "Rule 14: Definitions belong in an early article in the general provisions and must never contain autonomous normative rules."
+      us-holc-guide-legislative-drafting:
+        stance: "Start of Act/Title; no substantive law in definitions"
+        badge: "Start of Act"
+        detail: "HOLC Guide & ULC Rule 302: Place definitions at the beginning of the Act or relevant Title; do not include substantive requirements inside a definition."
+      ca-legistics:
+        stance: "Section 2 (start of Act); bilingual alphabetical order"
+        badge: "Start (Sec. 2)"
+        detail: "Legistics ('Definitions'): Placed in s. 2 after short title; must not have substantive content; cross-referenced in French/English order."
+      au-opc-plain-english-manual:
+        stance: "Dictionary (start or Schedule) + signposts"
+        badge: "Dictionary"
+        detail: "Uses a central Dictionary (often in s. 4 or end Schedule) with asterisk/note signposts and prohibits substantive obligations in definitions."
+      nz-legislation-guidelines-2021:
+        stance: "Interpretation section near front; no substantive rules"
+        badge: "Front (Sec. 4/5)"
+        detail: "Placed in early Interpretation clause right after purpose/commencement; definitions must not confer powers or impose duties."
+      de-handbuch-der-rechtsfoermlichkeit:
+        stance: "Legaldefinition via parentheses or early §"
+        badge: "Early § / Inline"
+        detail: "HdR Rn. 95–104: Introduce Legaldefinitionen in a general early § or via parenthetical '(Klammerdefinition)' on first use; no hidden commands."
+      fr-guide-de-legistique:
+        stance: "Define only when departing from ordinary meaning"
+        badge: "Minimalist"
+        detail: "Fiche 3.1: Avoid Anglo-Saxon style long definition catalogues unless transposing EU directives; define terms only when strictly necessary."
+      commonwealth-legislative-drafting-manual:
+        stance: "Section 2 Interpretation; ban 'means and includes'"
+        badge: "Start (Sec. 2)"
+        detail: "Ch. 8: Placed in s. 2; strictly forbids 'means and includes' (choose exhaustive 'means' or non-exhaustive 'includes') and bans substantive rules."
+      osce-odihr-democratic-lawmaking-2024:
+        stance: "Accessible, consistent terminology"
+        badge: "Predictability"
+        detail: "Venice Commission & ODIHR require key terms affecting rights or sanctions to be clearly defined without circularity or hidden obligations."
+
+  - id: recitals_purpose
+    title: "Recitals, Preambles & Purpose Clauses"
+    summary: "Whether legislation includes preambles/recitals ('Whereas...') or operative purpose clauses, or relegates justification to external explanatory notes."
+    positions:
+      uk-opc-drafting-guidance:
+        stance: "No preambles; overview clauses instead of manifesto purposes"
+        badge: "Overview only"
+        detail: "OPC § 1.3: Preambles are not used in Public Bills. Prefer neutral 'overview' clauses over aspirational 'purpose' clauses; policy rationale belongs in Explanatory Notes."
+      eu-joint-practical-guide:
+        stance: "Mandatory Recitals ('Whereas') required by Art. 296 TFEU"
+        badge: "Mandatory Recitals"
+        detail: "Rules 9–11 & 18: Every EU act must state citations ('Having regard to...') and Recitals ('Whereas:') justifying each main provision, without normative language."
+      us-holc-guide-legislative-drafting:
+        stance: "Discourages 'Findings' unless constitutionally needed"
+        badge: "Discouraged"
+        detail: "HOLC discourages non-operative 'Findings' and 'Purpose' sections unless needed to establish Commerce Clause or other constitutional jurisdiction."
+      ca-legistics:
+        stance: "Rare preambles; functional Purpose sections"
+        badge: "Purpose clause"
+        detail: "Legistics: Preambles used sparingly for major constitutional/policy context; Purpose clauses in the body guide purposive interpretation (Interpretation Act s. 12)."
+      au-opc-plain-english-manual:
+        stance: "Objects clauses & Simplified Outlines"
+        badge: "Simplified Outlines"
+        detail: "Frequently uses 'Objects of this Act' sections and boxed 'Simplified Outlines' at the start of Parts to orient readers."
+      nz-legislation-guidelines-2021:
+        stance: "Standard Purpose section (Sec. 3)"
+        badge: "Purpose (Sec. 3)"
+        detail: "LDAC Ch. 3: Most Acts contain an explicit Purpose clause (typically s. 3) used by courts under s. 10 of the Legislation Act 2019."
+      de-handbuch-der-rechtsfoermlichkeit:
+        stance: "No recitals in statute; justification in Gesetzesbegründung"
+        badge: "External only"
+        detail: "HdR Rn. 36: Preambles and recitals do not belong in federal statutes; all policy justification goes into the separate parliamentary Begründung."
+      fr-guide-de-legistique:
+        stance: "Strictly forbidden in statutes (Neutre et normatif)"
+        badge: "Forbidden"
+        detail: "Conseil constitutionnel jurisprudence (Loi de programmation) & Fiche 1.1: Non-normative declarations ('neutrons législatifs') are unconstitutional; reasons belong in the Exposé des motifs."
+      commonwealth-legislative-drafting-manual:
+        stance: "Long title + optional Objects clause; rare preambles"
+        badge: "Objects clause"
+        detail: "Ch. 6: Preambles reserved for constitutional or treaty bills; Objects clauses permitted if drafted in clear, non-rhetorical terms."
+      osce-odihr-democratic-lawmaking-2024:
+        stance: "Mandatory Explanatory Note / Impact Assessment"
+        badge: "Explanatory Note"
+        detail: "ODIHR Guidelines §§ 85–95: Every draft law must be accompanied by an evidence-based Explanatory Memorandum and Regulatory Impact Assessment."
+
+  - id: gender_neutrality
+    title: "Gender-Neutral & Inclusive Drafting"
+    summary: "Techniques for eliminating masculine-generic pronouns ('he/his') while preserving syntactic clarity and legal precision."
+    positions:
+      uk-opc-drafting-guidance:
+        stance: "Mandatory; repeat noun or use singular/plural 'they'"
+        badge: "Noun / 'they'"
+        detail: "OPC § 2.1: Mandatory since 2007. Repeat the noun ('the person'), restructure, or use 'they/their'; avoid awkward 'he or she'."
+      eu-joint-practical-guide:
+        stance: "Gender-neutral titles and epicene formulations"
+        badge: "Neutral nouns"
+        detail: "ISG & EP Gender-Neutral Guidelines: Prefer neutral nouns ('the applicant', 'the chair') and avoid generic masculine pronouns across language versions."
+      us-holc-guide-legislative-drafting:
+        stance: "Repeat the noun; avoid masculine generics"
+        badge: "Repeat noun"
+        detail: "HOLC & ULC Rule 301: Draft in gender-neutral language primarily by repeating the noun ('the individual') or restructuring to eliminate pronouns."
+      ca-legistics:
+        stance: "Mandatory in both English and French co-drafts"
+        badge: "Bilingual neutral"
+        detail: "Legistics ('Gender-Neutral Language'): Repeat nouns, pluralize, or use neutral pronouns in English; use epicene terms and neutral phrasing in French."
+      au-opc-plain-english-manual:
+        stance: "Mandatory; supports 'they' and noun repetition"
+        badge: "Mandatory"
+        detail: "Drafting Direction 2.1: All Commonwealth legislation must be drafted gender-neutrally using noun repetition, 'he or she', or singular 'they'."
+      nz-legislation-guidelines-2021:
+        stance: "Mandatory; endorses singular 'they'"
+        badge: "Singular 'they'"
+        detail: "NZ PCO drafting conventions prohibit masculine generics and explicitly endorse repeating the noun or using singular 'they'."
+      de-handbuch-der-rechtsfoermlichkeit:
+        stance: "Neutral participles or paired forms; no gender stars"
+        badge: "Neutral / Paired"
+        detail: "HdR Rn. 105–112: Use neutral designations ('Antragstellende', 'Person') or paired masculine/feminine forms; typographic special characters (*, :) are not used in statutes."
+      fr-guide-de-legistique:
+        stance: "Epicene nouns ('la personne'); no mid-dot ('point médian')"
+        badge: "Epicene nouns"
+        detail: "Circulaire du 21 novembre 2017 & Fiche 3.3.2: Use epicene terms ('toute personne') and feminine job titles where appropriate; bans 'point médian' in the Journal officiel."
+      commonwealth-legislative-drafting-manual:
+        stance: "Mandatory gender-neutral drafting"
+        badge: "Mandatory"
+        detail: "Ch. 5.6: Recommends repeating the noun, omitting unnecessary pronouns, or recast into the if/then conditional without 'he'."
+      osce-odihr-democratic-lawmaking-2024:
+        stance: "Gender-sensitive language & gender impact assessment"
+        badge: "Inclusive + GIA"
+        detail: "ODIHR Guidelines §§ 52–56: Combines gender-inclusive statutory language with mandatory gender impact assessment of substantive provisions."
+
+  - id: sentence_structure
+    title: "Sentence Length, Tabulation & Active Voice"
+    summary: "Standards on maximum sentence length, active vs passive voice, and breaking complex conditions into tabulated sub-paragraphs."
+    positions:
+      uk-opc-drafting-guidance:
+        stance: "Short sentences, active voice, tabular '(a), (b), (c)'"
+        badge: "Active + Tabular"
+        detail: "OPC §§ 3.1–3.4: Write short sentences in active voice; split multiple conditions or elements into paragraphs (a), (b), (c) with a single 'and' or 'or'."
+      eu-joint-practical-guide:
+        stance: "Simple syntax for 24-language translation"
+        badge: "Translation-ready"
+        detail: "Rules 1, 4 & 5: Keep sentences short and direct without complex subordinate clauses so that all 24 EU language versions carry identical legal meaning."
+      us-holc-guide-legislative-drafting:
+        stance: "Subdivision hierarchy: (a)(1)(A)(i)(I)"
+        badge: "Strict hierarchy"
+        detail: "HOLC Guide: Enforces a strict 5-level indentation and subdivision system ((a) subsection, (1) paragraph, (A) subparagraph, (i) clause, (I) subclause) in active voice."
+      ca-legistics:
+        stance: "Active voice, vertical lists, parallel structure"
+        badge: "Vertical lists"
+        detail: "Legistics ('Paragraphing'): Uses vertical paragraphing (a), (b), (c) with strict grammatical parallelism and active voice identifying the legal actor."
+      au-opc-plain-english-manual:
+        stance: "<25–30 words avg; method statements & examples"
+        badge: "Method steps"
+        detail: "Plain English Manual: Targets sentences under 25–30 words, encourages numbered 'Step 1, Step 2' method statements for calculations, and uses inline Examples."
+      nz-legislation-guidelines-2021:
+        stance: "Plain language, reader-first ordering, flowcharts"
+        badge: "Reader-first"
+        detail: "PCO Plain Language Standard: Orders provisions from core rule to exceptions; encourages tables, formulas, and examples as part of the Act."
+      de-handbuch-der-rechtsfoermlichkeit:
+        stance: "Avoid 'Schachtelsätze' (nested clauses); max 3–4 Absätze"
+        badge: "Clear Tatbestand"
+        detail: "HdR Rn. 65–81: Avoid deeply nested sentences (Schachtelsätze) and nominal style (Nominalstil); structure each § into at most 3–4 numbered Absätze."
+      fr-guide-de-legistique:
+        stance: "One rule per article or alinéa; concise syntax"
+        badge: "1 rule / article"
+        detail: "Fiche 3.1.2: Each article should address a single rule; avoid long enumerated lists and complex cross-references ('renvois en cascade')."
+      commonwealth-legislative-drafting-manual:
+        stance: "Coode's structure: Case → Condition → Subject → Action"
+        badge: "Coode + Plain"
+        detail: "Ch. 4 & 5: Modernizes George Coode's legislative sentence structure using active voice, present tense, and tabulated paragraphing."
+      osce-odihr-democratic-lawmaking-2024:
+        stance: "Accessibility to non-lawyers and affected persons"
+        badge: "Foreseeability"
+        detail: "Venice Commission Rule of Law Checklist § II.B.3: Laws must be intelligible and foreseeable in their effects to ordinary citizens."
+
+  - id: amending_technique
+    title: "Amending Existing Legislation"
+    summary: "How amendments to existing Acts are expressed: textual strike-and-insert, full subsection restatement, or consolidated recasting."
+    positions:
+      uk-opc-drafting-guidance:
+        stance: "Textual substitution ('for X substitute Y')"
+        badge: "Textual ('for/sub')"
+        detail: "UK Amending Bills Style Manual: Uses textual amendments ('In section 5, for \"X\" substitute \"Y\"'), preferring replacement of whole subsections when changes are dense."
+      eu-joint-practical-guide:
+        stance: "Textual replacement + Recasting (refonte) when frequent"
+        badge: "Textual + Recast"
+        detail: "Rules 18–21: Amendments are inserted textually into the basic act; when an act is amended substantially, the Interinstitutional Agreement requires Recasting."
+      us-holc-guide-legislative-drafting:
+        stance: "'Cut-and-bite' ('by striking X and inserting Y')"
+        badge: "Cut-and-bite"
+        detail: "Federal bills use cut-and-bite ('is amended by striking ... and inserting ...'); by contrast, ULC and most US states require restating the entire amended section."
+      ca-legistics:
+        stance: "Whole-unit replacement ('is replaced by the following')"
+        badge: "Unit replacement"
+        detail: "Canada bans word-by-word cut-and-bite where possible; requires replacing the entire subsection, paragraph, or definition so both languages remain aligned."
+      au-opc-plain-english-manual:
+        stance: "Amending Schedules with numbered Items"
+        badge: "Schedule Items"
+        detail: "Drafting Direction 4.1: All textual amendments are placed in structured Amending Schedules ('Schedule 1—Amendments', Item 1: 'Section 12 / Omit \"X\", substitute \"Y\"')."
+      nz-legislation-guidelines-2021:
+        stance: "Direct textual instruction ('In section X, replace Y with Z')"
+        badge: "Direct replace"
+        detail: "Uses concise plain-English amending formulas ('In section 14(1), replace \"X\" with \"Y\"') and automatic official consolidation by the PCO."
+      de-handbuch-der-rechtsfoermlichkeit:
+        stance: "Artikelgesetz (Mantelgesetz) with numbered commands"
+        badge: "Artikelgesetz"
+        detail: "HdR Teil D: Amendments are bundled into an Artikelgesetz where each Artikel amends one principal law via standardized formulas ('wird wie folgt gefasst')."
+      fr-guide-de-legistique:
+        stance: "Textual modification with quotation marks"
+        badge: "Textual mod."
+        detail: "Fiche 3.2.2: Prefers replacing a complete alinéa or phrase rather than isolated words; encourages codification into thematic Codes."
+      commonwealth-legislative-drafting-manual:
+        stance: "Direct textual amendment; avoid non-textual amendments"
+        badge: "Direct textual"
+        detail: "Ch. 14: Strongly favors direct textual amendment over indirect ('referential' or 'non-textual') modification so the statute book stays consolidatable."
+      osce-odihr-democratic-lawmaking-2024:
+        stance: "Require comparative table / consolidated preview"
+        badge: "Comparative view"
+        detail: "Recommends publishing a side-by-side comparative version (Keeling schedule / redline) whenever an amending bill is laid before parliament."
+
+  - id: digital_ready
+    title: "Digital-Ready Legislation & Automated Decision-Making"
+    summary: "Modern guidelines on drafting laws that can be implemented by digital public infrastructure or automated decision systems."
+    positions:
+      uk-opc-drafting-guidance:
+        stance: "Logical structure & Common Legislative Solutions"
+        badge: "CLS patterns"
+        detail: "UK OPC Common Legislative Solutions (2025) standardizes recurring statutory mechanics (information sharing, civil sanctions, digital notices)."
+      eu-joint-practical-guide:
+        stance: "Interoperable Europe & Digital Check in Better Regulation"
+        badge: "Digital Check"
+        detail: "European Commission Better Regulation Toolbox (Tool #28) mandates a 'Digital Check' and 'Once-Only' interoperability assessment during drafting."
+      us-holc-guide-legislative-drafting:
+        stance: "USLM XML schema & machine-readable citations"
+        badge: "USLM XML"
+        detail: "US House and Senate draft directly in United States Legislative Markup (USLM XML), enabling automated classification and point-in-time diffs."
+      ca-legistics:
+        stance: "Rules as Code experiments & structured XML"
+        badge: "Structured XML"
+        detail: "Justice Canada pairs bilingual XML drafting with guidance on administrative fairness in automated systems."
+      au-opc-plain-english-manual:
+        stance: "Dedicated Drafting Direction 4.3 on Computerised Decisions"
+        badge: "DD 4.3 ADM"
+        detail: "Australia OPC Drafting Direction 4.3 sets explicit statutory patterns for authorizing, attributing, and reviewing computer-assisted or automated decisions."
+      nz-legislation-guidelines-2021:
+        stance: "Rules as Code & algorithmic accountability"
+        badge: "LDAC Ch. 14"
+        detail: "LDAC Guidelines address automated decision-making, delegation limits, and logical structure suitable for digital service delivery."
+      de-handbuch-der-rechtsfoermlichkeit:
+        stance: "Mandatory Digitalcheck (since 2023) & HdR 2024"
+        badge: "Digitalcheck"
+        detail: "Germany's Digitalcheck and the 4th edition of the HdR (2024) require clear rules without unnecessary analogue hurdles (e.g., 'Schriftform' vs electronic form)."
+      fr-guide-de-legistique:
+        stance: "Open algorithm transparency (Code des relations public-admin)"
+        badge: "Algorithm rules"
+        detail: "Guide de légistique integrates rules on digital administration and algorithmic decision transparency under the CRPA."
+      commonwealth-legislative-drafting-manual:
+        stance: "Electronic transactions & technology-neutral terms"
+        badge: "Tech-neutral"
+        detail: "Advises technology-neutral drafting so statutes do not rapidly become obsolete as administrative media evolve."
+      osce-odihr-democratic-lawmaking-2024:
+        stance: "Human rights safeguards & open legislative data"
+        badge: "Open data + HR"
+        detail: "Requires machine-readable publication of draft laws and human-rights safeguards when laws authorize automated profiling or administrative action."

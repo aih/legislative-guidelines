@@ -1,0 +1,1277 @@
+[
+ {
+  "id": "office-of-the-parliamentary-counsel",
+  "level": 2,
+  "title": "OFFICE OF THE PARLIAMENTARY COUNSEL"
+ },
+ {
+  "id": "drafting-guidance",
+  "level": 2,
+  "title": "DRAFTING GUIDANCE"
+ },
+ {
+  "id": "__________________________________",
+  "level": 2,
+  "title": "__________________________________"
+ },
+ {
+  "id": "introduction",
+  "level": 4,
+  "title": "INTRODUCTION"
+ },
+ {
+  "id": "introduction-2",
+  "level": 4,
+  "title": "Introduction"
+ },
+ {
+  "id": "contents",
+  "level": 4,
+  "title": "CONTENTS"
+ },
+ {
+  "id": "introduction-3",
+  "level": 4,
+  "title": "INTRODUCTION"
+ },
+ {
+  "id": "part-1-clarity",
+  "level": 2,
+  "title": "PART 1 CLARITY"
+ },
+ {
+  "id": "part-2-language-and-style",
+  "level": 2,
+  "title": "PART 2 LANGUAGE AND STYLE"
+ },
+ {
+  "id": "part-3-structure",
+  "level": 2,
+  "title": "PART 3 STRUCTURE"
+ },
+ {
+  "id": "part-4-definitions",
+  "level": 2,
+  "title": "PART 4 DEFINITIONS"
+ },
+ {
+  "id": "part-5-citation",
+  "level": 2,
+  "title": "PART 5 CITATION"
+ },
+ {
+  "id": "part-6-amendments",
+  "level": 2,
+  "title": "PART 6 AMENDMENTS"
+ },
+ {
+  "id": "part-7-statutory-corporations",
+  "level": 2,
+  "title": "PART 7 STATUTORY CORPORATIONS"
+ },
+ {
+  "id": "part-8-periods-of-time",
+  "level": 2,
+  "title": "PART 8 PERIODS OF TIME"
+ },
+ {
+  "id": "part-9-subordinate-legislation",
+  "level": 2,
+  "title": "PART 9 SUBORDINATE LEGISLATION"
+ },
+ {
+  "id": "part-10-final-provisions",
+  "level": 2,
+  "title": "PART 10 FINAL PROVISIONS"
+ },
+ {
+  "id": "part-11-words-and-phrases",
+  "level": 2,
+  "title": "PART 11 WORDS AND PHRASES"
+ },
+ {
+  "id": "appendix-example-end-provisions",
+  "level": 2,
+  "title": "APPENDIX EXAMPLE END PROVISIONS"
+ },
+ {
+  "id": "part-1-clarity-2",
+  "level": 2,
+  "title": "PART 1 CLARITY"
+ },
+ {
+  "id": "telling-the-story",
+  "level": 4,
+  "title": "Telling the story"
+ },
+ {
+  "id": "find-a-logical-order-and-structure",
+  "level": 4,
+  "title": "Find a logical order and structure"
+ },
+ {
+  "id": "get-to-the-point",
+  "level": 4,
+  "title": "Get to the point"
+ },
+ {
+  "id": "keep-propositions-short",
+  "level": 4,
+  "title": "Keep propositions short"
+ },
+ {
+  "id": "the-medium-is-not-the-message",
+  "level": 4,
+  "title": "The medium is not the message"
+ },
+ {
+  "id": "tone",
+  "level": 4,
+  "title": "Tone"
+ },
+ {
+  "id": "sentence-structure",
+  "level": 4,
+  "title": "Sentence structure"
+ },
+ {
+  "id": "positive-and-negative",
+  "level": 4,
+  "title": "Positive and negative"
+ },
+ {
+  "id": "active-and-passive",
+  "level": 4,
+  "title": "Active and passive"
+ },
+ {
+  "id": "verbs-and-nouns",
+  "level": 4,
+  "title": "Verbs and nouns"
+ },
+ {
+  "id": "shall",
+  "level": 4,
+  "title": "“Shall”"
+ },
+ {
+  "id": "which-words-to-choose",
+  "level": 4,
+  "title": "Which words to choose?"
+ },
+ {
+  "id": "use-no-more-words-than-are-necessary-use-the-most-familiar-w",
+  "level": 3,
+  "title": "• use no more words than are necessary; • use the most familiar words; • use precise and concrete words rather than vague and abstract words."
+ },
+ {
+  "id": "use-no-more-words-than-necessary",
+  "level": 4,
+  "title": "Use no more words than necessary"
+ },
+ {
+  "id": "use-the-most-familiar-words",
+  "level": 4,
+  "title": "Use the most familiar words"
+ },
+ {
+  "id": "use-precise-and-concrete-words",
+  "level": 4,
+  "title": "Use precise and concrete words"
+ },
+ {
+  "id": "affect-limit-restrict-prescribe-specify-set-out-provide-for-",
+  "level": 3,
+  "title": "• affect (limit, restrict) • prescribe (specify, set out) • provide for (specify, make, enable, authorise) • make provision about (what exactly?) • in relation to, in respect of (for, about) • subject to (limited or restricted by) • without prejudice (does not limit or restrict)"
+ },
+ {
+  "id": "part-2-language-and-style-2",
+  "level": 2,
+  "title": "PART 2 LANGUAGE AND STYLE"
+ },
+ {
+  "id": "government-policy",
+  "level": 4,
+  "title": "Government policy"
+ },
+ {
+  "id": "avoiding-pronouns-such-as-he-where-a-reference-to-men-and-wo",
+  "level": 3,
+  "title": "• avoiding pronouns such as “he” where a reference to men and women is"
+ },
+ {
+  "id": "avoiding-nouns-that-might-appear-to-assume-that-only-a-man-o",
+  "level": 3,
+  "title": "• avoiding nouns that might appear to assume that only a man, or only a woman,"
+ },
+ {
+  "id": "drafting-techniques-to-avoid-sex-specific-pronouns",
+  "level": 4,
+  "title": "Drafting techniques to avoid sex-specific pronouns"
+ },
+ {
+  "id": "repeat-the-noun-change-the-pronoun-rephrase-to-avoid-the-nee",
+  "level": 3,
+  "title": "• repeat the noun • change the pronoun • rephrase to avoid the need for a pronoun or noun"
+ },
+ {
+  "id": "avoiding-sex-specific-nouns",
+  "level": 4,
+  "title": "Avoiding sex-specific nouns"
+ },
+ {
+  "id": "government-policy-2",
+  "level": 4,
+  "title": "Government policy"
+ },
+ {
+  "id": "background",
+  "level": 4,
+  "title": "Background"
+ },
+ {
+  "id": "drafting-approaches",
+  "level": 4,
+  "title": "Drafting approaches"
+ },
+ {
+  "id": "numbers",
+  "level": 4,
+  "title": "Numbers"
+ },
+ {
+  "id": "use-words-where-the-number-is-between-1-and-10-inclusive",
+  "level": 3,
+  "title": "• use words where the number is between 1 and 10 inclusive"
+ },
+ {
+  "id": "use-figures-where-the-number-is-greater-than-10",
+  "level": 3,
+  "title": "• use figures where the number is greater than 10"
+ },
+ {
+  "id": "dates",
+  "level": 4,
+  "title": "Dates"
+ },
+ {
+  "id": "percentages",
+  "level": 4,
+  "title": "Percentages"
+ },
+ {
+  "id": "part-3-structure-2",
+  "level": 2,
+  "title": "PART 3 STRUCTURE"
+ },
+ {
+  "id": "choice-of-headings",
+  "level": 4,
+  "title": "Choice of headings"
+ },
+ {
+  "id": "what-is-an-overview",
+  "level": 4,
+  "title": "What is an overview?"
+ },
+ {
+  "id": "advantages",
+  "level": 4,
+  "title": "Advantages"
+ },
+ {
+  "id": "in-a-large-act-the-contents-can-be-long-running-to-tens-of-p",
+  "level": 3,
+  "title": "• In a large Act the contents can be long (running to tens of pages). An overview"
+ },
+ {
+  "id": "an-overview-can-be-more-descriptive-and-can-draw-out-themes-",
+  "level": 3,
+  "title": "• An overview can be more descriptive and can draw out themes and relationships"
+ },
+ {
+  "id": "an-overview-can-explain-how-the-new-legislation-fits-into-th",
+  "level": 3,
+  "title": "• An overview can explain how the new legislation fits into the legislative"
+ },
+ {
+  "id": "risks-to-watch-out-for",
+  "level": 4,
+  "title": "Risks to watch out for"
+ },
+ {
+  "id": "clause-length",
+  "level": 4,
+  "title": "Clause length"
+ },
+ {
+  "id": "second-sentences-in-a-subsection",
+  "level": 4,
+  "title": "Second sentences in a subsection"
+ },
+ {
+  "id": "alternatives-to-subsections",
+  "level": 4,
+  "title": "Alternatives to subsections"
+ },
+ {
+  "id": "formulae",
+  "level": 4,
+  "title": "Formulae"
+ },
+ {
+  "id": "method-statements",
+  "level": 4,
+  "title": "Method statements"
+ },
+ {
+  "id": "tables",
+  "level": 4,
+  "title": "Tables"
+ },
+ {
+  "id": "use-of-paragraphs",
+  "level": 4,
+  "title": "Use of paragraphs"
+ },
+ {
+  "id": "two-sets-of-paragraphs",
+  "level": 4,
+  "title": "Two sets of paragraphs"
+ },
+ {
+  "id": "sandwiches",
+  "level": 4,
+  "title": "“Sandwiches”"
+ },
+ {
+  "id": "punctuation",
+  "level": 4,
+  "title": "Punctuation"
+ },
+ {
+  "id": "unnumbered-paragraphs",
+  "level": 4,
+  "title": "Unnumbered paragraphs"
+ },
+ {
+  "id": "and-and-or",
+  "level": 4,
+  "title": "“And” and “or”"
+ },
+ {
+  "id": "or",
+  "level": 4,
+  "title": "“Or”"
+ },
+ {
+  "id": "and",
+  "level": 4,
+  "title": "“And”"
+ },
+ {
+  "id": "neither-and-nor-or",
+  "level": 4,
+  "title": "Neither “and” nor “or”"
+ },
+ {
+  "id": "separate-lists-of-conditions-and-exceptions",
+  "level": 4,
+  "title": "Separate lists of conditions and exceptions"
+ },
+ {
+  "id": "when-to-use-schedules",
+  "level": 4,
+  "title": "When to use Schedules"
+ },
+ {
+  "id": "technical-provision-that-is-unlikely-to-be-of-interest-to-ma",
+  "level": 3,
+  "title": "• technical provision that is unlikely to be of interest to many readers; • lengthy material that is at something of a tangent to the main story; • repeals; • long series of minor textual amendments; • large tables and very long lists."
+ },
+ {
+  "id": "how-to-introduce-schedules",
+  "level": 4,
+  "title": "How to introduce Schedules"
+ },
+ {
+  "id": "no-cross-reference-needed",
+  "level": 4,
+  "title": "No cross-reference needed"
+ },
+ {
+  "id": "refer-to-the-idea-not-the-provision",
+  "level": 4,
+  "title": "Refer to the idea, not the provision"
+ },
+ {
+  "id": "forward-references",
+  "level": 4,
+  "title": "Forward references"
+ },
+ {
+  "id": "parenthetical-descriptions",
+  "level": 4,
+  "title": "Parenthetical descriptions"
+ },
+ {
+  "id": "above-and-below",
+  "level": 4,
+  "title": "“Above” and “below”"
+ },
+ {
+  "id": "of-this-act-etc",
+  "level": 4,
+  "title": "“of this Act” etc"
+ },
+ {
+  "id": "in-contexts-where-above-or-below-might-otherwise-be-used-see",
+  "level": 3,
+  "title": "• in contexts where “above” or “below” might otherwise be used (see above): there"
+ },
+ {
+  "id": "in-a-schedule-divided-into-parts-in-a-bill-which-is-also-div",
+  "level": 3,
+  "title": "• in a Schedule divided into Parts in a Bill which is also divided into Parts, it may"
+ },
+ {
+  "id": "where-there-is-a-reference-to-a-chapter-of-the-part-in-which",
+  "level": 3,
+  "title": "• where there is a reference to a Chapter of the Part in which the reference occurs"
+ },
+ {
+  "id": "arabic-and-roman-numerals-in-pre-2001-acts",
+  "level": 4,
+  "title": "Arabic and Roman numerals in pre-2001 Acts"
+ },
+ {
+  "id": "part-4-definitions-2",
+  "level": 2,
+  "title": "PART 4 DEFINITIONS"
+ },
+ {
+  "id": "different-kinds-of-definition-and-their-function",
+  "level": 4,
+  "title": "Different kinds of definition and their function"
+ },
+ {
+  "id": "choosing-labels",
+  "level": 4,
+  "title": "Choosing labels"
+ },
+ {
+  "id": "don-t-make-a-definition-do-too-much",
+  "level": 4,
+  "title": "Don’t make a definition do too much"
+ },
+ {
+  "id": "referential-definitions",
+  "level": 4,
+  "title": "Referential definitions"
+ },
+ {
+  "id": "identifying-the-purposes-for-which-a-definition-applies",
+  "level": 4,
+  "title": "Identifying the purposes for which a definition applies"
+ },
+ {
+  "id": "where-to-put-definitions",
+  "level": 4,
+  "title": "Where to put definitions"
+ },
+ {
+  "id": "ordering-of-definitions",
+  "level": 4,
+  "title": "Ordering of definitions"
+ },
+ {
+  "id": "part-5-citation-2",
+  "level": 2,
+  "title": "PART 5 CITATION"
+ },
+ {
+  "id": "need-for-citation",
+  "level": 4,
+  "title": "Need for citation"
+ },
+ {
+  "id": "usual-forms-of-citation",
+  "level": 4,
+  "title": "Usual forms of citation"
+ },
+ {
+  "id": "westminster",
+  "level": 4,
+  "title": "Westminster"
+ },
+ {
+  "id": "scotland",
+  "level": 4,
+  "title": "Scotland"
+ },
+ {
+  "id": "wales",
+  "level": 4,
+  "title": "Wales"
+ },
+ {
+  "id": "acts-of-senedd-cymru",
+  "level": 4,
+  "title": "Acts of Senedd Cymru"
+ },
+ {
+  "id": "acts-of-the-national-assembly-for-wales-pre-name-change",
+  "level": 4,
+  "title": "Acts of the National Assembly for Wales (pre-name-change)"
+ },
+ {
+  "id": "westminster-2",
+  "level": 4,
+  "title": "Westminster"
+ },
+ {
+  "id": "northern-ireland",
+  "level": 4,
+  "title": "Northern Ireland"
+ },
+ {
+  "id": "introduction-4",
+  "level": 4,
+  "title": "Introduction"
+ },
+ {
+  "id": "instruments-made-between-1968-and-2014",
+  "level": 4,
+  "title": "Instruments made between 1968 and 2014"
+ },
+ {
+  "id": "instruments-made-from-2015-onwards",
+  "level": 4,
+  "title": "Instruments made from 2015 onwards"
+ },
+ {
+  "id": "part-6-amendments-2",
+  "level": 2,
+  "title": "PART 6 AMENDMENTS"
+ },
+ {
+  "id": "operative-words",
+  "level": 4,
+  "title": "Operative words"
+ },
+ {
+  "id": "where-repeals-should-go",
+  "level": 4,
+  "title": "Where repeals should go"
+ },
+ {
+  "id": "repeal-of-amendments",
+  "level": 4,
+  "title": "Repeal of amendments"
+ },
+ {
+  "id": "repeal-of-uncommenced-amendments",
+  "level": 4,
+  "title": "Repeal of uncommenced amendments"
+ },
+ {
+  "id": "repeal-of-repeals",
+  "level": 4,
+  "title": "Repeal of repeals"
+ },
+ {
+  "id": "repeal-of-paragraphs-with-conjunctions",
+  "level": 4,
+  "title": "Repeal of paragraphs with conjunctions"
+ },
+ {
+  "id": "operative-words-2",
+  "level": 4,
+  "title": "Operative words"
+ },
+ {
+  "id": "how-much-text-to-substitute",
+  "level": 4,
+  "title": "How much text to substitute"
+ },
+ {
+  "id": "where-a-number-of-related-changes-are-being-made-to-a-single",
+  "level": 3,
+  "title": "• where a number of related changes are being made to a single provision, • where the end result of a group of amendments would be to alter the whole basis"
+ },
+ {
+  "id": "where-the-passage-to-be-amended-has-previously-been-amended-",
+  "level": 3,
+  "title": "• where the passage to be amended has previously been amended non-textually (so"
+ },
+ {
+  "id": "where-it-is-otherwise-helpful-to-the-reader-to-substitute-a-",
+  "level": 3,
+  "title": "• where it is otherwise helpful to the reader to substitute a few extra words, and • where doing so enables the text substituted to be identified more readily."
+ },
+ {
+  "id": "substitutions-include-words-quoted",
+  "level": 4,
+  "title": "Substitutions include words quoted"
+ },
+ {
+  "id": "substitution-or-insertion",
+  "level": 4,
+  "title": "Substitution or insertion?"
+ },
+ {
+  "id": "operative-words-3",
+  "level": 4,
+  "title": "Operative words"
+ },
+ {
+  "id": "after-or-before",
+  "level": 4,
+  "title": "After or before"
+ },
+ {
+  "id": "at-the-beginning",
+  "level": 4,
+  "title": "At the beginning"
+ },
+ {
+  "id": "at-the-end",
+  "level": 4,
+  "title": "At the end"
+ },
+ {
+  "id": "in-a-list",
+  "level": 4,
+  "title": "In a list"
+ },
+ {
+  "id": "next-to-an-unnumbered-provision",
+  "level": 4,
+  "title": "Next to an unnumbered provision"
+ },
+ {
+  "id": "renumber-the-existing-text",
+  "level": 3,
+  "title": "• renumber the existing text—"
+ },
+ {
+  "id": "make-any-amendments-to-the-existing-text",
+  "level": 3,
+  "title": "• make any amendments to the existing text—"
+ },
+ {
+  "id": "insert-the-new-subsection-or-sub-paragraph",
+  "level": 3,
+  "title": "• insert the new subsection or sub-paragraph—"
+ },
+ {
+  "id": "at-the-beginning-of-a-series",
+  "level": 4,
+  "title": "At the beginning of a series"
+ },
+ {
+  "id": "new-sections-inserted-before-the-first-section-of-an-act-are",
+  "level": 3,
+  "title": "• New sections inserted before the first section of an Act are preceded by a letter,"
+ },
+ {
+  "id": "the-same-approach-is-taken-in-relation-to-all-other-division",
+  "level": 3,
+  "title": "• The same approach is taken in relation to all other divisions of text (other than"
+ },
+ {
+  "id": "a-provision-inserted-before-a1-or-ai-is-za1-or-zai-in-the-ca",
+  "level": 3,
+  "title": "• A provision inserted before “A1” (or “ai”) is “ZA1” or (“zai”). • In the case of lettered paragraphs, new paragraphs inserted before paragraph (a)"
+ },
+ {
+  "id": "and-paragraphs-inserted-before-za-are-zza-zzb-etc",
+  "level": 3,
+  "title": "• And paragraphs inserted before (za) are (zza), (zzb) etc."
+ },
+ {
+  "id": "at-the-end-of-a-series",
+  "level": 4,
+  "title": "At the end of a series"
+ },
+ {
+  "id": "between-existing-provisions",
+  "level": 4,
+  "title": "Between existing provisions"
+ },
+ {
+  "id": "new-provisions-inserted-between-1-and-2-are-1a-1b-1c-etc-new",
+  "level": 3,
+  "title": "• New provisions inserted between 1 and 2 are 1A, 1B, 1C etc. • New provisions inserted between 1A and 1B are 1AA, 1AB, 1AC etc. • New provisions inserted between 1 and 1A are 1ZA, 1ZB, 1ZC etc. (and not 1AA"
+ },
+ {
+  "id": "new-provisions-inserted-between-1a-and-1aa-are-1aza-1azb-1az",
+  "level": 3,
+  "title": "• New provisions inserted between 1A and 1AA are 1AZA, 1AZB, 1AZC etc."
+ },
+ {
+  "id": "a-new-provision-between-1aa-and-1b-is-1ab-not-1aaa-but-a-new",
+  "level": 3,
+  "title": "• A new provision between 1AA and 1B is 1AB not 1AAA. • But a new provision between 1AA and 1AB is 1AAA."
+ },
+ {
+  "id": "new-sub-paragraphs-between-sub-paragraphs-i-and-ii-are-ia-ib",
+  "level": 3,
+  "title": "• New sub-paragraphs between sub-paragraphs (i) and (ii) are (ia), (ib), (ic) etc. • New paragraphs between paragraphs (a) and (b) are (aa), (ab), (ac) etc. • New paragraphs between paragraphs (a) and (aa) are (aza), (azb), (azc) etc."
+ },
+ {
+  "id": "series-of-more-than-26",
+  "level": 4,
+  "title": "Series of more than 26"
+ },
+ {
+  "id": "re-using-numbers",
+  "level": 4,
+  "title": "Re-using numbers"
+ },
+ {
+  "id": "opening-or-closing-words-of-a-subsection-with-paragraphs",
+  "level": 4,
+  "title": "Opening or closing words of a subsection with paragraphs"
+ },
+ {
+  "id": "words-which-occur-more-than-once",
+  "level": 4,
+  "title": "Words which occur more than once"
+ },
+ {
+  "id": "english-and-welsh-language-text",
+  "level": 4,
+  "title": "English and Welsh language text"
+ },
+ {
+  "id": "when-to-amend-headings",
+  "level": 4,
+  "title": "When to amend headings"
+ },
+ {
+  "id": "how-to-amend-headings",
+  "level": 4,
+  "title": "How to amend headings"
+ },
+ {
+  "id": "what-to-call-headings",
+  "level": 4,
+  "title": "What to call headings"
+ },
+ {
+  "id": "series-of-amendments",
+  "level": 4,
+  "title": "Series of amendments"
+ },
+ {
+  "id": "format-of-amendment-schedules",
+  "level": 4,
+  "title": "Format of amendment Schedules"
+ },
+ {
+  "id": "the-short-title-of-the-act-needs-to-be-given-in-the-text-of-",
+  "level": 3,
+  "title": "• the short title of the Act needs to be given in the text of the amendment as well as"
+ },
+ {
+  "id": "the-chapter-number-should-be-given-in-the-heading-but-does-n",
+  "level": 3,
+  "title": "• the chapter number should be given in the heading but does not need to be"
+ },
+ {
+  "id": "format-of-repeal-schedules",
+  "level": 4,
+  "title": "Format of repeal Schedules"
+ },
+ {
+  "id": "amending-uncommenced-provisions-repealing-uncommenced-amendm",
+  "level": 3,
+  "title": "• amending uncommenced provisions; • repealing uncommenced amendments; • amending provisions subject to uncommenced repeals; • drafting provisions that need to work with existing and prospective provisions."
+ },
+ {
+  "id": "amending-uncommenced-provision",
+  "level": 4,
+  "title": "Amending uncommenced provision"
+ },
+ {
+  "id": "act-1-is-in-force-act-2-inserts-a-new-section-7a-and-the-ins",
+  "level": 3,
+  "title": "• Act 1 is in force. • Act 2 inserts a new section 7A and the insertion is not yet in force. • A Bill needs to insert a new subsection (1A) into section 7A."
+ },
+ {
+  "id": "repealing-uncommenced-amendments",
+  "level": 4,
+  "title": "Repealing uncommenced amendments"
+ },
+ {
+  "id": "act-1-is-in-force-act-2-inserts-a-new-section-7a-and-the-ins-2",
+  "level": 3,
+  "title": "• Act 1 is in force. • Act 2 inserts a new section 7A and the insertion is not yet in force. • The policy underlying a Bill is to repeal subsections (3) to (6) of section 7A."
+ },
+ {
+  "id": "act-1-is-in-force-act-2-inserts-a-new-section-7a-and-the-ins-3",
+  "level": 3,
+  "title": "• Act 1 is in force. • Act 2 inserts a new section 7A and the insertion is not yet in force. • The policy underlying a Bill is to repeal section 7A."
+ },
+ {
+  "id": "amending-provisions-subject-to-an-uncommenced-repeal",
+  "level": 4,
+  "title": "Amending provisions subject to an uncommenced repeal"
+ },
+ {
+  "id": "drafting-a-provision-that-needs-to-work-with-existing-and-pr",
+  "level": 4,
+  "title": "Drafting a provision that needs to work with existing and prospective provisions"
+ },
+ {
+  "id": "act-1-is-in-force-act-2-inserts-a-new-section-1a-and-is-not-",
+  "level": 3,
+  "title": "• Act 1 is in force • Act 2 inserts a new section 1A and is not yet in force. • A Bill is inserting a new section 3A into Act 1, referring to an Authority’s"
+ },
+ {
+  "id": "distinguishing-between-textual-amendments-and-non-textual-mo",
+  "level": 4,
+  "title": "Distinguishing between textual amendments and non-textual modifications"
+ },
+ {
+  "id": "parenthetical-description-of-provision-amended",
+  "level": 4,
+  "title": "Parenthetical description of provision amended"
+ },
+ {
+  "id": "punctuation-2",
+  "level": 4,
+  "title": "Punctuation"
+ },
+ {
+  "id": "no-need-to-amend-spent-provisions",
+  "level": 4,
+  "title": "No need to amend spent provisions"
+ },
+ {
+  "id": "part-7-statutory-corporations-2",
+  "level": 2,
+  "title": "PART 7 STATUTORY CORPORATIONS"
+ },
+ {
+  "id": "form-of-words-to-establish-statutory-corporation",
+  "level": 4,
+  "title": "Form of words to establish statutory corporation"
+ },
+ {
+  "id": "singular-or-plural",
+  "level": 4,
+  "title": "Singular or plural?"
+ },
+ {
+  "id": "renaming-of-welsh-legislature",
+  "level": 4,
+  "title": "Renaming of Welsh legislature"
+ },
+ {
+  "id": "renaming-of-welsh-acts",
+  "level": 4,
+  "title": "Renaming of Welsh Acts"
+ },
+ {
+  "id": "transitional-matters",
+  "level": 4,
+  "title": "Transitional matters"
+ },
+ {
+  "id": "part-8-periods-of-time-2",
+  "level": 2,
+  "title": "PART 8 PERIODS OF TIME"
+ },
+ {
+  "id": "introductory",
+  "level": 4,
+  "title": "Introductory"
+ },
+ {
+  "id": "beginnings",
+  "level": 4,
+  "title": "Beginnings"
+ },
+ {
+  "id": "endings",
+  "level": 4,
+  "title": "Endings"
+ },
+ {
+  "id": "within",
+  "level": 4,
+  "title": "Within"
+ },
+ {
+  "id": "periods-triggered-by-events",
+  "level": 4,
+  "title": "Periods triggered by events"
+ },
+ {
+  "id": "before-preferable-to-by-a-particular-day",
+  "level": 4,
+  "title": "“Before” preferable to “by” a particular day"
+ },
+ {
+  "id": "working-days",
+  "level": 4,
+  "title": "Working days"
+ },
+ {
+  "id": "months",
+  "level": 4,
+  "title": "Months"
+ },
+ {
+  "id": "part-9-subordinate-legislation-2",
+  "level": 2,
+  "title": "PART 9 SUBORDINATE LEGISLATION"
+ },
+ {
+  "id": "generally-regulations-not-orders",
+  "level": 4,
+  "title": "Generally: regulations, not orders"
+ },
+ {
+  "id": "rules-for-provision-determining-the-procedure-of-a-body-or-p",
+  "level": 3,
+  "title": "• rules (for provision determining the procedure of a body or process), • Orders in Council, or • orders subject to special procedure under the Statutory Orders (Special"
+ },
+ {
+  "id": "commencement-powers-conferred-on-northern-ireland-department",
+  "level": 4,
+  "title": "Commencement powers conferred on Northern Ireland departments"
+ },
+ {
+  "id": "different-provision-for-different-cases",
+  "level": 4,
+  "title": "Different provision for different cases"
+ },
+ {
+  "id": "different-provision-for-different-areas",
+  "level": 4,
+  "title": "Different provision for different areas"
+ },
+ {
+  "id": "non-exercise-of-powers",
+  "level": 4,
+  "title": "Non-exercise of powers"
+ },
+ {
+  "id": "subordinate-legislation-made-by-a-minister-of-the-crown",
+  "level": 4,
+  "title": "Subordinate legislation made by a Minister of the Crown"
+ },
+ {
+  "id": "wales-2",
+  "level": 4,
+  "title": "Wales"
+ },
+ {
+  "id": "section-1-1a-of-the-statutory-instruments-act-1946-provides-",
+  "level": 3,
+  "title": "• section 1(1A) of the Statutory Instruments Act 1946 provides that where a power"
+ },
+ {
+  "id": "section-11a-of-the-1946-act-modifies-the-act-so-as-to-ensure",
+  "level": 3,
+  "title": "• section 11A of the 1946 Act modifies the Act so as to ensure that the procedural"
+ },
+ {
+  "id": "scotland-2",
+  "level": 4,
+  "title": "Scotland"
+ },
+ {
+  "id": "northern-ireland-2",
+  "level": 4,
+  "title": "Northern Ireland"
+ },
+ {
+  "id": "location-of-procedural-provision",
+  "level": 4,
+  "title": "Location of procedural provision"
+ },
+ {
+  "id": "laying-documents-before-parliament",
+  "level": 4,
+  "title": "Laying documents before Parliament"
+ },
+ {
+  "id": "amending-subordinate-legislation",
+  "level": 4,
+  "title": "Amending subordinate legislation"
+ },
+ {
+  "id": "part-10-final-provisions-2",
+  "level": 2,
+  "title": "PART 10 FINAL PROVISIONS"
+ },
+ {
+  "id": "running-order",
+  "level": 4,
+  "title": "Running order"
+ },
+ {
+  "id": "heading",
+  "level": 4,
+  "title": "Heading"
+ },
+ {
+  "id": "introduction-5",
+  "level": 4,
+  "title": "Introduction"
+ },
+ {
+  "id": "clause-heading",
+  "level": 4,
+  "title": "Clause heading"
+ },
+ {
+  "id": "form-of-provision",
+  "level": 4,
+  "title": "Form of provision"
+ },
+ {
+  "id": "what-is-extent",
+  "level": 4,
+  "title": "What is extent?"
+ },
+ {
+  "id": "england-and-wales-note-that-this-is-a-single-jurisdiction-sc",
+  "level": 3,
+  "title": "• England and Wales (note that this is a single jurisdiction); • Scotland; • Northern Ireland."
+ },
+ {
+  "id": "state-extent-positively",
+  "level": 4,
+  "title": "State extent positively"
+ },
+ {
+  "id": "amendments-with-the-same-extent-as-the-amended-act",
+  "level": 4,
+  "title": "Amendments with the same extent as the amended Act"
+ },
+ {
+  "id": "amendments-with-different-extent-from-the-amended-act",
+  "level": 4,
+  "title": "Amendments with different extent from the amended Act"
+ },
+ {
+  "id": "amendment-of-extent-provisions",
+  "level": 4,
+  "title": "Amendment of extent provisions"
+ },
+ {
+  "id": "complex-propositions-about-extent",
+  "level": 4,
+  "title": "Complex propositions about extent"
+ },
+ {
+  "id": "introduction-6",
+  "level": 4,
+  "title": "Introduction"
+ },
+ {
+  "id": "free-standing-provision",
+  "level": 4,
+  "title": "Free-standing provision"
+ },
+ {
+  "id": "textual-amendment-of-act-which-extends-to-islands-on-its-fac",
+  "level": 4,
+  "title": "Textual amendment of Act which extends to Islands on its face"
+ },
+ {
+  "id": "textual-amendment-of-act-containing-power-to-extend-to-islan",
+  "level": 4,
+  "title": "Textual amendment of Act containing power to extend to Islands"
+ },
+ {
+  "id": "preservation-of-powers-of-extension",
+  "level": 4,
+  "title": "Preservation of powers of extension"
+ },
+ {
+  "id": "commencement-and-coming-into-force",
+  "level": 4,
+  "title": "“Commencement” and “coming into force”"
+ },
+ {
+  "id": "commencement-on-royal-assent",
+  "level": 4,
+  "title": "Commencement on Royal Assent"
+ },
+ {
+  "id": "commencement-at-end-of-fixed-period",
+  "level": 4,
+  "title": "Commencement at end of fixed period"
+ },
+ {
+  "id": "commencement-by-regulations",
+  "level": 4,
+  "title": "Commencement by regulations"
+ },
+ {
+  "id": "differential-commencement",
+  "level": 4,
+  "title": "Differential commencement"
+ },
+ {
+  "id": "power-to-make-transitional-or-saving-provision",
+  "level": 4,
+  "title": "Power to make transitional or saving provision"
+ },
+ {
+  "id": "structure",
+  "level": 4,
+  "title": "Structure"
+ },
+ {
+  "id": "a-free-standing-power-to-make-transitional-or-saving-provisi",
+  "level": 3,
+  "title": "• a free-standing power to make transitional or saving provision; • provision authorising commencement regulations to make differential provision; • provision for regulations under the clause to be made by statutory instrument."
+ },
+ {
+  "id": "how-to-express-temporary-effect",
+  "level": 4,
+  "title": "How to express temporary effect"
+ },
+ {
+  "id": "duration-to-be-separately-expressed",
+  "level": 4,
+  "title": "Duration to be separately expressed"
+ },
+ {
+  "id": "effect-of-expiry",
+  "level": 4,
+  "title": "Effect of expiry"
+ },
+ {
+  "id": "form-for-conferring-short-title",
+  "level": 4,
+  "title": "Form for conferring short title"
+ },
+ {
+  "id": "part-11-words-and-phrases-2",
+  "level": 2,
+  "title": "PART 11 WORDS AND PHRASES"
+ },
+ {
+  "id": "affect",
+  "level": 4,
+  "title": "affect"
+ },
+ {
+  "id": "any",
+  "level": 4,
+  "title": "any"
+ },
+ {
+  "id": "apart-from",
+  "level": 4,
+  "title": "apart from"
+ },
+ {
+  "id": "description",
+  "level": 4,
+  "title": "description"
+ },
+ {
+  "id": "function",
+  "level": 4,
+  "title": "function"
+ },
+ {
+  "id": "prescribe",
+  "level": 4,
+  "title": "prescribe"
+ },
+ {
+  "id": "provide",
+  "level": 4,
+  "title": "provide"
+ },
+ {
+  "id": "provision",
+  "level": 4,
+  "title": "provision"
+ },
+ {
+  "id": "pursuant-to-in-pursuance-of",
+  "level": 4,
+  "title": "pursuant to, in pursuance of"
+ },
+ {
+  "id": "satisfy",
+  "level": 4,
+  "title": "satisfy"
+ },
+ {
+  "id": "subject-to",
+  "level": 4,
+  "title": "subject to"
+ },
+ {
+  "id": "such",
+  "level": 4,
+  "title": "such"
+ },
+ {
+  "id": "supplemental-supplementary",
+  "level": 4,
+  "title": "supplemental / supplementary"
+ },
+ {
+  "id": "by-virtue-of",
+  "level": 4,
+  "title": "by virtue of"
+ },
+ {
+  "id": "where-if",
+  "level": 4,
+  "title": "where / if"
+ },
+ {
+  "id": "without-prejudice",
+  "level": 4,
+  "title": "without prejudice"
+ },
+ {
+  "id": "appendix-example-end-provisions-based-on-parts-9-and-10",
+  "level": 4,
+  "title": "APPENDIX EXAMPLE END PROVISIONS (BASED ON PARTS 9 AND 10)"
+ },
+ {
+  "id": "general",
+  "level": 4,
+  "title": "General"
+ },
+ {
+  "id": "10-power-to-make-consequential-provision",
+  "level": 4,
+  "title": "10 Power to make consequential provision"
+ },
+ {
+  "id": "11-regulations2",
+  "level": 4,
+  "title": "11 Regulations2"
+ },
+ {
+  "id": "12-extent",
+  "level": 4,
+  "title": "12 Extent"
+ },
+ {
+  "id": "13-commencement",
+  "level": 4,
+  "title": "13 Commencement"
+ },
+ {
+  "id": "14-short-title",
+  "level": 4,
+  "title": "14 Short title"
+ }
+]

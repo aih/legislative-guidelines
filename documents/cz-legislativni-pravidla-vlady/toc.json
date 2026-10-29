@@ -1,0 +1,497 @@
+[
+ {
+  "id": "legislativní-pravidla-vlády",
+  "level": 2,
+  "title": "LEGISLATIVNÍ PRAVIDLA VLÁDY"
+ },
+ {
+  "id": "úplné-znění",
+  "level": 3,
+  "title": "ÚPLNÉ ZNĚNÍ"
+ },
+ {
+  "id": "úvodní-ustanovení",
+  "level": 3,
+  "title": "ÚVODNÍ USTANOVENÍ"
+ },
+ {
+  "id": "předmět-úpravy",
+  "level": 3,
+  "title": "Předmět úpravy"
+ },
+ {
+  "id": "obecné-požadavky-na-tvorbu-právních-předpisů",
+  "level": 3,
+  "title": "Obecné požadavky na tvorbu právních předpisů"
+ },
+ {
+  "id": "příprava-návrhu-zákona",
+  "level": 3,
+  "title": "PŘÍPRAVA NÁVRHU ZÁKONA"
+ },
+ {
+  "id": "věcný-záměr-zákona",
+  "level": 3,
+  "title": "Věcný záměr zákona"
+ },
+ {
+  "id": "návrh-zákona",
+  "level": 3,
+  "title": "Návrh zákona"
+ },
+ {
+  "id": "vypracování-prováděcích-předpisů",
+  "level": 3,
+  "title": "VYPRACOVÁNÍ PROVÁDĚCÍCH PŘEDPISŮ"
+ },
+ {
+  "id": "nařízení-vlády",
+  "level": 3,
+  "title": "Nařízení vlády"
+ },
+ {
+  "id": "vyhláška",
+  "level": 3,
+  "title": "Vyhláška"
+ },
+ {
+  "id": "příprava-právních-předpisů-ve-zvláštních-případech",
+  "level": 3,
+  "title": "PŘÍPRAVA PRÁVNÍCH PŘEDPISŮ VE ZVLÁŠTNÍCH PŘÍPADECH"
+ },
+ {
+  "id": "příprava-stanoviska-vlády-k-návrhům-zákonů-jejichž-předklada",
+  "level": 3,
+  "title": "PŘÍPRAVA STANOVISKA VLÁDY K NÁVRHŮM ZÁKONŮ, JEJICHŽ PŘEDKLADATELEM NENÍ VLÁDA"
+ },
+ {
+  "id": "legislativně-technické-požadavky",
+  "level": 3,
+  "title": "LEGISLATIVNĚ TECHNICKÉ POŽADAVKY"
+ },
+ {
+  "id": "elektronický-systém-tvorby-právních-předpisů",
+  "level": 3,
+  "title": "Elektronický systém tvorby právních předpisů"
+ },
+ {
+  "id": "členění-právního-předpisu",
+  "level": 3,
+  "title": "Členění právního předpisu"
+ },
+ {
+  "id": "na-části-hlavy-díly-oddíly-pododdíly-a-jejich-označování",
+  "level": 3,
+  "title": "na části, hlavy, díly, oddíly, pododdíly a jejich označování"
+ },
+ {
+  "id": "na-paragrafy-odstavce-pododstavce-body-a-jejich-označování",
+  "level": 3,
+  "title": "na paragrafy, odstavce, pododstavce, body a jejich označování"
+ },
+ {
+  "id": "členění-ústavního-zákona",
+  "level": 3,
+  "title": "Členění ústavního zákona"
+ },
+ {
+  "id": "členění-novely",
+  "level": 3,
+  "title": "Členění novely"
+ },
+ {
+  "id": "příloha-k-právnímu-předpisu",
+  "level": 3,
+  "title": "Příloha k právnímu předpisu"
+ },
+ {
+  "id": "nadpisy-v-právních-předpisech",
+  "level": 3,
+  "title": "Nadpisy v právních předpisech"
+ },
+ {
+  "id": "základní-ustanovení",
+  "level": 3,
+  "title": "Základní ustanovení"
+ },
+ {
+  "id": "nadpis-zákona",
+  "level": 3,
+  "title": "Nadpis zákona"
+ },
+ {
+  "id": "ústavní-zákon",
+  "level": 3,
+  "title": "„ÚSTAVNÍ ZÁKON"
+ },
+ {
+  "id": "zákon",
+  "level": 3,
+  "title": "„ZÁKON"
+ },
+ {
+  "id": "zákon-2",
+  "level": 3,
+  "title": "„ZÁKON"
+ },
+ {
+  "id": "zákon-3",
+  "level": 3,
+  "title": "„ZÁKON"
+ },
+ {
+  "id": "kterým-se-mění-zákon-č-sb-o-ve-znění-pozdějších",
+  "level": 3,
+  "title": "kterým se mění zákon č. .../... Sb., o ................., ve znění pozdějších"
+ },
+ {
+  "id": "zákon-4",
+  "level": 3,
+  "title": "„ZÁKON"
+ },
+ {
+  "id": "kterým-se-mění-některé-zákony-v-oblasti-na-úseku-nebo-v-souv",
+  "level": 3,
+  "title": "kterým se mění některé zákony v oblasti (na úseku nebo v souvislosti"
+ },
+ {
+  "id": "zákon-5",
+  "level": 3,
+  "title": "„ZÁKON"
+ },
+ {
+  "id": "zákon-6",
+  "level": 3,
+  "title": "„ZÁKON"
+ },
+ {
+  "id": "o-a-o-změně-zákona-č-sb-o-ve-znění-pozdějších",
+  "level": 3,
+  "title": "o .........., a o změně zákona č. ..../... Sb., o ............., ve znění pozdějších"
+ },
+ {
+  "id": "zákon-7",
+  "level": 3,
+  "title": "„ZÁKON"
+ },
+ {
+  "id": "nadpis-nařízení-vlády",
+  "level": 3,
+  "title": "Nadpis nařízení vlády"
+ },
+ {
+  "id": "nařízení-vlády-2",
+  "level": 3,
+  "title": "„NAŘÍZENÍ VLÁDY"
+ },
+ {
+  "id": "nařízení-vlády-3",
+  "level": 3,
+  "title": "„NAŘÍZENÍ VLÁDY"
+ },
+ {
+  "id": "kterým-se-mění-nařízení-vlády-č-sb-o-ve-znění-pozdějších",
+  "level": 3,
+  "title": "kterým se mění nařízení vlády č. .../... Sb., o ............., ve znění pozdějších"
+ },
+ {
+  "id": "nadpis-vyhlášky",
+  "level": 3,
+  "title": "Nadpis vyhlášky"
+ },
+ {
+  "id": "vyhláška-2",
+  "level": 3,
+  "title": "„VYHLÁŠKA"
+ },
+ {
+  "id": "vyhláška-3",
+  "level": 3,
+  "title": "„VYHLÁŠKA"
+ },
+ {
+  "id": "kterou-se-mění-vyhláška-ministerstva-č-sb-o-ve-znění",
+  "level": 3,
+  "title": "kterou se mění vyhláška Ministerstva .......... č. .../... Sb., o ..............., ve znění"
+ },
+ {
+  "id": "vyhláška-4",
+  "level": 3,
+  "title": "„VYHLÁŠKA"
+ },
+ {
+  "id": "nadpisy-částí-zákona-který-obsahuje-kromě-novely-i-úpravu-ji",
+  "level": 3,
+  "title": "Nadpisy částí zákona, který obsahuje kromě novely i úpravu jiných věcí nebo obsahuje pouze novely jiných zákonů"
+ },
+ {
+  "id": "nadpis-přílohy-k-právnímu-předpisu",
+  "level": 3,
+  "title": "Nadpis přílohy k právnímu předpisu"
+ },
+ {
+  "id": "úvodní-věty-v-právních-předpisech",
+  "level": 3,
+  "title": "Úvodní věty v právních předpisech"
+ },
+ {
+  "id": "úvodní-věta-zákona",
+  "level": 3,
+  "title": "Úvodní věta zákona"
+ },
+ {
+  "id": "úvodní-věta-nařízení-vlády",
+  "level": 3,
+  "title": "Úvodní věta nařízení vlády"
+ },
+ {
+  "id": "úvodní-věta-vyhlášky",
+  "level": 3,
+  "title": "Úvodní věta vyhlášky"
+ },
+ {
+  "id": "některé-požadavky-na-obsah-právního-předpisu",
+  "level": 3,
+  "title": "Některé požadavky na obsah právního předpisu"
+ },
+ {
+  "id": "základní-ustanovení-2",
+  "level": 3,
+  "title": "Základní ustanovení"
+ },
+ {
+  "id": "terminologie-v-právním-předpisu",
+  "level": 3,
+  "title": "Terminologie v právním předpisu"
+ },
+ {
+  "id": "použití-slov-obdobně-a-přiměřeně",
+  "level": 3,
+  "title": "Použití slov „obdobně\" a „přiměřeně\""
+ },
+ {
+  "id": "vyjádření-variant",
+  "level": 3,
+  "title": "Vyjádření variant"
+ },
+ {
+  "id": "vyjádření-číslovek-a-peněžních-částek",
+  "level": 3,
+  "title": "Vyjádření číslovek a peněžních částek"
+ },
+ {
+  "id": "legislativní-zkratka",
+  "level": 3,
+  "title": "Legislativní zkratka"
+ },
+ {
+  "id": "odkaz-v-právním-předpisu",
+  "level": 3,
+  "title": "Odkaz v právním předpisu"
+ },
+ {
+  "id": "odkaz-na-technickou-normu",
+  "level": 3,
+  "title": "Odkaz na technickou normu"
+ },
+ {
+  "id": "přejímání-ustanovení-jiného-právního-předpisu",
+  "level": 3,
+  "title": "Přejímání ustanovení jiného právního předpisu"
+ },
+ {
+  "id": "poznámka-pod-čarou",
+  "level": 3,
+  "title": "Poznámka pod čarou"
+ },
+ {
+  "id": "úvodní-a-závěrečná-ustanovení-právního-předpisu",
+  "level": 3,
+  "title": "Úvodní a závěrečná ustanovení právního předpisu"
+ },
+ {
+  "id": "zákonné-zmocnění-k-vydání-prováděcího-předpisu",
+  "level": 3,
+  "title": "Zákonné zmocnění k vydání prováděcího předpisu"
+ },
+ {
+  "id": "zmocnění-k-povolování-výjimek-ze-zákona",
+  "level": 3,
+  "title": "Zmocnění k povolování výjimek ze zákona"
+ },
+ {
+  "id": "přechodné-ustanovení-právního-předpisu",
+  "level": 3,
+  "title": "Přechodné ustanovení právního předpisu"
+ },
+ {
+  "id": "zrušovací-ustanovení-právního-předpisu",
+  "level": 3,
+  "title": "Zrušovací ustanovení právního předpisu"
+ },
+ {
+  "id": "ustanovení-o-nabytí-účinnosti-nebo-pozbytí-platnosti-právníh",
+  "level": 3,
+  "title": "Ustanovení o nabytí účinnosti nebo pozbytí platnosti právního předpisu"
+ },
+ {
+  "id": "některé-požadavky-na-obsah-novely-právního-předpisu",
+  "level": 3,
+  "title": "Některé požadavky na obsah novely právního předpisu"
+ },
+ {
+  "id": "základní-ustanovení-3",
+  "level": 3,
+  "title": "Základní ustanovení"
+ },
+ {
+  "id": "příprava-novely-právního-předpisu-prostřednictvím-elektronic",
+  "level": 3,
+  "title": "Příprava novely právního předpisu prostřednictvím elektronického systému tvorby právních předpisů"
+ },
+ {
+  "id": "obsah-článku-i-novely-nebo-paragrafu-uvedeného-pod-nadpisem-",
+  "level": 3,
+  "title": "Obsah článku I novely nebo paragrafu uvedeného pod nadpisem té části zákona, která obsahuje novelu"
+ },
+ {
+  "id": "text-bodů-novely-při-zrušení-ustanovení-nebo-části-ustanoven",
+  "level": 3,
+  "title": "Text bodů novely při zrušení ustanovení nebo části ustanovení právního předpisu bez náhrady"
+ },
+ {
+  "id": "text-bodů-novely-při-nahrazení-ustanovení-nebo-části-ustanov",
+  "level": 3,
+  "title": "Text bodů novely při nahrazení ustanovení nebo části ustanovení právního předpisu jiným ustanovením nebo jeho částí"
+ },
+ {
+  "id": "text-bodů-novely-při-doplnění-právního-předpisu-o-další-usta",
+  "level": 3,
+  "title": "Text bodů novely při doplnění právního předpisu o další ustanovení nebo jeho část"
+ },
+ {
+  "id": "text-bodů-novely-při-změně-nebo-zrušení-přílohy-k-právnímu-p",
+  "level": 3,
+  "title": "Text bodů novely při změně nebo zrušení přílohy k právnímu předpisu"
+ },
+ {
+  "id": "druhy-a-používání-citací-v-právních-předpisech",
+  "level": 3,
+  "title": "Druhy a používání citací v právních předpisech"
+ },
+ {
+  "id": "úplná-citace-právního-předpisu",
+  "level": 3,
+  "title": "Úplná citace právního předpisu"
+ },
+ {
+  "id": "zkrácená-citace-právního-předpisu",
+  "level": 3,
+  "title": "Zkrácená citace právního předpisu"
+ },
+ {
+  "id": "slovní-citace-právního-předpisu",
+  "level": 3,
+  "title": "Slovní citace právního předpisu"
+ },
+ {
+  "id": "citace-novelizovaného-právního-předpisu",
+  "level": 3,
+  "title": "Citace novelizovaného právního předpisu"
+ },
+ {
+  "id": "citace-v-prováděcím-předpisu",
+  "level": 3,
+  "title": "Citace v prováděcím předpisu"
+ },
+ {
+  "id": "citace-cizích-právních-předpisů-a-mezinárodních-smluv",
+  "level": 3,
+  "title": "Citace cizích právních předpisů a mezinárodních smluv"
+ },
+ {
+  "id": "citace-paragrafu-článku",
+  "level": 3,
+  "title": "Citace paragrafu (článku)"
+ },
+ {
+  "id": "souborná-citace-několika-paragrafů-článků",
+  "level": 3,
+  "title": "Souborná citace několika paragrafů (článků)"
+ },
+ {
+  "id": "citace-odstavce",
+  "level": 3,
+  "title": "Citace odstavce"
+ },
+ {
+  "id": "citace-pododstavce-a-bodu",
+  "level": 3,
+  "title": "Citace pododstavce a bodu"
+ },
+ {
+  "id": "citace-jednotlivých-vět",
+  "level": 3,
+  "title": "Citace jednotlivých vět"
+ },
+ {
+  "id": "citace-čísel",
+  "level": 3,
+  "title": "Citace čísel"
+ },
+ {
+  "id": "užívání-zkratek",
+  "level": 3,
+  "title": "Užívání zkratek"
+ },
+ {
+  "id": "zmocňovací-a-závěrečná-ustanovení",
+  "level": 3,
+  "title": "ZMOCŇOVACÍ A ZÁVĚREČNÁ USTANOVENÍ"
+ },
+ {
+  "id": "zákon-8",
+  "level": 3,
+  "title": "ZÁKON"
+ },
+ {
+  "id": "o-kterým-se-mění",
+  "level": 3,
+  "title": "o (, kterým se mění) ……"
+ },
+ {
+  "id": "nařízení-vlády-4",
+  "level": 3,
+  "title": "NAŘÍZENÍ VLÁDY"
+ },
+ {
+  "id": "vyhláška-5",
+  "level": 3,
+  "title": "VYHLÁŠKA"
+ },
+ {
+  "id": "způsob-prokazování-slučitelnosti-navrhovaných-právních-předp",
+  "level": 3,
+  "title": "Způsob prokazování slučitelnosti navrhovaných právních předpisů s právem Evropské unie (EU) a postup při předběžných konzultacích o návrhu zákona s výborem pro evropské záležitosti Poslanecké sněmovny"
+ },
+ {
+  "id": "úvodní-ustanovení-2",
+  "level": 3,
+  "title": "Úvodní ustanovení"
+ },
+ {
+  "id": "způsob-prokazování-slučitelnosti-navrhovaných-právních-předp-2",
+  "level": 3,
+  "title": "Způsob prokazování slučitelnosti navrhovaných právních předpisů s právem EU"
+ },
+ {
+  "id": "postup-při-předběžných-konzultacích-o-návrzích-zákonů-s-výbo",
+  "level": 3,
+  "title": "Postup při předběžných konzultacích o návrzích zákonů s výborem pro evropské záležitosti Poslanecké sněmovny"
+ },
+ {
+  "id": "rozdílová-tabulka-návrhu-právního-předpisu-čr-s-předpisy-eu",
+  "level": 3,
+  "title": "Rozdílová tabulka návrhu právního předpisu ČR s předpisy EU"
+ }
+]

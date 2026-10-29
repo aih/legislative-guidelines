@@ -1,0 +1,174 @@
+{% extends "base.html" %}
+{% block title %}Bill Drafting Compliance Auditor | {{ site.title }}{% endblock %}
+{% block description %}Upload or paste a drafted bill or act and evaluate how well it follows national and supranational legislative drafting guidelines with a 1–10 compliance score.{% endblock %}
+{% block main %}
+<div class="wrap auditor-page">
+  <div class="auditor-header">
+    <div>
+      <p class="crumbs"><a href="index.html">Guidelines</a> › Bill Drafting Auditor</p>
+      <h1>Bill &amp; Act Drafting Compliance Auditor</h1>
+      <p class="lead">Upload a drafted bill or statutory clauses and benchmark them against national and supranational legislative drafting manuals. Produces a <strong>1–10 compliance score</strong>, dimensional sub-scores, a rule-by-rule checklist with official manual citations, and concrete redraft suggestions.</p>
+    </div>
+  </div>
+
+  <div class="auditor-grid">
+    <section class="auditor-input-card meta-card" aria-label="Bill input and guideline selection">
+      <h2>1. Select Target Guideline &amp; Input Bill</h2>
+
+      <div class="field">
+        <label for="guidelineSelect">Primary Target Guideline Authority</label>
+        <select id="guidelineSelect">
+          <optgroup label="Featured Benchmark Rulesets (Deep Rule Profiles)">
+            <option value="uk-opc-drafting-guidance">United Kingdom — OPC Drafting Guidance (2024)</option>
+            <option value="eu-joint-practical-guide">European Union — EU Joint Practical Guide (EP, Council, Commission)</option>
+            <option value="us-holc-guide-legislative-drafting">United States — House OLC Guide to Legislative Drafting &amp; Style Manual</option>
+            <option value="ca-legistics">Canada — Department of Justice Legistics (Bijural / Bilingual)</option>
+            <option value="au-opc-plain-english-manual">Australia — OPC Plain English Manual &amp; Drafting Directions</option>
+            <option value="nz-legislation-guidelines-2021">New Zealand — LDAC Legislation Guidelines (2021)</option>
+            <option value="commonwealth-legislative-drafting-manual">Commonwealth Secretariat — Commonwealth Legislative Drafting Manual (2017)</option>
+            <option value="de-handbuch-der-rechtsfoermlichkeit">Germany — BMJ Handbuch der Rechtsförmlichkeit (4. Aufl., 2024)</option>
+            <option value="fr-guide-de-legistique">France — SGG &amp; Conseil d'État Guide de légistique (4e éd., 2026)</option>
+            <option value="osce-odihr-democratic-lawmaking-2024">OSCE / ODIHR — Guidelines on Democratic Lawmaking for Better Laws (2024)</option>
+          </optgroup>
+          <optgroup label="All Catalogued Guidelines ({{ catalog|length }} instruments)">
+            {% for g in catalog %}
+            <option value="{{ g.id }}" data-jurisdiction="{{ g.jurisdiction }}" data-level="{{ g.jurisdiction_level }}" data-code="{{ g.country_code }}">{{ g.jurisdiction }} — {{ g.title_en or g.title }}</option>
+            {% endfor %}
+          </optgroup>
+        </select>
+      </div>
+
+      <div class="field">
+        <span class="field-label">Multi-Jurisdiction Comparison (Optional — compare score across guidelines):</span>
+        <div class="compare-pills" id="compareCheckboxes">
+          <label class="pill-check"><input type="checkbox" value="uk-opc-drafting-guidance" checked> UK OPC</label>
+          <label class="pill-check"><input type="checkbox" value="eu-joint-practical-guide" checked> EU Joint Guide</label>
+          <label class="pill-check"><input type="checkbox" value="us-holc-guide-legislative-drafting" checked> US HOLC</label>
+          <label class="pill-check"><input type="checkbox" value="ca-legistics" checked> Canada Legistics</label>
+          <label class="pill-check"><input type="checkbox" value="au-opc-plain-english-manual"> Australia OPC</label>
+          <label class="pill-check"><input type="checkbox" value="de-handbuch-der-rechtsfoermlichkeit"> Germany HdR</label>
+          <label class="pill-check"><input type="checkbox" value="commonwealth-legislative-drafting-manual"> Commonwealth</label>
+        </div>
+      </div>
+
+      <div class="field-row sample-row">
+        <div class="field">
+          <label for="fileUpload">Upload Draft Bill (<code>.txt</code>, <code>.md</code>, <code>.xml</code> Akoma Ntoso / USLM, <code>.html</code>)</label>
+          <input type="file" id="fileUpload" accept=".txt,.md,.xml,.akn,.html,.htm">
+        </div>
+        <div class="field">
+          <label for="sampleSelect">Or Load a Sample Draft Bill</label>
+          <select id="sampleSelect">
+            <option value="">— Choose a sample bill to test —</option>
+            <option value="flawed_draft">Sample 1: Flawed Bill (Archaic Legalese, "Shall", Gendered, Substantive Definition)</option>
+            <option value="modern_plain">Sample 2: Modern Plain-Language Bill (UK / Commonwealth / NZ / CA Compliant)</option>
+            <option value="eu_regulation">Sample 3: Draft EU Regulation (With Recitals &amp; Normative Recital Trap)</option>
+            <option value="us_federal_bill">Sample 4: US Federal Bill (HOLC Style &amp; Inanimate "Shall" Test)</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="field">
+        <label for="billText">Drafted Bill or Statutory Clauses</label>
+        <textarea id="billText" rows="12" placeholder="Paste your drafted bill, act, or statutory clauses here (plain text, Markdown, or Akoma Ntoso / USLM XML)..."></textarea>
+      </div>
+
+      <details class="llm-details">
+        <summary>Optional: Augment with Live AI Counsel Critique (Gemini / OpenAI API Key)</summary>
+        <div class="llm-panel">
+          <p class="muted">By default, the auditor runs a fast, deterministic statutory rule engine 100% locally in your browser. To add an LLM-powered redrafting critique, optionally provide an API key (kept only in browser memory):</p>
+          <div class="field-row">
+            <div class="field">
+              <label for="llmProvider">AI Provider</label>
+              <select id="llmProvider">
+                <option value="none">Deterministic Rule Engine Only (Default — Instant, No Key Needed)</option>
+                <option value="gemini">Google Gemini API (gemini-2.5-flash)</option>
+                <option value="openai">OpenAI API (gpt-4o-mini / gpt-4o)</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="llmApiKey">API Key (never leaves your browser except to the chosen provider)</label>
+              <input type="password" id="llmApiKey" placeholder="AIza... or sk-..." autocomplete="off">
+            </div>
+          </div>
+        </div>
+      </details>
+
+      <div class="auditor-actions">
+        <button type="button" id="runAuditBtn" class="button">Evaluate Bill Compliance (1–10)</button>
+        <button type="button" id="clearAuditBtn" class="button button-outline">Clear</button>
+      </div>
+    </section>
+
+    <section id="resultsSection" class="auditor-results-card meta-card" aria-live="polite" hidden>
+      <div class="results-header">
+        <div>
+          <span class="crumbs" id="resJurisdiction"></span>
+          <h2 id="resTitle" style="margin: .2rem 0;">Evaluation Summary</h2>
+          <p class="muted" id="resSubtitle" style="margin: 0;"></p>
+        </div>
+        <div class="score-box" id="scoreBox">
+          <span class="score-label">Compliance Score</span>
+          <span class="score-number" id="scoreDisplay">— / 10</span>
+          <span class="score-exact" id="scoreExactDisplay"></span>
+        </div>
+      </div>
+
+      <p id="executiveSummary" class="exec-summary"></p>
+
+      <div class="subscores-grid" id="subscoresContainer" aria-label="Dimensional sub-scores"></div>
+
+      <div class="metrics-bar" id="metricsContainer" aria-label="Drafting metrics"></div>
+
+      <div id="multiCompareSection" class="audit-block" hidden>
+        <h3>Cross-Jurisdictional Score Comparison</h3>
+        <p class="muted" style="margin-top:0;font-size:.9rem;">How this exact draft bill scores across different national and supranational guidelines (click any row to switch the detailed view):</p>
+        <div class="table-scroll">
+          <table class="catalog-table compare-score-table" id="multiCompareTable">
+            <thead>
+              <tr>
+                <th>Guideline Authority</th>
+                <th>Tradition</th>
+                <th>Overall (1–10)</th>
+                <th>Clarity</th>
+                <th>Normative Verbs</th>
+                <th>Definitions</th>
+                <th>Conventions</th>
+                <th>Structure</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="audit-block">
+        <h3>Guideline Checklist Breakdown</h3>
+        <div id="checklistContainer" class="checklist-stack"></div>
+      </div>
+
+      <div class="audit-block">
+        <h3>Flagged Provisions &amp; Proposed Redrafts</h3>
+        <div id="revisionsContainer"></div>
+      </div>
+
+      <div class="audit-block">
+        <h3>Priority Recommendations</h3>
+        <ul id="recommendationsList" class="rec-list"></ul>
+      </div>
+
+      <div id="llmCritiqueBlock" class="audit-block" hidden>
+        <h3>AI Parliamentary Counsel Deep Critique</h3>
+        <div id="llmCritiqueContent" class="llm-output"></div>
+      </div>
+
+      <div class="actions export-actions">
+        <button type="button" id="exportMdBtn" class="button button-outline">Download Markdown Report (.md)</button>
+        <button type="button" id="exportJsonBtn" class="button button-outline">Download JSON (.json)</button>
+        <button type="button" id="printReportBtn" class="button button-outline">Print / Save PDF</button>
+      </div>
+    </section>
+  </div>
+</div>
+{% endblock %}
+{% block scripts %}<script src="assets/auditor.js"></script>{% endblock %}

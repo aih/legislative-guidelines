@@ -1,0 +1,377 @@
+[
+ {
+  "id": "style-manual-for-amendments-to-bills",
+  "level": 2,
+  "title": "STYLE MANUAL FOR AMENDMENTS TO BILLS"
+ },
+ {
+  "id": "chapter-1-general",
+  "level": 3,
+  "title": "CHAPTER 1 GENERAL"
+ },
+ {
+  "id": "chapter-5-amending-text-in-tables",
+  "level": 3,
+  "title": "CHAPTER 5 AMENDING TEXT IN TABLES"
+ },
+ {
+  "id": "chapter-7-moving-text",
+  "level": 3,
+  "title": "CHAPTER 7 MOVING TEXT"
+ },
+ {
+  "id": "chapter-8-splitting-text",
+  "level": 3,
+  "title": "CHAPTER 8 SPLITTING TEXT"
+ },
+ {
+  "id": "chapter-1-general-2",
+  "level": 2,
+  "title": "CHAPTER 1 GENERAL"
+ },
+ {
+  "id": "headings",
+  "level": 3,
+  "title": "Headings"
+ },
+ {
+  "id": "in-the-lords-the-bill-title-is-given-as-cats-and-dogs-bill-h",
+  "level": 2,
+  "title": "• in the Lords, the Bill title is given as Cats and Dogs Bill [HL] • the Commons, the Bill title is given as Cats and Dogs Bill [Lords]"
+ },
+ {
+  "id": "sponsor",
+  "level": 3,
+  "title": "Sponsor"
+ },
+ {
+  "id": "in-committee-this-is-the-minister-leading-for-the-government",
+  "level": 2,
+  "title": "• in Committee, this is the Minister leading for the Government in Committee (not"
+ },
+ {
+  "id": "on-report-this-is-the-minister-in-charge-of-the-bill-i-e-the",
+  "level": 2,
+  "title": "• on Report this is the Minister in charge of the Bill (i.e. the person who signed the"
+ },
+ {
+  "id": "in-committee-it-is-the-minister-leading-for-the-government-i",
+  "level": 2,
+  "title": "• in Committee it is the Minister leading for the Government in Committee (who is"
+ },
+ {
+  "id": "on-report-and-third-reading-it-is-the-minister-in-charge-of-",
+  "level": 2,
+  "title": "• on Report and Third Reading, it is the Minister in charge of the Bill."
+ },
+ {
+  "id": "punctuation-formatting-etc",
+  "level": 3,
+  "title": "Punctuation, formatting etc"
+ },
+ {
+  "id": "use-double-quotes-for-quoting-text-do-not-end-with-a-full-st",
+  "level": 2,
+  "title": "• use double quotes for quoting text; • do not end with a full-stop."
+ },
+ {
+  "id": "the-clause-number-appears-at-the-start-of-the-amendment-both",
+  "level": 2,
+  "title": "• the clause number appears at the start of the amendment both in Committee and"
+ },
+ {
+  "id": "the-sponsor-name-appears-on-the-left-hand-side-above-the-ame",
+  "level": 2,
+  "title": "• the sponsor name appears on the left-hand side above the amendment (in lower"
+ },
+ {
+  "id": "the-clause-number-appears-as-a-heading-to-the-amendment-as-w",
+  "level": 2,
+  "title": "• the clause number appears as a heading to the amendment (as well as at the start"
+ },
+ {
+  "id": "the-sponsor-name-appears-underneath-the-clause-number-centre",
+  "level": 2,
+  "title": "• the sponsor name appears underneath the clause number, centred and in upper"
+ },
+ {
+  "id": "what-can-or-must-be-done-as-printing",
+  "level": 3,
+  "title": "What can or must be done as printing?"
+ },
+ {
+  "id": "clause-headings-schedule-headings-chapter-headings-part-head",
+  "level": 2,
+  "title": "• clause headings • Schedule headings • Chapter headings • Part headings • italic cross-headings above a group of clauses."
+ },
+ {
+  "id": "explanatory-statements-on-amendments",
+  "level": 3,
+  "title": "Explanatory statements on amendments"
+ },
+ {
+  "id": "the-statement-should-be-no-more-than-around-50-words-we-do-n",
+  "level": 2,
+  "title": "• the statement should be no more than around 50 words; • we do not capitalise the words “amendment” or “clause” in explanatory"
+ },
+ {
+  "id": "in-the-commons-explanatory-statements-can-cross-refer-to-oth",
+  "level": 2,
+  "title": "• in the Commons, explanatory statements can cross-refer to other amendments by"
+ },
+ {
+  "id": "in-the-lords-amendments-are-only-numbered-at-the-point-when-",
+  "level": 2,
+  "title": "• in the Lords, amendments are only numbered at the point when the marshalled"
+ },
+ {
+  "id": "an-explanatory-statement-should-still-be-produced-for-an-ame",
+  "level": 2,
+  "title": "• an explanatory statement should still be produced for an amendment to leave out"
+ },
+ {
+  "id": "for-amendments-at-third-reading-in-the-lords-the-explanatory",
+  "level": 2,
+  "title": "• for amendments at Third Reading in the Lords, the explanatory statement should,"
+ },
+ {
+  "id": "the-standard-form-for-the-explanatory-statement-for-the-amen",
+  "level": 2,
+  "title": "• the standard form for the explanatory statement for the amendment removing the"
+ },
+ {
+  "id": "global-amendments",
+  "level": 3,
+  "title": "Global amendments"
+ },
+ {
+  "id": "chapter-2-amendments-to-insert-text",
+  "level": 3,
+  "title": "CHAPTER 2 AMENDMENTS TO INSERT TEXT"
+ },
+ {
+  "id": "inserting-words-that-do-not-amount-to-a-unit-of-text",
+  "level": 3,
+  "title": "Inserting words that do not amount to a unit of text"
+ },
+ {
+  "id": "inserting-a-unit-of-text-subsection-paragraph-etc-into-a-cla",
+  "level": 3,
+  "title": "Inserting a unit of text (subsection, paragraph etc) into a clause"
+ },
+ {
+  "id": "inserting-a-unit-of-text-paragraph-sub-paragraph-etc-into-a-",
+  "level": 3,
+  "title": "Inserting a unit of text (paragraph, sub-paragraph etc) into a Schedule"
+ },
+ {
+  "id": "cross-referring-to-inserted-units-of-text",
+  "level": 3,
+  "title": "Cross-referring to inserted units of text"
+ },
+ {
+  "id": "inserting-paragraph-numbering",
+  "level": 3,
+  "title": "Inserting paragraph numbering"
+ },
+ {
+  "id": "inserting-new-clauses-and-new-schedules",
+  "level": 3,
+  "title": "Inserting new clauses and new Schedules"
+ },
+ {
+  "id": "adjournment-of-criminal-behaviour-order-hearing",
+  "level": 3,
+  "title": "“Adjournment of criminal behaviour order hearing"
+ },
+ {
+  "id": "after-clause-5",
+  "level": 3,
+  "title": "After Clause 5"
+ },
+ {
+  "id": "adjournment-of-criminal-behaviour-order-hearing-2",
+  "level": 3,
+  "title": "“Adjournment of criminal behaviour order hearing"
+ },
+ {
+  "id": "cross-referring-to-new-provisions-which-are-being-inserted-b",
+  "level": 3,
+  "title": "Cross-referring to new provisions which are being inserted by amendment"
+ },
+ {
+  "id": "round-brackets-are-used-the-words-comprising-the-title-of-th",
+  "level": 2,
+  "title": "• round brackets are used; • the words comprising the title of the new clause are italicised, but the brackets are"
+ },
+ {
+  "id": "the-first-letter-of-the-clause-title-is-capitalised",
+  "level": 2,
+  "title": "• the first letter of the clause title is capitalised."
+ },
+ {
+  "id": "cross-referring-to-existing-provisions-in-the-bill",
+  "level": 3,
+  "title": "Cross-referring to existing provisions in the bill"
+ },
+ {
+  "id": "inserting-new-parts-or-chapters",
+  "level": 3,
+  "title": "Inserting new Parts or Chapters"
+ },
+ {
+  "id": "chapter-3-amendments-to-leave-out-text",
+  "level": 3,
+  "title": "CHAPTER 3 AMENDMENTS TO LEAVE OUT TEXT"
+ },
+ {
+  "id": "leaving-out-words",
+  "level": 3,
+  "title": "Leaving out words"
+ },
+ {
+  "id": "leaving-out-units-of-text-e-g-subsections-paragraphs-sub-par",
+  "level": 3,
+  "title": "Leaving out units of text (e.g. subsections, paragraphs, sub-paragraphs)"
+ },
+ {
+  "id": "leaving-out-whole-number-of-lines",
+  "level": 3,
+  "title": "Leaving out whole number of lines"
+ },
+ {
+  "id": "leaving-out-clauses-and-schedules-committee",
+  "level": 3,
+  "title": "Leaving out clauses and Schedules: Committee"
+ },
+ {
+  "id": "clause-5",
+  "level": 3,
+  "title": "Clause 5"
+ },
+ {
+  "id": "schedule-3",
+  "level": 3,
+  "title": "Schedule 3"
+ },
+ {
+  "id": "leaving-out-clauses-and-schedules-report-and-lords-third-rea",
+  "level": 3,
+  "title": "Leaving out clauses and Schedules: Report (and Lords Third Reading)"
+ },
+ {
+  "id": "clause-5-2",
+  "level": 3,
+  "title": "Clause 5"
+ },
+ {
+  "id": "leaving-out-multiple-clauses-chapters-or-parts",
+  "level": 3,
+  "title": "Leaving out multiple clauses, Chapters or Parts"
+ },
+ {
+  "id": "chapter-4-amendments-to-substitute-text",
+  "level": 3,
+  "title": "CHAPTER 4 AMENDMENTS TO SUBSTITUTE TEXT"
+ },
+ {
+  "id": "substituting-text-other-than-whole-clauses",
+  "level": 3,
+  "title": "Substituting text other than whole clauses"
+ },
+ {
+  "id": "substituting-clauses-or-schedules",
+  "level": 3,
+  "title": "Substituting clauses or Schedules"
+ },
+ {
+  "id": "clause-5-3",
+  "level": 3,
+  "title": "Clause 5"
+ },
+ {
+  "id": "feline-requirements-of-secretary-of-state",
+  "level": 3,
+  "title": "“Feline requirements of Secretary of State"
+ },
+ {
+  "id": "schedule-3-2",
+  "level": 3,
+  "title": "Schedule 3"
+ },
+ {
+  "id": "chapter-5-amending-text-in-tables-2",
+  "level": 3,
+  "title": "CHAPTER 5 AMENDING TEXT IN TABLES"
+ },
+ {
+  "id": "inserting-a-new-line-into-a-table",
+  "level": 3,
+  "title": "Inserting a new line into a table"
+ },
+ {
+  "id": "amending-text-of-one-column-in-a-table",
+  "level": 3,
+  "title": "Amending text of one column in a table"
+ },
+ {
+  "id": "chapter-6-amending-the-long-and-short-titles",
+  "level": 3,
+  "title": "CHAPTER 6 AMENDING THE LONG AND SHORT TITLES"
+ },
+ {
+  "id": "amending-the-long-title",
+  "level": 3,
+  "title": "Amending the long title"
+ },
+ {
+  "id": "in-the-title",
+  "level": 3,
+  "title": "In the Title"
+ },
+ {
+  "id": "amending-the-short-title",
+  "level": 3,
+  "title": "Amending the short title"
+ },
+ {
+  "id": "chapter-7-moving-text-2",
+  "level": 2,
+  "title": "CHAPTER 7 MOVING TEXT"
+ },
+ {
+  "id": "clause-5-4",
+  "level": 3,
+  "title": "Clause 5"
+ },
+ {
+  "id": "clause-5-5",
+  "level": 3,
+  "title": "Clause 5"
+ },
+ {
+  "id": "clause-6",
+  "level": 3,
+  "title": "Clause 6"
+ },
+ {
+  "id": "clause-7",
+  "level": 3,
+  "title": "Clause 7"
+ },
+ {
+  "id": "chapter-8-splitting-text-2",
+  "level": 3,
+  "title": "CHAPTER 8 SPLITTING TEXT"
+ },
+ {
+  "id": "clause-5-6",
+  "level": 3,
+  "title": "Clause 5"
+ },
+ {
+  "id": "83e-regulations",
+  "level": 3,
+  "title": "“83E Regulations”"
+ }
+]

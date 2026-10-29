@@ -1,0 +1,977 @@
+[
+ {
+  "id": "table-of-contents",
+  "level": 2,
+  "title": "Table of Contents"
+ },
+ {
+  "id": "acronyms",
+  "level": 2,
+  "title": "Acronyms"
+ },
+ {
+  "id": "preliminary",
+  "level": 2,
+  "title": "PRELIMINARY"
+ },
+ {
+  "id": "part-i",
+  "level": 3,
+  "title": "PART I"
+ },
+ {
+  "id": "foreword-by-the-attorney-general",
+  "level": 2,
+  "title": "Foreword by the Attorney-General"
+ },
+ {
+  "id": "prof-githu-muigai-sc-attorney-general-august-2015",
+  "level": 5,
+  "title": "Prof. Githu Muigai, SC Attorney-General August, 2015"
+ },
+ {
+  "id": "note-by-the-cabinet-secretary-devolution-and-planning",
+  "level": 2,
+  "title": "Note by The Cabinet Secretary, Devolution and Planning"
+ },
+ {
+  "id": "anne-waiguru-ogw",
+  "level": 5,
+  "title": "Anne Waiguru, OGW"
+ },
+ {
+  "id": "ministry-of-devolution-and-planning-august-2015",
+  "level": 5,
+  "title": "Ministry of Devolution and Planning August, 2015"
+ },
+ {
+  "id": "preface-by-the-chairperson-kenya-law-reform-commission",
+  "level": 2,
+  "title": "Preface by The Chairperson, Kenya Law Reform Commission"
+ },
+ {
+  "id": "mbage-ng-ang-a",
+  "level": 5,
+  "title": "Mbage Ng’ang’a"
+ },
+ {
+  "id": "kenya-law-reform-commission-august-2015",
+  "level": 5,
+  "title": "Kenya Law Reform Commission August, 2015"
+ },
+ {
+  "id": "executive-summary",
+  "level": 2,
+  "title": "Executive Summary"
+ },
+ {
+  "id": "acknowledgements",
+  "level": 2,
+  "title": "Acknowledgements"
+ },
+ {
+  "id": "part-ii",
+  "level": 3,
+  "title": "PART II"
+ },
+ {
+  "id": "role-of-the-kenya-law-reform-commission-klrc-in-the-legislat",
+  "level": 2,
+  "title": "Role of the Kenya Law Reform Commission (KLRC) in the Legislative Process"
+ },
+ {
+  "id": "i-introduction",
+  "level": 5,
+  "title": "I. INTRODUCTION"
+ },
+ {
+  "id": "ii-mandate-of-the-commission",
+  "level": 5,
+  "title": "II. MANDATE OF THE COMMISSION"
+ },
+ {
+  "id": "a-constitutional-mandate",
+  "level": 5,
+  "title": "A. CONSTITUTIONAL MANDATE"
+ },
+ {
+  "id": "b-statutory-mandate",
+  "level": 5,
+  "title": "B. STATUTORY MANDATE"
+ },
+ {
+  "id": "a-permanent",
+  "level": 5,
+  "title": "A. PERMANENT"
+ },
+ {
+  "id": "b-authoritative",
+  "level": 5,
+  "title": "B. AUTHORITATIVE"
+ },
+ {
+  "id": "c-full-time",
+  "level": 5,
+  "title": "C. FULL-TIME"
+ },
+ {
+  "id": "d-independent",
+  "level": 5,
+  "title": "D. INDEPENDENT"
+ },
+ {
+  "id": "e-generalist",
+  "level": 5,
+  "title": "E. GENERALIST"
+ },
+ {
+  "id": "f-consultative",
+  "level": 5,
+  "title": "F. CONSULTATIVE"
+ },
+ {
+  "id": "g-implementation-minded",
+  "level": 5,
+  "title": "G. IMPLEMENTATION-MINDED"
+ },
+ {
+  "id": "v-who-are-we",
+  "level": 5,
+  "title": "V. WHO ARE WE?"
+ },
+ {
+  "id": "vi-methods-of-work",
+  "level": 5,
+  "title": "VI. METHODS OF WORK"
+ },
+ {
+  "id": "part-iii",
+  "level": 3,
+  "title": "PART III"
+ },
+ {
+  "id": "policy-making-and-the-law-some-basic-principles",
+  "level": 2,
+  "title": "Policy Making and the Law: Some Basic Principles"
+ },
+ {
+  "id": "1-introduction",
+  "level": 5,
+  "title": "1. INTRODUCTION"
+ },
+ {
+  "id": "a-constitutional-issues",
+  "level": 5,
+  "title": "A. CONSTITUTIONAL ISSUES"
+ },
+ {
+  "id": "b-international-treaties-and-conventions-ratified-by-the-sta",
+  "level": 5,
+  "title": "B. INTERNATIONAL TREATIES AND CONVENTIONS RATIFIED BY THE STATE"
+ },
+ {
+  "id": "c-territorial-jurisdiction",
+  "level": 5,
+  "title": "C. TERRITORIAL JURISDICTION"
+ },
+ {
+  "id": "d-conflict-of-laws",
+  "level": 5,
+  "title": "D. CONFLICT OF LAWS"
+ },
+ {
+  "id": "e-national-law-and-policy",
+  "level": 5,
+  "title": "E. NATIONAL LAW AND POLICY"
+ },
+ {
+  "id": "f-policy-parameters",
+  "level": 5,
+  "title": "F. POLICY PARAMETERS"
+ },
+ {
+  "id": "g-statutory-harmony",
+  "level": 5,
+  "title": "G. STATUTORY HARMONY"
+ },
+ {
+  "id": "h-regulatory-impact-assessment-ria",
+  "level": 5,
+  "title": "H. REGULATORY IMPACT ASSESSMENT (RIA)"
+ },
+ {
+  "id": "i-ethical-and-other-concerns",
+  "level": 5,
+  "title": "I. ETHICAL AND OTHER CONCERNS"
+ },
+ {
+  "id": "j-technical-soundness-or-practicality-concerns",
+  "level": 5,
+  "title": "J. TECHNICAL SOUNDNESS OR PRACTICALITY CONCERNS"
+ },
+ {
+  "id": "k-public-participation",
+  "level": 5,
+  "title": "K. PUBLIC PARTICIPATION"
+ },
+ {
+  "id": "l-cost-benefit-analysis",
+  "level": 5,
+  "title": "L. COST-BENEFIT ANALYSIS"
+ },
+ {
+  "id": "part-iv",
+  "level": 3,
+  "title": "PART IV"
+ },
+ {
+  "id": "the-policy-formulation-process",
+  "level": 2,
+  "title": "The Policy Formulation Process"
+ },
+ {
+  "id": "a-introduction",
+  "level": 5,
+  "title": "A. INTRODUCTION"
+ },
+ {
+  "id": "i-what-is-a-policy",
+  "level": 5,
+  "title": "I. WHAT IS A POLICY?"
+ },
+ {
+  "id": "ii-the-constitution-and-policy-making",
+  "level": 5,
+  "title": "II. THE CONSTITUTION AND POLICY MAKING"
+ },
+ {
+  "id": "iii-who-initiates-policy",
+  "level": 5,
+  "title": "III. WHO INITIATES POLICY?"
+ },
+ {
+  "id": "iv-public-participation-in-the-policy-making-process",
+  "level": 5,
+  "title": "IV. PUBLIC PARTICIPATION IN THE POLICY MAKING PROCESS"
+ },
+ {
+  "id": "v-consultation-with-affected-state-entities-and-actors",
+  "level": 5,
+  "title": "V. CONSULTATION WITH AFFECTED STATE ENTITIES AND ACTORS"
+ },
+ {
+  "id": "b-factors-to-consider-in-the-policy-making-process",
+  "level": 5,
+  "title": "B. FACTORS TO CONSIDER IN THE POLICY MAKING PROCESS"
+ },
+ {
+  "id": "c-salient-features-of-a-policy-framework",
+  "level": 5,
+  "title": "C. SALIENT FEATURES OF A POLICY FRAMEWORK"
+ },
+ {
+  "id": "d-who-are-involved-in-the-process",
+  "level": 5,
+  "title": "D. WHO ARE INVOLVED IN THE PROCESS?"
+ },
+ {
+  "id": "e-policy-approval",
+  "level": 5,
+  "title": "E. POLICY APPROVAL"
+ },
+ {
+  "id": "f-effect-of-national-policy-on-county-governments",
+  "level": 5,
+  "title": "F. EFFECT OF NATIONAL POLICY ON COUNTY GOVERNMENTS"
+ },
+ {
+  "id": "g-distinction-between-policy-that-requires-administrative-pr",
+  "level": 5,
+  "title": "G. DISTINCTION BETWEEN POLICY THAT REQUIRES ADMINISTRATIVE PROCEDURES FOR IMPLEMENTATION AND THOSE THAT ARE SELF-EXECUTING"
+ },
+ {
+  "id": "h-how-members-of-the-public-civil-society-and-other-non-stat",
+  "level": 5,
+  "title": "H. HOW MEMBERS OF THE PUBLIC, CIVIL SOCIETY AND OTHER NON-STATE ACTORS ARE ENGAGED IN THE POLICY MAKING PROCESS"
+ },
+ {
+  "id": "i-what-are-the-stages-in-the-policy-formulation-process",
+  "level": 5,
+  "title": "I. WHAT ARE THE STAGES IN THE POLICY FORMULATION PROCESS?"
+ },
+ {
+  "id": "fig-1-stages-in-the-policy-formulation-process",
+  "level": 5,
+  "title": "Fig 1: Stages in The Policy Formulation Process"
+ },
+ {
+  "id": "i-policy-initiation",
+  "level": 3,
+  "title": "I Policy initiation"
+ },
+ {
+  "id": "ii",
+  "level": 2,
+  "title": "II"
+ },
+ {
+  "id": "research-iii-negotiation-and-public-participation-finalizati",
+  "level": 3,
+  "title": "Research III Negotiation and public participation Finalization of the policy V Cabinet or County Executive Committee approval Parliamentary or County Assembly approval"
+ },
+ {
+  "id": "vii-assent",
+  "level": 2,
+  "title": "VII Assent"
+ },
+ {
+  "id": "publication-ix-draft-bill",
+  "level": 3,
+  "title": "Publication IX Draft Bill"
+ },
+ {
+  "id": "iv",
+  "level": 2,
+  "title": "IV"
+ },
+ {
+  "id": "vi",
+  "level": 2,
+  "title": "VI"
+ },
+ {
+  "id": "viii",
+  "level": 2,
+  "title": "VIII"
+ },
+ {
+  "id": "part-v",
+  "level": 3,
+  "title": "PART V"
+ },
+ {
+  "id": "translating-policy-into-legislation",
+  "level": 2,
+  "title": "Translating Policy Into Legislation"
+ },
+ {
+  "id": "a-introduction-2",
+  "level": 5,
+  "title": "A. INTRODUCTION"
+ },
+ {
+  "id": "b-do-we-need-a-legislation-to-give-effect-to-policy",
+  "level": 5,
+  "title": "B. DO WE NEED A LEGISLATION TO GIVE EFFECT TO POLICY?"
+ },
+ {
+  "id": "c-what-are-the-factors-for-consideration-prior-to-legislatio",
+  "level": 5,
+  "title": "C. WHAT ARE THE FACTORS FOR CONSIDERATION PRIOR TO LEGISLATION?"
+ },
+ {
+  "id": "d-what-are-the-cost-benefit-implications-for-adopting-the-le",
+  "level": 5,
+  "title": "D. WHAT ARE THE COST-BENEFIT IMPLICATIONS FOR ADOPTING THE LEGISLATIVE REMEDY AS OPPOSED TO ADMINISTRATIVE OR OTHER MEASURES?"
+ },
+ {
+  "id": "e-justification-for-legislation",
+  "level": 5,
+  "title": "E. JUSTIFICATION FOR LEGISLATION"
+ },
+ {
+  "id": "j-factors-to-consider-in-settling-for-a-legislative-solution",
+  "level": 5,
+  "title": "J. FACTORS TO CONSIDER IN SETTLING FOR A LEGISLATIVE SOLUTION"
+ },
+ {
+  "id": "k-sources-government-s-legislative-agenda",
+  "level": 5,
+  "title": "K. SOURCES GOVERNMENT’S LEGISLATIVE AGENDA"
+ },
+ {
+  "id": "part-vi",
+  "level": 3,
+  "title": "PART VI"
+ },
+ {
+  "id": "legislative-drafting",
+  "level": 2,
+  "title": "Legislative Drafting"
+ },
+ {
+  "id": "a-introduction-3",
+  "level": 5,
+  "title": "A. INTRODUCTION"
+ },
+ {
+  "id": "b-principles-and-tenets-of-legislative-drafting",
+  "level": 5,
+  "title": "B. PRINCIPLES AND TENETS OF LEGISLATIVE DRAFTING"
+ },
+ {
+  "id": "i-legislative-sentence",
+  "level": 5,
+  "title": "I. LEGISLATIVE SENTENCE"
+ },
+ {
+  "id": "ii-language-and-syntax",
+  "level": 5,
+  "title": "II. LANGUAGE AND SYNTAX"
+ },
+ {
+  "id": "c-key-reference-laws-in-drafting-drafting-tools",
+  "level": 5,
+  "title": "C. KEY REFERENCE LAWS IN DRAFTING (DRAFTING TOOLS)"
+ },
+ {
+  "id": "d-drafting-instructions",
+  "level": 5,
+  "title": "D. DRAFTING INSTRUCTIONS"
+ },
+ {
+  "id": "e-preparing-a-legislative-plan",
+  "level": 5,
+  "title": "E. PREPARING A LEGISLATIVE PLAN"
+ },
+ {
+  "id": "i-preliminary-provisions",
+  "level": 4,
+  "title": "I. Preliminary Provisions"
+ },
+ {
+  "id": "a-arrangement-of-sections",
+  "level": 5,
+  "title": "A. ARRANGEMENT OF SECTIONS"
+ },
+ {
+  "id": "b-bill-titles",
+  "level": 5,
+  "title": "B. BILL TITLES"
+ },
+ {
+  "id": "c-preamble",
+  "level": 5,
+  "title": "C. PREAMBLE"
+ },
+ {
+  "id": "d-act-numbers",
+  "level": 5,
+  "title": "D. ACT NUMBERS"
+ },
+ {
+  "id": "e-commencement-provisions",
+  "level": 5,
+  "title": "E. COMMENCEMENT PROVISIONS"
+ },
+ {
+  "id": "f-definitions",
+  "level": 5,
+  "title": "F. DEFINITIONS"
+ },
+ {
+  "id": "g-units-of-text-in-acts-and-subsidiary-legislation-or-statut",
+  "level": 5,
+  "title": "G. UNITS OF TEXT IN ACTS AND SUBSIDIARY LEGISLATION OR STATUTORY INSTRUMENTS"
+ },
+ {
+  "id": "h-numbering-and-lettering",
+  "level": 5,
+  "title": "H. NUMBERING AND LETTERING"
+ },
+ {
+  "id": "i-naming-conventions",
+  "level": 5,
+  "title": "I. NAMING CONVENTIONS"
+ },
+ {
+  "id": "j-headings",
+  "level": 5,
+  "title": "J. HEADINGS"
+ },
+ {
+  "id": "k-marginal-notes",
+  "level": 5,
+  "title": "K. MARGINAL NOTES"
+ },
+ {
+  "id": "l-enacting-formula",
+  "level": 5,
+  "title": "L. ENACTING FORMULA"
+ },
+ {
+  "id": "m-application-provisions",
+  "level": 5,
+  "title": "M. APPLICATION PROVISIONS"
+ },
+ {
+  "id": "n-instrument-numbers",
+  "level": 5,
+  "title": "N. INSTRUMENT NUMBERS"
+ },
+ {
+  "id": "o-portfolio-for-signature-page-of-regulations",
+  "level": 5,
+  "title": "O. PORTFOLIO FOR SIGNATURE PAGE OF REGULATIONS"
+ },
+ {
+  "id": "ii-principal-provisions",
+  "level": 4,
+  "title": "II. Principal Provisions"
+ },
+ {
+  "id": "a-substantive-provisions",
+  "level": 5,
+  "title": "A. SUBSTANTIVE PROVISIONS"
+ },
+ {
+  "id": "b-administrative-provisions",
+  "level": 5,
+  "title": "B. ADMINISTRATIVE PROVISIONS"
+ },
+ {
+  "id": "c-financial-provisions",
+  "level": 5,
+  "title": "C. FINANCIAL PROVISIONS"
+ },
+ {
+  "id": "d-miscellaneous-provisions",
+  "level": 5,
+  "title": "D. MISCELLANEOUS PROVISIONS"
+ },
+ {
+  "id": "iii-final-provisions",
+  "level": 4,
+  "title": "III. Final Provisions"
+ },
+ {
+  "id": "iv-schedules",
+  "level": 4,
+  "title": "IV. Schedules"
+ },
+ {
+  "id": "iii-conventional-matters-of-style-and-formatting",
+  "level": 5,
+  "title": "III. CONVENTIONAL MATTERS OF STYLE AND FORMATTING"
+ },
+ {
+  "id": "iv-use-of-plain-language",
+  "level": 5,
+  "title": "IV. USE OF PLAIN LANGUAGE"
+ },
+ {
+  "id": "vi-simple-clear-concise-and-unambiguous-language",
+  "level": 5,
+  "title": "VI. SIMPLE CLEAR, CONCISE, AND UNAMBIGUOUS LANGUAGE"
+ },
+ {
+  "id": "vii-gender-neutral-language",
+  "level": 5,
+  "title": "VII. GENDER-NEUTRAL LANGUAGE"
+ },
+ {
+  "id": "viii-use-of-various-expressions-in-legislation",
+  "level": 5,
+  "title": "VIII. USE OF VARIOUS EXPRESSIONS IN LEGISLATION"
+ },
+ {
+  "id": "ix-drafting-constitutional-law",
+  "level": 5,
+  "title": "IX. DRAFTING CONSTITUTIONAL LAW"
+ },
+ {
+  "id": "x-taxation-money-bills",
+  "level": 5,
+  "title": "X. TAXATION (MONEY BILLS)"
+ },
+ {
+  "id": "xiii-exercise-of-delegated-powers",
+  "level": 5,
+  "title": "XIII. EXERCISE OF DELEGATED POWERS"
+ },
+ {
+  "id": "xiv-role-of-drafters-in-the-respective-entities-in-the-legis",
+  "level": 5,
+  "title": "XIV. ROLE OF DRAFTERS IN THE RESPECTIVE ENTITIES IN THE LEGISLATIVE PROCESS"
+ },
+ {
+  "id": "xv-the-role-of-a-legislative-drafter-some-ethical-and-other-",
+  "level": 5,
+  "title": "XV. THE ROLE OF A LEGISLATIVE DRAFTER—SOME ETHICAL AND OTHER CONCERNS"
+ },
+ {
+  "id": "part-vii",
+  "level": 3,
+  "title": "PART VII"
+ },
+ {
+  "id": "pre-publication-scrutiny",
+  "level": 2,
+  "title": "Pre- Publication Scrutiny"
+ },
+ {
+  "id": "a-introduction-4",
+  "level": 5,
+  "title": "A. Introduction"
+ },
+ {
+  "id": "b-role-of-the-commission-for-the-implementation-of-the-const",
+  "level": 5,
+  "title": "B. Role of the Commission for the Implementation of The Constitution (CIC), Kenya Law Reform Commission (KLRC) and the Attorney-General (AG) in the Constitutional Implementation Process"
+ },
+ {
+  "id": "c-factors-to-consider",
+  "level": 5,
+  "title": "C. Factors to Consider"
+ },
+ {
+  "id": "d-engagement-with-parliamentary-and-county-assembly-committe",
+  "level": 5,
+  "title": "D. Engagement with Parliamentary and County Assembly Committees"
+ },
+ {
+  "id": "part-viii",
+  "level": 3,
+  "title": "PART VIII"
+ },
+ {
+  "id": "the-legislative-process",
+  "level": 2,
+  "title": "The Legislative Process"
+ },
+ {
+  "id": "a-who-are-the-actors-in-this-process",
+  "level": 5,
+  "title": "A. Who are the Actors in this Process?"
+ },
+ {
+  "id": "i-national-level",
+  "level": 5,
+  "title": "I. NATIONAL LEVEL"
+ },
+ {
+  "id": "ii-county-government-level",
+  "level": 5,
+  "title": "II. COUNTY GOVERNMENT LEVEL"
+ },
+ {
+  "id": "b-main-stages-in-the-legislative-process",
+  "level": 5,
+  "title": "B. Main Stages in The Legislative Process"
+ },
+ {
+  "id": "review-and-reform",
+  "level": 5,
+  "title": "Review and Reform"
+ },
+ {
+  "id": "preparation-of-regulations-or-subsidiary-legislation",
+  "level": 5,
+  "title": "Preparation of regulations or subsidiary legislation"
+ },
+ {
+  "id": "proclamation-or-gazzettement-and-implementation",
+  "level": 5,
+  "title": "Proclamation or gazzettement and implementation"
+ },
+ {
+  "id": "debate-and-passage",
+  "level": 5,
+  "title": "Debate and passage"
+ },
+ {
+  "id": "amendments-before-the-house",
+  "level": 5,
+  "title": "Amendments before the House"
+ },
+ {
+  "id": "approval-of-bills-by-relevant-house-committee-involvement-of",
+  "level": 5,
+  "title": "Approval of Bills by relevant House Committee Involvement of the people (Stakeholder consultations)"
+ },
+ {
+  "id": "approval-by-the-executive-preparation-of-bills-and-their-cir",
+  "level": 5,
+  "title": "Approval by the Executive Preparation of Bills and their circulation Issuing of drafting instructions Preparation of an annual legislative program (MDAs identify scope, purpose and urgent, priority, medium and long term legislation)"
+ },
+ {
+  "id": "introduction-to-parliament-or-county-assembly",
+  "level": 5,
+  "title": "Introduction to Parliament or County Assembly"
+ },
+ {
+  "id": "c-process-in-parliament",
+  "level": 5,
+  "title": "C. Process in Parliament"
+ },
+ {
+  "id": "i-what-is-a-bill",
+  "level": 5,
+  "title": "I. WHAT IS A BILL?"
+ },
+ {
+  "id": "ii-stages-in-the-making-of-a-law",
+  "level": 5,
+  "title": "II. STAGES IN THE MAKING OF A LAW"
+ },
+ {
+  "id": "iii-which-bills-may-go-to-what-house",
+  "level": 5,
+  "title": "III. WHICH BILLS MAY GO TO WHAT HOUSE"
+ },
+ {
+  "id": "i-publication-and-circulation",
+  "level": 5,
+  "title": "I. PUBLICATION AND CIRCULATION"
+ },
+ {
+  "id": "ii-first-reading",
+  "level": 5,
+  "title": "II. FIRST READING"
+ },
+ {
+  "id": "iii-second-reading",
+  "level": 5,
+  "title": "III. SECOND READING"
+ },
+ {
+  "id": "iv-committee-of-the-whole-house",
+  "level": 5,
+  "title": "IV. COMMITTEE OF THE WHOLE HOUSE"
+ },
+ {
+  "id": "v-report-stage",
+  "level": 5,
+  "title": "V. REPORT STAGE"
+ },
+ {
+  "id": "vi-third-reading",
+  "level": 5,
+  "title": "VI. THIRD READING"
+ },
+ {
+  "id": "part-ix",
+  "level": 3,
+  "title": "PART IX"
+ },
+ {
+  "id": "assent-and-referral",
+  "level": 2,
+  "title": "Assent and Referral"
+ },
+ {
+  "id": "a-what-is-assent",
+  "level": 5,
+  "title": "A. WHAT IS ASSENT?"
+ },
+ {
+  "id": "b-who-assents",
+  "level": 5,
+  "title": "B. WHO ASSENTS"
+ },
+ {
+  "id": "c-what-document-is-assented-to",
+  "level": 5,
+  "title": "C. WHAT DOCUMENT IS ASSENTED TO"
+ },
+ {
+  "id": "d-is-it-mandatory-to-assent-to-bills",
+  "level": 5,
+  "title": "D. IS IT MANDATORY TO ASSENT TO BILLS?"
+ },
+ {
+  "id": "e-does-assent-alone-amount-to-coming-into-force-of-a-law",
+  "level": 5,
+  "title": "E. DOES ASSENT ALONE AMOUNT TO COMING INTO FORCE OF A LAW?"
+ },
+ {
+  "id": "f-who-should-be-present-at-the-assent-of-a-bill",
+  "level": 5,
+  "title": "F. WHO SHOULD BE PRESENT AT THE ASSENT OF A BILL?"
+ },
+ {
+  "id": "g-timelines-within-which-the-assent-must-be-made",
+  "level": 5,
+  "title": "G. TIMELINES WITHIN WHICH THE ASSENT MUST BE MADE"
+ },
+ {
+  "id": "h-effect-of-failure-to-assent",
+  "level": 5,
+  "title": "H. EFFECT OF FAILURE TO ASSENT"
+ },
+ {
+  "id": "i-grounds-for-the-president-or-governor-refusal-to-assent",
+  "level": 5,
+  "title": "I. GROUNDS FOR THE PRESIDENT OR GOVERNOR REFUSAL TO ASSENT"
+ },
+ {
+  "id": "part-x",
+  "level": 3,
+  "title": "PART X"
+ },
+ {
+  "id": "publication-gazettement-and-coming-into-force-of-law",
+  "level": 2,
+  "title": "Publication: Gazettement and Coming into Force of Law"
+ },
+ {
+  "id": "a-publication",
+  "level": 5,
+  "title": "A. PUBLICATION"
+ },
+ {
+  "id": "b-what-is-the-kenya-gazette-or-kenya-gazette-supplement",
+  "level": 5,
+  "title": "B. WHAT IS THE KENYA GAZETTE OR KENYA GAZETTE SUPPLEMENT?"
+ },
+ {
+  "id": "c-state-entity-responsible-for-publication",
+  "level": 5,
+  "title": "C. STATE ENTITY RESPONSIBLE FOR PUBLICATION"
+ },
+ {
+  "id": "d-who-submits-the-bills-after-assent-for-publication",
+  "level": 5,
+  "title": "D. WHO SUBMITS THE BILLS AFTER ASSENT FOR PUBLICATION?"
+ },
+ {
+  "id": "e-timelines-within-which-the-publication-is-done",
+  "level": 5,
+  "title": "E. TIMELINES WITHIN WHICH THE PUBLICATION IS DONE"
+ },
+ {
+  "id": "part-xi",
+  "level": 3,
+  "title": "PART XI"
+ },
+ {
+  "id": "amendment-of-legislation",
+  "level": 2,
+  "title": "Amendment of Legislation"
+ },
+ {
+  "id": "a-introduction-5",
+  "level": 5,
+  "title": "A. INTRODUCTION"
+ },
+ {
+  "id": "b-how-are-amendments-effected",
+  "level": 5,
+  "title": "B. HOW ARE AMENDMENTS EFFECTED?"
+ },
+ {
+  "id": "c-drafting-direct-amendments",
+  "level": 5,
+  "title": "C. DRAFTING DIRECT AMENDMENTS"
+ },
+ {
+  "id": "d-repeal-and-re-enactment",
+  "level": 5,
+  "title": "D. REPEAL AND RE-ENACTMENT"
+ },
+ {
+  "id": "e-other-examples",
+  "level": 5,
+  "title": "E. OTHER EXAMPLES"
+ },
+ {
+  "id": "f-amendments-in-schedule-form",
+  "level": 5,
+  "title": "F. AMENDMENTS IN SCHEDULE FORM"
+ },
+ {
+  "id": "amendments-relating-to-decimal-currency",
+  "level": 5,
+  "title": "AMENDMENTS RELATING TO DECIMAL CURRENCY"
+ },
+ {
+  "id": "part-xii",
+  "level": 3,
+  "title": "PART XII"
+ },
+ {
+  "id": "regulatory-impact-assessment",
+  "level": 2,
+  "title": "Regulatory Impact Assessment"
+ },
+ {
+  "id": "a-what-are-the-benefits-of-ria",
+  "level": 5,
+  "title": "A. What are the Benefits of RIA?"
+ },
+ {
+  "id": "b-steps-in-conducting-ria",
+  "level": 5,
+  "title": "B. Steps in Conducting RIA"
+ },
+ {
+  "id": "c-factors-that-ria-must-respond-to",
+  "level": 5,
+  "title": "C. Factors that RIA Must Respond To"
+ },
+ {
+  "id": "d-contextual-basis-of-ria",
+  "level": 5,
+  "title": "D. Contextual Basis of RIA"
+ },
+ {
+  "id": "e-who-commissions-ria",
+  "level": 5,
+  "title": "E. Who Commissions RIA?"
+ },
+ {
+  "id": "part-xiii",
+  "level": 3,
+  "title": "PART XIII"
+ },
+ {
+  "id": "contextualization-and-customization-of-model-laws",
+  "level": 2,
+  "title": "Contextualization and Customization of Model Laws"
+ },
+ {
+  "id": "i-introduction-2",
+  "level": 5,
+  "title": "I. INTRODUCTION"
+ },
+ {
+  "id": "ii-what-is-the-value-of-model-laws",
+  "level": 5,
+  "title": "II. WHAT IS THE VALUE OF MODEL LAWS?"
+ },
+ {
+  "id": "references",
+  "level": 3,
+  "title": "References"
+ },
+ {
+  "id": "the-constitution-of-kenya-2010-acts-of-parliament",
+  "level": 5,
+  "title": "The Constitution of Kenya 2010 Acts of Parliament"
+ },
+ {
+  "id": "online-resources",
+  "level": 5,
+  "title": "Online Resources"
+ },
+ {
+  "id": "others",
+  "level": 5,
+  "title": "Others"
+ },
+ {
+  "id": "list-of-references-on-policy-analysis-and-formulation",
+  "level": 5,
+  "title": "List of references on policy analysis and formulation"
+ },
+ {
+  "id": "annex",
+  "level": 3,
+  "title": "Annex"
+ },
+ {
+  "id": "list-of-draft-county-model-laws",
+  "level": 2,
+  "title": "List of Draft County Model Laws"
+ }
+]

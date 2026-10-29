@@ -32,6 +32,11 @@
         {% for v in facets.levels %}<option value="{{ v }}">{{ v|capitalize }}</option>{% endfor %}
       </select>
     </label>
+    <label>Tradition
+      <select id="f-tradition"><option value="">All</option>
+        {% for v in facets.traditions %}<option value="{{ v }}">{{ v|replace('_', ' ')|title }}</option>{% endfor %}
+      </select>
+    </label>
     <label>Region
       <select id="f-region"><option value="">All</option>
         {% for v in facets.regions %}<option>{{ v }}</option>{% endfor %}
@@ -54,7 +59,7 @@
 
   <ol class="g-list" id="catalog">
   {% for g in catalog_az %}
-    <li class="g-item" data-level="{{ g.jurisdiction_level }}" data-region="{{ g.region }}"
+    <li class="g-item" data-level="{{ g.jurisdiction_level }}" data-tradition="{{ g.legal_tradition }}" data-region="{{ g.region }}"
         data-status="{{ g.currency.status }}" data-langs="{{ g.language_names|join('|') }}"
         data-jurisdiction="{{ g.jurisdiction }}" data-title="{{ g.title }}"
         data-text="{{ (g.title ~ ' ' ~ (g.title_en or '') ~ ' ' ~ g.jurisdiction ~ ' ' ~ g.issuing_body ~ ' ' ~ g.document_type ~ ' ' ~ (g.topics|default([])|join(' ')))|lower }}">
@@ -67,7 +72,8 @@
       <div class="g-side">
         <span class="badge badge-{{ g.currency.status }}">{{ g.status_label }}</span>
         <span class="g-updated">{{ g.last_updated or '—' }}</span>
-        <span class="g-format">{{ g.original_format }}{% if g.content %}<span class="html-flag" title="Full text available as HTML">HTML</span>{% endif %}</span>
+        <span class="g-format">{{ g.original_format }}{% if g.content %}<span class="html-flag" title="Full text available as HTML">HTML</span>{% endif %}
+          · <a href="auditor.html?guideline={{ g.id }}" title="Benchmark a draft bill against this guideline">Audit</a></span>
       </div>
     </li>
   {% endfor %}

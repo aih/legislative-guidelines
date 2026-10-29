@@ -1,0 +1,1712 @@
+[
+ {
+  "id": "commonwealth-legislative-drafting-manual",
+  "level": 2,
+  "title": "Commonwealth Legislative Drafting Manual"
+ },
+ {
+  "id": "roger-rose",
+  "level": 4,
+  "title": "Roger Rose"
+ },
+ {
+  "id": "commonwealth-legislative-drafting-manual-2",
+  "level": 2,
+  "title": "Commonwealth Legislative Drafting Manual"
+ },
+ {
+  "id": "foreword",
+  "level": 3,
+  "title": "Foreword"
+ },
+ {
+  "id": "the-rt-hon-patricia-scotland-qc-secretary-general-of-the-com",
+  "level": 5,
+  "title": "The Rt Hon Patricia Scotland QC Secretary-General of the Commonwealth"
+ },
+ {
+  "id": "preface",
+  "level": 3,
+  "title": "Preface"
+ },
+ {
+  "id": "acknowledgements",
+  "level": 3,
+  "title": "Acknowledgements"
+ },
+ {
+  "id": "contents",
+  "level": 3,
+  "title": "Contents"
+ },
+ {
+  "id": "foreword-iii-preface-v-acknowledgements-viii",
+  "level": 5,
+  "title": "Foreword iii Preface v Acknowledgements viii"
+ },
+ {
+  "id": "1-what-is-legislation-and-why-is-it-drafted-the-way-it-is-1",
+  "level": 5,
+  "title": "1 What is Legislation and why is it Drafted the Way it is? 1"
+ },
+ {
+  "id": "2-the-role-of-legislative-counsel-5",
+  "level": 5,
+  "title": "2 The Role of Legislative Counsel 5"
+ },
+ {
+  "id": "3-background-legislation-11",
+  "level": 5,
+  "title": "3 Background Legislation 11"
+ },
+ {
+  "id": "4-the-basic-elements-of-a-legislative-sentence-17",
+  "level": 5,
+  "title": "4 The Basic Elements of a Legislative Sentence 17"
+ },
+ {
+  "id": "5-modern-commonwealth-conventions-in-legislative-drafting-23",
+  "level": 5,
+  "title": "5 Modern Commonwealth Conventions in Legislative Drafting 23"
+ },
+ {
+  "id": "6-plain-language-drafting-31",
+  "level": 5,
+  "title": "6 Plain Language Drafting 31"
+ },
+ {
+  "id": "7-structuring-legislative-drafts-39",
+  "level": 5,
+  "title": "7 Structuring Legislative Drafts 39"
+ },
+ {
+  "id": "8-punctuation-and-capitalisation-47",
+  "level": 5,
+  "title": "8 Punctuation (and Capitalisation) 47"
+ },
+ {
+  "id": "9-definitions-and-interpretation-provisions-53",
+  "level": 5,
+  "title": "9 Definitions and Interpretation Provisions 53"
+ },
+ {
+  "id": "10-words-to-use-with-special-care-and-other-drafting-problem",
+  "level": 5,
+  "title": "10 Words to use with Special Care (and Other Drafting Problems) 59"
+ },
+ {
+  "id": "11-the-legislative-scheme-principles-governing-the-type-of-l",
+  "level": 5,
+  "title": "11 The Legislative Scheme: Principles Governing the Type of Legislation Required and the Ordering of Its Provisions 71"
+ },
+ {
+  "id": "12-introductory-and-preliminary-provisions-75",
+  "level": 5,
+  "title": "12 Introductory and Preliminary Provisions 75"
+ },
+ {
+  "id": "13-final-provisions-85",
+  "level": 5,
+  "title": "13 Final Provisions 85"
+ },
+ {
+  "id": "14-penal-provisions-93",
+  "level": 5,
+  "title": "14 Penal Provisions 93"
+ },
+ {
+  "id": "15-delegated-powers-to-make-legislation-105",
+  "level": 5,
+  "title": "15 Delegated Powers to Make Legislation 105"
+ },
+ {
+  "id": "16-amending-legislation-113",
+  "level": 5,
+  "title": "16 Amending Legislation 113"
+ },
+ {
+  "id": "17-specific-types-of-application-119",
+  "level": 5,
+  "title": "17 Specific Types of Application 119"
+ },
+ {
+  "id": "18-statutory-corporations-127",
+  "level": 5,
+  "title": "18 Statutory Corporations 127"
+ },
+ {
+  "id": "19-licensing-legislation-133",
+  "level": 5,
+  "title": "19 Licensing Legislation 133"
+ },
+ {
+  "id": "20-financial-legislation-139",
+  "level": 5,
+  "title": "20 Financial Legislation 139"
+ },
+ {
+  "id": "appendix-a-legislative-procedure-and-preparation-149-appendi",
+  "level": 5,
+  "title": "Appendix A: Legislative Procedure and Preparation 149 Appendix B: \u0007Guidelines for the Preparation of Cabinet Submissions\b 157 Appendix C: Drafting Instructions 163 Appendix D: Suggested Approaches to Translation of Policy 165 Appendix E: Suggested Approaches to Drafting 171"
+ },
+ {
+  "id": "chapter-1-what-is-legislation-and-why-is-it-drafted-the-way-",
+  "level": 3,
+  "title": "Chapter 1 What is Legislation and why is it Drafted the Way it is?"
+ },
+ {
+  "id": "1-1-what-is-legislation",
+  "level": 4,
+  "title": "1.1 What is legislation?"
+ },
+ {
+  "id": "1-1-1-rules",
+  "level": 4,
+  "title": "1.1.1 ‘Rules’"
+ },
+ {
+  "id": "1-1-2-for-the-conduct-of-society",
+  "level": 4,
+  "title": "1.1.2 ‘For the conduct of society’"
+ },
+ {
+  "id": "rules-for-the-conduct-of-society-or-more-usually-particular-",
+  "level": 5,
+  "title": "Rules for the conduct of society, or more usually particular sections of it, that are binding in their effect and made in written form by or"
+ },
+ {
+  "id": "1-2-how-is-legislation-created",
+  "level": 4,
+  "title": "1.2 How is legislation created?"
+ },
+ {
+  "id": "1-3-why-is-legislation-drafted-in-the-way-it-is",
+  "level": 4,
+  "title": "1.3 Why is legislation drafted in the way it is?"
+ },
+ {
+  "id": "chapter-2-the-role-of-legislative-counsel",
+  "level": 3,
+  "title": "Chapter 2 The Role of Legislative Counsel"
+ },
+ {
+  "id": "2-1-analysis-and-understanding-of-what-the-policy-makers-req",
+  "level": 4,
+  "title": "2.1 Analysis and understanding of what the policy‑makers require"
+ },
+ {
+  "id": "2-2-effective-communication-of-the-intentions-of-the-policy-",
+  "level": 4,
+  "title": "2.2 Effective communication of the intentions of the policy‑makers"
+ },
+ {
+  "id": "2-3-specific-attributes-of-effective-communication",
+  "level": 4,
+  "title": "2.3 Specific attributes of effective communication"
+ },
+ {
+  "id": "2-4-constraints-on-legislative-counsel",
+  "level": 4,
+  "title": "2.4 Constraints on legislative counsel"
+ },
+ {
+  "id": "chapter-3-background-legislation",
+  "level": 3,
+  "title": "Chapter 3 Background Legislation"
+ },
+ {
+  "id": "3-1-the-constitution",
+  "level": 4,
+  "title": "3.1 The Constitution"
+ },
+ {
+  "id": "3-1-1-general-duty-of-legislative-counsel",
+  "level": 4,
+  "title": "3.1.1 General duty of legislative counsel"
+ },
+ {
+  "id": "3-1-2-where-constitutional-issues-are-most-likely-to-arise",
+  "level": 4,
+  "title": "3.1.2 Where constitutional issues are most likely to arise"
+ },
+ {
+  "id": "3-1-3-particular-constitutional-constraints",
+  "level": 4,
+  "title": "3.1.3 Particular constitutional constraints"
+ },
+ {
+  "id": "3-2-the-interpretation-act",
+  "level": 4,
+  "title": "3.2 The Interpretation Act"
+ },
+ {
+  "id": "3-2-1-general",
+  "level": 4,
+  "title": "3.2.1 General"
+ },
+ {
+  "id": "3-2-2-basic-questions-answered-by-the-interpretation-act",
+  "level": 4,
+  "title": "3.2.2 Basic questions answered by the Interpretation Act"
+ },
+ {
+  "id": "3-2-3-the-importance-of-an-interpretation-act",
+  "level": 4,
+  "title": "3.2.3 The importance of an Interpretation Act"
+ },
+ {
+  "id": "3-2-4-unless-a-contrary-intention-appears-and-similar-phrase",
+  "level": 4,
+  "title": "3.2.4 ‘Unless a contrary intention appears’ and similar phrases"
+ },
+ {
+  "id": "3-2-5-how-well-do-others-know-the-interpretation-act",
+  "level": 4,
+  "title": "3.2.5 How well do others know the Interpretation Act?"
+ },
+ {
+  "id": "chapter-4-the-basic-elements-of-a-legislative-sentence",
+  "level": 3,
+  "title": "Chapter 4 The Basic Elements of a Legislative Sentence"
+ },
+ {
+  "id": "4-1-legal-subject",
+  "level": 4,
+  "title": "4.1 Legal subject"
+ },
+ {
+  "id": "4-2-legal-action",
+  "level": 4,
+  "title": "4.2 Legal action"
+ },
+ {
+  "id": "4-3-context",
+  "level": 4,
+  "title": "4.3 Context"
+ },
+ {
+  "id": "4-4-prominence-for-the-legal-subject",
+  "level": 4,
+  "title": "4.4 Prominence for the legal subject"
+ },
+ {
+  "id": "4-5-prominence-for-the-legal-action",
+  "level": 4,
+  "title": "4.5 Prominence for the legal action"
+ },
+ {
+  "id": "chapter-5-modern-commonwealth-conventions-in-legislative-dra",
+  "level": 3,
+  "title": "Chapter 5 Modern Commonwealth Conventions in Legislative Drafting"
+ },
+ {
+  "id": "5-1-the-need-for-consistency-and-conciseness",
+  "level": 4,
+  "title": "5.1 The need for consistency and conciseness"
+ },
+ {
+  "id": "to-do",
+  "level": 5,
+  "title": "to do?"
+ },
+ {
+  "id": "5-2-who-is-affected-by-the-rule",
+  "level": 4,
+  "title": "5.2 Who is affected by the rule?"
+ },
+ {
+  "id": "5-3-what-is-required-or-permitted",
+  "level": 4,
+  "title": "5.3 What is required or permitted?"
+ },
+ {
+  "id": "5-3-1-problems-with-shall-and-suggested-alternatives",
+  "level": 4,
+  "title": "5.3.1 Problems with ‘shall’, and suggested alternatives"
+ },
+ {
+  "id": "5-3-2-potential-problems-with-may",
+  "level": 4,
+  "title": "5.3.2 Potential problems with ‘may’"
+ },
+ {
+  "id": "chapter-6-plain-language-drafting",
+  "level": 3,
+  "title": "Chapter 6 Plain Language Drafting"
+ },
+ {
+  "id": "6-1-introduction",
+  "level": 4,
+  "title": "6.1 Introduction"
+ },
+ {
+  "id": "6-2-reasons-why-legislation-may-fail-to-communicate-clearly",
+  "level": 4,
+  "title": "6.2 Reasons why legislation may fail to communicate clearly"
+ },
+ {
+  "id": "6-3-general-objective-of-plain-english-in-drafting-legislati",
+  "level": 4,
+  "title": "6.3 General objective of plain English in drafting legislation"
+ },
+ {
+  "id": "6-4-the-most-common-specific-problems-that-need-to-be-addres",
+  "level": 4,
+  "title": "6.4 The most common specific problems that need to be addressed"
+ },
+ {
+  "id": "6-4-1-excessively-long-sentences",
+  "level": 4,
+  "title": "6.4.1 Excessively long sentences"
+ },
+ {
+  "id": "6-4-2-legislative-sentences-do-not-follow-standard-english-u",
+  "level": 4,
+  "title": "6.4.2 Legislative sentences do not follow standard English usage"
+ },
+ {
+  "id": "6-4-3-use-of-archaic-or-pretentious-words-and-expressions",
+  "level": 4,
+  "title": "6.4.3 Use of archaic or pretentious words and expressions"
+ },
+ {
+  "id": "6-4-4-careless-use-of-the-passive-voice",
+  "level": 4,
+  "title": "6.4.4 Careless use of the passive voice"
+ },
+ {
+  "id": "6-4-5-careless-use-of-dangling-modifiers",
+  "level": 4,
+  "title": "6.4.5 Careless use of dangling modifiers"
+ },
+ {
+  "id": "6-4-6-excessive-use-of-cross-referencing",
+  "level": 4,
+  "title": "6.4.6 Excessive use of cross-referencing"
+ },
+ {
+  "id": "6-5-the-aims-of-plain-english-in-legislation",
+  "level": 4,
+  "title": "6.5 The aims of plain English in legislation"
+ },
+ {
+  "id": "6-6-words-and-phrases-to-avoid-or-use-with-care",
+  "level": 4,
+  "title": "6.6 Words and phrases to avoid or use with care"
+ },
+ {
+  "id": "chapter-7-structuring-legislative-drafts",
+  "level": 3,
+  "title": "Chapter 7 Structuring Legislative Drafts"
+ },
+ {
+  "id": "7-1-sentences",
+  "level": 4,
+  "title": "7.1 Sentences"
+ },
+ {
+  "id": "7-2-paragraphs",
+  "level": 4,
+  "title": "7.2 Paragraphs"
+ },
+ {
+  "id": "7-2-1-particular-uses",
+  "level": 4,
+  "title": "7.2.1 Particular uses"
+ },
+ {
+  "id": "introducing-or-concluding-words-apply-to-each-of-the-paragra",
+  "level": 5,
+  "title": "introducing or concluding words apply to each of the paragraphs in a"
+ },
+ {
+  "id": "7-2-2-misuse-of-paragraphs",
+  "level": 4,
+  "title": "7.2.2 Misuse of paragraphs"
+ },
+ {
+  "id": "7-3-grouping-provisions-in-an-act",
+  "level": 4,
+  "title": "7.3 Grouping provisions in an Act"
+ },
+ {
+  "id": "7-3-1-devices-for-grouping-provisions-in-an-act",
+  "level": 4,
+  "title": "7.3.1 Devices for grouping provisions in an Act"
+ },
+ {
+  "id": "chapters",
+  "level": 5,
+  "title": "Chapters:"
+ },
+ {
+  "id": "parts",
+  "level": 5,
+  "title": "Parts:"
+ },
+ {
+  "id": "divisions",
+  "level": 5,
+  "title": "Divisions:"
+ },
+ {
+  "id": "headings-or-sub-divisions",
+  "level": 5,
+  "title": "Headings or sub-divisions:"
+ },
+ {
+  "id": "7-3-2-headings-and-section-notes",
+  "level": 4,
+  "title": "7.3.2 Headings and section notes"
+ },
+ {
+  "id": "7-4-linking-devices",
+  "level": 4,
+  "title": "7.4 Linking devices"
+ },
+ {
+  "id": "7-4-1-linking-within-a-sentence",
+  "level": 4,
+  "title": "7.4.1 Linking within a sentence"
+ },
+ {
+  "id": "7-4-2-linking-between-one-sentence-i-e-section-or-subsection",
+  "level": 4,
+  "title": "7.4.2 Linking between one sentence (i.e. section or subsection) and another"
+ },
+ {
+  "id": "indicates-that-the-provision-in-which-this-expression-appear",
+  "level": 5,
+  "title": "indicates that the provision in which this expression appears (i.e. section 5)"
+ },
+ {
+  "id": "7-4-3-provisos",
+  "level": 4,
+  "title": "7.4.3 Provisos"
+ },
+ {
+  "id": "figure-7-1-conventional-commonwealth-arrangement-of-a-bill",
+  "level": 4,
+  "title": "Figure 7.1 Conventional Commonwealth Arrangement of a Bill"
+ },
+ {
+  "id": "final-provisions",
+  "level": 5,
+  "title": "Final provisions"
+ },
+ {
+  "id": "principal-provisions",
+  "level": 5,
+  "title": "Principal provisions"
+ },
+ {
+  "id": "general-and-miscellaneous-provisions",
+  "level": 5,
+  "title": "General and miscellaneous provisions"
+ },
+ {
+  "id": "schedules",
+  "level": 5,
+  "title": "Schedules"
+ },
+ {
+  "id": "chapter-8-punctuation-and-capitalisation",
+  "level": 3,
+  "title": "Chapter 8 Punctuation (and Capitalisation)"
+ },
+ {
+  "id": "8-1-full-stop",
+  "level": 4,
+  "title": "8.1 Full stop"
+ },
+ {
+  "id": "8-2-colon",
+  "level": 4,
+  "title": "8.2 Colon"
+ },
+ {
+  "id": "8-3-dash",
+  "level": 4,
+  "title": "8.3 Dash"
+ },
+ {
+  "id": "8-4-semi-colon",
+  "level": 4,
+  "title": "8.4 Semi-colon"
+ },
+ {
+  "id": "8-5-quotation-marks-or-inverted-commas",
+  "level": 4,
+  "title": "8.5 Quotation marks (or inverted commas)"
+ },
+ {
+  "id": "8-6-brackets",
+  "level": 4,
+  "title": "8.6 Brackets"
+ },
+ {
+  "id": "8-7-hyphen",
+  "level": 4,
+  "title": "8.7 Hyphen"
+ },
+ {
+  "id": "8-8-apostrophe",
+  "level": 4,
+  "title": "8.8 Apostrophe"
+ },
+ {
+  "id": "8-9-comma",
+  "level": 4,
+  "title": "8.9 Comma"
+ },
+ {
+  "id": "8-9-1-problems-with-the-use-of-commas",
+  "level": 4,
+  "title": "8.9.1 Problems with the use of commas"
+ },
+ {
+  "id": "8-10-capital-letters",
+  "level": 4,
+  "title": "8.10 Capital letters"
+ },
+ {
+  "id": "chapter-9-definitions-and-interpretation-provisions",
+  "level": 3,
+  "title": "Chapter 9 Definitions and Interpretation Provisions"
+ },
+ {
+  "id": "9-1-introduction",
+  "level": 4,
+  "title": "9.1 Introduction"
+ },
+ {
+  "id": "9-2-definitions-and-other-interpretation-provisions-generall",
+  "level": 4,
+  "title": "9.2 Definitions and other interpretation provisions generally"
+ },
+ {
+  "id": "9-3-different-kinds-of-interpretation-provisions-and-definit",
+  "level": 4,
+  "title": "9.3 Different kinds of interpretation provisions and definitions"
+ },
+ {
+  "id": "9-3-1-labelling-i-e-using-a-short-term-in-place-of-a-longer-",
+  "level": 4,
+  "title": "9.3.1 Labelling (i.e. using a short term in place of a longer one)"
+ },
+ {
+  "id": "9-3-2-stipulating-i-e-giving-a-specific-meaning-to-a-term",
+  "level": 4,
+  "title": "9.3.2 Stipulating (i.e. giving a specific meaning to a term)"
+ },
+ {
+  "id": "9-3-3-labelling-and-stipulating",
+  "level": 4,
+  "title": "9.3.3 Labelling and stipulating"
+ },
+ {
+  "id": "9-4-writing-definitions",
+  "level": 4,
+  "title": "9.4 Writing definitions"
+ },
+ {
+  "id": "9-4-1-words-within-a-definition-introducing-the-given-meanin",
+  "level": 4,
+  "title": "9.4.1 Words within a definition introducing the given meaning"
+ },
+ {
+  "id": "9-4-2-words-in-the-relevant-section-introducing-definitions",
+  "level": 4,
+  "title": "9.4.2 Words in the relevant section introducing definitions"
+ },
+ {
+  "id": "9-5-where-particular-care-is-needed-in-definitions",
+  "level": 4,
+  "title": "9.5 Where particular care is needed in definitions"
+ },
+ {
+  "id": "9-6-where-do-interpretation-provisions-go",
+  "level": 4,
+  "title": "9.6 Where do interpretation provisions go?"
+ },
+ {
+  "id": "chapter-10-words-to-use-with-special-care-and-other-drafting",
+  "level": 3,
+  "title": "Chapter 10 Words to use with Special Care (and Other Drafting Problems)"
+ },
+ {
+  "id": "10-1-introduction",
+  "level": 4,
+  "title": "10.1 Introduction"
+ },
+ {
+  "id": "10-2-and-and-or",
+  "level": 4,
+  "title": "10.2 ‘And’ and ‘Or’"
+ },
+ {
+  "id": "10-2-1-careless-use-of-and-and-or",
+  "level": 4,
+  "title": "10.2.1 Careless use of ‘and’ and ‘or’"
+ },
+ {
+  "id": "10-2-2-weakened-conjunctions",
+  "level": 4,
+  "title": "10.2.2 Weakened conjunctions"
+ },
+ {
+  "id": "10-2-3-unacceptable-combinations-of-conjunctions",
+  "level": 4,
+  "title": "10.2.3 Unacceptable combinations of conjunctions"
+ },
+ {
+  "id": "10-3-which-and-that",
+  "level": 4,
+  "title": "10.3 ‘Which’ and ‘that’"
+ },
+ {
+  "id": "10-4-all-any-each-and-every",
+  "level": 4,
+  "title": "10.4 ‘All’, ‘any’, ‘each’ and ‘every’"
+ },
+ {
+  "id": "10-5-such",
+  "level": 4,
+  "title": "10.5 ‘Such’"
+ },
+ {
+  "id": "10-6-singular-and-plural",
+  "level": 4,
+  "title": "10.6 Singular and plural"
+ },
+ {
+  "id": "10-7-elliptical-writing-omission-of-words-which-are-to-be-im",
+  "level": 4,
+  "title": "10.7 Elliptical writing (omission of words which are to be implied)"
+ },
+ {
+  "id": "by-operation-of-law",
+  "level": 5,
+  "title": "By operation of law:"
+ },
+ {
+  "id": "by-implication-from-the-words-used",
+  "level": 5,
+  "title": "By implication from the words used:"
+ },
+ {
+  "id": "10-8-indeterminate-terms",
+  "level": 4,
+  "title": "10.8 Indeterminate terms"
+ },
+ {
+  "id": "10-9-gender-neutral-drafting",
+  "level": 4,
+  "title": "10.9 Gender-Neutral Drafting"
+ },
+ {
+  "id": "10-10-expressing-time",
+  "level": 4,
+  "title": "10.10 Expressing time"
+ },
+ {
+  "id": "10-10-1-expressing-time-generally",
+  "level": 4,
+  "title": "10.10.1 Expressing time generally"
+ },
+ {
+  "id": "10-10-2-expressing-dates-and-time",
+  "level": 4,
+  "title": "10.10.2 Expressing dates and time"
+ },
+ {
+  "id": "10-10-3-fixing-a-beginning-or-an-ending",
+  "level": 4,
+  "title": "10.10.3 Fixing a beginning or an ending"
+ },
+ {
+  "id": "10-10-4-periods-fixed-by-reference-to-a-specific-date-or-eve",
+  "level": 4,
+  "title": "10.10.4 Periods fixed by reference to a specific date or event"
+ },
+ {
+  "id": "10-11-expressing-numbers",
+  "level": 4,
+  "title": "10.11 Expressing numbers"
+ },
+ {
+  "id": "chapter-11-the-legislative-scheme-principles-governing-the-t",
+  "level": 3,
+  "title": "Chapter 11 The Legislative Scheme: Principles Governing the Type of Legislation Required and the Ordering of Its Provisions"
+ },
+ {
+  "id": "11-1-fundamental-questions-to-be-answered",
+  "level": 4,
+  "title": "11.1 Fundamental questions to be answered"
+ },
+ {
+  "id": "11-1-1-matters-relating-to-the-type-of-legislation-required",
+  "level": 4,
+  "title": "11.1.1 Matters relating to the type of legislation required"
+ },
+ {
+  "id": "11-1-2-matters-relating-to-the-legal-mechanisms-to-be-employ",
+  "level": 4,
+  "title": "11.1.2 Matters relating to the legal mechanisms to be employed"
+ },
+ {
+  "id": "11-2-a-logical-structure-to-legislation",
+  "level": 4,
+  "title": "11.2 A logical structure to legislation"
+ },
+ {
+  "id": "11-3-the-logical-sequence-of-sections-within-a-part",
+  "level": 4,
+  "title": "11.3 The logical sequence of sections within a Part"
+ },
+ {
+  "id": "chapter-12-introductory-and-preliminary-provisions",
+  "level": 3,
+  "title": "Chapter 12 Introductory and Preliminary Provisions"
+ },
+ {
+  "id": "12-1-introductory-provisions",
+  "level": 4,
+  "title": "12.1 Introductory Provisions"
+ },
+ {
+  "id": "12-1-1-long-title",
+  "level": 4,
+  "title": "12.1.1 Long title"
+ },
+ {
+  "id": "12-1-2-preamble",
+  "level": 4,
+  "title": "12.1.2 Preamble"
+ },
+ {
+  "id": "12-1-3-enacting-formula",
+  "level": 4,
+  "title": "12.1.3 Enacting formula"
+ },
+ {
+  "id": "12-2-preliminary-provisions",
+  "level": 4,
+  "title": "12.2 Preliminary provisions"
+ },
+ {
+  "id": "12-2-1-short-title",
+  "level": 4,
+  "title": "12.2.1 Short title"
+ },
+ {
+  "id": "12-2-2-commencement",
+  "level": 4,
+  "title": "12.2.2 Commencement"
+ },
+ {
+  "id": "12-2-3-interpretation-provisions",
+  "level": 4,
+  "title": "12.2.3 Interpretation Provisions"
+ },
+ {
+  "id": "12-2-4-objects-purpose-provisions",
+  "level": 4,
+  "title": "12.2.4 Objects/purpose provisions"
+ },
+ {
+  "id": "12-2-5-application-provisions",
+  "level": 4,
+  "title": "12.2.5 Application provisions"
+ },
+ {
+  "id": "12-2-6-duration-provisions",
+  "level": 4,
+  "title": "12.2.6 Duration provisions"
+ },
+ {
+  "id": "chapter-13-final-provisions",
+  "level": 3,
+  "title": "Chapter 13 Final Provisions"
+ },
+ {
+  "id": "13-1-repeals",
+  "level": 4,
+  "title": "13.1 Repeals"
+ },
+ {
+  "id": "13-1-1-general-matters",
+  "level": 4,
+  "title": "13.1.1 General matters"
+ },
+ {
+  "id": "13-1-2-kinds-of-repeal",
+  "level": 4,
+  "title": "13.1.2 Kinds of repeal"
+ },
+ {
+  "id": "13-1-3-legal-effects-of-repeal",
+  "level": 4,
+  "title": "13.1.3 Legal effects of repeal"
+ },
+ {
+  "id": "13-1-4-drafting-repeal-provisions",
+  "level": 4,
+  "title": "13.1.4 Drafting repeal provisions"
+ },
+ {
+  "id": "13-2-transitional-and-savings-provisions",
+  "level": 4,
+  "title": "13.2 Transitional and savings provisions"
+ },
+ {
+  "id": "13-2-1-general-matters",
+  "level": 4,
+  "title": "13.2.1 General matters"
+ },
+ {
+  "id": "13-2-2-transitional-provisions",
+  "level": 4,
+  "title": "13.2.2 Transitional provisions"
+ },
+ {
+  "id": "13-2-3-savings-provisions",
+  "level": 4,
+  "title": "13.2.3 Savings provisions"
+ },
+ {
+  "id": "13-2-4-particular-commonly-needed-transitional-provisions",
+  "level": 4,
+  "title": "13.2.4 Particular commonly needed transitional provisions"
+ },
+ {
+  "id": "13-2-5-particular-commonly-needed-savings-provisions",
+  "level": 4,
+  "title": "13.2.5 Particular commonly needed savings provisions"
+ },
+ {
+  "id": "13-3-schedules",
+  "level": 4,
+  "title": "13.3 Schedules"
+ },
+ {
+  "id": "chapter-14-penal-provisions",
+  "level": 3,
+  "title": "Chapter 14 Penal Provisions"
+ },
+ {
+  "id": "14-1-general-formulae",
+  "level": 4,
+  "title": "14.1 General formulae"
+ },
+ {
+  "id": "14-2-different-types-of-penalties",
+  "level": 4,
+  "title": "14.2 Different types of penalties"
+ },
+ {
+  "id": "14-2-1-first-and-subsequent-offences",
+  "level": 4,
+  "title": "14.2.1 First and subsequent offences"
+ },
+ {
+  "id": "14-2-2-continuing-offences",
+  "level": 4,
+  "title": "14.2.2 Continuing offences"
+ },
+ {
+  "id": "14-2-3-serious-offences",
+  "level": 4,
+  "title": "14.2.3 Serious offences"
+ },
+ {
+  "id": "14-2-4-sliding-scales",
+  "level": 4,
+  "title": "14.2.4 Sliding scales"
+ },
+ {
+  "id": "14-2-5-related-penalties",
+  "level": 4,
+  "title": "14.2.5 Related penalties"
+ },
+ {
+  "id": "14-3-parties-to-offences",
+  "level": 4,
+  "title": "14.3 Parties to offences"
+ },
+ {
+  "id": "14-3-1-particular-offenders",
+  "level": 4,
+  "title": "14.3.1 Particular offenders"
+ },
+ {
+  "id": "14-3-2-vicarious-liability",
+  "level": 4,
+  "title": "14.3.2 Vicarious liability"
+ },
+ {
+  "id": "14-4-strict-liability-in-criminal-law",
+  "level": 4,
+  "title": "14.4 Strict liability in criminal law"
+ },
+ {
+  "id": "14-5-shifting-the-burden-of-proof",
+  "level": 4,
+  "title": "14.5 Shifting the burden of proof"
+ },
+ {
+  "id": "14-6-general-matters-concerning-offences-and-penalties",
+  "level": 4,
+  "title": "14.6 General matters concerning offences and penalties"
+ },
+ {
+  "id": "14-6-1-fixed-penalties",
+  "level": 4,
+  "title": "14.6.1 Fixed penalties"
+ },
+ {
+  "id": "14-6-2-minimum-sentences",
+  "level": 4,
+  "title": "14.6.2 Minimum sentences"
+ },
+ {
+  "id": "14-6-3-time-limits-on-prosecutions",
+  "level": 4,
+  "title": "14.6.3 Time limits on prosecutions"
+ },
+ {
+  "id": "14-6-4-written-consent-to-prosecute",
+  "level": 4,
+  "title": "14.6.4 Written consent to prosecute"
+ },
+ {
+  "id": "14-6-5-fines-as-an-alternative-to-imprisonment",
+  "level": 4,
+  "title": "14.6.5 Fines as an alternative to imprisonment"
+ },
+ {
+  "id": "14-6-6-unlimited-fines",
+  "level": 4,
+  "title": "14.6.6 Unlimited fines"
+ },
+ {
+  "id": "14-6-7-imprisonment-in-default-of-payment-of-a-fine",
+  "level": 4,
+  "title": "14.6.7 Imprisonment in default of payment of a fine"
+ },
+ {
+  "id": "14-6-8-attempts-to-commit-offences",
+  "level": 4,
+  "title": "14.6.8 Attempts to commit offences"
+ },
+ {
+  "id": "14-6-9-statutory-defences",
+  "level": 4,
+  "title": "14.6.9 Statutory defences"
+ },
+ {
+  "id": "14-6-10-compounding-of-offences",
+  "level": 4,
+  "title": "14.6.10 Compounding of offences"
+ },
+ {
+  "id": "14-7-other-matters-consequent-on-conviction",
+  "level": 4,
+  "title": "14.7 Other matters consequent on conviction"
+ },
+ {
+  "id": "14-8-administrative-penalties",
+  "level": 4,
+  "title": "14.8 Administrative penalties"
+ },
+ {
+  "id": "chapter-15-delegated-powers-to-make-legislation",
+  "level": 3,
+  "title": "Chapter 15 Delegated Powers to Make Legislation"
+ },
+ {
+  "id": "15-1-why-are-powers-to-legislate-delegated",
+  "level": 4,
+  "title": "15.1 Why are powers to legislate delegated?"
+ },
+ {
+  "id": "administrative-rules-needed-to-give-effect-to-the-policy-nam",
+  "level": 5,
+  "title": "administrative rules needed to give effect to the policy, namely:"
+ },
+ {
+  "id": "15-2-what-form-does-subsidiary-legislation-take",
+  "level": 4,
+  "title": "15.2 What form does subsidiary legislation take?"
+ },
+ {
+  "id": "15-3-questions-about-delegation-which-need-to-be-considered-",
+  "level": 4,
+  "title": "15.3 Questions about delegation which need to be considered by legislative counsel"
+ },
+ {
+  "id": "15-4-how-does-the-legislature-supervise-the-making-of-subsid",
+  "level": 4,
+  "title": "15.4 How does the legislature supervise the making of subsidiary legislation?"
+ },
+ {
+  "id": "15-5-drafting-subsidiary-legislation",
+  "level": 4,
+  "title": "15.5 Drafting subsidiary legislation"
+ },
+ {
+  "id": "15-5-1-general",
+  "level": 4,
+  "title": "15.5.1 General"
+ },
+ {
+  "id": "15-5-2-formal-and-general-provisions-in-subsidiary-legislati",
+  "level": 4,
+  "title": "15.5.2 Formal and general provisions in subsidiary legislation"
+ },
+ {
+  "id": "15-6-typical-layouts-of-subsidiary-legislation-and-executive",
+  "level": 4,
+  "title": "15.6 Typical layouts of subsidiary legislation, and executive instruments that are in some jurisdictions treated as subsidiary legislation"
+ },
+ {
+  "id": "chapter-16-amending-legislation",
+  "level": 3,
+  "title": "Chapter 16 Amending Legislation"
+ },
+ {
+  "id": "16-1-how-may-statutes-be-amended",
+  "level": 4,
+  "title": "16.1 How may statutes be amended?"
+ },
+ {
+  "id": "16-2-direct-or-textual-and-indirect-methods-of-amending",
+  "level": 4,
+  "title": "16.2 Direct (or textual) and indirect methods of amending"
+ },
+ {
+  "id": "16-3-substantive-and-consequential-amendments",
+  "level": 4,
+  "title": "16.3 Substantive and consequential amendments"
+ },
+ {
+  "id": "16-4-amendment-or-repeal-and-replacement",
+  "level": 4,
+  "title": "16.4 Amendment, or repeal and replacement?"
+ },
+ {
+  "id": "16-5-retrospectivity-of-amendments",
+  "level": 4,
+  "title": "16.5 Retrospectivity of amendments"
+ },
+ {
+  "id": "16-6-drafting-textual-amendments",
+  "level": 4,
+  "title": "16.6 Drafting textual amendments"
+ },
+ {
+  "id": "16-7-renumbering",
+  "level": 4,
+  "title": "16.7 Renumbering"
+ },
+ {
+  "id": "16-8-punctuation",
+  "level": 4,
+  "title": "16.8 Punctuation"
+ },
+ {
+  "id": "16-9-indentation-and-spacing",
+  "level": 4,
+  "title": "16.9 Indentation and spacing"
+ },
+ {
+  "id": "16-10-style",
+  "level": 4,
+  "title": "16.10 Style"
+ },
+ {
+  "id": "chapter-17-specific-types-of-application",
+  "level": 3,
+  "title": "Chapter 17 Specific Types of Application"
+ },
+ {
+  "id": "17-1-retrospective-and-retroactive-provisions",
+  "level": 4,
+  "title": "17.1 Retrospective and retroactive provisions"
+ },
+ {
+  "id": "17-1-1-where-do-they-arise",
+  "level": 4,
+  "title": "17.1.1 Where do they arise?"
+ },
+ {
+  "id": "17-1-2-rules-and-presumptions-against-retrospectivity",
+  "level": 4,
+  "title": "17.1.2 Rules and presumptions against retrospectivity"
+ },
+ {
+  "id": "unless-clear-words-are-used-to-rebut-them",
+  "level": 5,
+  "title": "unless clear words are used to rebut them:"
+ },
+ {
+  "id": "17-1-3-what-is-the-difference-between-retrospective-and-retr",
+  "level": 4,
+  "title": "17.1.3 What is the difference between ‘retrospective’ and ‘retroactive’?"
+ },
+ {
+  "id": "17-1-4-when-are-retroactive-provisions-likely-to-be-needed",
+  "level": 4,
+  "title": "17.1.4 When are retroactive provisions likely to be needed?"
+ },
+ {
+  "id": "17-1-5-when-are-retrospective-provisions-likely-to-be-needed",
+  "level": 4,
+  "title": "17.1.5 When are retrospective provisions likely to be needed?"
+ },
+ {
+  "id": "17-1-6-retrospective-and-prospective-provisions",
+  "level": 4,
+  "title": "17.1.6 Retrospective and prospective provisions"
+ },
+ {
+  "id": "17-2-extra-territorial-legislation",
+  "level": 4,
+  "title": "17.2 Extra-territorial legislation"
+ },
+ {
+  "id": "17-2-1-general-legislative-competence",
+  "level": 4,
+  "title": "17.2.1 General legislative competence"
+ },
+ {
+  "id": "17-2-2-extra-territorial-competence",
+  "level": 4,
+  "title": "17.2.2 Extra-territorial competence"
+ },
+ {
+  "id": "17-2-3-where-is-extra-territoriality-claimed-in-practice",
+  "level": 4,
+  "title": "17.2.3 Where is extra-territoriality claimed in practice?"
+ },
+ {
+  "id": "17-3-binding-the-government",
+  "level": 4,
+  "title": "17.3 Binding the government"
+ },
+ {
+  "id": "chapter-18-statutory-corporations",
+  "level": 3,
+  "title": "Chapter 18 Statutory Corporations"
+ },
+ {
+  "id": "18-1-functions-of-statutory-corporations",
+  "level": 4,
+  "title": "18.1 Functions of statutory corporations"
+ },
+ {
+  "id": "18-2-terminology-traditionally-used",
+  "level": 4,
+  "title": "18.2 Terminology traditionally used"
+ },
+ {
+  "id": "18-3-corporate-or-non-corporate",
+  "level": 4,
+  "title": "18.3 Corporate or non-corporate?"
+ },
+ {
+  "id": "18-4-features-of-a-body-corporate",
+  "level": 4,
+  "title": "18.4 Features of a body corporate"
+ },
+ {
+  "id": "18-5-establishment-of-a-body-corporate",
+  "level": 4,
+  "title": "18.5 Establishment of a body corporate"
+ },
+ {
+  "id": "18-5-1-the-traditional-system",
+  "level": 4,
+  "title": "18.5.1 The traditional system"
+ },
+ {
+  "id": "18-5-2-the-modern-system",
+  "level": 4,
+  "title": "18.5.2 The modern system"
+ },
+ {
+  "id": "18-6-drafting-provisions-to-establish-a-statutory-corporatio",
+  "level": 4,
+  "title": "18.6 Drafting provisions to establish a statutory corporation"
+ },
+ {
+  "id": "18-6-1-establishing-the-corporation",
+  "level": 4,
+  "title": "18.6.1 Establishing the corporation"
+ },
+ {
+  "id": "18-6-2-objects-functions",
+  "level": 4,
+  "title": "18.6.2 Objects/functions"
+ },
+ {
+  "id": "18-6-3-powers",
+  "level": 4,
+  "title": "18.6.3 Powers"
+ },
+ {
+  "id": "18-6-4-membership-managing-body",
+  "level": 4,
+  "title": "18.6.4 Membership/managing body"
+ },
+ {
+  "id": "18-6-5-management-administration",
+  "level": 4,
+  "title": "18.6.5 Management/administration"
+ },
+ {
+  "id": "chapter-19-licensing-legislation",
+  "level": 3,
+  "title": "Chapter 19 Licensing Legislation"
+ },
+ {
+  "id": "19-1-introduction",
+  "level": 4,
+  "title": "19.1 Introduction"
+ },
+ {
+  "id": "19-2-the-purposes-of-licensing-and-registration",
+  "level": 4,
+  "title": "19.2 The purposes of licensing and registration"
+ },
+ {
+  "id": "19-3-the-contents-of-licensing-legislation",
+  "level": 4,
+  "title": "19.3 The contents of licensing legislation"
+ },
+ {
+  "id": "19-3-1-the-licensing-registration-authority",
+  "level": 4,
+  "title": "19.3.1 The licensing/registration authority"
+ },
+ {
+  "id": "19-3-2-the-activity-to-be-regulated",
+  "level": 4,
+  "title": "19.3.2 The activity to be regulated"
+ },
+ {
+  "id": "19-3-3-application",
+  "level": 4,
+  "title": "19.3.3 Application"
+ },
+ {
+  "id": "19-3-4-criteria-for-grant",
+  "level": 4,
+  "title": "19.3.4 Criteria for grant"
+ },
+ {
+  "id": "19-3-5-processing-of-the-application",
+  "level": 4,
+  "title": "19.3.5 Processing of the application"
+ },
+ {
+  "id": "19-3-6-imposing-of-conditions",
+  "level": 4,
+  "title": "19.3.6 Imposing of conditions"
+ },
+ {
+  "id": "19-3-7-duration-and-renewal",
+  "level": 4,
+  "title": "19.3.7 Duration and renewal"
+ },
+ {
+  "id": "19-3-8-variation",
+  "level": 4,
+  "title": "19.3.8 Variation"
+ },
+ {
+  "id": "19-3-9-suspension-revocation-and-surrender",
+  "level": 4,
+  "title": "19.3.9 Suspension, revocation and surrender"
+ },
+ {
+  "id": "19-3-10-transfer",
+  "level": 4,
+  "title": "19.3.10 Transfer"
+ },
+ {
+  "id": "19-3-11-appeals",
+  "level": 4,
+  "title": "19.3.11 Appeals"
+ },
+ {
+  "id": "19-3-12-display-and-production-for-inspection",
+  "level": 4,
+  "title": "19.3.12 Display and production for inspection"
+ },
+ {
+  "id": "19-3-13-inspection-of-register",
+  "level": 4,
+  "title": "19.3.13 Inspection of register"
+ },
+ {
+  "id": "19-3-14-enforcement",
+  "level": 4,
+  "title": "19.3.14 Enforcement"
+ },
+ {
+  "id": "19-3-15-subsidiary-legislation",
+  "level": 4,
+  "title": "19.3.15 Subsidiary legislation"
+ },
+ {
+  "id": "19-4-typical-transitional-and-savings-provisions-relating-to",
+  "level": 4,
+  "title": "19.4 Typical transitional and savings provisions relating to licences"
+ },
+ {
+  "id": "19-4-1-automatic-grant-of-licence-or-registration-in-certain",
+  "level": 4,
+  "title": "19.4.1 Automatic grant of licence, or registration, in certain cases"
+ },
+ {
+  "id": "19-4-2-time-to-be-granted-to-apply",
+  "level": 4,
+  "title": "19.4.2 Time to be granted to apply"
+ },
+ {
+  "id": "19-4-3-postponement-of-operation-of-law",
+  "level": 4,
+  "title": "19.4.3 Postponement of operation of law"
+ },
+ {
+  "id": "19-4-4-temporary-option-to-choose-law",
+  "level": 4,
+  "title": "19.4.4 Temporary option to choose law"
+ },
+ {
+  "id": "chapter-20-financial-legislation",
+  "level": 3,
+  "title": "Chapter 20 Financial Legislation"
+ },
+ {
+  "id": "20-1-introduction",
+  "level": 4,
+  "title": "20.1 Introduction"
+ },
+ {
+  "id": "20-2-government-accounting",
+  "level": 4,
+  "title": "20.2 Government accounting"
+ },
+ {
+  "id": "20-3-government-expenditure",
+  "level": 4,
+  "title": "20.3 Government expenditure"
+ },
+ {
+  "id": "20-4-government-borrowing-guarantees-and-lending",
+  "level": 4,
+  "title": "20.4 Government borrowing, guarantees and lending"
+ },
+ {
+  "id": "20-5-taxation",
+  "level": 4,
+  "title": "20.5 Taxation"
+ },
+ {
+  "id": "20-5-1-the-contents-of-taxation-statutes",
+  "level": 4,
+  "title": "20.5.1 The contents of taxation statutes"
+ },
+ {
+  "id": "20-5-2-special-procedures-for-money-bills",
+  "level": 4,
+  "title": "20.5.2 Special procedures for ‘money bills’"
+ },
+ {
+  "id": "20-5-3-the-finance-bill-and-provisional-collection-of-taxes",
+  "level": 4,
+  "title": "20.5.3 The Finance Bill and provisional collection of taxes"
+ },
+ {
+  "id": "a",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "appendix-a-legislative-procedure-and-preparation-a-typical-g",
+  "level": 3,
+  "title": "Appendix A Legislative Procedure and Preparation A typical Government directive applicable to a small Commonwealth jurisdiction"
+ },
+ {
+  "id": "part-i-bills-proposals-for-legislation",
+  "level": 4,
+  "title": "Part I Bills Proposals for legislation"
+ },
+ {
+  "id": "a-2",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "approval-in-principle",
+  "level": 4,
+  "title": "Approval in principle"
+ },
+ {
+  "id": "drafting-instructions",
+  "level": 4,
+  "title": "Drafting instructions"
+ },
+ {
+  "id": "instructions-but-may-in-exceptional-cases-such-as-where-the-",
+  "level": 5,
+  "title": "Instructions, but may, in exceptional cases (such as where the subject matter of the intended legislation is of a highly technical nature), be"
+ },
+ {
+  "id": "legislative-programme",
+  "level": 4,
+  "title": "Legislative programme"
+ },
+ {
+  "id": "a-3",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "hasty-and-ill-considered-legislation-is-likely-to-contain-er",
+  "level": 5,
+  "title": "Hasty and ill-considered legislation is likely to contain errors which may"
+ },
+ {
+  "id": "settlement-of-draft-bills",
+  "level": 4,
+  "title": "Settlement of Draft Bills"
+ },
+ {
+  "id": "memorandum-to-the-bill",
+  "level": 4,
+  "title": "Memorandum to the Bill"
+ },
+ {
+  "id": "cabinet-approval-of-draft-bill",
+  "level": 4,
+  "title": "Cabinet approval of Draft Bill"
+ },
+ {
+  "id": "a-4",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "publication-of-draft-bill",
+  "level": 4,
+  "title": "Publication of Draft Bill"
+ },
+ {
+  "id": "certificate-of-urgency-procedure",
+  "level": 4,
+  "title": "Certificate of Urgency Procedure"
+ },
+ {
+  "id": "a-5",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "passage-of-bill",
+  "level": 4,
+  "title": "Passage of Bill"
+ },
+ {
+  "id": "assent",
+  "level": 4,
+  "title": "Assent"
+ },
+ {
+  "id": "a-6",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "publication",
+  "level": 4,
+  "title": "Publication"
+ },
+ {
+  "id": "part-ii-subsidiary-legislation-cabinet-approval",
+  "level": 4,
+  "title": "Part II Subsidiary Legislation Cabinet Approval"
+ },
+ {
+  "id": "drafting",
+  "level": 4,
+  "title": "Drafting"
+ },
+ {
+  "id": "a-7",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "making-of-subsidiary-legislation",
+  "level": 4,
+  "title": "Making of subsidiary legislation"
+ },
+ {
+  "id": "publication-2",
+  "level": 4,
+  "title": "Publication"
+ },
+ {
+  "id": "b",
+  "level": 2,
+  "title": "B"
+ },
+ {
+  "id": "appendix-b-guidelines-for-the-preparation-of-cabinet-submiss",
+  "level": 3,
+  "title": "Appendix B Guidelines for the Preparation of Cabinet Submissions1"
+ },
+ {
+  "id": "introduction",
+  "level": 4,
+  "title": "Introduction"
+ },
+ {
+  "id": "drafting-of-submissions",
+  "level": 4,
+  "title": "Drafting of Submissions"
+ },
+ {
+  "id": "b-2",
+  "level": 2,
+  "title": "B"
+ },
+ {
+  "id": "b-3",
+  "level": 2,
+  "title": "B"
+ },
+ {
+  "id": "date-of-submission",
+  "level": 4,
+  "title": "Date of Submission"
+ },
+ {
+  "id": "number-of-copies",
+  "level": 4,
+  "title": "Number of copies"
+ },
+ {
+  "id": "time-factor",
+  "level": 4,
+  "title": "Time factor"
+ },
+ {
+  "id": "security",
+  "level": 4,
+  "title": "Security"
+ },
+ {
+  "id": "b-4",
+  "level": 2,
+  "title": "B"
+ },
+ {
+  "id": "physical-preparation-of-cabinet-submissions-paper",
+  "level": 4,
+  "title": "Physical preparation of Cabinet Submissions paper"
+ },
+ {
+  "id": "b-5",
+  "level": 2,
+  "title": "B"
+ },
+ {
+  "id": "format-of-cabinet-submissions-confidential",
+  "level": 5,
+  "title": "FORMAT OF CABINET SUBMISSIONS CONFIDENTIAL"
+ },
+ {
+  "id": "appendix-c-drafting-instructions",
+  "level": 3,
+  "title": "Appendix C Drafting Instructions"
+ },
+ {
+  "id": "1-general-matters-relating-to-drafting-instructions",
+  "level": 4,
+  "title": "1. General matters relating to drafting instructions"
+ },
+ {
+  "id": "2-points-that-may-need-to-be-raised-by-counsel",
+  "level": 4,
+  "title": "2. Points that may need to be raised by counsel"
+ },
+ {
+  "id": "appendix-d-suggested-approaches-to-translation-of-policy",
+  "level": 3,
+  "title": "Appendix D Suggested Approaches to Translation of Policy"
+ },
+ {
+  "id": "policy-1-wildlife-in-nature-sanctuaries-to-be-protected",
+  "level": 4,
+  "title": "Policy 1: Wildlife in nature sanctuaries to be protected"
+ },
+ {
+  "id": "first-draft",
+  "level": 4,
+  "title": "First draft"
+ },
+ {
+  "id": "policy-analysis-refinements",
+  "level": 4,
+  "title": "Policy analysis refinements"
+ },
+ {
+  "id": "revised-draft",
+  "level": 4,
+  "title": "Revised draft"
+ },
+ {
+  "id": "policy-2-no-standing-on-the-bus",
+  "level": 4,
+  "title": "Policy 2: No standing on the bus"
+ },
+ {
+  "id": "first-draft-2",
+  "level": 4,
+  "title": "First draft"
+ },
+ {
+  "id": "policy-analysis-refinements-2",
+  "level": 4,
+  "title": "Policy analysis refinements"
+ },
+ {
+  "id": "refinement-of-the-rule",
+  "level": 4,
+  "title": "Refinement of the rule"
+ },
+ {
+  "id": "e",
+  "level": 2,
+  "title": "E"
+ },
+ {
+  "id": "appendix-e-suggested-approaches-to-drafting",
+  "level": 3,
+  "title": "Appendix E Suggested Approaches to Drafting"
+ },
+ {
+  "id": "e-2",
+  "level": 2,
+  "title": "E"
+ },
+ {
+  "id": "e-3",
+  "level": 2,
+  "title": "E"
+ }
+]

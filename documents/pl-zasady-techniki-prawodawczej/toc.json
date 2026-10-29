@@ -1,0 +1,122 @@
+[
+ {
+  "id": "dziennik-ustaw-rzeczypospolitej-polskiej",
+  "level": 2,
+  "title": "DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ"
+ },
+ {
+  "id": "warszawa-dnia-10-marca-2026-r-poz-300",
+  "level": 2,
+  "title": "Warszawa, dnia 10 marca 2026 r. Poz. 300"
+ },
+ {
+  "id": "obwieszczenie-prezesa-rady-ministrów",
+  "level": 3,
+  "title": "OBWIESZCZENIE PREZESA RADY MINISTRÓW"
+ },
+ {
+  "id": "w-sprawie-ogłoszenia-jednolitego-tekstu-rozporządzenia-preze",
+  "level": 3,
+  "title": "w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie „Zasad techniki prawodawczej”"
+ },
+ {
+  "id": "rozporządzenie-prezesa-rady-ministrów",
+  "level": 3,
+  "title": "ROZPORZĄDZENIE PREZESA RADY MINISTRÓW"
+ },
+ {
+  "id": "w-sprawie-zasad-techniki-prawodawczej",
+  "level": 3,
+  "title": "w sprawie „Zasad techniki prawodawczej”"
+ },
+ {
+  "id": "projekt-ustawy",
+  "level": 3,
+  "title": "Projekt ustawy"
+ },
+ {
+  "id": "przepisy-ogólne",
+  "level": 3,
+  "title": "Przepisy ogólne"
+ },
+ {
+  "id": "budowa-ustawy",
+  "level": 3,
+  "title": "Budowa ustawy"
+ },
+ {
+  "id": "tytuł-ustawy",
+  "level": 3,
+  "title": "Tytuł ustawy"
+ },
+ {
+  "id": "układ-i-postanowienia-przepisów-merytorycznych",
+  "level": 3,
+  "title": "Układ i postanowienia przepisów merytorycznych"
+ },
+ {
+  "id": "przepisy-epizodyczne",
+  "level": 3,
+  "title": "Przepisy epizodyczne"
+ },
+ {
+  "id": "układ-i-postanowienia-przepisów-przejściowych-i-dostosowując",
+  "level": 3,
+  "title": "Układ i postanowienia przepisów przejściowych i dostosowujących"
+ },
+ {
+  "id": "układ-i-postanowienia-przepisów-końcowych",
+  "level": 3,
+  "title": "Układ i postanowienia przepisów końcowych"
+ },
+ {
+  "id": "oznaczanie-przepisów-ustawy-i-ich-systematyzacja",
+  "level": 3,
+  "title": "Oznaczanie przepisów ustawy i ich systematyzacja"
+ },
+ {
+  "id": "przepisy-upoważniające",
+  "level": 3,
+  "title": "Przepisy upoważniające"
+ },
+ {
+  "id": "przepisy-karne-oraz-przepisy-o-administracyjnych-karach-pien",
+  "level": 3,
+  "title": "Przepisy karne oraz przepisy o administracyjnych karach pieniężnych28)"
+ },
+ {
+  "id": "zmiana-nowelizacja-ustawy",
+  "level": 3,
+  "title": "Zmiana (nowelizacja) ustawy"
+ },
+ {
+  "id": "tekst-jednolity",
+  "level": 3,
+  "title": "Tekst jednolity"
+ },
+ {
+  "id": "sprostowanie-błędu",
+  "level": 3,
+  "title": "Sprostowanie błędu"
+ },
+ {
+  "id": "projekt-aktu-wykonawczego-rozporządzenia",
+  "level": 3,
+  "title": "Projekt aktu wykonawczego (rozporządzenia)"
+ },
+ {
+  "id": "projekty-aktów-normatywnych-o-charakterze-wewnętrznym-uchwał",
+  "level": 3,
+  "title": "Projekty aktów normatywnych o charakterze wewnętrznym (uchwał i zarządzeń)"
+ },
+ {
+  "id": "projekty-aktów-prawa-miejscowego",
+  "level": 3,
+  "title": "Projekty aktów prawa miejscowego"
+ },
+ {
+  "id": "typowe-środki-techniki-prawodawczej",
+  "level": 3,
+  "title": "Typowe środki techniki prawodawczej"
+ }
+]

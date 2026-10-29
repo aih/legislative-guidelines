@@ -1,0 +1,2792 @@
+[
+ {
+  "id": "guide-to-making-legislation",
+  "level": 2,
+  "title": "Guide to Making Legislation"
+ },
+ {
+  "id": "2025",
+  "level": 3,
+  "title": "2025"
+ },
+ {
+  "id": "contents",
+  "level": 3,
+  "title": "CONTENTS"
+ },
+ {
+  "id": "section-a-introduction-to-the-legislative-processand-bidding",
+  "level": 4,
+  "title": "SECTION A:INTRODUCTION TO THE LEGISLATIVE PROCESSAND BIDDING FOR LEGISLATION"
+ },
+ {
+  "id": "section-f-further-action-after-completing-commonsand-lords-s",
+  "level": 4,
+  "title": "SECTION F:FURTHER ACTION AFTER COMPLETING COMMONSAND LORDS STAGES AND AFTER ROYAL ASSENT"
+ },
+ {
+  "id": "section-a",
+  "level": 2,
+  "title": "SECTION A"
+ },
+ {
+  "id": "introduction-to-the-legislative-process-and-bidding-for-legi",
+  "level": 2,
+  "title": "INTRODUCTION TO THE LEGISLATIVE PROCESS AND BIDDING FOR LEGISLATION"
+ },
+ {
+  "id": "1-how-to-use-this-guide-and-the-role-of-the-pbl-secretariat",
+  "level": 2,
+  "title": "1.HOW TO USE THIS GUIDE AND THE ROLE OF THE PBL SECRETARIAT"
+ },
+ {
+  "id": "role-of-the-pbl-secretariat",
+  "level": 4,
+  "title": "Role of the PBL Secretariat"
+ },
+ {
+  "id": "2-the-government-s-legislative-programme-and-the-work-of-the",
+  "level": 2,
+  "title": "2.THE GOVERNMENT’S LEGISLATIVE PROGRAMME AND THE WORK OF THE PARLIAMENTARY BUSINESS AND LEGISLATION (PBL) COMMITTEE"
+ },
+ {
+  "id": "key-points",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "the-pbl-committee-and-the-government-s-legislative-programme",
+  "level": 4,
+  "title": "The PBL Committee and the Government’s legislative programme"
+ },
+ {
+  "id": "3-summary-of-stages-in-the-legislative-process",
+  "level": 2,
+  "title": "3.SUMMARY OF STAGES IN THE LEGISLATIVE PROCESS"
+ },
+ {
+  "id": "key-points-2",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "before-introduction",
+  "level": 4,
+  "title": "Before introduction"
+ },
+ {
+  "id": "summary-of-parliamentary-stages",
+  "level": 4,
+  "title": "Summary of parliamentary stages"
+ },
+ {
+  "id": "summary-of-a-bill-s-stages",
+  "level": 4,
+  "title": "Summary of a bill's stages:"
+ },
+ {
+  "id": "detail-of-each-stage",
+  "level": 4,
+  "title": "Detail of each stage:"
+ },
+ {
+  "id": "on-completion-of-parliamentary-stages",
+  "level": 4,
+  "title": "On completion of parliamentary stages"
+ },
+ {
+  "id": "4-key-players-in-making-legislation",
+  "level": 2,
+  "title": "4.KEY PLAYERS IN MAKING LEGISLATION"
+ },
+ {
+  "id": "5-securing-a-slot-in-the-legislative-programme",
+  "level": 2,
+  "title": "5.SECURING A SLOT IN THE LEGISLATIVE PROGRAMME"
+ },
+ {
+  "id": "key-points-3",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "is-a-legislative-slot-necessary",
+  "level": 4,
+  "title": "Is a legislative slot necessary?"
+ },
+ {
+  "id": "preparation-of-the-legislative-programme-and-submitting-a-bi",
+  "level": 4,
+  "title": "Preparation of the legislative programme and submitting a bid for legislation"
+ },
+ {
+  "id": "example-timetable-for-preparing-and-finalising-the-legislati",
+  "level": 4,
+  "title": "Example timetable for preparing and finalising the legislative programme"
+ },
+ {
+  "id": "9-10-months-before-the-start-of-the-session",
+  "level": 4,
+  "title": "9-10 months before the start of the session"
+ },
+ {
+  "id": "5-6-months-before-the-start-of-the-session",
+  "level": 4,
+  "title": "5-6 months before the start of the session"
+ },
+ {
+  "id": "one-months-before-the-start-of-the-session",
+  "level": 4,
+  "title": "One months before the start of the session"
+ },
+ {
+  "id": "criteria-for-assessing-bids",
+  "level": 4,
+  "title": "Criteria for assessing bids"
+ },
+ {
+  "id": "bidding-outside-of-the-annual-bidding-round",
+  "level": 4,
+  "title": "Bidding outside of the annual bidding round"
+ },
+ {
+  "id": "time-of-royal-assent",
+  "level": 4,
+  "title": "Time of Royal Assent"
+ },
+ {
+  "id": "6-the-bill-and-bill-team-management",
+  "level": 2,
+  "title": "6.THE BILL AND BILL TEAM MANAGEMENT"
+ },
+ {
+  "id": "key-points-4",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "importance-of-providing-sufficient-resource-and-oversight",
+  "level": 4,
+  "title": "Importance of providing sufficient resource and oversight"
+ },
+ {
+  "id": "the-bill-team",
+  "level": 4,
+  "title": "The Bill Team"
+ },
+ {
+  "id": "managing-multi-departmental-bills",
+  "level": 4,
+  "title": "Managing multi-departmental bills"
+ },
+ {
+  "id": "project-management-delivery-plan-and-risk-register",
+  "level": 4,
+  "title": "Project management – delivery plan and risk register"
+ },
+ {
+  "id": "project-board",
+  "level": 4,
+  "title": "Project board"
+ },
+ {
+  "id": "policy-leads",
+  "level": 4,
+  "title": "Policy leads"
+ },
+ {
+  "id": "bill-legal-advisers-and-others-instructing-parliamentary-cou",
+  "level": 4,
+  "title": "Bill legal advisers and others instructing Parliamentary Counsel"
+ },
+ {
+  "id": "top-logistical-tips-ensuring-the-team-is-prepared",
+  "level": 4,
+  "title": "Top logistical tips – ensuring the team is prepared"
+ },
+ {
+  "id": "training",
+  "level": 4,
+  "title": "Training"
+ },
+ {
+  "id": "7-collective-agreement",
+  "level": 2,
+  "title": "7.COLLECTIVE AGREEMENT"
+ },
+ {
+  "id": "key-points-5",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "when-collective-agreement-is-required",
+  "level": 4,
+  "title": "When collective agreement is required"
+ },
+ {
+  "id": "section-b",
+  "level": 2,
+  "title": "SECTION B"
+ },
+ {
+  "id": "preparing-the-bill-for-introduction",
+  "level": 2,
+  "title": "PREPARING THE BILL FOR INTRODUCTION"
+ },
+ {
+  "id": "8-drafting-the-bill",
+  "level": 2,
+  "title": "8.DRAFTING THE BILL"
+ },
+ {
+  "id": "key-points-6",
+  "level": 4,
+  "title": "Key Points"
+ },
+ {
+  "id": "good-law",
+  "level": 4,
+  "title": "Good law"
+ },
+ {
+  "id": "background-information-about-opc",
+  "level": 4,
+  "title": "Background information about OPC"
+ },
+ {
+  "id": "the-role-of-the-drafter-in-relation-to-policy-making",
+  "level": 4,
+  "title": "The role of the drafter in relation to policy making"
+ },
+ {
+  "id": "when-should-the-department-first-involve-opc-in-the-bill-pro",
+  "level": 4,
+  "title": "When should the department first involve OPC in the bill project?"
+ },
+ {
+  "id": "when-should-instructions-be-sent-to-opc",
+  "level": 4,
+  "title": "When should instructions be sent to OPC?"
+ },
+ {
+  "id": "how-to-go-about-preparing-the-instructions",
+  "level": 4,
+  "title": "How to go about preparing the instructions"
+ },
+ {
+  "id": "involving-other-departments-with-an-interest",
+  "level": 4,
+  "title": "Involving other departments with an interest"
+ },
+ {
+  "id": "involving-the-devolved-governments",
+  "level": 4,
+  "title": "Involving the devolved governments"
+ },
+ {
+  "id": "who-in-opc-should-drafting-instructions-be-sent-to",
+  "level": 4,
+  "title": "Who in OPC should drafting instructions be sent to?"
+ },
+ {
+  "id": "sending-drafting-instructions-to-opc-in-instalments",
+  "level": 4,
+  "title": "Sending drafting instructions to OPC in instalments"
+ },
+ {
+  "id": "changes-to-the-policy-after-the-instructions-are-sent",
+  "level": 4,
+  "title": "Changes to the policy after the instructions are sent"
+ },
+ {
+  "id": "an-initial-meeting-with-the-drafters",
+  "level": 4,
+  "title": "An initial meeting with the drafters"
+ },
+ {
+  "id": "what-will-the-drafter-do-with-the-instructions",
+  "level": 4,
+  "title": "What will the drafter do with the instructions?"
+ },
+ {
+  "id": "commenting-on-draft-provisions-and-replying-to-the-accompany",
+  "level": 4,
+  "title": "Commenting on draft provisions and replying to the accompanying letter"
+ },
+ {
+  "id": "sharing-draft-clauses-with-drafters-in-scotland-and-northern",
+  "level": 4,
+  "title": "Sharing draft clauses with drafters in Scotland and Northern Ireland"
+ },
+ {
+  "id": "welsh-translation-of-elements-of-bills",
+  "level": 4,
+  "title": "Welsh translation of elements of bills"
+ },
+ {
+  "id": "how-much-time-should-be-set-aside-in-the-project-plan-for-pr",
+  "level": 4,
+  "title": "How much time should be set aside in the project plan for preparing instructions and drafting the bill?"
+ },
+ {
+  "id": "monitoring-drafting-progress",
+  "level": 4,
+  "title": "Monitoring drafting progress"
+ },
+ {
+  "id": "ministerial-involvement-in-the-drafting-process",
+  "level": 4,
+  "title": "Ministerial involvement in the drafting process"
+ },
+ {
+  "id": "9-drafting-the-bill-structure-and-content-of-instructions-to",
+  "level": 2,
+  "title": "9.DRAFTING THE BILL: STRUCTURE AND CONTENT OF INSTRUCTIONS TO OPC"
+ },
+ {
+  "id": "key-points-7",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "general-observations-and-guidance",
+  "level": 4,
+  "title": "General observations and guidance"
+ },
+ {
+  "id": "form-of-the-instructions",
+  "level": 4,
+  "title": "Form of the instructions"
+ },
+ {
+  "id": "structure-and-content-of-the-instructions",
+  "level": 4,
+  "title": "Structure and content of the instructions"
+ },
+ {
+  "id": "part-1-introduction",
+  "level": 4,
+  "title": "Part 1 - Introduction"
+ },
+ {
+  "id": "part-2-existing-law",
+  "level": 4,
+  "title": "Part 2: Existing law"
+ },
+ {
+  "id": "part-3-detailed-proposals",
+  "level": 4,
+  "title": "Part 3 - Detailed proposals"
+ },
+ {
+  "id": "changes-in-law",
+  "level": 4,
+  "title": "Changes in law"
+ },
+ {
+  "id": "new-criminal-offence",
+  "level": 4,
+  "title": "New criminal offence"
+ },
+ {
+  "id": "new-power-to-make-subordinate-legislation",
+  "level": 4,
+  "title": "New power to make subordinate legislation"
+ },
+ {
+  "id": "new-duties",
+  "level": 4,
+  "title": "New duties"
+ },
+ {
+  "id": "new-decision-making-powers",
+  "level": 4,
+  "title": "New decision-making powers"
+ },
+ {
+  "id": "use-of-examples",
+  "level": 4,
+  "title": "Use of examples"
+ },
+ {
+  "id": "alternatives",
+  "level": 4,
+  "title": "Alternatives"
+ },
+ {
+  "id": "part-4-supplemental-and-incidental-matters",
+  "level": 4,
+  "title": "Part 4 – Supplemental and incidental matters"
+ },
+ {
+  "id": "part-4-parliamentary-and-other-handling-matters",
+  "level": 4,
+  "title": "Part 4 – Parliamentary and other handling matters"
+ },
+ {
+  "id": "10-explanatory-notes",
+  "level": 2,
+  "title": "10. EXPLANATORY NOTES"
+ },
+ {
+  "id": "key-points-8",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "part-1-purpose-and-process",
+  "level": 4,
+  "title": "Part 1 – Purpose and Process"
+ },
+ {
+  "id": "legal-status-of-the-notes",
+  "level": 4,
+  "title": "Legal status of the notes"
+ },
+ {
+  "id": "who-should-write-the-notes",
+  "level": 4,
+  "title": "Who should write the notes?"
+ },
+ {
+  "id": "point-of-contact-with-the-public-bill-offices",
+  "level": 4,
+  "title": "Point of contact with the Public Bill Offices"
+ },
+ {
+  "id": "templates",
+  "level": 4,
+  "title": "Templates"
+ },
+ {
+  "id": "when-to-start-writing-the-notes",
+  "level": 4,
+  "title": "When to start writing the notes"
+ },
+ {
+  "id": "the-role-of-departmental-lawyers-parliamentary-counsel-the-t",
+  "level": 4,
+  "title": "The role of departmental lawyers, Parliamentary Counsel, the Territorial Offices andthe Office of the Advocate General"
+ },
+ {
+  "id": "pbl-committee-meetings-before-introduction",
+  "level": 4,
+  "title": "PBL Committee meetings before introduction"
+ },
+ {
+  "id": "updating-the-notes",
+  "level": 4,
+  "title": "Updating the notes"
+ },
+ {
+  "id": "part-2-content-of-notes",
+  "level": 4,
+  "title": "Part 2 – Content of Notes"
+ },
+ {
+  "id": "structure-of-the-notes",
+  "level": 4,
+  "title": "Structure of the notes"
+ },
+ {
+  "id": "preliminary-parts-of-the-notes-what-these-notes-do-table-of-",
+  "level": 4,
+  "title": "Preliminary parts of the notes (What these notes do; table of contents; footer)"
+ },
+ {
+  "id": "overview-of-the-bill-section",
+  "level": 4,
+  "title": "Overview of the Bill section"
+ },
+ {
+  "id": "example-1-from-the-explanatory-notes-for-the-financial-guida",
+  "level": 4,
+  "title": "Example 1 – from the explanatory notes for the Financial Guidance and Claims Bill (2017/19 Session)"
+ },
+ {
+  "id": "example-2-from-the-explanatory-notes-for-the-parliamentary-b",
+  "level": 4,
+  "title": "Example 2 – from the explanatory notes for the Parliamentary Buildings (Restoration and Renewal) Bill (2017/19 Session)"
+ },
+ {
+  "id": "policy-background-section",
+  "level": 4,
+  "title": "Policy background section"
+ },
+ {
+  "id": "legal-background-section",
+  "level": 4,
+  "title": "Legal background section"
+ },
+ {
+  "id": "territorial-extent-and-application-section",
+  "level": 4,
+  "title": "Territorial extent and application section"
+ },
+ {
+  "id": "annex-a-territorial-extent-and-application-in-the-united-kin",
+  "level": 4,
+  "title": "Annex A: territorial extent and application in the United Kingdom"
+ },
+ {
+  "id": "fast-track-legislation-section",
+  "level": 4,
+  "title": "Fast-track legislation section"
+ },
+ {
+  "id": "commentary-on-provisions-of-bill-section",
+  "level": 4,
+  "title": "Commentary on provisions of bill section"
+ },
+ {
+  "id": "commencement-section",
+  "level": 4,
+  "title": "Commencement section"
+ },
+ {
+  "id": "financial-implications-of-the-bill-section",
+  "level": 4,
+  "title": "Financial implications of the bill section"
+ },
+ {
+  "id": "parliamentary-approval-for-financial-costs-or-for-the-charge",
+  "level": 4,
+  "title": "Parliamentary approval for financial costs or for the charges-imposed section"
+ },
+ {
+  "id": "example-from-notes-for-the-environment-bill-2020",
+  "level": 4,
+  "title": "Example from notes for the Environment Bill 2020"
+ },
+ {
+  "id": "compatibility-with-the-european-convention-on-human-rights",
+  "level": 4,
+  "title": "Compatibility with the European Convention on Human Rights"
+ },
+ {
+  "id": "environmental-law",
+  "level": 4,
+  "title": "Environmental law"
+ },
+ {
+  "id": "bills-affecting-trade-between-northern-ireland-and-other-par",
+  "level": 4,
+  "title": "Bills affecting trade between Northern Ireland and other parts of the UK"
+ },
+ {
+  "id": "related-documents-section",
+  "level": 4,
+  "title": "Related documents section"
+ },
+ {
+  "id": "part-3-after-introduction",
+  "level": 4,
+  "title": "Part 3 – After Introduction"
+ },
+ {
+  "id": "revisions-when-the-bill-moves-from-the-house-of-introduction",
+  "level": 4,
+  "title": "Revisions when the bill moves from the House of introduction to the other House"
+ },
+ {
+  "id": "explanatory-notes-on-amendments-made-in-the-second-house",
+  "level": 4,
+  "title": "Explanatory notes on amendments made in the second House"
+ },
+ {
+  "id": "commons-amendment-to-clause-5-extent-commencement-and-short-",
+  "level": 3,
+  "title": "Commons Amendment to Clause 5: Extent, commencement and short title"
+ },
+ {
+  "id": "commons-amendment-2",
+  "level": 3,
+  "title": "Commons Amendment 2"
+ },
+ {
+  "id": "commons-amendments-to-schedule-1-commons-amendments-41-47-40",
+  "level": 3,
+  "title": "Commons Amendments to Schedule 1: Commons Amendments 41, 47, 40, 42 and 3: expansion of the role of the Approved Mental Capacity Professional"
+ },
+ {
+  "id": "commons-amendment-4",
+  "level": 3,
+  "title": "Commons Amendment 4"
+ },
+ {
+  "id": "commons-amendments-5-10-12-14-16-17-19-and-21-23-responsible",
+  "level": 3,
+  "title": "Commons Amendments 5-10, 12-14, 16, 17, 19 and 21-23: Responsible body for independent hospitals"
+ },
+ {
+  "id": "commons-amendment-15",
+  "level": 3,
+  "title": "Commons Amendment 15"
+ },
+ {
+  "id": "second-house-amendments",
+  "level": 4,
+  "title": "Second House amendments"
+ },
+ {
+  "id": "revisions-when-the-bill-becomes-an-act",
+  "level": 4,
+  "title": "Revisions when the bill becomes an Act"
+ },
+ {
+  "id": "carry-over-bill",
+  "level": 4,
+  "title": "Carry over bill"
+ },
+ {
+  "id": "part-4-explanatory-notes-for-private-members-handout-bills",
+  "level": 4,
+  "title": "Part 4: Explanatory notes for private members’ ‘handout’ bills"
+ },
+ {
+  "id": "11-the-european-convention-on-human-rights-echr",
+  "level": 2,
+  "title": "11. THE EUROPEAN CONVENTION ON HUMAN RIGHTS (ECHR)"
+ },
+ {
+  "id": "key-points-9",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "background-on-the-human-rights-act-1998-and-interpretation-i",
+  "level": 4,
+  "title": "Background on the Human Rights Act 1998 and interpretation in case law"
+ },
+ {
+  "id": "legal-issues-memoranda-for-the-pbl-committee",
+  "level": 4,
+  "title": "Legal issues memoranda for the PBL Committee"
+ },
+ {
+  "id": "statements-of-compatibility-section-19-statements",
+  "level": 4,
+  "title": "Statements of compatibility (‘section 19 statements’)"
+ },
+ {
+  "id": "explanatory-notes",
+  "level": 4,
+  "title": "Explanatory notes"
+ },
+ {
+  "id": "the-joint-committee-on-human-rights",
+  "level": 4,
+  "title": "The Joint Committee on Human Rights"
+ },
+ {
+  "id": "acts",
+  "level": 4,
+  "title": "Acts"
+ },
+ {
+  "id": "12-other-legal-issues",
+  "level": 2,
+  "title": "12. OTHER LEGAL ISSUES"
+ },
+ {
+  "id": "key-points-10",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "legal-challenge-to-actions-carried-out-under-legislation",
+  "level": 4,
+  "title": "Legal challenge to actions carried out under legislation"
+ },
+ {
+  "id": "retrospectivity-and-early-commencement",
+  "level": 4,
+  "title": "Retrospectivity and Early Commencement"
+ },
+ {
+  "id": "article-2-of-the-windsor-framework",
+  "level": 4,
+  "title": "Article 2 of the Windsor Framework"
+ },
+ {
+  "id": "statement-affecting-trade-between-northern-ireland-and-other",
+  "level": 4,
+  "title": "Statement affecting trade between Northern Ireland and other parts of the UK"
+ },
+ {
+  "id": "environmental-law-2",
+  "level": 4,
+  "title": "Environmental law"
+ },
+ {
+  "id": "data-protection-legislation",
+  "level": 4,
+  "title": "Data protection legislation"
+ },
+ {
+  "id": "amendments-to-sentencing-law",
+  "level": 4,
+  "title": "Amendments to sentencing law"
+ },
+ {
+  "id": "codes-of-practice",
+  "level": 4,
+  "title": "Codes of Practice"
+ },
+ {
+  "id": "13-impact-assessments",
+  "level": 2,
+  "title": "13. IMPACT ASSESSMENTS"
+ },
+ {
+  "id": "key-points-11",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "what-is-an-impact-assessment",
+  "level": 4,
+  "title": "What is an impact assessment?"
+ },
+ {
+  "id": "when-is-an-impact-assessment-required",
+  "level": 4,
+  "title": "When is an impact assessment required?"
+ },
+ {
+  "id": "will-the-regulatory-proposal",
+  "level": 4,
+  "title": "Will the regulatory proposal:"
+ },
+ {
+  "id": "developing-an-impact-assessment",
+  "level": 4,
+  "title": "Developing an impact assessment"
+ },
+ {
+  "id": "practicalities-on-introduction",
+  "level": 4,
+  "title": "Practicalities on introduction"
+ },
+ {
+  "id": "14-devolved-legislatures-and-governments",
+  "level": 2,
+  "title": "14. DEVOLVED LEGISLATURES AND GOVERNMENTS"
+ },
+ {
+  "id": "key-points-12",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "background",
+  "level": 4,
+  "title": "Background"
+ },
+ {
+  "id": "general-principles",
+  "level": 4,
+  "title": "General principles"
+ },
+ {
+  "id": "the-legislative-consent-process",
+  "level": 4,
+  "title": "The Legislative Consent process"
+ },
+ {
+  "id": "devolution-and-pbl-committee",
+  "level": 4,
+  "title": "Devolution and PBL Committee"
+ },
+ {
+  "id": "devolution-implications-of-bills-to-be-published-in-draft",
+  "level": 4,
+  "title": "Devolution implications of bills to be published in draft"
+ },
+ {
+  "id": "engaging-with-the-scottish-government-and-parliament",
+  "level": 4,
+  "title": "Engaging with the Scottish Government and Parliament"
+ },
+ {
+  "id": "engaging-with-the-welsh-government-and-senedd-cymru-welsh-pa",
+  "level": 4,
+  "title": "Engaging with the Welsh Government and Senedd Cymru/Welsh Parliament"
+ },
+ {
+  "id": "engaging-with-the-northern-ireland-executive-and-assembly",
+  "level": 4,
+  "title": "Engaging with the Northern Ireland Executive and Assembly"
+ },
+ {
+  "id": "15-delegated-powers",
+  "level": 2,
+  "title": "15. DELEGATED POWERS"
+ },
+ {
+  "id": "key-points-13",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "when-is-it-appropriate-for-a-bill-to-delegate-legislative-po",
+  "level": 4,
+  "title": "When is it appropriate for a bill to delegate legislative powers?"
+ },
+ {
+  "id": "delegated-powers-toolkit",
+  "level": 4,
+  "title": "Delegated Powers Toolkit"
+ },
+ {
+  "id": "guidance",
+  "level": 4,
+  "title": "Guidance"
+ },
+ {
+  "id": "forms-of-parliamentary-scrutiny",
+  "level": 4,
+  "title": "Forms of parliamentary scrutiny"
+ },
+ {
+  "id": "content-of-the-delegated-powers-memorandum-to-the-dprrc",
+  "level": 4,
+  "title": "Content of the delegated powers memorandum to the DPRRC"
+ },
+ {
+  "id": "practicalities-on-introduction-2",
+  "level": 4,
+  "title": "Practicalities on introduction"
+ },
+ {
+  "id": "responding-to-the-dprrc-s-report",
+  "level": 4,
+  "title": "Responding to the DPRRC's report"
+ },
+ {
+  "id": "delegated-powers-in-private-members-bills",
+  "level": 4,
+  "title": "Delegated powers in private members’ bills"
+ },
+ {
+  "id": "practical-considerations-for-delivering-delegated-powers",
+  "level": 4,
+  "title": "Practical considerations for delivering delegated powers"
+ },
+ {
+  "id": "triage",
+  "level": 4,
+  "title": "Triage"
+ },
+ {
+  "id": "parliamentary-handling-plans",
+  "level": 4,
+  "title": "Parliamentary Handling Plans"
+ },
+ {
+  "id": "debating-delegated-legislation",
+  "level": 4,
+  "title": "Debating delegated legislation"
+ },
+ {
+  "id": "16-crown-dependencies-and-overseas-territories",
+  "level": 2,
+  "title": "16. CROWN DEPENDENCIES AND OVERSEAS TERRITORIES"
+ },
+ {
+  "id": "crown-dependencies",
+  "level": 4,
+  "title": "Crown Dependencies"
+ },
+ {
+  "id": "overseas-territories",
+  "level": 4,
+  "title": "Overseas Territories"
+ },
+ {
+  "id": "17-king-s-and-prince-s-consent",
+  "level": 2,
+  "title": "17. KING'S AND PRINCE'S CONSENT"
+ },
+ {
+  "id": "background-2",
+  "level": 4,
+  "title": "Background"
+ },
+ {
+  "id": "when-king-s-and-prince-s-consent-is-required",
+  "level": 4,
+  "title": "When King's and Prince's consent is required"
+ },
+ {
+  "id": "how-to-seek-king-s-and-prince-of-wales-s-consent",
+  "level": 4,
+  "title": "How to seek King's and Prince of Wales's consent"
+ },
+ {
+  "id": "timing",
+  "level": 4,
+  "title": "Timing"
+ },
+ {
+  "id": "signifying-consent",
+  "level": 4,
+  "title": "Signifying consent"
+ },
+ {
+  "id": "18-tax-and-public-expenditure",
+  "level": 2,
+  "title": "18. TAX AND PUBLIC EXPENDITURE"
+ },
+ {
+  "id": "key-points-14",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "tax-implications",
+  "level": 4,
+  "title": "Tax implications"
+ },
+ {
+  "id": "public-expenditure",
+  "level": 4,
+  "title": "Public expenditure"
+ },
+ {
+  "id": "powers-to-incur-expenditure-the-second-reading-convention",
+  "level": 4,
+  "title": "Powers to incur expenditure (the 'Second Reading convention')"
+ },
+ {
+  "id": "19-handling-strategies",
+  "level": 2,
+  "title": "19. HANDLING STRATEGIES"
+ },
+ {
+  "id": "key-points-15",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "handling-strategies-the-basics",
+  "level": 4,
+  "title": "Handling strategies – the basics"
+ },
+ {
+  "id": "20-pbl-approval-for-inclusion-in-the-programme-and-introduct",
+  "level": 2,
+  "title": "20. PBL APPROVAL FOR INCLUSION IN THE PROGRAMME AND INTRODUCTION TO PARLIAMENT"
+ },
+ {
+  "id": "key-points-16",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "king-s-speech",
+  "level": 4,
+  "title": "King's Speech"
+ },
+ {
+  "id": "pbl-committee-papers-for-clearance-for-introduction-to-parli",
+  "level": 4,
+  "title": "PBL Committee papers for clearance for introduction to Parliament"
+ },
+ {
+  "id": "the-pbl-committee-meeting",
+  "level": 4,
+  "title": "The PBL Committee meeting"
+ },
+ {
+  "id": "decision-on-house-of-introduction",
+  "level": 4,
+  "title": "Decision on House of introduction"
+ },
+ {
+  "id": "preparing-for-introduction",
+  "level": 4,
+  "title": "Preparing for introduction"
+ },
+ {
+  "id": "21-publication-in-draft-and-pre-legislative-scrutiny",
+  "level": 2,
+  "title": "21. PUBLICATION IN DRAFT AND PRE-LEGISLATIVE SCRUTINY"
+ },
+ {
+  "id": "key-points-17",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "suitability-of-bills-for-publication-in-draft",
+  "level": 4,
+  "title": "Suitability of bills for publication in draft"
+ },
+ {
+  "id": "pbl-committee-approval-for-publication-in-draft",
+  "level": 4,
+  "title": "PBL Committee approval for publication in draft"
+ },
+ {
+  "id": "parliamentary-pre-legislative-scrutiny",
+  "level": 4,
+  "title": "Parliamentary pre-legislative scrutiny"
+ },
+ {
+  "id": "timetable-for-parliamentary-pre-legislative-scrutiny",
+  "level": 4,
+  "title": "Timetable for parliamentary pre-legislative scrutiny"
+ },
+ {
+  "id": "the-committee-inquiry",
+  "level": 4,
+  "title": "The committee inquiry"
+ },
+ {
+  "id": "wider-pre-legislative-scrutiny-public-consultation",
+  "level": 4,
+  "title": "Wider pre-legislative scrutiny – public consultation"
+ },
+ {
+  "id": "section-c",
+  "level": 2,
+  "title": "SECTION C"
+ },
+ {
+  "id": "essential-guidance-for-bill-teams",
+  "level": 2,
+  "title": "ESSENTIAL GUIDANCE FOR BILL TEAMS"
+ },
+ {
+  "id": "22-amendments",
+  "level": 2,
+  "title": "22. AMENDMENTS"
+ },
+ {
+  "id": "key-points-18",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "types-of-amendments",
+  "level": 4,
+  "title": "Types of amendments"
+ },
+ {
+  "id": "preparation-of-bills",
+  "level": 4,
+  "title": "Preparation of bills"
+ },
+ {
+  "id": "after-introduction-clearance-of-amendments",
+  "level": 4,
+  "title": "After introduction – clearance of amendments"
+ },
+ {
+  "id": "stage-amendments-permitted-desirable-essential-concessionary",
+  "level": 4,
+  "title": "Stage Amendments permitted Desirable Essential Concessionary"
+ },
+ {
+  "id": "the-role-of-pbl-secretariat-in-agreeing-government-amendment",
+  "level": 4,
+  "title": "The role of PBL Secretariat in agreeing government amendments"
+ },
+ {
+  "id": "other-things-to-consider",
+  "level": 4,
+  "title": "Other things to consider"
+ },
+ {
+  "id": "non-government-amendments",
+  "level": 4,
+  "title": "Non-government amendments"
+ },
+ {
+  "id": "government-defeats",
+  "level": 4,
+  "title": "Government defeats"
+ },
+ {
+  "id": "making-commitments-on-the-floor-of-the-house",
+  "level": 4,
+  "title": "Making commitments on the floor of the House"
+ },
+ {
+  "id": "explanatory-statements",
+  "level": 4,
+  "title": "Explanatory statements"
+ },
+ {
+  "id": "23-briefing-ministers-for-bill-work-and-the-use-of-ministeri",
+  "level": 2,
+  "title": "23. BRIEFING MINISTERS FOR BILL WORK AND THE USE OF MINISTERIAL STATEMENTS IN CONSTRUING STATUTE"
+ },
+ {
+  "id": "key-points-19",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "detailed-considerations",
+  "level": 4,
+  "title": "Detailed considerations"
+ },
+ {
+  "id": "section-d",
+  "level": 2,
+  "title": "SECTION D"
+ },
+ {
+  "id": "commons-stages",
+  "level": 2,
+  "title": "COMMONS STAGES"
+ },
+ {
+  "id": "24-the-commons-overview-of-stages",
+  "level": 2,
+  "title": "24. THE COMMONS: OVERVIEW OF STAGES"
+ },
+ {
+  "id": "house-of-commons",
+  "level": 3,
+  "title": "House of Commons"
+ },
+ {
+  "id": "1-government-benches",
+  "level": 3,
+  "title": "1. Government benches"
+ },
+ {
+  "id": "2-opposition-benches",
+  "level": 3,
+  "title": "2. Opposition benches"
+ },
+ {
+  "id": "3-mace",
+  "level": 3,
+  "title": "3. Mace"
+ },
+ {
+  "id": "4-speaker",
+  "level": 3,
+  "title": "4. Speaker"
+ },
+ {
+  "id": "5-civil-servants-the-box",
+  "level": 3,
+  "title": "5. Civil servants (\"the box\")"
+ },
+ {
+  "id": "6-hansard-reporters",
+  "level": 3,
+  "title": "6. Hansard reporters"
+ },
+ {
+  "id": "7-press-gallery",
+  "level": 3,
+  "title": "7. Press Gallery"
+ },
+ {
+  "id": "overview-of-stages-and-minimum-intervals-between-them",
+  "level": 4,
+  "title": "Overview of stages and minimum intervals between them"
+ },
+ {
+  "id": "commons-sitting-times",
+  "level": 4,
+  "title": "Commons sitting times"
+ },
+ {
+  "id": "the-parliamentary-day-house-of-commons",
+  "level": 4,
+  "title": "The parliamentary day: House of Commons"
+ },
+ {
+  "id": "25-money-resolution-and-ways-and-means-resolution",
+  "level": 2,
+  "title": "25. MONEY RESOLUTION AND WAYS AND MEANS RESOLUTION"
+ },
+ {
+  "id": "key-points-20",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "money-resolution",
+  "level": 4,
+  "title": "Money resolution"
+ },
+ {
+  "id": "money-resolution-debate",
+  "level": 4,
+  "title": "Money resolution debate"
+ },
+ {
+  "id": "ways-and-means-resolution",
+  "level": 4,
+  "title": "Ways and means resolution"
+ },
+ {
+  "id": "lords-amendments-requiring-a-new-money-resolution-or-ways-an",
+  "level": 4,
+  "title": "Lords amendments requiring a new money resolution or ways and means resolution"
+ },
+ {
+  "id": "26-programming",
+  "level": 2,
+  "title": "26. PROGRAMMING"
+ },
+ {
+  "id": "key-points-21",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "overview-of-programming",
+  "level": 4,
+  "title": "Overview of programming"
+ },
+ {
+  "id": "at-second-reading",
+  "level": 4,
+  "title": "At Second Reading"
+ },
+ {
+  "id": "public-bill-committee-the-role-of-the-programming-sub-commit",
+  "level": 4,
+  "title": "Public bill committee: the role of the programming sub-committee"
+ },
+ {
+  "id": "public-bill-committee",
+  "level": 4,
+  "title": "Public bill committee"
+ },
+ {
+  "id": "public-bill-committee-revising-the-timetable",
+  "level": 4,
+  "title": "Public bill committee: revising the timetable"
+ },
+ {
+  "id": "supplementary-programme-motions-for-remaining-stages-in-the-",
+  "level": 4,
+  "title": "Supplementary programme motions for remaining stages in the Commons"
+ },
+ {
+  "id": "allocation-of-time-order-the-guillotine",
+  "level": 4,
+  "title": "Allocation of time order (the ‘guillotine’)"
+ },
+ {
+  "id": "27-commons-introduction-and-first-reading",
+  "level": 2,
+  "title": "27. COMMONS INTRODUCTION AND FIRST READING"
+ },
+ {
+  "id": "key-points-22",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "introducing-a-bill-into-the-commons",
+  "level": 4,
+  "title": "Introducing a bill into the Commons"
+ },
+ {
+  "id": "bills-brought-from-the-lords",
+  "level": 4,
+  "title": "Bills brought from the Lords"
+ },
+ {
+  "id": "before-introduction-echr-compatibility-northern-ireland-grea",
+  "level": 4,
+  "title": "Before introduction: ECHR compatibility, Northern Ireland-Great Britain Trade, and Environment Act statements"
+ },
+ {
+  "id": "bill-backers",
+  "level": 4,
+  "title": "Bill backers"
+ },
+ {
+  "id": "first-reading",
+  "level": 4,
+  "title": "First Reading"
+ },
+ {
+  "id": "printing",
+  "level": 4,
+  "title": "Printing"
+ },
+ {
+  "id": "supporting-documents",
+  "level": 4,
+  "title": "Supporting documents"
+ },
+ {
+  "id": "revised-editions-of-acts",
+  "level": 4,
+  "title": "Revised editions of Acts"
+ },
+ {
+  "id": "list-of-relevant-older-papers-for-the-house-of-commons-libra",
+  "level": 4,
+  "title": "List of relevant older papers for the House of Commons Library"
+ },
+ {
+  "id": "publicity",
+  "level": 4,
+  "title": "Publicity"
+ },
+ {
+  "id": "28-commons-second-reading",
+  "level": 2,
+  "title": "28. COMMONS SECOND READING"
+ },
+ {
+  "id": "key-points-23",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "date-of-second-reading",
+  "level": 4,
+  "title": "Date of Second Reading"
+ },
+ {
+  "id": "procedure-at-second-reading",
+  "level": 4,
+  "title": "Procedure at Second Reading"
+ },
+ {
+  "id": "opposition-to-second-reading",
+  "level": 4,
+  "title": "Opposition to Second Reading"
+ },
+ {
+  "id": "assistance-to-ministers",
+  "level": 4,
+  "title": "Assistance to ministers"
+ },
+ {
+  "id": "attendance-of-officials",
+  "level": 4,
+  "title": "Attendance of officials"
+ },
+ {
+  "id": "box-etiquette",
+  "level": 4,
+  "title": "Box etiquette"
+ },
+ {
+  "id": "second-reading-committee",
+  "level": 4,
+  "title": "Second Reading Committee"
+ },
+ {
+  "id": "29-commons-committee-stage",
+  "level": 2,
+  "title": "29. COMMONS COMMITTEE STAGE"
+ },
+ {
+  "id": "key-points-24",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "work-of-the-bill-team-in-committee",
+  "level": 4,
+  "title": "Work of the bill team in Committee"
+ },
+ {
+  "id": "committal",
+  "level": 4,
+  "title": "Committal"
+ },
+ {
+  "id": "membership-of-the-public-bill-committee",
+  "level": 4,
+  "title": "Membership of the public bill committee"
+ },
+ {
+  "id": "attendance-of-officials-2",
+  "level": 4,
+  "title": "Attendance of officials"
+ },
+ {
+  "id": "revised-editions-of-acts-2",
+  "level": 4,
+  "title": "Revised editions of Acts"
+ },
+ {
+  "id": "timing-and-timetabling-of-proceedings-in-committee",
+  "level": 4,
+  "title": "Timing and timetabling of proceedings in Committee"
+ },
+ {
+  "id": "oral-evidence-in-a-public-bill-committee",
+  "level": 4,
+  "title": "Oral evidence in a public bill committee"
+ },
+ {
+  "id": "written-evidence-in-a-public-bill-committee",
+  "level": 4,
+  "title": "Written evidence in a public bill committee"
+ },
+ {
+  "id": "supporting-the-public-bill-committee-evidence-taking-process",
+  "level": 4,
+  "title": "Supporting the public bill committee evidence-taking process:liaisonwiththeHouseof Commons Scrutiny Unit"
+ },
+ {
+  "id": "completion-of-oral-evidence-and-transition-to-clause-by-clau",
+  "level": 4,
+  "title": "Completion of oral evidence and transition to clause-by-clause consideration"
+ },
+ {
+  "id": "order-of-consideration-during-clause-by-clause-consideration",
+  "level": 4,
+  "title": "Order of consideration during clause-by-clause consideration"
+ },
+ {
+  "id": "tabling-government-amendments-in-committee",
+  "level": 4,
+  "title": "Tabling government amendments in Committee"
+ },
+ {
+  "id": "tabling-of-non-government-amendments",
+  "level": 4,
+  "title": "Tabling of non-government amendments"
+ },
+ {
+  "id": "selection-and-grouping-of-amendments",
+  "level": 4,
+  "title": "Selection and grouping of amendments"
+ },
+ {
+  "id": "grouping",
+  "level": 4,
+  "title": "Grouping"
+ },
+ {
+  "id": "clause-1",
+  "level": 4,
+  "title": "Clause 1"
+ },
+ {
+  "id": "keeping-track-of-amendments",
+  "level": 4,
+  "title": "Keeping track of amendments"
+ },
+ {
+  "id": "clause-stand-part-and-equivalent-for-schedules",
+  "level": 4,
+  "title": "‘Clause stand part’ (and equivalent for schedules)"
+ },
+ {
+  "id": "new-clauses-or-schedules",
+  "level": 4,
+  "title": "New clauses or schedules"
+ },
+ {
+  "id": "producing-speaking-notes-on-amendments",
+  "level": 4,
+  "title": "Producing speaking notes on amendments"
+ },
+ {
+  "id": "providing-text-of-existing-legislation-as-amended",
+  "level": 4,
+  "title": "Providing text of existing legislation as amended"
+ },
+ {
+  "id": "commitments",
+  "level": 4,
+  "title": "Commitments"
+ },
+ {
+  "id": "select-committees-on-bills",
+  "level": 4,
+  "title": "Select committees on bills"
+ },
+ {
+  "id": "30-commons-remaining-stages-report-and-third-reading",
+  "level": 2,
+  "title": "30. COMMONS REMAINING STAGES (REPORT AND THIRD READING)"
+ },
+ {
+  "id": "key-points-25",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "report-stage",
+  "level": 4,
+  "title": "Report Stage"
+ },
+ {
+  "id": "amendments-at-report",
+  "level": 4,
+  "title": "Amendments at Report"
+ },
+ {
+  "id": "selection-of-amendments",
+  "level": 4,
+  "title": "Selection of amendments"
+ },
+ {
+  "id": "third-reading",
+  "level": 4,
+  "title": "Third Reading"
+ },
+ {
+  "id": "preparing-for-the-second-house",
+  "level": 4,
+  "title": "Preparing for the second House"
+ },
+ {
+  "id": "31-carrying-over-legislation",
+  "level": 2,
+  "title": "31. CARRYING OVER LEGISLATION"
+ },
+ {
+  "id": "key-points-26",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "background-3",
+  "level": 4,
+  "title": "Background"
+ },
+ {
+  "id": "carry-over-of-commons-bills-whilst-still-in-the-commons",
+  "level": 4,
+  "title": "Carry over of Commons bills whilst still in the Commons"
+ },
+ {
+  "id": "carry-over-of-lords-bills-whilst-still-in-the-lords",
+  "level": 4,
+  "title": "Carry over of Lords bills whilst still in the Lords"
+ },
+ {
+  "id": "carry-over-of-bills-once-in-their-second-house",
+  "level": 4,
+  "title": "Carry over of bills once in their second House"
+ },
+ {
+  "id": "section-e",
+  "level": 2,
+  "title": "SECTION E"
+ },
+ {
+  "id": "lords-stages",
+  "level": 2,
+  "title": "LORDS STAGES"
+ },
+ {
+  "id": "32-the-lords-overview-and-differences-from-commons-stages",
+  "level": 2,
+  "title": "32. THE LORDS OVERVIEW AND DIFFERENCES FROM COMMONS' STAGES"
+ },
+ {
+  "id": "house-of-lords",
+  "level": 3,
+  "title": "House of Lords"
+ },
+ {
+  "id": "1-sovereign-s-throne",
+  "level": 3,
+  "title": "1. Sovereign's throne"
+ },
+ {
+  "id": "2-cloth-of-estate",
+  "level": 3,
+  "title": "2. Cloth of estate"
+ },
+ {
+  "id": "3-speaker",
+  "level": 3,
+  "title": "3. Speaker"
+ },
+ {
+  "id": "4-judge-s-woolsack",
+  "level": 3,
+  "title": "4. Judge's woolsack"
+ },
+ {
+  "id": "5-government",
+  "level": 3,
+  "title": "5. Government"
+ },
+ {
+  "id": "6-bishops",
+  "level": 3,
+  "title": "6. Bishops"
+ },
+ {
+  "id": "7-opposition",
+  "level": 3,
+  "title": "7. Opposition"
+ },
+ {
+  "id": "8-cross-benchers",
+  "level": 3,
+  "title": "8. Cross benchers"
+ },
+ {
+  "id": "9-mps-who-can-sit-on-the-steps-of-the-throne",
+  "level": 3,
+  "title": "9. MPs (who can sit on the steps of the throne)"
+ },
+ {
+  "id": "key-points-27",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "differences-in-practice-and-procedure-in-the-lords",
+  "level": 4,
+  "title": "Differences in practice and procedure in the Lords"
+ },
+ {
+  "id": "minimum-intervals-between-lords-stages",
+  "level": 4,
+  "title": "Minimum intervals between Lords stages"
+ },
+ {
+  "id": "lords-sitting-times",
+  "level": 4,
+  "title": "Lords sitting times"
+ },
+ {
+  "id": "the-parliamentary-day-house-of-lords",
+  "level": 4,
+  "title": "The parliamentary day: House of Lords"
+ },
+ {
+  "id": "constitution-committee",
+  "level": 4,
+  "title": "Constitution Committee"
+ },
+ {
+  "id": "33-lords-introduction-and-first-reading",
+  "level": 2,
+  "title": "33. LORDS INTRODUCTION AND FIRST READING"
+ },
+ {
+  "id": "key-points-28",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "introducing-a-bill-in-the-lords",
+  "level": 4,
+  "title": "Introducing a bill in the Lords"
+ },
+ {
+  "id": "bills-brought-from-the-commons",
+  "level": 4,
+  "title": "Bills brought from the Commons"
+ },
+ {
+  "id": "supporting-documents-2",
+  "level": 4,
+  "title": "Supporting documents"
+ },
+ {
+  "id": "revised-editions-of-acts-3",
+  "level": 4,
+  "title": "Revised editions of Acts"
+ },
+ {
+  "id": "press-and-publicity-in-the-lords",
+  "level": 4,
+  "title": "Press and publicity in the Lords"
+ },
+ {
+  "id": "34-lords-second-reading",
+  "level": 2,
+  "title": "34. LORDS SECOND READING"
+ },
+ {
+  "id": "key-points-29",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "differences-from-the-commons",
+  "level": 4,
+  "title": "Differences from the Commons"
+ },
+ {
+  "id": "box-etiquette-2",
+  "level": 4,
+  "title": "Box etiquette"
+ },
+ {
+  "id": "35-lords-committee-stage",
+  "level": 2,
+  "title": "35. LORDS COMMITTEE STAGE"
+ },
+ {
+  "id": "key-points-30",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "types-of-committee",
+  "level": 4,
+  "title": "Types of committee"
+ },
+ {
+  "id": "tabling-amendments",
+  "level": 4,
+  "title": "Tabling amendments"
+ },
+ {
+  "id": "procedure-in-committee-of-the-whole-house",
+  "level": 4,
+  "title": "Procedure in committee of the whole House"
+ },
+ {
+  "id": "procedure-in-grand-committee",
+  "level": 4,
+  "title": "Procedure in grand committee"
+ },
+ {
+  "id": "variation-in-order-of-amendments",
+  "level": 4,
+  "title": "Variation in order of amendments"
+ },
+ {
+  "id": "committee-on-a-money-or-supply-bill",
+  "level": 4,
+  "title": "Committee on a money or supply bill"
+ },
+ {
+  "id": "discharging-a-committee",
+  "level": 4,
+  "title": "Discharging a committee"
+ },
+ {
+  "id": "36-lords-report-and-third-reading",
+  "level": 2,
+  "title": "36. LORDS REPORT AND THIRD READING"
+ },
+ {
+  "id": "key-points-31",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "report-stage-2",
+  "level": 4,
+  "title": "Report Stage"
+ },
+ {
+  "id": "recommittal",
+  "level": 4,
+  "title": "Recommittal"
+ },
+ {
+  "id": "king-s-and-prince-of-wales-consent",
+  "level": 4,
+  "title": "King's and Prince of Wales' consent"
+ },
+ {
+  "id": "third-reading-2",
+  "level": 4,
+  "title": "Third Reading"
+ },
+ {
+  "id": "legislative-consent-statement",
+  "level": 4,
+  "title": "Legislative consent statement"
+ },
+ {
+  "id": "privilege-amendment",
+  "level": 4,
+  "title": "Privilege amendment"
+ },
+ {
+  "id": "passing",
+  "level": 4,
+  "title": "Passing"
+ },
+ {
+  "id": "section-f",
+  "level": 2,
+  "title": "SECTION F"
+ },
+ {
+  "id": "further-action-after-completing-commons-and-lords-stages-and",
+  "level": 2,
+  "title": "FURTHER ACTION AFTER COMPLETING COMMONS AND LORDS STAGES AND AFTER ROYAL ASSENT"
+ },
+ {
+  "id": "37-consideration-of-amendments-and-ping-pong",
+  "level": 2,
+  "title": "37. CONSIDERATION OF AMENDMENTS AND 'PING PONG'"
+ },
+ {
+  "id": "key-points-32",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "overview",
+  "level": 4,
+  "title": "Overview"
+ },
+ {
+  "id": "ping-pong-strategy",
+  "level": 4,
+  "title": "Ping-pong strategy"
+ },
+ {
+  "id": "commons-consideration-of-lords-amendments",
+  "level": 4,
+  "title": "Commons Consideration of Lords Amendments"
+ },
+ {
+  "id": "lords-consideration-of-commons-amendments",
+  "level": 4,
+  "title": "Lords Consideration of Commons Amendments"
+ },
+ {
+  "id": "parliament-acts-1911-and-1949",
+  "level": 4,
+  "title": "Parliament Acts 1911 and 1949"
+ },
+ {
+  "id": "38-royal-assent-and-commencement",
+  "level": 2,
+  "title": "38. ROYAL ASSENT AND COMMENCEMENT"
+ },
+ {
+  "id": "key-points-33",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "royal-assent",
+  "level": 4,
+  "title": "Royal Assent"
+ },
+ {
+  "id": "proof-prints-of-acts",
+  "level": 4,
+  "title": "Proof prints of Acts"
+ },
+ {
+  "id": "finalising-the-explanatory-notes",
+  "level": 4,
+  "title": "Finalising the explanatory notes"
+ },
+ {
+  "id": "commencement-of-acts",
+  "level": 4,
+  "title": "Commencement of Acts"
+ },
+ {
+  "id": "39-further-action-after-royal-assent",
+  "level": 2,
+  "title": "39. FURTHER ACTION AFTER ROYAL ASSENT"
+ },
+ {
+  "id": "key-points-34",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "overview-2",
+  "level": 4,
+  "title": "Overview"
+ },
+ {
+  "id": "secondary-legislation",
+  "level": 4,
+  "title": "Secondary legislation"
+ },
+ {
+  "id": "guidance-2",
+  "level": 4,
+  "title": "Guidance"
+ },
+ {
+  "id": "publicity-2",
+  "level": 4,
+  "title": "Publicity"
+ },
+ {
+  "id": "leaflets",
+  "level": 4,
+  "title": "Leaflets"
+ },
+ {
+  "id": "circulars",
+  "level": 4,
+  "title": "Circulars"
+ },
+ {
+  "id": "forms",
+  "level": 4,
+  "title": "Forms"
+ },
+ {
+  "id": "registration-and-custody-of-bill-papers",
+  "level": 4,
+  "title": "Registration and custody of bill papers"
+ },
+ {
+  "id": "conducting-a-lessons-learnt-exercise",
+  "level": 4,
+  "title": "Conducting a lessons learnt exercise"
+ },
+ {
+  "id": "40-post-legislative-scrutiny",
+  "level": 2,
+  "title": "40. POST-LEGISLATIVE SCRUTINY"
+ },
+ {
+  "id": "key-points-35",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "post-legislative-scrutiny-background",
+  "level": 4,
+  "title": "Post-legislative scrutiny: Background"
+ },
+ {
+  "id": "other-processes-for-the-review-of-acts-within-government",
+  "level": 4,
+  "title": "Other processes for the review of Acts within government"
+ },
+ {
+  "id": "the-system-for-supporting-parliamentary-review-of-acts",
+  "level": 4,
+  "title": "The system for supporting parliamentary review of Acts"
+ },
+ {
+  "id": "contents-of-memorandum-for-committee",
+  "level": 4,
+  "title": "Contents of memorandum for committee"
+ },
+ {
+  "id": "points-from-memorandum-comment-guidance",
+  "level": 4,
+  "title": "Points from memorandum Comment / guidance"
+ },
+ {
+  "id": "points-from-memorandum-comment-guidance-2",
+  "level": 4,
+  "title": "Points from memorandum Comment / guidance"
+ },
+ {
+  "id": "f-preliminary-assessment-of-the-act",
+  "level": 4,
+  "title": "(f)Preliminary assessment of the Act:"
+ },
+ {
+  "id": "summary-of-the-objectives-of-the-act",
+  "level": 4,
+  "title": "Summary of the objectives of the Act"
+ },
+ {
+  "id": "preliminary-assessment-of-the-act",
+  "level": 4,
+  "title": "Preliminary assessment of the Act"
+ },
+ {
+  "id": "delegated-legislation",
+  "level": 4,
+  "title": "Delegated legislation"
+ },
+ {
+  "id": "format-and-publication-of-the-memorandum",
+  "level": 4,
+  "title": "Format and publication of the memorandum"
+ },
+ {
+  "id": "clearance-processes",
+  "level": 4,
+  "title": "Clearance processes"
+ },
+ {
+  "id": "further-review-by-parliament",
+  "level": 4,
+  "title": "Further review by Parliament"
+ },
+ {
+  "id": "section-g",
+  "level": 2,
+  "title": "SECTION G"
+ },
+ {
+  "id": "other-types-of-government-bill",
+  "level": 2,
+  "title": "OTHER TYPES OF GOVERNMENT BILL"
+ },
+ {
+  "id": "41-hybrid-bills",
+  "level": 2,
+  "title": "41. HYBRID BILLS"
+ },
+ {
+  "id": "key-points-36",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "what-is-a-hybrid-bill",
+  "level": 4,
+  "title": "What is a hybrid bill?"
+ },
+ {
+  "id": "decision-on-hybridity",
+  "level": 4,
+  "title": "Decision on hybridity"
+ },
+ {
+  "id": "after-second-reading",
+  "level": 4,
+  "title": "After Second Reading"
+ },
+ {
+  "id": "remaining-stages-and-second-house",
+  "level": 4,
+  "title": "Remaining stages and second House"
+ },
+ {
+  "id": "amendments-to-hybrid-bills",
+  "level": 4,
+  "title": "Amendments to hybrid bills"
+ },
+ {
+  "id": "carry-over-of-hybrid-bills",
+  "level": 4,
+  "title": "Carry over of hybrid bills"
+ },
+ {
+  "id": "hybrid-statutory-instruments",
+  "level": 4,
+  "title": "Hybrid statutory instruments"
+ },
+ {
+  "id": "42-consolidation-bills-law-commission-bills-statute-law-repe",
+  "level": 2,
+  "title": "42. CONSOLIDATION BILLS, LAW COMMISSION BILLS, STATUTE LAW REPEAL AND REVISION BILLS"
+ },
+ {
+  "id": "key-points-37",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "what-is-a-consolidation-bill",
+  "level": 4,
+  "title": "What is a consolidation bill?"
+ },
+ {
+  "id": "procedural-differences-applying-to-consolidation-bills",
+  "level": 4,
+  "title": "Procedural differences applying to consolidation bills"
+ },
+ {
+  "id": "law-commission-bills-that-would-represent-a-more-significant",
+  "level": 4,
+  "title": "Law Commission bills that would represent a more significant change in policy"
+ },
+ {
+  "id": "section-h",
+  "level": 2,
+  "title": "SECTION H"
+ },
+ {
+  "id": "private-members-bills",
+  "level": 2,
+  "title": "PRIVATE MEMBERS' BILLS"
+ },
+ {
+  "id": "43-private-members-bills-introduction",
+  "level": 2,
+  "title": "43. PRIVATE MEMBERS' BILLS: INTRODUCTION"
+ },
+ {
+  "id": "key-points-38",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "government-response",
+  "level": 4,
+  "title": "Government response"
+ },
+ {
+  "id": "44-private-members-bills-parliamentary-procedure",
+  "level": 2,
+  "title": "44. PRIVATE MEMBERS' BILLS: PARLIAMENTARY PROCEDURE"
+ },
+ {
+  "id": "key-points-39",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "methods-of-introduction-commons",
+  "level": 4,
+  "title": "Methods of introduction: Commons"
+ },
+ {
+  "id": "methods-of-introduction-lords",
+  "level": 4,
+  "title": "Methods of introduction: Lords"
+ },
+ {
+  "id": "order-of-precedence-for-private-members-bills-debate-in-the-",
+  "level": 4,
+  "title": "Order of precedence for private members’ bills debate in the Commons"
+ },
+ {
+  "id": "commons-second-reading",
+  "level": 4,
+  "title": "Commons Second Reading"
+ },
+ {
+  "id": "commons-committee-and-remaining-stages",
+  "level": 4,
+  "title": "Commons Committee and remaining stages"
+ },
+ {
+  "id": "procedure-in-the-lords",
+  "level": 4,
+  "title": "Procedure in the Lords"
+ },
+ {
+  "id": "post-legislative-scrutiny",
+  "level": 4,
+  "title": "Post-legislative scrutiny"
+ },
+ {
+  "id": "45-private-members-bills-responding-to-non-government-bills",
+  "level": 2,
+  "title": "45. PRIVATE MEMBERS' BILLS: RESPONDING TO NON- GOVERNMENT BILLS"
+ },
+ {
+  "id": "key-points-40",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "allocatingprivatemembers-billstodepartments-preparinghandlin",
+  "level": 4,
+  "title": "Allocatingprivatemembers’billstodepartments,preparinghandlinglettersandagreeinga government position"
+ },
+ {
+  "id": "opposing-a-private-member-s-bill",
+  "level": 4,
+  "title": "Opposing a private member’s bill"
+ },
+ {
+  "id": "supporting-or-supporting-subject-to-amendment",
+  "level": 4,
+  "title": "Supporting, or supporting subject to amendment"
+ },
+ {
+  "id": "remaining-neutral",
+  "level": 4,
+  "title": "Remaining neutral"
+ },
+ {
+  "id": "clearance",
+  "level": 4,
+  "title": "Clearance"
+ },
+ {
+  "id": "further-action-required-by-departments-where-the-government-",
+  "level": 4,
+  "title": "Further action required by departments where the Government is supporting a private member’s bill"
+ },
+ {
+  "id": "further-action-required-bydepartmentsforanyprivatemember-sbi",
+  "level": 4,
+  "title": "Further action required bydepartmentsforanyprivatemember’sbillthatlookslikelyto pass, irrespective of whether government is supporting or opposing the bill"
+ },
+ {
+  "id": "46-private-members-bills-government-handout-bills",
+  "level": 2,
+  "title": "46. PRIVATE MEMBERS' BILLS: GOVERNMENT 'HANDOUT' BILLS"
+ },
+ {
+  "id": "key-points-41",
+  "level": 4,
+  "title": "Key points"
+ },
+ {
+  "id": "preparing-measures-for-the-handout-list",
+  "level": 4,
+  "title": "Preparing measures for the ‘handout’ list"
+ },
+ {
+  "id": "working-with-the-member-to-finalise-the-text-of-the-bill",
+  "level": 4,
+  "title": "Working with the member to finalise the text of the bill"
+ },
+ {
+  "id": "further-action-required-of-departments-during-parliamentary-",
+  "level": 4,
+  "title": "Further action required of departments during parliamentary passage of a ‘handout’ bill"
+ },
+ {
+  "id": "appendix-a-glossary",
+  "level": 2,
+  "title": "APPENDIX A: GLOSSARY"
+ },
+ {
+  "id": "appendix-b-contact-details",
+  "level": 2,
+  "title": "APPENDIX B: CONTACT DETAILS"
+ },
+ {
+  "id": "attorney-general-s-office",
+  "level": 4,
+  "title": "Attorney General’s Office"
+ },
+ {
+  "id": "advocate-general-for-scotland",
+  "level": 4,
+  "title": "Advocate General for Scotland"
+ },
+ {
+  "id": "clerk-to-the-joint-committee-on-human-rights",
+  "level": 4,
+  "title": "Clerk to the Joint Committee on Human Rights"
+ },
+ {
+  "id": "clerk-to-the-lords-constitution-committee",
+  "level": 4,
+  "title": "Clerk to the Lords Constitution Committee"
+ },
+ {
+  "id": "clerk-to-the-lords-delegated-powers-and-regulatory-reform-co",
+  "level": 4,
+  "title": "Clerk to the Lords Delegated Powers and Regulatory Reform Committee"
+ },
+ {
+  "id": "department-for-business-and-trade",
+  "level": 4,
+  "title": "Department for Business and Trade"
+ },
+ {
+  "id": "crown-dependencies-team-ministry-of-justice",
+  "level": 4,
+  "title": "Crown Dependencies Team, Ministry of Justice"
+ },
+ {
+  "id": "crown-dependencies-bailiwick-of-guernsey",
+  "level": 4,
+  "title": "Crown Dependencies: Bailiwick of Guernsey"
+ },
+ {
+  "id": "crown-dependencies-bailiwick-of-jersey",
+  "level": 4,
+  "title": "Crown Dependencies: Bailiwick of Jersey"
+ },
+ {
+  "id": "crown-dependencies-isle-of-man",
+  "level": 4,
+  "title": "Crown Dependencies: Isle of Man"
+ },
+ {
+  "id": "crown-estate",
+  "level": 4,
+  "title": "Crown Estate"
+ },
+ {
+  "id": "digital-regulation-team-department-for-science-innovation-te",
+  "level": 4,
+  "title": "Digital Regulation Team,Department for Science, Innovation & Technology"
+ },
+ {
+  "id": "data-protection-policy-team-department-for-science-innovatio",
+  "level": 4,
+  "title": "Data Protection Policy Team,Department for Science, Innovation & Technology"
+ },
+ {
+  "id": "environmental-principles-team-section-19-department-for-envi",
+  "level": 4,
+  "title": "Environmental Principles Team (section 19), Department for Environment, Food & Rural Affairs"
+ },
+ {
+  "id": "government-whips-office-commons",
+  "level": 4,
+  "title": "Government Whips’ Office (Commons)"
+ },
+ {
+  "id": "government-whips-office-lords",
+  "level": 4,
+  "title": "Government Whips’ Office (Lords)"
+ },
+ {
+  "id": "joint-committee-on-human-rights",
+  "level": 4,
+  "title": "Joint Committee on Human Rights"
+ },
+ {
+  "id": "journal-office-house-of-commons",
+  "level": 4,
+  "title": "Journal Office, House of Commons"
+ },
+ {
+  "id": "legal-secretariat-to-the-advocate-general-for-scotland",
+  "level": 4,
+  "title": "Legal Secretariat to the Advocate General for Scotland"
+ },
+ {
+  "id": "parliamentary-business-and-legislation-pbl-secretariat-cabin",
+  "level": 4,
+  "title": "Parliamentary Business and Legislation (PBL) Secretariat, Cabinet Office"
+ },
+ {
+  "id": "lords-printed-paper-office",
+  "level": 4,
+  "title": "Lords Printed Paper Office"
+ },
+ {
+  "id": "the-national-archives-legislation",
+  "level": 4,
+  "title": "The National Archives, Legislation"
+ },
+ {
+  "id": "the-national-archives-official-publishing-enquiries-team",
+  "level": 4,
+  "title": "The National Archives, Official Publishing Enquiries Team"
+ },
+ {
+  "id": "the-national-archives-policy-team",
+  "level": 4,
+  "title": "The National Archives, Policy Team"
+ },
+ {
+  "id": "northern-ireland-office",
+  "level": 4,
+  "title": "Northern Ireland Office"
+ },
+ {
+  "id": "northern-ireland-office-rights-team",
+  "level": 4,
+  "title": "Northern Ireland Office, Rights Team"
+ },
+ {
+  "id": "office-of-the-parliamentary-counsel",
+  "level": 4,
+  "title": "Office of the Parliamentary Counsel"
+ },
+ {
+  "id": "commonwealth-development-office",
+  "level": 4,
+  "title": "Commonwealth & Development Office"
+ },
+ {
+  "id": "palace-of-westminster-pass-office",
+  "level": 4,
+  "title": "Palace of Westminster Pass Office"
+ },
+ {
+  "id": "parliamentary-adviser-cabinet-secretariat-cabinet-office",
+  "level": 4,
+  "title": "Parliamentary Adviser (Cabinet Secretariat), Cabinet Office"
+ },
+ {
+  "id": "public-bill-office-commons",
+  "level": 4,
+  "title": "Public Bill Office (Commons)"
+ },
+ {
+  "id": "public-bill-office-lords",
+  "level": 4,
+  "title": "Public Bill Office (Lords)"
+ },
+ {
+  "id": "public-bodies-team-cabinet-office",
+  "level": 4,
+  "title": "Public Bodies Team, Cabinet Office"
+ },
+ {
+  "id": "the-private-secretary-to-the-king",
+  "level": 4,
+  "title": "The Private Secretary to The King"
+ },
+ {
+  "id": "the-private-secretary-to-the-prince-of-wales",
+  "level": 4,
+  "title": "The Private Secretary to The Prince of Wales"
+ },
+ {
+  "id": "scotland-office",
+  "level": 4,
+  "title": "Scotland Office"
+ },
+ {
+  "id": "regulation-directorate-formerly-the-better-regulation-execut",
+  "level": 4,
+  "title": "Regulation Directorate (formerly the Better Regulation Executive), Department for Business and Trade"
+ },
+ {
+  "id": "windsor-framework-taskforce-cabinet-office",
+  "level": 4,
+  "title": "Windsor Framework Taskforce, Cabinet Office"
+ },
+ {
+  "id": "vote-office-commons",
+  "level": 4,
+  "title": "Vote Office (Commons)"
+ },
+ {
+  "id": "wales-office",
+  "level": 4,
+  "title": "Wales Office"
+ },
+ {
+  "id": "appendix-c-codes-of-practice-and-legislation",
+  "level": 2,
+  "title": "APPENDIX C: CODES OF PRACTICE AND LEGISLATION"
+ },
+ {
+  "id": "meaning-of-code-of-practice",
+  "level": 4,
+  "title": "Meaning of ‘code of practice’"
+ },
+ {
+  "id": "is-statutory-provision-necessary",
+  "level": 4,
+  "title": "Is statutory provision necessary?"
+ },
+ {
+  "id": "codes-addressed-to-authorities-and-officers-duty-to-have-reg",
+  "level": 4,
+  "title": "Codes addressed to authorities and officers: duty to have regard to code"
+ },
+ {
+  "id": "codes-administered-by-authorities-having-regulatory-or-disci",
+  "level": 4,
+  "title": "Codes administered by authorities having regulatory or disciplinary powers: failure to comply with code leading to action by authority"
+ },
+ {
+  "id": "statutory-mention-of-codes-having-extra-statutory-effect",
+  "level": 4,
+  "title": "Statutory mention of codes having extra statutory effect"
+ },
+ {
+  "id": "drafting-codes-of-practice",
+  "level": 4,
+  "title": "Drafting codes of practice"
+ },
+ {
+  "id": "parliamentary-procedure-for-codes-of-practice",
+  "level": 4,
+  "title": "Parliamentary procedure for codes of practice"
+ },
+ {
+  "id": "publication-and-commencement",
+  "level": 4,
+  "title": "Publication and commencement"
+ },
+ {
+  "id": "evidence-admissibility-and-proof-of-document",
+  "level": 4,
+  "title": "Evidence: Admissibility and proof of document"
+ },
+ {
+  "id": "appendix-d-securing-legislative-consent-motions-in-the-devol",
+  "level": 2,
+  "title": "APPENDIX D: SECURING LEGISLATIVE CONSENT MOTIONS IN THE DEVOLVED LEGISLATURES"
+ },
+ {
+  "id": "general-principles-2",
+  "level": 4,
+  "title": "General principles"
+ },
+ {
+  "id": "scottish-parliament",
+  "level": 4,
+  "title": "Scottish Parliament"
+ },
+ {
+  "id": "senedd-cymru-welsh-parliament",
+  "level": 4,
+  "title": "Senedd Cymru/Welsh Parliament"
+ },
+ {
+  "id": "northern-ireland-assembly",
+  "level": 4,
+  "title": "Northern Ireland Assembly"
+ },
+ {
+  "id": "appendix-e-delegated-legislation-toolkit",
+  "level": 2,
+  "title": "APPENDIX E: DELEGATED LEGISLATION TOOLKIT"
+ },
+ {
+  "id": "a-what-is-the-right-balance-between-primary-and-secondaryleg",
+  "level": 4,
+  "title": "A. What is the right balance between primary and secondarylegislation?"
+ },
+ {
+  "id": "example",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "b-what-is-the-proper-role-for-delegated-powers",
+  "level": 4,
+  "title": "B. What is the proper role for delegated powers?"
+ },
+ {
+  "id": "c-where-will-delegated-powers-not-generally-be-justifiable",
+  "level": 4,
+  "title": "C. Where will delegated powers not generally be justifiable?"
+ },
+ {
+  "id": "d-in-what-circumstances-may-it-be-appropriate-to-take-henry-",
+  "level": 4,
+  "title": "D. In what circumstances may it be appropriate to take Henry VIII powers?"
+ },
+ {
+  "id": "example-2",
+  "level": 4,
+  "title": "Example 2"
+ },
+ {
+  "id": "e-what-alternatives-should-be-considered-when-deciding-wheth",
+  "level": 4,
+  "title": "E. What alternatives should be considered when deciding whether to take a delegated power?"
+ },
+ {
+  "id": "f-what-safeguards-should-be-considered-when-it-has-been-deci",
+  "level": 4,
+  "title": "F. What safeguards should be considered when it has been decided to take a delegated power?"
+ },
+ {
+  "id": "appendix-f-other-guides",
+  "level": 2,
+  "title": "APPENDIX F: OTHER GUIDES"
+ },
+ {
+  "id": "cabinet-office",
+  "level": 4,
+  "title": "Cabinet Office"
+ },
+ {
+  "id": "competition-and-markets-authority",
+  "level": 4,
+  "title": "Competition and Markets Authority"
+ },
+ {
+  "id": "department-for-business-and-trade-2",
+  "level": 4,
+  "title": "Department for Business and Trade"
+ },
+ {
+  "id": "department-for-science-innovation-technology",
+  "level": 4,
+  "title": "Department for Science, Innovation & Technology"
+ },
+ {
+  "id": "department-for-food-environment-and-rural-affairs",
+  "level": 4,
+  "title": "Department for Food, Environment and Rural Affairs"
+ },
+ {
+  "id": "equality-and-human-rights-commission",
+  "level": 4,
+  "title": "Equality and Human Rights Commission"
+ },
+ {
+  "id": "government-legal-department",
+  "level": 4,
+  "title": "Government Legal Department"
+ },
+ {
+  "id": "hm-treasury",
+  "level": 4,
+  "title": "HM Treasury"
+ },
+ {
+  "id": "ministry-of-justice",
+  "level": 4,
+  "title": "Ministry of Justice"
+ },
+ {
+  "id": "parliament",
+  "level": 4,
+  "title": "Parliament"
+ },
+ {
+  "id": "other",
+  "level": 4,
+  "title": "Other"
+ },
+ {
+  "id": "appendix-g-checklists-for-each-stage",
+  "level": 2,
+  "title": "APPENDIX G: CHECKLISTS FOR EACH STAGE"
+ },
+ {
+  "id": "preparing-a-bill-for-introduction",
+  "level": 4,
+  "title": "PREPARING A BILL FOR INTRODUCTION"
+ },
+ {
+  "id": "before-drafting-legislation",
+  "level": 4,
+  "title": "Before drafting legislation"
+ },
+ {
+  "id": "during-drafting",
+  "level": 4,
+  "title": "During drafting"
+ },
+ {
+  "id": "before-pbl-committee-consideration-of-the-bill-for-introduct",
+  "level": 4,
+  "title": "Before PBL Committee consideration of the bill for introduction"
+ },
+ {
+  "id": "explanatory-notes-2",
+  "level": 4,
+  "title": "Explanatory Notes:"
+ },
+ {
+  "id": "prepare-a-pbl-committee-memorandum",
+  "level": 4,
+  "title": "Prepare a PBL Committee memorandum"
+ },
+ {
+  "id": "prepare-a-final-parliamentary-handling-strategy",
+  "level": 4,
+  "title": "Prepare a final parliamentary handling strategy"
+ },
+ {
+  "id": "produce-full-impact-assessment-if-applicable",
+  "level": 4,
+  "title": "Produce full impact assessment, if applicable"
+ },
+ {
+  "id": "draft-the-legal-issues-memorandum-lim",
+  "level": 4,
+  "title": "Draft the Legal Issues Memorandum (LIM)"
+ },
+ {
+  "id": "before-pbl-committee",
+  "level": 4,
+  "title": "Before PBL Committee"
+ },
+ {
+  "id": "the-house-of-commons",
+  "level": 4,
+  "title": "THE HOUSE OF COMMONS"
+ },
+ {
+  "id": "ahead-of-presentation-first-reading-in-the-commons",
+  "level": 4,
+  "title": "Ahead of presentation/First Reading in the Commons"
+ },
+ {
+  "id": "on-the-day-of-introduction",
+  "level": 4,
+  "title": "On the day of introduction"
+ },
+ {
+  "id": "after-the-bill-has-been-introduced",
+  "level": 4,
+  "title": "After the bill has been introduced"
+ },
+ {
+  "id": "ahead-of-commons-second-reading",
+  "level": 4,
+  "title": "Ahead of Commons Second Reading"
+ },
+ {
+  "id": "after-commons-second-reading",
+  "level": 4,
+  "title": "After Commons Second Reading"
+ },
+ {
+  "id": "commons-committee-stage",
+  "level": 4,
+  "title": "Commons Committee Stage"
+ },
+ {
+  "id": "commons-remaining-stages-report-and-third-reading",
+  "level": 4,
+  "title": "Commons Remaining stages (Report and Third Reading)"
+ },
+ {
+  "id": "preparing-to-transfer-to-the-second-house",
+  "level": 4,
+  "title": "Preparing to transfer to the second House"
+ },
+ {
+  "id": "the-house-of-lords",
+  "level": 4,
+  "title": "THE HOUSE OF LORDS"
+ },
+ {
+  "id": "lords-introduction-and-first-reading",
+  "level": 4,
+  "title": "Lords Introduction and First Reading"
+ },
+ {
+  "id": "lords-second-reading",
+  "level": 4,
+  "title": "Lords Second Reading"
+ },
+ {
+  "id": "lords-committee-stage",
+  "level": 4,
+  "title": "Lords Committee Stage"
+ },
+ {
+  "id": "lords-report",
+  "level": 4,
+  "title": "Lords Report"
+ },
+ {
+  "id": "lords-third-reading",
+  "level": 4,
+  "title": "Lords Third Reading"
+ },
+ {
+  "id": "ping-pong",
+  "level": 4,
+  "title": "Ping-pong"
+ },
+ {
+  "id": "royal-assent-2",
+  "level": 4,
+  "title": "Royal Assent"
+ },
+ {
+  "id": "private-members-bills-2",
+  "level": 4,
+  "title": "PRIVATE MEMBERS' BILLS"
+ },
+ {
+  "id": "taking-a-position-on-pmbs-that-have-been-introduced",
+  "level": 4,
+  "title": "Taking a position on PMBs that have been introduced"
+ },
+ {
+  "id": "government-supported-pmbs-after-introduction",
+  "level": 4,
+  "title": "Government supported PMBs - after introduction"
+ },
+ {
+  "id": "government-handout-bills",
+  "level": 4,
+  "title": "Government handout bills"
+ }
+]

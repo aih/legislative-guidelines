@@ -24,12 +24,13 @@ import collections
 import html
 import json
 import re
+import shutil
 import subprocess
 import sys
 import tempfile
 from pathlib import Path
 
-import fitz  # PyMuPDF
+import pymupdf as fitz  # PyMuPDF
 from bs4 import BeautifulSoup, Comment
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -330,13 +331,24 @@ def convert_word(path: Path) -> tuple[str, list[dict], str]:
     src = path
     with tempfile.TemporaryDirectory() as tmp:
         if path.suffix.lower() in {".doc", ".rtf"}:
-            subprocess.run(
-                ["libreoffice", "--headless", "--convert-to", "docx", "--outdir", tmp, str(path)],
-                check=True,
-                capture_output=True,
-                timeout=300,
-            )
-            src = Path(tmp) / (path.stem + ".docx")
+            out_docx = Path(tmp) / (path.stem + ".docx")
+            if shutil.which("libreoffice"):
+                subprocess.run(
+                    ["libreoffice", "--headless", "--convert-to", "docx", "--outdir", tmp, str(path)],
+                    check=True,
+                    capture_output=True,
+                    timeout=300,
+                )
+            elif shutil.which("textutil"):
+                subprocess.run(
+                    ["textutil", "-convert", "docx", "-output", str(out_docx), str(path)],
+                    check=True,
+                    capture_output=True,
+                    timeout=300,
+                )
+            else:
+                raise RuntimeError("Neither libreoffice nor textutil found to convert .doc/.rtf")
+            src = out_docx
         result = subprocess.run(
             ["pandoc", str(src), "-t", "html5", "--wrap=none"], check=True, capture_output=True, timeout=300
         )
