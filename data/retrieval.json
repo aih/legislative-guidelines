@@ -1,4 +1,40 @@
 {
+  "al-law-drafting-manual": {
+    "bytes": 405821,
+    "content_type": "application/pdf",
+    "file": "documents/al-law-drafting-manual/original.pdf",
+    "final_url": "https://ial-online.org/wp-content/uploads/2018/05/Rep.-Albania.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Sat, 13 Jun 2026 02:53:49 GMT",
+    "requested_url": "https://ial-online.org/wp-content/uploads/2018/05/Rep.-Albania.pdf",
+    "retrieved_at": "2026-10-29T17:33:19+00:00",
+    "sha256": "50459847135d8ade1c49b38ca813576c8af6377f1760e9aa30c4a0073bdf8b42"
+  },
+  "ar-decreto-333-1985-elaboracion-actos": {
+    "bytes": 127827,
+    "content_type": "text/html; charset=utf-8",
+    "file": "documents/ar-decreto-333-1985-elaboracion-actos/original.html",
+    "final_url": "https://www.argentina.gob.ar/normativa/nacional/decreto-333-1985-40882/actualizacion",
+    "format": "HTML",
+    "http_status": 200,
+    "last_modified_header": "Thu, 29 Oct 2026 17:33:23 GMT",
+    "requested_url": "https://www.argentina.gob.ar/normativa/nacional/decreto-333-1985-40882/actualizacion",
+    "retrieved_at": "2026-10-29T17:33:21+00:00",
+    "sha256": "7487d304b93e67ea28281a8976dc29f0d135e3b9e308d8f96dc5b6f71906aa3a"
+  },
+  "asean-good-regulatory-practices-guidelines": {
+    "bytes": 386141,
+    "content_type": "application/pdf",
+    "file": "documents/asean-good-regulatory-practices-guidelines/original.pdf",
+    "final_url": "https://asean.org/wp-content/uploads/2017/09/ASEAN-Guidelines-on-Good-Regulatory-Practices2.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Sat, 07 Aug 2021 17:31:35 GMT",
+    "requested_url": "https://asean.org/wp-content/uploads/2017/09/ASEAN-Guidelines-on-Good-Regulatory-Practices2.pdf",
+    "retrieved_at": "2026-10-29T17:32:57+00:00",
+    "sha256": "9f001568aa65d57fa4a2d7575737eef81c12a0758b205025a31868d10ffe9d42"
+  },
   "at-legistische-richtlinien-1990": {
     "bytes": 249773,
     "content_type": "application/pdf;charset=UTF-8",
@@ -13,7 +49,7 @@
   },
   "au-opc-drafting-directions": {
     "error": "no source_url in catalog",
-    "retrieved_at": "2026-10-29T15:53:23+00:00"
+    "retrieved_at": "2026-10-29T17:32:46+00:00"
   },
   "au-opc-drafting-manual": {
     "bytes": 201620,
@@ -47,6 +83,42 @@
     "retrieved_at": "2026-10-29T15:54:49+00:00",
     "sha256": "e2f155b77b8d60a84e70c5f65e41ab43899fcf314252724787bbf7c057ed1532"
   },
+  "be-principes-technique-legislative": {
+    "bytes": 61789,
+    "content_type": "text/html; charset=utf-8",
+    "file": "documents/be-principes-technique-legislative/original.html",
+    "final_url": "https://www.raadvst-consetat.be/fr/?page=technique_legislative",
+    "format": "HTML",
+    "http_status": 200,
+    "last_modified_header": null,
+    "requested_url": "https://www.raadvst-consetat.be/fr/?page=technique_legislative",
+    "retrieved_at": "2026-10-29T17:33:04+00:00",
+    "sha256": "ebaa838b0d175ef894b65c8c6c45f1db30fb479d004d1ef18cfe568386d62bf5"
+  },
+  "be-vademecum-procedure-avis": {
+    "bytes": 823388,
+    "content_type": "application/pdf",
+    "file": "documents/be-vademecum-procedure-avis/original.pdf",
+    "final_url": "https://ial-online.org/wp-content/uploads/2022/01/vademecum_avis.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Sat, 13 Jun 2026 02:53:39 GMT",
+    "requested_url": "https://ial-online.org/wp-content/uploads/2022/01/vademecum_avis.pdf",
+    "retrieved_at": "2026-10-29T17:33:05+00:00",
+    "sha256": "fc7bd06e0f1f330c2b1f076ca53e9ec259ec4a2f98ad4d76aefc39f6eb6fe924"
+  },
+  "bg-zakon-za-normativnite-aktove": {
+    "bytes": 4304,
+    "content_type": "text/html; charset=UTF-8",
+    "file": "documents/bg-zakon-za-normativnite-aktove/original.html",
+    "final_url": "https://parliament.bg/bg/laws/ID/15534",
+    "format": "HTML",
+    "http_status": 200,
+    "last_modified_header": null,
+    "requested_url": "https://parliament.bg/bg/laws/ID/15534",
+    "retrieved_at": "2026-10-29T17:33:16+00:00",
+    "sha256": "d0f25e00fbfb17e52dfa579c670330d8b029477bc1b33508adac89209123ef94"
+  },
   "br-decreto-12002-2024": {
     "content_type": "text/html; charset=windows-1252",
     "error": "response too small to be the document (814 bytes): planalto.gov.br returned a request-blocked page",
@@ -64,6 +136,18 @@
     "last_modified_header": null,
     "requested_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm",
     "retrieved_at": "2026-10-29T15:54:50+00:00"
+  },
+  "br-manual-redacao-presidencia-republica": {
+    "bytes": 495536,
+    "content_type": "application/pdf",
+    "file": "documents/br-manual-redacao-presidencia-republica/original.pdf",
+    "final_url": "https://juspodium.net/manual_redacao_oficial.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Wed, 20 Mar 2019 20:55:13 GMT",
+    "requested_url": "https://juspodium.net/manual_redacao_oficial.pdf",
+    "retrieved_at": "2026-10-29T17:33:21+00:00",
+    "sha256": "ec126a0efa0e8963b10b266aab312fea6d9380c5bdc8330a06a2222817fc9ed2"
   },
   "ca-jurilinguistique-legislative-francaise": {
     "bytes": 26736,
@@ -915,6 +999,22 @@
     "retrieved_at": "2026-10-29T15:54:12+00:00",
     "sha256": "b932b436652e49a8b4b16069efe6173e3496f256bf1a3f284f601ed2d78e5b98"
   },
+  "co-manual-elaboracion-textos-normativos": {
+    "error": "SSLError: HTTPSConnectionPool(host='www.funcionpublica.gov.co', port=443): Max retries exceeded with url: /eva/gestornormativo/norma_pdf.php?i=39371 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+    "retrieved_at": "2026-10-29T17:33:24+00:00"
+  },
+  "coe-venice-rule-of-law-checklist": {
+    "bytes": 593601,
+    "content_type": "application/pdf",
+    "file": "documents/coe-venice-rule-of-law-checklist/original.pdf",
+    "final_url": "http://catalog.liha-pres.eu/index.php/liha-pres/catalog/download/446/16301/39935-1?inline=1",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": null,
+    "requested_url": "http://catalog.liha-pres.eu/index.php/liha-pres/catalog/download/446/16301/39935-1?inline=1",
+    "retrieved_at": "2026-10-29T17:32:51+00:00",
+    "sha256": "9424f757315dc6f81e47db310fb22736583cf2ce07ac1498d95b39078fd2a5ff"
+  },
   "commonwealth-legislative-drafting-manual": {
     "bytes": 59036,
     "content_type": "text/html; charset=UTF-8",
@@ -926,6 +1026,18 @@
     "requested_url": "https://www.thecommonwealth-ilibrary.org/index.php/comsec/catalog/book/873",
     "retrieved_at": "2026-10-29T15:41:59+00:00",
     "sha256": "9d8506c3a9d9b22156893b846c308c854d32a42cbf5b7a20bf0849fde72af483"
+  },
+  "cy-katefthyntiries-grammes-nomothesias": {
+    "bytes": 999599,
+    "content_type": "application/pdf",
+    "file": "documents/cy-katefthyntiries-grammes-nomothesias/original.pdf",
+    "final_url": "https://ial-online.org/wp-content/uploads/2018/07/%CE%9A%CE%91%CE%A4%CE%95%CE%A5%CE%98%CE%A5%CE%9D%CE%A4%CE%97%CE%A1%CE%99%CE%95%CE%A3-%CE%93%CE%A1%CE%91%CE%9C%CE%9C%CE%95%CE%A3-%CE%93%CE%99%CE%91-%CE%A4%CE%97-%CE%A3%CE%A5%CE%9D%CE%A4%CE%91%CE%9E%CE%97-%CE%95%CE%98%CE%9D%CE%99%CE%9A%CE%97%CE%A3-%CE%95%CE%9D%CE%91%CE%A1%CE%9C%CE%9F%CE%9D%CE%99%CE%A3%CE%A4%CE%99%CE%9A%CE%97%CE%A3-%CE%9D%CE%9F%CE%9C%CE%9F%CE%98%CE%95%CE%A3%CE%99%CE%91%CE%A3-01032017-3.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Sat, 13 Jun 2026 02:53:45 GMT",
+    "requested_url": "https://ial-online.org/wp-content/uploads/2018/07/%CE%9A%CE%91%CE%A4%CE%95%CE%A5%CE%98%CE%A5%CE%9D%CE%A4%CE%97%CE%A1%CE%99%CE%95%CE%A3-%CE%93%CE%A1%CE%91%CE%9C%CE%9C%CE%95%CE%A3-%CE%93%CE%99%CE%91-%CE%A4%CE%97-%CE%A3%CE%A5%CE%9D%CE%A4%CE%91%CE%9E%CE%97-%CE%95%CE%98%CE%9D%CE%99%CE%9A%CE%97%CE%A3-%CE%95%CE%9D%CE%91%CE%A1%CE%9C%CE%9F%CE%9D%CE%99%CE%A3%CE%A4%CE%99%CE%9A%CE%97%CE%A3-%CE%9D%CE%9F%CE%9C%CE%9F%CE%98%CE%95%CE%A3%CE%99%CE%91%CE%A3-01032017-3.pdf",
+    "retrieved_at": "2026-10-29T17:33:18+00:00",
+    "sha256": "4e15bd7aade9e196dd83d7c042d259b9a6cc827a902df4a99ce29d265e83b346"
   },
   "cz-legislativni-pravidla-vlady": {
     "bytes": 722799,
@@ -963,6 +1075,30 @@
     "retrieved_at": "2026-10-29T15:54:33+00:00",
     "sha256": "5cf5c98e3645846d265e865e17ec0be5330a01aa4b44f1bc7345f680e75e8f92"
   },
+  "do-manual-tecnica-legislativa-senado": {
+    "bytes": 1721549,
+    "content_type": "application/pdf",
+    "file": "documents/do-manual-tecnica-legislativa-senado/original.pdf",
+    "final_url": "https://ial-online.org/wp-content/uploads/2022/11/MANUAL-TECNICA-LEGISLATIVA_RP_Senado.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Sat, 13 Jun 2026 02:53:34 GMT",
+    "requested_url": "https://ial-online.org/wp-content/uploads/2022/11/MANUAL-TECNICA-LEGISLATIVA_RP_Senado.pdf",
+    "retrieved_at": "2026-10-29T17:33:41+00:00",
+    "sha256": "58ea1f78069a582f38d4468ed6bcd5db679a8d8d57f9f867ddbfec07652e24d6"
+  },
+  "ee-hea-oigusloome-ja-normitehnika-eeskiri": {
+    "bytes": 1131134,
+    "content_type": "application/pdf",
+    "file": "documents/ee-hea-oigusloome-ja-normitehnika-eeskiri/original.pdf",
+    "final_url": "https://www.justdigi.ee/sites/default/files/documents/2021-09/Hea%20%C3%B5igusloome%20ja%20normitehnika%20eeskiri.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Tue, 07 Sep 2021 11:53:28 GMT",
+    "requested_url": "https://www.justdigi.ee/sites/default/files/documents/2021-09/Hea%20%C3%B5igusloome%20ja%20normitehnika%20eeskiri.pdf",
+    "retrieved_at": "2026-10-29T17:33:07+00:00",
+    "sha256": "6c48d9ab2b49338e6c2f08b0585d252c337b4a503766182dee329aa5b9457285"
+  },
   "es-directrices-tecnica-normativa": {
     "bytes": 294401,
     "file": "documents/es-directrices-tecnica-normativa/original.pdf",
@@ -973,6 +1109,42 @@
     "retrieved_at": "2026-10-29T19:52:16+00:00",
     "sha256": "4a69b89ae219ab5ee6e3b39152443eebb609510745dcb9248085d78b6a4add63"
   },
+  "eu-commission-better-regulation-guidelines": {
+    "bytes": 679678,
+    "content_type": "application/pdf",
+    "file": "documents/eu-commission-better-regulation-guidelines/original.pdf",
+    "final_url": "https://commission.europa.eu/document/download/d0bbd77f-bee5-4ee5-b5c4-6110c7605476_en?filename=swd2021_305_en.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": null,
+    "requested_url": "https://commission.europa.eu/document/download/d0bbd77f-bee5-4ee5-b5c4-6110c7605476_en?filename=swd2021_305_en.pdf",
+    "retrieved_at": "2026-10-29T17:32:55+00:00",
+    "sha256": "0a5133d20fef3bc4ecd0c17ccc84180bb23582b2e395fd6c13b7f46828e16e08"
+  },
+  "eu-commission-how-to-write-clearly": {
+    "bytes": 890561,
+    "content_type": "application/pdf;charset=UTF-8",
+    "file": "documents/eu-commission-how-to-write-clearly/original.pdf",
+    "final_url": "http://publications.europa.eu/resource/cellar/725b7eb0-d92e-11e5-8fea-01aa75ed71a1.0004.03/DOC_1",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Mon, 23 Oct 2023 05:47:12 GMT",
+    "requested_url": "http://publications.europa.eu/resource/cellar/725b7eb0-d92e-11e5-8fea-01aa75ed71a1.0004.03/DOC_1",
+    "retrieved_at": "2026-10-29T17:32:56+00:00",
+    "sha256": "4daba9a1fe7c4a4dae81b7fb864b8ecfb7ce364c6e862e801603a9812c8499b6"
+  },
+  "eu-council-manual-of-precedents": {
+    "bytes": 12967692,
+    "content_type": "application/pdf;type=pdfa1b;charset=UTF-8",
+    "file": "documents/eu-council-manual-of-precedents/original.pdf",
+    "final_url": "https://publications.europa.eu/resource/cellar/431ccffd-00c2-491a-b423-ce709af0d6c3.0006.02/DOC_1",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Tue, 29 Oct 2019 22:06:00 GMT",
+    "requested_url": "https://publications.europa.eu/resource/cellar/431ccffd-00c2-491a-b423-ce709af0d6c3.0006.02/DOC_1",
+    "retrieved_at": "2026-10-29T17:32:54+00:00",
+    "sha256": "79f6810995a9f8973a5c913f27ec417c97f390dcba4e29a5e658aefd9cbffaf2"
+  },
   "eu-interinstitutional-style-guide": {
     "content_type": "text/html",
     "error": "HTTP 403",
@@ -980,7 +1152,7 @@
     "http_status": 403,
     "last_modified_header": null,
     "requested_url": "https://style-guide.europa.eu/en/",
-    "retrieved_at": "2026-10-29T15:41:58+00:00"
+    "retrieved_at": "2026-10-29T17:29:37+00:00"
   },
   "eu-joint-handbook-olp": {
     "content_type": "text/html; charset=UTF-8",
@@ -989,7 +1161,7 @@
     "http_status": 403,
     "last_modified_header": null,
     "requested_url": "https://www.consilium.europa.eu/media/ch2b24su/joint_handbook_en_28-november-2025_def_final.pdf",
-    "retrieved_at": "2026-10-29T15:41:58+00:00"
+    "retrieved_at": "2026-10-29T17:29:38+00:00"
   },
   "eu-joint-practical-guide": {
     "bytes": 643967,
@@ -1020,7 +1192,151 @@
     "http_status": 403,
     "last_modified_header": null,
     "requested_url": "https://www.legifrance.gouv.fr/contenu/Media/files/autour-de-la-loi/guide-de-legistique/guide_legistique_2026.pdf",
-    "retrieved_at": "2026-10-29T15:54:17+00:00"
+    "retrieved_at": "2026-10-29T17:32:50+00:00"
+  },
+  "gb-sct-drafting-matters": {
+    "bytes": 0,
+    "content_type": "text/html; charset=UTF-8",
+    "file": "documents/gb-sct-drafting-matters/original.html",
+    "final_url": "https://www.gov.scot/publications/drafting-matters/pages/1/",
+    "format": "HTML",
+    "http_status": 202,
+    "last_modified_header": null,
+    "requested_url": "https://www.gov.scot/publications/drafting-matters/pages/1/",
+    "retrieved_at": "2026-10-29T17:32:59+00:00",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "gb-wls-writing-laws-for-wales": {
+    "bytes": 580232,
+    "content_type": "application/pdf",
+    "file": "documents/gb-wls-writing-laws-for-wales/original.pdf",
+    "final_url": "https://www.gov.wales/sites/default/files/publications/2026-05/writing-laws-for-wales-guidance-on-drafting-legislation.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Wed, 20 May 2026 17:33:39 GMT",
+    "requested_url": "https://www.gov.wales/sites/default/files/publications/2026-05/writing-laws-for-wales-guidance-on-drafting-legislation.pdf",
+    "retrieved_at": "2026-10-29T17:32:59+00:00",
+    "sha256": "20892f4f6fbb2446a89a0768bdc0e4feba92cdac9712bfb8fed9419e3d4d42ce"
+  },
+  "ge-law-on-normative-acts": {
+    "bytes": 130340,
+    "content_type": "application/pdf",
+    "file": "documents/ge-law-on-normative-acts/original.pdf",
+    "final_url": "https://ial-online.org/wp-content/uploads/2018/05/Ge%C3%B3rgia_ingl%C3%AAs.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Sat, 13 Jun 2026 02:53:47 GMT",
+    "requested_url": "https://ial-online.org/wp-content/uploads/2018/05/Ge%C3%B3rgia_ingl%C3%AAs.pdf",
+    "retrieved_at": "2026-10-29T17:33:19+00:00",
+    "sha256": "2c6024e2a70e621f6e5a9d6ed1f435516bdf493f063879be49d1dcec90093ff5"
+  },
+  "gr-egcheiridio-methodologias-kodikopoiisis": {
+    "bytes": 716776,
+    "content_type": "application/pdf",
+    "file": "documents/gr-egcheiridio-methodologias-kodikopoiisis/original.pdf",
+    "final_url": "https://gslegal.gov.gr/wp-content/uploads/2022/10/%CE%A4%CE%B5%CE%BB%CE%B9%CE%BA%CF%8C-%CE%B5%CE%B3%CF%87%CE%B5%CE%B9%CF%81%CE%AF%CE%B4%CE%B9%CE%BF-%CE%BC%CE%B5%CE%B8%CE%BF%CE%B4%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1%CF%82-%CE%BA%CF%89%CE%B4%CE%B9%CE%BA%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7%CF%82.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Fri, 14 Oct 2022 19:30:36 GMT",
+    "requested_url": "https://gslegal.gov.gr/wp-content/uploads/2022/10/%CE%A4%CE%B5%CE%BB%CE%B9%CE%BA%CF%8C-%CE%B5%CE%B3%CF%87%CE%B5%CE%B9%CF%81%CE%AF%CE%B4%CE%B9%CE%BF-%CE%BC%CE%B5%CE%B8%CE%BF%CE%B4%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1%CF%82-%CE%BA%CF%89%CE%B4%CE%B9%CE%BA%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7%CF%82.pdf",
+    "retrieved_at": "2026-10-29T17:33:18+00:00",
+    "sha256": "72d2df7ebc9faf19f071718c929482f8c8bab447c56fc56d087fef4562a9ce6b"
+  },
+  "gr-egcheiridio-nomoparaskevastikis-methodologias": {
+    "bytes": 1170073,
+    "content_type": "application/pdf",
+    "file": "documents/gr-egcheiridio-nomoparaskevastikis-methodologias/original.pdf",
+    "final_url": "https://gslegal.gov.gr/wp-content/uploads/2013/10/versionB.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Wed, 16 Oct 2013 10:26:00 GMT",
+    "requested_url": "https://gslegal.gov.gr/wp-content/uploads/2013/10/versionB.pdf",
+    "retrieved_at": "2026-10-29T17:33:16+00:00",
+    "sha256": "84c69d62b04eff7764dbc5e259416ed507ac46f9d8ee85ad73bc9e33f9265cb4"
+  },
+  "hk-doj-drafting-legislation": {
+    "bytes": 2381320,
+    "content_type": "application/pdf",
+    "file": "documents/hk-doj-drafting-legislation/original.pdf",
+    "final_url": "https://www.doj.gov.hk/en/publications/pdf/drafting_book_2012_e.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Mon, 21 Sep 2020 05:06:49 GMT",
+    "requested_url": "https://www.doj.gov.hk/en/publications/pdf/drafting_book_2012_e.pdf",
+    "retrieved_at": "2026-10-29T17:33:42+00:00",
+    "sha256": "a957e71a32cb6bf6388b8525209f177fb61484b07f1239325eb80f41acac46cb"
+  },
+  "hk-doj-how-legislation-is-made": {
+    "bytes": 1035717,
+    "content_type": "application/pdf",
+    "file": "documents/hk-doj-how-legislation-is-made/original.pdf",
+    "final_url": "https://ial-online.org/wp-content/uploads/2019/01/Drafter_booke.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Sat, 13 Jun 2026 02:53:44 GMT",
+    "requested_url": "https://ial-online.org/wp-content/uploads/2019/01/Drafter_booke.pdf",
+    "retrieved_at": "2026-10-29T17:33:44+00:00",
+    "sha256": "f476bdebc785ce606805fe1c62218c8b0d8869f71834b6d68e9db9e4d6ae98e9"
+  },
+  "hr-jedinstvena-metodolosko-nomotehnicka-pravila": {
+    "bytes": 94011,
+    "content_type": "text/html; charset=utf-8",
+    "file": "documents/hr-jedinstvena-metodolosko-nomotehnicka-pravila/original.html",
+    "final_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_07_74_1410.html",
+    "format": "HTML",
+    "http_status": 200,
+    "last_modified_header": null,
+    "requested_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_07_74_1410.html",
+    "retrieved_at": "2026-10-29T17:33:12+00:00",
+    "sha256": "65bd229dde9e76f2b38a8b9393cf17aeb034117612d6c7c65b8305083220ba1e"
+  },
+  "hu-act-cxxx-2010-lawmaking": {
+    "bytes": 395666,
+    "content_type": "application/pdf",
+    "file": "documents/hu-act-cxxx-2010-lawmaking/original.pdf",
+    "final_url": "https://ial-online.org/wp-content/uploads/2019/09/J2010T0130P_20180518_FIN.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Sat, 13 Jun 2026 02:53:42 GMT",
+    "requested_url": "https://ial-online.org/wp-content/uploads/2019/09/J2010T0130P_20180518_FIN.pdf",
+    "retrieved_at": "2026-10-29T17:33:15+00:00",
+    "sha256": "cfea0f5540081cee7af8a86a686303667a3128aa90d520ef6c3b17b19fa622d7"
+  },
+  "hu-jogszabalyszerkesztesrol-61-2009-irm": {
+    "bytes": 512975,
+    "content_type": "text/html;charset=UTF-8",
+    "file": "documents/hu-jogszabalyszerkesztesrol-61-2009-irm/original.html",
+    "final_url": "https://jogkodex.hu/jsz/jszr_2009_61_irm_rendelet_8845347",
+    "format": "HTML",
+    "http_status": 200,
+    "last_modified_header": null,
+    "requested_url": "https://jogkodex.hu/jsz/jszr_2009_61_irm_rendelet_8845347",
+    "retrieved_at": "2026-10-29T17:33:14+00:00",
+    "sha256": "0b35fbcc4233e75fdb13594478e51f32d00c3635875faf478ac280aab34151f4"
+  },
+  "ie-lrc-statutory-drafting-plain-language": {
+    "bytes": 4938797,
+    "content_type": "application/pdf",
+    "file": "documents/ie-lrc-statutory-drafting-plain-language/original.pdf",
+    "final_url": "https://www.lawreform.ie/_fileupload/Reports/rPlainLanguage.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Thu, 14 May 2026 11:05:35 GMT",
+    "requested_url": "https://www.lawreform.ie/_fileupload/Reports/rPlainLanguage.pdf",
+    "retrieved_at": "2026-10-29T17:33:02+00:00",
+    "sha256": "50999bae95adbe98389896a2fb3247c9ba31da4a27401fd92b50a802690b70fe"
+  },
+  "in-manual-parliamentary-procedures": {
+    "bytes": 3670883,
+    "content_type": "application/pdf",
+    "file": "documents/in-manual-parliamentary-procedures/original.pdf",
+    "final_url": "https://www.mpa.gov.in/static/uploads/2025/08/da33cd4cd8299d8abb4e793fea36cff6.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Sat, 02 Aug 2025 07:07:34 GMT",
+    "requested_url": "https://www.mpa.gov.in/static/uploads/2025/08/da33cd4cd8299d8abb4e793fea36cff6.pdf",
+    "retrieved_at": "2026-10-29T17:34:07+00:00",
+    "sha256": "d6105412ccb44fa5ceaebf6ee1125f2f2b4fa51881394116d932f676b99abf05"
   },
   "it-regole-raccomandazioni-2001": {
     "bytes": 1071192,
@@ -1031,6 +1347,30 @@
     "requested_url": "https://www.senato.it/istituzione/redazione-dei-testi-legislativi",
     "retrieved_at": "2026-10-29T19:52:41+00:00",
     "sha256": "2984982e8cb50c2e3b5fb9f3973cfc9abc6b88433343d7b026e9f8236373b239"
+  },
+  "je-ldo-current-drafting-practice": {
+    "bytes": 366552,
+    "content_type": "application/pdf",
+    "file": "documents/je-ldo-current-drafting-practice/original.pdf",
+    "final_url": "https://www.gov.je/SiteCollectionDocuments/Crime%20and%20justice/Current%20Drafting%20Practice.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Thu, 14 Sep 2023 09:46:45 GMT",
+    "requested_url": "https://www.gov.je/SiteCollectionDocuments/Crime%20and%20justice/Current%20Drafting%20Practice.pdf",
+    "retrieved_at": "2026-10-29T17:33:00+00:00",
+    "sha256": "19a039e8f29699c07e7cc82dea1be5686a231407e253dffbc63dde2778111b05"
+  },
+  "jp-clb-horitsu-an-sakusei": {
+    "bytes": 21216,
+    "content_type": "text/html; charset=utf-8",
+    "file": "documents/jp-clb-horitsu-an-sakusei/original.html",
+    "final_url": "https://www.clb.go.jp/law/bill/",
+    "format": "HTML",
+    "http_status": 200,
+    "last_modified_header": null,
+    "requested_url": "https://www.clb.go.jp/law/bill/",
+    "retrieved_at": "2026-10-29T17:34:04+00:00",
+    "sha256": "8712f43bc212921bb6a140eaff7ff1012b69323eb07a18756c1f852260ac4ac8"
   },
   "ke-guide-legislative-process": {
     "bytes": 1925238,
@@ -1044,6 +1384,34 @@
     "retrieved_at": "2026-10-29T15:54:55+00:00",
     "sha256": "f0e98775b9310f399e79c89707a6d93177169fe91fcbe21e2d6d2a2b29291291"
   },
+  "kr-moleg-beomnyeong-iban-simsa-gijun": {
+    "bytes": 5831688,
+    "content_type": "application/octet-stream;charset=UTF-8",
+    "file": "documents/kr-moleg-beomnyeong-iban-simsa-gijun/original.pdf",
+    "final_url": "https://www.moleg.go.kr/boardDownload.es?bid=ATT&list_no=147288&seq=1",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": null,
+    "requested_url": "https://www.moleg.go.kr/boardDownload.es?bid=ATT&list_no=147288&seq=1",
+    "retrieved_at": "2026-10-29T17:33:49+00:00",
+    "sha256": "5f8f02e62145f077cc45f759904ce8cd59cd6a5d40b96ebe4704927624abc4b0"
+  },
+  "lr-legislation-handbook": {
+    "bytes": 962149,
+    "content_type": "application/pdf",
+    "file": "documents/lr-legislation-handbook/original.pdf",
+    "final_url": "https://ial-online.org/wp-content/uploads/2018/05/Liberia-Legislation-Handbook.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Sat, 13 Jun 2026 02:53:47 GMT",
+    "requested_url": "https://ial-online.org/wp-content/uploads/2018/05/Liberia-Legislation-Handbook.pdf",
+    "retrieved_at": "2026-10-29T17:34:36+00:00",
+    "sha256": "99d6029ca516d417b846f1e7cb5fbe2ca95f6765b853481a9265833dbfba38f9"
+  },
+  "lt-teises-aktu-projektu-rengimo-rekomendacijos": {
+    "error": "no source_url in catalog",
+    "retrieved_at": "2026-10-29T17:33:20+00:00"
+  },
   "lu-guide-pratique-legistique": {
     "bytes": 572810,
     "content_type": "application/pdf",
@@ -1055,6 +1423,34 @@
     "requested_url": "https://chd.lu/sites/default/files/2024-07/Guide%20pratique%20l%C3%A9gistique%20juillet%202024.pdf",
     "retrieved_at": "2026-10-29T15:54:21+00:00",
     "sha256": "2783eddb0f26556b25a04a5c7700a04f89b9e6b036ebba50a44fb81d0947e8b7"
+  },
+  "lv-normativo-aktu-projektu-izstrades-rokasgramata": {
+    "error": "no source_url in catalog",
+    "retrieved_at": "2026-10-29T17:33:20+00:00"
+  },
+  "mx-lineamientos-tecnica-legislativa-diputados": {
+    "bytes": 147772,
+    "content_type": "application/pdf",
+    "file": "documents/mx-lineamientos-tecnica-legislativa-diputados/original.pdf",
+    "final_url": "https://www.diputados.gob.mx/sedia/sia/dir/COORD-SP-06-02.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Fri, 26 Jan 2018 21:37:49 GMT",
+    "requested_url": "https://www.diputados.gob.mx/sedia/sia/dir/COORD-SP-06-02.pdf",
+    "retrieved_at": "2026-10-29T17:33:23+00:00",
+    "sha256": "126d4dbf2683a2b84051259a6b6434e00c4e7231b4e8fed9ad3a361a1c8dfa95"
+  },
+  "ng-nilds-national-legislative-drafting-guide": {
+    "bytes": 1231817,
+    "content_type": "application/pdf",
+    "file": "documents/ng-nilds-national-legislative-drafting-guide/original.pdf",
+    "final_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Nigeria%27s_NATIONAL_LEGISLATIVE_DRAFTING_GUIDE.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Thu, 14 Mar 2024 00:09:03 GMT",
+    "requested_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Nigeria%27s_NATIONAL_LEGISLATIVE_DRAFTING_GUIDE.pdf",
+    "retrieved_at": "2026-10-29T17:34:30+00:00",
+    "sha256": "6066717a756295a04011dde5cb2de11ca5bfdc5ff1c938b5ca89ef17cfde04a4"
   },
   "nl-aanwijzingen-voor-de-regelgeving": {
     "bytes": 3202794,
@@ -1075,7 +1471,7 @@
     "http_status": 403,
     "last_modified_header": null,
     "requested_url": "https://www.regjeringen.no/globalassets/upload/kilde/jd/bro/2000/0002/ddd/pdfv/108138-lovteknikkboka.pdf",
-    "retrieved_at": "2026-10-29T16:04:12+00:00"
+    "retrieved_at": "2026-10-29T17:33:07+00:00"
   },
   "nr-legislative-drafting-manual": {
     "bytes": 1528855,
@@ -1108,7 +1504,7 @@
     "http_status": 404,
     "last_modified_header": null,
     "requested_url": "https://regulation.govt.nz/assets/Ministry-for-Regulation-files/Regulatory-System-Capability/Legislation-Guidelines.pdf",
-    "retrieved_at": "2026-10-29T15:53:23+00:00"
+    "retrieved_at": "2026-10-29T17:32:46+00:00"
   },
   "oecd-regulatory-policy-governance-2012": {
     "bytes": 4035,
@@ -1119,7 +1515,7 @@
     "http_status": 200,
     "last_modified_header": "Thu, 07 May 2026 06:54:11 GMT",
     "requested_url": "https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0390",
-    "retrieved_at": "2026-10-29T16:03:45+00:00",
+    "retrieved_at": "2026-10-29T17:32:52+00:00",
     "sha256": "2d7447c98e31677dab7c7e4d619f5222ec47160cf1ea91b6b20245efb9b4d3e3"
   },
   "osce-odihr-democratic-lawmaking-2024": {
@@ -1133,6 +1529,30 @@
     "requested_url": "https://cdn.osce.org/sites/default/files/f/documents/a/3/558321.pdf",
     "retrieved_at": "2026-10-29T16:03:43+00:00",
     "sha256": "6601dedc220f21b950127124f4ff09f8a1413f64b8ec0fb48533153224c84e7c"
+  },
+  "pe-guia-calidad-normativa-minjus": {
+    "bytes": 1261925,
+    "content_type": "application/pdf",
+    "file": "documents/pe-guia-calidad-normativa-minjus/original.pdf",
+    "final_url": "https://cdn.www.gob.pe/uploads/document/file/1526157/Gu%C3%ADa%20calidad%20normativa%20publicaci%C3%B3n%20proyectos%20normativos.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Wed, 26 Nov 2025 20:53:20 GMT",
+    "requested_url": "https://cdn.www.gob.pe/uploads/document/file/1526157/Gu%C3%ADa%20calidad%20normativa%20publicaci%C3%B3n%20proyectos%20normativos.pdf",
+    "retrieved_at": "2026-10-29T17:33:39+00:00",
+    "sha256": "9f5d9aa134839109792c5be5bdadd18506a3a91f0df4e1340eb1087fed030c7c"
+  },
+  "pe-manual-tecnica-legislativa-congreso": {
+    "bytes": 822207,
+    "content_type": "application/pdf",
+    "file": "documents/pe-manual-tecnica-legislativa-congreso/original.pdf",
+    "final_url": "https://ial-online.org/wp-content/uploads/2022/11/manual-tecnica-legislativa-CongressoPeru.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Sat, 13 Jun 2026 02:53:35 GMT",
+    "requested_url": "https://ial-online.org/wp-content/uploads/2022/11/manual-tecnica-legislativa-CongressoPeru.pdf",
+    "retrieved_at": "2026-10-29T17:33:38+00:00",
+    "sha256": "ccf81a4ff4935204213ef8d9f7ca7178a3b0931643635c61a9f53ab757d8fe76"
   },
   "pk-legislative-drafting-manual-2019": {
     "bytes": 2334986,
@@ -1170,6 +1590,58 @@
     "retrieved_at": "2026-10-29T16:04:08+00:00",
     "sha256": "930a57d79ab03e9d4dfc788da1c8a443d7f04fbc97aa38b85d4c539217e3a6db"
   },
+  "pt-regras-legistica-conselho-ministros": {
+    "bytes": 2346,
+    "content_type": "text/html; charset=utf-8",
+    "file": "documents/pt-regras-legistica-conselho-ministros/original.html",
+    "final_url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/105-2025-923487049",
+    "format": "HTML",
+    "http_status": 200,
+    "last_modified_header": null,
+    "requested_url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/105-2025-923487049",
+    "retrieved_at": "2026-10-29T17:33:06+00:00",
+    "sha256": "0794abe5f8088cfd34e8e50bb5f9f7828b20a3c505f702e4b51be3bbb0631b57"
+  },
+  "qa-drafting-legislation-guide": {
+    "bytes": 8930278,
+    "content_type": "application/pdf",
+    "file": "documents/qa-drafting-legislation-guide/original.pdf",
+    "final_url": "https://ial-online.org/wp-content/uploads/2022/09/Drafting-legislation-in-the-State-of-Qatar.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Sat, 13 Jun 2026 02:53:34 GMT",
+    "requested_url": "https://ial-online.org/wp-content/uploads/2022/09/Drafting-legislation-in-the-State-of-Qatar.pdf",
+    "retrieved_at": "2026-10-29T17:34:10+00:00",
+    "sha256": "f6ec5fb0abdf770462b5c64c26aa4046966964d46992b638121b23d91b5f6f6c"
+  },
+  "ro-legea-24-2000-tehnica-legislativa": {
+    "error": "no source_url in catalog",
+    "retrieved_at": "2026-10-29T17:33:20+00:00"
+  },
+  "rs-jedinstvena-metodoloska-pravila": {
+    "bytes": 120636,
+    "content_type": "application/pdf",
+    "file": "documents/rs-jedinstvena-metodoloska-pravila/original.pdf",
+    "final_url": "https://ial-online.org/wp-content/uploads/2018/05/S%C3%A9rvia-2.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Sat, 13 Jun 2026 02:53:49 GMT",
+    "requested_url": "https://ial-online.org/wp-content/uploads/2018/05/S%C3%A9rvia-2.pdf",
+    "retrieved_at": "2026-10-29T17:33:19+00:00",
+    "sha256": "904a82a880d402ddea81430fa27d339c419256689d27b9c1028a82ae392fbe15"
+  },
+  "rw-rlrc-legislative-drafting-guidelines": {
+    "bytes": 1590331,
+    "content_type": "application/pdf",
+    "file": "documents/rw-rlrc-legislative-drafting-guidelines/original.pdf",
+    "final_url": "https://www.rlrc.gov.rw/fileadmin/user_upload/RLRC/Publications/Other_documents/LEGISLATIVE_DRAFTING_GUIDELINES_RLRC_2022.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Thu, 08 Feb 2024 09:06:41 GMT",
+    "requested_url": "https://www.rlrc.gov.rw/fileadmin/user_upload/RLRC/Publications/Other_documents/LEGISLATIVE_DRAFTING_GUIDELINES_RLRC_2022.pdf",
+    "retrieved_at": "2026-10-29T17:34:16+00:00",
+    "sha256": "76279c365f082e7d81ede942c1b6f675f618140657243aecdda6c6aeafa65f53"
+  },
   "se-grona-boken-ds-2014-1": {
     "bytes": 4366042,
     "content_type": "application/pdf",
@@ -1193,6 +1665,54 @@
     "requested_url": "https://www.regeringen.se/contentassets/4a78b51adf5a41b09dc93f2bc2fe2846/myndigheternas-foreskrifter-pm-20254.pdf",
     "retrieved_at": "2026-10-29T15:54:39+00:00",
     "sha256": "a405911157626a325290800f9720f71cca5162611da95229a80be3a95f4798ea"
+  },
+  "sg-agc-plain-laws-plus": {
+    "bytes": 15825222,
+    "content_type": "application/pdf",
+    "file": "documents/sg-agc-plain-laws-plus/original.pdf",
+    "final_url": "https://isomer-user-content.by.gov.sg/109/54f98e25-7c32-4f70-8210-963041ee708e/plus-report-(full).pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Tue, 17 Jun 2025 09:59:39 GMT",
+    "requested_url": "https://isomer-user-content.by.gov.sg/109/54f98e25-7c32-4f70-8210-963041ee708e/plus-report-(full).pdf",
+    "retrieved_at": "2026-10-29T17:33:45+00:00",
+    "sha256": "770be85e4cc3282d6fdcc90d3d6d384eabce552a5c50ebe35d3ef89d9259bff9"
+  },
+  "si-nomotehnicne-smernice": {
+    "bytes": 1023539,
+    "content_type": "application/pdf",
+    "file": "documents/si-nomotehnicne-smernice/original.pdf",
+    "final_url": "https://www.gov.si/assets/vladne-sluzbe/SVZ/f50d0f6d15/Nomotehnicne_smernice-2018.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Tue, 19 Mar 2019 13:10:32 GMT",
+    "requested_url": "https://www.gov.si/assets/vladne-sluzbe/SVZ/f50d0f6d15/Nomotehnicne_smernice-2018.pdf",
+    "retrieved_at": "2026-10-29T17:33:08+00:00",
+    "sha256": "08ba769e3d299e964b783ed791ec2c7c69c5dedcefb4966866781ccdbef82d7f"
+  },
+  "sk-legislativne-pravidla-vlady": {
+    "bytes": 709175,
+    "content_type": "application/pdf",
+    "file": "documents/sk-legislativne-pravidla-vlady/original.pdf",
+    "final_url": "https://www.vlada.gov.sk/site/assets/files/2169/lp_25092024.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Thu, 26 Sep 2024 06:21:56 GMT",
+    "requested_url": "https://www.vlada.gov.sk/site/assets/files/2169/lp_25092024.pdf",
+    "retrieved_at": "2026-10-29T17:33:10+00:00",
+    "sha256": "cb92cd52a72f5a52c7417484e64600acd040570e61f5416c7502748dd8e92457"
+  },
+  "tz-ocpd-legislative-drafting-manual": {
+    "bytes": 1155065,
+    "content_type": "application/pdf",
+    "file": "documents/tz-ocpd-legislative-drafting-manual/original.pdf",
+    "final_url": "https://www.ocpd.go.tz/uploads/documents/sw-1726227821-ENGLISH%20MANUAL.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Fri, 13 Sep 2024 11:43:40 GMT",
+    "requested_url": "https://www.ocpd.go.tz/uploads/documents/sw-1726227821-ENGLISH%20MANUAL.pdf",
+    "retrieved_at": "2026-10-29T17:34:12+00:00",
+    "sha256": "680a0f652160bde91aacbba8c46fb04b43e90a181b89976d6919adca8e731513"
   },
   "ug-manual-legislative-draftspersons": {
     "bytes": 245248,
@@ -1254,6 +1774,18 @@
     "retrieved_at": "2026-10-29T15:42:01+00:00",
     "sha256": "5e195e3b6dbd66a72d82a26a28ed7928b0b0349205824e6283c437c7e082df45"
   },
+  "uk-statutory-instrument-practice": {
+    "bytes": 1942343,
+    "content_type": "application/pdf",
+    "file": "documents/uk-statutory-instrument-practice/original.pdf",
+    "final_url": "https://www.legislation.gov.uk/pdfs/StatutoryInstrumentPractice_5th_Edition.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Thu, 29 Oct 2026 17:29:52 GMT",
+    "requested_url": "https://www.legislation.gov.uk/pdfs/StatutoryInstrumentPractice_5th_Edition.pdf",
+    "retrieved_at": "2026-10-29T17:32:58+00:00",
+    "sha256": "c402fbf7b0cd60000a4aec127d1c8b9dcc14bebb4fb9ca62120a3abc98ab492c"
+  },
   "un-final-clauses-handbook": {
     "bytes": 459042,
     "content_type": "application/pdf",
@@ -1266,6 +1798,30 @@
     "retrieved_at": "2026-10-29T15:41:58+00:00",
     "sha256": "66bf5c6f01828eb3fdeb4a760ef995ca54633589c6788c42c22f9a8eb45c5b3a"
   },
+  "un-uncitral-business-registry-guide": {
+    "bytes": 521017,
+    "content_type": "application/pdf",
+    "file": "documents/un-uncitral-business-registry-guide/original.pdf",
+    "final_url": "https://uncitral.un.org/sites/default/files/media-documents/uncitral/en/19-09951_e_ebook.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Fri, 26 Dec 2025 11:53:35 GMT",
+    "requested_url": "https://uncitral.un.org/sites/default/files/media-documents/uncitral/en/19-09951_e_ebook.pdf",
+    "retrieved_at": "2026-10-29T17:32:54+00:00",
+    "sha256": "cec77671039f2bd60eb659f1247999c273c7e9bcafa853dc3664c39854f94d09"
+  },
+  "un-uncitral-secured-transactions-guide": {
+    "bytes": 2155177,
+    "content_type": "application/pdf",
+    "file": "documents/un-uncitral-secured-transactions-guide/original.pdf",
+    "final_url": "https://uncitral.un.org/sites/default/files/media-documents/uncitral/en/09-82670_ebook-guide_09-04-10english.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Fri, 26 Dec 2025 10:46:22 GMT",
+    "requested_url": "https://uncitral.un.org/sites/default/files/media-documents/uncitral/en/09-82670_ebook-guide_09-04-10english.pdf",
+    "retrieved_at": "2026-10-29T17:32:53+00:00",
+    "sha256": "42ccd100d36854052a3d337a0347136d5414e5c7a2d16e5ad27c6852bd5c503a"
+  },
   "us-holc-guide-legislative-drafting": {
     "bytes": 55462,
     "content_type": "text/html; charset=utf-8",
@@ -1277,6 +1833,18 @@
     "requested_url": "https://legcounsel.house.gov/holc-guide-legislative-drafting",
     "retrieved_at": "2026-10-29T16:03:45+00:00",
     "sha256": "78f34dac3bf3c3bf503fa4d7a7acd0362794c9144478aabf806a978a83ab882d"
+  },
+  "us-holc-quick-guide-legislative-drafting": {
+    "bytes": 184369,
+    "content_type": "application/pdf",
+    "file": "documents/us-holc-quick-guide-legislative-drafting/original.pdf",
+    "final_url": "https://legcounsel.house.gov/sites/evo-subsites/legcounsel-evo.house.gov/files/evo-media-document/quick_guide_6_10_26.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Thu, 11 Jun 2026 19:36:38 GMT",
+    "requested_url": "https://legcounsel.house.gov/sites/evo-subsites/legcounsel-evo.house.gov/files/evo-media-document/quick_guide_6_10_26.pdf",
+    "retrieved_at": "2026-10-29T17:32:57+00:00",
+    "sha256": "a73ed26d35ccdcd137c49982cb33f3e9d9a172e63ebb4776895f628298a4a128"
   },
   "us-house-manual-drafting-style": {
     "bytes": 217515,
@@ -1313,5 +1881,29 @@
     "requested_url": "https://www.uniformlaws.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=1ef012f4-a31f-7ab2-b29c-15d9f622f98f&forceDialog=0",
     "retrieved_at": "2026-10-29T16:03:46+00:00",
     "sha256": "0410dc8a5510788e3cc4ad6607044d256ceef36cfddc17b2c8a57e51ccee1b41"
+  },
+  "uy-manual-redaccion-legislativa": {
+    "bytes": 597512,
+    "content_type": "application/pdf",
+    "file": "documents/uy-manual-redaccion-legislativa/original.pdf",
+    "final_url": "https://ial-online.org/wp-content/uploads/2021/04/MANUAL-DE-REDACCIO%CC%81N-LEGISLATIVA-Uruguay.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Sat, 13 Jun 2026 02:53:37 GMT",
+    "requested_url": "https://ial-online.org/wp-content/uploads/2021/04/MANUAL-DE-REDACCIO%CC%81N-LEGISLATIVA-Uruguay.pdf",
+    "retrieved_at": "2026-10-29T17:33:41+00:00",
+    "sha256": "58c7a53e110e2eda5463c1a7b891e6447a4239d6dd1a7f2aa968b2bcefaa54f1"
+  },
+  "za-sals-lawmaking-practical-guide": {
+    "bytes": 4849399,
+    "content_type": "application/pdf",
+    "file": "documents/za-sals-lawmaking-practical-guide/original.pdf",
+    "final_url": "https://sals.gov.za/wp-content/uploads/2021/12/practical-guide-for-mps-and-mpls.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Wed, 24 May 2023 13:06:32 GMT",
+    "requested_url": "https://sals.gov.za/wp-content/uploads/2021/12/practical-guide-for-mps-and-mpls.pdf",
+    "retrieved_at": "2026-10-29T17:34:30+00:00",
+    "sha256": "3d8691eb16337641574cd4601cc2bf1f98217cf368a42a1e2a1046e0bb23d3ea"
   }
 }

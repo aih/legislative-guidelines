@@ -1,0 +1,2612 @@
+[
+ {
+  "id": "normitehnika-käsiraamat",
+  "level": 2,
+  "title": "Normitehnika käsiraamat"
+ },
+ {
+  "id": "sissejuhatus",
+  "level": 2,
+  "title": "Sissejuhatus"
+ },
+ {
+  "id": "hea-õigusloome-ja-normitehnika-eeskiri",
+  "level": 2,
+  "title": "„Hea õigusloome ja normitehnika eeskiri“"
+ },
+ {
+  "id": "1-peatükk-seaduseelnõu-väljatöötamine-ja-seaduse-mõju-hindam",
+  "level": 2,
+  "title": "1. peatükk. Seaduseelnõu väljatöötamine ja seaduse mõju hindamine"
+ },
+ {
+  "id": "1-väljatöötamiskavatsus-kontseptsioon-ja-seaduse-mõju-järelh",
+  "level": 3,
+  "title": "§ 1. Väljatöötamiskavatsus, kontseptsioon ja seaduse mõju järelhindamine"
+ },
+ {
+  "id": "väljatöötamiskavatsus-peab-käsitlema-järgmist-teavet-ja-põhj",
+  "level": 3,
+  "title": "Väljatöötamiskavatsus peab käsitlema järgmist teavet ja põhjendusi:"
+ },
+ {
+  "id": "tasandi-kindlaksmääramine-eelnõu-eeldatav-valmimise-aeg-ja-r",
+  "level": 3,
+  "title": "tasandi kindlaksmääramine, eelnõu eeldatav valmimise aeg ja regulatsiooni"
+ },
+ {
+  "id": "sihtrühma-suurusest-ja-ebasoovitavate-mõjude-riskist-võivad-",
+  "level": 3,
+  "title": "sihtrühma suurusest ja ebasoovitavate mõjude riskist, võivad seaduse"
+ },
+ {
+  "id": "euroopa-liidu-õigusakti-eelnõu-menetlemisel-on-sisuliselt-lä",
+  "level": 3,
+  "title": "Euroopa Liidu õigusakti eelnõu menetlemisel on sisuliselt lähtutud lõikes 1"
+ },
+ {
+  "id": "koostab-asjaomane-ministeerium-pärast-väljatöötamiskavatsuse",
+  "level": 3,
+  "title": "koostab asjaomane ministeerium pärast väljatöötamiskavatsuse kooskõlastamist ja enne"
+ },
+ {
+  "id": "seaduseelnõu-kontseptsiooni-koostamisel-järgitakse-käesoleva",
+  "level": 3,
+  "title": "Seaduseelnõu kontseptsiooni koostamisel järgitakse käesoleva eeskirja kolmandas peatükis seaduseelnõu seletuskirja kohta sätestatud nõudeid niivõrd, kuivõrd see on"
+ },
+ {
+  "id": "analüüsi-tegemisel-mõjuanalüüsi-aruande-koostamisel-samuti-s",
+  "level": 3,
+  "title": "analüüsi tegemisel, mõjuanalüüsi aruande koostamisel, samuti seaduse mõjude järelhindamisel on mõjude osas aluseks Vabariigi Valitsuse 13. jaanuari 2011. a määruse nr 10 „Vabariigi Valitsuse reglement” (edaspidi reglement) § 5 lõike 2 alusel kinnitatud"
+ },
+ {
+  "id": "huvirühmade-ja-avalikkuse-kaasamine-ning-kooskõlastamine-toi",
+  "level": 3,
+  "title": "huvirühmade ja avalikkuse kaasamine ning kooskõlastamine toimub reglemendis sätestatu ja reglemendi § 4 lõike 2 alusel kehtestatud kaasamise hea tava korras. Seaduse"
+ },
+ {
+  "id": "järelhindamise-aruande-esitamine-siis-juhindutakse-selle-koo",
+  "level": 3,
+  "title": "järelhindamise aruande esitamine, siis juhindutakse selle koostamisel järelhindamise tegevuskavast, kuid alati esitatakse:"
+ },
+ {
+  "id": "vabariigi-valitsusele-ja-reglemendi-21-lõikes-1-sätestatud-k",
+  "level": 3,
+  "title": "Vabariigi Valitsusele ja reglemendi § 21 lõikes 1 sätestatud korras Riigikogule. Aruande koostanud ministeerium saadab nimetatud aruande ka puudutatud huvirühma esindajale"
+ },
+ {
+  "id": "reglemendi-4-lõike-2-alusel-kehtestatud-kaasamise-hea-tava-k",
+  "level": 3,
+  "title": "reglemendi § 4 lõike 2 alusel kehtestatud kaasamise hea tava korras ja esitatakse"
+ },
+ {
+  "id": "2-peatükk-seaduseelnõule-esitatavad-nõuded",
+  "level": 2,
+  "title": "2. peatükk. Seaduseelnõule esitatavad nõuded"
+ },
+ {
+  "id": "1-jagu-seaduseelnõule-esitatavad-põhinõuded",
+  "level": 2,
+  "title": "1. jagu. Seaduseelnõule esitatavad põhinõuded"
+ },
+ {
+  "id": "2-seaduseelnõu-koostamise-vajadus-ja-selle-üksikasjalikkus",
+  "level": 3,
+  "title": "§ 2. Seaduseelnõu koostamise vajadus ja selle üksikasjalikkus"
+ },
+ {
+  "id": "ühiskonnasuhete-õiguslikuks-reguleerimiseks-kui-vajalik-õigu",
+  "level": 3,
+  "title": "ühiskonnasuhete õiguslikuks reguleerimiseks, kui vajalik õiguslik regulatsioon puudub"
+ },
+ {
+  "id": "näide-halb",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "hea",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "halb",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "hea-2",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "3-seaduseelnõu-vastavus-ülimuslikele-aktidele",
+  "level": 3,
+  "title": "§ 3. Seaduseelnõu vastavus ülimuslikele aktidele"
+ },
+ {
+  "id": "seaduseelnõu-peab-olema-kooskõlas-eesti-vabariigi-põhiseadus",
+  "level": 3,
+  "title": "Seaduseelnõu peab olema kooskõlas Eesti Vabariigi põhiseaduse, rahvusvahelise õiguse üldtunnustatud põhimõtete ja normide, Eesti Vabariigi suhtes jõustunud välislepingute"
+ },
+ {
+  "id": "4-seaduseelnõu-vastuolu-kehtiva-õigusega",
+  "level": 3,
+  "title": "§ 4. Seaduseelnõu vastuolu kehtiva õigusega"
+ },
+ {
+  "id": "seaduseelnõu-või-selle-säte-võib-olla-vastuolus-kehtiva-sead",
+  "level": 3,
+  "title": "Seaduseelnõu või selle säte võib olla vastuolus kehtiva seaduse sellise sätte või kogu kehtiva seadusega, mida eelnõu seadusena vastuvõtmise korral muudetakse või mis tunnistatakse kehtetuks. Käesoleva paragrahvi tähenduses ei loeta vastuoluks üld- ja"
+ },
+ {
+  "id": "näide-hea",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "5-isiku-õiguste-ja-vabaduste-piirangud",
+  "level": 3,
+  "title": "§ 5. Isiku õiguste ja vabaduste piirangud"
+ },
+ {
+  "id": "seaduseelnõusse-kavandatavad-isiku-õiguste-ja-vabaduste-piir",
+  "level": 3,
+  "title": "Seaduseelnõusse kavandatavad isiku õiguste ja vabaduste piirangud peavad olema asjakohased ja proportsionaalsed eesmärgiga, mida seaduseelnõu avalikes huvides"
+ },
+ {
+  "id": "6-põhiseadusliku-institutsiooni-ja-kohaliku-omavalitsuse-üks",
+  "level": 3,
+  "title": "§ 6. Põhiseadusliku institutsiooni ja kohaliku omavalitsuse üksuse pädevus ning enesekorraldamisõigus"
+ },
+ {
+  "id": "kavandatavad-ülesanded-peavad-lähtuma-nende-pädevusest-ning-",
+  "level": 3,
+  "title": "kavandatavad ülesanded peavad lähtuma nende pädevusest ning arvestama nende"
+ },
+ {
+  "id": "kohustus-on-kohaliku-omavalitsuse-korralduse-seaduse-tähendu",
+  "level": 3,
+  "title": "kohustus on kohaliku omavalitsuse korralduse seaduse tähenduses kohaliku omavalitsuse üksusele seadusega pandav riiklik kohustus, millega seotud kulud kaetakse eraldistega"
+ },
+ {
+  "id": "näide-hea-2",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "7-eelnõu-seadusena-rakendamise-kulud",
+  "level": 3,
+  "title": "§ 7. Eelnõu seadusena rakendamise kulud"
+ },
+ {
+  "id": "nende-tulusid-vähendada-tuleb-eelnõu-koostamisel-kavandada-n",
+  "level": 3,
+  "title": "nende tulusid vähendada, tuleb eelnõu koostamisel kavandada nimetatud lisakulude või"
+ },
+ {
+  "id": "8-üldsätted",
+  "level": 3,
+  "title": "§ 8. Üldsätted"
+ },
+ {
+  "id": "kohaldamisala-teiste-seaduste-kohaldamise-säte-ja-kavandatav",
+  "level": 3,
+  "title": "kohaldamisala, teiste seaduste kohaldamise säte ja kavandatavate õigusinstituutide"
+ },
+ {
+  "id": "loetletakse-seaduseelnõus-käsitletavad-õigusinstituudid-või-",
+  "level": 3,
+  "title": "loetletakse seaduseelnõus käsitletavad õigusinstituudid või nimetatakse reguleeritav valdkond. Reguleerimisala sätet ei ole vaja esitada, kui pealkiri avab piisavalt"
+ },
+ {
+  "id": "seaduseelnõu-üldsätted-eelnõu-esimeses-peatükis-või-esimeses",
+  "level": 3,
+  "title": "seaduseelnõu üldsätted eelnõu esimeses peatükis või esimeses osas, kui osa ei jagune peatükkideks. Paragrahvi 26 lõikes 3 nimetatud struktuuriosade üldsätted esitatakse"
+ },
+ {
+  "id": "reguleerimiseseme-seisukohast-olulise-tähtsusega-ning-laiene",
+  "level": 3,
+  "title": "reguleerimiseseme seisukohast olulise tähtsusega ning laieneb kogu seaduse"
+ },
+ {
+  "id": "näide-halb-2",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "hea-3",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-hea-3",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "2-seaduse-kohaldamisala",
+  "level": 3,
+  "title": "§ 2. Seaduse kohaldamisala"
+ },
+ {
+  "id": "näide-hea-4",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "käesolevas-seaduses-ettenähtud-haldusmenetlusele-kohaldataks",
+  "level": 3,
+  "title": "Käesolevas seaduses ettenähtud haldusmenetlusele kohaldatakse haldusmenetluse"
+ },
+ {
+  "id": "näide-hea-5",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-6",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "2-valimissüsteemi-alused",
+  "level": 3,
+  "title": "§ 2. Valimissüsteemi alused"
+ },
+ {
+  "id": "näide-hea-7",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "haldusakt",
+  "level": 3,
+  "title": "HALDUSAKT"
+ },
+ {
+  "id": "üldsätted",
+  "level": 3,
+  "title": "Üldsätted"
+ },
+ {
+  "id": "näide-hea-8",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "2-ühise-põllumajanduspoliitika-abinõud",
+  "level": 3,
+  "title": "§ 2. Ühise põllumajanduspoliitika abinõud"
+ },
+ {
+  "id": "9-kavandatava-regulatsiooni-täitmise-tagamine",
+  "level": 3,
+  "title": "§ 9. Kavandatava regulatsiooni täitmise tagamine"
+ },
+ {
+  "id": "kohustusi-selle-eelnõu-seadusena-jõustumine-kaasa-toob-ning-",
+  "level": 3,
+  "title": "kohustusi selle eelnõu seadusena jõustumine kaasa toob ning kuidas on tagatud normide"
+ },
+ {
+  "id": "hea-4",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "vastutus",
+  "level": 3,
+  "title": "VASTUTUS"
+ },
+ {
+  "id": "363-isikut-tõendavate-dokumentide-seaduse-nõuete-rikkumine",
+  "level": 3,
+  "title": "§ 363. Isikut tõendavate dokumentide seaduse nõuete rikkumine"
+ },
+ {
+  "id": "10-menetlusnormid",
+  "level": 3,
+  "title": "§ 10. Menetlusnormid"
+ },
+ {
+  "id": "peavad-olema-kooskõlas-asjakohaste-üldseaduste-sealhulgas-me",
+  "level": 3,
+  "title": "peavad olema kooskõlas asjakohaste üldseaduste, sealhulgas menetlusseaduste ja"
+ },
+ {
+  "id": "näide-hea-9",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "11-volitusnorm",
+  "level": 3,
+  "title": "§ 11. Volitusnorm"
+ },
+ {
+  "id": "haldusmenetluse-seaduse-6-peatükis-sätestatuga-seaduse-või-s",
+  "level": 3,
+  "title": "haldusmenetluse seaduse 6. peatükis sätestatuga seaduse või seaduse ja Euroopa Liidu õigusakti rakendamiseks Vabariigi Valitsuse, ministri või kohaliku omavalitsuse organi"
+ },
+ {
+  "id": "punktides-volitusnormis-peab-olema-märgitud-akti-andja-ja-li",
+  "level": 3,
+  "title": "punktides. Volitusnormis peab olema märgitud akti andja ja liik. Volituse eesmärke, sisu"
+ },
+ {
+  "id": "näide-hea-10",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-11",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-halb-3",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "näide-hea-12",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "halb-2",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "näide-hea-13",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-14",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-15",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-halb-4",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "näide-hea-16",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "12-valdkonnad-milles-seadusandja-ainupädevuse-tõttu-volitusn",
+  "level": 3,
+  "title": "§ 12. Valdkonnad, milles seadusandja ainupädevuse tõttu volitusnorme ei anta"
+ },
+ {
+  "id": "volitusnorm-ei-tohi-sisaldada-volitust-reguleerida-valdkonda",
+  "level": 3,
+  "title": "Volitusnorm ei tohi sisaldada volitust reguleerida valdkonda, mida Eesti Vabariigi põhiseaduse kohaselt saab reguleerida üksnes seadusega. Volitusnormis ei tohi volitada kehtestama regulatsiooni näiteks järgmistes küsimustes:"
+ },
+ {
+  "id": "kaotamise-rahvahääletuse-korraldamise-ning-rahvusvähemuste-k",
+  "level": 3,
+  "title": "kaotamise, rahvahääletuse korraldamise ning rahvusvähemuste kultuurautonoomia"
+ },
+ {
+  "id": "nende-organite-ja-vabariigi-valitsuse-riigikontrolli-eesti-p",
+  "level": 3,
+  "title": "nende organite ja Vabariigi Valitsuse, Riigikontrolli, Eesti Panga ja õiguskantsleri"
+ },
+ {
+  "id": "näide-hea-17",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "831-universaalteenuse-makse-määr",
+  "level": 3,
+  "title": "§ 831. Universaalteenuse makse määr"
+ },
+ {
+  "id": "13-rakendussätted",
+  "level": 3,
+  "title": "§ 13. Rakendussätted"
+ },
+ {
+  "id": "näide-hea-18",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-19",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-20",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-21",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-22",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "halb-3",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "6-gaasi-kodutarbija",
+  "level": 3,
+  "title": "§ 6. Gaasi kodutarbija"
+ },
+ {
+  "id": "näide-hea-23",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "14-jõustumisnorm-ja-seadusele-tagasiulatuva-jõu-andmine",
+  "level": 3,
+  "title": "§ 14. Jõustumisnorm ja seadusele tagasiulatuva jõu andmine"
+ },
+ {
+  "id": "tutvumiseks-eriti-isikute-õiguste-ja-kohustuste-muutmise-kor",
+  "level": 3,
+  "title": "tutvumiseks, eriti isikute õiguste ja kohustuste muutmise korral, ning vajalikuks"
+ },
+ {
+  "id": "avaldamiseks-rakendusaktide-andmiseks-ning-ka-seaduse-rakend",
+  "level": 3,
+  "title": "avaldamiseks, rakendusaktide andmiseks, ning ka seaduse rakendamiseks piisavate"
+ },
+ {
+  "id": "järgmisest",
+  "level": 3,
+  "title": "järgmisest:"
+ },
+ {
+  "id": "tähtpäevast-erineva-jõustumisaja-mis-esitatakse-jõustumispar",
+  "level": 3,
+  "title": "tähtpäevast erineva jõustumisaja, mis esitatakse jõustumisparagrahvi eri lõikes või"
+ },
+ {
+  "id": "jõustumistähtpäevast-erineval-tähtpäeval-tuleb-seaduseelnõus",
+  "level": 3,
+  "title": "jõustumistähtpäevast erineval tähtpäeval, tuleb seaduseelnõus sätestada volitusnormi"
+ },
+ {
+  "id": "vabaduste-suurenemise-kohustuste-või-vastutuse-vähenemise-võ",
+  "level": 3,
+  "title": "vabaduste suurenemise, kohustuste või vastutuse vähenemise või muu sellesarnase tagajärje või kui sellega ei rikuta õiguskindluse põhimõtet. Õiguskindluse põhimõtte rikkumise vältimiseks kavandatakse varasemate suhete kohta asjakohased rakendus- ja"
+ },
+ {
+  "id": "näide-hea-24",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "100-seaduse-jõustumine",
+  "level": 3,
+  "title": "§ 100. Seaduse jõustumine"
+ },
+ {
+  "id": "näide-halb-5",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "29-seaduse-jõustumine",
+  "level": 3,
+  "title": "§ 29. Seaduse jõustumine"
+ },
+ {
+  "id": "näide-halb-6",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "näide-halb-7",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "näide-hea-25",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "62-seaduse-jõustumine",
+  "level": 3,
+  "title": "§ 62. Seaduse jõustumine"
+ },
+ {
+  "id": "näide-hea-26",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-27",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-halb-8",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "näide",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "halb-4",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "56-riikliku-statistika-seaduse-kehtetuks-tunnistamine",
+  "level": 3,
+  "title": "§ 56. Riikliku statistika seaduse kehtetuks tunnistamine"
+ },
+ {
+  "id": "57-seaduse-jõustumine",
+  "level": 3,
+  "title": "§ 57. Seaduse jõustumine"
+ },
+ {
+  "id": "hea-5",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-rakendamise-seadusest-hea",
+  "level": 3,
+  "title": "NÄIDE rakendamise seadusest HEA"
+ },
+ {
+  "id": "29-seaduse-jõustumine-2",
+  "level": 3,
+  "title": "§ 29. Seaduse jõustumine"
+ },
+ {
+  "id": "näide-hea-28",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-29",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-2",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "halb-5",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "näide-3",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "hea-6",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-4",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "hea-7",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-hea-30",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-31",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "119-seaduse-20-rakendamine",
+  "level": 3,
+  "title": "§ 119. Seaduse § 20 rakendamine"
+ },
+ {
+  "id": "näide-hea-32",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "94-seaduse-jõustumine",
+  "level": 3,
+  "title": "§ 94. Seaduse jõustumine"
+ },
+ {
+  "id": "halb-6",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "2-jagu-seaduseelnõu-keel-vormistus-ja-ülesehitus",
+  "level": 2,
+  "title": "2. jagu. Seaduseelnõu keel, vormistus ja ülesehitus"
+ },
+ {
+  "id": "1-jaotis-seaduseelnõu-keele-ja-stiilinõuded",
+  "level": 2,
+  "title": "1. jaotis Seaduseelnõu keele- ja stiilinõuded"
+ },
+ {
+  "id": "15-keele-ja-stiilinõuded",
+  "level": 3,
+  "title": "§ 15. Keele- ja stiilinõuded"
+ },
+ {
+  "id": "edasiandmisel-välditakse-eri-väljendite-kasutamist-sünonüümi",
+  "level": 3,
+  "title": "edasiandmisel välditakse eri väljendite kasutamist. Sünonüümide kasutamine ei ole"
+ },
+ {
+  "id": "kindlat-kõneviisi-välislepingu-menetlemist-käsitlevas-seadus",
+  "level": 3,
+  "title": "kindlat kõneviisi. Välislepingu menetlemist käsitlevas seaduseelnõus on lubatav da-"
+ },
+ {
+  "id": "halb-7",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "hea-8",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-halb-9",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "näide-hea-33",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-halb-10",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "hea-9",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-halb-11",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "näide-halb-12",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "näide-hea-34",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-35",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-36",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "halb-8",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "näide-hea-37",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-38",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-39",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "halb-9",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "näide-hea-40",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-41",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-halb-13",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "näide-hea-42",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-halb-14",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "16-sätte-sõnastamine",
+  "level": 3,
+  "title": "§ 16. Sätte sõnastamine"
+ },
+ {
+  "id": "näide-hea-43",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "157-kutse-ja-ametitegevuses-teatavaks-saanud-saladuse-hoidmi",
+  "level": 3,
+  "title": "§ 157. Kutse- ja ametitegevuses teatavaks saanud saladuse hoidmise kohustuse rikkumine"
+ },
+ {
+  "id": "hea-10",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "17-terminite-ja-võõrsõnade-kasutamine",
+  "level": 3,
+  "title": "§ 17. Terminite ja võõrsõnade kasutamine"
+ },
+ {
+  "id": "18-termini-määratlemine",
+  "level": 3,
+  "title": "§ 18. Termini määratlemine"
+ },
+ {
+  "id": "eesmärgil-kui",
+  "level": 3,
+  "title": "eesmärgil, kui:"
+ },
+ {
+  "id": "kooskõlas-euroopa-liidu-õiguses-kasutusel-olevate-terminiteg",
+  "level": 3,
+  "title": "kooskõlas Euroopa Liidu õiguses kasutusel olevate terminitega ning eelnõus neid üldjuhul"
+ },
+ {
+  "id": "objektide-või-nähtuste-loetelu-kaudu-või-vähelevinud-sõna-se",
+  "level": 3,
+  "title": "objektide või nähtuste loetelu kaudu või vähelevinud sõna selgitusena. Terminit"
+ },
+ {
+  "id": "struktuuriosas-kuhu-on-koondatud-terminiga-seotud-sätted-või",
+  "level": 3,
+  "title": "struktuuriosas, kuhu on koondatud terminiga seotud sätted, või eelnõu üldsätetes selle termini jaoks kavandatavas paragrahvis. Sisult seotud terminite korral määratletakse"
+ },
+ {
+  "id": "terminil-võib-olla-mitu-tähendust-lisatakse-termini-määratlu",
+  "level": 3,
+  "title": "terminil võib olla mitu tähendust, lisatakse termini määratlusse väljend „käesoleva seaduse tähenduses”. Kui terminit kasutatakse vaid eelnõu mõne jaotusüksuse piires, siis"
+ },
+ {
+  "id": "näide-hea-44",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-45",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "4-pakendijäätmed",
+  "level": 3,
+  "title": "§ 4. Pakendijäätmed"
+ },
+ {
+  "id": "näide-hea-46",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "hea-11",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "hea-12",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "halb-10",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "hea-13",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "41-põllumajandusliku-riigiabi-tagasinõudmine-euroopa-komisjo",
+  "level": 3,
+  "title": "§ 41. Põllumajandusliku riigiabi tagasinõudmine Euroopa Komisjoni või Euroopa Kohtu otsuse alusel"
+ },
+ {
+  "id": "hea-14",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "41-põllumajandusliku-riigiabi-tagasinõudmine-euroopa-komisjo-2",
+  "level": 3,
+  "title": "§ 41. Põllumajandusliku riigiabi tagasinõudmine Euroopa Komisjoni või Euroopa Kohtu otsuse alusel"
+ },
+ {
+  "id": "näide-hea-47",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "3-ruumiandmed-ruumiandmekogum-ja-ruumiobjekt",
+  "level": 3,
+  "title": "§ 3. Ruumiandmed, ruumiandmekogum ja ruumiobjekt"
+ },
+ {
+  "id": "näide-halb-15",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "4-saasteaine",
+  "level": 3,
+  "title": "§ 4. Saasteaine"
+ },
+ {
+  "id": "näide-halb-16",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "19-saasteaine",
+  "level": 3,
+  "title": "§ 19. Saasteaine"
+ },
+ {
+  "id": "halb-11",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "hea-15",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "19-lühendite-sulgude-ja-tähiste-kasutamine",
+  "level": 3,
+  "title": "§ 19. Lühendite, sulgude ja tähiste kasutamine"
+ },
+ {
+  "id": "lause-esimese-sõnana-samuti-muutmise-seaduses-muutmisvormeli",
+  "level": 3,
+  "title": "lause esimese sõnana, samuti muutmise seaduses muutmisvormeli esimese sõnana. Muul"
+ },
+ {
+  "id": "näide-hea-48",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "hea-16",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-hea-49",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "halb-12",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "näide-hea-50",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "2-jaotis-seaduseelnõu-vormistus-ja-ülesehitus",
+  "level": 2,
+  "title": "2. jaotis Seaduseelnõu vormistus ja ülesehitus"
+ },
+ {
+  "id": "20-seaduseelnõu-kohustuslikud-elemendid",
+  "level": 3,
+  "title": "§ 20. Seaduseelnõu kohustuslikud elemendid"
+ },
+ {
+  "id": "seaduseelnõu-kohustuslikud-elemendid-on",
+  "level": 3,
+  "title": "Seaduseelnõu kohustuslikud elemendid on:"
+ },
+ {
+  "id": "näide-hea-51",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "käibemaksuseaduse-5-muutmise-seadus-1-2",
+  "level": 3,
+  "title": "Käibemaksuseaduse § 5 muutmise seadus § 1. … § 2. …"
+ },
+ {
+  "id": "näide-hea-52",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "kutseõppeasutuse-seadus",
+  "level": 3,
+  "title": "Kutseõppeasutuse seadus"
+ },
+ {
+  "id": "21-seaduseelnõu-pealkiri",
+  "level": 3,
+  "title": "§ 21. Seaduseelnõu pealkiri"
+ },
+ {
+  "id": "näide-hea-53",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-54",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-55",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "22-seaduseelnõu-ülesehitus",
+  "level": 3,
+  "title": "§ 22. Seaduseelnõu ülesehitus"
+ },
+ {
+  "id": "näide-hea-56",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "86-heade-kommete-või-avaliku-korraga-vastuolus-olev-tehing",
+  "level": 3,
+  "title": "§ 86. Heade kommete või avaliku korraga vastuolus olev tehing"
+ },
+ {
+  "id": "näide-hea-57",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "135-tähtaja-algus-ja-lõpp",
+  "level": 3,
+  "title": "§ 135. Tähtaja algus ja lõpp"
+ },
+ {
+  "id": "136-tähtpäeva-saabumine",
+  "level": 3,
+  "title": "§ 136. Tähtpäeva saabumine"
+ },
+ {
+  "id": "137-tähtaja-möödumine",
+  "level": 3,
+  "title": "§ 137. Tähtaja möödumine"
+ },
+ {
+  "id": "näide-hea-58",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "103-mitme-edasilükkava-või-äramuutva-tingimusega-tehing",
+  "level": 3,
+  "title": "§ 103. Mitme edasilükkava või äramuutva tingimusega tehing"
+ },
+ {
+  "id": "104-tingimuse-saabumise-takistamine-või-sellele-kaasaaitamin",
+  "level": 3,
+  "title": "§ 104. Tingimuse saabumise takistamine või sellele kaasaaitamine"
+ },
+ {
+  "id": "23-paragrahvide-numeratsioon-ja-pealkirjastamine",
+  "level": 3,
+  "title": "§ 23. Paragrahvide numeratsioon ja pealkirjastamine"
+ },
+ {
+  "id": "näide-hea-59",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "197-töötervishoiu-ja-tööohutusnõuete-eiramine-kui-sellega-on",
+  "level": 3,
+  "title": "§ 197. Töötervishoiu- ja tööohutusnõuete eiramine, kui sellega on ettevaatamatusest tekitatud inimesele raske tervisekahjustus või põhjustatud inimese surm"
+ },
+ {
+  "id": "näide-hea-60",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "2041-välisriigis-väärteoasjas-kohtuvälise-menetleja-otsusega",
+  "level": 3,
+  "title": "§ 2041. Välisriigis väärteoasjas kohtuvälise menetleja otsusega määratud või kohtuotsusega mõistetud rahatrahvi tunnustamine ja täitmine"
+ },
+ {
+  "id": "24-paragrahvi-lõiked",
+  "level": 3,
+  "title": "§ 24. Paragrahvi lõiked"
+ },
+ {
+  "id": "25-paragrahvi-ja-lõike-punktid",
+  "level": 3,
+  "title": "§ 25. Paragrahvi ja lõike punktid"
+ },
+ {
+  "id": "paragrahvi-või-lõikesiseselt-läbivalt-araabia-numbritega-jär",
+  "level": 3,
+  "title": "paragrahvi- või lõikesiseselt läbivalt araabia numbritega järgnevat parempoolset ümarsulgu kasutades. Iga punkti teksti alustatakse väikese tähega ja lõpetatakse"
+ },
+ {
+  "id": "loetelus-esitatakse-alternatiiv-või-kui-loetelu-elemendid-ei",
+  "level": 3,
+  "title": "loetelus esitatakse alternatiiv või kui loetelu elemendid ei pea esinema korraga, ning sõna"
+ },
+ {
+  "id": "näide-5",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "hea-17",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-6",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "hea-18",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-7",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "hea-19",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "halb-13",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "halb-14",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "hea-20",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-hea-61",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-halb-17",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "halb-15",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "hea-21",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "2-sõjahaud-sõjaohver",
+  "level": 3,
+  "title": "§ 2. Sõjahaud, sõjaohver"
+ },
+ {
+  "id": "26-seaduseelnõu-muu-struktuuriosa",
+  "level": 3,
+  "title": "§ 26. Seaduseelnõu muu struktuuriosa"
+ },
+ {
+  "id": "jaod-jaotisteks-ja-jaotised-alljaotisteks-jagude-numeratsioo",
+  "level": 3,
+  "title": "jaod jaotisteks ja jaotised alljaotisteks. Jagude numeratsioon peatükisiseselt, jaotiste numeratsioon jaosiseselt ja alljaotiste numeratsioon jaotisesiseselt algab araabia"
+ },
+ {
+  "id": "osadesse-säilitades-peatükkide-kogu-eelnõu-läbiva-numeratsio",
+  "level": 3,
+  "title": "osadesse, säilitades peatükkide kogu eelnõu läbiva numeratsiooni. Esimesse ossa"
+ },
+ {
+  "id": "näide-hea-62",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "27-normitehniline-märkus",
+  "level": 3,
+  "title": "§ 27. Normitehniline märkus"
+ },
+ {
+  "id": "pealkirja-või-teksti-lõpus-araabianumbrilise-ülaindeksiga-ja",
+  "level": 3,
+  "title": "pealkirja või teksti lõpus araabianumbrilise ülaindeksiga ja esitatakse eelnõu lõpus"
+ },
+ {
+  "id": "pealkiri-ja-avaldamismärge-avaldamismärge-sisaldab-avaldamis",
+  "level": 3,
+  "title": "pealkiri ja avaldamismärge. Avaldamismärge sisaldab avaldamiskoha lühendnime EÜT (Euroopa Ühenduste Teataja – ilmus kuni 31.01.2003) või ELT (Euroopa Liidu Teataja –"
+ },
+ {
+  "id": "enne-1968-aastat-ilmunud-akti-korral-seeriatähist-ei-esitata",
+  "level": 3,
+  "title": "enne 1968. aastat ilmunud akti korral seeriatähist ei esitata), ilmumise kuupäeva ja"
+ },
+ {
+  "id": "millega-edendatakse-biokütuste-ja-muude-taastuvkütuste-kasut",
+  "level": 3,
+  "title": "millega edendatakse biokütuste ja muude taastuvkütuste kasutamist transpordisektoris (ELT L 123, 17.05.2003, lk 42–46). Normitehnilist märkust tähistav ülaindeks esitatakse"
+ },
+ {
+  "id": "märkuses-ka-andmed-muutva-akti-liigi-numbri-ja-avaldamismärk",
+  "level": 3,
+  "title": "märkuses ka andmed muutva akti liigi, numbri ja avaldamismärke kohta, näiteks: nõukogu direktiiv 2000/29/EÜ taimedele või taimsetele saadustele kahjulike organismide"
+ },
+ {
+  "id": "näide-hea-63",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-64",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "28-viitamine",
+  "level": 3,
+  "title": "§ 28. Viitamine"
+ },
+ {
+  "id": "ainult-euroopa-liidu-direktiivi-tehnilistele-sätetele-mida-e",
+  "level": 3,
+  "title": "ainult Euroopa Liidu direktiivi tehnilistele sätetele, mida Eesti peab üksüheselt kohaldama ja mille kordamine seaduseelnõus ei ole õigusselguse seisukohalt otstarbekas"
+ },
+ {
+  "id": "kavandatakse-enne-viitava-sätte-jõustumist-või-kavandatakse-",
+  "level": 3,
+  "title": "kavandatakse enne viitava sätte jõustumist või kavandatakse viitava ja viidatava seaduse"
+ },
+ {
+  "id": "halb-16",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "hea-22",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "hea-23",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-hea-65",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-66",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "29-viite-vormistamine",
+  "level": 3,
+  "title": "§ 29. Viite vormistamine"
+ },
+ {
+  "id": "seaduse-pealkirja-mis-kirjutatakse-väikese-algustähega-ja-il",
+  "level": 3,
+  "title": "seaduse pealkirja, mis kirjutatakse väikese algustähega ja ilma jutumärkideta. Kui pealkiri on pikk ja muust tekstist raskesti eristatav, võib tekstis seaduse pealkirja"
+ },
+ {
+  "id": "tüüpvormeleid-asjakohases-käändes",
+  "level": 3,
+  "title": "tüüpvormeleid asjakohases käändes:"
+ },
+ {
+  "id": "akti-liigi-ja-numbri-näiteks-nõukogu-direktiiv-2011-85-el-lü",
+  "level": 3,
+  "title": "akti liigi ja numbri, näiteks: nõukogu direktiiv 2011/85/EL. Lühend „EL” akti numbri juures näitab seda, et akti vastuvõtmine tuleneb Euroopa Liidu lepingust või Euroopa Liidu toimimise lepingust. Lühend „EÜ” või „EMÜ” akti numbri juures näitab seda, et akti vastuvõtmine tulenes Euroopa Ühenduse, varem Euroopa Majandusühenduse"
+ },
+ {
+  "id": "nimetatud-andmetele-lisada-viidatava-õigusakti-pealkiri-ja-e",
+  "level": 3,
+  "title": "nimetatud andmetele lisada viidatava õigusakti pealkiri ja esmakordse avaldamise andmed, näiteks: nõukogu määrus (EÜ) nr 44/2001 kohtualluvuse ja kohtuotsuste"
+ },
+ {
+  "id": "näide-8",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "hea-24",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-9",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "hea-25",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-hea-67",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "halb-17",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "hea-26",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "hea-27",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "hea-28",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "halb-18",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "näide-hea-68",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "halb-19",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "hea-29",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "hea-30",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "hea-31",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "halb-20",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "hea-32",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "halb-21",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "hea-33",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-hea-69",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "30-avaldamismärge",
+  "level": 3,
+  "title": "§ 30. Avaldamismärge"
+ },
+ {
+  "id": "see-on-märgitud-ilmumiskuupäevast-või-endisel-kujul-avaldami",
+  "level": 3,
+  "title": "see on märgitud, ilmumiskuupäevast (või endisel kujul avaldamismärkel ilmumisaastast"
+ },
+ {
+  "id": "hea-34",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "136-avaliku-teenistuse-seaduse-muutmine",
+  "level": 3,
+  "title": "§ 136. Avaliku teenistuse seaduse muutmine"
+ },
+ {
+  "id": "näide-hea-70",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-71",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "31-seaduse-lisad",
+  "level": 3,
+  "title": "§ 31. Seaduse lisad"
+ },
+ {
+  "id": "kavandid-skeemid-või-muud-sama-laadi-materjalid-vormistataks",
+  "level": 3,
+  "title": "kavandid, skeemid või muud sama laadi materjalid vormistatakse seaduseelnõu osaks olevate lisadena, kui nende kehtestamiseks ei anta volitusnorme. Kui seaduse teksti"
+ },
+ {
+  "id": "arusaadavuse-seisukohalt-on-see-oluline-siis-võib-tabeleid-k",
+  "level": 3,
+  "title": "arusaadavuse seisukohalt on see oluline, siis võib tabeleid kasutada ka seaduseelnõu"
+ },
+ {
+  "id": "pealkirjaga-seaduseelnõu-lisa-pealkirjastatakse-lisa-paremas",
+  "level": 3,
+  "title": "pealkirjaga. Seaduseelnõu lisa pealkirjastatakse. Lisa paremas ülanurgas on märge, mis sisaldab seaduse pealkirja nimetavas käändes, selle all märget „Lisa” ja lisa numbrit, kui"
+ },
+ {
+  "id": "hea-35",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-hea-72",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "hea-36",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-hea-73",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-74",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "3-jagu-seadust-muutva-ja-kehtetuks-tunnistava-seaduse-eelnõu",
+  "level": 2,
+  "title": "3. jagu. Seadust muutva ja kehtetuks tunnistava seaduse eelnõule esitatavad nõuded"
+ },
+ {
+  "id": "32-seaduse-muutmine-ja-kehtetuks-tunnistamine",
+  "level": 3,
+  "title": "§ 32. Seaduse muutmine ja kehtetuks tunnistamine"
+ },
+ {
+  "id": "kehtetuks-tunnistamine-on-võimalik-juhul-kui-muudetakse-või-",
+  "level": 3,
+  "title": "kehtetuks tunnistamine on võimalik juhul, kui muudetakse või tunnistatakse kehtetuks"
+ },
+ {
+  "id": "näide-hea-75",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-76",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "2-tulumaksuseaduse-muutmine",
+  "level": 3,
+  "title": "§ 2. Tulumaksuseaduse muutmine"
+ },
+ {
+  "id": "3-seaduse-jõustumine",
+  "level": 3,
+  "title": "§ 3. Seaduse jõustumine"
+ },
+ {
+  "id": "näide-hea-77",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "56-seaduste-kehtetuks-tunnistamine",
+  "level": 3,
+  "title": "§ 56. Seaduste kehtetuks tunnistamine"
+ },
+ {
+  "id": "näide-halb-18",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "näide-hea-78",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "1-koduomanikke-maamaksust-vabastava-maamaksuseaduse-muutmise",
+  "level": 3,
+  "title": "§ 1. Koduomanikke maamaksust vabastava maamaksuseaduse muutmise seaduse muutmine"
+ },
+ {
+  "id": "4-seaduse-jõustumine",
+  "level": 3,
+  "title": "§ 4. Seaduse jõustumine"
+ },
+ {
+  "id": "33-seaduseelnõust-tulenev-seaduse-muutmine-ja-kehtetuks-tunn",
+  "level": 3,
+  "title": "§ 33. Seaduseelnõust tulenev seaduse muutmine ja kehtetuks tunnistamine"
+ },
+ {
+  "id": "kavandatakse-sama-seaduseelnõu-rakendussätetes-pärast-ülemin",
+  "level": 3,
+  "title": "kavandatakse sama seaduseelnõu rakendussätetes pärast üleminekusätteid. Muudetavad või kehtetuks tunnistatavad seadused paigutatakse seaduste pealkirjade tähestikulises"
+ },
+ {
+  "id": "käsitleva-seaduse-muutmine-või-kehtetuks-tunnistamine-algata",
+  "level": 3,
+  "title": "käsitleva seaduse muutmine või kehtetuks tunnistamine, algatatakse sellekohane eraldi"
+ },
+ {
+  "id": "riigikogu-koosseisu-häälteenamust-nõudva-seaduse-muudatused-",
+  "level": 3,
+  "title": "Riigikogu koosseisu häälteenamust nõudva seaduse muudatused, siis märgitakse seletuskirjas, et seaduseelnõu vastuvõtmiseks on vajalik Riigikogu koosseisu"
+ },
+ {
+  "id": "34-seaduse-muutmise-sõnastamise-põhireeglid",
+  "level": 3,
+  "title": "§ 34. Seaduse muutmise sõnastamise põhireeglid"
+ },
+ {
+  "id": "sõnastus-ühel-ajal-jõustuvad-järjestikused-muudetavad-sätted",
+  "level": 3,
+  "title": "sõnastus. Ühel ajal jõustuvad järjestikused muudetavad sätted esitatakse muudatuste loetelu ühes punktis, kasutades näiteks vormelit „paragrahvi 12 punktid 21 ja 22"
+ },
+ {
+  "id": "puudutab-neist-ainult-ühte-või-selle-tekstiosa-võib-eelnõus-",
+  "level": 3,
+  "title": "puudutab neist ainult ühte või selle tekstiosa, võib eelnõus sätestada ka ainult selle lause"
+ },
+ {
+  "id": "muudatus-eelnõu-esimese-muudatussättena-kui-asendatav-sõna-v",
+  "level": 3,
+  "title": "muudatus eelnõu esimese muudatussättena. Kui asendatav sõna või tekstiosa on sätetes eri käänetes, siis selle asendamiseks esitatakse asendatav ja asendaja nimetavas käändes"
+ },
+ {
+  "id": "loetletakse-kõik-muudetavad-paragrahvid-lõiked-ja-punktid-ni",
+  "level": 3,
+  "title": "loetletakse kõik muudetavad paragrahvid, lõiked ja punktid ning märgitakse, milline sõna või tekstiosa asendatakse teise sõna või tekstiosaga. Kui asendatav on sätetes eri käänetes, siis esitatakse asendatav ja asendaja nimetavas käändes ning lisatakse muutmisvormeli lõppu sõnad „vastavas käändes”. Nimetatud muudatus paigutatakse"
+ },
+ {
+  "id": "dokumendi-mitme-lahtri-veeru-või-muu-elemendi-muutmiseks-esi",
+  "level": 3,
+  "title": "dokumendi mitme lahtri, veeru või muu elemendi muutmiseks esitatakse lisa muudetava seaduse lisana terviklikul kujul või põhjendatud erandina üksiku lahtri, veeru või muu lisa elemendi muutmisel selle muudatusena. Lisa üksikute elementide muutmisel võib"
+ },
+ {
+  "id": "näide-hea-79",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "1-riigikogu-valimise-seaduse-muutmine",
+  "level": 3,
+  "title": "§ 1. Riigikogu valimise seaduse muutmine"
+ },
+ {
+  "id": "näide-hea-80",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-81",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-10",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "halb-22",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "näide-hea-82",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "1-jagu",
+  "level": 3,
+  "title": "„1. jagu"
+ },
+ {
+  "id": "näide-hea-83",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-halb-19",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "näide-11",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "halb-23",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "näide-12",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "hea-37",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-13",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "hea-38",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "1-x-seaduse-muutmine",
+  "level": 3,
+  "title": "§ 1. X seaduse muutmine"
+ },
+ {
+  "id": "2-y-seaduse-muutmine",
+  "level": 3,
+  "title": "§ 2. Y seaduse muutmine"
+ },
+ {
+  "id": "3-seaduse-jõustumine-2",
+  "level": 3,
+  "title": "§ 3. Seaduse jõustumine"
+ },
+ {
+  "id": "näide-hea-84",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-14",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "hea-39",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-15",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "hea-40",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-hea-85",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-halb-20",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "721-eesti-keskmise-sotsiaalmaksuga-maksustatava-tulu-arvutam",
+  "level": 3,
+  "title": "„§ 721. Eesti keskmise sotsiaalmaksuga maksustatava tulu arvutamine 2013. aastaks"
+ },
+ {
+  "id": "2-riikliku-pensionikindlustuse-seaduse-muutmine",
+  "level": 3,
+  "title": "§ 2. Riikliku pensionikindlustuse seaduse muutmine"
+ },
+ {
+  "id": "näide-hea-86",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-87",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-88",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-89",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "juhitunnistuse-ja-oma-kulul-sõitjateveo-sertifikaadi-taotlem",
+  "level": 3,
+  "title": "JUHITUNNISTUSE JA OMA KULUL SÕITJATEVEO SERTIFIKAADI TAOTLEMINE NING ANDMINE"
+ },
+ {
+  "id": "13-ühenduse-tegevusloa-selle-kinnitatud-ärakirja-juhitunnist",
+  "level": 3,
+  "title": "§ 13. Ühenduse tegevusloa, selle kinnitatud ärakirja, juhitunnistuse ja oma kulul sõitjateveo sertifikaadi taotlemine"
+ },
+ {
+  "id": "näide-16",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "hea-41",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-hea-90",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-91",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "35-seaduse-muutmise-ja-kehtetuks-tunnistamise-seaduseelnõu-p",
+  "level": 3,
+  "title": "§ 35. Seaduse muutmise ja kehtetuks tunnistamise seaduseelnõu pealkiri"
+ },
+ {
+  "id": "muudetava-või-kehtetuks-tunnistatava-seaduse-pealkirja-mille",
+  "level": 3,
+  "title": "muudetava või kehtetuks tunnistatava seaduse pealkirja, millele võib vajaduse korral"
+ },
+ {
+  "id": "rohkem-kui-kolme-seaduse-muutmine-või-kehtetuks-tunnistamine",
+  "level": 3,
+  "title": "rohkem kui kolme seaduse muutmine või kehtetuks tunnistamine, nimetakse eelnõu pealkirjas selle muudetava seaduse pealkiri, mille muutmine tuleneb eelnõu"
+ },
+ {
+  "id": "käesolevas-lõikes-nimetatud-juhul-peab-pealkirjast-nähtuma-e",
+  "level": 3,
+  "title": "Käesolevas lõikes nimetatud juhul peab pealkirjast nähtuma, et kavandatud on muutmise"
+ },
+ {
+  "id": "struktuuriosi-kui-muudetakse-või-tunnistatakse-kehtetuks-vai",
+  "level": 3,
+  "title": "struktuuriosi. Kui muudetakse või tunnistatakse kehtetuks vaid üks paragrahv, lõige või"
+ },
+ {
+  "id": "näide-hea-92",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "karmistava-karistusseadustiku-muutmise-ja-sellega-seonduvalt",
+  "level": 3,
+  "title": "karmistava karistusseadustiku muutmise ja sellega seonduvalt teiste seaduste muutmise"
+ },
+ {
+  "id": "näide-hea-93",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "karistusseadustiku-muutmise-ja-sellega-seonduvalt-teiste-sea",
+  "level": 3,
+  "title": "Karistusseadustiku muutmise ja sellega seonduvalt teiste seaduste muutmise seadus (sõiduki joobes juhtimisse suhtumise karmistamine)"
+ },
+ {
+  "id": "näide-halb-21",
+  "level": 3,
+  "title": "NÄIDE HALB"
+ },
+ {
+  "id": "sõiduki-joobes-juhtimisse-suhtumist-karmistav-karistusseadus",
+  "level": 3,
+  "title": "Sõiduki joobes juhtimisse suhtumist karmistav karistusseadustiku muutmise ja sellega seonduvalt teiste seaduste muutmise seadus"
+ },
+ {
+  "id": "36-seaduse-muutmise-seaduse-eelnõu-ülesehitus",
+  "level": 3,
+  "title": "§ 36. Seaduse muutmise seaduse eelnõu ülesehitus"
+ },
+ {
+  "id": "sätete-paiknemise-järjestuses-kusjuures-ühe-muudetava-seadus",
+  "level": 3,
+  "title": "sätete paiknemise järjestuses, kusjuures ühe muudetava seaduse muudatused"
+ },
+ {
+  "id": "paigutatakse-esikohale-seadus-mille-muutmine-tuleneb-eelnõu-",
+  "level": 3,
+  "title": "paigutatakse esikohale seadus, mille muutmine tuleneb eelnõu peaeesmärgist, ning selle seaduse muutmisest tulenevad teiste seaduste muudatused reastatakse muudetavate"
+ },
+ {
+  "id": "näide-hea-94",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "kriminaalmenetluse-seadustiku-ja-kohtute-seaduse-muutmise-se",
+  "level": 3,
+  "title": "Kriminaalmenetluse seadustiku ja kohtute seaduse muutmise seadus"
+ },
+ {
+  "id": "1-kriminaalmenetluse-seadustiku-muutmine",
+  "level": 3,
+  "title": "§ 1. Kriminaalmenetluse seadustiku muutmine"
+ },
+ {
+  "id": "4-jagu-kiirmenetlus",
+  "level": 3,
+  "title": "„4. jagu Kiirmenetlus"
+ },
+ {
+  "id": "2-kohtute-seaduse-muutmine",
+  "level": 3,
+  "title": "§ 2. Kohtute seaduse muutmine"
+ },
+ {
+  "id": "3-seaduse-jõustumine-3",
+  "level": 3,
+  "title": "§ 3. Seaduse jõustumine"
+ },
+ {
+  "id": "37-muudetava-seaduse-struktuuriosade-numeratsiooni-säilitami",
+  "level": 3,
+  "title": "§ 37. Muudetava seaduse struktuuriosade numeratsiooni säilitamine"
+ },
+ {
+  "id": "seaduse-struktuuriosade-numeratsiooni-kehtivate-samaliigilis",
+  "level": 3,
+  "title": "seaduse struktuuriosade numeratsiooni. Kehtivate samaliigiliste struktuuriosade vahele uue struktuuriosa lisamisel antakse sellele eelneva struktuuriosa number araabianumbrilise ülaindeksiga. Uue paragrahvi või muu struktuuriosa lisamisel ei anta"
+ },
+ {
+  "id": "korral-õigusloome-ökonoomia-eesmärgil-säilitada-struktuurios",
+  "level": 3,
+  "title": "korral õigusloome ökonoomia eesmärgil säilitada struktuuriosasiseselt sätete endine numeratsioon, et vältida lisamuudatusi, mis on tingitud sise- või välisviidete või"
+ },
+ {
+  "id": "näide-hea-95",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "231-teabe-säilitamise-kohustus",
+  "level": 3,
+  "title": "„§ 231. Teabe säilitamise kohustus"
+ },
+ {
+  "id": "näide-hea-96",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-17",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "hea-42",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-hea-97",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-98",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "halb-24",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "näide-hea-99",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "1-jagu-2",
+  "level": 3,
+  "title": "„1. jagu"
+ },
+ {
+  "id": "2-jagu-perioodiline-teave",
+  "level": 3,
+  "title": "„2. jagu Perioodiline teave"
+ },
+ {
+  "id": "18410-majandusaasta-aruande-avalikustamine",
+  "level": 3,
+  "title": "§ 18410. Majandusaasta aruande avalikustamine"
+ },
+ {
+  "id": "näide-hea-100",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-101",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-102",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "2-jagu-perioodiline-teave-2",
+  "level": 3,
+  "title": "„2. jagu Perioodiline teave"
+ },
+ {
+  "id": "410-majandusaasta-aruande-avalikustamine",
+  "level": 3,
+  "title": "§ 410. Majandusaasta aruande avalikustamine"
+ },
+ {
+  "id": "38-seaduse-muutmist-sätestava-eelnõu-rakendussätted-ja-normi",
+  "level": 3,
+  "title": "§ 38. Seaduse muutmist sätestava eelnõu rakendussätted ja normitehnilise märkuse muutmine"
+ },
+ {
+  "id": "seaduse-muutmise-või-kehtetuks-tunnistamise-säte-ja-eelnõu-j",
+  "level": 3,
+  "title": "seaduse muutmise või kehtetuks tunnistamise säte ja eelnõu jõustumissäte, kavandatakse samas eelnõus muudetava seaduse või rakendusseaduse olemasolu korral selle"
+ },
+ {
+  "id": "muudetava-seaduse-normitehnilise-märkuse-sõnastust-lisades-s",
+  "level": 3,
+  "title": "muudetava seaduse normitehnilise märkuse sõnastust, lisades sellele Euroopa Liidu"
+ },
+ {
+  "id": "näide-18",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "halb-25",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "441-seaduse-jõustumine",
+  "level": 3,
+  "title": "§ 441. Seaduse jõustumine"
+ },
+ {
+  "id": "hea-43",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "hea-44",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "661-väärismetalli-väärismetalltoodete-välja-arvatud-tootmise",
+  "level": 3,
+  "title": "„§ 661. Väärismetalli, väärismetalltoodete, välja arvatud tootmise, teaduse ja meditsiini vajadusteks kasutatavate väärismetallide ja väärismetalltoodete, ning vääriskivide kokkuostu ja hulgimüügiga tegeleva isiku registreerimiskohustus"
+ },
+ {
+  "id": "halb-26",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "hea-45",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-hea-103",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "312-käesoleva-seaduse-101-rakendamine",
+  "level": 3,
+  "title": "„§ 312. Käesoleva seaduse § 101 rakendamine"
+ },
+ {
+  "id": "näide-19",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "hea-46",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-20",
+  "level": 3,
+  "title": "NÄIDE"
+ },
+ {
+  "id": "hea-47",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "3-peatükk-seaduseelnõu-seletuskiri",
+  "level": 2,
+  "title": "3. peatükk. Seaduseelnõu seletuskiri"
+ },
+ {
+  "id": "39-seletuskirja-eesmärk",
+  "level": 3,
+  "title": "§ 39. Seletuskirja eesmärk"
+ },
+ {
+  "id": "seaduseelnõule-lisatakse-eelnõu-algataja-või-tema-esindaja-a",
+  "level": 3,
+  "title": "Seaduseelnõule lisatakse eelnõu algataja või tema esindaja allkirjastatud seletuskiri, mille eesmärk on põhjendada seaduse vastuvõtmise vajalikkust, eelnõu põhiseisukohti ja sellest"
+ },
+ {
+  "id": "40-seletuskirja-ülesehitus",
+  "level": 3,
+  "title": "§ 40. Seletuskirja ülesehitus"
+ },
+ {
+  "id": "võrreldes-muuta-või-liigendamisest-loobuda-esitades-sõltuval",
+  "level": 3,
+  "title": "võrreldes muuta või liigendamisest loobuda, esitades sõltuvalt eelnõu sisust seletuskirjas"
+ },
+ {
+  "id": "näide-hea-104",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "eesti-territooriumi-haldusjaotuse-seaduse-eelnõu-seletuskiri",
+  "level": 3,
+  "title": "Eesti territooriumi haldusjaotuse seaduse eelnõu seletuskiri"
+ },
+ {
+  "id": "41-sissejuhatus",
+  "level": 3,
+  "title": "§ 41. Sissejuhatus"
+ },
+ {
+  "id": "konkreetsele-sättele-kasutamata-erialakeelt-ja-lühendeid-kav",
+  "level": 3,
+  "title": "konkreetsele sättele, kasutamata erialakeelt ja lühendeid, kavandatava regulatsiooni või muudatuse sisu ja põhjendatakse selle vajalikkust, sealhulgas nimetatakse:"
+ },
+ {
+  "id": "ametikohad-ja-kontaktandmed",
+  "level": 3,
+  "title": "ametikohad ja kontaktandmed:"
+ },
+ {
+  "id": "näide-hea-105",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-106",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "42-seaduse-eesmärk",
+  "level": 3,
+  "title": "§ 42. Seaduse eesmärk"
+ },
+ {
+  "id": "väljatöötamiskavatsus-ja-kontseptsioon-märgitakse-käsitletav",
+  "level": 3,
+  "title": "väljatöötamiskavatsus ja kontseptsioon, märgitakse käsitletavas osas nende"
+ },
+ {
+  "id": "siis-märgitakse-ka-mille-poolest-ja-põhjendatakse-erinevust-",
+  "level": 3,
+  "title": "siis märgitakse ka mille poolest ja põhjendatakse erinevust. Kui väljatöötamiskavatsust"
+ },
+ {
+  "id": "43-eelnõu-sisu-ja-võrdlev-analüüs",
+  "level": 3,
+  "title": "§ 43. Eelnõu sisu ja võrdlev analüüs"
+ },
+ {
+  "id": "viidatakse-nendele-tutvustades-eraldi-valdkonna-seni-kehtiva",
+  "level": 3,
+  "title": "viidatakse nendele, tutvustades eraldi valdkonna seni kehtivat regulatsiooni ja teiste riikide õigusakte, mida on eelnõu ettevalmistamisel kasutatud, ning analüüsitakse"
+ },
+ {
+  "id": "seletuskirjas-nende-õigusaktide-sätete-loetelu-mis-sisaldava",
+  "level": 3,
+  "title": "seletuskirjas nende õigusaktide sätete loetelu, mis sisaldavad otsest viidet kehtetuks tunnistatavale või muudetavale seadusele või sättele, ning põhjendatakse, miks on viitavat"
+ },
+ {
+  "id": "tutvustatakse-ka-välislepingu-sisu-ning-neid-muudatusi-seadu",
+  "level": 3,
+  "title": "tutvustatakse ka välislepingu sisu ning neid muudatusi seadustes, mis kaasnevad"
+ },
+ {
+  "id": "võimalik-esitada-lõikes-3-nimetatud-seadusmuudatuste-eelnõu-",
+  "level": 3,
+  "title": "võimalik esitada lõikes 3 nimetatud seadusmuudatuste eelnõu, nimetatakse seletuskirja"
+ },
+ {
+  "id": "44-eelnõu-terminoloogia",
+  "level": 3,
+  "title": "§ 44. Eelnõu terminoloogia"
+ },
+ {
+  "id": "seletuskirja-osas-eelnõu-terminoloogia-tutvustatakse-seaduse",
+  "level": 3,
+  "title": "Seletuskirja osas „Eelnõu terminoloogia” tutvustatakse seaduseelnõu nii uusi kui ka võõrsõnalisi termineid, mida õigusaktides ei ole varem kasutatud, ja põhjendatakse nende"
+ },
+ {
+  "id": "45-eelnõu-vastavus-euroopa-liidu-õigusele",
+  "level": 3,
+  "title": "§ 45. Eelnõu vastavus Euroopa Liidu õigusele"
+ },
+ {
+  "id": "reguleerimisalaga-seotud-euroopa-liidu-määruse-direktiivi-ja",
+  "level": 3,
+  "title": "reguleerimisalaga seotud Euroopa Liidu määruse, direktiivi ja muude õigusaktide ning nende tõlgendamiseks vajaliku kohtupraktika loetelu. Kui eelnõu eesmärk on viia Eesti"
+ },
+ {
+  "id": "selle-number-ja-avaldamismärge-euroopa-ühenduste-teatajas-võ",
+  "level": 3,
+  "title": "selle number ja avaldamismärge Euroopa Ühenduste Teatajas või Euroopa Liidu Teatajas ning direktiiviga kooskõlla viimisel lisatakse seletuskirjale Euroopa Komisjonis väljatöötatud vastavustabel, selle puudumisel käesoleva eeskirja lisas esitatud"
+ },
+ {
+  "id": "väljaselgitamiseks-ekspertiis-lisatakse-seletuskirjale-ekspe",
+  "level": 3,
+  "title": "väljaselgitamiseks ekspertiis, lisatakse seletuskirjale ekspertiisidokument ning"
+ },
+ {
+  "id": "normide-täpsustamiseks-põhjendatakse-eelnõu-seletuskirjas-ri",
+  "level": 3,
+  "title": "normide täpsustamiseks, põhjendatakse eelnõu seletuskirjas riigisiseselt kehtestatava"
+ },
+ {
+  "id": "46-seaduse-mõjud",
+  "level": 3,
+  "title": "§ 46. Seaduse mõjud"
+ },
+ {
+  "id": "tulenevat",
+  "level": 3,
+  "title": "tulenevat:"
+ },
+ {
+  "id": "seletuskirjale-mõjude-analüüsi-aruanne-mõjude-analüüsi-aruan",
+  "level": 3,
+  "title": "seletuskirjale mõjude analüüsi aruanne. Mõjude analüüsi aruandes:"
+ },
+ {
+  "id": "sealhulgas-selle-eeldatav-toimumise-aeg-peamised-vaadeldavad",
+  "level": 3,
+  "title": "sealhulgas selle eeldatav toimumise aeg, peamised vaadeldavad mõju liigid ja hindamise"
+ },
+ {
+  "id": "või-andmeid-viidatakse-seletuskirjas-kasutatud-andmebaasidel",
+  "level": 3,
+  "title": "või andmeid, viidatakse seletuskirjas kasutatud andmebaasidele ja dokumentidele või"
+ },
+ {
+  "id": "näide-hea-107",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "4-seaduse-mõjud",
+  "level": 3,
+  "title": "„4. Seaduse mõjud"
+ },
+ {
+  "id": "47-seaduse-rakendamisega-seotud-riigi-ja-kohaliku-omavalitsu",
+  "level": 3,
+  "title": "§ 47. Seaduse rakendamisega seotud riigi ja kohaliku omavalitsuse tegevused, eeldatavad kulud ja tulud"
+ },
+ {
+  "id": "tegevused-eeldatavad-kulud-ja-tulud-antakse-riigiasutuste-ka",
+  "level": 3,
+  "title": "tegevused, eeldatavad kulud ja tulud” antakse riigiasutuste kaupa ülevaade seaduse rakendamiseks vajalikest tegevustest ja kõikidest seaduse rakendamiseks eeldatavalt"
+ },
+ {
+  "id": "koos-asjakohase-rahalise-arvestusega-kui-tulusid-ei-prognoos",
+  "level": 3,
+  "title": "koos asjakohase rahalise arvestusega. Kui tulusid ei prognoosita, märgitakse see"
+ },
+ {
+  "id": "48-rakendusaktid",
+  "level": 3,
+  "title": "§ 48. Rakendusaktid"
+ },
+ {
+  "id": "võimaldab-teha-otsustuse-volitusnormi-ja-selle-alusel-kavand",
+  "level": 3,
+  "title": "võimaldab teha otsustuse volitusnormi ja selle alusel kavandatava rakendusakti"
+ },
+ {
+  "id": "sisust-lisada-vabariigi-valitsuse-või-ministri-määruse-eelnõ",
+  "level": 3,
+  "title": "sisust lisada Vabariigi Valitsuse või ministri määruse eelnõu kavand, mis sisaldab eelnõu"
+ },
+ {
+  "id": "et-oleks-võimalik-hinnata-rakendusakti-vajalikkust-volitusno",
+  "level": 3,
+  "title": "et oleks võimalik hinnata rakendusakti vajalikkust, volitusnormi ulatust, kohast tasandit ja muid asjaolusid, mis on vajalikud volitusnormi sõnastuse ja rakendusakti vastavuse"
+ },
+ {
+  "id": "esitatakse-seletuskirja-käsitletavas-osas",
+  "level": 3,
+  "title": "esitatakse seletuskirja käsitletavas osas:"
+ },
+ {
+  "id": "49-seaduse-jõustumine",
+  "level": 3,
+  "title": "§ 49. Seaduse jõustumine"
+ },
+ {
+  "id": "seletuskirja-osas-seaduse-jõustumine-põhjendatakse-eelnõu-se",
+  "level": 3,
+  "title": "Seletuskirja osas „Seaduse jõustumine” põhjendatakse eelnõu seadusena või selle sätte"
+ },
+ {
+  "id": "näide-hea-108",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "50-eelnõu-kooskõlastamine-huvirühmade-kaasamine-ja-avalik-ko",
+  "level": 3,
+  "title": "§ 50. Eelnõu kooskõlastamine, huvirühmade kaasamine ja avalik konsultatsioon"
+ },
+ {
+  "id": "konsultatsioon-märgitakse",
+  "level": 3,
+  "title": "konsultatsioon” märgitakse:"
+ },
+ {
+  "id": "esitatakse-asjakohased-selgitused-ja-põhjendused-tabelis-mis",
+  "level": 3,
+  "title": "esitatakse asjakohased selgitused ja põhjendused tabelis, mis vormistatakse seletuskirja"
+ },
+ {
+  "id": "ettepaneku-sisu-esitaja-millises-eelnõu-sättes-märkus-või-et",
+  "level": 3,
+  "title": "ettepaneku sisu, esitaja, millises eelnõu sättes märkus või ettepanek on arvesse võetud"
+ },
+ {
+  "id": "nimetatud-osas-vaid-asjaomaste-valitsusväliste-institutsioon",
+  "level": 3,
+  "title": "nimetatud osas vaid asjaomaste valitsusväliste institutsioonide kaasamise ja avaliku"
+ },
+ {
+  "id": "4-peatükk-vabariigi-valitsuse-määruse-ja-ministri-määruse-ee",
+  "level": 2,
+  "title": "4. peatükk. Vabariigi Valitsuse määruse ja ministri määruse eelnõu"
+ },
+ {
+  "id": "1-jagu-vabariigi-valitsuse-määruse-ja-ministri-määruse-eelnõ",
+  "level": 2,
+  "title": "1. jagu. Vabariigi Valitsuse määruse ja ministri määruse eelnõu põhinõuded"
+ },
+ {
+  "id": "51-seaduseelnõu-sätete-kohaldamine",
+  "level": 3,
+  "title": "§ 51. Seaduseelnõu sätete kohaldamine"
+ },
+ {
+  "id": "vabariigi-valitsuse-määruse-ja-ministri-määruse-eelnõu-koost",
+  "level": 3,
+  "title": "Vabariigi Valitsuse määruse ja ministri määruse eelnõu koostamise põhinõuetena"
+ },
+ {
+  "id": "s-34-välja-arvatud-muutmisvormeli-näide-35-lõigetes-2-ja-4-s",
+  "level": 3,
+  "title": "§-s 34, välja arvatud muutmisvormeli näide, § 35 lõigetes 2 ja 4, §-s 36, § 37 lõigetes 1–4"
+ },
+ {
+  "id": "näide-hea-109",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "52-määruse-eelnõu-vastavus-kehtivale-õigusele",
+  "level": 3,
+  "title": "§ 52. Määruse eelnõu vastavus kehtivale õigusele"
+ },
+ {
+  "id": "seadustega-euroopa-liidu-õigusega-rahvusvahelise-õiguse-üldt",
+  "level": 3,
+  "title": "seadustega, Euroopa Liidu õigusega, rahvusvahelise õiguse üldtunnustatud põhimõtete ja normidega ning Eesti Vabariigi välislepingutega. Ministri määruse eelnõu peab olema"
+ },
+ {
+  "id": "määruse-eelnõu-määrusena-vastuvõtmise-korral-muudetakse-või-",
+  "level": 3,
+  "title": "määruse eelnõu määrusena vastuvõtmise korral muudetakse või mis tunnistatakse"
+ },
+ {
+  "id": "53-volitusnormi-rakendamine",
+  "level": 3,
+  "title": "§ 53. Volitusnormi rakendamine"
+ },
+ {
+  "id": "määruse-eelnõu-sisu-peab-olema-kooskõlas-seaduses-või-seadus",
+  "level": 3,
+  "title": "Määruse eelnõu sisu peab olema kooskõlas seaduses või seaduses ja Euroopa Liidu õigusaktis sätestatud volitusnormi piiride, mõtte ja eesmärgiga. Määruse eelnõu ei tohi"
+ },
+ {
+  "id": "54-määruse-eelnõu-terminoloogia",
+  "level": 3,
+  "title": "§ 54. Määruse eelnõu terminoloogia"
+ },
+ {
+  "id": "terminit-juhul-kui-see-on-vajalik-seaduse-rakendamiseks-ning",
+  "level": 3,
+  "title": "terminit juhul, kui see on vajalik seaduse rakendamiseks ning kui see ei ole vastuolus"
+ },
+ {
+  "id": "55-määruse-eelnõu-elemendid",
+  "level": 3,
+  "title": "§ 55. Määruse eelnõu elemendid"
+ },
+ {
+  "id": "määruse-eelnõu-elemendid-on",
+  "level": 3,
+  "title": "Määruse eelnõu elemendid on:"
+ },
+ {
+  "id": "näide-hea-110",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "energiatõhususe-miinimumnõuded",
+  "level": 3,
+  "title": "Energiatõhususe miinimumnõuded"
+ },
+ {
+  "id": "56-määruse-eelnõu-pealkiri",
+  "level": 3,
+  "title": "§ 56. Määruse eelnõu pealkiri"
+ },
+ {
+  "id": "halb-27",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "hea-48",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-hea-111",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "57-määruse-eelnõu-teksti-ülesehitus",
+  "level": 3,
+  "title": "§ 57. Määruse eelnõu teksti ülesehitus"
+ },
+ {
+  "id": "58-määruse-eelnõu-preambul",
+  "level": 3,
+  "title": "§ 58. Määruse eelnõu preambul"
+ },
+ {
+  "id": "määrus-antakse-preambulis-ei-osundata-sättele-mis-ei-sisalda",
+  "level": 3,
+  "title": "määrus antakse. Preambulis ei osundata sättele, mis ei sisalda volitust määruse"
+ },
+ {
+  "id": "ministri-määruse-eelnõu-preambulis-ka-vabariigi-valitsuse-mä",
+  "level": 3,
+  "title": "ministri määruse eelnõu preambulis ka Vabariigi Valitsuse määruse sättele, millega Vabariigi Valitsus on volitanud seaduses sätestatud volitusnormi ulatuses andma seaduse"
+ },
+ {
+  "id": "osundatakse-määruse-eelnõu-preambulis-lisaks-euroopa-liidu-õ",
+  "level": 3,
+  "title": "osundatakse määruse eelnõu preambulis lisaks Euroopa Liidu õigusakti vastavale sättele ka seaduse sättele, mis volitab Vabariigi Valitsust või ministrit andma Euroopa Liidu"
+ },
+ {
+  "id": "näide-hea-112",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "59-õigusakti-sätte-taasesitamine",
+  "level": 3,
+  "title": "§ 59. Õigusakti sätte taasesitamine"
+ },
+ {
+  "id": "näide-hea-113",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "60-viitamine",
+  "level": 3,
+  "title": "§ 60. Viitamine"
+ },
+ {
+  "id": "näide-hea-114",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-115",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "61-määruse-muutmine",
+  "level": 3,
+  "title": "§ 61. Määruse muutmine"
+ },
+ {
+  "id": "määruse-muutmise-või-kehtetuks-tunnistamise-korral-nimetatak",
+  "level": 3,
+  "title": "Määruse muutmise või kehtetuks tunnistamise korral nimetatakse muudetava või kehtetuks tunnistatava määruse andja, määruse andmise kuupäev, akti liik, number ja"
+ },
+ {
+  "id": "hea-49",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "hea-50",
+  "level": 3,
+  "title": "HEA"
+ },
+ {
+  "id": "näide-hea-116",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "näide-hea-117",
+  "level": 3,
+  "title": "NÄIDE HEA"
+ },
+ {
+  "id": "62-määruse-jõustumisnorm",
+  "level": 3,
+  "title": "§ 62. Määruse jõustumisnorm"
+ },
+ {
+  "id": "seaduse-93-lõikes-2-ettenähtud-kolmepäevasest-tähtajast-hili",
+  "level": 3,
+  "title": "seaduse § 93 lõikes 2 ettenähtud kolmepäevasest tähtajast hilisemal tähtpäeval, kui seadus ei näe ette varasemat jõustumisaega. Jõustumisnormis jõustumisaja sätestamisel arvestatakse § 14 lõikes 2 sätestatud asjaolusid ja määruse avaldamiseks Riigi Teataja"
+ },
+ {
+  "id": "väljakuulutatud-kuid-veel-jõustumata-seaduses-kavandatakse-m",
+  "level": 3,
+  "title": "väljakuulutatud, kuid veel jõustumata seaduses, kavandatakse määruse jõustumise"
+ },
+ {
+  "id": "märkida-määruse-või-selle-sätete-kehtivuse-lõpp-kui-see-ei-s",
+  "level": 3,
+  "title": "märkida määruse või selle sätete kehtivuse lõpp, kui see ei selgu määruse pealkirjast või"
+ },
+ {
+  "id": "halb-28",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "11-rakendussätted",
+  "level": 3,
+  "title": "§ 11. Rakendussätted"
+ },
+ {
+  "id": "halb-29",
+  "level": 3,
+  "title": "HALB"
+ },
+ {
+  "id": "rakendussätted",
+  "level": 3,
+  "title": "RAKENDUSSÄTTED"
+ },
+ {
+  "id": "2-jagu-vabariigi-valitsuse-määruse-ja-ministri-määruse-eelnõ",
+  "level": 2,
+  "title": "2. jagu. Vabariigi Valitsuse määruse ja ministri määruse eelnõu seletuskiri"
+ },
+ {
+  "id": "63-määruse-eelnõu-seletuskiri",
+  "level": 3,
+  "title": "§ 63. Määruse eelnõu seletuskiri"
+ },
+ {
+  "id": "määruse-eelnõu-kooskõlastamiseks-esitamise-ning-eelnõu-määru",
+  "level": 3,
+  "title": "Määruse eelnõu kooskõlastamiseks esitamise ning eelnõu määruse andmiseks esitamise korral lisatakse eelnõule seletuskiri. Seletuskirja eesmärk on põhjendada eelnõu vastavust volitusnormile, eelnõu põhiseisukohti ja kaasnevaid muudatusi ning anda"
+ },
+ {
+  "id": "64-seaduseelnõu-seletuskirja-kohta-käivate-nõuete-kohaldamin",
+  "level": 3,
+  "title": "§ 64. Seaduseelnõu seletuskirja kohta käivate nõuete kohaldamine"
+ },
+ {
+  "id": "määruse-eelnõu-seletuskirja-suhtes-kohaldatakse-seaduseelnõu",
+  "level": 3,
+  "title": "Määruse eelnõu seletuskirja suhtes kohaldatakse seaduseelnõu seletuskirja kohta käivaid"
+ },
+ {
+  "id": "65-määruse-eelnõu-seletuskirja-ülesehitus",
+  "level": 3,
+  "title": "§ 65. Määruse eelnõu seletuskirja ülesehitus"
+ },
+ {
+  "id": "5-peatükk-rakendussätted",
+  "level": 2,
+  "title": "5. peatükk. Rakendussätted"
+ },
+ {
+  "id": "66-määruse-rakendamine",
+  "level": 3,
+  "title": "§ 66. Määruse rakendamine"
+ },
+ {
+  "id": "kohta-sätestatud-nõudeid-rakendatakse-ministeeriumides-ülemi",
+  "level": 3,
+  "title": "kohta sätestatud nõudeid rakendatakse ministeeriumides üleminekuperioodil järgmiselt:"
+ },
+ {
+  "id": "väljatöötamist-on-alustatud-enne-käesoleva-määruse-jõustumis",
+  "level": 3,
+  "title": "väljatöötamist on alustatud enne käesoleva määruse jõustumist ja mis esitatakse"
+ }
+]

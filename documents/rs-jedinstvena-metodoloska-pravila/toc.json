@@ -1,0 +1,662 @@
+[
+ {
+  "id": "unified-drafting-methodology-rules",
+  "level": 2,
+  "title": "UNIFIED DRAFTING METHODOLOGY RULES"
+ },
+ {
+  "id": "official-gazette-of-the-rs-no-21-2010",
+  "level": 2,
+  "title": "- (\"Official Gazette of the RS\", no. 21/2010) -"
+ },
+ {
+  "id": "september-2010",
+  "level": 2,
+  "title": "September 2010"
+ },
+ {
+  "id": "unified-drafting-methodology-rules-2",
+  "level": 3,
+  "title": "UNIFIED DRAFTING METHODOLOGY RULES"
+ },
+ {
+  "id": "part-i",
+  "level": 3,
+  "title": "PART I"
+ },
+ {
+  "id": "chapter-i-introductory-provisions",
+  "level": 3,
+  "title": "Chapter I INTRODUCTORY PROVISIONS"
+ },
+ {
+  "id": "subject-matter",
+  "level": 3,
+  "title": "Subject Matter"
+ },
+ {
+  "id": "article-1",
+  "level": 3,
+  "title": "Article 1"
+ },
+ {
+  "id": "scope-of-application",
+  "level": 3,
+  "title": "Scope of Application"
+ },
+ {
+  "id": "article-2",
+  "level": 3,
+  "title": "Article 2"
+ },
+ {
+  "id": "chapter-ii",
+  "level": 3,
+  "title": "Chapter II"
+ },
+ {
+  "id": "content-of-a-regulation",
+  "level": 3,
+  "title": "CONTENT OF A REGULATION"
+ },
+ {
+  "id": "structure-of-regulation",
+  "level": 3,
+  "title": "Structure of Regulation"
+ },
+ {
+  "id": "article-3",
+  "level": 3,
+  "title": "Article 3"
+ },
+ {
+  "id": "title",
+  "level": 3,
+  "title": "Title"
+ },
+ {
+  "id": "article-4",
+  "level": 3,
+  "title": "Article 4"
+ },
+ {
+  "id": "the-preamble",
+  "level": 3,
+  "title": "The Preamble"
+ },
+ {
+  "id": "article-5",
+  "level": 3,
+  "title": "Article 5"
+ },
+ {
+  "id": "introductory-part",
+  "level": 3,
+  "title": "Introductory Part"
+ },
+ {
+  "id": "article-6",
+  "level": 3,
+  "title": "Article 6"
+ },
+ {
+  "id": "definitions",
+  "level": 3,
+  "title": "Definitions"
+ },
+ {
+  "id": "article-7",
+  "level": 3,
+  "title": "Article 7"
+ },
+ {
+  "id": "main-part-of-the-regulation",
+  "level": 3,
+  "title": "Main Part of the Regulation"
+ },
+ {
+  "id": "article-8",
+  "level": 3,
+  "title": "Article 8"
+ },
+ {
+  "id": "rights-and-obligations",
+  "level": 3,
+  "title": "Rights and Obligations"
+ },
+ {
+  "id": "article-9",
+  "level": 3,
+  "title": "Article 9"
+ },
+ {
+  "id": "powers",
+  "level": 3,
+  "title": "Powers"
+ },
+ {
+  "id": "article-10",
+  "level": 3,
+  "title": "Article 10"
+ },
+ {
+  "id": "penal-provisions",
+  "level": 3,
+  "title": "Penal Provisions"
+ },
+ {
+  "id": "article-11",
+  "level": 3,
+  "title": "Article 11"
+ },
+ {
+  "id": "final-part",
+  "level": 3,
+  "title": "Final Part"
+ },
+ {
+  "id": "article-12",
+  "level": 3,
+  "title": "Article 12"
+ },
+ {
+  "id": "transitional-provisions",
+  "level": 3,
+  "title": "Transitional Provisions"
+ },
+ {
+  "id": "final-provisions",
+  "level": 3,
+  "title": "Final Provisions"
+ },
+ {
+  "id": "article-14",
+  "level": 3,
+  "title": "Article 14"
+ },
+ {
+  "id": "retroactivity",
+  "level": 3,
+  "title": "Retroactivity"
+ },
+ {
+  "id": "article-15",
+  "level": 3,
+  "title": "Article 15"
+ },
+ {
+  "id": "provisions-prescribing-temporal-limitations",
+  "level": 3,
+  "title": "Provisions Prescribing Temporal Limitations"
+ },
+ {
+  "id": "article-16",
+  "level": 3,
+  "title": "Article 16"
+ },
+ {
+  "id": "entry-into-force",
+  "level": 3,
+  "title": "Entry into Force"
+ },
+ {
+  "id": "article-17",
+  "level": 3,
+  "title": "Article 17"
+ },
+ {
+  "id": "article-18",
+  "level": 3,
+  "title": "Article 18"
+ },
+ {
+  "id": "chapter-ii-the-form-of-regulation",
+  "level": 3,
+  "title": "Chapter II THE FORM OF REGULATION"
+ },
+ {
+  "id": "types-of-inner-structures",
+  "level": 3,
+  "title": "Types of Inner Structures"
+ },
+ {
+  "id": "article-19",
+  "level": 3,
+  "title": "Article 19"
+ },
+ {
+  "id": "part",
+  "level": 3,
+  "title": "Part"
+ },
+ {
+  "id": "article-20",
+  "level": 3,
+  "title": "Article 20"
+ },
+ {
+  "id": "chapter",
+  "level": 3,
+  "title": "Chapter"
+ },
+ {
+  "id": "article-21",
+  "level": 3,
+  "title": "Article 21"
+ },
+ {
+  "id": "section",
+  "level": 3,
+  "title": "Section"
+ },
+ {
+  "id": "article-22",
+  "level": 3,
+  "title": "Article 22"
+ },
+ {
+  "id": "sub-section",
+  "level": 3,
+  "title": "Sub-section"
+ },
+ {
+  "id": "article-23",
+  "level": 3,
+  "title": "Article 23"
+ },
+ {
+  "id": "article",
+  "level": 3,
+  "title": "Article"
+ },
+ {
+  "id": "inner-structure-of-an-article",
+  "level": 3,
+  "title": "Inner Structure of an Article"
+ },
+ {
+  "id": "article-25",
+  "level": 3,
+  "title": "Article 25"
+ },
+ {
+  "id": "paragraph",
+  "level": 3,
+  "title": "Paragraph"
+ },
+ {
+  "id": "article-26",
+  "level": 3,
+  "title": "Article 26"
+ },
+ {
+  "id": "item",
+  "level": 3,
+  "title": "Item"
+ },
+ {
+  "id": "article-27",
+  "level": 3,
+  "title": "Article 27"
+ },
+ {
+  "id": "sub-item",
+  "level": 3,
+  "title": "Sub-item"
+ },
+ {
+  "id": "article-28",
+  "level": 3,
+  "title": "Article 28"
+ },
+ {
+  "id": "bullet",
+  "level": 3,
+  "title": "Bullet"
+ },
+ {
+  "id": "article-29",
+  "level": 3,
+  "title": "Article 29"
+ },
+ {
+  "id": "item-as-the-basic-classification-unit",
+  "level": 3,
+  "title": "Item as the Basic Classification Unit"
+ },
+ {
+  "id": "chapter-iii-language-style-and-manner-of-writing",
+  "level": 3,
+  "title": "Chapter III LANGUAGE, STYLE AND MANNER OF WRITING"
+ },
+ {
+  "id": "use-of-contemporary-serbian-language",
+  "level": 3,
+  "title": "Use of Contemporary Serbian Language"
+ },
+ {
+  "id": "article-31",
+  "level": 3,
+  "title": "Article 31"
+ },
+ {
+  "id": "technical-terms",
+  "level": 3,
+  "title": "Technical Terms"
+ },
+ {
+  "id": "article-32",
+  "level": 3,
+  "title": "Article 32"
+ },
+ {
+  "id": "foreign-words",
+  "level": 3,
+  "title": "Foreign Words"
+ },
+ {
+  "id": "article-33",
+  "level": 3,
+  "title": "Article 33"
+ },
+ {
+  "id": "writing-style",
+  "level": 3,
+  "title": "Writing Style"
+ },
+ {
+  "id": "article-34",
+  "level": 3,
+  "title": "Article 34"
+ },
+ {
+  "id": "unified-terminology",
+  "level": 3,
+  "title": "Unified Terminology"
+ },
+ {
+  "id": "article-35",
+  "level": 3,
+  "title": "Article 35"
+ },
+ {
+  "id": "referral",
+  "level": 3,
+  "title": "Referral"
+ },
+ {
+  "id": "article-36",
+  "level": 3,
+  "title": "Article 36"
+ },
+ {
+  "id": "abbreviated-names",
+  "level": 3,
+  "title": "Abbreviated Names"
+ },
+ {
+  "id": "article-37",
+  "level": 3,
+  "title": "Article 37"
+ },
+ {
+  "id": "the-use-of-abbreviated-forms",
+  "level": 3,
+  "title": "The Use of Abbreviated Forms"
+ },
+ {
+  "id": "article-38",
+  "level": 3,
+  "title": "Article 38"
+ },
+ {
+  "id": "writing-of-dates",
+  "level": 3,
+  "title": "Writing of Dates"
+ },
+ {
+  "id": "article-39",
+  "level": 3,
+  "title": "Article 39"
+ },
+ {
+  "id": "writing-of-numbers",
+  "level": 3,
+  "title": "Writing of Numbers"
+ },
+ {
+  "id": "article-40",
+  "level": 3,
+  "title": "Article 40"
+ },
+ {
+  "id": "using-of-verbs",
+  "level": 3,
+  "title": "Using of Verbs"
+ },
+ {
+  "id": "article-41",
+  "level": 3,
+  "title": "Article 41"
+ },
+ {
+  "id": "usage-of-singular",
+  "level": 3,
+  "title": "Usage of Singular"
+ },
+ {
+  "id": "article-42",
+  "level": 3,
+  "title": "Article 42"
+ },
+ {
+  "id": "using-of-gender",
+  "level": 3,
+  "title": "Using of Gender"
+ },
+ {
+  "id": "article-43",
+  "level": 3,
+  "title": "Article 43"
+ },
+ {
+  "id": "formulation-of-powers",
+  "level": 3,
+  "title": "Formulation of Powers"
+ },
+ {
+  "id": "article-44",
+  "level": 3,
+  "title": "Article 44"
+ },
+ {
+  "id": "incorporating-provisions-of-a-higher-act",
+  "level": 3,
+  "title": "Incorporating provisions of a higher act"
+ },
+ {
+  "id": "article-45",
+  "level": 3,
+  "title": "Article 45"
+ },
+ {
+  "id": "appropriate-application-of-other-regulations",
+  "level": 3,
+  "title": "Appropriate application of other regulations"
+ },
+ {
+  "id": "article-46",
+  "level": 3,
+  "title": "Article 46"
+ },
+ {
+  "id": "purpose-and-scope-of-amendments",
+  "level": 3,
+  "title": "Purpose and scope of amendments"
+ },
+ {
+  "id": "article-47",
+  "level": 3,
+  "title": "Article 47"
+ },
+ {
+  "id": "manner-of-amending",
+  "level": 3,
+  "title": "Manner of amending"
+ },
+ {
+  "id": "title-of-amending-regulation",
+  "level": 3,
+  "title": "Title of amending regulation"
+ },
+ {
+  "id": "article-49",
+  "level": 3,
+  "title": "Article 49"
+ },
+ {
+  "id": "defining-of-the-regulation-being-amended",
+  "level": 3,
+  "title": "Defining of the regulation being amended"
+ },
+ {
+  "id": "article-50",
+  "level": 3,
+  "title": "Article 50"
+ },
+ {
+  "id": "formulating-of-the-amendment-of-the-regulation",
+  "level": 3,
+  "title": "Formulating of the amendment of the regulation"
+ },
+ {
+  "id": "article-51",
+  "level": 3,
+  "title": "Article 51"
+ },
+ {
+  "id": "formulation-of-supplement-by-adding-a-part-of-regulation",
+  "level": 3,
+  "title": "Formulation of supplement by adding a part of regulation"
+ },
+ {
+  "id": "article-52",
+  "level": 3,
+  "title": "Article 52"
+ },
+ {
+  "id": "formulation-of-supplement-by-adding-of-article",
+  "level": 3,
+  "title": "Formulation of supplement by adding of article"
+ },
+ {
+  "id": "article-53",
+  "level": 3,
+  "title": "Article 53"
+ },
+ {
+  "id": "formulation-of-supplement-by-adding-a-paragraph",
+  "level": 3,
+  "title": "Formulation of supplement by adding a paragraph"
+ },
+ {
+  "id": "article-54",
+  "level": 3,
+  "title": "Article 54"
+ },
+ {
+  "id": "changing-percentages",
+  "level": 3,
+  "title": "Changing percentages"
+ },
+ {
+  "id": "article-55",
+  "level": 3,
+  "title": "Article 55"
+ },
+ {
+  "id": "consolidated-text",
+  "level": 3,
+  "title": "Consolidated text"
+ },
+ {
+  "id": "article-56",
+  "level": 3,
+  "title": "Article 56"
+ },
+ {
+  "id": "correction",
+  "level": 3,
+  "title": "Correction"
+ },
+ {
+  "id": "article-57",
+  "level": 3,
+  "title": "Article 57"
+ },
+ {
+  "id": "chapter-vii-rules-for-drafting-the-rationale-for-the-regulat",
+  "level": 3,
+  "title": "CHAPTER VII RULES FOR DRAFTING THE RATIONALE FOR THE REGULATION"
+ },
+ {
+  "id": "duty-to-forward-the-rationale",
+  "level": 3,
+  "title": "Duty to forward the rationale"
+ },
+ {
+  "id": "article-58",
+  "level": 3,
+  "title": "Article 58"
+ },
+ {
+  "id": "content-of-rationale",
+  "level": 3,
+  "title": "Content of rationale"
+ },
+ {
+  "id": "article-59",
+  "level": 3,
+  "title": "Article 59"
+ },
+ {
+  "id": "harmonisation-with-eu-legislation",
+  "level": 3,
+  "title": "Harmonisation with EU legislation"
+ },
+ {
+  "id": "article-60",
+  "level": 3,
+  "title": "Article 60"
+ },
+ {
+  "id": "assessment-of-funds-required-for-implementation-of-regulatio",
+  "level": 3,
+  "title": "Assessment of funds required for implementation of regulation"
+ },
+ {
+  "id": "article-61",
+  "level": 3,
+  "title": "Article 61"
+ },
+ {
+  "id": "article-62",
+  "level": 3,
+  "title": "Article 62"
+ },
+ {
+  "id": "chapter-ix",
+  "level": 3,
+  "title": "CHAPTER IX"
+ },
+ {
+  "id": "coming-into-force",
+  "level": 3,
+  "title": "Coming into Force"
+ },
+ {
+  "id": "article-63",
+  "level": 3,
+  "title": "Article 63"
+ }
+]

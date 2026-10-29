@@ -1,0 +1,3707 @@
+[
+ {
+  "id": "statutory-instrument-practice",
+  "level": 2,
+  "title": "Statutory Instrument Practice"
+ },
+ {
+  "id": "a-guide-to-help-you-prepare-and-publish-statutory-instrument",
+  "level": 2,
+  "title": "A guide to help you prepare and publish Statutory Instruments and understand the Parliamentary procedures relating to them"
+ },
+ {
+  "id": "5th-edition-november-2017",
+  "level": 2,
+  "title": "- 5th edition (November 2017)"
+ },
+ {
+  "id": "statutory-instrument-practice-is-published-by-the-national-a",
+  "level": 5,
+  "title": "Statutory Instrument Practice is published by The National Archives"
+ },
+ {
+  "id": "preface",
+  "level": 5,
+  "title": "Preface"
+ },
+ {
+  "id": "contents",
+  "level": 5,
+  "title": "Contents"
+ },
+ {
+  "id": "part-1-introduction",
+  "level": 2,
+  "title": "PART 1: INTRODUCTION"
+ },
+ {
+  "id": "1-about-sip-and-statutory-instruments",
+  "level": 5,
+  "title": "1. ABOUT SIP AND STATUTORY INSTRUMENTS"
+ },
+ {
+  "id": "1-1-how-to-use-the-statutory-instrument-practice-sip-guide",
+  "level": 5,
+  "title": "1.1 How to use the Statutory Instrument Practice (SIP) Guide"
+ },
+ {
+  "id": "the-national-archives-the-queen-s-printer-and-hmso",
+  "level": 4,
+  "title": "The National Archives, the Queen’s Printer and HMSO"
+ },
+ {
+  "id": "the-purpose-of-sip",
+  "level": 4,
+  "title": "The purpose of SIP"
+ },
+ {
+  "id": "section",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-2",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-3",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-4",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-5",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-6",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-7",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-8",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "1-2-an-overview-of-the-statutory-instrument-si-process",
+  "level": 5,
+  "title": "1.2 An overview of the Statutory Instrument (SI) process"
+ },
+ {
+  "id": "section-9",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-10",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-11",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-12",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-13",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-14",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-15",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "1-3-some-background-to-subordinate-legislation",
+  "level": 5,
+  "title": "1.3 Some background to subordinate legislation"
+ },
+ {
+  "id": "subordinate-legislation",
+  "level": 4,
+  "title": "Subordinate legislation"
+ },
+ {
+  "id": "note-the-statutory-instruments-act-19461-came-into-force-on-",
+  "level": 5,
+  "title": "Note: The Statutory Instruments Act 19461 came into force on 1 January 1948."
+ },
+ {
+  "id": "section-16",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-17",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-18",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-19",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "making-and-coming-into-force-of-subordinate-legislation",
+  "level": 4,
+  "title": "Making and coming into force of subordinate legislation"
+ },
+ {
+  "id": "section-20",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-21",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-22",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-23",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "limits-of-delegated-powers",
+  "level": 4,
+  "title": "Limits of delegated powers"
+ },
+ {
+  "id": "combined-exercise-of-powers",
+  "level": 4,
+  "title": "Combined exercise of powers"
+ },
+ {
+  "id": "eu-legislation",
+  "level": 4,
+  "title": "EU legislation"
+ },
+ {
+  "id": "section-24",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-25",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-26",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-27",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-28",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-29",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "the-technical-standards-directive-notifying-the-european-com",
+  "level": 4,
+  "title": "The Technical Standards Directive: notifying the European Commission"
+ },
+ {
+  "id": "section-30",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-31",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "1-4-types-of-statutory-instrument",
+  "level": 5,
+  "title": "1.4 Types of Statutory Instrument"
+ },
+ {
+  "id": "section-32",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-33",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-34",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-35",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-36",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "regulations-rules-and-orders",
+  "level": 4,
+  "title": "Regulations, Rules and Orders"
+ },
+ {
+  "id": "section-37",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-38",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "orders-in-council",
+  "level": 4,
+  "title": "Orders in Council"
+ },
+ {
+  "id": "orders-of-council",
+  "level": 4,
+  "title": "Orders of Council"
+ },
+ {
+  "id": "commencement-instruments",
+  "level": 4,
+  "title": "Commencement Instruments"
+ },
+ {
+  "id": "public-bodies-orders",
+  "level": 4,
+  "title": "Public Bodies Orders"
+ },
+ {
+  "id": "legislative-reform-orders",
+  "level": 4,
+  "title": "Legislative Reform Orders"
+ },
+ {
+  "id": "special-procedure-orders",
+  "level": 4,
+  "title": "Special Procedure Orders"
+ },
+ {
+  "id": "localism-orders",
+  "level": 4,
+  "title": "Localism Orders"
+ },
+ {
+  "id": "other-forms-of-secondary-legislation",
+  "level": 4,
+  "title": "Other forms of secondary legislation"
+ },
+ {
+  "id": "divisions-and-sub-divisions-of-legislative-instruments",
+  "level": 4,
+  "title": "Divisions and sub-divisions of legislative instruments"
+ },
+ {
+  "id": "table-a-legislative-instruments-divisions-and-sub-divisions",
+  "level": 4,
+  "title": "Table A – Legislative instruments: divisions and sub-divisions"
+ },
+ {
+  "id": "instrument-first-division-numbered-1-2-3-etc-second-division",
+  "level": 5,
+  "title": "Instrument First division (numbered 1, 2, 3 etc) Second division"
+ },
+ {
+  "id": "2-3-etc-third-division",
+  "level": 5,
+  "title": "(2), (3) etc) Third division"
+ },
+ {
+  "id": "local-and-general-sis",
+  "level": 4,
+  "title": "Local and general SIs"
+ },
+ {
+  "id": "1-5-parliament-and-statutory-instruments",
+  "level": 5,
+  "title": "1.5 Parliament and Statutory Instruments"
+ },
+ {
+  "id": "parliamentary-committees",
+  "level": 4,
+  "title": "Parliamentary committees"
+ },
+ {
+  "id": "section-39",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-40",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-41",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-42",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-43",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "1-6-what-is-published-and-by-what-authority",
+  "level": 5,
+  "title": "1.6 What is published and by what authority"
+ },
+ {
+  "id": "statutory-instruments-act-1946",
+  "level": 4,
+  "title": "Statutory Instruments Act 1946"
+ },
+ {
+  "id": "section-44",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-45",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-46",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "her-majesty-s-stationery-office-hmso",
+  "level": 4,
+  "title": "Her Majesty’s Stationery Office (HMSO)"
+ },
+ {
+  "id": "notice-in-the-gazette",
+  "level": 4,
+  "title": "Notice in The Gazette"
+ },
+ {
+  "id": "1-7-useful-contacts",
+  "level": 5,
+  "title": "1.7 Useful contacts"
+ },
+ {
+  "id": "the-national-archives",
+  "level": 5,
+  "title": "The National Archives"
+ },
+ {
+  "id": "general",
+  "level": 5,
+  "title": "General"
+ },
+ {
+  "id": "parliament",
+  "level": 5,
+  "title": "Parliament"
+ },
+ {
+  "id": "committees",
+  "level": 5,
+  "title": "Committees"
+ },
+ {
+  "id": "part-2-parliamentary-control-and-si-classes",
+  "level": 2,
+  "title": "PART 2: PARLIAMENTARY CONTROL AND SI CLASSES"
+ },
+ {
+  "id": "2-parliamentary-control-and-procedures-and-si-classes",
+  "level": 5,
+  "title": "2. PARLIAMENTARY CONTROL AND PROCEDURES, AND SI CLASSES"
+ },
+ {
+  "id": "2-1-what-this-part-of-the-guide-covers",
+  "level": 5,
+  "title": "2.1 What this part of the guide covers"
+ },
+ {
+  "id": "2-2-affirmative-procedure",
+  "level": 5,
+  "title": "2.2 Affirmative procedure"
+ },
+ {
+  "id": "use-of-affirmative-procedure",
+  "level": 4,
+  "title": "Use of affirmative procedure"
+ },
+ {
+  "id": "section-47",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-48",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-49",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "preparing-a-motion-to-approve-affirmative-sis-or-draft-affir",
+  "level": 4,
+  "title": "Preparing a motion to approve affirmative SIs or draft affirmatives"
+ },
+ {
+  "id": "proceedings-in-parliament-for-affirmative-sis",
+  "level": 4,
+  "title": "Proceedings in Parliament for affirmative SIs"
+ },
+ {
+  "id": "section-50",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-51",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-52",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "2-3-negative-procedure",
+  "level": 5,
+  "title": "2.3 Negative procedure"
+ },
+ {
+  "id": "use-of-negative-procedure",
+  "level": 4,
+  "title": "Use of negative procedure"
+ },
+ {
+  "id": "negative-procedure-made-instruments",
+  "level": 4,
+  "title": "Negative procedure: made instruments"
+ },
+ {
+  "id": "negative-procedure-draft-instruments",
+  "level": 4,
+  "title": "Negative procedure: draft instruments"
+ },
+ {
+  "id": "calculating-the-40-day-period",
+  "level": 4,
+  "title": "Calculating the 40-day period"
+ },
+ {
+  "id": "negative-resolutions",
+  "level": 4,
+  "title": "Negative resolutions"
+ },
+ {
+  "id": "consequences-of-an-annulment-resolution",
+  "level": 4,
+  "title": "Consequences of an annulment resolution"
+ },
+ {
+  "id": "2-4-exceptional-procedures",
+  "level": 5,
+  "title": "2.4 Exceptional procedures"
+ },
+ {
+  "id": "exceptional-procedure-public-bodies-orders",
+  "level": 4,
+  "title": "Exceptional Procedure: Public Bodies Orders"
+ },
+ {
+  "id": "exceptional-procedure-legislative-reform-orders",
+  "level": 4,
+  "title": "Exceptional Procedure: Legislative Reform Orders"
+ },
+ {
+  "id": "exceptional-procedure-section-5-orders-under-the-localism-ac",
+  "level": 4,
+  "title": "Exceptional Procedure: Section 5 Orders under the Localism Act 2011 and"
+ },
+ {
+  "id": "section-5c-orders-under-the-fire-and-rescue-services-act-200",
+  "level": 4,
+  "title": "Section 5C Orders under the Fire and Rescue Services Act 2004"
+ },
+ {
+  "id": "exceptional-procedure-section-15-orders-under-the-localism-a",
+  "level": 4,
+  "title": "Exceptional Procedure: Section 15 Orders under the Localism Act 2011"
+ },
+ {
+  "id": "exceptional-procedure-special-procedure-orders",
+  "level": 4,
+  "title": "Exceptional Procedure: Special Procedure Orders"
+ },
+ {
+  "id": "2-5-other-varieties-of-procedure",
+  "level": 5,
+  "title": "2.5 Other varieties of procedure"
+ },
+ {
+  "id": "laying-without-further-proceedings",
+  "level": 4,
+  "title": "Laying without further proceedings"
+ },
+ {
+  "id": "instruments-not-subject-to-parliamentary-control",
+  "level": 4,
+  "title": "Instruments not subject to Parliamentary control"
+ },
+ {
+  "id": "2-6-other-aspects-of-parliamentary-control",
+  "level": 5,
+  "title": "2.6 Other aspects of Parliamentary control"
+ },
+ {
+  "id": "incompatible-procedure",
+  "level": 4,
+  "title": "Incompatible procedure"
+ },
+ {
+  "id": "scope-of-debate",
+  "level": 4,
+  "title": "Scope of debate"
+ },
+ {
+  "id": "2-7-parliamentary-control-for-orders-in-council",
+  "level": 5,
+  "title": "2.7 Parliamentary Control for Orders in Council"
+ },
+ {
+  "id": "orders-in-council-laid-after-being-made",
+  "level": 4,
+  "title": "Orders in Council laid after being made"
+ },
+ {
+  "id": "orders-in-council-laid-in-draft",
+  "level": 4,
+  "title": "Orders in Council laid in draft"
+ },
+ {
+  "id": "2-8-classes-of-si",
+  "level": 5,
+  "title": "2.8 Classes of SI"
+ },
+ {
+  "id": "three-classes-of-affirmative-instruments",
+  "level": 4,
+  "title": "Three Classes of affirmative instruments"
+ },
+ {
+  "id": "table-b-affirmative-procedure-sis-by-class",
+  "level": 4,
+  "title": "Table B – Affirmative Procedure SIs by Class"
+ },
+ {
+  "id": "class-affirmative-procedure",
+  "level": 5,
+  "title": "Class Affirmative Procedure"
+ },
+ {
+  "id": "28-day-orders",
+  "level": 4,
+  "title": "28 day Orders"
+ },
+ {
+  "id": "negative-procedure",
+  "level": 4,
+  "title": "Negative procedure"
+ },
+ {
+  "id": "two-classes-of-negative-instruments",
+  "level": 4,
+  "title": "Two Classes of negative instruments"
+ },
+ {
+  "id": "table-c-negative-procedure-sis-by-class",
+  "level": 4,
+  "title": "Table C – Negative Procedure SIs by Class"
+ },
+ {
+  "id": "class-negative-procedure",
+  "level": 5,
+  "title": "Class Negative Procedure"
+ },
+ {
+  "id": "other-procedures",
+  "level": 4,
+  "title": "Other procedures"
+ },
+ {
+  "id": "table-d-other-procedure-sis-by-class",
+  "level": 4,
+  "title": "Table D – Other Procedure SIs by Class"
+ },
+ {
+  "id": "class-other-procedure",
+  "level": 5,
+  "title": "Class Other Procedure"
+ },
+ {
+  "id": "exceptional-procedures",
+  "level": 4,
+  "title": "Exceptional procedures"
+ },
+ {
+  "id": "table-e-exceptional-procedure-sis-by-class",
+  "level": 4,
+  "title": "Table E – Exceptional Procedure SIs by Class"
+ },
+ {
+  "id": "class-exceptional-procedure",
+  "level": 5,
+  "title": "Class Exceptional Procedure"
+ },
+ {
+  "id": "2-9-requirement-for-explanatory-memoranda-for-sis-laid-befor",
+  "level": 5,
+  "title": "2.9 Requirement for Explanatory Memoranda for SIs laid before Parliament"
+ },
+ {
+  "id": "general-requirements-for-an-explanatory-memorandum",
+  "level": 4,
+  "title": "General requirements for an Explanatory Memorandum"
+ },
+ {
+  "id": "section-53",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "english-votes-for-english-laws",
+  "level": 4,
+  "title": "English Votes for English Laws"
+ },
+ {
+  "id": "explanatory-memoranda-for-orders-in-council",
+  "level": 4,
+  "title": "Explanatory Memoranda for Orders in Council"
+ },
+ {
+  "id": "2-10-delivering-documents-to-parliament",
+  "level": 5,
+  "title": "2.10 Delivering Documents to Parliament"
+ },
+ {
+  "id": "delivering-explanatory-memoranda-and-other-related-documents",
+  "level": 4,
+  "title": "Delivering Explanatory Memoranda and other Related Documents"
+ },
+ {
+  "id": "section-54",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-55",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-56",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "a-remedial-order-or-draft-remedial-order-under-section-101-o",
+  "level": 4,
+  "title": "● a remedial Order, or draft remedial Order, under section 101 of the Human"
+ },
+ {
+  "id": "a-measure-under-the-church-of-england-assembly-powers-act-19",
+  "level": 4,
+  "title": "● a Measure under the Church of England Assembly (Powers) Act 19192"
+ },
+ {
+  "id": "section-57",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "laying-explanatory-memoranda",
+  "level": 4,
+  "title": "Laying Explanatory Memoranda"
+ },
+ {
+  "id": "laying-other-associated-documents",
+  "level": 4,
+  "title": "Laying other associated documents"
+ },
+ {
+  "id": "2-11-the-21-day-rule",
+  "level": 5,
+  "title": "2.11 The ‘21 day rule’"
+ },
+ {
+  "id": "complying-with-the-21-day-rule",
+  "level": 4,
+  "title": "Complying with the ‘21 day rule’"
+ },
+ {
+  "id": "2-12-compatibility-with-the-european-convention-on-human-rig",
+  "level": 5,
+  "title": "2.12 Compatibility with the European Convention on Human Rights"
+ },
+ {
+  "id": "2-13-procedures-for-eu-legislation",
+  "level": 5,
+  "title": "2.13 Procedures for EU legislation"
+ },
+ {
+  "id": "2-14-procedures-following-the-dissolution-of-parliament",
+  "level": 5,
+  "title": "2.14 Procedures following the dissolution of Parliament"
+ },
+ {
+  "id": "background-to-dissolution-procedures",
+  "level": 4,
+  "title": "Background to dissolution procedures"
+ },
+ {
+  "id": "laying-of-sis-and-draft-sis-during-dissolution",
+  "level": 4,
+  "title": "Laying of SIs and draft SIs during dissolution"
+ },
+ {
+  "id": "draft-orders-in-council-following-a-general-election",
+  "level": 4,
+  "title": "Draft Orders in Council following a General Election"
+ },
+ {
+  "id": "date-of-laying-during-dissolution-the-italic-date-informatio",
+  "level": 4,
+  "title": "Date of laying during dissolution: the italic date information"
+ },
+ {
+  "id": "notifying-the-speaker",
+  "level": 4,
+  "title": "Notifying the Speaker"
+ },
+ {
+  "id": "2-15-procedure-for-statutory-instruments-made-under-pre-1948",
+  "level": 5,
+  "title": "2.15 Procedure for Statutory Instruments made under pre-1948 Acts"
+ },
+ {
+  "id": "introduction-to-the-procedure-for-sis-made-under-pre-1948-ac",
+  "level": 4,
+  "title": "Introduction to the procedure for SIs made under pre-1948 Acts"
+ },
+ {
+  "id": "documents-which-are-statutory-instruments",
+  "level": 4,
+  "title": "Documents which are Statutory Instruments"
+ },
+ {
+  "id": "documents-which-are-excluded",
+  "level": 4,
+  "title": "Documents which are excluded"
+ },
+ {
+  "id": "confirmatory-documents-which-are-statutory-instruments",
+  "level": 4,
+  "title": "Confirmatory documents which are Statutory Instruments"
+ },
+ {
+  "id": "confirmatory-documents-which-are-excluded",
+  "level": 4,
+  "title": "Confirmatory documents which are excluded"
+ },
+ {
+  "id": "the-statutory-instruments-reference-committee",
+  "level": 4,
+  "title": "The Statutory Instruments Reference Committee"
+ },
+ {
+  "id": "definitions-in-the-rules-publication-act-1893-section-4",
+  "level": 4,
+  "title": "Definitions in the Rules Publication Act 1893 Section 4"
+ },
+ {
+  "id": "section-58",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-59",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "part-3-required-content",
+  "level": 2,
+  "title": "PART 3: REQUIRED CONTENT"
+ },
+ {
+  "id": "3-required-content-of-sis-and-associated-documents",
+  "level": 5,
+  "title": "3. REQUIRED CONTENT OF SIs AND ASSOCIATED DOCUMENTS"
+ },
+ {
+  "id": "3-1-what-this-part-of-the-guide-covers",
+  "level": 5,
+  "title": "3.1 What this part of the guide covers"
+ },
+ {
+  "id": "3-2-different-classes-of-si-and-required-content",
+  "level": 5,
+  "title": "3.2 Different Classes of SI and required content"
+ },
+ {
+  "id": "3-3-local-and-general-sis",
+  "level": 5,
+  "title": "3.3 Local and General SIs"
+ },
+ {
+  "id": "is-your-si-local-or-general",
+  "level": 4,
+  "title": "Is your SI local or general?"
+ },
+ {
+  "id": "3-4-illustrating-different-si-elements",
+  "level": 5,
+  "title": "3.4 Illustrating different SI elements"
+ },
+ {
+  "id": "3-5-headnotes",
+  "level": 5,
+  "title": "3.5 Headnotes"
+ },
+ {
+  "id": "different-types-of-headnotes",
+  "level": 4,
+  "title": "Different types of headnotes"
+ },
+ {
+  "id": "position-of-headnotes",
+  "level": 4,
+  "title": "Position of headnotes"
+ },
+ {
+  "id": "form-of-procedural-headnotes",
+  "level": 4,
+  "title": "Form of procedural headnotes"
+ },
+ {
+  "id": "section-60",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-61",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-62",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-63",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "headnotes-for-class-i-affirmative-drafts",
+  "level": 4,
+  "title": "Headnotes for Class i) affirmative drafts"
+ },
+ {
+  "id": "example-headnote-1-for-affirmative-drafts-style-1",
+  "level": 4,
+  "title": "Example Headnote 1 – for affirmative drafts (Style 1)"
+ },
+ {
+  "id": "draft-insert-type-of-si-here-for-example-regulations-rules-o",
+  "level": 5,
+  "title": "Draft [insert type of SI here for example Regulations, Rules, Order, Order in Council] laid before Parliament under section .... of the .... Act 20…., for approval by resolution of each House of Parliament."
+ },
+ {
+  "id": "example-headnote-2-for-affirmative-drafts-style-2",
+  "level": 4,
+  "title": "Example Headnote 2 – for affirmative drafts (Style 2)"
+ },
+ {
+  "id": "draft-order-in-council-laid-before-the-house-of-commons-unde",
+  "level": 5,
+  "title": "Draft Order in Council laid before the House of Commons under section.... of the …. Act 20…., for an address to Her Majesty from that House praying that the Order be made."
+ },
+ {
+  "id": "headnotes-for-class-ii-affirmative-instruments",
+  "level": 4,
+  "title": "Headnotes for Class ii) affirmative instruments"
+ },
+ {
+  "id": "example-headnote-3-for-class-ii-affirmative-instruments",
+  "level": 4,
+  "title": "Example Headnote 3 – for Class ii) affirmative instruments"
+ },
+ {
+  "id": "scheme-made-by-the-secretary-of-state-for-and-the-secretary-",
+  "level": 5,
+  "title": "Scheme made by the Secretary of State for .... and the Secretary of State for ...., laid before Parliament under section ... of the .... Act 20...., for approval by resolution of each House of Parliament."
+ },
+ {
+  "id": "headnotes-for-class-iii-affirmative-instruments",
+  "level": 4,
+  "title": "Headnotes for Class iii) affirmative instruments"
+ },
+ {
+  "id": "example-headnote-4-for-class-iii-affirmative-instruments-sty",
+  "level": 4,
+  "title": "Example Headnote 4 – for Class iii) affirmative instruments (Style 1)"
+ },
+ {
+  "id": "order-made-by-the-secretary-of-state-laid-before-parliament-",
+  "level": 5,
+  "title": "Order made by the Secretary of State, laid before Parliament under section .... of the .... Act 20...., for approval by resolution of each House of Parliament within [insert number of days here – it is generally twenty-eight or forty] days beginning with the day on which the Order was made, subject to extension for periods of dissolution, prorogation or adjournment for more than four days."
+ },
+ {
+  "id": "headnotes-for-class-iv-negative-drafts",
+  "level": 4,
+  "title": "Headnotes for Class iv) negative drafts"
+ },
+ {
+  "id": "note-the-headnote-for-a-class-iv-negative-drafts-must-includ",
+  "level": 5,
+  "title": "Note: The headnote for a Class iv) negative drafts must include the date of laying."
+ },
+ {
+  "id": "example-headnote-5-for-class-iv-negative-drafts-style-1",
+  "level": 4,
+  "title": "Example Headnote 5 – for Class iv) negative drafts (Style 1)"
+ },
+ {
+  "id": "draft-rules-laid-before-parliament-under-section-of-the-act-",
+  "level": 5,
+  "title": "Draft Rules laid before Parliament under section .... of the .... Act 20....; draft to lie for forty days, pursuant to section 6(1) of the Statutory Instruments Act 1946, during which period either House of Parliament may resolve that the Rules be not made."
+ },
+ {
+  "id": "example-headnote-6-for-class-iv-negative-drafts-style-2",
+  "level": 4,
+  "title": "Example Headnote 6 – for Class iv) negative drafts (Style 2)"
+ },
+ {
+  "id": "draft-order-in-council-laid-before-parliament-under-section-",
+  "level": 5,
+  "title": "Draft Order in Council laid before Parliament under section 6(2) of the Statutory Instruments Act 1946 (superseding section .... of the .... Act 18....) on.... 20....; draft to lie for forty days pursuant to section 6(1) of that Act of 1946, during which period either House of Parliament may resolve that the draft be not submitted to Her Majesty."
+ },
+ {
+  "id": "headnotes-for-classes-v-negative-instruments-and-vi-and-vii-",
+  "level": 4,
+  "title": "Headnotes for Classes v) (negative instruments) and, vi) and vii) (Other Procedure) SIs"
+ },
+ {
+  "id": "headnotes-for-class-viii-exceptional-procedure-sis",
+  "level": 4,
+  "title": "Headnotes for Class viii) Exceptional Procedure SIs"
+ },
+ {
+  "id": "example-headnote-7-for-legislative-reform-orders-using-the-a",
+  "level": 4,
+  "title": "Example Headnote 7 – for Legislative Reform Orders using the affirmative process"
+ },
+ {
+  "id": "draft-order-laid-before-parliament-under-section-14-1-of-the",
+  "level": 5,
+  "title": "Draft Order laid before Parliament under section 14(1) of the Legislative and Regulatory Reform Act 2006 for approval by resolution of each House of Parliament."
+ },
+ {
+  "id": "example-headnote-8-for-legislative-reform-orders-revised-aft",
+  "level": 4,
+  "title": "Example Headnote 8 – for Legislative Reform Orders revised after the first scrutiny, using the super affirmative process"
+ },
+ {
+  "id": "revised-draft-order-laid-before-parliament-under-section-18-",
+  "level": 5,
+  "title": "Revised draft Order laid before Parliament under section 18(7) of the Legislative and Regulatory Reform Act 2006 [for approval by resolution of each House of Parliament]."
+ },
+ {
+  "id": "note-if-the-lro-is-using-a-super-affirmative-procedure-and-i",
+  "level": 5,
+  "title": "Note: If the LRO is using a super-affirmative procedure and is revised after the first"
+ },
+ {
+  "id": "example-headnote-9-for-localism-orders",
+  "level": 4,
+  "title": "Example Headnote 9 – for Localism Orders"
+ },
+ {
+  "id": "draft-order-laid-before-parliament-under-section-7-2-of-the-",
+  "level": 5,
+  "title": "Draft Order laid before Parliament under section 7(2) of the Localism Act 2011 to which the Secretary of State has recommended that the negative resolution procedure under section 16 of the Legislative and Regulatory Reform Act 2006 should apply."
+ },
+ {
+  "id": "example-headnote-10-for-public-bodies-orders",
+  "level": 4,
+  "title": "Example Headnote 10 – for Public Bodies Orders"
+ },
+ {
+  "id": "draft-order-laid-before-parliament-under-section-11-of-the-p",
+  "level": 5,
+  "title": "Draft Order laid before Parliament under section 11 of the Public Bodies Act 2011, for approval by resolution of each House of Parliament after the expiry of the 40-day period referred to in section 11(4) of that Act."
+ },
+ {
+  "id": "headnotes-for-class-ix-exceptional-procedure-sis-special-pro",
+  "level": 4,
+  "title": "Headnotes for Class ix) Exceptional Procedure SIs (Special Procedure Orders)"
+ },
+ {
+  "id": "example-headnote-11-for-special-procedure-orders",
+  "level": 4,
+  "title": "Example Headnote 11 – for Special Procedure Orders"
+ },
+ {
+  "id": "order-made-or-confirmed-by-the-secretary-of-state-for-subjec",
+  "level": 5,
+  "title": "Order made (or, confirmed) by the Secretary of State for ...., subject to special Parliamentary procedure, and laid before Parliament under section 1 of the Statutory Orders (Special Procedure) Act 1945 on.... 20...., together with the certificate or statement required by section 2 of that Act (or, the statement required by sections 2(5) and 10(2) of that Act)."
+ },
+ {
+  "id": "note-a-headnote-in-this-form-should-also-appear-on-special-p",
+  "level": 5,
+  "title": "Note: A headnote in this form should also appear on Special Procedure Orders even if"
+ },
+ {
+  "id": "headnotes-on-a-correcting-made-si",
+  "level": 4,
+  "title": "Headnotes on a correcting made SI"
+ },
+ {
+  "id": "example-headnote-12-for-new-sis-that-correct-errors-in-an-ea",
+  "level": 4,
+  "title": "Example Headnote 12 – for new SIs that correct errors in an earlier SI"
+ },
+ {
+  "id": "this-statutory-instrument-has-been-printed-to-correct-errors",
+  "level": 5,
+  "title": "This Statutory Instrument has been printed to correct errors in [SI 2016/0000] and is being issued free of charge to all known recipients of that Statutory Instrument."
+ },
+ {
+  "id": "example-headnote-13-for-new-sis-that-correct-a-defective-si",
+  "level": 4,
+  "title": "Example Headnote 13 – for new SIs that correct a defective SI"
+ },
+ {
+  "id": "this-statutory-instrument-has-been-made-in-consequence-of-a-",
+  "level": 5,
+  "title": "This Statutory Instrument has been made in consequence of a defect in [SI 2016/0000] and is being issued free of charge to all known recipients of that Statutory Instrument."
+ },
+ {
+  "id": "example-headnote-14-for-a-substitution-of-the-same-si-with-t",
+  "level": 4,
+  "title": "Example Headnote 14 – for a substitution of the same SI (with the same number)"
+ },
+ {
+  "id": "this-statutory-instrument-has-been-printed-in-substitution-o",
+  "level": 5,
+  "title": "This Statutory Instrument has been printed in substitution of the SI of the same number and is being issued free of charge to all known recipients of that Statutory Instrument."
+ },
+ {
+  "id": "headnotes-on-a-superseding-draft-si",
+  "level": 4,
+  "title": "Headnotes on a superseding draft SI"
+ },
+ {
+  "id": "example-headnote-15-for-when-the-draft-si-had-different-layi",
+  "level": 4,
+  "title": "Example Headnote 15 – for when the draft SI had different laying/publication dates"
+ },
+ {
+  "id": "this-draft-statutory-instrument-supersedes-the-draft-of-the-",
+  "level": 5,
+  "title": "This draft Statutory Instrument supersedes the draft of the same title which was laid before Parliament/the House of Commons [delete as applicable] on [insert date] and published on [insert date] (ISBN [Insert ISBN Number]). It is being issued free of charge to all known recipients of that draft Statutory Instrument."
+ },
+ {
+  "id": "example-headnote-16-for-when-the-draft-si-was-laid-published",
+  "level": 4,
+  "title": "Example Headnote 16 – for when the draft SI was laid/published on same date (Style 1)"
+ },
+ {
+  "id": "this-draft-statutory-instrument-supersedes-the-draft-of-the--2",
+  "level": 5,
+  "title": "This draft Statutory Instrument supersedes the draft of the same title which was laid before Parliament/the House of Commons [delete as applicable] and published on [insert date] (ISBN [Insert ISBN Number]). It is being issued free of charge to all known recipients of that draft Statutory Instrument."
+ },
+ {
+  "id": "example-headnote-17-for-when-the-draft-si-was-laid-published",
+  "level": 4,
+  "title": "Example Headnote 17 – for when the draft SI was laid/published on same date (Style 2)"
+ },
+ {
+  "id": "this-draft-statutory-instrument-supersedes-the-draft-laid-be",
+  "level": 5,
+  "title": "This draft Statutory Instrument supersedes the draft laid before Parliament/the House of Commons [delete as applicable] on [insert date] and published on [insert date] (ISBN [Insert ISBN Number]). It is being issued free of charge to all known recipients of that draft Statutory Instrument."
+ },
+ {
+  "id": "3-6-banners",
+  "level": 5,
+  "title": "3.6 Banners"
+ },
+ {
+  "id": "the-use-of-a-banner-in-sis",
+  "level": 4,
+  "title": "The use of a banner in SIs"
+ },
+ {
+  "id": "example",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "example-2",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "the-changes-you-need-to-make-to-headnotes-banners-and-headin",
+  "level": 4,
+  "title": "The changes you need to make to headnotes, banners, and headings when an SI is approved"
+ },
+ {
+  "id": "section-64",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-65",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-66",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-67",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-68",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-69",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-70",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-71",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-72",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-73",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-74",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-75",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-76",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-77",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-78",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-79",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-80",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "3-7-numbers",
+  "level": 5,
+  "title": "3.7 Numbers"
+ },
+ {
+  "id": "the-si-number",
+  "level": 4,
+  "title": "The SI number"
+ },
+ {
+  "id": "subsidiary-numbers",
+  "level": 4,
+  "title": "Subsidiary numbers"
+ },
+ {
+  "id": "note-most-appointed-day-or-commencement-instruments-that-com",
+  "level": 5,
+  "title": "Note: Most Appointed Day or Commencement Instruments that commence sections of"
+ },
+ {
+  "id": "section-81",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-82",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-83",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "formatting-requirements-for-si-and-subsidiary-numbers",
+  "level": 4,
+  "title": "Formatting requirements for SI and subsidiary numbers"
+ },
+ {
+  "id": "section-84",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-85",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-86",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-87",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-88",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-89",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-90",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-91",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "domestic-serial-numbers-and-other-internal-reference-numbers",
+  "level": 4,
+  "title": "Domestic serial numbers and other internal reference numbers"
+ },
+ {
+  "id": "3-8-subject-headings",
+  "level": 5,
+  "title": "3.8 Subject headings"
+ },
+ {
+  "id": "position-of-subject-headings-and-sub-headings",
+  "level": 4,
+  "title": "Position of subject headings and sub-headings"
+ },
+ {
+  "id": "subject-headings-and-territorial-references",
+  "level": 4,
+  "title": "Subject headings and territorial references"
+ },
+ {
+  "id": "section-92",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "example-3",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "defence-income-tax",
+  "level": 3,
+  "title": "DEFENCE INCOME TAX"
+ },
+ {
+  "id": "subject-headings-for-legislative-reform-orders-and-public-bo",
+  "level": 4,
+  "title": "Subject headings for Legislative Reform Orders and Public Bodies Orders"
+ },
+ {
+  "id": "example-4",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "regulatory-reform",
+  "level": 3,
+  "title": "REGULATORY REFORM"
+ },
+ {
+  "id": "example-5",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "public-bodies",
+  "level": 3,
+  "title": "PUBLIC BODIES"
+ },
+ {
+  "id": "inclusion-of-territorial-suffixes-in-subject-headings",
+  "level": 4,
+  "title": "Inclusion of territorial suffixes in subject headings"
+ },
+ {
+  "id": "example-6",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "housing-england-insolvency-england-and-wales-local-governmen",
+  "level": 3,
+  "title": "HOUSING, ENGLAND INSOLVENCY, ENGLAND AND WALES LOCAL GOVERNMENT, WALES POLICE, NORTHERN IRELAND"
+ },
+ {
+  "id": "table-f-use-of-territorial-suffixes-in-si-headings",
+  "level": 4,
+  "title": "Table F– Use of territorial suffixes in SI headings"
+ },
+ {
+  "id": "contains-law-for-suffix-to-be-used",
+  "level": 5,
+  "title": "Contains law for Suffix to be used"
+ },
+ {
+  "id": "section-93",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "omission-of-territorial-suffixes-in-subject-headings",
+  "level": 4,
+  "title": "Omission of territorial suffixes in subject headings"
+ },
+ {
+  "id": "european-union-defence-constitutional-law",
+  "level": 3,
+  "title": "EUROPEAN UNION DEFENCE CONSTITUTIONAL LAW"
+ },
+ {
+  "id": "note-some-older-sis-with-the-subject-heading-european-union-",
+  "level": 5,
+  "title": "Note: Some older SIs with the subject heading EUROPEAN UNION or EUROPEAN"
+ },
+ {
+  "id": "sub-headings-under-subject-headings",
+  "level": 4,
+  "title": "Sub-headings under subject headings"
+ },
+ {
+  "id": "note-you-should-not-use-territorial-suffixes-in-a-sub-headin",
+  "level": 5,
+  "title": "Note: You should not use territorial suffixes in a sub-heading."
+ },
+ {
+  "id": "3-9-titles-of-statutory-instruments",
+  "level": 5,
+  "title": "3.9 Titles of Statutory Instruments"
+ },
+ {
+  "id": "si-titles-generally",
+  "level": 4,
+  "title": "SI titles generally"
+ },
+ {
+  "id": "section-94",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-95",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-96",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-97",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-98",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "titles-in-a-series-of-sis",
+  "level": 4,
+  "title": "Titles in a series of SIs"
+ },
+ {
+  "id": "section-99",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-100",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-101",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "example-7",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "the-protection-of-children-act-1999-commencement-no-3-order-",
+  "level": 3,
+  "title": "The Protection of Children Act 1999 (Commencement No. 3) Order 2002 The Police Pensions (Amendment) (No. 3) Regulations 2004 The Import Duties (Temporary Reductions and Exemptions) (No. 24) Order 1976"
+ },
+ {
+  "id": "example-8",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "the-constitutional-reform-and-governance-act-2010-commenceme",
+  "level": 3,
+  "title": "The Constitutional Reform and Governance Act 2010 (Commencement No. 7) Order 2012 The Constitutional Reform and Governance Act 2010 (Commencement No. 8 and Saving Provision) Order 2013"
+ },
+ {
+  "id": "titles-for-different-jurisdictions",
+  "level": 4,
+  "title": "Titles for different jurisdictions"
+ },
+ {
+  "id": "example-9",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "the-small-business-enterprise-and-employment-act-2015-commen",
+  "level": 3,
+  "title": "The Small Business, Enterprise and Employment Act 2015 (Commencement No. 1) Regulations 2015 The Small Business, Enterprise and Employment Act 2015 (Commencement No. 1) (Wales) Regulations 2015"
+ },
+ {
+  "id": "example-10",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "the-regulation-of-consultant-lobbyists-regulations-2015-the-",
+  "level": 3,
+  "title": "The Regulation of Consultant Lobbyists Regulations 2015 The Regulation of Consultant Lobbyists (Amendment) Regulations 2015 The Registration of Consultant Lobbyists (Amendment) (No. 2) Regulations 2015"
+ },
+ {
+  "id": "note-be-consistent-in-your-use-of-parenthesis-around-numbers",
+  "level": 5,
+  "title": "Note: Be consistent in your use of parenthesis around numbers. If the first Regulation"
+ },
+ {
+  "id": "titles-where-there-are-important-substantive-provisions",
+  "level": 4,
+  "title": "Titles where there are important substantive provisions"
+ },
+ {
+  "id": "example-11",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "the-national-lottery-act-2006-commencement-no-2-and-transiti",
+  "level": 3,
+  "title": "The National Lottery Act 2006 (Commencement No. 2 and Transitional Provisions) Order 2006 The Anti-social Behaviour, Crime and Policing Act 2014 (Commencement No. 2 and Transitional Provisions) (Wales) Order 2014"
+ },
+ {
+  "id": "note-the-commencement-series-number-should-always-appear-bef",
+  "level": 5,
+  "title": "Note: The Commencement series number should always appear before the additional"
+ },
+ {
+  "id": "titles-of-european-union-instruments",
+  "level": 4,
+  "title": "Titles of European Union instruments"
+ },
+ {
+  "id": "section-102",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-103",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-104",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-105",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "titles-of-public-bodies-orders",
+  "level": 4,
+  "title": "Titles of Public Bodies Orders"
+ },
+ {
+  "id": "example-12",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "the-public-bodies-abolition-of-her-majesty-s-inspectorate-of",
+  "level": 3,
+  "title": "The Public Bodies (Abolition of Her Majesty’s Inspectorate of Courts Administration and the Public Guardian Board) Order 2012"
+ },
+ {
+  "id": "titles-of-legislative-reform-orders",
+  "level": 4,
+  "title": "Titles of Legislative Reform Orders"
+ },
+ {
+  "id": "example-13",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "the-legislative-reform-payments-by-parish-councils-community",
+  "level": 3,
+  "title": "The Legislative Reform (Payments by Parish Councils, Community Councils and Charter Trustees) Order 2014"
+ },
+ {
+  "id": "3-10-italic-date-information-made-laid-and-coming-into-force",
+  "level": 5,
+  "title": "3.10 Italic date information: made, laid and coming into force dates"
+ },
+ {
+  "id": "section-106",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-107",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-108",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "note-any-italic-dates-made-laid-or-coming-into-force-should-",
+  "level": 5,
+  "title": "Note: Any italic dates made, laid or coming into force should have the time inserted"
+ },
+ {
+  "id": "example-14",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "example-15",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "example-16",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "example-17",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "example-18",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "example-19",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "note-i-if-laying-before-the-two-houses-takes-place-on-differ",
+  "level": 5,
+  "title": "Note: (i) If laying before the two Houses takes place on different dates, insert the later"
+ },
+ {
+  "id": "example-20",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "or",
+  "level": 5,
+  "title": "or"
+ },
+ {
+  "id": "note-in-the-examples-above-where-the-coming-in-force-date-is",
+  "level": 5,
+  "title": "Note: In the examples above, where the Coming in Force date is known it can be"
+ },
+ {
+  "id": "example-21",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "or-2",
+  "level": 5,
+  "title": "or"
+ },
+ {
+  "id": "note-for-commencement-clauses-corresponding-to-the-above-hea",
+  "level": 5,
+  "title": "Note: For commencement clauses corresponding to the above headings, see"
+ },
+ {
+  "id": "example-22",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "note-you-can-use-this-formula-if-the-commencement-is-to-be-d",
+  "level": 5,
+  "title": "Note: You can use this formula if the commencement is to be determined later under"
+ },
+ {
+  "id": "example-23",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "example-24",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "or-3",
+  "level": 5,
+  "title": "or"
+ },
+ {
+  "id": "or-4",
+  "level": 5,
+  "title": "or"
+ },
+ {
+  "id": "or-5",
+  "level": 5,
+  "title": "or"
+ },
+ {
+  "id": "table-of-contents-in-sis",
+  "level": 4,
+  "title": "Table of contents in SIs"
+ },
+ {
+  "id": "3-11-preamble-and-words-of-enactment",
+  "level": 5,
+  "title": "3.11 Preamble and words of enactment"
+ },
+ {
+  "id": "general-form-of-preamble",
+  "level": 4,
+  "title": "General form of preamble"
+ },
+ {
+  "id": "section-109",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-110",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-111",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "example-25",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "the-secretary-of-state-in-exercise-of-powers-conferred-by-se",
+  "level": 5,
+  "title": "The Secretary of State in exercise of powers conferred by section ... of the .... Act"
+ },
+ {
+  "id": "20-and-with-the-consent-of-the-treasury-makes-the-following-",
+  "level": 5,
+  "title": "20... and with the consent of the Treasury makes the following Regulations. In accordance with section …of that Act, a draft of the instrument was laid before Parliament and approved by a resolution of each House of Parliament."
+ },
+ {
+  "id": "example-26",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "her-majesty-in-exercise-of-the-powers-conferred-on-her-by-se",
+  "level": 5,
+  "title": "Her Majesty, in exercise of the powers conferred on Her by section 8(2) and (3) of the Coinage Act 1971(a), is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:"
+ },
+ {
+  "id": "preamble-for-eu-instruments",
+  "level": 4,
+  "title": "Preamble for EU instruments"
+ },
+ {
+  "id": "enabling-powers",
+  "level": 4,
+  "title": "Enabling powers"
+ },
+ {
+  "id": "section-112",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-113",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-114",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "example-27",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "example-28",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "terms-defined-in-the-interpretation-act-19781-such-as-secret",
+  "level": 4,
+  "title": "● terms defined in the Interpretation Act 19781 (such as “Secretary of"
+ },
+ {
+  "id": "section-115",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-116",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "transfer-of-functions",
+  "level": 4,
+  "title": "Transfer of functions"
+ },
+ {
+  "id": "example-29",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "the-secretary-of-state-for-makes-the-following-order-in-exer",
+  "level": 5,
+  "title": "The Secretary of State for ...... makes the following Order in exercise of powers conferred by section..... of the.... Act 20... and now vested in the Secretary of State."
+ },
+ {
+  "id": "fulfilment-of-conditions",
+  "level": 4,
+  "title": "Fulfilment of conditions"
+ },
+ {
+  "id": "section-117",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-118",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-119",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-120",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-121",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-122",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "that-necessary-notices-have-been-published-for-example-in-th",
+  "level": 4,
+  "title": "● that necessary notices have been published, for example in The Gazette1;"
+ },
+ {
+  "id": "section-123",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "preamble-for-legislative-reform-orders",
+  "level": 4,
+  "title": "Preamble for Legislative Reform Orders"
+ },
+ {
+  "id": "preamble-for-public-bodies-orders",
+  "level": 4,
+  "title": "Preamble for Public Bodies Orders"
+ },
+ {
+  "id": "preambles-for-orders-in-council",
+  "level": 4,
+  "title": "Preambles for Orders in Council"
+ },
+ {
+  "id": "example-30",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "her-majesty-in-pursuance-of-relevant-section-of-primary-legi",
+  "level": 5,
+  "title": "Her Majesty, in pursuance of [relevant section of primary legislation], is pleased, by and with the advice of Her Privy Council, to order as follows:"
+ },
+ {
+  "id": "3-12-interpretation-citation-and-commencement-provisions",
+  "level": 5,
+  "title": "3.12 Interpretation, citation and commencement provisions"
+ },
+ {
+  "id": "interpretation-provisions",
+  "level": 4,
+  "title": "Interpretation provisions"
+ },
+ {
+  "id": "citation",
+  "level": 4,
+  "title": "Citation"
+ },
+ {
+  "id": "commencement-dates-general-information",
+  "level": 4,
+  "title": "Commencement dates general information"
+ },
+ {
+  "id": "section-124",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-125",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "note-the-21-day-minimum-is-just-that-a-minimum-a-good-projec",
+  "level": 5,
+  "title": "Note: The 21 day minimum is just that – a minimum. A good project plan will allow more"
+ },
+ {
+  "id": "section-126",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-127",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-128",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-129",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "commencement-clauses-in-sis",
+  "level": 4,
+  "title": "Commencement clauses in SIs"
+ },
+ {
+  "id": "common-commencement-dates-ccds",
+  "level": 4,
+  "title": "Common commencement dates (CCDs)"
+ },
+ {
+  "id": "choice-of-commencement-date-if-not-using-a-ccd",
+  "level": 4,
+  "title": "Choice of commencement date if not using a CCD"
+ },
+ {
+  "id": "section-130",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-131",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-132",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "use-of-commencement-orders-regulations",
+  "level": 4,
+  "title": "Use of Commencement Orders/Regulations"
+ },
+ {
+  "id": "commencement-clauses",
+  "level": 4,
+  "title": "Commencement clauses"
+ },
+ {
+  "id": "example-31",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "this-order-regulation-may-be-cited-as-the-order-regulation-2",
+  "level": 5,
+  "title": "This Order [Regulation] may be cited as the .... Order [Regulation] 20.... and comes into force on .... 20.... ."
+ },
+ {
+  "id": "example-32",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "comes-into-force-on-the-day-or-the-fourteenth-day-after-the-",
+  "level": 5,
+  "title": ".... comes into force on the day (or the [fourteenth] day) after the day on which it is approved by resolution of each House of Parliament (or, of the House of Commons). Note: If the two Houses of Parliament pass affirmative resolutions on different days, the"
+ },
+ {
+  "id": "note-in-class-iv-negative-drafts-specify-a-calendar-date-of-",
+  "level": 5,
+  "title": "Note: In Class iv) negative drafts, specify a calendar date of coming into force in the"
+ },
+ {
+  "id": "example-33",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "comes-into-force-on-the-day-or-the-tenth-day-after-the-day-o",
+  "level": 5,
+  "title": ".... comes into force on the day (or, the [tenth] day) after the day on which it is made. or .... comes into force forthwith."
+ },
+ {
+  "id": "example-34",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "articles-1-and-2-of-this-order-come-into-force-on-25th-march",
+  "level": 5,
+  "title": "Articles 1 and 2 of this Order come into force on 25th March 2006 and all other articles come into force on 1st July 2006. or .... comes into force for the purposes of articles 7 and 9 on 25th March 2006 and for all other purposes on 1st July 2006."
+ },
+ {
+  "id": "example-35",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "this-order-these-regulation-may-be-cited-as-the-order-regula",
+  "level": 5,
+  "title": "This Order [These Regulation] may be cited as the …… Order [Regulations] 20.. and comes [come] into force at [time] on ………20….. ."
+ },
+ {
+  "id": "example-36",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "comes-into-force-on-20-but-order-regulation-5-shall-have-eff",
+  "level": 5,
+  "title": ".... comes into force on .... 20.... but [Order/Regulation 5] shall have effect from .... 20... ."
+ },
+ {
+  "id": "example-37",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "comes-into-force-on-20-and-shall-cease-to-have-effect-on-20",
+  "level": 5,
+  "title": ".... comes into force on .... 20.... and shall cease to have effect on .... 20... ."
+ },
+ {
+  "id": "3-13-extent-and-application-provisions",
+  "level": 5,
+  "title": "3.13 Extent and application provisions"
+ },
+ {
+  "id": "3-14-revocations-and-amendments",
+  "level": 5,
+  "title": "3.14 Revocations and amendments"
+ },
+ {
+  "id": "amendment-revocation-lapse-and-expiry",
+  "level": 4,
+  "title": "Amendment, revocation, lapse and expiry"
+ },
+ {
+  "id": "3-15-references-to-legislation-and-command-papers",
+  "level": 5,
+  "title": "3.15 References to legislation and Command Papers"
+ },
+ {
+  "id": "section-133",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-134",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-135",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-136",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-137",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "3-16-references-to-amended-enactments-in-sis",
+  "level": 5,
+  "title": "3.16 References to amended enactments in SIs"
+ },
+ {
+  "id": "3-17-references-to-publications-documents-maps-and-plans",
+  "level": 5,
+  "title": "3.17 References to publications, documents, maps and plans"
+ },
+ {
+  "id": "references-to-external-publications",
+  "level": 4,
+  "title": "References to external publications"
+ },
+ {
+  "id": "note-the-scrutiny-or-parliamentary-committees-require-2-hard",
+  "level": 5,
+  "title": "Note: The scrutiny or Parliamentary committees require 2 hard copies of the referenced"
+ },
+ {
+  "id": "references-to-documents-maps-and-plans",
+  "level": 4,
+  "title": "References to documents, maps and plans"
+ },
+ {
+  "id": "dates-and-ordinals",
+  "level": 4,
+  "title": "Dates and ordinals"
+ },
+ {
+  "id": "3-18-references-to-eu-instruments",
+  "level": 5,
+  "title": "3.18 References to EU instruments"
+ },
+ {
+  "id": "3-19-explanatory-parentheses-for-references",
+  "level": 5,
+  "title": "3.19 Explanatory parentheses for references"
+ },
+ {
+  "id": "example-38",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "section-2-1-of-the-conservation-of-seals-act-1970-which-esta",
+  "level": 5,
+  "title": ".... section 2(1) of the Conservation of Seals Act 1970 (which establishes an annual close season for grey seals) ...."
+ },
+ {
+  "id": "3-20-signatures-including-multiple-signatures-and-date-of-ma",
+  "level": 5,
+  "title": "3.20 Signatures (including multiple signatures and date of making)"
+ },
+ {
+  "id": "example-39",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "signature-of-orders-in-council",
+  "level": 4,
+  "title": "Signature of Orders in Council"
+ },
+ {
+  "id": "form-of-signature",
+  "level": 4,
+  "title": "Form of signature"
+ },
+ {
+  "id": "section-138",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-139",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-140",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-141",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-142",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "3-21-footnotes",
+  "level": 5,
+  "title": "3.21 Footnotes"
+ },
+ {
+  "id": "introduction-to-footnotes",
+  "level": 4,
+  "title": "Introduction to footnotes"
+ },
+ {
+  "id": "footnotes-versus-table-notes",
+  "level": 4,
+  "title": "Footnotes versus table notes"
+ },
+ {
+  "id": "form-of-footnotes",
+  "level": 4,
+  "title": "Form of footnotes"
+ },
+ {
+  "id": "table-g-footnotes-relating-to-legislative-instruments",
+  "level": 4,
+  "title": "Table G – Footnotes relating to legislative instruments"
+ },
+ {
+  "id": "legislation-type-citation-example",
+  "level": 5,
+  "title": "Legislation Type Citation Example"
+ },
+ {
+  "id": "public-general-acts-and-measures",
+  "level": 5,
+  "title": "Public General Acts and Measures"
+ },
+ {
+  "id": "local-and-personal-acts",
+  "level": 5,
+  "title": "Local and Personal Acts"
+ },
+ {
+  "id": "subordinate-legislation-2",
+  "level": 5,
+  "title": "Subordinate legislation"
+ },
+ {
+  "id": "footnotes-relating-to-enabling-powers",
+  "level": 4,
+  "title": "Footnotes relating to enabling powers"
+ },
+ {
+  "id": "footnotes-relating-to-acts-and-measures",
+  "level": 4,
+  "title": "Footnotes relating to Acts and Measures"
+ },
+ {
+  "id": "example-40",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "example-41",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "example-42",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "note-in-example-a-above-omit-the-reference-to-the-amending-s",
+  "level": 5,
+  "title": "Note: In example a) above, omit the reference to the amending section if the section"
+ },
+ {
+  "id": "footnotes-relating-to-subordinate-sis",
+  "level": 4,
+  "title": "Footnotes relating to subordinate SIs"
+ },
+ {
+  "id": "example-43",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "example-44",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "note-example-a-is-appropriate-where-all-the-amendments-are-r",
+  "level": 5,
+  "title": "Note: Example a) is appropriate where all the amendments are relevant to the SI where"
+ },
+ {
+  "id": "footnotes-in-explanatory-notes",
+  "level": 4,
+  "title": "Footnotes in Explanatory Notes"
+ },
+ {
+  "id": "footnotes-to-collective-titles",
+  "level": 4,
+  "title": "Footnotes to collective titles"
+ },
+ {
+  "id": "footnotes-in-northern-ireland-orders-in-council",
+  "level": 4,
+  "title": "Footnotes in Northern Ireland Orders in Council"
+ },
+ {
+  "id": "footnotes-relating-to-prerogative-instruments",
+  "level": 4,
+  "title": "Footnotes relating to prerogative instruments"
+ },
+ {
+  "id": "footnotes-relating-to-eu-legislation",
+  "level": 4,
+  "title": "Footnotes relating to EU Legislation"
+ },
+ {
+  "id": "example-45",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "section-143",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-144",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-145",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-146",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-147",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-148",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-149",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-150",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "example-46",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "commission-regulation-eu-no-xxx-yyyy-on-the-eradication-of-s",
+  "level": 5,
+  "title": "… Commission Regulation (EU) No. xxx/yyyy on the eradication of salmonella"
+ },
+ {
+  "id": "3-22-schedules-and-shoulder-notes",
+  "level": 5,
+  "title": "3.22 Schedules and shoulder notes"
+ },
+ {
+  "id": "3-23-explanatory-notes",
+  "level": 5,
+  "title": "3.23 Explanatory Notes"
+ },
+ {
+  "id": "example-47",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "scope-of-explanatory-notes",
+  "level": 4,
+  "title": "Scope of Explanatory Notes"
+ },
+ {
+  "id": "section-151",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-152",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-153",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-154",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "note-in-paragraph-4-of-the-special-report-from-the-joint-com",
+  "level": 5,
+  "title": "Note: In paragraph 4 of the special report from the Joint Committee on Statutory"
+ },
+ {
+  "id": "explanatory-notes-for-sis-increasing-fees-or-charges",
+  "level": 4,
+  "title": "Explanatory Notes for SIs increasing fees or charges"
+ },
+ {
+  "id": "explanatory-notes-for-commencement-orders-regulations",
+  "level": 4,
+  "title": "Explanatory Notes for commencement Orders/Regulations"
+ },
+ {
+  "id": "example-48",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "this-order-regulation-brings-into-force-on-20-all-the-provis",
+  "level": 5,
+  "title": "This Order/Regulation brings into force on........ 20... all the provisions of the....... Act 20... excepting section 3 (which relates to ...) and section 7 (which relates to ....). or"
+ },
+ {
+  "id": "this-order-regulation-brings-into-force-on-20-those-provisio",
+  "level": 5,
+  "title": "This Order/Regulation brings into force on..... 20... those provisions of the...... Act 20... which are not already in force."
+ },
+ {
+  "id": "drafting-explanatory-notes",
+  "level": 4,
+  "title": "Drafting Explanatory Notes"
+ },
+ {
+  "id": "section-155",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-156",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-157",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "example-49",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "this-order-amends-or-this-order-re-enacts-or-consolidates-th",
+  "level": 5,
+  "title": "This Order amends.... or This Order re-enacts (or consolidates) the..... with only drafting (or minor and drafting) amendments. or This Order re-enacts (or consolidates) the..... with amendments (or modifications). In addition to drafting (or minor and drafting) amendments, it makes the"
+ },
+ {
+  "id": "following-changes-of-substance",
+  "level": 5,
+  "title": "following changes of substance...."
+ },
+ {
+  "id": "scope-of-impact-assessments",
+  "level": 4,
+  "title": "Scope of Impact Assessments"
+ },
+ {
+  "id": "example-50",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "a-full-impact-assessment-of-the-effect-that-this-instrument-",
+  "level": 5,
+  "title": "A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector is available from…"
+ },
+ {
+  "id": "example-51",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "a-full-impact-assessment-has-not-been-produced-for-this-inst",
+  "level": 5,
+  "title": "A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen."
+ },
+ {
+  "id": "3-24-notes-as-to-earlier-commencement-orders-regulations",
+  "level": 5,
+  "title": "3.24 Notes as to earlier Commencement Orders/Regulations"
+ },
+ {
+  "id": "example-52",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "note-as-to-earlier-commencement-orders-regulations",
+  "level": 5,
+  "title": "NOTE AS TO EARLIER COMMENCEMENT [ORDERS / REGULATIONS]"
+ },
+ {
+  "id": "example-53",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "the-following-provisions-of-the-act-have-been-brought-into-f",
+  "level": 5,
+  "title": "The following provisions of the Act have been brought into force in England and Wales by……….."
+ },
+ {
+  "id": "3-25-sis-resulting-from-membership-of-the-european-union",
+  "level": 5,
+  "title": "3.25 SIs resulting from membership of the European Union"
+ },
+ {
+  "id": "scope-of-section-2-of-the-european-communities-act-1972",
+  "level": 4,
+  "title": "Scope of Section 2 of the European Communities Act 1972"
+ },
+ {
+  "id": "titles-of-sis-resulting-from-eu-membership",
+  "level": 4,
+  "title": "Titles of SIs resulting from EU membership"
+ },
+ {
+  "id": "section-158",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-159",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-160",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-161",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "ambulatory-references",
+  "level": 4,
+  "title": "Ambulatory references"
+ },
+ {
+  "id": "identifying-eu-obligations-in-the-explanatory-note",
+  "level": 4,
+  "title": "Identifying EU obligations in the Explanatory Note"
+ },
+ {
+  "id": "sis-partly-implementing-eu-obligations",
+  "level": 4,
+  "title": "SIs partly implementing EU obligations"
+ },
+ {
+  "id": "notifying-transposition-of-eu-legislation",
+  "level": 4,
+  "title": "Notifying transposition of EU legislation"
+ },
+ {
+  "id": "part-4-registration-laying-and-publishing",
+  "level": 2,
+  "title": "PART 4: REGISTRATION, LAYING AND PUBLISHING"
+ },
+ {
+  "id": "4-validation-registration-publishing",
+  "level": 5,
+  "title": "4. VALIDATION, REGISTRATION, PUBLISHING"
+ },
+ {
+  "id": "4-1-what-this-part-of-the-guide-covers",
+  "level": 5,
+  "title": "4.1 What this part of the guide covers"
+ },
+ {
+  "id": "4-2-legislation-gov-uk-publishing",
+  "level": 5,
+  "title": "4.2 Legislation.gov.uk Publishing"
+ },
+ {
+  "id": "the-legislation-gov-uk-publishing-service",
+  "level": 4,
+  "title": "The legislation.gov.uk Publishing service"
+ },
+ {
+  "id": "section-162",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-163",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-164",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-165",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-166",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-167",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-168",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "requesting-a-user-account-for-legislation-gov-uk-publishing-",
+  "level": 4,
+  "title": "Requesting a user account for legislation.gov.uk Publishing or requesting a password reset"
+ },
+ {
+  "id": "section-169",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "personalising-legislation-gov-uk-publishing",
+  "level": 4,
+  "title": "Personalising Legislation.gov.uk Publishing"
+ },
+ {
+  "id": "ensuring-the-certified-copy-of-the-si-is-the-version-that-is",
+  "level": 4,
+  "title": "Ensuring the certified copy of the SI is the version that is registered, laid and published"
+ },
+ {
+  "id": "legislation-gov-uk-publishing-developments",
+  "level": 4,
+  "title": "Legislation.gov.uk Publishing developments"
+ },
+ {
+  "id": "4-3-templates-for-sis-and-associated-documents",
+  "level": 5,
+  "title": "4.3 Templates for SIs and associated documents"
+ },
+ {
+  "id": "section-170",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-171",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-172",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "the-si-template",
+  "level": 4,
+  "title": "The SI template"
+ },
+ {
+  "id": "section-173",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "using-the-si-template-to-include-forms-maps-drawings-and-oth",
+  "level": 4,
+  "title": "Using the SI template to include forms, maps, drawings and other images"
+ },
+ {
+  "id": "si-template-guidance-and-training",
+  "level": 4,
+  "title": "SI template guidance and training"
+ },
+ {
+  "id": "publishing-sis-that-have-not-been-created-using-the-si-templ",
+  "level": 4,
+  "title": "Publishing SIs that have not been created using the SI template"
+ },
+ {
+  "id": "section-174",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "the-explanatory-memorandum-template",
+  "level": 4,
+  "title": "The Explanatory Memorandum template"
+ },
+ {
+  "id": "section-175",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "note-unlike-the-si-template-there-is-no-validation-service-f",
+  "level": 5,
+  "title": "Note: Unlike the SI template, there is no validation service for EMs."
+ },
+ {
+  "id": "the-impact-assessment-template",
+  "level": 4,
+  "title": "The Impact Assessment template"
+ },
+ {
+  "id": "section-176",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "note-the-ia-template-is-not-validated-through-the-legislatio",
+  "level": 5,
+  "title": "Note: The IA template is not validated through the legislation.gov.uk Publishing service."
+ },
+ {
+  "id": "4-4-si-template-and-validation-service",
+  "level": 5,
+  "title": "4.4 SI template and validation service"
+ },
+ {
+  "id": "using-the-validation-service",
+  "level": 4,
+  "title": "Using the Validation service"
+ },
+ {
+  "id": "section-177",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "validation-during-the-drafting-process",
+  "level": 4,
+  "title": "Validation during the drafting process"
+ },
+ {
+  "id": "validation-during-submission",
+  "level": 4,
+  "title": "Validation during submission"
+ },
+ {
+  "id": "invalid-documents-and-error-reports",
+  "level": 4,
+  "title": "Invalid documents and error reports"
+ },
+ {
+  "id": "section-178",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "note-an-si-can-pass-validation-but-may-still-contain-warning",
+  "level": 5,
+  "title": "Note: An SI can pass validation but may still contain warnings which you should review"
+ },
+ {
+  "id": "4-5-registration-service",
+  "level": 5,
+  "title": "4.5 Registration service"
+ },
+ {
+  "id": "requesting-advanced-numbers",
+  "level": 4,
+  "title": "Requesting advanced numbers"
+ },
+ {
+  "id": "about-si-registration",
+  "level": 4,
+  "title": "About SI registration"
+ },
+ {
+  "id": "section-179",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-180",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-181",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-182",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-183",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "step-1-bundle-selection",
+  "level": 4,
+  "title": "Step 1: Bundle selection"
+ },
+ {
+  "id": "section-184",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-185",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-186",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-187",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-188",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "note-you-can-abandon-a-bundle-at-any-point-in-the-submission",
+  "level": 5,
+  "title": "Note: You can abandon a bundle at any point in the submission process, by clicking on"
+ },
+ {
+  "id": "step-2-upload-documents",
+  "level": 4,
+  "title": "Step 2: Upload documents"
+ },
+ {
+  "id": "submitting-shared-ems",
+  "level": 4,
+  "title": "Submitting shared EMs"
+ },
+ {
+  "id": "requesting-urgent-registration-or-expedited-publication",
+  "level": 4,
+  "title": "Requesting urgent registration or expedited publication"
+ },
+ {
+  "id": "step-3-registration-information",
+  "level": 4,
+  "title": "Step 3: Registration information"
+ },
+ {
+  "id": "step-4-publishing-information",
+  "level": 4,
+  "title": "Step 4: Publishing information"
+ },
+ {
+  "id": "times-required-for-registration-producing-documents-for-layi",
+  "level": 4,
+  "title": "Times required for registration, producing documents for laying, and publishing online and in print (if required)"
+ },
+ {
+  "id": "table-h-lead-times-required-for-registration-publishing-and-",
+  "level": 4,
+  "title": "Table H – Lead times required for registration, publishing and print"
+ },
+ {
+  "id": "registration-publishing-online-print-total-time-required",
+  "level": 5,
+  "title": "Registration Publishing online Print Total time required"
+ },
+ {
+  "id": "valid-si-template-file",
+  "level": 5,
+  "title": "Valid SI template file"
+ },
+ {
+  "id": "invalid-si-template-file",
+  "level": 5,
+  "title": "Invalid SI template file"
+ },
+ {
+  "id": "local-print",
+  "level": 5,
+  "title": "Local print"
+ },
+ {
+  "id": "local-non-print",
+  "level": 5,
+  "title": "Local non print"
+ },
+ {
+  "id": "step-5-review-documents-and-information",
+  "level": 4,
+  "title": "Step 5: Review documents and information"
+ },
+ {
+  "id": "intervention-policy-post-registration",
+  "level": 4,
+  "title": "Intervention policy post-registration"
+ },
+ {
+  "id": "tracking-progress-of-your-bundles-in-legislation-gov-uk-publ",
+  "level": 4,
+  "title": "Tracking progress of your bundles in legislation.gov.uk Publishing"
+ },
+ {
+  "id": "4-6-checks-carried-out-at-registration",
+  "level": 5,
+  "title": "4.6 Checks carried out at registration"
+ },
+ {
+  "id": "table-i-automated-si-registration-checks",
+  "level": 4,
+  "title": "Table I – Automated SI Registration Checks"
+ },
+ {
+  "id": "automated-registration-checks",
+  "level": 5,
+  "title": "Automated registration checks"
+ },
+ {
+  "id": "table-j-manual-si-registration-checks",
+  "level": 4,
+  "title": "Table J – Manual SI Registration Checks"
+ },
+ {
+  "id": "manual-checks-carried-out-by-si-registrar",
+  "level": 5,
+  "title": "Manual checks carried out by SI Registrar"
+ },
+ {
+  "id": "si-bundle-checks",
+  "level": 5,
+  "title": "SI & Bundle Checks"
+ },
+ {
+  "id": "subject-heading-checks",
+  "level": 5,
+  "title": "Subject Heading Checks"
+ },
+ {
+  "id": "enabling-power-checks",
+  "level": 5,
+  "title": "Enabling Power Checks"
+ },
+ {
+  "id": "footnote-checks",
+  "level": 5,
+  "title": "Footnote Checks"
+ },
+ {
+  "id": "schedule-checks",
+  "level": 5,
+  "title": "Schedule Checks"
+ },
+ {
+  "id": "table-k-additional-si-registration-checks-for-draft-sis",
+  "level": 4,
+  "title": "Table K – Additional SI Registration Checks for draft SIs"
+ },
+ {
+  "id": "for-draft-sis-there-are-some-additional-checks",
+  "level": 5,
+  "title": "For draft SIs there are some additional checks"
+ },
+ {
+  "id": "4-7-correcting-errors-after-submission-through-legislation-g",
+  "level": 5,
+  "title": "4.7 Correcting errors after submission through legislation.gov.uk Publishing"
+ },
+ {
+  "id": "what-can-be-corrected-and-how",
+  "level": 4,
+  "title": "What can be corrected, and how"
+ },
+ {
+  "id": "section-189",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-190",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-191",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-192",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-193",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-194",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-195",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-196",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-197",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-198",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-199",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "using-sis-to-introduce-new-provisions-when-correcting-a-defe",
+  "level": 4,
+  "title": "Using SIs to introduce new provisions when correcting a defective SI"
+ },
+ {
+  "id": "what-to-do-if-you-believe-you-have-submitted-the-wrong-si-do",
+  "level": 4,
+  "title": "What to do if you believe you have submitted the wrong SI document"
+ },
+ {
+  "id": "section-200",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-201",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-202",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-203",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-204",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "what-to-do-if-you-have-submitted-an-si-document-that-the-min",
+  "level": 4,
+  "title": "What to do if you have submitted an SI document that the Minister signed but it contains a mistake"
+ },
+ {
+  "id": "section-205",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-206",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-207",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "4-8-laying",
+  "level": 5,
+  "title": "4.8 Laying"
+ },
+ {
+  "id": "what-constitutes-laying",
+  "level": 4,
+  "title": "What constitutes laying"
+ },
+ {
+  "id": "laying-before-the-house-of-lords",
+  "level": 4,
+  "title": "Laying before the House of Lords"
+ },
+ {
+  "id": "time-at-which-papers-may-be-deposited-in-printed-paper-offic",
+  "level": 5,
+  "title": "Time at which papers may be deposited in Printed Paper Office"
+ },
+ {
+  "id": "days-when-papers-may-be-laid-earliest-latest",
+  "level": 5,
+  "title": "Days when papers may be laid Earliest Latest"
+ },
+ {
+  "id": "laying-before-the-house-of-commons",
+  "level": 4,
+  "title": "Laying before the House of Commons"
+ },
+ {
+  "id": "days-when-papers-may-be-laid-time-when-papers-may-be-laid",
+  "level": 5,
+  "title": "Days when papers may be laid: Time when papers may be laid:"
+ },
+ {
+  "id": "note-neither-house-office-can-accept-draft-sis-including-pub",
+  "level": 5,
+  "title": "Note: Neither House Office can accept draft SIs (including Public Bodies Orders and"
+ },
+ {
+  "id": "documents-laid-only-on-sitting-days",
+  "level": 4,
+  "title": "Documents laid only on sitting days"
+ },
+ {
+  "id": "documents-that-can-be-laid-on-non-sitting-days",
+  "level": 4,
+  "title": "Documents that can be laid on non-sitting days"
+ },
+ {
+  "id": "copies-for-laying",
+  "level": 4,
+  "title": "Copies for laying"
+ },
+ {
+  "id": "laying-procedure",
+  "level": 4,
+  "title": "Laying procedure"
+ },
+ {
+  "id": "notice-of-laying",
+  "level": 4,
+  "title": "Notice of laying"
+ },
+ {
+  "id": "4-9-date-of-laying",
+  "level": 5,
+  "title": "4.9 Date of laying"
+ },
+ {
+  "id": "the-relevant-rules-for-date-of-laying",
+  "level": 4,
+  "title": "The relevant rules for date of laying"
+ },
+ {
+  "id": "laying-before-commencement",
+  "level": 4,
+  "title": "Laying before commencement"
+ },
+ {
+  "id": "laying-after-commencement",
+  "level": 4,
+  "title": "Laying after commencement"
+ },
+ {
+  "id": "exceptions",
+  "level": 4,
+  "title": "Exceptions"
+ },
+ {
+  "id": "4-10-laying-and-the-printing-programme",
+  "level": 5,
+  "title": "4.10 Laying and the printing programme"
+ },
+ {
+  "id": "4-11-laying-sis-and-associated-documents",
+  "level": 5,
+  "title": "4.11 Laying SIs and associated documents"
+ },
+ {
+  "id": "copies-for-parliament",
+  "level": 4,
+  "title": "Copies for Parliament"
+ },
+ {
+  "id": "table-l-copies-of-instruments-and-drafts-for-members-of-parl",
+  "level": 4,
+  "title": "Table L – Copies of instruments and drafts for Members of Parliament"
+ },
+ {
+  "id": "house-of-commons-vote-office",
+  "level": 5,
+  "title": "House of Commons Vote Office"
+ },
+ {
+  "id": "sis-laid",
+  "level": 5,
+  "title": "SIs laid"
+ },
+ {
+  "id": "draft-sis-laid",
+  "level": 5,
+  "title": "Draft SIs laid"
+ },
+ {
+  "id": "4-12-publishing-of-sis-and-associated-documents",
+  "level": 5,
+  "title": "4.12 Publishing of SIs and Associated Documents"
+ },
+ {
+  "id": "publishing-on-legislation-gov-uk",
+  "level": 4,
+  "title": "Publishing on legislation.gov.uk"
+ },
+ {
+  "id": "the-daily-statutory-instrument-issue-list",
+  "level": 4,
+  "title": "The daily Statutory Instrument Issue List"
+ },
+ {
+  "id": "4-13-withdrawing-sis",
+  "level": 5,
+  "title": "4.13 Withdrawing SIs"
+ },
+ {
+  "id": "withdrawing-an-si-after-laying",
+  "level": 4,
+  "title": "Withdrawing an SI after laying"
+ },
+ {
+  "id": "withdrawing-an-si-after-publishing",
+  "level": 4,
+  "title": "Withdrawing an SI after publishing"
+ },
+ {
+  "id": "the-impact-assessment-manager-tool-for-better-regulation-uni",
+  "level": 4,
+  "title": "The Impact Assessment Manager Tool for Better Regulation Units"
+ },
+ {
+  "id": "section-208",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-209",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-210",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-211",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-212",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "4-14-exemptions-from-the-requirement-to-print",
+  "level": 5,
+  "title": "4.14 Exemptions from the requirement to print"
+ },
+ {
+  "id": "part-5-scrutiny-committees",
+  "level": 2,
+  "title": "PART 5: SCRUTINY COMMITTEES"
+ },
+ {
+  "id": "5-scrutiny-via-parliamentary-committees",
+  "level": 5,
+  "title": "5. SCRUTINY VIA PARLIAMENTARY COMMITTEES"
+ },
+ {
+  "id": "5-1-what-this-part-of-the-guide-covers",
+  "level": 5,
+  "title": "5.1 What this part of the guide covers"
+ },
+ {
+  "id": "section-213",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-214",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-215",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-216",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-217",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-218",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "section-219",
+  "level": 4,
+  "title": "●"
+ },
+ {
+  "id": "5-2-the-joint-committee-on-statutory-instruments-jcsi-and-th",
+  "level": 5,
+  "title": "5.2 The Joint Committee on Statutory Instruments (JCSI) and the Select Committee on Statutory Instruments (SCSI)"
+ },
+ {
+  "id": "introduction-to-the-jcsi",
+  "level": 4,
+  "title": "Introduction to the JCSI"
+ },
+ {
+  "id": "the-role-of-the-jcsi",
+  "level": 4,
+  "title": "The role of the JCSI"
+ },
+ {
+  "id": "contacting-the-jcsi",
+  "level": 4,
+  "title": "Contacting the JCSI"
+ },
+ {
+  "id": "the-select-committee-on-statutory-instruments-scsi",
+  "level": 4,
+  "title": "The Select Committee on Statutory Instruments (SCSI)"
+ },
+ {
+  "id": "contacting-the-scsi",
+  "level": 4,
+  "title": "Contacting the SCSI"
+ },
+ {
+  "id": "papers-for-the-jcsi-and-scsi",
+  "level": 4,
+  "title": "Papers for the JCSI and SCSI"
+ },
+ {
+  "id": "what-the-jcsi-and-scsi-want-to-see-in-an-explanatory-memoran",
+  "level": 4,
+  "title": "What the JCSI and SCSI want to see in an Explanatory Memorandum"
+ },
+ {
+  "id": "witnesses-before-the-jcsi-and-the-scsi",
+  "level": 4,
+  "title": "Witnesses before the JCSI and the SCSI"
+ },
+ {
+  "id": "reports-and-minutes-from-the-jcsi-or-scsi",
+  "level": 4,
+  "title": "Reports and minutes from the JCSI or SCSI"
+ },
+ {
+  "id": "reports-and-the-moving-of-resolutions",
+  "level": 4,
+  "title": "Reports and the moving of resolutions"
+ },
+ {
+  "id": "informal-review-of-sis-by-the-jcsi-or-scsi-prior-to-clearanc",
+  "level": 4,
+  "title": "Informal review of SIs by the JCSI or SCSI, prior to clearance of affirmatives"
+ },
+ {
+  "id": "5-3-the-secondary-legislation-scrutiny-committee",
+  "level": 5,
+  "title": "5.3 The Secondary Legislation Scrutiny Committee"
+ },
+ {
+  "id": "the-role-of-the-secondary-legislation-scrutiny-committee-sls",
+  "level": 4,
+  "title": "The role of the Secondary Legislation Scrutiny Committee (SLSC)"
+ },
+ {
+  "id": "slsc-reports",
+  "level": 4,
+  "title": "SLSC reports"
+ },
+ {
+  "id": "contacting-the-secondary-legislation-scrutiny-committee",
+  "level": 4,
+  "title": "Contacting the Secondary Legislation Scrutiny Committee"
+ },
+ {
+  "id": "5-4-the-hybrid-instruments-committee",
+  "level": 5,
+  "title": "5.4 The Hybrid Instruments Committee"
+ },
+ {
+  "id": "the-role-and-membership-of-the-hybrid-instruments-committee",
+  "level": 4,
+  "title": "The role and membership of the Hybrid Instruments Committee"
+ },
+ {
+  "id": "what-is-a-hybrid-si",
+  "level": 4,
+  "title": "What is a hybrid SI?"
+ },
+ {
+  "id": "contacting-the-hybrid-instruments-committee",
+  "level": 4,
+  "title": "Contacting the Hybrid Instruments Committee"
+ },
+ {
+  "id": "5-5-the-house-of-lords-delegated-powers-and-regulatory-refor",
+  "level": 5,
+  "title": "5.5 The House of Lords Delegated Powers and Regulatory Reform Committee and the House of Commons Regulatory Reform Committee"
+ },
+ {
+  "id": "contacting-the-delegated-powers-and-regulatory-reform-commit",
+  "level": 4,
+  "title": "Contacting the Delegated Powers and Regulatory Reform Committee and the House of Commons Regulatory Reform Committee"
+ },
+ {
+  "id": "5-6-the-statutory-instruments-reference-committee",
+  "level": 5,
+  "title": "5.6 The Statutory Instruments Reference Committee"
+ },
+ {
+  "id": "constitution-of-the-statutory-instruments-reference-committe",
+  "level": 4,
+  "title": "Constitution of the Statutory Instruments Reference Committee"
+ },
+ {
+  "id": "index",
+  "level": 5,
+  "title": "Index"
+ },
+ {
+  "id": "2",
+  "level": 5,
+  "title": "2"
+ },
+ {
+  "id": "a",
+  "level": 5,
+  "title": "A"
+ },
+ {
+  "id": "b",
+  "level": 5,
+  "title": "B"
+ },
+ {
+  "id": "c",
+  "level": 5,
+  "title": "C"
+ },
+ {
+  "id": "d",
+  "level": 5,
+  "title": "D"
+ },
+ {
+  "id": "e",
+  "level": 5,
+  "title": "E"
+ },
+ {
+  "id": "f",
+  "level": 5,
+  "title": "F"
+ },
+ {
+  "id": "g",
+  "level": 5,
+  "title": "G"
+ },
+ {
+  "id": "h",
+  "level": 5,
+  "title": "H"
+ },
+ {
+  "id": "i",
+  "level": 5,
+  "title": "I"
+ },
+ {
+  "id": "j",
+  "level": 5,
+  "title": "J"
+ },
+ {
+  "id": "l",
+  "level": 5,
+  "title": "L"
+ },
+ {
+  "id": "m",
+  "level": 5,
+  "title": "M"
+ },
+ {
+  "id": "n",
+  "level": 5,
+  "title": "N"
+ },
+ {
+  "id": "o",
+  "level": 5,
+  "title": "O"
+ },
+ {
+  "id": "p",
+  "level": 5,
+  "title": "P"
+ },
+ {
+  "id": "q",
+  "level": 5,
+  "title": "Q"
+ },
+ {
+  "id": "r",
+  "level": 5,
+  "title": "R"
+ },
+ {
+  "id": "s",
+  "level": 5,
+  "title": "S"
+ },
+ {
+  "id": "t",
+  "level": 5,
+  "title": "T"
+ },
+ {
+  "id": "u",
+  "level": 5,
+  "title": "U"
+ },
+ {
+  "id": "v",
+  "level": 5,
+  "title": "V"
+ },
+ {
+  "id": "w",
+  "level": 5,
+  "title": "W"
+ }
+]

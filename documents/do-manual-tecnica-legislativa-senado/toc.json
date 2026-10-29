@@ -1,0 +1,2862 @@
+[
+ {
+  "id": "congreso-nacional-senado-de-la-republica-dominicana",
+  "level": 2,
+  "title": "CONGRESO NACIONAL SENADO DE LA REPUBLICA DOMINICANA"
+ },
+ {
+  "id": "manual-de-tecnica-legislativa-del-congreso-nacional",
+  "level": 2,
+  "title": "MANUAL DE TECNICA LEGISLATIVA DEL CONGRESO NACIONAL"
+ },
+ {
+  "id": "manual-de-técnica-legislativa-del-congreso-nacional",
+  "level": 5,
+  "title": "MANUAL DE TÉCNICA LEGISLATIVA DEL CONGRESO NACIONAL"
+ },
+ {
+  "id": "índice",
+  "level": 3,
+  "title": "Índice"
+ },
+ {
+  "id": "4-disposiciones-para-la-elaboración-y-redacción-de-las-leyes",
+  "level": 5,
+  "title": "4.- DISPOSICIONES PARA LA ELABORACIÓN Y REDACCIÓN DE LAS LEYES"
+ },
+ {
+  "id": "7-la-lógica-de-los-sistemas-normativos-escritura-de-una-ley-",
+  "level": 5,
+  "title": "7.- La lógica de los sistemas normativos. Escritura de una Ley o Resolución. ........... 163"
+ },
+ {
+  "id": "7-1-3-las-soluciones-en-cada-contradicción-por-mal-uso-de-lo",
+  "level": 5,
+  "title": "7.1.3.- Las soluciones en cada contradicción por mal uso de los operadores lógicos .... 165"
+ },
+ {
+  "id": "1-introducción",
+  "level": 2,
+  "title": "1.-Introducción"
+ },
+ {
+  "id": "2-antecedentes",
+  "level": 2,
+  "title": "2.- Antecedentes."
+ },
+ {
+  "id": "3-glosario-de-términos",
+  "level": 2,
+  "title": "3.- Glosario de Términos."
+ },
+ {
+  "id": "las-resoluciones-pueden-ser",
+  "level": 5,
+  "title": "Las resoluciones pueden ser:"
+ },
+ {
+  "id": "3-1-fundamento-constitucional-de-la-facultad-legislativa-del",
+  "level": 3,
+  "title": "3.1.- Fundamento Constitucional de la facultad legislativa del Congreso Nacional"
+ },
+ {
+  "id": "3-1-1-iniciativa-legislativa",
+  "level": 3,
+  "title": "3.1.1.- INICIATIVA LEGISLATIVA"
+ },
+ {
+  "id": "3-1-2-ambito-de-competencias-legislativas",
+  "level": 3,
+  "title": "3.1.2.- AMBITO DE COMPETENCIAS LEGISLATIVAS"
+ },
+ {
+  "id": "b-asuntos-de-competencia-compartida-entre-el-poder-ejecutivo",
+  "level": 5,
+  "title": "b. Asuntos de competencia compartida entre el Poder Ejecutivo y el Senado:"
+ },
+ {
+  "id": "c-asuntos-de-competencia-compartida-entre-el-poder-ejecutivo",
+  "level": 5,
+  "title": "c. Asuntos de competencia compartida entre el Poder Ejecutivo y ambas"
+ },
+ {
+  "id": "d-asuntos-de-competencia-compartida-pero-cuya-iniciativa-es-",
+  "level": 5,
+  "title": "d. Asuntos de competencia compartida pero cuya iniciativa es privilegiada al"
+ },
+ {
+  "id": "g-asuntos-de-competencia-exclusiva-de-la-cámara-de-diputados",
+  "level": 5,
+  "title": "g. Asuntos de competencia exclusiva de la Cámara de Diputados: Art. 26"
+ },
+ {
+  "id": "textos-constitucionales-sobre-competencias-del-congreso5",
+  "level": 5,
+  "title": "Textos constitucionales sobre competencias del Congreso5:"
+ },
+ {
+  "id": "artículo-55-incisos",
+  "level": 5,
+  "title": "Artículo 55, incisos:"
+ },
+ {
+  "id": "4-disposiciones-para-la-elaboración-y-redacción-de-las-leyes-2",
+  "level": 3,
+  "title": "4.- DISPOSICIONES PARA LA ELABORACIÓN Y REDACCIÓN DE LAS LEYES."
+ },
+ {
+  "id": "4-0-etapas-en-la-elaboración-de-un-proyecto-de-ley",
+  "level": 4,
+  "title": "4.0.- ETAPAS EN LA ELABORACIÓN DE UN PROYECTO DE LEY"
+ },
+ {
+  "id": "4-0-1-primera-etapa-comprensión-general-del-tema",
+  "level": 4,
+  "title": "4.0.1.- Primera etapa: comprensión general del tema"
+ },
+ {
+  "id": "4-0-2-segunda-etapa-investigación-de-antecedentes",
+  "level": 4,
+  "title": "4.0.2.- Segunda etapa: investigación de antecedentes"
+ },
+ {
+  "id": "los-antecedentes-que-deben-investigarse-son",
+  "level": 5,
+  "title": "Los antecedentes que deben investigarse son:"
+ },
+ {
+  "id": "4-0-3-tercera-etapa-análisis-de-impacto",
+  "level": 4,
+  "title": "4.0.3.- Tercera etapa: análisis de impacto"
+ },
+ {
+  "id": "4-0-4-cuarta-etapa-estructura-del-proyecto",
+  "level": 4,
+  "title": "4.0.4.- Cuarta etapa: estructura del proyecto"
+ },
+ {
+  "id": "4-0-5-quinta-etapa-redacción-del-proyecto",
+  "level": 4,
+  "title": "4.0.5.- Quinta etapa: redacción del proyecto"
+ },
+ {
+  "id": "4-0-6-sexta-etapa-revisión-del-proyecto",
+  "level": 4,
+  "title": "4.0.6.- Sexta etapa: revisión del proyecto"
+ },
+ {
+  "id": "4-0-7-séptima-etapa-seguimiento-del-proyecto-en-su-trámite",
+  "level": 4,
+  "title": "4.0.7.- Séptima etapa. Seguimiento del proyecto en su trámite"
+ },
+ {
+  "id": "4-1-reglas-de-técnica-legislativa",
+  "level": 4,
+  "title": "4.1.- REGLAS DE TÉCNICA LEGISLATIVA"
+ },
+ {
+  "id": "4-1-1-estructura-de-un-texto-normativo",
+  "level": 4,
+  "title": "4.1.1.- ESTRUCTURA DE UN TEXTO NORMATIVO"
+ },
+ {
+  "id": "4-1-1-1-encabezado",
+  "level": 4,
+  "title": "4.1.1.1.- Encabezado."
+ },
+ {
+  "id": "el-congreso-nacional-en-nombre-de-la-república",
+  "level": 4,
+  "title": "“El Congreso Nacional. En nombre de la República”."
+ },
+ {
+  "id": "ejemplo-1",
+  "level": 4,
+  "title": "Ejemplo 1:"
+ },
+ {
+  "id": "el-congreso-nacional",
+  "level": 2,
+  "title": "El Congreso Nacional."
+ },
+ {
+  "id": "en-nombre-de-la-república",
+  "level": 3,
+  "title": "En nombre de la República."
+ },
+ {
+  "id": "ley-sobre-sistema-dominicano-de-seguridad-social",
+  "level": 4,
+  "title": "Ley sobre Sistema Dominicano de Seguridad Social."
+ },
+ {
+  "id": "4-1-1-2-título",
+  "level": 4,
+  "title": "4.1.1.2.- Título"
+ },
+ {
+  "id": "ejemplo-ii",
+  "level": 5,
+  "title": "Ejemplo II"
+ },
+ {
+  "id": "ley-de-fomento-al-desarrollo-turístico-para-los-polos-de-esc",
+  "level": 5,
+  "title": "Ley de Fomento al Desarrollo Turístico para los Polos de Escaso Desarrollo y Nuevos Polos en Provincias y Localidades de Gran Potencialidad"
+ },
+ {
+  "id": "disposiciones-iniciales",
+  "level": 5,
+  "title": "Disposiciones Iniciales"
+ },
+ {
+  "id": "ejemplo-iii",
+  "level": 5,
+  "title": "Ejemplo III"
+ },
+ {
+  "id": "modificaciones-sustituciones-y-agregados",
+  "level": 5,
+  "title": "Modificaciones, sustituciones y agregados"
+ },
+ {
+  "id": "4-1-1-3-los-considerandos",
+  "level": 4,
+  "title": "4.1.1.3.- Los Considerandos."
+ },
+ {
+  "id": "ejemplo-iv-7",
+  "level": 5,
+  "title": "Ejemplo IV:7"
+ },
+ {
+  "id": "el-congreso-nacional-en-nombre-de-la-república-ley-no-87-01-",
+  "level": 4,
+  "title": "EL CONGRESO NACIONAL En Nombre de la República Ley No. 87-01 que crea el Sistema Dominicano de Seguridad Social."
+ },
+ {
+  "id": "se-aconseja-numerar-los-considerandos-para-su-fácil-identifi",
+  "level": 4,
+  "title": "Se aconseja numerar los considerandos para su fácil identificación como se indica en el ejemplo siguiente:"
+ },
+ {
+  "id": "ejemplo-v",
+  "level": 5,
+  "title": "Ejemplo V:"
+ },
+ {
+  "id": "4-1-1-4-los-vistos",
+  "level": 4,
+  "title": "4.1.1.4.- Los Vistos."
+ },
+ {
+  "id": "ejemplo-vi-8",
+  "level": 5,
+  "title": "Ejemplo VI:8"
+ },
+ {
+  "id": "tomado-del-proyecto-de-ley-de-delitos-de-alta-tecnología",
+  "level": 4,
+  "title": "Tomado del proyecto de ley de delitos de alta tecnología."
+ },
+ {
+  "id": "el-oden-correcto-del-ejemplo-anterior-manteniendo-la-jerarqu",
+  "level": 4,
+  "title": "El oden correcto del ejemplo anterior, manteniendo la Jerarquía de las norms y dentro de ella la cronología:"
+ },
+ {
+  "id": "ejemplo-vii-9",
+  "level": 5,
+  "title": "Ejemplo VII 9"
+ },
+ {
+  "id": "tomado-del-proyecto-de-ley-de-delitos-de-alta-tecnología-2",
+  "level": 4,
+  "title": "Tomado del proyecto de ley de delitos de alta tecnología."
+ },
+ {
+  "id": "otra-forma-de-elaborar-los-vistos-es-agrupándolos-por-jerarq",
+  "level": 4,
+  "title": "Otra forma de elaborar los Vistos, es agrupándolos por jerarquía de normas y dentro de ella ordenándola por cronología. En el ejemplo siguiente, las categorías no son limitativas. Pueden incluirse otras como instrumentos internacionales, resoluciones, ordenanzas, entre otros."
+ },
+ {
+  "id": "ejemplo-viii-10",
+  "level": 5,
+  "title": "Ejemplo VIII:10"
+ },
+ {
+  "id": "tomado-del-proyecto-de-ley-mediante-el-cual-se-establece-com",
+  "level": 4,
+  "title": "Tomado del Proyecto de ley mediante el cual se establece como demarcación turística prioritaria, el llamado Polo Área Turística de la Región Suroeste, en las provincias Barahona, Bahoruco, Independencia y Pedernales."
+ },
+ {
+  "id": "vistas-las-leyes",
+  "level": 5,
+  "title": "VISTAS LAS LEYES:"
+ },
+ {
+  "id": "vistos-los-decretos",
+  "level": 5,
+  "title": "VISTOS LOS DECRETOS:"
+ },
+ {
+  "id": "4-1-1-5-parte-normativa-estructura-de-la-parte-normativa",
+  "level": 4,
+  "title": "4.1.1.5.-PARTE NORMATIVA. Estructura de la parte normativa"
+ },
+ {
+  "id": "ordenamiento-temático-o-de-contenido",
+  "level": 4,
+  "title": "Ordenamiento temático o de contenido"
+ },
+ {
+  "id": "otras-reglas-a-observar",
+  "level": 4,
+  "title": "Otras reglas a observar:"
+ },
+ {
+  "id": "1-1-disposiciones-iniciales-las-definiciones",
+  "level": 4,
+  "title": "1.1) Disposiciones Iniciales: Las Definiciones."
+ },
+ {
+  "id": "tomado-de-la-ley-general-de-las-telecomunicaciones-no-153-98",
+  "level": 5,
+  "title": "Tomado de la Ley General de las Telecomunicaciones No. 153-98"
+ },
+ {
+  "id": "1-2-disposiciones-iniciales",
+  "level": 3,
+  "title": "1.2) Disposiciones iniciales:"
+ },
+ {
+  "id": "en-el-ejemplo-siguiente-el-ámbito-de-aplicación-material-est",
+  "level": 4,
+  "title": "En el ejemplo siguiente, el ámbito de aplicación material está definido en los artículos 1 y 3 cuando delimita el objeto y alcance de la legislación."
+ },
+ {
+  "id": "ejemplo-xi12",
+  "level": 5,
+  "title": "Ejemplo XI12"
+ },
+ {
+  "id": "ha-dado-la-siguiente-ley",
+  "level": 4,
+  "title": "HA DADO LA SIGUIENTE LEY:"
+ },
+ {
+  "id": "titulo-i",
+  "level": 5,
+  "title": "TITULO I"
+ },
+ {
+  "id": "consideraciones-generales",
+  "level": 5,
+  "title": "CONSIDERACIONES GENERALES"
+ },
+ {
+  "id": "capitulo-i",
+  "level": 5,
+  "title": "CAPITULO I"
+ },
+ {
+  "id": "del-objeto-y-alcance-de-la-ley",
+  "level": 5,
+  "title": "DEL OBJETO Y ALCANCE DE LA LEY"
+ },
+ {
+  "id": "capitulo-ii",
+  "level": 5,
+  "title": "CAPITULO II"
+ },
+ {
+  "id": "principios-y-fines-de-la-educacion-dominicana",
+  "level": 5,
+  "title": "PRINCIPIOS Y FINES DE LA EDUCACION DOMINICANA"
+ },
+ {
+  "id": "ambito-de-aplicación-personal",
+  "level": 4,
+  "title": "Ambito de aplicación personal"
+ },
+ {
+  "id": "el-ámbito-de-aplicación-personal-se-refiere-a-los-sujetos-a-",
+  "level": 4,
+  "title": "El ámbito de aplicación personal se refiere a los sujetos a quiénes comprende el proyecto de ley, es decir a los destinatarios específicos de sus normas, sin que ello obste al respeto general de la ley."
+ },
+ {
+  "id": "tomado-de-la-ley-no-13-2000-que-modifica-la-ley-n-3455-de-or",
+  "level": 5,
+  "title": "Tomado de la ley No. 13-2000 que modifica la ley N 3455 de Organización Municipal"
+ },
+ {
+  "id": "artículo-1-se-modifica-la-ley-3455-de-organización-municipal",
+  "level": 5,
+  "title": "Artículo 1. Se modifica la ley 3455, de Organización Municipal, de fecha 21 de diciembre de 1952, para incluir, en su artìculo 5 un segundo párrafo que rece: “PARRAFO II.- En la boleta electoral municipal de todos los partidos deberà incluirse una mujer en los puestos de síndico/a o vice sìndico/a ”"
+ },
+ {
+  "id": "2-disposiciones-generales-el-texto-normativo-se-ordena-de-lo",
+  "level": 4,
+  "title": "2) Disposiciones Generales El texto normativo se ordena de lo general a lo particular."
+ },
+ {
+  "id": "3-disposiciones-especiales",
+  "level": 4,
+  "title": "3) Disposiciones Especiales"
+ },
+ {
+  "id": "en-nuestro-contexto-jurídico-las-disposiciones-de-sustentaci",
+  "level": 4,
+  "title": "En nuestro contexto jurídico las disposiciones de sustentación económica adquieren especial relevancia pues en virtud del mandato de la Constitución de la República, toda ley debe contener las fuentes de sustentación de los fondos que demande su implementación. Nuestra Carta Magna dispone:"
+ },
+ {
+  "id": "art-115-párrafo-i-no-tendrá-efecto-ni-validez-ninguna-ley-qu",
+  "level": 4,
+  "title": "“Art.115, Párrafo I.- No tendrá efecto ni validez ninguna ley que ordene o autorice un pago o engendre una obligación pecuniaria a cargo del Estado, sino cuando esa misma ley cree fondos especiales para su ejecución o disponga que el pago se haga de las entradas calculadas del año y de éstas quede en el momento de la publicación de la ley, una proporción disponible suficiente para hacerlo”."
+ },
+ {
+  "id": "ejemplo-xiv-tomado-de-la-ley-66-97-ley-general-de-educación",
+  "level": 5,
+  "title": "Ejemplo XIV Tomado de la Ley 66-97, Ley General de Educación:"
+ },
+ {
+  "id": "titulo-x",
+  "level": 5,
+  "title": "TITULO X"
+ },
+ {
+  "id": "financiamiento-de-la-educacion",
+  "level": 5,
+  "title": "FINANCIAMIENTO DE LA EDUCACION"
+ },
+ {
+  "id": "capitulo-i-2",
+  "level": 5,
+  "title": "CAPITULO I"
+ },
+ {
+  "id": "del-financiamiento-de-la-educacion",
+  "level": 5,
+  "title": "DEL FINANCIAMIENTO DE LA EDUCACION"
+ },
+ {
+  "id": "4-disposiciones-orgánicas",
+  "level": 4,
+  "title": "4) Disposiciones orgánicas."
+ },
+ {
+  "id": "se-entiende-por-disposiciones-orgánicas-aquellas-mediante-la",
+  "level": 4,
+  "title": "Se entiende por disposiciones orgánicas aquellas mediante las cuales se determina la creación de órganos y se describen las funciones de los mismos, o se atribuyen nuevas funciones a los órganos ya existentes. Este tipo de disposiciones deben ubicarse antes del procedimiento que se les establezca."
+ },
+ {
+  "id": "titulo-iv",
+  "level": 5,
+  "title": "TITULO IV"
+ },
+ {
+  "id": "gobierno-del-sistema-educativo",
+  "level": 5,
+  "title": "GOBIERNO DEL SISTEMA EDUCATIVO"
+ },
+ {
+  "id": "capitulo-i-3",
+  "level": 5,
+  "title": "CAPITULO I"
+ },
+ {
+  "id": "estructura-organizativa",
+  "level": 5,
+  "title": "ESTRUCTURA ORGANIZATIVA"
+ },
+ {
+  "id": "de-la-secretaria-de-estado",
+  "level": 5,
+  "title": "DE LA SECRETARIA DE ESTADO"
+ },
+ {
+  "id": "de-educacion-y-cultura",
+  "level": 5,
+  "title": "DE EDUCACION Y CULTURA"
+ },
+ {
+  "id": "5-disposiciones-procedimentales",
+  "level": 3,
+  "title": "5) Disposiciones Procedimentales."
+ },
+ {
+  "id": "son-aquellas-que-definen-procedimientos-de-ejecución-las-dis",
+  "level": 4,
+  "title": "Son aquellas que definen procedimientos de ejecución, Las disposiciones procedimentales deben describir el procedimiento secuencial o cronológicamente."
+ },
+ {
+  "id": "titulo-xi",
+  "level": 5,
+  "title": "TITULO XI"
+ },
+ {
+  "id": "de-la-acreditacion-la-titulacion-y-el-reconocimiento-de-estu",
+  "level": 5,
+  "title": "DE LA ACREDITACION, LA TITULACION Y EL RECONOCIMIENTO DE ESTUDIOS"
+ },
+ {
+  "id": "capitulo-i-4",
+  "level": 5,
+  "title": "CAPITULO I"
+ },
+ {
+  "id": "reconocimiento-de-estudios",
+  "level": 5,
+  "title": "RECONOCIMIENTO DE ESTUDIOS"
+ },
+ {
+  "id": "ejemplo-xvi",
+  "level": 4,
+  "title": "Ejemplo XVI"
+ },
+ {
+  "id": "6-las-disposiciones-sobre-infracciones-y-sanciones",
+  "level": 3,
+  "title": "6) Las Disposiciones sobre Infracciones y Sanciones ."
+ },
+ {
+  "id": "la-norma-jurídica-debe-contemplar-las-consecuencias-directas",
+  "level": 4,
+  "title": "La norma jurídica debe contemplar las consecuencias directas de su incumplimiento, ya se trate de sanciones administrativas, penales o civiles."
+ },
+ {
+  "id": "cuando-las-disposiciones-sancionatorias-son-pocas-es-aconsej",
+  "level": 4,
+  "title": "Cuando las disposiciones sancionatorias son pocas es aconsejable ubicarlas como un artículo a continuación de la norma cuyo incumplimiento deviene en esa sanción."
+ },
+ {
+  "id": "ejemplo-xvii15-tomado-de-la-ley-no-19-00-que-regula-el-merca",
+  "level": 5,
+  "title": "Ejemplo XVII15 Tomado de la Ley No. 19-00 que regula el Mercado de Valores en la República"
+ },
+ {
+  "id": "titulo-iv-2",
+  "level": 5,
+  "title": "TITULO IV"
+ },
+ {
+  "id": "de-las-infracciones-y-sanciones-capitulo-i",
+  "level": 5,
+  "title": "DE LAS INFRACCIONES Y SANCIONES CAPITULO I"
+ },
+ {
+  "id": "de-las-sanciones-administrativas",
+  "level": 5,
+  "title": "DE LAS SANCIONES ADMINISTRATIVAS"
+ },
+ {
+  "id": "capitulo-ii-2",
+  "level": 5,
+  "title": "CAPITULO II"
+ },
+ {
+  "id": "de-las-sanciones-penales-y-civiles",
+  "level": 3,
+  "title": "DE LAS SANCIONES PENALES Y CIVILES"
+ },
+ {
+  "id": "7-disposiciones-finales",
+  "level": 3,
+  "title": "7) Disposiciones finales."
+ },
+ {
+  "id": "disposiciones-que-ordenan-la-reglamentación",
+  "level": 4,
+  "title": "Disposiciones que ordenan la reglamentación"
+ },
+ {
+  "id": "ejemplo-xviii-tomado-de-la-ley-66-97-ley-general-de-educació",
+  "level": 5,
+  "title": "Ejemplo XVIII Tomado de la Ley 66-97, Ley General de Educación:"
+ },
+ {
+  "id": "titulo-xii",
+  "level": 5,
+  "title": "TITULO XII"
+ },
+ {
+  "id": "capitulo-ii-3",
+  "level": 5,
+  "title": "CAPITULO II"
+ },
+ {
+  "id": "de-los-reglamentos",
+  "level": 5,
+  "title": "DE LOS REGLAMENTOS"
+ },
+ {
+  "id": "disposiciones-transitorias",
+  "level": 4,
+  "title": "Disposiciones transitorias"
+ },
+ {
+  "id": "ejemplo-xix-tomado-de-la-ley-66-97-ley-general-de-educación",
+  "level": 5,
+  "title": "Ejemplo XIX Tomado de la Ley 66-97, Ley General de Educación:"
+ },
+ {
+  "id": "capitulo-iv",
+  "level": 5,
+  "title": "CAPITULO IV"
+ },
+ {
+  "id": "disposiciones-transitorias-2",
+  "level": 5,
+  "title": "DISPOSICIONES TRANSITORIAS"
+ },
+ {
+  "id": "disposiciones-derogatorias",
+  "level": 4,
+  "title": "Disposiciones derogatorias"
+ },
+ {
+  "id": "ejemplo-xx-de-derogación16",
+  "level": 4,
+  "title": "Ejemplo XX, de derogación16"
+ },
+ {
+  "id": "tomado-de-la-ley-no-14-94-que-crea-el-código-para-la-protecc",
+  "level": 4,
+  "title": "Tomado de la Ley No.14-94 que crea el Código para la Protección de Niños, Niñas y Adolescentes."
+ },
+ {
+  "id": "disposiciones-de-entrada-en-vigencia-de-la-ley-ejemplo-xxi",
+  "level": 4,
+  "title": "Disposiciones de entrada en vigencia de la ley Ejemplo XXI"
+ },
+ {
+  "id": "las-dadas-de-la-cámara-de-diputados-del-senado-de-la-repúbli",
+  "level": 4,
+  "title": "Las Dadas de la Cámara de Diputados, del Senado de la República y del Poder Ejecutivo"
+ },
+ {
+  "id": "ejemplo-xxi17",
+  "level": 5,
+  "title": "Ejemplo XXI17"
+ },
+ {
+  "id": "rafaela-alburquerque",
+  "level": 5,
+  "title": "Rafaela Alburquerque"
+ },
+ {
+  "id": "hermes-juan-josé-ortiz-acevedo-rosa-francia-fadul-fadul",
+  "level": 5,
+  "title": "Hermes Juan José Ortiz Acevedo Rosa Francia Fadul Fadul"
+ },
+ {
+  "id": "andrés-bautista-garcía",
+  "level": 5,
+  "title": "Andrés Bautista García"
+ },
+ {
+  "id": "ramiro-espino-fermín-darío-ant-gómez-martínez",
+  "level": 5,
+  "title": "Ramiro Espino Fermín Darío Ant. Gómez Martínez"
+ },
+ {
+  "id": "dada-del-poder-ejecutivo",
+  "level": 4,
+  "title": "Dada del Poder Ejecutivo"
+ },
+ {
+  "id": "4-1-6-anexos",
+  "level": 4,
+  "title": "4.1.6 Anexos:"
+ },
+ {
+  "id": "características-de-los-anexos",
+  "level": 4,
+  "title": "Características de los anexos"
+ },
+ {
+  "id": "por-ejemplo-la-ley-de-áreas-protegidas-establece-que-los-map",
+  "level": 4,
+  "title": "Por ejemplo. La Ley de Áreas Protegidas establece que los mapas anexos van a servir de base para la elaboración del Catastro Nacional de Área Protegidas establecido en dicha ley."
+ },
+ {
+  "id": "4-1-7-ordenamiento-sistemático",
+  "level": 4,
+  "title": "4.1.7.- Ordenamiento sistemático."
+ },
+ {
+  "id": "orden-sistemático-de-la-ley-de-gastos-públicos",
+  "level": 4,
+  "title": "Orden sistemático de la Ley de Gastos Públicos"
+ },
+ {
+  "id": "ejemplos-de-ordenamiento",
+  "level": 4,
+  "title": "Ejemplos de ordenamiento"
+ },
+ {
+  "id": "1-la-ley-no-87-01-sobre-el-sistema-dominicano-de-seguridad-s",
+  "level": 4,
+  "title": "1.- La ley No. 87-01 Sobre el Sistema Dominicano de Seguridad Social, está agrupada de la siguiente forma:"
+ },
+ {
+  "id": "libros-capítulos-artículos-párrafos-incisos",
+  "level": 4,
+  "title": "Libros / Capítulos / artículos / párrafos / Incisos"
+ },
+ {
+  "id": "2-la-ley-139-01-de-educación-superior-ciencia-y-tecnología-e",
+  "level": 4,
+  "title": "2.- La ley 139-01 de Educación Superior, Ciencia y Tecnología, está agrupada de la siguiente forma."
+ },
+ {
+  "id": "capítulos-artículos-párrafos-incisos",
+  "level": 4,
+  "title": "Capítulos / artículos / párrafos / Incisos"
+ },
+ {
+  "id": "3-la-ley-no-942-de-organización-del-archivo-general-de-la-na",
+  "level": 4,
+  "title": "3.- La ley No. 942 de Organización del Archivo General de la Nación, solo tiene artículos."
+ },
+ {
+  "id": "artículos",
+  "level": 4,
+  "title": "Artículos"
+ },
+ {
+  "id": "4-la-ley-no-1494-que-instituye-la-jurisdicción-contencioso-a",
+  "level": 4,
+  "title": "4.- La ley No. 1494 que Instituye la Jurisdicción Contencioso-Administrativa, está agrupada de la siguiente forma:"
+ },
+ {
+  "id": "capítulos-artículos-incisos",
+  "level": 4,
+  "title": "Capítulos / artículos / Incisos"
+ },
+ {
+  "id": "5-los-códigos-tienen-en-la-mayoría-de-los-casos-esta-estruct",
+  "level": 4,
+  "title": "5.- Los códigos tienen en la mayoría de los casos esta estructura:"
+ },
+ {
+  "id": "libros-títulos-capítulos-secciones-artículos-párrafos-inciso",
+  "level": 4,
+  "title": "Libros / Títulos / Capítulos / Secciones /Artículos / Párrafos / Incisos"
+ },
+ {
+  "id": "4-1-7-1-términos-técnicos-del-ordenamiento",
+  "level": 4,
+  "title": "4.1.7.1.- Términos técnicos del ordenamiento"
+ },
+ {
+  "id": "título",
+  "level": 5,
+  "title": "Título:"
+ },
+ {
+  "id": "capítulo",
+  "level": 5,
+  "title": "Capítulo:"
+ },
+ {
+  "id": "libros-capítulos-artículos-párrafos-incisos-2",
+  "level": 4,
+  "title": "Libros / Capítulos / Artículos / Párrafos / Incisos"
+ },
+ {
+  "id": "párrafos",
+  "level": 5,
+  "title": "Párrafos"
+ },
+ {
+  "id": "incisos",
+  "level": 4,
+  "title": "Incisos"
+ },
+ {
+  "id": "libros-títulos-capítulos-secciones-artículos-párrafos-inciso-2",
+  "level": 4,
+  "title": "Libros / Títulos / Capítulos / Secciones /Artículos / Párrafos / Incisos"
+ },
+ {
+  "id": "párrafos-2",
+  "level": 5,
+  "title": "Párrafos"
+ },
+ {
+  "id": "ejemplo-de-la-estructura-de-un-código",
+  "level": 2,
+  "title": "Ejemplo de la Estructura de un Código"
+ },
+ {
+  "id": "ley-no-76-02-que-establece-el-código-procesal-penal-de-la-re",
+  "level": 3,
+  "title": "Ley No. 76-02 que establece el Código Procesal Penal de la República Dominicana"
+ },
+ {
+  "id": "el-congreso-nacional-en-nombre-de-la-república-2",
+  "level": 3,
+  "title": "EL CONGRESO NACIONAL En Nombre de la República"
+ },
+ {
+  "id": "ley-no-76-02",
+  "level": 3,
+  "title": "Ley No. 76-02"
+ },
+ {
+  "id": "ha-dado-la-siguiente-ley-2",
+  "level": 3,
+  "title": "HA DADO LA SIGUIENTE LEY:"
+ },
+ {
+  "id": "codigo-procesal-penal",
+  "level": 4,
+  "title": "CODIGO PROCESAL PENAL"
+ },
+ {
+  "id": "de-la-republica-dominicana",
+  "level": 3,
+  "title": "DE LA REPUBLICA DOMINICANA"
+ },
+ {
+  "id": "parte-general",
+  "level": 2,
+  "title": "PARTE GENERAL"
+ },
+ {
+  "id": "libro-i",
+  "level": 2,
+  "title": "LIBRO I"
+ },
+ {
+  "id": "disposiciones-generales",
+  "level": 5,
+  "title": "DISPOSICIONES GENERALES"
+ },
+ {
+  "id": "titulo-i-2",
+  "level": 3,
+  "title": "TITULO I"
+ },
+ {
+  "id": "principios-fundamentales",
+  "level": 5,
+  "title": "PRINCIPIOS FUNDAMENTALES"
+ },
+ {
+  "id": "titulo-ii",
+  "level": 5,
+  "title": "TITULO II"
+ },
+ {
+  "id": "acciones-que-nacen-de-los-hechos-punibles",
+  "level": 5,
+  "title": "ACCIONES QUE NACEN DE LOS HECHOS PUNIBLES"
+ },
+ {
+  "id": "capitulo-i-5",
+  "level": 5,
+  "title": "CAPITULO I"
+ },
+ {
+  "id": "la-accion-penal",
+  "level": 5,
+  "title": "LA ACCION PENAL"
+ },
+ {
+  "id": "seccion-i",
+  "level": 5,
+  "title": "SECCION I"
+ },
+ {
+  "id": "ejercicio-de-la-accion-penal",
+  "level": 5,
+  "title": "EJERCICIO DE LA ACCION PENAL"
+ },
+ {
+  "id": "seccion-ii",
+  "level": 3,
+  "title": "SECCION II"
+ },
+ {
+  "id": "criterios-de-oportunidad",
+  "level": 5,
+  "title": "CRITERIOS DE OPORTUNIDAD"
+ },
+ {
+  "id": "seccion-iii",
+  "level": 5,
+  "title": "SECCION III"
+ },
+ {
+  "id": "conciliacion",
+  "level": 5,
+  "title": "CONCILIACION"
+ },
+ {
+  "id": "seccion-iv",
+  "level": 3,
+  "title": "SECCION IV"
+ },
+ {
+  "id": "suspension-condicional-del-procedimiento",
+  "level": 5,
+  "title": "SUSPENSION CONDICIONAL DEL PROCEDIMIENTO"
+ },
+ {
+  "id": "seccion-v",
+  "level": 5,
+  "title": "SECCION V"
+ },
+ {
+  "id": "extincion-de-la-accion-penal",
+  "level": 5,
+  "title": "EXTINCION DE LA ACCION PENAL"
+ },
+ {
+  "id": "capitulo-ii-4",
+  "level": 5,
+  "title": "CAPITULO II"
+ },
+ {
+  "id": "ejercicio-y-regimen-de-la-accion-civil",
+  "level": 5,
+  "title": "EJERCICIO Y REGIMEN DE LA ACCION CIVIL"
+ },
+ {
+  "id": "capitulo-iii",
+  "level": 5,
+  "title": "CAPITULO III"
+ },
+ {
+  "id": "excepciones",
+  "level": 3,
+  "title": "EXCEPCIONES"
+ },
+ {
+  "id": "libro-ii",
+  "level": 2,
+  "title": "LIBRO II"
+ },
+ {
+  "id": "la-jurisdiccion-penal-y-los-sujetos-procesales",
+  "level": 5,
+  "title": "LA JURISDICCION PENAL Y LOS SUJETOS PROCESALES"
+ },
+ {
+  "id": "titulo-i-3",
+  "level": 5,
+  "title": "TITULO I"
+ },
+ {
+  "id": "la-jurisdiccion-penal",
+  "level": 5,
+  "title": "LA JURISDICCION PENAL"
+ },
+ {
+  "id": "capitulo-i-6",
+  "level": 5,
+  "title": "CAPITULO I"
+ },
+ {
+  "id": "jurisdiccion-y-competencia",
+  "level": 5,
+  "title": "JURISDICCION Y COMPETENCIA"
+ },
+ {
+  "id": "capitulo-ii-5",
+  "level": 5,
+  "title": "CAPITULO II"
+ },
+ {
+  "id": "tribunales-competentes",
+  "level": 5,
+  "title": "TRIBUNALES COMPETENTES"
+ },
+ {
+  "id": "titulo-ii-2",
+  "level": 5,
+  "title": "TITULO II"
+ },
+ {
+  "id": "victima-y-querellante",
+  "level": 5,
+  "title": "VICTIMA Y QUERELLANTE"
+ },
+ {
+  "id": "capitulo-i-7",
+  "level": 5,
+  "title": "CAPITULO I"
+ },
+ {
+  "id": "la-victima",
+  "level": 5,
+  "title": "LA VICTIMA"
+ },
+ {
+  "id": "capitulo-ii-6",
+  "level": 5,
+  "title": "CAPITULO II"
+ },
+ {
+  "id": "querellante",
+  "level": 5,
+  "title": "QUERELLANTE"
+ },
+ {
+  "id": "titulo-iii",
+  "level": 5,
+  "title": "TITULO III"
+ },
+ {
+  "id": "ministerio-público-y-organos-auxiliares",
+  "level": 5,
+  "title": "MINISTERIO PÚBLICO Y ORGANOS AUXILIARES"
+ },
+ {
+  "id": "capitulo-i-8",
+  "level": 3,
+  "title": "CAPITULO I"
+ },
+ {
+  "id": "ministerio-publico",
+  "level": 5,
+  "title": "MINISTERIO PUBLICO"
+ },
+ {
+  "id": "capitulo-ii-7",
+  "level": 5,
+  "title": "CAPITULO II"
+ },
+ {
+  "id": "los-organos-de-investigacion-y-auxiliares",
+  "level": 5,
+  "title": "LOS ORGANOS DE INVESTIGACION Y AUXILIARES"
+ },
+ {
+  "id": "titulo-iv-3",
+  "level": 5,
+  "title": "TITULO IV"
+ },
+ {
+  "id": "el-imputado",
+  "level": 3,
+  "title": "EL IMPUTADO"
+ },
+ {
+  "id": "capitulo-i-9",
+  "level": 5,
+  "title": "CAPITULO I"
+ },
+ {
+  "id": "normas-generales",
+  "level": 5,
+  "title": "NORMAS GENERALES"
+ },
+ {
+  "id": "capitulo-ii-8",
+  "level": 3,
+  "title": "CAPITULO II"
+ },
+ {
+  "id": "titulo-v",
+  "level": 5,
+  "title": "TITULO V"
+ },
+ {
+  "id": "la-defensa-tecnica",
+  "level": 5,
+  "title": "LA DEFENSA TECNICA"
+ },
+ {
+  "id": "titulo-vi",
+  "level": 5,
+  "title": "TITULO VI"
+ },
+ {
+  "id": "partes-civiles",
+  "level": 5,
+  "title": "PARTES CIVILES"
+ },
+ {
+  "id": "capitulo-i-10",
+  "level": 5,
+  "title": "CAPITULO I"
+ },
+ {
+  "id": "el-actor-civil",
+  "level": 5,
+  "title": "EL ACTOR CIVIL"
+ },
+ {
+  "id": "capitulo-ii-9",
+  "level": 5,
+  "title": "CAPITULO II"
+ },
+ {
+  "id": "titulo-vii",
+  "level": 5,
+  "title": "TITULO VII"
+ },
+ {
+  "id": "auxiliares-de-las-partes",
+  "level": 5,
+  "title": "AUXILIARES DE LAS PARTES"
+ },
+ {
+  "id": "titulo-viii",
+  "level": 5,
+  "title": "TITULO VIII"
+ },
+ {
+  "id": "obligaciones-de-las-partes",
+  "level": 5,
+  "title": "OBLIGACIONES DE LAS PARTES"
+ },
+ {
+  "id": "libro-iii",
+  "level": 2,
+  "title": "LIBRO III"
+ },
+ {
+  "id": "actividad-procesal",
+  "level": 5,
+  "title": "ACTIVIDAD PROCESAL"
+ },
+ {
+  "id": "titulo-único",
+  "level": 5,
+  "title": "TITULO ÚNICO"
+ },
+ {
+  "id": "actos-procesales",
+  "level": 5,
+  "title": "ACTOS PROCESALES"
+ },
+ {
+  "id": "capitulo-i-11",
+  "level": 5,
+  "title": "CAPITULO I"
+ },
+ {
+  "id": "actos-y-resoluciones",
+  "level": 5,
+  "title": "ACTOS Y RESOLUCIONES"
+ },
+ {
+  "id": "capitulo-ii-10",
+  "level": 5,
+  "title": "CAPITULO II"
+ },
+ {
+  "id": "plazos",
+  "level": 5,
+  "title": "PLAZOS"
+ },
+ {
+  "id": "capitulo-iii-2",
+  "level": 5,
+  "title": "CAPITULO III"
+ },
+ {
+  "id": "control-de-la-duracion-del-proceso",
+  "level": 5,
+  "title": "CONTROL DE LA DURACION DEL PROCESO"
+ },
+ {
+  "id": "capitulo-iv-2",
+  "level": 5,
+  "title": "CAPITULO IV"
+ },
+ {
+  "id": "cooperacion-judicial-internacional",
+  "level": 5,
+  "title": "COOPERACION JUDICIAL INTERNACIONAL"
+ },
+ {
+  "id": "libro-iv",
+  "level": 2,
+  "title": "LIBRO IV"
+ },
+ {
+  "id": "medios-de-prueba",
+  "level": 5,
+  "title": "MEDIOS DE PRUEBA"
+ },
+ {
+  "id": "titulo-i-4",
+  "level": 3,
+  "title": "TITULO I"
+ },
+ {
+  "id": "normas-generales-2",
+  "level": 5,
+  "title": "NORMAS GENERALES"
+ },
+ {
+  "id": "titulo-ii-3",
+  "level": 3,
+  "title": "TITULO II"
+ },
+ {
+  "id": "comprobacion-inmediata-y-medios-auxiliares",
+  "level": 5,
+  "title": "COMPROBACION INMEDIATA Y MEDIOS AUXILIARES"
+ },
+ {
+  "id": "titulo-iii-2",
+  "level": 5,
+  "title": "TITULO III"
+ },
+ {
+  "id": "testimonios",
+  "level": 3,
+  "title": "TESTIMONIOS"
+ },
+ {
+  "id": "titulo-iv-4",
+  "level": 5,
+  "title": "TITULO IV"
+ },
+ {
+  "id": "peritos",
+  "level": 5,
+  "title": "PERITOS"
+ },
+ {
+  "id": "titulo-v-2",
+  "level": 5,
+  "title": "TITULO V"
+ },
+ {
+  "id": "otros-medios-de-prueba",
+  "level": 5,
+  "title": "OTROS MEDIOS DE PRUEBA"
+ },
+ {
+  "id": "libro-v",
+  "level": 2,
+  "title": "LIBRO V"
+ },
+ {
+  "id": "medidas-de-coercion",
+  "level": 5,
+  "title": "MEDIDAS DE COERCION"
+ },
+ {
+  "id": "titulo-i-5",
+  "level": 5,
+  "title": "TITULO I"
+ },
+ {
+  "id": "normas-generales-3",
+  "level": 5,
+  "title": "NORMAS GENERALES"
+ },
+ {
+  "id": "titulo-ii-4",
+  "level": 5,
+  "title": "TITULO II"
+ },
+ {
+  "id": "medidas-de-coercion-personales",
+  "level": 5,
+  "title": "MEDIDAS DE COERCION PERSONALES"
+ },
+ {
+  "id": "capitulo-i-12",
+  "level": 5,
+  "title": "CAPITULO I"
+ },
+ {
+  "id": "arresto-y-conducencia",
+  "level": 5,
+  "title": "ARRESTO Y CONDUCENCIA"
+ },
+ {
+  "id": "capitulo-ii-11",
+  "level": 5,
+  "title": "CAPITULO II"
+ },
+ {
+  "id": "otras-medidas",
+  "level": 5,
+  "title": "OTRAS MEDIDAS"
+ },
+ {
+  "id": "capitulo-iii-3",
+  "level": 5,
+  "title": "CAPITULO III"
+ },
+ {
+  "id": "revision-de-las-medidas-de-coercion",
+  "level": 5,
+  "title": "REVISION DE LAS MEDIDAS DE COERCION"
+ },
+ {
+  "id": "titulo-iii-3",
+  "level": 5,
+  "title": "TITULO III"
+ },
+ {
+  "id": "medidas-de-coercion-reales",
+  "level": 5,
+  "title": "MEDIDAS DE COERCION REALES"
+ },
+ {
+  "id": "libro-vi",
+  "level": 2,
+  "title": "LIBRO VI"
+ },
+ {
+  "id": "costas-e-indemnizaciones",
+  "level": 5,
+  "title": "COSTAS E INDEMNIZACIONES"
+ },
+ {
+  "id": "titulo-i-6",
+  "level": 5,
+  "title": "TITULO I"
+ },
+ {
+  "id": "de-las-costas",
+  "level": 5,
+  "title": "DE LAS COSTAS"
+ },
+ {
+  "id": "titulo-ii-5",
+  "level": 5,
+  "title": "TITULO II"
+ },
+ {
+  "id": "de-la-indemnizacion-al-imputado",
+  "level": 5,
+  "title": "DE LA INDEMNIZACION AL IMPUTADO"
+ },
+ {
+  "id": "parte-especial",
+  "level": 2,
+  "title": "PARTE ESPECIAL"
+ },
+ {
+  "id": "libro-i-2",
+  "level": 2,
+  "title": "LIBRO I"
+ },
+ {
+  "id": "procedimiento-comun",
+  "level": 5,
+  "title": "PROCEDIMIENTO COMUN"
+ },
+ {
+  "id": "titulo-i-7",
+  "level": 5,
+  "title": "TITULO I"
+ },
+ {
+  "id": "procedimiento-preparatorio",
+  "level": 5,
+  "title": "PROCEDIMIENTO PREPARATORIO"
+ },
+ {
+  "id": "capitulo-i-13",
+  "level": 5,
+  "title": "CAPITULO I"
+ },
+ {
+  "id": "normas-generales-4",
+  "level": 5,
+  "title": "NORMAS GENERALES"
+ },
+ {
+  "id": "capitulo-ii-12",
+  "level": 5,
+  "title": "CAPITULO II"
+ },
+ {
+  "id": "actos-iniciales",
+  "level": 5,
+  "title": "ACTOS INICIALES"
+ },
+ {
+  "id": "seccion-i-2",
+  "level": 5,
+  "title": "SECCION I"
+ },
+ {
+  "id": "denuncia",
+  "level": 5,
+  "title": "DENUNCIA"
+ },
+ {
+  "id": "seccion-ii-2",
+  "level": 5,
+  "title": "SECCION II"
+ },
+ {
+  "id": "querella",
+  "level": 5,
+  "title": "QUERELLA"
+ },
+ {
+  "id": "seccion-iii-2",
+  "level": 5,
+  "title": "SECCION III"
+ },
+ {
+  "id": "intervencion-de-la-policia-judicial",
+  "level": 5,
+  "title": "INTERVENCION DE LA POLICIA JUDICIAL"
+ },
+ {
+  "id": "seccion-iv-2",
+  "level": 5,
+  "title": "SECCION IV"
+ },
+ {
+  "id": "investigacion-preliminar",
+  "level": 3,
+  "title": "INVESTIGACION PRELIMINAR"
+ },
+ {
+  "id": "capitulo-iii-4",
+  "level": 3,
+  "title": "CAPITULO III"
+ },
+ {
+  "id": "desarrollo-de-la-investigacion",
+  "level": 5,
+  "title": "DESARROLLO DE LA INVESTIGACION"
+ },
+ {
+  "id": "capitulo-iv-3",
+  "level": 5,
+  "title": "CAPITULO IV"
+ },
+ {
+  "id": "conclusion-del-procedimiento-preparatorio",
+  "level": 5,
+  "title": "CONCLUSION DEL PROCEDIMIENTO PREPARATORIO"
+ },
+ {
+  "id": "titulo-ii-6",
+  "level": 5,
+  "title": "TITULO II"
+ },
+ {
+  "id": "audiencia-preliminar",
+  "level": 3,
+  "title": "AUDIENCIA PRELIMINAR"
+ },
+ {
+  "id": "titulo-iii-4",
+  "level": 5,
+  "title": "TITULO III"
+ },
+ {
+  "id": "el-juicio",
+  "level": 5,
+  "title": "EL JUICIO"
+ },
+ {
+  "id": "capitulo-i-14",
+  "level": 5,
+  "title": "CAPITULO I"
+ },
+ {
+  "id": "preparacion-del-debate",
+  "level": 5,
+  "title": "PREPARACION DEL DEBATE"
+ },
+ {
+  "id": "capitulo-ii-13",
+  "level": 5,
+  "title": "CAPITULO II"
+ },
+ {
+  "id": "principios-generales-del-juicio",
+  "level": 5,
+  "title": "PRINCIPIOS GENERALES DEL JUICIO"
+ },
+ {
+  "id": "capitulo-iii-5",
+  "level": 5,
+  "title": "CAPITULO III"
+ },
+ {
+  "id": "de-la-sustanciacion-del-juicio",
+  "level": 5,
+  "title": "DE LA SUSTANCIACION DEL JUICIO"
+ },
+ {
+  "id": "seccion-i-3",
+  "level": 5,
+  "title": "SECCION I"
+ },
+ {
+  "id": "de-la-vista-de-la-causa",
+  "level": 5,
+  "title": "DE LA VISTA DE LA CAUSA"
+ },
+ {
+  "id": "seccion-ii-3",
+  "level": 5,
+  "title": "SECCION II"
+ },
+ {
+  "id": "de-la-deliberacion-y-la-sentencia",
+  "level": 5,
+  "title": "DE LA DELIBERACION Y LA SENTENCIA"
+ },
+ {
+  "id": "seccion-iv-3",
+  "level": 5,
+  "title": "SECCION IV"
+ },
+ {
+  "id": "libro-ii-2",
+  "level": 2,
+  "title": "LIBRO II"
+ },
+ {
+  "id": "procedimientos-especiales",
+  "level": 5,
+  "title": "PROCEDIMIENTOS ESPECIALES"
+ },
+ {
+  "id": "titulo-i-8",
+  "level": 5,
+  "title": "TITULO I"
+ },
+ {
+  "id": "procedimiento-por-contravenciones",
+  "level": 5,
+  "title": "PROCEDIMIENTO POR CONTRAVENCIONES"
+ },
+ {
+  "id": "titulo-ii-7",
+  "level": 5,
+  "title": "TITULO II"
+ },
+ {
+  "id": "procedimiento-para-infracciones-de-accion-privada",
+  "level": 5,
+  "title": "PROCEDIMIENTO PARA INFRACCIONES DE ACCION PRIVADA"
+ },
+ {
+  "id": "titulo-iii-5",
+  "level": 5,
+  "title": "TITULO III"
+ },
+ {
+  "id": "procedimiento-penal-abreviado",
+  "level": 5,
+  "title": "PROCEDIMIENTO PENAL ABREVIADO"
+ },
+ {
+  "id": "capitulo-i-15",
+  "level": 5,
+  "title": "CAPITULO I"
+ },
+ {
+  "id": "acuerdo-pleno",
+  "level": 5,
+  "title": "ACUERDO PLENO"
+ },
+ {
+  "id": "capitulo-ii-14",
+  "level": 5,
+  "title": "CAPITULO II"
+ },
+ {
+  "id": "acuerdo-parcial",
+  "level": 5,
+  "title": "ACUERDO PARCIAL"
+ },
+ {
+  "id": "titulo-iv-5",
+  "level": 5,
+  "title": "TITULO IV"
+ },
+ {
+  "id": "procedimiento-para-asuntos-complejos",
+  "level": 5,
+  "title": "PROCEDIMIENTO PARA ASUNTOS COMPLEJOS"
+ },
+ {
+  "id": "titulo-v-3",
+  "level": 5,
+  "title": "TITULO V"
+ },
+ {
+  "id": "procedimiento-para-inimputables",
+  "level": 5,
+  "title": "PROCEDIMIENTO PARA INIMPUTABLES"
+ },
+ {
+  "id": "titulo-vi-2",
+  "level": 5,
+  "title": "TITULO VI"
+ },
+ {
+  "id": "competencia-especial",
+  "level": 5,
+  "title": "COMPETENCIA ESPECIAL"
+ },
+ {
+  "id": "titulo-vii-2",
+  "level": 5,
+  "title": "TITULO VII"
+ },
+ {
+  "id": "el-habeas-corpus",
+  "level": 3,
+  "title": "EL HABEAS CORPUS"
+ },
+ {
+  "id": "libro-iii-2",
+  "level": 2,
+  "title": "LIBRO III"
+ },
+ {
+  "id": "de-los-recursos",
+  "level": 5,
+  "title": "DE LOS RECURSOS"
+ },
+ {
+  "id": "titulo-i-9",
+  "level": 3,
+  "title": "TITULO I"
+ },
+ {
+  "id": "disposiciones-generales-2",
+  "level": 5,
+  "title": "DISPOSICIONES GENERALES"
+ },
+ {
+  "id": "titulo-ii-8",
+  "level": 5,
+  "title": "TITULO II"
+ },
+ {
+  "id": "de-la-oposicion",
+  "level": 5,
+  "title": "DE LA OPOSICION"
+ },
+ {
+  "id": "titulo-iii-6",
+  "level": 3,
+  "title": "TITULO III"
+ },
+ {
+  "id": "de-la-apelacion",
+  "level": 5,
+  "title": "DE LA APELACION"
+ },
+ {
+  "id": "titulo-iv-6",
+  "level": 5,
+  "title": "TITULO IV"
+ },
+ {
+  "id": "apelacion-de-la-sentencia",
+  "level": 3,
+  "title": "APELACION DE LA SENTENCIA"
+ },
+ {
+  "id": "titulo-v-4",
+  "level": 5,
+  "title": "TITULO V"
+ },
+ {
+  "id": "de-la-casacion",
+  "level": 5,
+  "title": "DE LA CASACION"
+ },
+ {
+  "id": "titulo-vi-3",
+  "level": 5,
+  "title": "TITULO VI"
+ },
+ {
+  "id": "de-la-revision",
+  "level": 3,
+  "title": "DE LA REVISION"
+ },
+ {
+  "id": "libro-iv-2",
+  "level": 2,
+  "title": "LIBRO IV"
+ },
+ {
+  "id": "ejecucion",
+  "level": 5,
+  "title": "EJECUCION"
+ },
+ {
+  "id": "titulo-i-10",
+  "level": 5,
+  "title": "TITULO I"
+ },
+ {
+  "id": "ejecucion-penal",
+  "level": 5,
+  "title": "EJECUCION PENAL"
+ },
+ {
+  "id": "capitulo-i-16",
+  "level": 5,
+  "title": "CAPITULO I"
+ },
+ {
+  "id": "normas-generales-5",
+  "level": 5,
+  "title": "NORMAS GENERALES"
+ },
+ {
+  "id": "capitulo-ii-15",
+  "level": 5,
+  "title": "CAPITULO II"
+ },
+ {
+  "id": "procedimiento",
+  "level": 5,
+  "title": "PROCEDIMIENTO"
+ },
+ {
+  "id": "titulo-ii-9",
+  "level": 5,
+  "title": "TITULO II"
+ },
+ {
+  "id": "ejecucion-civil",
+  "level": 5,
+  "title": "EJECUCION CIVIL"
+ },
+ {
+  "id": "estructura-de-la-ley-de-gastos-públicos-la-estructura-de-la-",
+  "level": 3,
+  "title": "Estructura de la Ley de Gastos Públicos. La estructura de la ley de Gastos Públicos debe cumplir con lo establecido por la constitución de la República en el artículo 115:"
+ },
+ {
+  "id": "4-1-7-2-artículos",
+  "level": 4,
+  "title": "4.1.7.2 Artículos"
+ },
+ {
+  "id": "ejemplo-artículo-54-modalidades-de-pensión-al-momento-de-pen",
+  "level": 4,
+  "title": "Ejemplo: (\"Artículo 54.- Modalidades de Pensión. Al momento de pensionarse, el afiliado podrá elegir las siguientes....\")."
+ },
+ {
+  "id": "4-2-estructura-de-una-resolución",
+  "level": 3,
+  "title": "4.2 - Estructura de una Resolución"
+ },
+ {
+  "id": "los-reglamentos-de-las-cámaras-del-congreso-nacional-dispone",
+  "level": 4,
+  "title": "Los Reglamentos de las Cámaras del Congreso Nacional disponen que todo acuerdo de los plenos debe adoptar la forma de ley o resolución."
+ },
+ {
+  "id": "consuetudinariamente-las-resoluciones-de-las-cámaras-del-con",
+  "level": 4,
+  "title": "Consuetudinariamente las resoluciones de las Cámaras del Congreso Nacional, dependiendo del tipo de normativa que a través de ellas se sancionan, se clasifican como unicamerales y bicamerales."
+ },
+ {
+  "id": "cuestionarios-guia-para-el-analisis-de-los-proyectos-de-reso",
+  "level": 4,
+  "title": "CUESTIONARIOS GUIA PARA EL ANALISIS DE LOS PROYECTOS DE RESOLUCIONES"
+ },
+ {
+  "id": "es-fundamental-que-el-legislador-que-tiene-a-su-cargo-el-aná",
+  "level": 4,
+  "title": "Es fundamental que el legislador que tiene a su cargo el análisis de proyectos de resoluciones que pueden consistir en aprobación de tratados internacionales, de empréstito, contratos, concesiones u otros, indague con precisión sobre los mismos."
+ },
+ {
+  "id": "presentamos-tres-guías-de-análisis-a-través-de-las-que-el-le",
+  "level": 4,
+  "title": "Presentamos tres Guías de Análisis a través de las que el legislador, y en general el técnico u asesor legislativo, podrá apoyarse para realizar la revisión técnica y el estudio de esos instrumentos, así como del Proyecto de Ley de Presupuesto"
+ },
+ {
+  "id": "internacionales",
+  "level": 5,
+  "title": "INTERNACIONALES"
+ },
+ {
+  "id": "ámbito-de-aplicación",
+  "level": 5,
+  "title": "Ámbito de aplicación"
+ },
+ {
+  "id": "entrada-en-vigencia",
+  "level": 5,
+  "title": "Entrada en vigencia"
+ },
+ {
+  "id": "reservas",
+  "level": 5,
+  "title": "Reservas"
+ },
+ {
+  "id": "impacto-económico-y-social",
+  "level": 5,
+  "title": "Impacto económico y social"
+ },
+ {
+  "id": "económico-social",
+  "level": 5,
+  "title": "Económico Social"
+ },
+ {
+  "id": "impacto-ambiental",
+  "level": 5,
+  "title": "Impacto ambiental"
+ },
+ {
+  "id": "impacto-legal",
+  "level": 5,
+  "title": "Impacto legal"
+ },
+ {
+  "id": "solución-de-controversias",
+  "level": 3,
+  "title": "Solución de controversias"
+ },
+ {
+  "id": "enmiendas",
+  "level": 5,
+  "title": "Enmiendas"
+ },
+ {
+  "id": "2-guia-de-análisis-de-contratos-celebrados-por-el-estado",
+  "level": 4,
+  "title": "2. GUIA DE ANÁLISIS DE CONTRATOS CELEBRADOS POR EL ESTADO"
+ },
+ {
+  "id": "contrato-de-transferencia-de-inmuebles",
+  "level": 5,
+  "title": "Contrato de transferencia de inmuebles"
+ },
+ {
+  "id": "contrato-de-concesión-de-servicio-público-o-de-obra-pública",
+  "level": 5,
+  "title": "Contrato de concesión de servicio público o de obra pública"
+ },
+ {
+  "id": "impacto-económico-y-social-2",
+  "level": 5,
+  "title": "Impacto económico y social"
+ },
+ {
+  "id": "económico-social-2",
+  "level": 5,
+  "title": "Económico Social"
+ },
+ {
+  "id": "impacto-ambiental-2",
+  "level": 5,
+  "title": "Impacto ambiental"
+ },
+ {
+  "id": "gastos-publicos",
+  "level": 5,
+  "title": "GASTOS PUBLICOS"
+ },
+ {
+  "id": "ejemplo-21",
+  "level": 5,
+  "title": "Ejemplo 21"
+ },
+ {
+  "id": "tomado-de-la-resolución-aprobatoria-del-acuerdo-de-marrakech",
+  "level": 4,
+  "title": "Tomado de la Resolución aprobatoria del Acuerdo de Marrakech que establece la Organización Mundial de Comercio (OMC)-"
+ },
+ {
+  "id": "los-acuerdos-internacionales-se-presentan-en-forma-de-resolu",
+  "level": 4,
+  "title": "Los acuerdos internacionales se presentan en forma de resoluciones, tienen estructura variada, por ejemplo. El Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio, está estructurado de la siguiente forma:"
+ },
+ {
+  "id": "3-2-1-prefacio-donde-se-reconocen-los-textos-de-los-acuerdos",
+  "level": 4,
+  "title": "3.2.1.- Prefacio. Donde se reconocen los textos de los Acuerdos concluidos al término de la Ronda de Uruguay, en diciembre de 1993. Se reconocen además las decisiones conexas que se aprobaron al mismo tiempo y las adoptadas posteriormente en la Reunión Ministerial de Marrakech, en abril de 1994."
+ },
+ {
+  "id": "3-2-2-lista-de-abreviaturas-aquí-se-listan-las-abreviaturas-",
+  "level": 4,
+  "title": "3.2.2.- Lista de Abreviaturas.- Aquí se listan las abreviaturas más importantes del Acuerdo. Por ejemplo: OMC Acuerdo por el que se establece la Organización Mundial del Comercio. ADPIC Aspectos de los Derechos de Propiedad Intelectual relacionados con el Comercio. AFM Acuerdo relativo al Comercio Internacional de los Textiles."
+ },
+ {
+  "id": "3-2-3-declaración-de-marrakech-aquí-los-ministros-representa",
+  "level": 4,
+  "title": "3.2.3.- Declaración de Marrakech. Aquí los ministros representando a los 124 Gobiernos, y las Comunidades Europeas, participantes en la Ronda Uruguay de Negociaciones Comerciales Multilaterales, saludan el logro histórico que representa la conclusión de la Ronda, acogen el marco jurídico y la reducción global de los aranceles."
+ },
+ {
+  "id": "3-2-4-acta-final-aquí-aceptan-los-participantes-el-acuerdo-s",
+  "level": 4,
+  "title": "3.2.4.- Acta Final. Aquí aceptan los participantes el Acuerdo sobre la OMC."
+ },
+ {
+  "id": "3-2-5-acuerdo-de-marrakech-por-el-que-se-establece-la-organi",
+  "level": 3,
+  "title": "3.2.5.- Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio (OMC)."
+ },
+ {
+  "id": "3-2-6-lista-de-anexos",
+  "level": 4,
+  "title": "3.2. 6.- Lista de Anexos."
+ },
+ {
+  "id": "4-2-2",
+  "level": 4,
+  "title": "4.2.2.-."
+ },
+ {
+  "id": "tratado-de-libre-comercio-centroamérica-república-dominicana",
+  "level": 4,
+  "title": "Tratado de libre comercio Centroamérica - República Dominicana"
+ },
+ {
+  "id": "es-bueno-observar-que-la-naturaleza-de-los-actos-sometidos-a",
+  "level": 4,
+  "title": "Es bueno observar que la naturaleza de los actos sometidos a ratificación del Congreso Nacional por el Poder Ejecutivo está dada en función de su objeto, independientemente de cómo la titule su proponente. Por ejemplo, las denominadas “concesiones bajo sistema de administración” son en el fondo contratos que contienen disposiciones relativas a la afectación de las rentas nacionales y levantamientos de empréstitos, tal como lo define el inciso 10 del Art.55 de la Constitución de la República."
+ },
+ {
+  "id": "ejemplo-de-un-convenio-suscrito-entre-el-estado-dominicano-y",
+  "level": 3,
+  "title": "Ejemplo de un convenio suscrito entre el Estado Dominicano y Particulares."
+ },
+ {
+  "id": "representado-por-el-secretario-de-estado-de-obras-públicas-y",
+  "level": 5,
+  "title": "representado por el Secretario de Estado de Obras Públicas y Comunicaciones y la empresa Autopistas del Nordeste, C. por A., para la construcción de la carretera Santo Domingo-Rincón de Molinillos, bajo el sistema de administración del régimen"
+ },
+ {
+  "id": "el-congreso-nacional-en-nombre-de-la-república-3",
+  "level": 3,
+  "title": "EL CONGRESO NACIONAL En Nombre de la República"
+ },
+ {
+  "id": "res-no-37-02",
+  "level": 5,
+  "title": "Res. No. 37-02"
+ },
+ {
+  "id": "resuelve",
+  "level": 5,
+  "title": "RESUELVE:"
+ },
+ {
+  "id": "comunicaciones",
+  "level": 5,
+  "title": "COMUNICACIONES"
+ },
+ {
+  "id": "contenido-del-contrato",
+  "level": 5,
+  "title": "CONTENIDO DEL CONTRATO"
+ },
+ {
+  "id": "definiciones-y-conceptos",
+  "level": 5,
+  "title": "DEFINICIONES Y CONCEPTOS"
+ },
+ {
+  "id": "esquema-basico-para-la-ejecución-de-las-actividades-de",
+  "level": 5,
+  "title": "ESQUEMA BASICO PARA LA EJECUCIÓN DE LAS ACTIVIDADES DE"
+ },
+ {
+  "id": "31-reversión-y-entrega-final",
+  "level": 3,
+  "title": "31.-REVERSIÓN Y ENTREGA FINAL."
+ },
+ {
+  "id": "32-penalidades",
+  "level": 4,
+  "title": "32.-PENALIDADES"
+ },
+ {
+  "id": "32-1-multas",
+  "level": 4,
+  "title": "32.1.-MULTAS."
+ },
+ {
+  "id": "32-2-aplicación-de-las-multas-al-concesionario",
+  "level": 4,
+  "title": "32.2.-APLICACIÓN DE LAS MULTAS AL CONCESIONARIO."
+ },
+ {
+  "id": "capitulo-decimo-sexto",
+  "level": 4,
+  "title": "CAPITULO DECIMO SEXTO"
+ },
+ {
+  "id": "35-0-riesgos-del-contrato-asumidos-por-el-concedente",
+  "level": 4,
+  "title": "35.0.- RIESGOS DEL CONTRATO ASUMIDOS POR EL CONCEDENTE"
+ },
+ {
+  "id": "35-1-matriz-de-riesgos-del-contrato",
+  "level": 4,
+  "title": "35.1.- MATRIZ DE RIESGOS DEL CONTRATO."
+ },
+ {
+  "id": "capitulo-decimoseptimo-resolución-de-conflictos",
+  "level": 4,
+  "title": "CAPITULO DECIMOSEPTIMO RESOLUCIÓN DE CONFLICTOS"
+ },
+ {
+  "id": "36-0-resolución-de-conflictos",
+  "level": 4,
+  "title": "36.0.- RESOLUCIÓN DE CONFLICTOS."
+ },
+ {
+  "id": "37-0-entrada-en-vigor-del-presente-contrato",
+  "level": 4,
+  "title": "37.0.- Entrada En Vigor Del Presente Contrato."
+ },
+ {
+  "id": "capitulo-decimooctavo-declaraciones-de-las-partes",
+  "level": 5,
+  "title": "CAPITULO DECIMOOCTAVO DECLARACIONES DE LAS PARTES.-"
+ },
+ {
+  "id": "41-hallazgos-arqueológicos-tesoros-descubrimiento-de-minas-y",
+  "level": 3,
+  "title": "41.- Hallazgos Arqueológicos, Tesoros, Descubrimiento De Minas Y Yacimientos."
+ },
+ {
+  "id": "los-hallazgos-arqueológicos-tesoros-descubrimientos-de-minas",
+  "level": 4,
+  "title": "Los hallazgos arqueológicos, tesoros, descubrimientos de minas, yacimientos y afines que LA CONCESIONARIA realice en desarrollo del presente contrato serán de propiedad de la República Dominicana y su manejo serán propiedad de la República Dominicana de acuerdo con lo que indique su legislación."
+ },
+ {
+  "id": "42-idioma-del-contrato",
+  "level": 3,
+  "title": "42.- Idioma Del Contrato."
+ },
+ {
+  "id": "43-gastos-para-la-formalización-del-contrato",
+  "level": 3,
+  "title": "43.- Gastos para la formalización del contrato."
+ },
+ {
+  "id": "quedan-a-cargo-del-concesionario-todos-los-gastos-legales-im",
+  "level": 5,
+  "title": "Quedan a cargo del CONCESIONARIO todos los gastos legales (impuestos) que necesariamente haya que incurrir para la formalización definitiva del presente"
+ },
+ {
+  "id": "44-legislación-aplicable",
+  "level": 3,
+  "title": "44.-LEGISLACIÓN APLICABLE."
+ },
+ {
+  "id": "45-del-representante-del-poder-ejecutivo",
+  "level": 4,
+  "title": "45.- Del Representante Del Poder Ejecutivo."
+ },
+ {
+  "id": "46-notificaciones-elección-de-domicilio",
+  "level": 3,
+  "title": "46.- NOTIFICACIONES. ELECCIÓN DE DOMICILIO."
+ },
+ {
+  "id": "para-efectos-legales-y-del-presente-contrato-serán-domicilio",
+  "level": 4,
+  "title": "Para efectos legales y del presente contrato serán domicilios de LAS PARTES los siguientes:"
+ },
+ {
+  "id": "hipólito-mejía-presidente-de-la-república-dominicana",
+  "level": 2,
+  "title": "Hipólito Mejía Presidente de la República Dominicana"
+ },
+ {
+  "id": "quinientos-dieciseis-mil-quinientos-cuarenta-y-dos-dolares",
+  "level": 5,
+  "title": "QUINIENTOS DIECISEIS MIL QUINIENTOS CUARENTA Y DOS DOLARES"
+ },
+ {
+  "id": "dios-patria-y-libertad",
+  "level": 3,
+  "title": "DIOS, PATRIA Y LIBERTAD"
+ },
+ {
+  "id": "andrés-bautista-garcía-2",
+  "level": 5,
+  "title": "Andrés Bautista García"
+ },
+ {
+  "id": "ramiro-espino-fermín-julio-ant-gonzález-burell",
+  "level": 5,
+  "title": "Ramiro Espino Fermín Julio Ant. González Burell"
+ },
+ {
+  "id": "rafaela-alburquerque-2",
+  "level": 5,
+  "title": "Rafaela Alburquerque"
+ },
+ {
+  "id": "ambrosina-saviñón-cáceres-rafael-ángel-franjul-troncoso",
+  "level": 5,
+  "title": "Ambrosina Saviñón Cáceres Rafael Ángel Franjul Troncoso"
+ },
+ {
+  "id": "presidente-de-la-república-dominicana",
+  "level": 3,
+  "title": "Presidente de la República Dominicana"
+ },
+ {
+  "id": "hipolito-mejia",
+  "level": 5,
+  "title": "HIPOLITO MEJIA"
+ },
+ {
+  "id": "ejemplo-de-un-contrato-de-crédito-o-empréstito",
+  "level": 2,
+  "title": "Ejemplo de un Contrato de Crédito o Empréstito."
+ },
+ {
+  "id": "res-no-396-98-que-aprueba-el-contrato-de-crédito-suscrito-en",
+  "level": 5,
+  "title": "Res. No. 396-98 que aprueba el Contrato de Crédito suscrito entre el Gobierno Dominicano y el Nordic Development Fund (Fondo Nórdico de Desarrollo) ascendente"
+ },
+ {
+  "id": "el-congreso-nacional-2",
+  "level": 5,
+  "title": "EL CONGRESO NACIONAL"
+ },
+ {
+  "id": "en-nombre-de-la-república-2",
+  "level": 5,
+  "title": "En Nombre de la República"
+ },
+ {
+  "id": "res-no-396-98",
+  "level": 5,
+  "title": "Res. No. 396-98"
+ },
+ {
+  "id": "r-e-s-u-e-l-v-e",
+  "level": 5,
+  "title": "R E S U E L V E:"
+ },
+ {
+  "id": "ndf-credit-no-83",
+  "level": 5,
+  "title": "NDF CREDIT NO.83"
+ },
+ {
+  "id": "contrato-de-credito-entre",
+  "level": 5,
+  "title": "CONTRATO DE CREDITO ENTRE"
+ },
+ {
+  "id": "republica-domincana",
+  "level": 5,
+  "title": "REPUBLICA DOMINCANA"
+ },
+ {
+  "id": "y",
+  "level": 5,
+  "title": "Y"
+ },
+ {
+  "id": "nordic-development-fund",
+  "level": 5,
+  "title": "NORDIC DEVELOPMENT FUND"
+ },
+ {
+  "id": "fondo-de-desarrollo-nordico",
+  "level": 5,
+  "title": "(FONDO DE DESARROLLO NORDICO)"
+ },
+ {
+  "id": "sistema-scada-para-la-cde",
+  "level": 5,
+  "title": "SISTEMA SCADA PARA LA CDE"
+ },
+ {
+  "id": "fecha-sept-28-1993",
+  "level": 5,
+  "title": "FECHA SEPT. 28, 1993"
+ },
+ {
+  "id": "contenido",
+  "level": 5,
+  "title": "CONTENIDO"
+ },
+ {
+  "id": "descripcion-del-proyecto",
+  "level": 5,
+  "title": "DESCRIPCION DEL PROYECTO"
+ },
+ {
+  "id": "implementación",
+  "level": 5,
+  "title": "Implementación"
+ },
+ {
+  "id": "leonel-fernández",
+  "level": 5,
+  "title": "LEONEL FERNÁNDEZ"
+ },
+ {
+  "id": "presidente-de-la-república-dominicana-2",
+  "level": 5,
+  "title": "Presidente de la República Dominicana"
+ },
+ {
+  "id": "5-redacción",
+  "level": 3,
+  "title": "5.- Redacción."
+ },
+ {
+  "id": "ambigüedad",
+  "level": 5,
+  "title": "Ambigüedad"
+ },
+ {
+  "id": "d-vaguedad",
+  "level": 5,
+  "title": "d. Vaguedad"
+ },
+ {
+  "id": "e-sobreabundancia-de-términos",
+  "level": 5,
+  "title": "e. Sobreabundancia de términos"
+ },
+ {
+  "id": "5-1-términos",
+  "level": 3,
+  "title": "5.1.-Términos"
+ },
+ {
+  "id": "5-2-formas-verbales",
+  "level": 3,
+  "title": "5.2- Formas verbales"
+ },
+ {
+  "id": "por-ejemplo-en-lugar-de-dispusiere-que-es-futuro-imperfecto-",
+  "level": 4,
+  "title": "(Por ejemplo, en lugar de \"dispusiere\" que es futuro imperfecto de subjuntivo se debe escribir \"dispone\" que es presente de indicativo o \"disponga\" que es presente de subjuntivo)."
+ },
+ {
+  "id": "por-ejemplo-en-lugar-de-satisficiere-que-es-futuro-imperfect",
+  "level": 4,
+  "title": "(Por ejemplo, en lugar de \"satisficiere\" que es futuro imperfecto de subjuntivo se debe escribir \"satisfago\" que es presente de indicativo o \"satisfaga\" que es presente de subjuntivo)."
+ },
+ {
+  "id": "por-ejemplo-en-lugar-de-hiciere-que-es-futuro-imperfecto-de-",
+  "level": 4,
+  "title": "(Por ejemplo, en lugar de \"hiciere\" que es futuro imperfecto de subjuntivo se debe escribir \"hago\" que es presente de indicativo o \"haga\" que es presente de subjuntivo)."
+ },
+ {
+  "id": "h-sustituir-el-futuro-perfecto-de-subjuntivo-por-el-pretérit",
+  "level": 4,
+  "title": "h) Sustituir el futuro perfecto de subjuntivo por el pretérito perfecto de indicativo o el pretérito perfecto de subjuntivo."
+ },
+ {
+  "id": "por-ejemplo-en-lugar-de-hubiere-presentado-en-término-que-es",
+  "level": 4,
+  "title": "(Por ejemplo, en lugar de \"hubiere presentado en término\" que es futuro perfecto de subjuntivo, se debe escribir \"ha presentado en término\" que es pretérito perfecto de indicativo o \"haya presentado en término\" que es pretérito perfecto de subjuntivo)."
+ },
+ {
+  "id": "5-3-sintaxis",
+  "level": 3,
+  "title": "5.3- Sintaxis"
+ },
+ {
+  "id": "por-ejemplo-en-lugar-de-efectuar-una-presentación-se-escribi",
+  "level": 4,
+  "title": "(Por ejemplo, en lugar de \"efectuar una presentación\" se escribirá \"presentará\", en lugar de \"se tendrá por caducada\" se escribirá \"caducará\")."
+ },
+ {
+  "id": "f-usar-formas-verbales-conjugadas-en-lugar-de-frases-verbale",
+  "level": 4,
+  "title": "f. Usar formas verbales conjugadas en lugar de frases verbales."
+ },
+ {
+  "id": "por-ejemplo-se-escribirá-presentará-en-lugar-de-deberá-prese",
+  "level": 4,
+  "title": "(Por ejemplo, se escribirá \"presentará\" en lugar de \"deberá presentar\")."
+ },
+ {
+  "id": "5-4-citas-de-normas",
+  "level": 3,
+  "title": "5.4.- Citas de Normas"
+ },
+ {
+  "id": "5-5-uso-de-mayúsculas",
+  "level": 4,
+  "title": "5.5 Uso de mayúsculas"
+ },
+ {
+  "id": "5-6-uso-de-la-minúscula",
+  "level": 4,
+  "title": "5.6.- Uso de la minúscula."
+ },
+ {
+  "id": "5-7-remisiones",
+  "level": 4,
+  "title": "5.7.-Remisiones ."
+ },
+ {
+  "id": "el-texto-normativo-puede-contener-remisiones-internas-o-exte",
+  "level": 4,
+  "title": "El texto normativo puede contener remisiones internas o externas. Las remisiones son alusiones a artículos de una misma ley o de otra ley con la cual se vincula disposición en cuestión."
+ },
+ {
+  "id": "5-7-1-remisiones-internas",
+  "level": 4,
+  "title": "5.7.1.-Remisiones internas"
+ },
+ {
+  "id": "ejemplo-i",
+  "level": 5,
+  "title": "Ejemplo I"
+ },
+ {
+  "id": "remisiones-internas",
+  "level": 5,
+  "title": "Remisiones internas:"
+ },
+ {
+  "id": "5-7-2-remisiones-externas",
+  "level": 4,
+  "title": "5.7.2.-Remisiones externas"
+ },
+ {
+  "id": "ejemplo-ii-2",
+  "level": 5,
+  "title": "Ejemplo II"
+ },
+ {
+  "id": "remisiones-externas",
+  "level": 5,
+  "title": "Remisiones externas:"
+ },
+ {
+  "id": "ley-10-04-de-la-cámara-de-cuentas-de-la-república-dominicana",
+  "level": 5,
+  "title": "Ley 10-04 de la Cámara de Cuentas de la República Dominicana"
+ },
+ {
+  "id": "capítulo-ii-de-los-miembros",
+  "level": 5,
+  "title": "Capítulo II De los Miembros"
+ },
+ {
+  "id": "6-dinámica-de-las-normas",
+  "level": 3,
+  "title": "6.- Dinámica de las normas."
+ },
+ {
+  "id": "la-dinámica-legislativa-apunta-a-asegurar-la-correcta-inserc",
+  "level": 4,
+  "title": "La dinámica legislativa apunta a asegurar la correcta inserción en el orden jurídico de la ley que estamos elaborando. La sanción de una nueva ley implicará, necesariamente, una adecuación en el orden jurídico vigente a ese momento. Un correcto manejo de las reglas referidas a la dinámica legislativa,"
+ },
+ {
+  "id": "permite-una-mayor-certeza-en-cuanto-a-cuáles-son-las-normas-",
+  "level": 4,
+  "title": "permite una mayor certeza en cuanto a cuáles son las normas que mantienen su vigencia y cuáles las que la han perdido."
+ },
+ {
+  "id": "reglas-sobre-dinamica-legislativa",
+  "level": 4,
+  "title": "REGLAS SOBRE DINAMICA LEGISLATIVA"
+ },
+ {
+  "id": "6-1-entrada-en-vigor-de-la-ley",
+  "level": 4,
+  "title": "6.1.- Entrada en vigor de la ley"
+ },
+ {
+  "id": "las-leyes-en-república-dominicana-entran-en-vigencia-de-acue",
+  "level": 4,
+  "title": "Las leyes en República Dominicana entran en vigencia de acuerdo a lo prescribe el artículo 1 del Código Civil: “Art. 1.- Las leyes, después de promulgadas por el Poder Ejecutivo, serán publicadas en la Gaceta Oficia”l."
+ },
+ {
+  "id": "podrán-también-ser-publicadas-en-uno-o-más-periódicos-de-amp",
+  "level": 4,
+  "title": "Podrán también ser publicadas en uno o más periódicos de amplia circulación en el territorio nacional, cuando así lo disponga la misma ley o el Poder Ejecutivo. En este caso deberá indicarse de manera expresa que se trata de una publicación oficial, y surtirá los mismos efectos que la publicación en la Gaceta Oficial."
+ },
+ {
+  "id": "las-leyes-salvo-disposición-legislativa-expresa-en-otro-sent",
+  "level": 4,
+  "title": "Las leyes, salvo disposición legislativa expresa en otro sentido, se reputarán conocidas en el Distrito Nacional y en cada una de las provincias, cuando hayan transcurrido los plazos siguientes, contados desde la fecha de la publicación hecha de conformidad con las disposiciones que anteceden. A saber: a) En el Distrito Nacional, el día siguiente al de la publicación; y b) En todas las provincias que componen el resto del territorio nacional, el segundo día."
+ },
+ {
+  "id": "si-se-quiere-que-la-ley-entre-en-vigor-en-una-fecha-distinta",
+  "level": 4,
+  "title": "Si se quiere que la ley entre en vigor en una fecha distinta, debe incluirse en la ley una cláusula que expresamente así lo establezca."
+ },
+ {
+  "id": "la-entrada-en-vigor-de-la-ley-puede-establecerse-para",
+  "level": 4,
+  "title": "La entrada en vigor de la ley, puede establecerse para:"
+ },
+ {
+  "id": "6-2-caducidad",
+  "level": 4,
+  "title": "6.2.- Caducidad"
+ },
+ {
+  "id": "las-leyes-se-extinguen-por-caducidad-cuando-desde-su-creació",
+  "level": 4,
+  "title": "Las leyes se extinguen por caducidad cuando desde su creación, en su propio texto están sujetas a un plazo o a una condición, y ese plazo o condición se cumple. Las características de las disposiciones de caducidad deben responder a criterios entre los que se citan:"
+ },
+ {
+  "id": "a-el-plazo-de-vigencia-de-la-ley-debe-ser-cierto-fijado-con-",
+  "level": 4,
+  "title": "a) El plazo de vigencia de la ley debe ser cierto, fijado con toda precisión, con día, mes y año; o bien de otra manera suficientemente precisa. Existen los casos de vigencia de la legislación determinados por"
+ },
+ {
+  "id": "disposiciones-constitucionales-tal-es-el-caso-de-la-ley-de-g",
+  "level": 4,
+  "title": "disposiciones constitucionales, tal es el caso de la Ley de Gastos Públicos. b) No conviene sujetar la vigencia de una ley a un plazo incierto, o sea aquel referido a un hecho futuro que necesariamente alguna vez ha de ocurrir, pero no se puede saber cuándo. c) Si la vigencia de una ley está sujeta al cumplimiento de una condición resolutoria, el hecho cuya ocurrencia cumple la condición debe estar descrito con toda claridad. En el caso poco recomendable de que la ocurrencia del hecho pueda ser discutida, debe establecerse que tal ocurrencia será constatada por determinado órgano estatal, a iniciativa propia o a requerimiento de parte, el cual estará obligado a emitir un acto expreso y a publicarlo en un diario de circulación Nacional. d) Si la ley tiene como objetivo regular un régimen especial para el cumplimiento de un objeto especifico, el legislador debe precisar el plazo en el cual deben alcanzarse esos objetivos. Como estos casos se parecen a un plazo de vigencia no determinado expresamente por la norma legal, conviene establecer de manera expresa un plazo máximo de vigencia de la ley."
+ },
+ {
+  "id": "ejemplos-de-caducidad",
+  "level": 4,
+  "title": "Ejemplos de Caducidad."
+ },
+ {
+  "id": "caso-del-proyecto-de-presupuesto-de-ingresos-y-ley-de-gastos",
+  "level": 4,
+  "title": "Caso del Proyecto de Presupuesto de Ingresos y ley de Gastos Públicos."
+ },
+ {
+  "id": "la-constitución-de-la-república-en-el-art-55-inciso-23-estab",
+  "level": 4,
+  "title": "La Constitución de la República en el Art. 55, inciso 23, establece que corresponde al Presidente de la República “someter al Congreso, durante la segunda legislatura ordinaria, el proyecto de Presupuesto de Ingresos y ley de Gastos Públicos correspondiente al año siguiente”."
+ },
+ {
+  "id": "la-constitución-de-la-república-en-el-art-115-párrafo-iv-est",
+  "level": 4,
+  "title": "La constitución de la República en el Art. 115, párrafo IV, establece “Cuando por cualquier circunstancia el Congreso cierre la legislatura sin haber votado el Presupuesto de Ingresos y ley de Gastos Públicos, continuará rigiendo la ley de Gastos Públicos del año anterior”."
+ },
+ {
+  "id": "ejemplo-ii-de-caducidad",
+  "level": 4,
+  "title": "Ejemplo II de caducidad"
+ },
+ {
+  "id": "caso-de-la-ley-del-5-a-las-exportaciones-de-enero-2004-que-v",
+  "level": 4,
+  "title": "Caso de la Ley del 5% a las exportaciones de enero 2004 que venció o caducó en julio 2004."
+ },
+ {
+  "id": "ejemplo",
+  "level": 2,
+  "title": "Ejemplo"
+ },
+ {
+  "id": "tomado-de-la-ley-que-crea-una-contribución-solidaria-transit",
+  "level": 5,
+  "title": "Tomado de la Ley que crea una Contribución solidaria Transitoria a las"
+ },
+ {
+  "id": "el-congreso-nacional-en-nombre-de-la-república-4",
+  "level": 2,
+  "title": "El Congreso Nacional En Nombre de la República."
+ },
+ {
+  "id": "proyecto-de-ley-que-establece-la-contribución-solidaria-tran",
+  "level": 5,
+  "title": "Proyecto de ley que establece la contribución solidaria transitoria (CST) de un 5% sobre los ingresos brutos provenientes de las exportaciones de bienes y servicios"
+ },
+ {
+  "id": "ha-dado-la-siguiente-ley-3",
+  "level": 5,
+  "title": "HA DADO LA SIGUIENTE LEY:"
+ },
+ {
+  "id": "6-3-derogación",
+  "level": 4,
+  "title": "6.3 Derogación"
+ },
+ {
+  "id": "la-derogación-de-las-leyes-puede-ser-total-o-parcial-esta-de",
+  "level": 4,
+  "title": "La derogación de las leyes puede ser total o parcial. Esta debe responder a las siguientes características:"
+ },
+ {
+  "id": "a-la-derogación-total-o-parcial-de-las-leyes-debe-ser-expres",
+  "level": 4,
+  "title": "a) La derogación total o parcial de las leyes debe ser expresa."
+ },
+ {
+  "id": "b-la-derogación-debe-establecerse-en-la-ley-mediante-el-uso-",
+  "level": 4,
+  "title": "b) La derogación debe establecerse en la ley mediante el uso del término \"Derógase\" o “ se deroga “ seguido de la mención de las normas a derogar. No deben usarse otros términos porque pueden dar lugar a confusión, por ejemplo \"Queda sin efecto\"."
+ },
+ {
+  "id": "c-cuando-se-establece-un-nuevo-régimen-legal-en-reemplazo-de",
+  "level": 4,
+  "title": "c) Cuando se establece un nuevo régimen legal en reemplazo de otro, este último debe ser derogado expresamente."
+ },
+ {
+  "id": "d-la-derogación-de-las-leyes-debe-ser-hecha-con-toda-precisi",
+  "level": 4,
+  "title": "d) La derogación de las leyes debe ser hecha con toda precisión, identificando con certeza las leyes por su número y su nombre completo."
+ },
+ {
+  "id": "e-cuando-se-derogan-dentro-de-una-ley-de-libros-títulos-capí",
+  "level": 4,
+  "title": "e) Cuando se derogan dentro de una ley de libros, títulos, capítulos, secciones, artículos, párrafos, incisos o literales, estos deben ser identificados de manera específica por su número, y los incisos por la letra o número correspondiente."
+ },
+ {
+  "id": "f-cuando-se-deroga-una-ley-deben-indicarse-todas-sus-modific",
+  "level": 4,
+  "title": "f) Cuando se deroga una ley deben indicarse todas sus modificaciones. Cuando la ley a derogar ha sido objeto de varias"
+ },
+ {
+  "id": "modificaciones-la-derogación-debe-referir-las-leyes-que-a-su",
+  "level": 4,
+  "title": "modificaciones, la derogación debe referir las leyes que a su vez modificaron la ley madre."
+ },
+ {
+  "id": "g-debe-evitarse-la-derogación-genérica-indeterminada-que-se-",
+  "level": 4,
+  "title": "g) Debe evitarse la derogación genérica indeterminada que se suele expresar con fórmulas del estilo, \"Derógase todo lo que se oponga\", \"Derógase en todo cuanto se oponga\", “Se deroga todo lo que le sea contrario”, “La presente ley sustituye cualquier disposición que le sea"
+ },
+ {
+  "id": "producen-más-incertidumbres-que-certezas-y-lejos-de-aportar-",
+  "level": 4,
+  "title": "producen más incertidumbres que certezas, y lejos de aportar le restan calidad a la ley."
+ },
+ {
+  "id": "h-no-debe-usarse-el-verbo-derogar-ni-sus-derivados-cuando-se",
+  "level": 4,
+  "title": "h) No debe usarse el verbo \"derogar\" ni sus derivados cuando se establece un régimen especial que ha de funcionar como una excepción al régimen general que continúa vigente para los demás casos."
+ },
+ {
+  "id": "i-no-conviene-reiterar-la-derogación-de-leyes-que-ya-previam",
+  "level": 4,
+  "title": "i) No conviene reiterar la derogación de leyes que ya previamente han sido derogadas por disposición legal o caducidad expresa, pues se corre el riesgo de que alguien interprete que estaban vigentes."
+ },
+ {
+  "id": "j-cuando-se-quiere-dar-por-terminado-un-régimen-legal-es-nec",
+  "level": 4,
+  "title": "j) Cuando se quiere dar por terminado un régimen legal es necesario derogar la ley que lo estableció. No deben usarse fórmulas del estilo \"Suprímase el impuesto creado por ley...\" sino directamente \"Se deroga la ley...\"."
+ },
+ {
+  "id": "ejemplo-de-derogación25",
+  "level": 5,
+  "title": "Ejemplo de derogación25"
+ },
+ {
+  "id": "tomado-de-la-ley-no-14-94-que-crea-el-código-para-la-protecc-2",
+  "level": 4,
+  "title": "Tomado de la Ley No.14-94 que crea el Código para la Protección de Niños, Niñas y Adolescentes."
+ },
+ {
+  "id": "6-4-modificación",
+  "level": 3,
+  "title": "6.4.- Modificación"
+ },
+ {
+  "id": "a-la-modificación-total-o-parcial-de-las-leyes-debe-ser-expr",
+  "level": 4,
+  "title": "a) La modificación total o parcial de las leyes debe ser expresa."
+ },
+ {
+  "id": "b-la-modificación-de-la-ley-debe-ser-hecha-con-toda-precisió",
+  "level": 4,
+  "title": "b) La modificación de la ley debe ser hecha con toda precisión, identificándose de manera certera la ley o disposición legal que se modifica. C) La ley a modificar debe ser identificada por su número, excepto los Códigos, que deben ser identificados por su nombre completo. Los artículos a modificar deben ser identificados por su número, y los incisos por la letra o número correspondiente. d) La modificación debe mencionar a la ley principal a modificar. No hay que enumerar detalladamente las anteriores leyes modificatorias de la ley principal. e) Cuando se quiere modificar un régimen legal, es necesario modificar la ley que lo estableció. No deben usarse fórmulas del estilo \"Modifícase el impuesto creado por ley...\" sino referirse directamente a la ley. f) En principio, la modificación de una ley debe hacerse sustituyendo íntegramente una parte del texto de la ley. Esa parte no debe ser menor que un párrafo, inciso o apartado. Aunque se quiera sustituir solamente una palabra o frase, igualmente se le dará forma de sustitución integral de una parte de la escala indicada. g) La modificación de una ley también puede hacerse mediante el agregado de nuevos artículos, párrafos, incisos o apartados. En este caso debe asignarse a los nuevos textos una identificación por números, letras o de otro modo, que sea concordante con el método utilizado por la ley a modificar. h) Si se quiere modificar algún artículo de un texto legal aprobado como Anexo de una ley, debe indicarse con precisión el texto a modificar: no es lo mismo el artículo 5, de la ley 126-02, Sobre Comercio Electrónico, que el artículo 5, del la Ley de Comercio Electrónico. i) El agregado de nuevos artículos en una ley anterior debe ser establecido mediante la fórmula \"Se añade el artículo 125 a la Ley 03-02 Sobre el Registro"
+ },
+ {
+  "id": "mercantil-y-luego-se-transcribe-el-texto-a-insertar-comenzan",
+  "level": 4,
+  "title": "Mercantil....\" y luego se transcribe el texto a insertar, comenzando por su identificación numérica, alfabética o la que corresponda. Esto vale también para el agregado de párrafos, incisos o apartados. j) Cuando se agregue a una ley un artículo, párrafo, inciso o apartado en medio de una serie, la identificación asignada se formará tornando la identificación de la unidad del mismo nivel (artículo, párrafo, inciso o apartado) inmediatamente anterior al lugar de inserción, completada con una palabra que permita diferenciar. Para la primera unidad agregada la palabra latina será \"bis\", para la segunda \"ter\" y para las siguientes \"quater\", \"quinquies\", \"sexies\", \"septies\", \"octies\", \"nonies\", y \"decies\", Sin embargo, si los agregados pasan de cuatro, sería conveniente buscar otra manera de insertar los nuevos textos. k) Cuando se quiere agregar un artículo nuevo antes del artículo 1°. de la ley a modificar, conviene asignar al artículo nuevo el número 1°. y simultáneamente cambiar el número del anterior artículo 1°, que pasará a ser 1o. bis. Con los cambios pertinentes, lo mismo vale para el caso de incisos nuevos antes del primer inciso. l) La modificación de una ley por supresión de textos es una derogación parcial de la ley, y debe hacerse como las demás derogaciones. Es conveniente derogar íntegramente unidades del nivel artículo, párrafo, inciso o apartado. Si se quiere derogar una parte menor, es preferible sustituir íntegramente el artículo, párrafo, inciso o apartado. m) La modificación a una ley debe hacerse utilizando rigurosamente la misma terminología de la ley a modificar. n) Al modificar una ley debe respetarse en todo lo posible la estructura formal de la ley a modificar, inclusive el método del epígrafes. Si es necesario modificar también la estructura de la ley, eso debe hacerse respetando sus"
+ },
+ {
+  "id": "lineamientos-generales-por-ejemplo-si-se-agrega-un-nuevo-cap",
+  "level": 4,
+  "title": "lineamientos generales, por ejemplo si se agrega un nuevo capítulo éste debe tomar una numeración y llevar un título del mismo estilo que los capítulos ya existentes en la ley. ñ) Las modificaciones a una ley que ha sido objeto de texto modificado referirse al texto modificado más reciente de esa ley, sin mencionar las leyes que la han modificado posteriores al texto modificado, ni agregar frases del estilo \"y sus modificaciones"
+ },
+ {
+  "id": "ejemplo-de-modificación-a-una-ley-26",
+  "level": 4,
+  "title": "Ejemplo de modificación a una Ley:26"
+ },
+ {
+  "id": "contrato-de-matrimonio-o-de-convenirlo-en-elegir-un-régimen-",
+  "level": 5,
+  "title": "contrato de matrimonio o de convenirlo en elegir un régimen matrimonial, implica la aceptación implícita del régimen de comunidad legal. Esta comunidad está regida por"
+ },
+ {
+  "id": "quienes-la-conforman-ya-es-tiempo-de-modificar-estos-artícul",
+  "level": 5,
+  "title": "quienes la conforman, ya es tiempo de modificar estos artículos que conceden al"
+ },
+ {
+  "id": "encontró-una-sociedad-gobernada-por-varones-y-la-mujer-aún-n",
+  "level": 5,
+  "title": "encontró una sociedad gobernada por varones y la mujer aún no se había incorporado a la actividad productiva; pero desde hace más de medio siglo, la sociedad ha venido"
+ },
+ {
+  "id": "desempeñando-funciones-importantes-hasta-ser-hoy-día-según-d",
+  "level": 5,
+  "title": "desempeñando funciones importantes, hasta ser hoy día, según datos estadísticos, la que con sus aportes sustenta el hogar junto al marido, y que por tanto se debe"
+ },
+ {
+  "id": "eliminarían-el-carácter-de-común-a-este-régimen-convirtiéndo",
+  "level": 5,
+  "title": "eliminarían el carácter de común a este régimen, convirtiéndose así en la pesadilla de las esposas engañadas muchas veces, y otras, víctimas del abuso legal a que son"
+ },
+ {
+  "id": "1419-1421-1422-1423-1424-1449-y-1469-del-capítulo-ii-título-",
+  "level": 5,
+  "title": "1419, 1421, 1422, 1423, 1424, 1449 y 1469 del Capítulo II, Título V, del Código Civil de la República Dominicana, para que en lo adelante digan de la siguiente manera:"
+ },
+ {
+  "id": "superviviente-confieren-los-títulos-de-la-autoridad-del-padr",
+  "level": 5,
+  "title": "superviviente confieren los títulos de la autoridad del padre, de la madre, de la menor edad, de la tutela, de la emancipación, ni las disposiciones prohibitivas del presente"
+ },
+ {
+  "id": "mobiliarias-en-que-los-esposos-estaban-gravados-el-día-de-la",
+  "level": 5,
+  "title": "mobiliarias en que los esposos estaban gravados el día de la celebración de su matrimonio, o de los que estuvieren gravando las sucesiones que les vienen durante el matrimonio, salvo la recompensa por las relativas a los inmuebles propios a uno u"
+ },
+ {
+  "id": "contraídas-por-el-marido-o-por-la-mujer-3ro-de-las-rentas-e-",
+  "level": 5,
+  "title": "contraídas por el marido o por la mujer; 3ro. de las rentas e intereses solamente de rentas o deudas pasivas, que sean personales a los dos esposos; 4to. de las reparaciones usufructuarias de los inmuebles que no entran en comunidad; 5to. de los alimentos de los esposos, de la educación y sostenimiento de los hijos y de cualquier otra carga del"
+ },
+ {
+  "id": "uno-de-los-esposos-durante-el-matrimonio-no-estarán-a-cargo-",
+  "level": 5,
+  "title": "uno de los esposos durante el matrimonio, no estarán a cargo de la comunidad, salvo el derecho que los acreedores tienen a exigir su pago de los inmuebles de dicha"
+ },
+ {
+  "id": "artículo-1414-cuando-la-sucesión-recaída-en-uno-de-los-espos",
+  "level": 5,
+  "title": "“Artículo 1414.- Cuando la sucesión recaída en uno de los esposos es parte mobiliaria y parte inmobiliaria, las deudas con que está gravada aquella no estarán a cargo de la comunidad, sino hasta la concurrencia de la parte contributiva del mobiliario en las"
+ },
+ {
+  "id": "esta-porción-contributiva-se-regula-por-el-inventario-que-de",
+  "level": 5,
+  "title": "Esta porción contributiva se regula por el inventario que debe promover el cónyuge al cual le concierne la sucesión personalmente, o bien como dirigiendo y autorizando las"
+ },
+ {
+  "id": "artículo-1416-las-disposiciones-del-artículo-1414-no-obstan-",
+  "level": 5,
+  "title": "“Artículo 1416.- Las disposiciones del Artículo 1414 no obstan para que los acreedores"
+ },
+ {
+  "id": "artículo-1419-pueden-los-acreedores-exigir-el-pago-de-las-de",
+  "level": 5,
+  "title": "“Artículo 1419.- Pueden los acreedores exigir el pago de las deudas contraídas por la mujer, tanto sobre sus propios bienes, los del marido o de la comunidad, salvo la"
+ },
+ {
+  "id": "artículo-1421-el-marido-y-la-mujer-son-los-administradores-d",
+  "level": 5,
+  "title": "“Artículo 1421.- El marido y la mujer son los administradores de los bienes de la comunidad. Pueden venderlos, enajenarlos o hipotecarlos con el consentimiento de"
+ },
+ {
+  "id": "artículo-1422-no-pueden-disponer-intervivos-a-título-gratuit",
+  "level": 5,
+  "title": "“Artículo 1422.- No pueden disponer intervivos, a título gratuito, de los inmuebles de la comunidad, ni del todo o parte del mobiliario, excepto cuando sea para establecer a los hijos del matrimonio. Pueden disponer, sin embargo, de los efectos mobiliarios a título gratuito y participar en provecho de cualquier persona, con tal de que no se"
+ },
+ {
+  "id": "no-podrá-pasar-de-la-parte-que-tenga-en-comunidad-si-ha-dado",
+  "level": 5,
+  "title": "no podrá pasar de la parte que tenga en comunidad. Si ha dado en la forma dicha un"
+ },
+ {
+  "id": "sino-en-tanto-que-el-efecto-por-consecuencia-de-la-partición",
+  "level": 5,
+  "title": "sino en tanto que el efecto, por consecuencia de la partición, corresponda al lote de los herederos del o la donante; pero si dicho efecto no hubiere correspondido al lote de éstos, debe compensarse al legatario del valor total del efecto dado, tomándose aquel de la parte de la comunidad de los herederos del cónyuge y de los bienes personales"
+ },
+ {
+  "id": "artículo-1424-las-multas-sufridas-por-cualquiera-de-los-espo",
+  "level": 5,
+  "title": "“Artículo 1424.- Las multas sufridas por cualquiera de los esposos por crimen que no produzca interdicción legal puede exigirse de los bienes propios de cada uno de los"
+ },
+ {
+  "id": "artículo-1469-cada-esposo-o-sus-herederos-restituye-asimismo",
+  "level": 5,
+  "title": "“Artículo 1469.- Cada esposo o sus herederos restituye asimismo las sumas que se han"
+ },
+ {
+  "id": "artículo-2-quedan-derogadas-las-siguientes-disposiciones-del",
+  "level": 5,
+  "title": "ARTÍCULO 2.- Quedan derogadas las siguientes disposiciones del Código Civil de la República Dominicana:"
+ },
+ {
+  "id": "la-comunidad-y-de-la-renuncia-que-de-ella-puede-hacerse-con-",
+  "level": 5,
+  "title": "la comunidad y de la renuncia que de ella puede hacerse con las condiciones que le son"
+ },
+ {
+  "id": "rafaela-alburquerque-3",
+  "level": 5,
+  "title": "Rafaela Alburquerque"
+ },
+ {
+  "id": "hermes-juan-josé-ortiz-acevedo-rosa-francia-fadul-fadul-2",
+  "level": 5,
+  "title": "Hermes Juan José Ortiz Acevedo Rosa Francia Fadul Fadul"
+ },
+ {
+  "id": "andrés-bautista-garcía-3",
+  "level": 5,
+  "title": "Andrés Bautista García"
+ },
+ {
+  "id": "ramiro-espino-fermín-darío-ant-gómez-martínez-2",
+  "level": 5,
+  "title": "Ramiro Espino Fermín Darío Ant. Gómez Martínez"
+ },
+ {
+  "id": "hipolito-mejia-presidente-de-la-república-dominicana",
+  "level": 5,
+  "title": "HIPOLITO MEJIA Presidente de la República Dominicana"
+ },
+ {
+  "id": "6-5-restablecimiento",
+  "level": 3,
+  "title": "6.5.- Restablecimiento"
+ },
+ {
+  "id": "el-legislador-puede-pretender-reestablecer-una-disposición-l",
+  "level": 4,
+  "title": "El legislador puede pretender reestablecer una disposición legal que estuvo vigente y que fue derogada posteriormente."
+ },
+ {
+  "id": "en-los-considerandos-de-la-nueva-ley-se-debe-incluir-la-refe",
+  "level": 4,
+  "title": "En los Considerandos de la nueva ley se debe incluir la referencia a la ley derogada y, en las disposiciones normativas, reproducir íntegramente las disposiciones que se quieren reestablecer."
+ },
+ {
+  "id": "cuando-se-restablecen-disposiciones-de-ley-previamente-derog",
+  "level": 4,
+  "title": "Cuando se restablecen disposiciones de ley previamente derogadas, debe incluirse una cláusula que regule la situación jurídica de los hechos y actos producidos en el período intermedio durante el cual no regían los preceptos restablecida."
+ },
+ {
+  "id": "la-conveniencia-de-este-procedimiento-es-evitar-confusiones-",
+  "level": 4,
+  "title": "La conveniencia de este procedimiento es evitar confusiones en las referencias de la legislación y, facilitar un ordenamiento cronológico ascendente de la legislación."
+ },
+ {
+  "id": "7-la-lógica-de-los-sistemas-normativos-escritura-de-una-ley--2",
+  "level": 3,
+  "title": "7.- La lógica de los sistemas normativos. Escritura de una Ley o Resolución."
+ },
+ {
+  "id": "la-aplicación-de-reglas-lógicas-en-los-sistemas-normativos-p",
+  "level": 4,
+  "title": "La aplicación de reglas lógicas en los sistemas normativos procura que se generen textos normativos sin lagunas, contradicciones ni redundancias."
+ },
+ {
+  "id": "7-1-reglas-sobre-logica-interna-de-los-sistemas",
+  "level": 4,
+  "title": "7.1.- REGLAS SOBRE LOGICA INTERNA DE LOS SISTEMAS"
+ },
+ {
+  "id": "normativos",
+  "level": 5,
+  "title": "NORMATIVOS."
+ },
+ {
+  "id": "7-1-1-uso-de-los-operadores-lógicos-los-operadores-lógicos-a",
+  "level": 4,
+  "title": "7.1.1.- Uso de los operadores lógicos. Los operadores lógicos a utilizarse en la redacciòn de los textos normativos son los siguientes, expresàndose los mismos en letras con su correspondiente símbolo entre paréntesis a) Mayor que (>) b) Mayor o igual que (>=) c) Igual que (=) d) Menor que (<) e) Menor o igual que (<=) f) Diferente que (<>)"
+ },
+ {
+  "id": "7-1-2-agrupamiento-de-casos-individuales-si-de-un-conjunto-d",
+  "level": 4,
+  "title": "7.1.2.- Agrupamiento de casos individuales. Si de un conjunto de casos va a tomarse algún atributo para dar soluciones distintas según que ese atributo exista o no, o que se verifique o no la ocurrencia de determinado hecho, las normas deben redactarse siempre de acuerdo con la existencia o no de dicho atributo, o la ocurrencia o no de ese hecho. No debe buscarse el atributo contrario."
+ },
+ {
+  "id": "por-ejemplo-pagan-impuesto-sobre-la-renta-todos-aquellos-que",
+  "level": 4,
+  "title": "(Por ejemplo \"Pagan impuesto sobre la renta todos aquellos que ganen más de 10,000 pesos mensuales) en este caso quedan excluidos los que ganan 10,000 o menos. En otro artículo no debe redactarse pagan un 5% de impuesto sobre la renta los que ganan mayor o igual a 10,000 pesos mensuales, porque existe en la misma ley un artículo que los excluye del pago de dicho impuesto."
+ },
+ {
+  "id": "cerciorarse-de-que-el-conjunto-de-agrupamientos-resulta-exha",
+  "level": 4,
+  "title": "Cerciorarse de que el conjunto de agrupamientos resulta exhaustivo: cada caso individual debe estar contemplado en algún lugar."
+ },
+ {
+  "id": "ejemplo-contratos-anteriores-a-1990-vs-contratos-posteriores",
+  "level": 4,
+  "title": "(Ejemplo: \"contratos anteriores a 1990 vs., contratos posteriores a 1990\", no es exhaustivo: los contratos celebrados durante 1990 no entran en ningún agrupamiento. A alguno de los dos habrá que agregarle \"inclusive\" o \"exclusive\")."
+ },
+ {
+  "id": "cerciorarse-asimismo-de-que-el-conjunto-de-agrupamientos-res",
+  "level": 4,
+  "title": "Cerciorarse asimismo de que el conjunto de agrupamientos resulta excluyente: ningún caso individual debe estar contemplado en más de un artículo."
+ },
+ {
+  "id": "ejemplo-inmuebles-destinados-a-vivienda-vs-inmuebles-destina",
+  "level": 4,
+  "title": "(Ejemplo: \"inmuebles destinados a vivienda vs., inmuebles destinados a local comercial\", no es excluyente: existen numerosos inmuebles que son local comercial y también vivienda. A alguno de los dos habrá que agregarle \"exclusivamente\")."
+ },
+ {
+  "id": "7-1-3-las-soluciones-en-cada-contradicción-por-mal-uso-de-lo-2",
+  "level": 4,
+  "title": "7.1.3.- Las soluciones en cada contradicción por mal uso de los operadores lógicos."
+ },
+ {
+  "id": "a-revisar-si-la-solución-que-ha-dado-a-cada-grupo-de-casos-s",
+  "level": 4,
+  "title": "a) Revisar si la solución que ha dado a cada grupo de casos se ajusta al objeto de la ley que ha elaborado. b) Solucionar todos los agrupamientos de casos individuales, aunque la probabilidad de existencia de situaciones reales en uno de los grupos sea muy pequeña."
+ },
+ {
+  "id": "c-comprobar-que-los-atributos-que-se-han-previsto-son-efecti",
+  "level": 4,
+  "title": "c) Comprobar que los atributos que se han previsto son efectivamente relevantes al momento de decidir una solución determinada. Muchas veces, al ir tomando las decisiones parciales, determinado atributo termina por no utilizarse."
+ },
+ {
+  "id": "d-como-consecuencia-de-lo-anterior-verificar-que-se-ha-utili",
+  "level": 4,
+  "title": "d) Como consecuencia de lo anterior, verificar que se ha utilizado la menor cantidad posible de artículos."
+ },
+ {
+  "id": "ejemplo-una-ley-con-dos-artículos-que-establezcan-que-los-ca",
+  "level": 4,
+  "title": "(Ejemplo: una ley con dos artículos que establezcan que \"los carros de menos de 5 años de fabricación pagan un 10% de impuestos y también que \"los carros de 5 años o más pagan un 10% de impuestos” puede reemplazarse sin alterar el resultado, por un solo artículo que diga: todos los carros pagan un 10% de impuestos...” )"
+ },
+ {
+  "id": "e-si-al-revisar-el-proyecto-se-encuentra-algún-problema-lógi",
+  "level": 4,
+  "title": "e) Si al revisar el proyecto se encuentra algún problema lógico (lagunas, contradicciones o redundancias normativas), analizar si ello proviene de una decisión política errónea o si es producto de una redacción o una estructura defectuosa."
+ },
+ {
+  "id": "f-analizar-cuidadosamente-cada-grupo-de-casos-buscando-hipót",
+  "level": 4,
+  "title": "f) Analizar cuidadosamente cada grupo de casos, buscando hipótesis posibles de existencia de casos individuales para los cuales la solución es injusta."
+ },
+ {
+  "id": "8-incorporación-de-la-ley-al-orden-jurídico",
+  "level": 4,
+  "title": "8.- Incorporación de la ley al orden jurídico"
+ },
+ {
+  "id": "el-legislador-debe-procurar-que-la-iniciativa-que-se-pretend",
+  "level": 4,
+  "title": "El legislador debe procurar que la iniciativa que se pretende incorporar al orden jurídico sea asimilada por este sin dificultades. Para ello hay que tomar en cuenta aspectos importantes, entre los que cuentan: a) Tener en cuenta que las redundancias y las contradicciones entre la ley nueva y las vigentes, necesariamente se trasladan al orden jurídico; no así las lagunas. b) El hecho de que una propuesta de ley en sí misma no tenga contradicciones ni redundancias, no garantiza que éstas no aparezcan al incorporar la ley al orden jurídico, pues puede suceder que alguna de las disposiciones de la nueva ley ya estaban previstas en el ordenamiento jurídico mediante otra legislación. Sólo un estudio de antecedentes completo evita las redundancias y contradicciones en el orden jurídico."
+ },
+ {
+  "id": "c-evitar-todas-las-lagunas-en-la-elaboración-de-una-ley-la-c",
+  "level": 4,
+  "title": "c) Evitar todas las lagunas en la elaboración de una ley. La creación de una nueva ley implica que el legislador debe ser lo suficientemente visionario para concebir una normativa que evite dejar sin regulación aspectos consignados en la propia ley. Suelen suceder lagunas en los aspectos de la ley que se refieren a los procedimientos, así como en las disposiciones relativas a su implementación. Es el estudio sistemático"
+ },
+ {
+  "id": "del-proyecto-es-lo-que-permitirá-detectar-a-tiempo-estas-lag",
+  "level": 4,
+  "title": "del proyecto es lo que permitirá detectar a tiempo estas lagunas y prever que se traduzcan al ordenamiento jurídico."
+ },
+ {
+  "id": "9-bibliografía",
+  "level": 3,
+  "title": "9.- Bibliografía."
+ }
+]
