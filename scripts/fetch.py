@@ -84,6 +84,22 @@ def guess_ext(resp: requests.Response, url: str) -> str:
     return mimetypes.guess_extension(ctype) or ".bin"
 
 
+# Responses smaller than this are block pages, challenges or redirects, not documents.
+MIN_DOCUMENT_BYTES = 2048
+
+
+def check_response(entry: dict, resp: requests.Response, ext: str) -> str | None:
+    """Return an error message when the response is not the catalogued document."""
+    if resp.status_code != 200:
+        return f"HTTP {resp.status_code}"
+    if len(resp.content) < MIN_DOCUMENT_BYTES:
+        return f"response too small to be the document ({len(resp.content)} bytes)"
+    expected = str(entry.get("original_format", "")).upper()
+    if expected.startswith(("PDF", "DOC", "ODT", "RTF")) and ext == ".html":
+        return f"expected {entry['original_format']}, got an HTML page ({resp.url})"
+    return None
+
+
 def get(session: requests.Session, url: str) -> requests.Response:
     last = None
     for attempt in range(3):
@@ -148,14 +164,15 @@ def fetch_entry(session: requests.Session, entry: dict) -> dict:
             "last_modified_header": resp.headers.get("Last-Modified"),
         }
     )
-    if resp.status_code >= 400:
-        record["error"] = f"HTTP {resp.status_code}"
+    ext = guess_ext(resp, resp.url)
+    error = check_response(entry, resp, ext)
+    if error:
+        record["error"] = error
         return record
     out_dir = DOCS / entry["id"]
     out_dir.mkdir(parents=True, exist_ok=True)
     for old in out_dir.glob("original.*"):
         old.unlink()
-    ext = guess_ext(resp, resp.url)
     target = out_dir / f"original{ext}"
     target.write_bytes(resp.content)
     record.update(

@@ -12,6 +12,7 @@
     tradition: document.getElementById('f-tradition'),
     region: document.getElementById('f-region'),
     lang: document.getElementById('f-lang'),
+    html: document.getElementById('f-html'),
     status: document.getElementById('f-status')
   };
   Object.keys(f).forEach(function (k) { if (!f[k]) delete f[k]; });
@@ -24,7 +25,27 @@
 
   function sortKey(item) {
     var j = item.dataset.jurisdiction, t = item.dataset.title;
-    return f.sort.value === 'title' ? [t, j] : [j, t];
+    if (f.sort.value === 'title') return [t, j];
+    if (f.sort.value === 'language') return [item.dataset.lang || '~', j];
+    return [j, t];
+  }
+
+  // Group heading shown above each run of items: initial letter, language, or year.
+  function groupOf(item) {
+    if (f.sort.value === 'language') return item.dataset.lang || 'Unknown language';
+    if (f.sort.value === 'recent') {
+      var r = item.dataset.recency;
+      if (r === '9999') return 'Maintained online';
+      return r ? r.slice(0, 4) : 'Date unknown';
+    }
+    return letterOf(sortKey(item)[0]);
+  }
+
+  // Newest first; online texts without dated editions lead, undated entries trail.
+  function compareRecency(a, b) {
+    var ra = a.dataset.recency, rb = b.dataset.recency;
+    if (ra !== rb) return ra < rb ? 1 : -1;
+    return collator.compare(a.dataset.jurisdiction, b.dataset.jurisdiction);
   }
 
   function matches(r) {
@@ -34,27 +55,30 @@
       (!f.tradition || !f.tradition.value || r.dataset.tradition === f.tradition.value) &&
       (!f.region.value || r.dataset.region === f.region.value) &&
       (!f.lang.value || r.dataset.langs.split('|').indexOf(f.lang.value) !== -1) &&
+      (!f.html || !f.html.value || r.dataset.html === f.html.value) &&
       (!f.status.value || r.dataset.status === f.status.value);
   }
 
   function render() {
-    items.sort(function (a, b) {
+    items.sort(f.sort.value === 'recent' ? compareRecency : function (a, b) {
       var ka = sortKey(a), kb = sortKey(b);
       return collator.compare(ka[0], kb[0]) || collator.compare(ka[1], kb[1]);
     });
+    var byLetter = f.sort.value === 'jurisdiction' || f.sort.value === 'title';
+    az.hidden = !byLetter;
     list.innerHTML = '';
     var letters = {}, shown = 0, current = null;
     items.forEach(function (r) {
       if (!matches(r)) return;
       shown++;
-      var letter = letterOf(sortKey(r)[0]);
-      if (letter !== current) {
-        current = letter;
-        letters[letter] = true;
+      var group = groupOf(r);
+      if (group !== current) {
+        current = group;
+        letters[group] = true;
         var h = document.createElement('li');
         h.className = 'g-letter';
-        h.id = 'letter-' + letter;
-        h.textContent = letter;
+        if (byLetter) h.id = 'letter-' + group;
+        h.textContent = group;
         list.appendChild(h);
       }
       list.appendChild(r);

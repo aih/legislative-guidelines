@@ -14,6 +14,7 @@ the converted documents in documents/<id>/ and writes:
     dist/about.html                    method and field definitions
     dist/catalog.json, catalog.csv     machine-readable catalog
     dist/opensearch.xml                OpenSearch description, so browsers can add the site as a search engine
+    dist/sitemap.xml, robots.txt       page list for search engines
 
 Run `npx pagefind --site dist` afterwards to build the search index.
 """
@@ -22,6 +23,7 @@ from __future__ import annotations
 import csv
 import datetime as dt
 import json
+import re
 import os
 import shutil
 import sys
@@ -40,7 +42,7 @@ SITE = {
     "title": "Legislative Drafting Guidelines",
     "subtitle": "National and supranational drafting manuals, collected and converted to HTML",
     "repo": os.environ.get("SITE_REPO", "aih/legislative-guidelines"),
-    "url": os.environ.get("SITE_URL", "https://aih.github.io/legislative-guidelines/"),
+    "url": os.environ.get("SITE_URL", "https://legdraft.linkedlegislation.org/"),
     # Optional: a Formspree-compatible endpoint. When empty, the contribute form
     # opens a prefilled GitHub issue instead.
     "form_endpoint": os.environ.get("FORM_ENDPOINT", ""),
@@ -87,6 +89,17 @@ def infer_tradition(g: dict) -> str:
     return "civil_law"
 
 
+def recency_key(last_updated) -> str:
+    """Sortable form of last_updated: "YYYY-MM-DD" (missing parts as 00),
+    "9999" for online texts maintained without dated editions, "" when unknown."""
+    if last_updated is None:
+        return ""
+    m = re.match(r"^(\d{4})(?:-(\d{2}))?(?:-(\d{2}))?$", str(last_updated).strip())
+    if m:
+        return f"{m.group(1)}-{m.group(2) or '00'}-{m.group(3) or '00'}"
+    return "9999"
+
+
 def load() -> list[dict]:
     catalog = yaml.safe_load((ROOT / "data" / "guidelines.yml").read_text(encoding="utf-8"))
     retrieval_path = ROOT / "data" / "retrieval.json"
@@ -103,6 +116,7 @@ def load() -> list[dict]:
         g["status_label"] = STATUS_LABELS.get(g.get("currency", {}).get("status", "unverified"), "Unverified")
         g["language_names"] = [LANGUAGE_NAMES.get(code, code) for code in g.get("languages", [])]
         g["legal_tradition"] = infer_tradition(g)
+        g["recency"] = recency_key(g.get("last_updated"))
     level_order = {"supranational": 0, "international": 1, "national": 2, "subnational": 3}
     catalog.sort(key=lambda g: (level_order.get(g["jurisdiction_level"], 9), g["jurisdiction"], g["title"]))
     return catalog
@@ -203,6 +217,12 @@ def main() -> int:
 
     export_catalog(catalog)
     write(DIST / ".nojekyll", "")
+    pages = ["index.html", "search.html", "compare.html", "auditor.html", "about.html", "contribute.html"]
+    pages += [f"guidelines/{g['id']}/index.html" for g in catalog]
+    urls = "".join(f"  <url><loc>{SITE['url']}{path}</loc></url>\n" for path in pages)
+    write(DIST / "sitemap.xml",
+          f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{urls}</urlset>\n')
+    write(DIST / "robots.txt", f"User-agent: *\nAllow: /\nSitemap: {SITE['url']}sitemap.xml\n")
     print(f"built {len(catalog)} guideline pages into {DIST.relative_to(ROOT)}/ "
           f"({stats['converted']} with converted text, {stats['stored']} with stored originals)")
     return 0
