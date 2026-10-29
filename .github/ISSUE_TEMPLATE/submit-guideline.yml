@@ -1,0 +1,48 @@
+name: Submit a drafting guideline
+description: Suggest a legislative drafting guideline, a newer edition, or a metadata correction.
+title: "Guideline submission: "
+labels: ["submission"]
+body:
+  - type: input
+    id: jurisdiction
+    attributes:
+      label: Jurisdiction or organisation
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Title of the guideline
+    validations:
+      required: true
+  - type: input
+    id: issuing_body
+    attributes:
+      label: Issuing body
+  - type: input
+    id: url
+    attributes:
+      label: Link to the document or publisher page
+    validations:
+      required: true
+  - type: input
+    id: edition
+    attributes:
+      label: Edition or date
+  - type: input
+    id: language
+    attributes:
+      label: Language(s)
+  - type: dropdown
+    id: kind
+    attributes:
+      label: This is
+      options:
+        - A guideline missing from the collection
+        - A newer edition of a listed guideline
+        - A correction to listed metadata
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Is it current? Is it binding? Anything else we should know.

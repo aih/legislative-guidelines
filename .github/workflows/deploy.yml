@@ -1,0 +1,46 @@
+name: Build and deploy site
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "pages-${{ github.ref }}"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install converters
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends pandoc libreoffice-writer
+          pip install -r requirements.txt
+      - name: Convert documents to HTML
+        run: python scripts/convert.py
+      - name: Build site
+        run: python scripts/build_site.py
+      - name: Build search index
+        run: npx -y pagefind@1.3.0 --site dist
+      - name: Export OpenSearch bulk file
+        run: python scripts/export_opensearch.py
+      - name: Deploy to GitHub Pages
+        if: github.event_name != 'pull_request'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist

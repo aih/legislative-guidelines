@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{{ site.title }}{% endblock %}</title>
+  <meta name="description" content="{% block description %}{{ site.subtitle }}{% endblock %}">
+  <link rel="stylesheet" href="{{ base }}assets/style.css">
+  <link rel="search" type="application/opensearchdescription+xml" title="Drafting Guidelines" href="{{ base }}opensearch.xml">
+  {% block head %}{% endblock %}
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <div class="banner" role="note">
+    <div class="wrap">
+      <strong>Experimental collection.</strong>
+      Converted HTML is generated automatically from the official documents and may contain conversion errors.
+      Always cite the original document linked on each page.
+    </div>
+  </div>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="{{ base }}index.html">
+        <span class="brand-main">{{ site.title }}</span>
+        <span class="brand-sub">National &amp; supranational legislatures</span>
+      </a>
+      <nav aria-label="Main">
+        <ul class="nav">
+          <li><a href="{{ base }}index.html" {% if page == 'index.html' %}aria-current="page"{% endif %}>Guidelines</a></li>
+          <li><a href="{{ base }}search.html" {% if page == 'search.html' %}aria-current="page"{% endif %}>Search</a></li>
+          <li><a href="{{ base }}about.html" {% if page == 'about.html' %}aria-current="page"{% endif %}>About</a></li>
+          <li><a class="nav-cta" href="{{ base }}contribute.html" {% if page == 'contribute.html' %}aria-current="page"{% endif %}>Submit a guideline</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main id="main">
+    {% block main %}{% endblock %}
+  </main>
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Documents remain the work of their issuing bodies; see each page for source, licence and retrieval details.
+        Catalog data: <a href="{{ base }}catalog.json">JSON</a> · <a href="{{ base }}catalog.csv">CSV</a> ·
+        <a href="https://github.com/{{ site.repo }}">GitHub</a>. Built {{ built }}.</p>
+      <p>Know of a guideline we are missing? <a href="{{ base }}contribute.html">Send it to us</a>.</p>
+    </div>
+  </footer>
+  {% block scripts %}{% endblock %}
+</body>
+</html>

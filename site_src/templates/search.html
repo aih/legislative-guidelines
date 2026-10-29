@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}Search | {{ site.title }}{% endblock %}
+{% block head %}<link href="pagefind/pagefind-ui.css" rel="stylesheet">{% endblock %}
+{% block main %}
+<div class="wrap narrow">
+  <h1>Search the guidelines</h1>
+  <p>Full-text search across every converted guideline. Filter by jurisdiction, region, language or currency.</p>
+  <div id="search"></div>
+  <noscript>Search needs JavaScript. The <a href="index.html">catalog</a> lists every guideline.</noscript>
+</div>
+{% endblock %}
+{% block scripts %}
+<script src="pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', function () {
+    var ui = new PagefindUI({ element: '#search', showSubResults: true, showImages: false, excerptLength: 30,
+      translations: { placeholder: 'Search all guidelines' } });
+    var q = new URLSearchParams(window.location.search).get('q');
+    if (q) ui.triggerSearch(q);
+  });
+</script>
+{% endblock %}
