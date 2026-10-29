@@ -1,0 +1,307 @@
+[
+ {
+  "id": "clearly-how-to-write",
+  "level": 2,
+  "title": "clearly How to write"
+ },
+ {
+  "id": "how-to-write-clearly",
+  "level": 2,
+  "title": "How to write clearly"
+ },
+ {
+  "id": "1-think-before-you-write",
+  "level": 2,
+  "title": "1. Think before you write"
+ },
+ {
+  "id": "who-will-be-reading-the-document",
+  "level": 3,
+  "title": "Who will be reading the document?"
+ },
+ {
+  "id": "what-are-you-trying-to-achieve",
+  "level": 3,
+  "title": "What are you trying to achieve?"
+ },
+ {
+  "id": "what-points-must-the-document-cover",
+  "level": 3,
+  "title": "What points must the document cover?"
+ },
+ {
+  "id": "be-direct-and-interesting",
+  "level": 3,
+  "title": "Be direct and interesting"
+ },
+ {
+  "id": "2-focus-on-the-reader",
+  "level": 2,
+  "title": "2. Focus on the reader"
+ },
+ {
+  "id": "now-you-can-prepare-your-outline",
+  "level": 3,
+  "title": "Now you can prepare your outline."
+ },
+ {
+  "id": "two-common-problems-at-the-european-commission",
+  "level": 3,
+  "title": "Two common problems at the European Commission"
+ },
+ {
+  "id": "1-recycling-an-earlier-text-without-adapting-it-properly",
+  "level": 4,
+  "title": "1. Recycling an earlier text without adapting it properly"
+ },
+ {
+  "id": "2-cutting-and-pasting",
+  "level": 4,
+  "title": "2. Cutting and pasting"
+ },
+ {
+  "id": "3-get-your-document-into-shape",
+  "level": 2,
+  "title": "3. Get your document into shape"
+ },
+ {
+  "id": "when-you-start",
+  "level": 3,
+  "title": "When you start"
+ },
+ {
+  "id": "icons-graphs-or-tables-instead-of-text-do",
+  "level": 5,
+  "title": "icons, graphs or tables instead of text? Do"
+ },
+ {
+  "id": "as-you-write",
+  "level": 3,
+  "title": "As you write"
+ },
+ {
+  "id": "application-deadline-31-march",
+  "level": 5,
+  "title": "Application deadline: 31 March"
+ },
+ {
+  "id": "once-you-ve-finished",
+  "level": 3,
+  "title": "Once you’ve finished"
+ },
+ {
+  "id": "short",
+  "level": 3,
+  "title": "Short ..."
+ },
+ {
+  "id": "1-document-15-pages-at-most-1-sentence-20-words-on-average",
+  "level": 5,
+  "title": "1 document = 15 pages at most 1 sentence = 20 words on average"
+ },
+ {
+  "id": "and-simple",
+  "level": 3,
+  "title": "… and simple"
+ },
+ {
+  "id": "4-kiss-keep-it-short-and-simple",
+  "level": 2,
+  "title": "4. KISS:\u0003 keep it short and simple"
+ },
+ {
+  "id": "simple-uncluttered-style-also-means",
+  "level": 3,
+  "title": "Simple, uncluttered style also means …"
+ },
+ {
+  "id": "avoiding-ambiguity",
+  "level": 5,
+  "title": "… avoiding ambiguity"
+ },
+ {
+  "id": "not-changing-words-just-for-style",
+  "level": 5,
+  "title": "… not changing words just for ‘style’"
+ },
+ {
+  "id": "using-the-positive-form-not-the-negative",
+  "level": 5,
+  "title": "… using the positive form, not the negative"
+ },
+ {
+  "id": "name-the-agents-of-each-action-see-hint-7-and-put-the-action",
+  "level": 4,
+  "title": "Name the agents of each action (see Hint 7) and put the actions in the order in which they occur."
+ },
+ {
+  "id": "don-t-bury-important-information-in-the-middle-of-the-senten",
+  "level": 4,
+  "title": "Don’t bury important information in the middle of the sentence."
+ },
+ {
+  "id": "try-to-give-your-sentences-strong-endings-that-s-the-bit-rea",
+  "level": 4,
+  "title": "Try to give your sentences strong endings — that’s the bit readers will remember."
+ },
+ {
+  "id": "5-make-sense-structure-your-sentences",
+  "level": 2,
+  "title": "5. Make sense\u0003 — structure your sentences"
+ },
+ {
+  "id": "6-cut-out-excess-nouns-verb-forms-are-livelier",
+  "level": 2,
+  "title": "6. Cut out excess nouns\u0003 — verb forms are livelier"
+ },
+ {
+  "id": "7-prefer-active-verbs-to-passive-ones-and-name-the-agent",
+  "level": 2,
+  "title": "7. Prefer active verbs to passive ones\u0003 — and name the agent"
+ },
+ {
+  "id": "unclear",
+  "level": 5,
+  "title": "Unclear"
+ },
+ {
+  "id": "a-bit-better",
+  "level": 5,
+  "title": "A bit better"
+ },
+ {
+  "id": "much-better",
+  "level": 5,
+  "title": "Much better"
+ },
+ {
+  "id": "name-the-agent",
+  "level": 3,
+  "title": "Name the agent"
+ },
+ {
+  "id": "you-don-t-have-to-avoid-passives-at-all-costs",
+  "level": 5,
+  "title": "You don’t have to avoid passives at all costs"
+ },
+ {
+  "id": "8-be-concrete-not-abstract",
+  "level": 2,
+  "title": "8. Be concrete, not abstract"
+ },
+ {
+  "id": "sometimes-instead-of-this",
+  "level": 5,
+  "title": "Sometimes, instead of this …"
+ },
+ {
+  "id": "9-beware-of-false-friends-jargon-and-abbreviations",
+  "level": 2,
+  "title": "9. Beware of false friends, jargon and abbreviations"
+ },
+ {
+  "id": "avoid-false-friends",
+  "level": 3,
+  "title": "Avoid false friends"
+ },
+ {
+  "id": "french-false-friend-why-is-it-wrong-what-s-the-correct-word",
+  "level": 5,
+  "title": "French False friend Why is it wrong? What’s the correct word?"
+ },
+ {
+  "id": "avoid-or-explain-jargon",
+  "level": 3,
+  "title": "Avoid or explain jargon"
+ },
+ {
+  "id": "jargon-term-suggested-definition",
+  "level": 5,
+  "title": "Jargon term Suggested definition"
+ },
+ {
+  "id": "take-care-with-abbreviations",
+  "level": 3,
+  "title": "Take care with abbreviations"
+ },
+ {
+  "id": "esa",
+  "level": 2,
+  "title": "ESA"
+ },
+ {
+  "id": "10-revise-and-cheque-check",
+  "level": 2,
+  "title": "10. Revise and cheque check"
+ },
+ {
+  "id": "need-more-help",
+  "level": 3,
+  "title": "Need more help?"
+ },
+ {
+  "id": "send-your-texts-for-editing",
+  "level": 3,
+  "title": "Send your texts for editing"
+ },
+ {
+  "id": "commission-staff-only",
+  "level": 5,
+  "title": "(Commission staff only)"
+ },
+ {
+  "id": "having-regard-to-the-grossly-negative-effect-of-hostilities-",
+  "level": 4,
+  "title": "Having regard to the grossly negative effect of hostilities we hereby call for immediate cessation of such hostilities."
+ },
+ {
+  "id": "online-drafting-aids-of-the-european-union",
+  "level": 3,
+  "title": "Online drafting aids of the European Union"
+ },
+ {
+  "id": "europe-direct-is-a-service-to-help-you-find-answers-to-your-",
+  "level": 2,
+  "title": "Europe Direct is a service to help you find answers to your questions about the European Union."
+ },
+ {
+  "id": "freephone-number",
+  "level": 4,
+  "title": "Freephone number (*):"
+ },
+ {
+  "id": "00-800-6-7-8-9-10-11",
+  "level": 2,
+  "title": "00 800 6 7 8 9 10 11"
+ },
+ {
+  "id": "the-information-given-is-free-as-are-most-calls-though-some-",
+  "level": 4,
+  "title": "(*) The information given is free, as are most calls (though some operators, phone boxes or hotels may charge you)."
+ },
+ {
+  "id": "more-information-on-the-european-union-is-available-on-the-i",
+  "level": 4,
+  "title": "More information on the European Union is available on the internet (http://europa.eu)."
+ },
+ {
+  "id": "luxembourg-publications-office-of-the-european-union-2015",
+  "level": 4,
+  "title": "Luxembourg: Publications Office of the European Union, 2015"
+ },
+ {
+  "id": "isbn-978-92-79-46884-1-doi-10-2782-022405",
+  "level": 4,
+  "title": "ISBN 978-92-79-46884-1 doi:10.2782/022405"
+ },
+ {
+  "id": "european-union-2015-reproduction-is-authorised-provided-the-",
+  "level": 4,
+  "title": "© European Union, 2015 Reproduction is authorised provided the source is acknowledged."
+ },
+ {
+  "id": "acknowledgements",
+  "level": 3,
+  "title": "Acknowledgements"
+ }
+]

@@ -1,0 +1,837 @@
+[
+ {
+  "id": "how-legislation-is-made-in-hong-kong",
+  "level": 2,
+  "title": "HOW LEGISLATION IS MADE IN HONG KONG"
+ },
+ {
+  "id": "law-drafting-division-department-of-justice-a-drafter-s-view",
+  "level": 2,
+  "title": "LAW DRAFTING DIVISION DEPARTMENT OF JUSTICE A DRAFTER'S VIEW OF THE PROCESS"
+ },
+ {
+  "id": "foreword-by-the-secretary-for-justice",
+  "level": 3,
+  "title": "Foreword by the Secretary for Justice"
+ },
+ {
+  "id": "contents",
+  "level": 2,
+  "title": "Contents"
+ },
+ {
+  "id": "1-legislative-drafting-5",
+  "level": 3,
+  "title": "1 Legislative Drafting 5"
+ },
+ {
+  "id": "2-the-drafting-process-9",
+  "level": 3,
+  "title": "2 The Drafting Process 9"
+ },
+ {
+  "id": "3-the-executive-council-13",
+  "level": 3,
+  "title": "3 The Executive Council 13"
+ },
+ {
+  "id": "4-the-legislative-council-15",
+  "level": 3,
+  "title": "4 The Legislative Council 15"
+ },
+ {
+  "id": "5-completion-of-process-18",
+  "level": 3,
+  "title": "5 Completion of Process 18"
+ },
+ {
+  "id": "6-enhancing-quality-and-accessibility-20",
+  "level": 3,
+  "title": "6 Enhancing Quality and Accessibility 20"
+ },
+ {
+  "id": "7-appendices-25",
+  "level": 3,
+  "title": "7 Appendices 25"
+ },
+ {
+  "id": "1-organizational-chart-of-the-department-of-justice-2-organi",
+  "level": 5,
+  "title": "1 Organizational Chart of the Department of Justice 2 Organizational Chart of the Law Drafting Division 3 HKSAR General Regulations—Chapter V, Legal Matters 4 Legislative Process—Timetable of a Bill 5 Sample page of Loose‐leaf Edition 6 Sample page of BLIS 7 Principal features of BLIS"
+ },
+ {
+  "id": "legislative-drafting",
+  "level": 2,
+  "title": "Legislative Drafting"
+ },
+ {
+  "id": "what-is-legislative-drafting",
+  "level": 5,
+  "title": "What is legislative drafting?"
+ },
+ {
+  "id": "1-1-legislative-drafting-is-an-integral-part-of-the-law-maki",
+  "level": 5,
+  "title": "1.1 Legislative drafting is an integral part of the law‐making process. The"
+ },
+ {
+  "id": "1-2-legislation-is-the-framework-within-which-a-society-func",
+  "level": 5,
+  "title": "1.2 Legislation is the framework within which a society functions. The"
+ },
+ {
+  "id": "1-3-the-above-exemplifies-the-dual-aspects-of-legislative-dr",
+  "level": 5,
+  "title": "1.3 The above exemplifies the dual aspects of legislative drafting—the"
+ },
+ {
+  "id": "what-is-a-legislative-drafter",
+  "level": 5,
+  "title": "What is a legislative drafter?"
+ },
+ {
+  "id": "1-4-a-legislative-drafter-is-a-lawyer-who-specializes-in-dra",
+  "level": 5,
+  "title": "1.4 A legislative drafter is a lawyer who specializes in drafting legislation"
+ },
+ {
+  "id": "who-makes-hong-kong-legislation",
+  "level": 5,
+  "title": "Who makes Hong Kong legislation?"
+ },
+ {
+  "id": "1-5-the-legislative-council-of-the-hong-kong-special-adminis",
+  "level": 5,
+  "title": "1.5 The Legislative Council of the Hong Kong Special Administrative"
+ },
+ {
+  "id": "1-6-the-subsidiary-legislation-of-hong-kong-is-made-by-the-c",
+  "level": 5,
+  "title": "1.6 The subsidiary legislation of Hong Kong is made by the Chief"
+ },
+ {
+  "id": "who-drafts-government-legislation",
+  "level": 5,
+  "title": "Who drafts Government legislation?"
+ },
+ {
+  "id": "1-7-counsel-employed-as-legislative-drafters-of-the-law-draf",
+  "level": 5,
+  "title": "1.7 Counsel employed as legislative drafters of the Law Drafting Division"
+ },
+ {
+  "id": "structure-of-law-drafting-division",
+  "level": 5,
+  "title": "Structure of Law Drafting Division"
+ },
+ {
+  "id": "1-8-the-law-drafting-division-ldd-headed-by-the-law-draftsma",
+  "level": 5,
+  "title": "1.8 The Law Drafting Division (LDD), headed by the Law Draftsman, is one"
+ },
+ {
+  "id": "1-9-on-1-june-2012-ldd-had-an-establishment-of-37-counsel-1-",
+  "level": 5,
+  "title": "1.9 On 1 June 2012 LDD had an establishment of 37 counsel, 1 Law"
+ },
+ {
+  "id": "functions-of-ldd",
+  "level": 5,
+  "title": "Functions of LDD"
+ },
+ {
+  "id": "1-10-the-primary-function-of-ldd-is-to-provide-legislative-d",
+  "level": 5,
+  "title": "1.10 The primary function of LDD is to provide legislative drafting services"
+ },
+ {
+  "id": "1-11-in-the-rules-of-procedure-of-the-legislative-council-of",
+  "level": 5,
+  "title": "1.11 In the Rules of Procedure of the Legislative Council of the Hong Kong"
+ },
+ {
+  "id": "1-12-counsel-of-ldd-also-advise-the-government-on-legal-issu",
+  "level": 5,
+  "title": "1.12 Counsel of LDD also advise the Government on legal issues and"
+ },
+ {
+  "id": "1-13-ldd-maintains-the-loose-leaf-edition-of-the-laws-of-hon",
+  "level": 5,
+  "title": "1.13 LDD maintains the Loose‐leaf Edition of the laws of Hong Kong"
+ },
+ {
+  "id": "training-of-counsel",
+  "level": 5,
+  "title": "Training of counsel"
+ },
+ {
+  "id": "1-14-ldd-places-a-high-priority-on-the-training-and-professi",
+  "level": 5,
+  "title": "1.14 LDD places a high priority on the training and professional"
+ },
+ {
+  "id": "the-drafting-process",
+  "level": 2,
+  "title": "The Drafting Process"
+ },
+ {
+  "id": "instructions-to-draft",
+  "level": 5,
+  "title": "Instructions to draft"
+ },
+ {
+  "id": "2-1-all-government-legislation-is-drafted-on-the-basis-of-dr",
+  "level": 5,
+  "title": "2.1 All Government legislation is drafted on the basis of Drafting"
+ },
+ {
+  "id": "committee-on-legislative-priorities",
+  "level": 5,
+  "title": "Committee on Legislative Priorities"
+ },
+ {
+  "id": "2-2-a-proposal-for-primary-legislation-is-presented-to-legco",
+  "level": 5,
+  "title": "2.2 A proposal for primary legislation is presented to LegCo as a Bill. The"
+ },
+ {
+  "id": "2-3-the-committee-consists-of-the-chief-secretary-for-admini",
+  "level": 5,
+  "title": "2.3 The Committee consists of the Chief Secretary for Administration, the"
+ },
+ {
+  "id": "2-4-after-the-committee-has-settled-the-legislative-programm",
+  "level": 5,
+  "title": "2.4 After the Committee has settled the legislative programme for a"
+ },
+ {
+  "id": "legislative-timetable-for-subsidiary-legislation",
+  "level": 5,
+  "title": "Legislative timetable for subsidiary legislation"
+ },
+ {
+  "id": "2-5-the-usual-practice-with-regard-to-government-subsidiary-",
+  "level": 5,
+  "title": "2.5 The usual practice with regard to Government subsidiary legislation is"
+ },
+ {
+  "id": "how-is-legislation-drafted",
+  "level": 5,
+  "title": "How is legislation drafted?"
+ },
+ {
+  "id": "2-6-the-most-important-part-of-preparing-a-legislative-item-",
+  "level": 5,
+  "title": "2.6 The most important part of preparing a legislative item is the drafting"
+ },
+ {
+  "id": "2-7-the-above-applies-to-all-except-the-simplest-of-legislat",
+  "level": 5,
+  "title": "2.7 The above applies to all except the simplest of legislative proposals."
+ },
+ {
+  "id": "2-8-naturally-drafters-work-hard-to-complete-a-drafting-assi",
+  "level": 5,
+  "title": "2.8 Naturally, drafters work hard to complete a drafting assignment"
+ },
+ {
+  "id": "2-9-after-the-initial-stages-are-completed-the-drafting-proc",
+  "level": 5,
+  "title": "2.9 After the initial stages are completed, the drafting process normally"
+ },
+ {
+  "id": "2-10-drafts-are-checked-and-cleared-internally-at-various-st",
+  "level": 5,
+  "title": "2.10 Drafts are checked and cleared internally at various stages before the"
+ },
+ {
+  "id": "time-taken-to-complete-the-drafting-varies",
+  "level": 5,
+  "title": "Time taken to complete the drafting varies"
+ },
+ {
+  "id": "2-11-the-time-it-takes-to-finish-drafting-an-item-of-legisla",
+  "level": 5,
+  "title": "2.11 The time it takes to finish drafting an item of legislation depends on"
+ },
+ {
+  "id": "how-much-legislation-is-drafted-each-year",
+  "level": 5,
+  "title": "How much legislation is drafted each year?"
+ },
+ {
+  "id": "2-12-on-average-ldd-drafts-about-25-bills-a-year-ldd-also-dr",
+  "level": 5,
+  "title": "2.12 On average, LDD drafts about 25 Bills a year. LDD also drafts about"
+ },
+ {
+  "id": "formal-steps-for-making-legislation",
+  "level": 5,
+  "title": "Formal steps for making legislation"
+ },
+ {
+  "id": "2-13-after-the-drafting-is-completed-that-is-after-the-final",
+  "level": 5,
+  "title": "2.13 After the drafting is completed, that is, after the final agreed draft or"
+ },
+ {
+  "id": "2-14-it-is-very-common-for-subsidiary-legislation-making-pow",
+  "level": 5,
+  "title": "2.14 It is very common for subsidiary legislation making powers to be"
+ },
+ {
+  "id": "the-executive-council",
+  "level": 2,
+  "title": "The Executive Council"
+ },
+ {
+  "id": "submission-to-the-executive-council",
+  "level": 5,
+  "title": "Submission to the Executive Council"
+ },
+ {
+  "id": "3-1-the-executive-council-exco-is-an-organ-for-assisting-the",
+  "level": 5,
+  "title": "3.1 The Executive Council (ExCo) is an organ “for assisting the Chief"
+ },
+ {
+  "id": "3-2-in-both-cases-the-exco-memo-will-explain-the-objects-of-",
+  "level": 5,
+  "title": "3.2 In both cases, the ExCo Memo will explain the objects of the"
+ },
+ {
+  "id": "3-3-if-it-is-a-bill-the-chief-executive-in-consultation-with",
+  "level": 5,
+  "title": "3.3 If it is a Bill, the Chief Executive, in consultation with ExCo, can decide"
+ },
+ {
+  "id": "3-4-exco-meets-about-40-times-a-year-on-tuesday-mornings-whe",
+  "level": 5,
+  "title": "3.4 ExCo meets about 40 times a year, on Tuesday mornings. When an"
+ },
+ {
+  "id": "publication-of-bills-and-subsidiary-legislation",
+  "level": 5,
+  "title": "Publication of Bills and subsidiary legislation"
+ },
+ {
+  "id": "3-5-when-a-bill-is-approved-for-introduction-into-legco-a-no",
+  "level": 5,
+  "title": "3.5 When a Bill is approved for introduction into LegCo, a Notice of"
+ },
+ {
+  "id": "section",
+  "level": 4,
+  "title": "�"
+ },
+ {
+  "id": "section-2",
+  "level": 5,
+  "title": "�"
+ },
+ {
+  "id": "the-legislative-council",
+  "level": 2,
+  "title": "The�Legislative�Council�"
+ },
+ {
+  "id": "section-3",
+  "level": 5,
+  "title": "�"
+ },
+ {
+  "id": "legislature-of-hong-kong",
+  "level": 5,
+  "title": "Legislature�of�Hong�Kong�"
+ },
+ {
+  "id": "primary-legislation-legislative-process",
+  "level": 5,
+  "title": "Primary�legislation—legislative�process�"
+ },
+ {
+  "id": "4-3-at-the-first-reading-the-clerk-to-the-legislative-counci",
+  "level": 5,
+  "title": "4.3� At�the�first�reading,�the�Clerk�to�the�Legislative�Council�reads�aloud�"
+ },
+ {
+  "id": "section-4",
+  "level": 4,
+  "title": "����������������������������������������������"
+ },
+ {
+  "id": "4-5-all-the-amendments-to-a-bill-that-the-government-propose",
+  "level": 5,
+  "title": "4.5 All the amendments to a Bill that the Government proposes or agrees"
+ },
+ {
+  "id": "4-6-after-the-debate-on-the-second-reading-is-resumed-under-",
+  "level": 5,
+  "title": "4.6 After the debate on the second reading is resumed under LegCo"
+ },
+ {
+  "id": "publication-of-primary-legislation",
+  "level": 5,
+  "title": "Publication of primary legislation"
+ },
+ {
+  "id": "4-7-after-a-bill-is-passed-by-legco-and-signed-by-the-chief-",
+  "level": 5,
+  "title": "4.7 After a Bill is passed by LegCo and signed by the Chief Executive"
+ },
+ {
+  "id": "scrutiny-of-subsidiary-legislation",
+  "level": 5,
+  "title": "Scrutiny of subsidiary legislation"
+ },
+ {
+  "id": "4-8-legco-has-a-supervisory-role-over-legislation-the-making",
+  "level": 5,
+  "title": "4.8 LegCo has a supervisory role over legislation the making of which it"
+ },
+ {
+  "id": "completion-of-process",
+  "level": 2,
+  "title": "Completion of Process"
+ },
+ {
+  "id": "legal-reports",
+  "level": 5,
+  "title": "Legal Reports"
+ },
+ {
+  "id": "5-1-after-an-ordinance-is-published-in-the-gazette-the-law-d",
+  "level": 5,
+  "title": "5.1 After an Ordinance is published in the Gazette, the Law Draftsman"
+ },
+ {
+  "id": "5-2-under-article-17-of-the-bl-the-standing-committee-may-in",
+  "level": 5,
+  "title": "5.2 Under Article 17 of the BL, the Standing Committee may, in certain"
+ },
+ {
+  "id": "commencement-of-legislation",
+  "level": 5,
+  "title": "Commencement of legislation"
+ },
+ {
+  "id": "5-3-legislation-comes-into-operation-in-the-absence-of-a-pro",
+  "level": 5,
+  "title": "5.3 Legislation comes into operation, in the absence of a provision for it"
+ },
+ {
+  "id": "time-taken-for-the-legislative-process-for-a-bill",
+  "level": 5,
+  "title": "Time taken for the legislative process for a Bill"
+ },
+ {
+  "id": "5-4-the-table-at-appendix-4-shows-the-length-of-time-taken-f",
+  "level": 5,
+  "title": "5.4 The table at Appendix 4 shows the length of time taken for each"
+ },
+ {
+  "id": "enhancing-quality-and-accessibility",
+  "level": 2,
+  "title": "Enhancing Quality and Accessibility"
+ },
+ {
+  "id": "initiatives-to-enhance-end-product",
+  "level": 5,
+  "title": "Initiatives to enhance end product"
+ },
+ {
+  "id": "6-1-this-chapter-describes-some-measures-initiated-by-ldd-or",
+  "level": 5,
+  "title": "6.1 This Chapter describes some measures initiated by LDD or in which"
+ },
+ {
+  "id": "plain-language-and-gender-neutral-language",
+  "level": 5,
+  "title": "Plain language and gender‐neutral language"
+ },
+ {
+  "id": "6-2-it-is-ldd-s-policy-to-draft-laws-in-plain-language-the-g",
+  "level": 5,
+  "title": "6.2 It is LDD’s policy to draft laws in plain language. The goal of plain"
+ },
+ {
+  "id": "6-3-in-late-2010-ldd-officially-adopted-a-policy-of-drafting",
+  "level": 5,
+  "title": "6.3 In late 2010, LDD officially adopted a policy of drafting in"
+ },
+ {
+  "id": "guide-to-drafting-styles-and-practices",
+  "level": 5,
+  "title": "Guide to drafting styles and practices"
+ },
+ {
+  "id": "6-4-in-2012-the-department-of-justice-published-a-guide-to-t",
+  "level": 5,
+  "title": "6.4 In 2012 the Department of Justice published a guide to the styles and"
+ },
+ {
+  "id": "6-5-the-styles-and-practices-recommended-in-the-guide-are-de",
+  "level": 5,
+  "title": "6.5 The styles and practices recommended in the Guide are designed to"
+ },
+ {
+  "id": "6-6-the-guide-aims-to-promote-uniformity-in-drafting-practic",
+  "level": 5,
+  "title": "6.6 The Guide aims to promote uniformity in drafting practices, among"
+ },
+ {
+  "id": "bilingualism",
+  "level": 5,
+  "title": "Bilingualism"
+ },
+ {
+  "id": "6-7-up-until-the-late-1980s-all-legislation-in-hong-kong-was",
+  "level": 5,
+  "title": "6.7 Up until the late 1980s all legislation in Hong Kong was enacted in"
+ },
+ {
+  "id": "6-8-under-section-10b-1-of-the-interpretation-and-general-cl",
+  "level": 5,
+  "title": "6.8 Under section 10B(1) of the Interpretation and General Clauses"
+ },
+ {
+  "id": "section-5",
+  "level": 4,
+  "title": "�"
+ },
+ {
+  "id": "bilingual-legal-glossaries",
+  "level": 5,
+  "title": "Bilingual�Legal�Glossaries�"
+ },
+ {
+  "id": "6-9",
+  "level": 5,
+  "title": "6.9"
+ },
+ {
+  "id": "the-loose-leaf-edition",
+  "level": 5,
+  "title": "The�Loose�leaf�Edition�"
+ },
+ {
+  "id": "section-6",
+  "level": 4,
+  "title": "����������������������������������������������"
+ },
+ {
+  "id": "6-13-the-loose-leaf-edition-is-printed-on-a4-size-pages-in-l",
+  "level": 5,
+  "title": "6.13 The Loose‐leaf Edition is printed on A4 size pages in landscape"
+ },
+ {
+  "id": "blis-and-the-web",
+  "level": 5,
+  "title": "BLIS and the Web"
+ },
+ {
+  "id": "6-14-hong-kong-has-a-searchable-database-of-its-legislation-",
+  "level": 5,
+  "title": "6.14 Hong Kong has a searchable database of its legislation (primary and"
+ },
+ {
+  "id": "6-15-the-principal-features-of-the-online-blis-are-set-out-a",
+  "level": 5,
+  "title": "6.15 The principal features of the online BLIS are set out at Appendix 7."
+ },
+ {
+  "id": "proposed-verified-legislation-information-system",
+  "level": 5,
+  "title": "Proposed Verified Legislation Information System"
+ },
+ {
+  "id": "6-16-as-the-electronic-version-of-legislation-on-blis-is-mad",
+  "level": 5,
+  "title": "6.16 As the electronic version of legislation on BLIS is made available for"
+ },
+ {
+  "id": "editorial-amendments-and-revision-orders",
+  "level": 5,
+  "title": "Editorial Amendments and Revision Orders"
+ },
+ {
+  "id": "6-17-the-secretary-for-justice-has-certain-editorial-and-rev",
+  "level": 5,
+  "title": "6.17 The Secretary for Justice has certain editorial and revision powers"
+ },
+ {
+  "id": "6-18-examples-of-editorial-amendments-include-correcting-gra",
+  "level": 5,
+  "title": "6.18 Examples of editorial amendments include correcting grammatical,"
+ },
+ {
+  "id": "6-19-the-first-editorial-record-was-published-on-9-february-",
+  "level": 5,
+  "title": "6.19 The first Editorial Record was published on 9 February 2012. It is"
+ },
+ {
+  "id": "6-20-the-exercise-of-the-power-to-make-revision-orders-will-",
+  "level": 5,
+  "title": "6.20 The exercise of the power to make Revision Orders will assist in"
+ },
+ {
+  "id": "appendices",
+  "level": 2,
+  "title": "Appendices"
+ },
+ {
+  "id": "1-organizational-chart-of-the-department-of-justice-2-organi-2",
+  "level": 3,
+  "title": "1 Organizational Chart of the Department of Justice 2 Organizational Chart of the Law Drafting Division 3 HKSAR General Regulations—Chapter V, Legal Matters 4 Legislative Process—Timetable of a Bill 5 Sample page of Loose‐leaf Edition 6 Sample page of BLIS 7 Principal features of BLIS"
+ },
+ {
+  "id": "law-drafting-division-legal-policy-division-prosecutions-div",
+  "level": 5,
+  "title": "Law Drafting Division Legal Policy Division Prosecutions Division Administration and Development Division Civil Division International Law Division"
+ },
+ {
+  "id": "secretary-for-justice-s-office",
+  "level": 4,
+  "title": "Secretary for Justice’s Office"
+ },
+ {
+  "id": "organizational-chart-of-the-department-of-justice",
+  "level": 3,
+  "title": "Organizational Chart of the Department of Justice"
+ },
+ {
+  "id": "organizational-chart-of-the-law-drafting-division",
+  "level": 3,
+  "title": "Organizational Chart of the Law Drafting Division"
+ },
+ {
+  "id": "1-deputy-law-draftsman-bilingual-drafting-administration-pgc",
+  "level": 5,
+  "title": "1 Deputy Law Draftsman (Bilingual Drafting & Administration), PGC 1 Deputy Law Draftsman (Legislation), PGC"
+ },
+ {
+  "id": "administration-unit-bilingual-drafting-unit-laws-compilation",
+  "level": 5,
+  "title": "Administration Unit Bilingual Drafting Unit Laws Compilation Unit English Drafting Unit"
+ },
+ {
+  "id": "professional-development-team-team-1-team-2-team-3-team-1-te",
+  "level": 5,
+  "title": "Professional Development Team Team 1 Team 2 Team 3 Team 1 Team 2 Team 3 Team 4 1 SGC*"
+ },
+ {
+  "id": "hksar-general-regulations",
+  "level": 3,
+  "title": "HKSAR General Regulations"
+ },
+ {
+  "id": "chapter-v-legal-matters",
+  "level": 3,
+  "title": "Chapter V, Legal Matters"
+ },
+ {
+  "id": "preparation-of-new-legislation",
+  "level": 5,
+  "title": "Preparation of New Legislation"
+ },
+ {
+  "id": "proposal-for-legislation",
+  "level": 5,
+  "title": "Proposal for Legislation"
+ },
+ {
+  "id": "consultation-with-law-officer-civil-law",
+  "level": 5,
+  "title": "Consultation with Law Officer (Civil Law)"
+ },
+ {
+  "id": "secretariat-approval",
+  "level": 5,
+  "title": "Secretariat Approval"
+ },
+ {
+  "id": "preparation-of-drafting-instructions",
+  "level": 5,
+  "title": "Preparation of Drafting Instructions"
+ },
+ {
+  "id": "issue-of-drafting-instructions",
+  "level": 5,
+  "title": "Issue of Drafting Instructions"
+ },
+ {
+  "id": "further-instructions",
+  "level": 5,
+  "title": "Further Instructions"
+ },
+ {
+  "id": "presentation-to-executive-council",
+  "level": 5,
+  "title": "Presentation to Executive Council"
+ },
+ {
+  "id": "explanatory-memorandum-or-note",
+  "level": 5,
+  "title": "Explanatory Memorandum or Note"
+ },
+ {
+  "id": "monitoring-progress",
+  "level": 5,
+  "title": "Monitoring Progress"
+ },
+ {
+  "id": "use-of-maps-in-legislation",
+  "level": 5,
+  "title": "Use of Maps in Legislation"
+ },
+ {
+  "id": "appendix-to-chapter-v",
+  "level": 5,
+  "title": "Appendix to Chapter V"
+ },
+ {
+  "id": "preparation-of-drafting-instructions-2",
+  "level": 4,
+  "title": "Preparation of Drafting Instructions"
+ },
+ {
+  "id": "preparation-of-drafting-instructions-check-list",
+  "level": 4,
+  "title": "Preparation of Drafting Instructions Check List"
+ },
+ {
+  "id": "1-preliminary-steps",
+  "level": 5,
+  "title": "1. Preliminary steps"
+ },
+ {
+  "id": "2-general-explanatory-statement",
+  "level": 5,
+  "title": "2. General explanatory statement"
+ },
+ {
+  "id": "3-detailed-instructions",
+  "level": 5,
+  "title": "3. Detailed Instructions"
+ },
+ {
+  "id": "4-the-detailed-instructions-should",
+  "level": 5,
+  "title": "4. The detailed instructions should:"
+ },
+ {
+  "id": "5-approval",
+  "level": 5,
+  "title": "5. Approval"
+ },
+ {
+  "id": "6-the-law-draftsman-should-be-furnished-with",
+  "level": 5,
+  "title": "6. The Law Draftsman should be furnished with:"
+ },
+ {
+  "id": "legislative-process-timetable-of-a-bill",
+  "level": 3,
+  "title": "Legislative Process—Timetable of a Bill"
+ },
+ {
+  "id": "up-to-first-reading-second-reading-motion",
+  "level": 5,
+  "title": "(Up to First Reading/Second Reading Motion)"
+ },
+ {
+  "id": "action-earliest-day",
+  "level": 5,
+  "title": "Action Earliest Day"
+ },
+ {
+  "id": "sample-page-of-loose-leaf-edition",
+  "level": 3,
+  "title": "Sample page of Loose‐leaf Edition"
+ },
+ {
+  "id": "sample-page-of-blis",
+  "level": 3,
+  "title": "Sample page of BLIS"
+ },
+ {
+  "id": "principal-features-of-blis",
+  "level": 3,
+  "title": "Principal features of BLIS"
+ },
+ {
+  "id": "a-content",
+  "level": 5,
+  "title": "(a) Content"
+ },
+ {
+  "id": "b-structure",
+  "level": 5,
+  "title": "(b) Structure"
+ },
+ {
+  "id": "c-currency",
+  "level": 5,
+  "title": "(c) Currency"
+ },
+ {
+  "id": "d-search-functions",
+  "level": 5,
+  "title": "(d) Search functions"
+ },
+ {
+  "id": "e-copy-and-export-functions",
+  "level": 5,
+  "title": "(e) Copy and export functions"
+ },
+ {
+  "id": "f-viewing-an-enactment",
+  "level": 5,
+  "title": "(f) Viewing an enactment"
+ },
+ {
+  "id": "g-law-as-at-a-particular-date",
+  "level": 5,
+  "title": "(g) Law as at a particular date"
+ },
+ {
+  "id": "h-bilingual-text",
+  "level": 5,
+  "title": "(h) Bilingual text"
+ },
+ {
+  "id": "i-sort-by-relevance",
+  "level": 5,
+  "title": "(i) Sort by relevance"
+ },
+ {
+  "id": "j-preview",
+  "level": 5,
+  "title": "(j) Preview"
+ },
+ {
+  "id": "k-word-variants",
+  "level": 5,
+  "title": "(k) Word variants"
+ },
+ {
+  "id": "l-upper-lower-case",
+  "level": 5,
+  "title": "(l) Upper/lower case"
+ },
+ {
+  "id": "m-no-excluded-words",
+  "level": 5,
+  "title": "(m) No excluded words"
+ },
+ {
+  "id": "n-whole-enactment-mode-in-blis-on-internet",
+  "level": 5,
+  "title": "(n) Whole enactment mode in BLIS on Internet"
+ },
+ {
+  "id": "o-mobile-blis",
+  "level": 5,
+  "title": "(o) Mobile BLIS"
+ }
+]

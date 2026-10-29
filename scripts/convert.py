@@ -10,6 +10,7 @@ Conversion by source format:
     PDF        PyMuPDF layout analysis: font-size ranks become heading levels,
                running headers/footers and page numbers are dropped, lines are
                joined into paragraphs, and list items are kept as list items.
+               Scanned PDFs with no text layer are OCRed with Tesseract when installed.
     HTML       main content region extracted; navigation, scripts and chrome removed.
                Multi-page crawls (documents/<id>/pages/) are concatenated in order.
     DOCX/ODT   pandoc.
@@ -141,9 +142,23 @@ def _heading_levels(lines: list[dict], body: float) -> dict[float, int]:
     return levels
 
 
+def _ocr(doc: fitz.Document, dpi: int = 200) -> fitz.Document:
+    """Rebuild a scanned PDF with a Tesseract text layer (needs tesseract installed)."""
+    out = fitz.open()
+    for page in doc:
+        pix = page.get_pixmap(dpi=dpi)
+        out.insert_pdf(fitz.open("pdf", pix.pdfocr_tobytes(language="eng")))
+    return out
+
+
 def convert_pdf(path: Path) -> tuple[str, list[dict], str]:
     doc = fitz.open(path)
     lines = _pdf_lines(doc)
+    if not lines and shutil.which("tesseract"):
+        doc = _ocr(doc)
+        lines = _pdf_lines(doc)
+        for ln in lines:  # OCR font sizes are estimates, too noisy to rank headings by
+            ln["size"], ln["bold"] = 10.0, False
     furniture = _furniture(lines, len(doc))
     lines = [
         ln
