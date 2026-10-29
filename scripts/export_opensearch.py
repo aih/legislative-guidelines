@@ -90,7 +90,7 @@ def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--index", default="legislative-guidelines")
     ap.add_argument("--load", metavar="URL", help="OpenSearch base URL to create the index in and load")
-    ap.add_argument("--page-base", default="https://aih.github.io/legislative-guidelines/")
+    ap.add_argument("--page-base", default="https://legdraft.linkedlegislation.org/")
     ap.add_argument("--out", default=str(ROOT / "dist" / "opensearch-bulk.ndjson"))
     args = ap.parse_args()
 

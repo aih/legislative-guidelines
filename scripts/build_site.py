@@ -14,6 +14,7 @@ the converted documents in documents/<id>/ and writes:
     dist/about.html                    method and field definitions
     dist/catalog.json, catalog.csv     machine-readable catalog
     dist/opensearch.xml                OpenSearch description, so browsers can add the site as a search engine
+    dist/sitemap.xml, robots.txt       page list for search engines
 
 Run `npx pagefind --site dist` afterwards to build the search index.
 """
@@ -41,7 +42,7 @@ SITE = {
     "title": "Legislative Drafting Guidelines",
     "subtitle": "National and supranational drafting manuals, collected and converted to HTML",
     "repo": os.environ.get("SITE_REPO", "aih/legislative-guidelines"),
-    "url": os.environ.get("SITE_URL", "https://aih.github.io/legislative-guidelines/"),
+    "url": os.environ.get("SITE_URL", "https://legdraft.linkedlegislation.org/"),
     # Optional: a Formspree-compatible endpoint. When empty, the contribute form
     # opens a prefilled GitHub issue instead.
     "form_endpoint": os.environ.get("FORM_ENDPOINT", ""),
@@ -216,6 +217,12 @@ def main() -> int:
 
     export_catalog(catalog)
     write(DIST / ".nojekyll", "")
+    pages = ["index.html", "search.html", "compare.html", "auditor.html", "about.html", "contribute.html"]
+    pages += [f"guidelines/{g['id']}/index.html" for g in catalog]
+    urls = "".join(f"  <url><loc>{SITE['url']}{path}</loc></url>\n" for path in pages)
+    write(DIST / "sitemap.xml",
+          f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{urls}</urlset>\n')
+    write(DIST / "robots.txt", f"User-agent: *\nAllow: /\nSitemap: {SITE['url']}sitemap.xml\n")
     print(f"built {len(catalog)} guideline pages into {DIST.relative_to(ROOT)}/ "
           f"({stats['converted']} with converted text, {stats['stored']} with stored originals)")
     return 0
