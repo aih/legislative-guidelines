@@ -1,0 +1,567 @@
+[
+ {
+  "id": "uncitral",
+  "level": 2,
+  "title": "UNCITRAL"
+ },
+ {
+  "id": "united-nations-commission-on-international-trade-law",
+  "level": 3,
+  "title": "UNITED NATIONS COMMISSION ON INTERNATIONAL TRADE LAW"
+ },
+ {
+  "id": "uncitral-legislative-guide-on-secured-transactions",
+  "level": 2,
+  "title": "UNCITRAL Legislative Guide on Secured Transactions"
+ },
+ {
+  "id": "uncitral-legislative-guide-on-secured-transactions-2",
+  "level": 2,
+  "title": "UNCITRAL Legislative Guide on Secured Transactions"
+ },
+ {
+  "id": "preface",
+  "level": 3,
+  "title": "Preface"
+ },
+ {
+  "id": "contents",
+  "level": 2,
+  "title": "Contents"
+ },
+ {
+  "id": "introduction",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "a-purpose-of-the-guide",
+  "level": 3,
+  "title": "A. Purpose of the Guide"
+ },
+ {
+  "id": "b-terminology-and-interpretation",
+  "level": 3,
+  "title": "B. Terminology and interpretation"
+ },
+ {
+  "id": "c-examples-of-financing-practices-covered-in-the-guide",
+  "level": 3,
+  "title": "C. Examples of financing practices covered in the Guide"
+ },
+ {
+  "id": "d-key-objectives-and-fundamental-policies-of-an-effective-an",
+  "level": 3,
+  "title": "D. Key objectives and fundamental policies of an effective and efficient secured transactions regime"
+ },
+ {
+  "id": "e-implementing-a-new-secured-transactions-law",
+  "level": 3,
+  "title": "E. Implementing a new secured transactions law"
+ },
+ {
+  "id": "f-recommendation-1",
+  "level": 3,
+  "title": "F. Recommendation 1"
+ },
+ {
+  "id": "i-scope-of-application-basic-approaches-to-secured-transacti",
+  "level": 2,
+  "title": "I. \u0007Scope of application, basic approaches to secured transactions and general themes common to all chapters of the Guide"
+ },
+ {
+  "id": "a-general-remarks",
+  "level": 3,
+  "title": "A. General remarks"
+ },
+ {
+  "id": "e-recommendations-2-12",
+  "level": 3,
+  "title": "E. Recommendations 2-12"
+ },
+ {
+  "id": "ii-creation-of-a-security-right-effectiveness-as-between-the",
+  "level": 2,
+  "title": "II. Creation of a security right (effectiveness as between the parties)"
+ },
+ {
+  "id": "a-general-remarks-2",
+  "level": 3,
+  "title": "A. General remarks"
+ },
+ {
+  "id": "b-asset-specific-remarks",
+  "level": 3,
+  "title": "B. Asset-specific remarks"
+ },
+ {
+  "id": "c-recommendations-13-28",
+  "level": 3,
+  "title": "C. Recommendations 13-28"
+ },
+ {
+  "id": "iii-effectiveness-of-a-security-right-against-third-parties",
+  "level": 2,
+  "title": "III. Effectiveness of a security right against third parties"
+ },
+ {
+  "id": "a-general-remarks-3",
+  "level": 3,
+  "title": "A. General remarks"
+ },
+ {
+  "id": "b-asset-specific-remarks-2",
+  "level": 3,
+  "title": "B. Asset-specific remarks"
+ },
+ {
+  "id": "c-recommendations-29-53",
+  "level": 3,
+  "title": "C. Recommendations 29-53"
+ },
+ {
+  "id": "iv-the-registry-system",
+  "level": 2,
+  "title": "IV. The registry system"
+ },
+ {
+  "id": "a-general-remarks-4",
+  "level": 3,
+  "title": "A. General remarks"
+ },
+ {
+  "id": "b-recommendations-54-75",
+  "level": 3,
+  "title": "B. Recommendations 54-75"
+ },
+ {
+  "id": "v-priority-of-a-security-right",
+  "level": 2,
+  "title": "V. Priority of a security right"
+ },
+ {
+  "id": "a-general-remarks-5",
+  "level": 3,
+  "title": "A. General remarks"
+ },
+ {
+  "id": "b-asset-specific-remarks-3",
+  "level": 3,
+  "title": "B. Asset-specific remarks"
+ },
+ {
+  "id": "c-recommendations-76-109",
+  "level": 3,
+  "title": "C. Recommendations 76-109"
+ },
+ {
+  "id": "vi-rights-and-obligations-of-the-parties-to-a-security-agree",
+  "level": 2,
+  "title": "VI. Rights and obligations of the parties to a security agreement"
+ },
+ {
+  "id": "a-general-remarks-6",
+  "level": 3,
+  "title": "A. General remarks"
+ },
+ {
+  "id": "b-asset-specific-remarks-4",
+  "level": 3,
+  "title": "B. Asset-specific remarks"
+ },
+ {
+  "id": "c-recommendations-110-116",
+  "level": 3,
+  "title": "C. Recommendations 110-116"
+ },
+ {
+  "id": "vii-rights-and-obligations-of-third-party-obligors",
+  "level": 2,
+  "title": "VII. Rights and obligations of third-party obligors"
+ },
+ {
+  "id": "a-general-remarks-7",
+  "level": 3,
+  "title": "A. General remarks"
+ },
+ {
+  "id": "b-recommendations-117-130",
+  "level": 3,
+  "title": "B. Recommendations 117-130"
+ },
+ {
+  "id": "viii-enforcement-of-a-security-right",
+  "level": 2,
+  "title": "VIII. Enforcement of a security right"
+ },
+ {
+  "id": "a-general-remarks-8",
+  "level": 3,
+  "title": "A. General remarks"
+ },
+ {
+  "id": "b-asset-specific-remarks-5",
+  "level": 3,
+  "title": "B. Asset-specific remarks"
+ },
+ {
+  "id": "c-recommendations-131-177",
+  "level": 3,
+  "title": "C. Recommendations 131-177"
+ },
+ {
+  "id": "ix-acquisition-financing",
+  "level": 2,
+  "title": "IX. Acquisition financing"
+ },
+ {
+  "id": "a-general-remarks-9",
+  "level": 3,
+  "title": "A. General remarks"
+ },
+ {
+  "id": "b-recommendations-178-202",
+  "level": 3,
+  "title": "B. Recommendations 178-202"
+ },
+ {
+  "id": "option-a-unitary-approach",
+  "level": 4,
+  "title": "Option A: Unitary approach*"
+ },
+ {
+  "id": "option-b-non-unitary-approach",
+  "level": 4,
+  "title": "Option B: Non-unitary approach*"
+ },
+ {
+  "id": "x-conflict-of-laws",
+  "level": 2,
+  "title": "X. Conflict of laws"
+ },
+ {
+  "id": "a-general-remarks-10",
+  "level": 3,
+  "title": "A. General remarks"
+ },
+ {
+  "id": "b-specific-remarks-concerning-multi-unit-states",
+  "level": 3,
+  "title": "B. Specific remarks concerning multi-unit States"
+ },
+ {
+  "id": "c-recommendations-203-227",
+  "level": 3,
+  "title": "C. Recommendations 203-227*"
+ },
+ {
+  "id": "xi-transition",
+  "level": 2,
+  "title": "XI. Transition"
+ },
+ {
+  "id": "a-general-remarks-11",
+  "level": 3,
+  "title": "A. General remarks"
+ },
+ {
+  "id": "b-recommendations-228-234",
+  "level": 3,
+  "title": "B. Recommendations 228-234"
+ },
+ {
+  "id": "xii-the-impact-of-insolvency-on-a-security-right",
+  "level": 2,
+  "title": "XII. The impact of insolvency on a security right"
+ },
+ {
+  "id": "a-general-remarks-12",
+  "level": 3,
+  "title": "A. General remarks"
+ },
+ {
+  "id": "b-recommendations",
+  "level": 3,
+  "title": "B. Recommendations"
+ },
+ {
+  "id": "annex-i",
+  "level": 2,
+  "title": "Annex I"
+ },
+ {
+  "id": "terminology-and-recommendations-of-the-uncitral-legislative-",
+  "level": 2,
+  "title": "Terminology and recommendations of the UNCITRAL Legislative Guide on Secured Transactions"
+ },
+ {
+  "id": "contents-2",
+  "level": 3,
+  "title": "Contents"
+ },
+ {
+  "id": "terminology",
+  "level": 3,
+  "title": "Terminology*"
+ },
+ {
+  "id": "key-objectives-of-an-effective-and-efficient-secured-transac",
+  "level": 3,
+  "title": "Key objectives of an effective and efficient secured transactions law*"
+ },
+ {
+  "id": "i-scope-of-application-basic-approaches-to-secured-transacti-2",
+  "level": 3,
+  "title": "I. Scope of application, basic approaches to secured transactions and general themes common to all chapters of the Guide"
+ },
+ {
+  "id": "ii-creation-of-a-security-right-effectiveness-as-between-the-2",
+  "level": 3,
+  "title": "II. Creation of a security right (effectiveness as between the parties)"
+ },
+ {
+  "id": "a-general-recommendations",
+  "level": 4,
+  "title": "A. General recommendations*"
+ },
+ {
+  "id": "b-asset-specific-recommendations",
+  "level": 4,
+  "title": "B. Asset-specific recommendations"
+ },
+ {
+  "id": "iii-effectiveness-of-a-security-right-against-third-parties-2",
+  "level": 3,
+  "title": "III. Effectiveness of a security right against third parties"
+ },
+ {
+  "id": "a-general-recommendations-2",
+  "level": 4,
+  "title": "A. General recommendations"
+ },
+ {
+  "id": "b-asset-specific-recommendations-2",
+  "level": 4,
+  "title": "B. Asset-specific recommendations"
+ },
+ {
+  "id": "iv-the-registry-system-2",
+  "level": 3,
+  "title": "IV. The registry system"
+ },
+ {
+  "id": "v-priority-of-a-security-right-2",
+  "level": 3,
+  "title": "V. Priority of a security right"
+ },
+ {
+  "id": "a-general-recommendations-3",
+  "level": 4,
+  "title": "A. General recommendations"
+ },
+ {
+  "id": "b-asset-specific-recommendations-3",
+  "level": 4,
+  "title": "B. Asset-specific recommendations"
+ },
+ {
+  "id": "vi-rights-and-obligations-of-the-parties-to-a-security-agree-2",
+  "level": 3,
+  "title": "VI. Rights and obligations of the parties to a security agreement"
+ },
+ {
+  "id": "a-general-recommendations-4",
+  "level": 4,
+  "title": "A. General recommendations"
+ },
+ {
+  "id": "b-asset-specific-recommendations-4",
+  "level": 4,
+  "title": "B. Asset-specific recommendations"
+ },
+ {
+  "id": "vii-rights-and-obligations-of-third-party-obligors-2",
+  "level": 3,
+  "title": "VII. Rights and obligations of third-party obligors"
+ },
+ {
+  "id": "a-rights-and-obligations-of-the-debtor-of-the-receivable35",
+  "level": 4,
+  "title": "A. Rights and obligations of the debtor of the receivable35"
+ },
+ {
+  "id": "b-rights-and-obligations-of-the-obligor-under-a-negotiable-i",
+  "level": 4,
+  "title": "B. Rights and obligations of the obligor under a negotiable instrument"
+ },
+ {
+  "id": "c-rights-and-obligations-of-a-depositary-bank",
+  "level": 4,
+  "title": "C. Rights and obligations of a depositary bank"
+ },
+ {
+  "id": "d-rights-and-obligations-of-the-guarantor-issuer-confirmer-o",
+  "level": 4,
+  "title": "D. Rights and obligations of the guarantor/issuer, confirmer or nominated person of an independent undertaking"
+ },
+ {
+  "id": "e-rights-and-obligations-of-the-issuer-of-a-negotiable-docum",
+  "level": 4,
+  "title": "E. Rights and obligations of the issuer of a negotiable document"
+ },
+ {
+  "id": "viii-enforcement-of-a-security-right-2",
+  "level": 3,
+  "title": "VIII. Enforcement of a security right"
+ },
+ {
+  "id": "a-general-recommendations-5",
+  "level": 4,
+  "title": "A. General recommendations"
+ },
+ {
+  "id": "b-asset-specific-recommendations-5",
+  "level": 4,
+  "title": "B. Asset-specific recommendations"
+ },
+ {
+  "id": "ix-acquisition-financing-2",
+  "level": 3,
+  "title": "IX. Acquisition financing"
+ },
+ {
+  "id": "option-a-unitary-approach-2",
+  "level": 4,
+  "title": "Option A: Unitary approach*"
+ },
+ {
+  "id": "alternative-a",
+  "level": 4,
+  "title": "Alternative A**"
+ },
+ {
+  "id": "alternative-b",
+  "level": 4,
+  "title": "Alternative B"
+ },
+ {
+  "id": "alternative-a-2",
+  "level": 4,
+  "title": "Alternative A*"
+ },
+ {
+  "id": "alternative-b-2",
+  "level": 4,
+  "title": "Alternative B"
+ },
+ {
+  "id": "option-b-non-unitary-approach-2",
+  "level": 4,
+  "title": "Option B: Non-unitary approach*"
+ },
+ {
+  "id": "alternative-a-3",
+  "level": 4,
+  "title": "Alternative A*"
+ },
+ {
+  "id": "alternative-b-3",
+  "level": 4,
+  "title": "Alternative B"
+ },
+ {
+  "id": "alternative-a-4",
+  "level": 4,
+  "title": "Alternative A*"
+ },
+ {
+  "id": "alternative-b-4",
+  "level": 4,
+  "title": "Alternative B"
+ },
+ {
+  "id": "alternative-a-5",
+  "level": 4,
+  "title": "Alternative A*"
+ },
+ {
+  "id": "alternative-b-5",
+  "level": 4,
+  "title": "Alternative B"
+ },
+ {
+  "id": "x-conflict-of-laws-2",
+  "level": 3,
+  "title": "X. Conflict of laws*"
+ },
+ {
+  "id": "a-general-recommendations-6",
+  "level": 4,
+  "title": "A. General recommendations"
+ },
+ {
+  "id": "alternative-a-6",
+  "level": 4,
+  "title": "Alternative A*"
+ },
+ {
+  "id": "alternative-b-6",
+  "level": 4,
+  "title": "Alternative B"
+ },
+ {
+  "id": "b-special-recommendations-when-the-applicable-law-is-the-law",
+  "level": 4,
+  "title": "B. Special recommendations when the applicable law is the law of a multi-unit State"
+ },
+ {
+  "id": "xi-transition-2",
+  "level": 3,
+  "title": "XI. Transition"
+ },
+ {
+  "id": "xii-the-impact-of-insolvency-on-a-security-right-2",
+  "level": 3,
+  "title": "XII. The impact of insolvency on a security right"
+ },
+ {
+  "id": "a-uncitral-legislative-guide-on-insolvency-law-41-terminolog",
+  "level": 4,
+  "title": "A. UNCITRAL Legislative Guide on Insolvency Law:41 terminology and recommendations"
+ },
+ {
+  "id": "b-additional-insolvency-recommendations",
+  "level": 4,
+  "title": "B. Additional insolvency recommendations"
+ },
+ {
+  "id": "annex-ii",
+  "level": 2,
+  "title": "Annex II"
+ },
+ {
+  "id": "resolution-of-the-united-nations-commission-on-international",
+  "level": 2,
+  "title": "Resolution of the United Nations Commission on International Trade Law and General Assembly resolution 63/121"
+ },
+ {
+  "id": "a-resolution-of-the-commission",
+  "level": 3,
+  "title": "A. Resolution of the Commission"
+ },
+ {
+  "id": "b-general-assembly-resolution-63-121",
+  "level": 3,
+  "title": "B. General Assembly resolution 63/121"
+ },
+ {
+  "id": "legislative-guide-on-secured-transactions-of-the-united-nati",
+  "level": 3,
+  "title": "Legislative Guide on Secured Transactions of the United Nations Commission on International Trade Law"
+ },
+ {
+  "id": "index",
+  "level": 2,
+  "title": "Index"
+ }
+]

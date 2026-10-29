@@ -1,0 +1,617 @@
+[
+ {
+  "id": "61-2009-xii-14-irm-rendelet",
+  "level": 2,
+  "title": "61/2009. (XII. 14.) IRM rendelet"
+ },
+ {
+  "id": "a-jogszabályszerkesztésről",
+  "level": 2,
+  "title": "a jogszabályszerkesztésről"
+ },
+ {
+  "id": "első-rész",
+  "level": 2,
+  "title": "ELSŐ RÉSZ"
+ },
+ {
+  "id": "általános-rendelkezések",
+  "level": 3,
+  "title": "Általános rendelkezések"
+ },
+ {
+  "id": "i-fejezet",
+  "level": 3,
+  "title": "I. Fejezet"
+ },
+ {
+  "id": "a-jogszabály-tervezetének-a-megszövegezésére-vonatkozó-által",
+  "level": 3,
+  "title": "A jogszabály tervezetének a megszövegezésére vonatkozó általános követelmények"
+ },
+ {
+  "id": "ii-fejezet-7",
+  "level": 3,
+  "title": "II. Fejezet [7]"
+ },
+ {
+  "id": "a-jogszabály-tervezetének-a-megjelölése-8",
+  "level": 3,
+  "title": "A jogszabály tervezetének a megjelölése [8]"
+ },
+ {
+  "id": "1-a-jogszabály-tervezetének-a-címe",
+  "level": 3,
+  "title": "1. A jogszabály tervezetének a címe"
+ },
+ {
+  "id": "2-11",
+  "level": 3,
+  "title": "2. [11]"
+ },
+ {
+  "id": "3-13",
+  "level": 3,
+  "title": "3. [13]"
+ },
+ {
+  "id": "4-15",
+  "level": 3,
+  "title": "4. [15]"
+ },
+ {
+  "id": "5-18",
+  "level": 3,
+  "title": "5. [18]"
+ },
+ {
+  "id": "iii-fejezet",
+  "level": 3,
+  "title": "III. Fejezet"
+ },
+ {
+  "id": "hivatkozások-a-jogszabályban",
+  "level": 3,
+  "title": "Hivatkozások a jogszabályban"
+ },
+ {
+  "id": "6-a-rugalmas-hivatkozás",
+  "level": 3,
+  "title": "6. A rugalmas hivatkozás"
+ },
+ {
+  "id": "7-a-merev-hivatkozás",
+  "level": 3,
+  "title": "7. A merev hivatkozás"
+ },
+ {
+  "id": "8-az-általános-hivatkozás",
+  "level": 3,
+  "title": "8. Az általános hivatkozás"
+ },
+ {
+  "id": "9-a-különböző-hivatkozási-formák-együttes-alkalmazása",
+  "level": 3,
+  "title": "9. A különböző hivatkozási formák együttes alkalmazása"
+ },
+ {
+  "id": "10-hivatkozás-jogintézményre",
+  "level": 3,
+  "title": "10. Hivatkozás jogintézményre"
+ },
+ {
+  "id": "11-hivatkozás-államigazgatási-szervre",
+  "level": 3,
+  "title": "11. Hivatkozás államigazgatási szervre"
+ },
+ {
+  "id": "12-hivatkozás-nemzetközi-szerződésre-az-európai-unió-jogi-ak",
+  "level": 3,
+  "title": "12. Hivatkozás nemzetközi szerződésre, az Európai Unió jogi aktusára vagy egyéb uniós jogforrásra"
+ },
+ {
+  "id": "13-hivatkozás-a-jogszabály-rendelkezéseitől-való-eltérésre",
+  "level": 3,
+  "title": "13. Hivatkozás a jogszabály rendelkezéseitől való eltérésre"
+ },
+ {
+  "id": "második-rész",
+  "level": 2,
+  "title": "MÁSODIK RÉSZ"
+ },
+ {
+  "id": "a-jogszabály-formai-tagolása",
+  "level": 3,
+  "title": "A jogszabály formai tagolása"
+ },
+ {
+  "id": "iv-fejezet",
+  "level": 3,
+  "title": "IV. Fejezet"
+ },
+ {
+  "id": "a-jogszabály-formai-tagolásának-lehetőségei-és-módja",
+  "level": 3,
+  "title": "A jogszabály formai tagolásának lehetőségei és módja"
+ },
+ {
+  "id": "v-fejezet",
+  "level": 3,
+  "title": "V. Fejezet"
+ },
+ {
+  "id": "a-jogszabály-szerkezeti-egységei",
+  "level": 3,
+  "title": "A jogszabály szerkezeti egységei"
+ },
+ {
+  "id": "14-a-könyv",
+  "level": 3,
+  "title": "14. A könyv"
+ },
+ {
+  "id": "15-a-rész",
+  "level": 3,
+  "title": "15. A rész"
+ },
+ {
+  "id": "16-a-fejezet",
+  "level": 3,
+  "title": "16. A fejezet"
+ },
+ {
+  "id": "17-az-alcím",
+  "level": 3,
+  "title": "17. Az alcím"
+ },
+ {
+  "id": "18-a-szakasz",
+  "level": 3,
+  "title": "18. A szakasz"
+ },
+ {
+  "id": "19-a-bekezdés",
+  "level": 3,
+  "title": "19. A bekezdés"
+ },
+ {
+  "id": "20-a-pont-és-az-alpont",
+  "level": 3,
+  "title": "20. A pont és az alpont"
+ },
+ {
+  "id": "harmadik-rész",
+  "level": 2,
+  "title": "HARMADIK RÉSZ"
+ },
+ {
+  "id": "a-jogszabály-logikai-tagolása",
+  "level": 3,
+  "title": "A jogszabály logikai tagolása"
+ },
+ {
+  "id": "21-a-jogszabály-logikai-egységeinek-sorrendje",
+  "level": 3,
+  "title": "21. A jogszabály logikai egységeinek sorrendje"
+ },
+ {
+  "id": "vi-fejezet",
+  "level": 3,
+  "title": "VI. Fejezet"
+ },
+ {
+  "id": "a-jogszabály-normatív-tartalommal-nem-rendelkező-logikai-egy",
+  "level": 3,
+  "title": "A jogszabály normatív tartalommal nem rendelkező logikai egységei"
+ },
+ {
+  "id": "22-az-alaptörvény-módosítása-valamint-a-törvény-preambulumár",
+  "level": 3,
+  "title": "22. Az Alaptörvény módosítása, valamint a törvény preambulumára vonatkozó különös követelmények [48]"
+ },
+ {
+  "id": "23-a-jogalkotás-érvényességi-kellékeinek-feltüntetése-50",
+  "level": 3,
+  "title": "23. A jogalkotás érvényességi kellékeinek feltüntetése [50]"
+ },
+ {
+  "id": "24-a-preambulumra-vonatkozó-formai-követelmények-69",
+  "level": 3,
+  "title": "24. A preambulumra vonatkozó formai követelmények [69]"
+ },
+ {
+  "id": "vii-fejezet",
+  "level": 3,
+  "title": "VII. Fejezet"
+ },
+ {
+  "id": "a-jogszabály-általános-rendelkezései",
+  "level": 3,
+  "title": "A jogszabály általános rendelkezései"
+ },
+ {
+  "id": "25-az-általános-rendelkezések-helye-és-tartalmi-követelménye",
+  "level": 3,
+  "title": "25. Az általános rendelkezések helye és tartalmi követelményei"
+ },
+ {
+  "id": "26-a-jogszabály-érvényessége-és-hatálya",
+  "level": 3,
+  "title": "26. A jogszabály érvényessége és hatálya"
+ },
+ {
+  "id": "27-a-jogszabály-alkalmazására-valamint-a-szabályozásra-vonat",
+  "level": 3,
+  "title": "27. A jogszabály alkalmazására, valamint a szabályozásra vonatkozó alapelvek, a szabályozás célja"
+ },
+ {
+  "id": "28-értelmező-rendelkezések",
+  "level": 3,
+  "title": "28. Értelmező rendelkezések"
+ },
+ {
+  "id": "viii-fejezet",
+  "level": 3,
+  "title": "VIII. Fejezet"
+ },
+ {
+  "id": "a-jogszabály-részletes-rendelkezései",
+  "level": 3,
+  "title": "A jogszabály részletes rendelkezései"
+ },
+ {
+  "id": "ix-fejezet",
+  "level": 3,
+  "title": "IX. Fejezet"
+ },
+ {
+  "id": "a-jogszabály-felhatalmazó-rendelkezései",
+  "level": 3,
+  "title": "A jogszabály felhatalmazó rendelkezései"
+ },
+ {
+  "id": "29-a-felhatalmazó-rendelkezés-tartalmi-elemei",
+  "level": 3,
+  "title": "29. A felhatalmazó rendelkezés tartalmi elemei"
+ },
+ {
+  "id": "30-a-felhatalmazás-jogosultja",
+  "level": 3,
+  "title": "30. A felhatalmazás jogosultja"
+ },
+ {
+  "id": "31-a-felhatalmazás-tárgya-és-feltételei",
+  "level": 3,
+  "title": "31. A felhatalmazás tárgya és feltételei"
+ },
+ {
+  "id": "x-fejezet",
+  "level": 3,
+  "title": "X. Fejezet"
+ },
+ {
+  "id": "a-jogszabály-hatályba-léptető-rendelkezése",
+  "level": 3,
+  "title": "A jogszabály hatályba léptető rendelkezése"
+ },
+ {
+  "id": "32-a-hatályba-léptető-rendelkezés-helye-és-felépítése",
+  "level": 3,
+  "title": "32. A hatályba léptető rendelkezés helye és felépítése"
+ },
+ {
+  "id": "33-a-hatálybalépés-időpontjának-meghatározása",
+  "level": 3,
+  "title": "33. A hatálybalépés időpontjának meghatározása"
+ },
+ {
+  "id": "xi-fejezet-91",
+  "level": 3,
+  "title": "XI. Fejezet [91]"
+ },
+ {
+  "id": "xii-fejezet",
+  "level": 3,
+  "title": "XII. Fejezet"
+ },
+ {
+  "id": "a-jogszabály-átmeneti-rendelkezései",
+  "level": 3,
+  "title": "A jogszabály átmeneti rendelkezései"
+ },
+ {
+  "id": "xii-a-fejezet-96",
+  "level": 3,
+  "title": "XII/A. Fejezet [96]"
+ },
+ {
+  "id": "utalás-a-törvény-vagy-törvényi-rendelkezés-sarkalatosságára",
+  "level": 3,
+  "title": "UTALÁS A TÖRVÉNY VAGY TÖRVÉNYI RENDELKEZÉS SARKALATOSSÁGÁRA"
+ },
+ {
+  "id": "xiii-fejezet",
+  "level": 3,
+  "title": "XIII. Fejezet"
+ },
+ {
+  "id": "utalás-a-jogalkotásra-vonatkozó-európai-uniós-követelményekr",
+  "level": 3,
+  "title": "Utalás a jogalkotásra vonatkozó európai uniós követelményekre"
+ },
+ {
+  "id": "34-a-jogharmonizációs-záradék-tartalma-és-alkalmazási-követe",
+  "level": 3,
+  "title": "34. A jogharmonizációs záradék tartalma és alkalmazási követelményei"
+ },
+ {
+  "id": "35-a-jogharmonizációs-záradék-helye-formája-és-megszövegezés",
+  "level": 3,
+  "title": "35. A jogharmonizációs záradék helye, formája és megszövegezése"
+ },
+ {
+  "id": "36-utalás-az-állami-támogatásokra-vonatkozó-európai-uniós-jo",
+  "level": 3,
+  "title": "36. Utalás az állami támogatásokra vonatkozó európai uniós jogi rendelkezésekre"
+ },
+ {
+  "id": "37-hivatkozás-a-jogszabály-tervezetének-az-európai-bizottság",
+  "level": 3,
+  "title": "37. Hivatkozás a jogszabály tervezetének az Európai Bizottsággal, az Európai Központi Bankkal, illetve az Európai Unió tagállamaival vagy az Európai Gazdasági Térségről szóló megállapodásban részes államokkal való egyeztetésére"
+ },
+ {
+  "id": "xiv-fejezet",
+  "level": 3,
+  "title": "XIV. Fejezet"
+ },
+ {
+  "id": "a-jogszabály-módosító-rendelkezései",
+  "level": 3,
+  "title": "A jogszabály módosító rendelkezései"
+ },
+ {
+  "id": "38-a-módosító-rendelkezés-fogalma-fajtái-és-a-módosító-rende",
+  "level": 3,
+  "title": "38. A módosító rendelkezés fogalma, fajtái és a módosító rendelkezésekre vonatkozó közös szabályok"
+ },
+ {
+  "id": "39-a-módosító-rendelkezés-alkalmazása-és-korlátai",
+  "level": 3,
+  "title": "39. A módosító rendelkezés alkalmazása és korlátai"
+ },
+ {
+  "id": "40-a-szövegcserés-módosító-rendelkezés",
+  "level": 3,
+  "title": "40. A szövegcserés módosító rendelkezés"
+ },
+ {
+  "id": "41-a-szerkezeti-egységet-újraszabályozó-módosító-rendelkezés",
+  "level": 3,
+  "title": "41. A szerkezeti egységet újraszabályozó módosító rendelkezés"
+ },
+ {
+  "id": "42-a-kiegészítő-módosító-rendelkezés",
+  "level": 3,
+  "title": "42. A kiegészítő módosító rendelkezés"
+ },
+ {
+  "id": "43-a-szerkezeti-egységet-újraszabályozó-és-a-kiegészítő-módo",
+  "level": 3,
+  "title": "43. A szerkezeti egységet újraszabályozó és a kiegészítő módosító rendelkezés együttes alkalmazása"
+ },
+ {
+  "id": "44-a-jogszabály-tartalmának-megváltozása-a-hatálybalépést-me",
+  "level": 3,
+  "title": "44. A jogszabály tartalmának megváltozása a hatálybalépést megelőzően"
+ },
+ {
+  "id": "45-a-módosító-rendelkezések-tagolása",
+  "level": 3,
+  "title": "45. A módosító rendelkezések tagolása"
+ },
+ {
+  "id": "xv-fejezet",
+  "level": 3,
+  "title": "XV. Fejezet"
+ },
+ {
+  "id": "a-jogszabály-hatályon-kívül-helyező-rendelkezései",
+  "level": 3,
+  "title": "A jogszabály hatályon kívül helyező rendelkezései"
+ },
+ {
+  "id": "46-a-hatályon-kívül-helyező-rendelkezés-felépítése",
+  "level": 3,
+  "title": "46. A hatályon kívül helyező rendelkezés felépítése"
+ },
+ {
+  "id": "47-a-hatályon-kívül-helyező-rendelkezés-alkalmazása",
+  "level": 3,
+  "title": "47. A hatályon kívül helyező rendelkezés alkalmazása"
+ },
+ {
+  "id": "48-a-hatályon-kívül-helyező-rendelkezések-tagolása",
+  "level": 3,
+  "title": "48. A hatályon kívül helyező rendelkezések tagolása"
+ },
+ {
+  "id": "xvi-fejezet",
+  "level": 3,
+  "title": "XVI. Fejezet"
+ },
+ {
+  "id": "rendelkezés-a-hatályba-nem-lépésről",
+  "level": 3,
+  "title": "Rendelkezés a hatályba nem lépésről"
+ },
+ {
+  "id": "negyedik-rész",
+  "level": 2,
+  "title": "NEGYEDIK RÉSZ"
+ },
+ {
+  "id": "a-jogszabály-melléklete",
+  "level": 3,
+  "title": "A jogszabály melléklete"
+ },
+ {
+  "id": "49-a-melléklet-tartalmi-követelményei",
+  "level": 3,
+  "title": "49. A melléklet tartalmi követelményei"
+ },
+ {
+  "id": "50-a-melléklet-megjelölése",
+  "level": 3,
+  "title": "50. A melléklet megjelölése"
+ },
+ {
+  "id": "51-a-jogszabály-mellékletének-módosítása",
+  "level": 3,
+  "title": "51. A jogszabály mellékletének módosítása"
+ },
+ {
+  "id": "ötödik-rész",
+  "level": 2,
+  "title": "ÖTÖDIK RÉSZ"
+ },
+ {
+  "id": "xvii-fejezet",
+  "level": 3,
+  "title": "XVII. Fejezet"
+ },
+ {
+  "id": "a-módosító-jogszabály",
+  "level": 3,
+  "title": "A módosító jogszabály"
+ },
+ {
+  "id": "xviii-fejezet",
+  "level": 3,
+  "title": "XVIII. Fejezet"
+ },
+ {
+  "id": "a-hatályon-kívül-helyező-jogszabály",
+  "level": 3,
+  "title": "A hatályon kívül helyező jogszabály"
+ },
+ {
+  "id": "xix-fejezet-128",
+  "level": 3,
+  "title": "XIX. Fejezet [128]"
+ },
+ {
+  "id": "hatodik-rész",
+  "level": 2,
+  "title": "HATODIK RÉSZ"
+ },
+ {
+  "id": "záró-rendelkezések",
+  "level": 3,
+  "title": "Záró rendelkezések"
+ },
+ {
+  "id": "1-melléklet-a-61-2009-xii-14-irm-rendelethez",
+  "level": 2,
+  "title": "1. melléklet a 61/2009. (XII. 14.) IRM rendelethez"
+ },
+ {
+  "id": "a-jogszabály-tervezete-megszövegezésénél-alkalmazandó-kodifi",
+  "level": 3,
+  "title": "A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szövegezési minták"
+ },
+ {
+  "id": "1-rövid-megjelölés-bevezetése",
+  "level": 3,
+  "title": "1. Rövid megjelölés bevezetése"
+ },
+ {
+  "id": "2-a-jogszabály-tervezetének-a-megjelölése-134",
+  "level": 3,
+  "title": "2. A jogszabály tervezetének a megjelölése [134]"
+ },
+ {
+  "id": "3-a-jogszabály-tervezetének-formai-tagolása",
+  "level": 3,
+  "title": "3. A jogszabály tervezetének formai tagolása"
+ },
+ {
+  "id": "4-hivatkozások-a-jogszabály-tervezetében",
+  "level": 3,
+  "title": "4. Hivatkozások a jogszabály tervezetében"
+ },
+ {
+  "id": "5-az-uniós-jogi-aktusokra-és-azok-szerkezeti-egységeire-vona",
+  "level": 3,
+  "title": "5. Az uniós jogi aktusokra és azok szerkezeti egységeire vonatkozó merev hivatkozás"
+ },
+ {
+  "id": "6-az-alaptörvény-módosítása-és-az-alaptörvényben-megjelölt-t",
+  "level": 3,
+  "title": "6. Az Alaptörvény módosítása és az Alaptörvényben megjelölt törvényhozási tárgykörben megalkotni kívánt törvény tervezete preambulumának kötelező elemei [145]"
+ },
+ {
+  "id": "7-a-rendelet-tervezetének-preambulumában-a-rendelet-megalkot",
+  "level": 3,
+  "title": "7. A rendelet tervezetének preambulumában a rendelet megalkotásához szükséges érvényességi kellékek felsorolásának felépítése [146]"
+ },
+ {
+  "id": "8-a-felhatalmazó-rendelkezés",
+  "level": 3,
+  "title": "8. A felhatalmazó rendelkezés"
+ },
+ {
+  "id": "9-a-hatályba-léptető-rendelkezés",
+  "level": 3,
+  "title": "9. A hatályba léptető rendelkezés"
+ },
+ {
+  "id": "10-a-sarkalatossági-záradék-felépítése-177",
+  "level": 3,
+  "title": "10. A sarkalatossági záradék felépítése [177]"
+ },
+ {
+  "id": "11-a-jogharmonizációs-záradék-formája-és-megszövegezése",
+  "level": 3,
+  "title": "11. A jogharmonizációs záradék formája és megszövegezése"
+ },
+ {
+  "id": "12-az-állami-támogatási-záradék-formája-és-megszövegezése",
+  "level": 3,
+  "title": "12. Az állami támogatási záradék formája és megszövegezése"
+ },
+ {
+  "id": "13-az-előzetes-bejelentési-záradék-formája-és-megszövegezése",
+  "level": 3,
+  "title": "13. Az előzetes bejelentési záradék formája és megszövegezése"
+ },
+ {
+  "id": "14-a-módosító-rendelkezés",
+  "level": 3,
+  "title": "14. A módosító rendelkezés"
+ },
+ {
+  "id": "15-a-jogszabály-tartalmának-a-megváltoztatása-a-hatálybalépé",
+  "level": 3,
+  "title": "15. A jogszabály tartalmának a megváltoztatása a hatálybalépést megelőzően"
+ },
+ {
+  "id": "16-a-hatályon-kívül-helyező-rendelkezés",
+  "level": 3,
+  "title": "16. A hatályon kívül helyező rendelkezés"
+ },
+ {
+  "id": "17-rendelkezés-a-hatályba-nem-lépésről",
+  "level": 3,
+  "title": "17. Rendelkezés a hatályba nem lépésről"
+ },
+ {
+  "id": "18-a-melléklet-és-szerkezeti-egységei-megjelölése-hivatkozás",
+  "level": 3,
+  "title": "18. A melléklet és szerkezeti egységei megjelölése, hivatkozása és módosítása"
+ },
+ {
+  "id": "19-technikai-dereguláció-178",
+  "level": 3,
+  "title": "19. Technikai dereguláció [178]"
+ }
+]

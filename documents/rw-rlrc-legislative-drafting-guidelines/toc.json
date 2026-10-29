@@ -1,0 +1,5072 @@
+[
+ {
+  "id": "imirongo-ngenderwaho-nº-001-rlrc-2022-yo-ku-wa-18-10-2022-y-",
+  "level": 2,
+  "title": "IMIRONGO NGENDERWAHO Nº 001/RLRC/2022 YO KU WA 18/10/2022 Y’IMYANDIKIRE Y’AMATEGEKO"
+ },
+ {
+  "id": "guidelines-nº-001-rlrc-2022-of-18-10-2022-on-legislative-dra",
+  "level": 2,
+  "title": "GUIDELINES Nº 001/RLRC/2022 OF 18/10/2022 ON LEGISLATIVE DRAFTING"
+ },
+ {
+  "id": "lignes-directrices-nº-001-rlrc-2022-du-18-10-2022-portant-ré",
+  "level": 2,
+  "title": "LIGNES DIRECTRICES Nº 001/RLRC/2022 DU 18/10/2022 PORTANT RÉDACTION DES TEXTES NORMATIFS"
+ },
+ {
+  "id": "ishakiro-table-of-contents-tables-des-matières",
+  "level": 2,
+  "title": "ISHAKIRO TABLE OF CONTENTS TABLES DES MATIÈRES"
+ },
+ {
+  "id": "interuro-ya-mbere-ingingo-rusange-title-one-general-provisio",
+  "level": 2,
+  "title": "INTERURO YA MBERE: INGINGO RUSANGE TITLE ONE: GENERAL PROVISIONS TITRE PREMIER : DISPOSITIONS GÉNÉRALES"
+ },
+ {
+  "id": "ingingo-ya-mbere-icyo-iyi-mirongo-ngenderwaho-igamije",
+  "level": 2,
+  "title": "Ingingo ya mbere: Icyo iyi mirongo ngenderwaho igamije"
+ },
+ {
+  "id": "article-one-purpose-of-these-guidelines",
+  "level": 2,
+  "title": "Article One: Purpose of these Guidelines"
+ },
+ {
+  "id": "article-premier-objet-des-présentes-lignes-directrices",
+  "level": 2,
+  "title": "Article premier : Objet des présentes lignes directrices"
+ },
+ {
+  "id": "ingingo-ya-2-isobanura-article-2-interpretation-article-2-in",
+  "level": 2,
+  "title": "Ingingo ya 2: Isobanura Article 2: Interpretation Article 2 : Interprétation"
+ },
+ {
+  "id": "interuro-ya-ii-ibikorwa-mbere-yo-kwandika-amategeko-title-ii",
+  "level": 2,
+  "title": "INTERURO YA II: IBIKORWA MBERE YO KWANDIKA AMATEGEKO TITLE II: PRELIMINARIES TO LEGISLATIVE PREPARATION TITRE II : TÂCHES PRÉLIMINAIRES À LA PRÉPARATION DES TEXTES NORMATIFS"
+ },
+ {
+  "id": "umutwe-wa-mbere-ubushakashatsi",
+  "level": 2,
+  "title": "UMUTWE WA MBERE: UBUSHAKASHATSI"
+ },
+ {
+  "id": "chapter-one-research-chapitre-premier-recherche",
+  "level": 2,
+  "title": "CHAPTER ONE: RESEARCH CHAPITRE PREMIER : RECHERCHE"
+ },
+ {
+  "id": "ingingo-ya-3-intego-y-ubushakashatsi-article-3-objective-of-",
+  "level": 2,
+  "title": "Ingingo ya 3: Intego y’ubushakashatsi Article 3: Objective of research Article 3 : Objectif de la recherche"
+ },
+ {
+  "id": "ingingo-ya-4-icyerekezo-cy-ubushakashatsi",
+  "level": 2,
+  "title": "Ingingo ya 4: Icyerekezo cy’ubushakashatsi"
+ },
+ {
+  "id": "article-4-research-orientation-article-4-orientation-de-la-r",
+  "level": 2,
+  "title": "Article 4: Research orientation Article 4 : Orientation de la recherche"
+ },
+ {
+  "id": "ingingo-ya-5-ibikubiye-muri-raporo-article-5-content-of-a-re",
+  "level": 2,
+  "title": "Ingingo ya 5: Ibikubiye muri raporo Article 5: Content of a research report Article 5 : Contenu d’un rapport de"
+ },
+ {
+  "id": "y-ubushakashatsi-recherche",
+  "level": 2,
+  "title": "y’ubushakashatsi recherche"
+ },
+ {
+  "id": "ingingo-ya-6-imiterere-ya-raporo-y-ubushakashatsi",
+  "level": 2,
+  "title": "Ingingo ya 6: Imiterere ya raporo y’ubushakashatsi"
+ },
+ {
+  "id": "article-6-format-of-the-research-report-article-6-forme-du-r",
+  "level": 2,
+  "title": "Article 6: Format of the research report Article 6 : Forme du rapport de recherche"
+ },
+ {
+  "id": "umutwe-wa-ii-amabwiriza-yo-kwandika-umushinga",
+  "level": 2,
+  "title": "UMUTWE WA II: AMABWIRIZA YO KWANDIKA UMUSHINGA"
+ },
+ {
+  "id": "chapter-ii-drafting-instructions-chapitre-ii-instructions-de",
+  "level": 2,
+  "title": "CHAPTER II: DRAFTING INSTRUCTIONS CHAPITRE II : INSTRUCTIONS DE RÉDACTION D’UN PROJET"
+ },
+ {
+  "id": "ingingo-ya-7-ikurikizwa-ry-amabwiriza-yo-kwandika-umushinga",
+  "level": 2,
+  "title": "Ingingo ya 7: Ikurikizwa ry’amabwiriza yo kwandika umushinga"
+ },
+ {
+  "id": "article-7-compliance-with-drafting-instructions",
+  "level": 2,
+  "title": "Article 7: Compliance with drafting instructions"
+ },
+ {
+  "id": "article-7-conformité-aux-instructions-de-rédaction-d-un-proj",
+  "level": 2,
+  "title": "Article 7 : Conformité aux instructions de rédaction d’un projet"
+ },
+ {
+  "id": "ingingo-ya-8-ibikubiye-mu-mabwiriza-yo-kwandika-umushinga-wa",
+  "level": 2,
+  "title": "Ingingo ya 8: Ibikubiye mu mabwiriza yo kwandika umushinga wakorewe ubushakashatsi"
+ },
+ {
+  "id": "article-8-content-of-drafting-instructions-for-a-draft-subje",
+  "level": 2,
+  "title": "Article 8: Content of drafting instructions for a draft subjected to research"
+ },
+ {
+  "id": "article-8-contenu-des-instructions-de-rédaction-d-un-projet-",
+  "level": 2,
+  "title": "Article 8 : Contenu des instructions de rédaction d’un projet soumis à la recherche"
+ },
+ {
+  "id": "ingingo-ya-9-imiterere-y-amabwiriza-yo-kwandika-umushinga",
+  "level": 2,
+  "title": "Ingingo ya 9: Imiterere y’amabwiriza yo kwandika umushinga"
+ },
+ {
+  "id": "article-9-format-of-drafting-instructions",
+  "level": 2,
+  "title": "Article 9: Format of drafting instructions"
+ },
+ {
+  "id": "article-9-forme-des-instructions-de-rédaction-d-un-projet",
+  "level": 2,
+  "title": "Article 9 : Forme des instructions de rédaction d’un projet"
+ },
+ {
+  "id": "umutwe-wa-iii-gusaba-ibitekerezo",
+  "level": 2,
+  "title": "UMUTWE WA III: GUSABA IBITEKEREZO"
+ },
+ {
+  "id": "chapter-iii-consultations-chapitre-iii-consultations",
+  "level": 2,
+  "title": "CHAPTER III: CONSULTATIONS CHAPITRE III : CONSULTATIONS"
+ },
+ {
+  "id": "ingingo-ya-10-icyerekezo-cyo-gusaba-ibitekerezo",
+  "level": 2,
+  "title": "Ingingo ya 10: Icyerekezo cyo gusaba ibitekerezo"
+ },
+ {
+  "id": "article-10-orientation-of-consultations-article-10-orientati",
+  "level": 2,
+  "title": "Article 10: Orientation of consultations Article 10 : Orientation des consultations"
+ },
+ {
+  "id": "ingingo-ya-11-ibikubiye-muri-raporo-ku-gusaba-ibitekerezo",
+  "level": 2,
+  "title": "Ingingo ya 11: Ibikubiye muri raporo ku gusaba ibitekerezo"
+ },
+ {
+  "id": "article-11-content-of-a-report-on-consultations",
+  "level": 2,
+  "title": "Article 11: Content of a report on consultations"
+ },
+ {
+  "id": "article-11-contenu-d-un-rapport-sur-les-consultations",
+  "level": 2,
+  "title": "Article 11 : Contenu d’un rapport sur les consultations"
+ },
+ {
+  "id": "ingingo-ya-12-imiterere-ya-raporo-ku-gusaba-ibitekerezo",
+  "level": 2,
+  "title": "Ingingo ya 12 : Imiterere ya raporo ku gusaba ibitekerezo"
+ },
+ {
+  "id": "article-12-format-of-a-report-on-consultations",
+  "level": 2,
+  "title": "Article 12: Format of a report on consultations"
+ },
+ {
+  "id": "article-12-forme-d-un-rapport-sur-les-consultations",
+  "level": 2,
+  "title": "Article 12 : Forme d’un rapport sur les consultations"
+ },
+ {
+  "id": "umutwe-wa-iv-inyandiko-ikubiyemo-igitekerezo",
+  "level": 2,
+  "title": "UMUTWE WA IV: INYANDIKO IKUBIYEMO IGITEKEREZO"
+ },
+ {
+  "id": "chapter-iv-concept-note-of-a-draft-chapitre-iv-note-conceptu",
+  "level": 2,
+  "title": "CHAPTER IV: CONCEPT NOTE OF A DRAFT CHAPITRE IV : NOTE CONCEPTUELLE D’UN PROJET"
+ },
+ {
+  "id": "cy-umushinga",
+  "level": 2,
+  "title": "CY’UMUSHINGA"
+ },
+ {
+  "id": "ingingo-ya-13-icyo-inyandiko-ikubiyemo-igitekerezo-cy-umushi",
+  "level": 2,
+  "title": "Ingingo ya 13: Icyo inyandiko ikubiyemo igitekerezo cy’umushinga igamije"
+ },
+ {
+  "id": "article-13-purpose-of-a-concept-note-of-a-draft",
+  "level": 2,
+  "title": "Article 13: Purpose of a concept note of a draft"
+ },
+ {
+  "id": "article-13-objet-d-une-note-conceptuelle-du-projet",
+  "level": 2,
+  "title": "Article 13 : Objet d’une note conceptuelle du projet"
+ },
+ {
+  "id": "ingingo-ya-14-itegurwa-ry-inyandiko-ikubiyemo-igitekerezo-cy",
+  "level": 2,
+  "title": "Ingingo ya 14: Itegurwa ry’inyandiko ikubiyemo igitekerezo cy’umushinga"
+ },
+ {
+  "id": "article-14-preparation-of-a-concept-note-of-a-draft",
+  "level": 2,
+  "title": "Article 14: Preparation of a concept note of a draft"
+ },
+ {
+  "id": "article-14-préparation-d-une-note-conceptuelle-du-projet",
+  "level": 2,
+  "title": "Article 14 : Préparation d’une note conceptuelle du projet"
+ },
+ {
+  "id": "ingingo-ya-15-ibigize-inyandiko-ikubiyemo-igitekerezo-cy-umu",
+  "level": 2,
+  "title": "Ingingo ya 15: Ibigize inyandiko ikubiyemo igitekerezo cy’umushinga"
+ },
+ {
+  "id": "article-15-content-of-a-concept-note-of-a-draft",
+  "level": 2,
+  "title": "Article 15: Content of a concept note of a draft"
+ },
+ {
+  "id": "article-15-contenu-d-une-note-conceptuelle-du-projet",
+  "level": 2,
+  "title": "Article 15 : Contenu d’une note conceptuelle du projet"
+ },
+ {
+  "id": "ingingo-ya-16-imigereka-y-inyandiko-ikubiyemo-igitekerezo-cy",
+  "level": 2,
+  "title": "Ingingo ya 16: Imigereka y’inyandiko ikubiyemo igitekerezo cy’umushinga"
+ },
+ {
+  "id": "article-16-annexes-to-a-concept-note-of-a-draft",
+  "level": 2,
+  "title": "Article 16: Annexes to a concept note of a draft"
+ },
+ {
+  "id": "article-16-annexes-d-une-note-conceptuelle-du-projet",
+  "level": 2,
+  "title": "Article 16 : Annexes d’une note conceptuelle du projet"
+ },
+ {
+  "id": "ingingo-ya-17-imiterere-y-inyandiko-ikubiyemo-igitekerezo-cy",
+  "level": 2,
+  "title": "Ingingo ya 17 : Imiterere y’inyandiko ikubiyemo igitekerezo cy’umushinga"
+ },
+ {
+  "id": "article-17-format-of-a-concept-note-of-a-draft",
+  "level": 2,
+  "title": "Article 17: Format of a concept note of a draft"
+ },
+ {
+  "id": "article-17-forme-d-une-note-conceptuelle-du-projet",
+  "level": 2,
+  "title": "Article 17 : Forme d’une note conceptuelle du projet"
+ },
+ {
+  "id": "interuro-ya-iii-imyandikire-y-amategeko-title-iii-legislativ",
+  "level": 2,
+  "title": "INTERURO YA III: IMYANDIKIRE Y’AMATEGEKO TITLE III: LEGISLATIVE DRAFTING TITRE III : LÉGISTIQUE"
+ },
+ {
+  "id": "umutwe-wa-mbere-amahame-y-ibanze-y-imyandikire-y-amategeko",
+  "level": 2,
+  "title": "UMUTWE WA MBERE: AMAHAME Y’IBANZE Y’IMYANDIKIRE Y’AMATEGEKO"
+ },
+ {
+  "id": "chapter-one-basic-principles-of-legislative-drafting-chapitr",
+  "level": 2,
+  "title": "CHAPTER ONE: BASIC PRINCIPLES OF LEGISLATIVE DRAFTING CHAPITRE PREMIER : PRINCIPES DE BASE DE LÉGISTIQUE"
+ },
+ {
+  "id": "ingingo-ya-18-kudashyira-ingingo-z-itegeko-mu-rindi",
+  "level": 2,
+  "title": "Ingingo ya 18: Kudashyira ingingo z’itegeko mu rindi"
+ },
+ {
+  "id": "article-18-non-duplication-of-legislation",
+  "level": 2,
+  "title": "Article 18: Non-duplication of legislation"
+ },
+ {
+  "id": "article-18-non-redoublement-des-textes-normatifs",
+  "level": 2,
+  "title": "Article 18 : Non redoublement des textes normatifs"
+ },
+ {
+  "id": "ingingo-ya-19-ukutavuguruzanya-kw-amategeko",
+  "level": 2,
+  "title": "Ingingo ya 19: Ukutavuguruzanya kw’amategeko"
+ },
+ {
+  "id": "article-19-non-contradiction-of-legislation",
+  "level": 2,
+  "title": "Article 19: Non-contradiction of legislation"
+ },
+ {
+  "id": "article-19-non-contradiction-des-textes-normatifs",
+  "level": 2,
+  "title": "Article 19 : Non contradiction des textes normatifs"
+ },
+ {
+  "id": "ingingo-ya-20-inzitizi-ku-burenganzira-n-ubwisanzure-bwa-mun",
+  "level": 2,
+  "title": "Ingingo ya 20: Inzitizi ku burenganzira n’ubwisanzure bwa muntu"
+ },
+ {
+  "id": "article-20-restrictions-on-rights-and-freedoms-of-a-person",
+  "level": 2,
+  "title": "Article 20: Restrictions on rights and freedoms of a person"
+ },
+ {
+  "id": "article-20-limitations-aux-droits-et-à-la-liberté-de-la-pers",
+  "level": 2,
+  "title": "Article 20 : Limitations aux droits et à la liberté de la personne"
+ },
+ {
+  "id": "ingingo-ya-21-igihe-itegeko-rimara-rikurikizwa",
+  "level": 2,
+  "title": "Ingingo ya 21: Igihe itegeko rimara rikurikizwa"
+ },
+ {
+  "id": "article-21-term-of-effect-of-legislation-article-21-durée-de",
+  "level": 2,
+  "title": "Article 21: Term of effect of legislation Article 21 : Durée de validité d’un texte normatif"
+ },
+ {
+  "id": "ingingo-ya-22-ukudasubira-inyuma-kw-itegeko",
+  "level": 2,
+  "title": "Ingingo ya 22: Ukudasubira inyuma kw’itegeko"
+ },
+ {
+  "id": "article-22-non-retroactive-effect-of-legislation",
+  "level": 2,
+  "title": "Article 22: Non-retroactive effect of legislation"
+ },
+ {
+  "id": "article-22-effet-non-rétroactif-d-un-texte-normatif",
+  "level": 2,
+  "title": "Article 22 : Effet non-rétroactif d’un texte normatif"
+ },
+ {
+  "id": "ingingo-ya-23-ugutinda-gukurikizwa-kw-itegeko",
+  "level": 2,
+  "title": "Ingingo ya 23: Ugutinda gukurikizwa kw’itegeko"
+ },
+ {
+  "id": "article-23-post-active-effect-of-legislation",
+  "level": 2,
+  "title": "Article 23: Post-active effect of legislation"
+ },
+ {
+  "id": "article-23-effet-post-actif-d-un-texte-normatif",
+  "level": 2,
+  "title": "Article 23 : Effet post actif d’un texte normatif"
+ },
+ {
+  "id": "umutwe-wa-ii-interuro-y-itegeko",
+  "level": 2,
+  "title": "UMUTWE WA II: INTERURO Y’ITEGEKO"
+ },
+ {
+  "id": "chapter-ii-legislative-sentence-chapitre-ii-phrase-législati",
+  "level": 2,
+  "title": "CHAPTER II: LEGISLATIVE SENTENCE CHAPITRE II : PHRASE LÉGISLATIVE"
+ },
+ {
+  "id": "icyiciro-cya-mbere-imyubakire-y-interuro-y-itegeko",
+  "level": 2,
+  "title": "Icyiciro cya mbere: Imyubakire y’interuro y’itegeko"
+ },
+ {
+  "id": "section-one-construction-of-a-legislative-sentence",
+  "level": 2,
+  "title": "Section One: Construction of a legislative sentence"
+ },
+ {
+  "id": "section-première-construction-d-une-phrase-législative",
+  "level": 2,
+  "title": "Section première : Construction d’une phrase législative"
+ },
+ {
+  "id": "ingingo-ya-24-ibigize-interuro-y-itegeko-article-24-elements",
+  "level": 2,
+  "title": "Ingingo ya 24: Ibigize interuro y’itegeko Article 24: Elements of a legislative sentence"
+ },
+ {
+  "id": "article-24-éléments-d-une-phrase-législative",
+  "level": 2,
+  "title": "Article 24 : Éléments d’une phrase législative"
+ },
+ {
+  "id": "ingingo-ya-25-ukora-igikorwa-article-25-legal-subject-articl",
+  "level": 2,
+  "title": "Ingingo ya 25: Ukora igikorwa Article 25: Legal subject Article 25 : Sujet juridique"
+ },
+ {
+  "id": "ingingo-ya-26-igikorwa-article-26-legal-action-article-26-pr",
+  "level": 2,
+  "title": "Ingingo ya 26: Igikorwa Article 26: Legal action Article 26 : Prédicat"
+ },
+ {
+  "id": "ingingo-ya-27-ibyerekeranye-n-itegeko-article-27-context-art",
+  "level": 2,
+  "title": "Ingingo ya 27: Ibyerekeranye n’itegeko Article 27: Context Article 27 : Contexte"
+ },
+ {
+  "id": "umubare-n-ingiro-mu-nteruro-y-itegeko",
+  "level": 2,
+  "title": "umubare, n’ingiro mu nteruro y’itegeko"
+ },
+ {
+  "id": "and-voice-in-a-legislative-sentence",
+  "level": 2,
+  "title": "and voice in a legislative sentence"
+ },
+ {
+  "id": "nombre-et-voix-dans-une-phrase-législative",
+  "level": 2,
+  "title": "nombre, et voix dans une phrase législative"
+ },
+ {
+  "id": "ingingo-ya-28-ngenga-mu-nteruro-y-itegeko",
+  "level": 2,
+  "title": "Ingingo ya 28: Ngenga mu nteruro y’itegeko"
+ },
+ {
+  "id": "article-28-person-in-a-legislative-sentence",
+  "level": 2,
+  "title": "Article 28: Person in a legislative sentence"
+ },
+ {
+  "id": "article-28-personne-dans-une-phrase-législative",
+  "level": 2,
+  "title": "Article 28 : Personne dans une phrase législative"
+ },
+ {
+  "id": "ingingo-ya-29-igihe-mu-nteruro-article-29-tense-in-a-legisla",
+  "level": 2,
+  "title": "Ingingo ya 29: Igihe mu nteruro Article 29: Tense in a legislative Article 29 : Temps dans une phrase"
+ },
+ {
+  "id": "y-itegeko-sentence-législative",
+  "level": 2,
+  "title": "y’itegeko sentence législative"
+ },
+ {
+  "id": "ingingo-ya-30-uburyo-mu-nteruro-y-itegeko",
+  "level": 2,
+  "title": "Ingingo ya 30: Uburyo mu nteruro y’itegeko"
+ },
+ {
+  "id": "article-30-mood-in-a-legislative-sentence",
+  "level": 2,
+  "title": "Article 30: Mood in a legislative sentence"
+ },
+ {
+  "id": "article-30-mode-dans-une-phrase-législative",
+  "level": 2,
+  "title": "Article 30 : Mode dans une phrase législative"
+ },
+ {
+  "id": "ingingo-ya-31-umubare-mu-nteruro-y-itegeko",
+  "level": 2,
+  "title": "Ingingo ya 31: Umubare mu nteruro y’itegeko"
+ },
+ {
+  "id": "article-31-number-in-a-legislative-sentence",
+  "level": 2,
+  "title": "Article 31: Number in a legislative sentence"
+ },
+ {
+  "id": "article-31-nombre-dans-une-phrase-législative",
+  "level": 2,
+  "title": "Article 31 : Nombre dans une phrase législative"
+ },
+ {
+  "id": "ingingo-ya-32-ingiro-mu-nteruro-y-itegeko",
+  "level": 2,
+  "title": "Ingingo ya 32: Ingiro mu nteruro y’itegeko"
+ },
+ {
+  "id": "article-32-voice-in-a-legislative-sentence-article-32-voix-d",
+  "level": 2,
+  "title": "Article 32: Voice in a legislative sentence Article 32 : Voix dans une phrase législative"
+ },
+ {
+  "id": "icyiciro-cya-3-utwatuzo-n-inyuguti-nkuru-mu-nteruro-y-itegek",
+  "level": 2,
+  "title": "Icyiciro cya 3: Utwatuzo n’inyuguti nkuru mu nteruro y’itegeko"
+ },
+ {
+  "id": "section-3-punctuation-and-capitalisation-in-a-legislative-se",
+  "level": 2,
+  "title": "Section 3: Punctuation and capitalisation in a legislative sentence"
+ },
+ {
+  "id": "section-3-ponctuation-et-majuscule-dans-une-phrase-législati",
+  "level": 2,
+  "title": "Section 3 : Ponctuation et majuscule dans une phrase législative"
+ },
+ {
+  "id": "ingingo-ya-33-akabago-article-33-full-stop-article-33-point",
+  "level": 2,
+  "title": "Ingingo ya 33: Akabago Article 33: Full stop Article 33 : Point"
+ },
+ {
+  "id": "ingingo-ya-34-akabago-n-akitso-article-34-semi-colon-article",
+  "level": 2,
+  "title": "Ingingo ya 34: Akabago n’akitso Article 34: Semi-colon Article 34 : Point-virgule"
+ },
+ {
+  "id": "ingingo-ya-35-utubago-tubiri-article-35-colon-article-35-deu",
+  "level": 2,
+  "title": "Ingingo ya 35: Utubago tubiri Article 35: Colon Article 35 : Deux points"
+ },
+ {
+  "id": "ingingo-ya-36-akitso-article-36-comma-article-36-virgule",
+  "level": 2,
+  "title": "Ingingo ya 36: Akitso Article 36: Comma Article 36 : Virgule"
+ },
+ {
+  "id": "ingingo-ya-37-agakoni-article-37-dash-article-37-tiret",
+  "level": 2,
+  "title": "Ingingo ya 37: Agakoni Article 37: Dash Article 37 : Tiret"
+ },
+ {
+  "id": "ingingo-ya-38-akanyerezo-article-38-hyphen-article-38-trait-",
+  "level": 2,
+  "title": "Ingingo ya 38: Akanyerezo Article 38: Hyphen Article 38 : Trait d’union"
+ },
+ {
+  "id": "ingingo-ya-39-utwuguruzo-n-utwugarizo",
+  "level": 2,
+  "title": "Ingingo ya 39: Utwuguruzo n’utwugarizo"
+ },
+ {
+  "id": "article-39-quotation-marks-article-39-guillemets",
+  "level": 2,
+  "title": "Article 39: Quotation marks Article 39 : Guillemets"
+ },
+ {
+  "id": "ingingo-ya-40-udusodeko-n-udukubo-article-40-square-and-roun",
+  "level": 2,
+  "title": "Ingingo ya 40: Udusodeko n’udukubo Article 40: Square and rounded brackets"
+ },
+ {
+  "id": "article-40-crochets-et-parenthèses",
+  "level": 2,
+  "title": "Article 40 : Crochets et parenthèses"
+ },
+ {
+  "id": "ingingo-ya-41-inyuguti-nkuru-mu-nteruro-y-itegeko",
+  "level": 2,
+  "title": "Ingingo ya 41: Inyuguti nkuru mu nteruro y’itegeko"
+ },
+ {
+  "id": "article-41-capitalisation-in-a-legislative-sentence",
+  "level": 2,
+  "title": "Article 41: Capitalisation in a legislative sentence"
+ },
+ {
+  "id": "article-41-majuscule-dans-une-phrase-législative",
+  "level": 2,
+  "title": "Article 41 : Majuscule dans une phrase législative"
+ },
+ {
+  "id": "n-imibare-mu-nteruro-y-itegeko",
+  "level": 2,
+  "title": "n’imibare mu nteruro y’itegeko"
+ },
+ {
+  "id": "section-4-expressing-time-dates-and-numbers-in-a-legislative",
+  "level": 2,
+  "title": "Section 4: Expressing time, dates, and numbers in a legislative sentence"
+ },
+ {
+  "id": "section-4-expression-du-temps-des-dates-et-des-nombres-dans-",
+  "level": 2,
+  "title": "Section 4 : Expression du temps, des dates et des nombres dans une phrase législative"
+ },
+ {
+  "id": "ingingo-ya-42-imyandikire-y-amasaha-article-42-time-format-a",
+  "level": 2,
+  "title": "Ingingo ya 42: Imyandikire y’amasaha Article 42: Time format Article 42 : Forme de l’heure"
+ },
+ {
+  "id": "ingingo-ya-43-imyandikire-y-amatariki",
+  "level": 2,
+  "title": "Ingingo ya 43: Imyandikire y’amatariki"
+ },
+ {
+  "id": "article-43-date-format-article-43-forme-des-dates",
+  "level": 2,
+  "title": "Article 43: Date format Article 43 : Forme des dates"
+ },
+ {
+  "id": "ingingo-ya-44-imyandikire-y-imibare-article-44-numbers-forma",
+  "level": 2,
+  "title": "Ingingo ya 44: Imyandikire y’imibare Article 44: Numbers format Article 44 : Forme des nombres"
+ },
+ {
+  "id": "umutwe-wa-iii-ikeshamvugo-ururimi-rusanzwe-rwumvikana",
+  "level": 2,
+  "title": "UMUTWE WA III: IKESHAMVUGO, URURIMI RUSANZWE, RWUMVIKANA"
+ },
+ {
+  "id": "n-isemuranyandiko",
+  "level": 2,
+  "title": "N’ISEMURANYANDIKO"
+ },
+ {
+  "id": "chapter-iii-style-plain-language-and-translation-chapitre-ii",
+  "level": 2,
+  "title": "CHAPTER III: STYLE, PLAIN LANGUAGE, AND TRANSLATION CHAPITRE III : STYLE, LANGAGE COURANT, CLAIR ET SIMPLE, ET TRADUCTION"
+ },
+ {
+  "id": "icyiciro-cya-mbere-ikeshamvugo-n-ururimi-rusanzwe-rwumvikana",
+  "level": 2,
+  "title": "Icyiciro cya mbere: Ikeshamvugo n’ururimi rusanzwe, rwumvikana kandi rworoshye"
+ },
+ {
+  "id": "section-one-style-and-plain-language-section-première-style-",
+  "level": 2,
+  "title": "Section One: Style and plain language Section première : Style et langage courant, clair et simple"
+ },
+ {
+  "id": "ingingo-ya-45-imyandikire-idahindagura-amagambo",
+  "level": 2,
+  "title": "Ingingo ya 45: Imyandikire idahindagura amagambo"
+ },
+ {
+  "id": "article-45-consistency-in-terminology-article-45-consistance",
+  "level": 2,
+  "title": "Article 45: Consistency in terminology Article 45 : Consistance terminologique"
+ },
+ {
+  "id": "ingingo-ya-46-kurasa-ku-ntego-article-46-directness-article-",
+  "level": 2,
+  "title": "Ingingo ya 46: Kurasa ku ntego Article 46: Directness Article 46 : Être direct"
+ },
+ {
+  "id": "ingingo-ya-47-urukurikirane-rw-ibitekerezo",
+  "level": 2,
+  "title": "Ingingo ya 47: Urukurikirane rw’ibitekerezo"
+ },
+ {
+  "id": "article-47-flow-of-ideas-article-47-suite-des-idées",
+  "level": 2,
+  "title": "Article 47: Flow of ideas Article 47 : Suite des idées"
+ },
+ {
+  "id": "ingingo-ya-48-ikoreshwa-ry-ururimi-rusanzwe-rwumvikana-kandi",
+  "level": 2,
+  "title": "Ingingo ya 48: Ikoreshwa ry’ururimi rusanzwe, rwumvikana kandi rworoshye"
+ },
+ {
+  "id": "clair-et-simple",
+  "level": 2,
+  "title": "clair et simple"
+ },
+ {
+  "id": "icyiciro-cya-2-isemuranyandiko-section-2-translation-section",
+  "level": 2,
+  "title": "Icyiciro cya 2: Isemuranyandiko Section 2: Translation Section 2 : Traduction"
+ },
+ {
+  "id": "ingingo-ya-49-indimi-zikoreshwa-mu-gutegura-amategeko",
+  "level": 2,
+  "title": "Ingingo ya 49: Indimi zikoreshwa mu gutegura amategeko"
+ },
+ {
+  "id": "article-49-languages-used-in-legislative-drafting",
+  "level": 2,
+  "title": "Article 49: Languages used in legislative drafting"
+ },
+ {
+  "id": "article-49-langues-employées-dans-la-préparation-des-textes-",
+  "level": 2,
+  "title": "Article 49 : Langues employées dans la préparation des textes normatifs"
+ },
+ {
+  "id": "ingingo-ya-50-isemuranyandiko-ry-amategeko",
+  "level": 2,
+  "title": "Ingingo ya 50: Isemuranyandiko ry’amategeko"
+ },
+ {
+  "id": "article-50-translating-legislation-article-50-traduire-des-t",
+  "level": 2,
+  "title": "Article 50: Translating legislation Article 50 : Traduire des textes normatifs"
+ },
+ {
+  "id": "ingingo-ya-51-ikoreshwa-ry-amagambo-y-amatirano",
+  "level": 2,
+  "title": "Ingingo ya 51: Ikoreshwa ry’amagambo y’amatirano"
+ },
+ {
+  "id": "article-51-use-of-borrowings-article-51-emploi-des-emprunts",
+  "level": 2,
+  "title": "Article 51: Use of borrowings Article 51 : Emploi des emprunts"
+ },
+ {
+  "id": "umutwe-wa-iv-imyandikire-y-ingingo-itanga-ububasha-bwo-gushy",
+  "level": 2,
+  "title": "UMUTWE WA IV: IMYANDIKIRE Y’INGINGO ITANGA UBUBASHA BWO GUSHYIRAHO AMATEGEKO Y’INGEREKA N’IY’ITEGEKO RIHINDURA"
+ },
+ {
+  "id": "chapter-iv-drafting-enabling-provision-and-amending-legislat",
+  "level": 2,
+  "title": "CHAPTER IV: DRAFTING ENABLING PROVISION AND AMENDING LEGISLATION CHAPITRE IV : RÉDACTION D’UNE DISPOSITION DE DÉLÉGATION ET D’UN TEXTE NORMATIF MODIFICATIF"
+ },
+ {
+  "id": "icyiciro-cya-mbere-imyandikire-y-ingingo-itanga-ububasha-bwo",
+  "level": 2,
+  "title": "Icyiciro cya mbere: Imyandikire y’ingingo itanga ububasha bwo gushyiraho amategeko y’ingereka"
+ },
+ {
+  "id": "section-one-drafting-an-enabling-provision",
+  "level": 2,
+  "title": "Section One: Drafting an enabling provision"
+ },
+ {
+  "id": "section-première-rédaction-d-une-disposition-de-délégation",
+  "level": 2,
+  "title": "Section première : Rédaction d’une disposition de délégation"
+ },
+ {
+  "id": "ingingo-ya-53-amategeko-ashyirwamo-ingingo-itanga-ububasha-b",
+  "level": 2,
+  "title": "Ingingo ya 53: Amategeko ashyirwamo ingingo itanga ububasha bwo gushyiraho amategeko y’ingereka"
+ },
+ {
+  "id": "article-53-legislation-that-may-provide-for-an-enabling-prov",
+  "level": 2,
+  "title": "Article 53: Legislation that may provide for an enabling provision"
+ },
+ {
+  "id": "article-53-textes-normatifs-pouvant-prévoir-une-disposition-",
+  "level": 2,
+  "title": "Article 53 : Textes normatifs pouvant prévoir une disposition de délégation"
+ },
+ {
+  "id": "ingingo-ya-54-abayobozi-bashobora-guhabwa-ububasha-bwo-gushy",
+  "level": 2,
+  "title": "Ingingo ya 54: Abayobozi bashobora guhabwa ububasha bwo gushyiraho amategeko y’ingereka"
+ },
+ {
+  "id": "article-54-authorities-to-whom-legislative-powers-may-be-del",
+  "level": 2,
+  "title": "Article 54: Authorities to whom legislative powers may be delegated"
+ },
+ {
+  "id": "article-54-autorités-auxquelles-le-pouvoir-de-légiférer-peut",
+  "level": 2,
+  "title": "Article 54 : Autorités auxquelles le pouvoir de légiférer peut être délégué"
+ },
+ {
+  "id": "ingingo-ya-55-igihe-ububasha-bwo-gushyiraho-amategeko-butang",
+  "level": 2,
+  "title": "Ingingo ya 55: Igihe ububasha bwo gushyiraho amategeko butangwa"
+ },
+ {
+  "id": "article-55-circumstance-for-legislative-power-delegation",
+  "level": 2,
+  "title": "Article 55: Circumstance for legislative power delegation"
+ },
+ {
+  "id": "article-55-circonstance-de-délégation-du-pouvoir-de-légifére",
+  "level": 2,
+  "title": "Article 55 : Circonstance de délégation du pouvoir de légiférer"
+ },
+ {
+  "id": "ingingo-ya-56-ububasha-bwo-gushyiraho-amategeko-budashobora-",
+  "level": 2,
+  "title": "Ingingo ya 56: Ububasha bwo gushyiraho amategeko budashobora gutangwa"
+ },
+ {
+  "id": "article-56-legislative-power-that-cannot-be-delegated",
+  "level": 2,
+  "title": "Article 56: Legislative power that cannot be delegated"
+ },
+ {
+  "id": "article-56-pouvoir-de-légiférer-ne-pouvant-pas-être-délégué",
+  "level": 2,
+  "title": "Article 56 : Pouvoir de légiférer ne pouvant pas être délégué"
+ },
+ {
+  "id": "ingingo-ya-57-ibigize-ingingo-itanga-ububasha",
+  "level": 2,
+  "title": "Ingingo ya 57: Ibigize ingingo itanga ububasha"
+ },
+ {
+  "id": "article-57-content-of-an-enabling-provision",
+  "level": 2,
+  "title": "Article 57: Content of an enabling provision"
+ },
+ {
+  "id": "article-57-contenu-d-une-disposition-de-délégation",
+  "level": 2,
+  "title": "Article 57 : Contenu d’une disposition de délégation"
+ },
+ {
+  "id": "icyiciro-cya-2-imyandikire-y-itegeko-rihindura",
+  "level": 2,
+  "title": "Icyiciro cya 2: Imyandikire y’itegeko rihindura"
+ },
+ {
+  "id": "section-2-drafting-an-amending-legislation",
+  "level": 2,
+  "title": "Section 2: Drafting an amending legislation"
+ },
+ {
+  "id": "section-2-rédaction-d-un-texte-normatif-modificatif",
+  "level": 2,
+  "title": "Section 2 : Rédaction d’un texte normatif modificatif"
+ },
+ {
+  "id": "akiciro-ka-mbere-iby-ibanze-mu-ihindurwa-subsection-one-basi",
+  "level": 2,
+  "title": "Akiciro ka mbere: Iby’ibanze mu ihindurwa Subsection One: Basics of amendment Sous-section première : Essentiel de la modification"
+ },
+ {
+  "id": "ingingo-ya-58-intego-z-ihindurwa-article-58-purpose-of-amend",
+  "level": 2,
+  "title": "Ingingo ya 58: Intego z’ihindurwa Article 58: Purpose of amendment Article 58 : Objectif d’une modification"
+ },
+ {
+  "id": "ingingo-ya-59-ihindurwa-ribujijwe-article-59-prohibited-amen",
+  "level": 2,
+  "title": "Ingingo ya 59: Ihindurwa ribujijwe Article 59: Prohibited amendment Article 59 : Modification proscrite"
+ },
+ {
+  "id": "akiciro-ka-2-uburyo-bw-ihindurwa-subsection-2-methods-of-ame",
+  "level": 2,
+  "title": "Akiciro ka 2: Uburyo bw’ihindurwa Subsection 2: Methods of amendment Sous-section 2 : Méthodes de modification"
+ },
+ {
+  "id": "ingingo-ya-60-uburyo-bwo-kuvanaho-no-kongera-gushyiraho",
+  "level": 2,
+  "title": "Ingingo ya 60: Uburyo bwo kuvanaho no kongera gushyiraho"
+ },
+ {
+  "id": "article-60-repeal-and-re-enactment-method",
+  "level": 2,
+  "title": "Article 60: Repeal and re-enactment method"
+ },
+ {
+  "id": "article-60-méthode-d-abrogation-et-de-ré-adoption",
+  "level": 2,
+  "title": "Article 60 : Méthode d’abrogation et de ré-adoption"
+ },
+ {
+  "id": "kongeraho-no-gusimbuza",
+  "level": 2,
+  "title": "kongeraho no gusimbuza"
+ },
+ {
+  "id": "article-61-repeal-insertion-and-substitution-method",
+  "level": 2,
+  "title": "Article 61: Repeal, insertion and substitution method"
+ },
+ {
+  "id": "d-insertion-et-de-substitution",
+  "level": 2,
+  "title": "d’insertion et de substitution"
+ },
+ {
+  "id": "akiciro-ka-3-uburyo-bukoreshwa-mu-ihindurwa-subsection-3-tec",
+  "level": 2,
+  "title": "Akiciro ka 3: Uburyo bukoreshwa mu ihindurwa Subsection 3: Techniques used in amendment Sous-section 3 : Techniques utilisées dans la modification"
+ },
+ {
+  "id": "rihindura-modificatif",
+  "level": 2,
+  "title": "rihindura modificatif"
+ },
+ {
+  "id": "ingingo-ya-63-ibyitabwaho-mu-myandikire-y-itegeko-rihindura",
+  "level": 2,
+  "title": "Ingingo ya 63: Ibyitabwaho mu myandikire y’itegeko rihindura"
+ },
+ {
+  "id": "article-63-rules-in-drafting-amending-legislation",
+  "level": 2,
+  "title": "Article 63: Rules in drafting amending legislation"
+ },
+ {
+  "id": "article-63-règles-dans-la-rédaction-d-un-texte-normatif-modi",
+  "level": 2,
+  "title": "Article 63 : Règles dans la rédaction d’un texte normatif modificatif"
+ },
+ {
+  "id": "ingingo-ya-64-inyito-y-itegeko-rihindura",
+  "level": 2,
+  "title": "Ingingo ya 64: Inyito y’itegeko rihindura"
+ },
+ {
+  "id": "article-64-title-of-amending-legislation-article-64-intitulé",
+  "level": 2,
+  "title": "Article 64: Title of amending legislation Article 64 : Intitulé d’un texte normatif modificatif"
+ },
+ {
+  "id": "ingingo-ya-65-inyito-y-ingingo-ihindura-article-65-heading-o",
+  "level": 2,
+  "title": "Ingingo ya 65: Inyito y’ingingo ihindura Article 65: Heading of an amending article"
+ },
+ {
+  "id": "article-65-intitulé-d-un-article-modificatif",
+  "level": 2,
+  "title": "Article 65 : Intitulé d’un article modificatif"
+ },
+ {
+  "id": "ingingo-ya-66-guha-umubare-igice-cy-itegeko-mu-itegeko-rihin",
+  "level": 2,
+  "title": "Ingingo ya 66: Guha umubare igice cy’itegeko mu itegeko rihindura"
+ },
+ {
+  "id": "article-66-numbering-a-division-in-amending-legislation",
+  "level": 2,
+  "title": "Article 66: Numbering a division in amending legislation"
+ },
+ {
+  "id": "article-66-numérotation-d-une-division-dans-un-texte-normati",
+  "level": 2,
+  "title": "Article 66 : Numérotation d’une division dans un texte normatif modificatif"
+ },
+ {
+  "id": "ingingo-ya-67-ihindurwa-ry-umugereka-w-itegeko",
+  "level": 2,
+  "title": "Ingingo ya 67: Ihindurwa ry’umugereka w’itegeko"
+ },
+ {
+  "id": "article-67-amending-an-annex-of-a-legislation",
+  "level": 2,
+  "title": "Article 67: Amending an annex of a legislation"
+ },
+ {
+  "id": "article-67-modification-d-une-annexe-du-texte-normatif",
+  "level": 2,
+  "title": "Article 67 : Modification d’une annexe du texte normatif"
+ },
+ {
+  "id": "ingingo-ya-68-ihindurwa-rishamikiye-ku-rindi",
+  "level": 2,
+  "title": "Ingingo ya 68: Ihindurwa rishamikiye ku rindi"
+ },
+ {
+  "id": "article-68-consequential-amendment-article-68-modification-c",
+  "level": 2,
+  "title": "Article 68: Consequential amendment Article 68 : Modification corrélative"
+ },
+ {
+  "id": "ingingo-ya-69-ingingo-iranga-mu-itegeko-rihindura",
+  "level": 2,
+  "title": "Ingingo ya 69: Ingingo iranga mu itegeko rihindura"
+ },
+ {
+  "id": "article-69-cross-reference-in-amending-legislation",
+  "level": 2,
+  "title": "Article 69: Cross-reference in amending legislation"
+ },
+ {
+  "id": "article-69-renvoi-dans-un-texte-normatif-modificatif",
+  "level": 2,
+  "title": "Article 69 : Renvoi dans un texte normatif modificatif"
+ },
+ {
+  "id": "n-imitunganyirize-y-amategeko",
+  "level": 2,
+  "title": "N’IMITUNGANYIRIZE Y’AMATEGEKO"
+ },
+ {
+  "id": "organisation-and-layout-of-legislation",
+  "level": 2,
+  "title": "ORGANISATION, AND LAYOUT OF LEGISLATION"
+ },
+ {
+  "id": "organisation-et-mise-en-page-des-textes-normatifs",
+  "level": 2,
+  "title": "ORGANISATION, ET MISE EN PAGE DES TEXTES NORMATIFS"
+ },
+ {
+  "id": "umutwe-wa-mbere-imiterere-y-itegeko",
+  "level": 2,
+  "title": "UMUTWE WA MBERE: IMITERERE Y’ITEGEKO"
+ },
+ {
+  "id": "chapter-one-logical-structure-of-legislation-chapitre-one-st",
+  "level": 2,
+  "title": "CHAPTER ONE: LOGICAL STRUCTURE OF LEGISLATION CHAPITRE ONE : STRUCTURE LOGIQUE D’UN TEXTE NORMATIF"
+ },
+ {
+  "id": "ingingo-ya-70-imiterere-y-ibice-bigize-article-70-structure-",
+  "level": 2,
+  "title": "Ingingo ya 70: Imiterere y’ibice bigize Article 70: Structure of parts of a Article 70 : Structure des parties d’un"
+ },
+ {
+  "id": "itegeko-legislation-texte-normatif",
+  "level": 2,
+  "title": "itegeko legislation texte normatif"
+ },
+ {
+  "id": "icyiciro-cya-mbere-inyito-y-itegeko-section-one-title-sectio",
+  "level": 2,
+  "title": "Icyiciro cya mbere: Inyito y’itegeko Section One: Title Section première : Titre"
+ },
+ {
+  "id": "ingingo-ya-71-imiterere-y-ibice-bigize-inyito-y-itegeko",
+  "level": 2,
+  "title": "Ingingo ya 71: Imiterere y’ibice bigize inyito y’itegeko"
+ },
+ {
+  "id": "article-71-structure-of-parts-of-the-title-article-71-struct",
+  "level": 2,
+  "title": "Article 71: Structure of parts of the title Article 71 : Structure des parties du titre"
+ },
+ {
+  "id": "ingingo-ya-72-ubwoko-bw-itegeko-article-72-type-of-legislati",
+  "level": 2,
+  "title": "Ingingo ya 72: Ubwoko bw’itegeko Article 72: Type of legislation Article 72 : Type de texte normatif"
+ },
+ {
+  "id": "ingingo-ya-73-inomero-n-itariki-article-73-number-and-date-a",
+  "level": 2,
+  "title": "Ingingo ya 73: Inomero n’itariki Article 73: Number and date Article 73 : Numéro et date"
+ },
+ {
+  "id": "ingingo-ya-74-igiteganywa-article-74-subject-matter-article-",
+  "level": 2,
+  "title": "Ingingo ya 74: Igiteganywa Article 74: Subject matter Article 74 : Sujet"
+ },
+ {
+  "id": "icyiciro-cya-2-ishakiro-section-2-table-of-contents-section-",
+  "level": 2,
+  "title": "Icyiciro cya 2: Ishakiro Section 2: Table of contents Section 2 : Table des matières"
+ },
+ {
+  "id": "ingingo-ya-75-imiterere-y-ibice-bigize-ishakiro",
+  "level": 2,
+  "title": "Ingingo ya 75: Imiterere y’ibice bigize ishakiro"
+ },
+ {
+  "id": "article-75-structure-of-parts-of-the-table-of-contents",
+  "level": 2,
+  "title": "Article 75: Structure of parts of the table of contents"
+ },
+ {
+  "id": "article-75-structure-des-parties-de-la-table-des-matières",
+  "level": 2,
+  "title": "Article 75 : Structure des parties de la table des matières"
+ },
+ {
+  "id": "ingingo-ya-76-imyandikire-y-ishakiro-article-76-drafting-of-",
+  "level": 2,
+  "title": "Ingingo ya 76: Imyandikire y’ishakiro Article 76: Drafting of a table of contents"
+ },
+ {
+  "id": "article-76-rédaction-de-la-table-des-matières",
+  "level": 2,
+  "title": "Article 76 : Rédaction de la table des matières"
+ },
+ {
+  "id": "icyiciro-cya-3-inyandiko-ntangazategeko-n-irangashingiro",
+  "level": 2,
+  "title": "Icyiciro cya 3: Inyandiko ntangazategeko n’irangashingiro"
+ },
+ {
+  "id": "section-3-enacting-formula-and-preamble",
+  "level": 2,
+  "title": "Section 3: Enacting formula and preamble"
+ },
+ {
+  "id": "section-3-formule-d-édiction-et-préambule",
+  "level": 2,
+  "title": "Section 3 : Formule d’édiction et préambule"
+ },
+ {
+  "id": "akiciro-ka-mbere-imiterere-y-inyandiko-ntangazategeko-subsec",
+  "level": 2,
+  "title": "Akiciro ka mbere: Imiterere y’inyandiko ntangazategeko Subsection One: Structure of the enacting formula Sous-section première : Structure de la formule d’édiction"
+ },
+ {
+  "id": "ingingo-ya-77-inyandiko-ntangazategeko",
+  "level": 2,
+  "title": "Ingingo ya 77: Inyandiko ntangazategeko"
+ },
+ {
+  "id": "article-77-enacting-formula-article-77-formule-d-édiction",
+  "level": 2,
+  "title": "Article 77: Enacting formula Article 77 : Formule d’édiction"
+ },
+ {
+  "id": "ingingo-ya-78-imiterere-y-inyandiko-ntangazategeko-y-itegeko",
+  "level": 2,
+  "title": "Ingingo ya 78: Imiterere y’inyandiko ntangazategeko y’itegeko ngenga"
+ },
+ {
+  "id": "article-78-structure-of-the-enacting-formula-of-an-organic-l",
+  "level": 2,
+  "title": "Article 78: Structure of the enacting formula of an organic law"
+ },
+ {
+  "id": "article-78-structure-de-la-formule-d-édiction-d-une-loi-orga",
+  "level": 2,
+  "title": "Article 78 : Structure de la formule d’édiction d’une loi organique"
+ },
+ {
+  "id": "ingingo-ya-79-imiterere-y-inyandiko-ntangazategeko-y-itegeko",
+  "level": 2,
+  "title": "Ingingo ya 79: Imiterere y’inyandiko ntangazategeko y’itegeko risanzwe"
+ },
+ {
+  "id": "article-79-structure-of-the-enacting-formula-of-an-ordinary-",
+  "level": 2,
+  "title": "Article 79: Structure of the enacting formula of an ordinary law"
+ },
+ {
+  "id": "article-79-structure-de-la-formule-d-édiction-d-une-loi-ordi",
+  "level": 2,
+  "title": "Article 79 : Structure de la formule d’édiction d’une loi ordinaire"
+ },
+ {
+  "id": "ingingo-ya-80-imiterere-y-inyandiko-ntangazategeko-y-itegeko",
+  "level": 2,
+  "title": "Ingingo ya 80: Imiterere y’inyandiko ntangazategeko y’itegeko-teka"
+ },
+ {
+  "id": "article-80-structure-of-the-enacting-formula-of-a-decree-law",
+  "level": 2,
+  "title": "Article 80: Structure of the enacting formula of a decree-law"
+ },
+ {
+  "id": "article-80-structure-de-la-formule-d-édiction-d-un-décret-lo",
+  "level": 2,
+  "title": "Article 80 : Structure de la formule d’édiction d’un décret-loi"
+ },
+ {
+  "id": "ingingo-ya-81-imiterere-y-inyandiko-ntangazategeko-y-iteka-r",
+  "level": 2,
+  "title": "Ingingo ya 81: Imiterere y’inyandiko ntangazategeko y’iteka rya Perezida"
+ },
+ {
+  "id": "article-81-structure-of-the-enacting-formula-of-a-presidenti",
+  "level": 2,
+  "title": "Article 81: Structure of the enacting formula of a Presidential Order"
+ },
+ {
+  "id": "article-81-structure-de-la-formule-d-édiction-d-un-arrêté-pr",
+  "level": 2,
+  "title": "Article 81 : Structure de la formule d’édiction d’un arrêté présidentiel"
+ },
+ {
+  "id": "ingingo-ya-82-imiterere-y-inyandiko-ntangazategeko-y-iteka-r",
+  "level": 2,
+  "title": "Ingingo ya 82: Imiterere y’inyandiko ntangazategeko y’iteka rya Minisitiri w’Intebe"
+ },
+ {
+  "id": "article-82-structure-of-the-enacting-formula-of-a-prime-mini",
+  "level": 2,
+  "title": "Article 82: Structure of the enacting formula of a Prime Minister’s Order"
+ },
+ {
+  "id": "article-82-structure-de-la-formule-d-édiction-d-un-arrêté-du",
+  "level": 2,
+  "title": "Article 82 : Structure de la formule d’édiction d’un arrêté du Premier Ministre"
+ },
+ {
+  "id": "ingingo-ya-83-imiterere-y-inyandiko-ntangazategeko-y-iteka-r",
+  "level": 2,
+  "title": "Ingingo ya 83: Imiterere y’inyandiko ntangazategeko y’iteka rya Minisitiri"
+ },
+ {
+  "id": "article-83-structure-of-the-enacting-formula-of-a-ministeria",
+  "level": 2,
+  "title": "Article 83: Structure of the enacting formula of a Ministerial Order"
+ },
+ {
+  "id": "article-83-structure-de-la-formule-d-édiction-d-un-arrêté-mi",
+  "level": 2,
+  "title": "Article 83 : Structure de la formule d’édiction d’un arrêté ministériel"
+ },
+ {
+  "id": "ingingo-ya-84-imiterere-y-inyandiko-ntangazategeko-y-andi-ma",
+  "level": 2,
+  "title": "Ingingo ya 84: Imiterere y’inyandiko ntangazategeko y’andi mategeko y’ingereka"
+ },
+ {
+  "id": "article-84-structure-of-the-enacting-formula-of-other-subsid",
+  "level": 2,
+  "title": "Article 84: Structure of the enacting formula of other subsidiary legislation"
+ },
+ {
+  "id": "article-84-structure-de-la-formule-d-édiction-des-autres-lég",
+  "level": 2,
+  "title": "Article 84 : Structure de la formule d’édiction des autres législations subsidiaires"
+ },
+ {
+  "id": "akiciro-ka-2-imiterere-y-irangashingiro-subsection-2-structu",
+  "level": 2,
+  "title": "Akiciro ka 2: Imiterere y’irangashingiro Subsection 2: Structure of the preamble Sous-section 2 : Structure du préambule"
+ },
+ {
+  "id": "ingingo-ya-85-imiterere-y-ibice-bigize-irangashingiro",
+  "level": 2,
+  "title": "Ingingo ya 85: Imiterere y’ibice bigize irangashingiro"
+ },
+ {
+  "id": "article-85-structure-of-parts-of-the-preamble",
+  "level": 2,
+  "title": "Article 85: Structure of parts of the preamble"
+ },
+ {
+  "id": "article-85-structure-des-parties-du-préambule",
+  "level": 2,
+  "title": "Article 85 : Structure des parties du préambule"
+ },
+ {
+  "id": "ingingo-ya-86-imyandikire-y-igika-kiranga-urwego-rwemeje-ite",
+  "level": 2,
+  "title": "Ingingo ya 86: Imyandikire y’igika kiranga urwego rwemeje itegeko"
+ },
+ {
+  "id": "article-86-drafting-of-the-paragraph-indicating-the-adopting",
+  "level": 2,
+  "title": "Article 86: Drafting of the paragraph indicating the adopting organ"
+ },
+ {
+  "id": "article-86-rédaction-du-paragraphe-qui-indique-l-organe-adop",
+  "level": 2,
+  "title": "Article 86 : Rédaction du paragraphe qui indique l’organe adoptant"
+ },
+ {
+  "id": "ingingo-ya-87-imiterere-y-igika-cyerekeza-ku-itegeko-nshinga",
+  "level": 2,
+  "title": "Ingingo ya 87: Imiterere y’igika cyerekeza ku Itegeko Nshinga"
+ },
+ {
+  "id": "article-87-structure-of-the-paragraph-referring-to-the-const",
+  "level": 2,
+  "title": "Article 87: Structure of the paragraph referring to the Constitution"
+ },
+ {
+  "id": "article-87-structure-du-paragraphe-se-référant-à-la-constitu",
+  "level": 2,
+  "title": "Article 87 : Structure du paragraphe se référant à la Constitution"
+ },
+ {
+  "id": "ingingo-ya-88-imiterere-y-igika-article-88-structure-of-the-",
+  "level": 2,
+  "title": "Ingingo ya 88: Imiterere y’igika Article 88: Structure of the paragraph Article 88 : Structure du paragraphe du"
+ },
+ {
+  "id": "cy-itegeko-rishingiweho-of-enabling-legislation-texte-normat",
+  "level": 2,
+  "title": "cy’itegeko rishingiweho of enabling legislation texte normatif de délégation"
+ },
+ {
+  "id": "ingingo-ya-89-imiterere-y-igika-cy-itegeko-rivanwaho",
+  "level": 2,
+  "title": "Ingingo ya 89: Imiterere y’igika cy’itegeko rivanwaho"
+ },
+ {
+  "id": "article-89-structure-of-the-paragraph-of-legislation-being-r",
+  "level": 2,
+  "title": "Article 89: Structure of the paragraph of legislation being repealed"
+ },
+ {
+  "id": "article-89-structure-du-paragraphe-du-texte-normatif-sujet-d",
+  "level": 2,
+  "title": "Article 89 : Structure du paragraphe du texte normatif sujet d’abrogation"
+ },
+ {
+  "id": "ingingo-ya-90-imiterere-y-igika-cy-itegeko-rihindurwa",
+  "level": 2,
+  "title": "Ingingo ya 90: Imiterere y’igika cy’itegeko rihindurwa"
+ },
+ {
+  "id": "article-90-structure-of-the-paragraph-of-legislation-being-a",
+  "level": 2,
+  "title": "Article 90: Structure of the paragraph of legislation being amended"
+ },
+ {
+  "id": "article-90-structure-du-paragraphe-du-texte-normatif-sujet-d",
+  "level": 2,
+  "title": "Article 90 : Structure du paragraphe du texte normatif sujet de modification"
+ },
+ {
+  "id": "icyiciro-cya-4-igihimba-section-4-body-section-4-corps",
+  "level": 2,
+  "title": "Icyiciro cya 4: Igihimba Section 4: Body Section 4 : Corps"
+ },
+ {
+  "id": "ingingo-ya-91-imiterere-y-igihimba-article-91-structure-of-t",
+  "level": 2,
+  "title": "Ingingo ya 91: Imiterere y’igihimba Article 91: Structure of the body Article 91 : Structure du corps"
+ },
+ {
+  "id": "akiciro-ka-mbere-imiterere-y-igice-cy-itegeko-cy-ingingo-rus",
+  "level": 2,
+  "title": "Akiciro ka mbere: Imiterere y’igice cy’itegeko cy’ingingo rusange Subsection One: Structure of a division of general provisions Sous-section première : Structure d’une division des dispositions générales"
+ },
+ {
+  "id": "ingingo-ya-92-imiterere-y-ingingo-zigize-igice-cy-itegeko-cy",
+  "level": 2,
+  "title": "Ingingo ya 92: Imiterere y’ingingo zigize igice cy’itegeko cy’ingingo rusange"
+ },
+ {
+  "id": "article-92-structure-of-provisions-of-a-division-of-general-",
+  "level": 2,
+  "title": "Article 92: Structure of provisions of a division of general provisions"
+ },
+ {
+  "id": "article-92-structure-des-dispositions-d-une-division-des-dis",
+  "level": 2,
+  "title": "Article 92 : Structure des dispositions d’une division des dispositions générales"
+ },
+ {
+  "id": "ingingo-ya-93-imiterere-y-ingingo-y-ikigamijwe",
+  "level": 2,
+  "title": "Ingingo ya 93: Imiterere y’ingingo y’ikigamijwe"
+ },
+ {
+  "id": "article-93-structure-of-a-provision-on-purpose",
+  "level": 2,
+  "title": "Article 93: Structure of a provision on purpose"
+ },
+ {
+  "id": "article-93-structure-d-une-disposition-sur-l-objet",
+  "level": 2,
+  "title": "Article 93 : Structure d’une disposition sur l’objet"
+ },
+ {
+  "id": "ingingo-ya-94-imiterere-y-ingingo-y-isobanura",
+  "level": 2,
+  "title": "Ingingo ya 94: Imiterere y’ingingo y’isobanura"
+ },
+ {
+  "id": "article-94-structure-of-a-provision-on-interpretation",
+  "level": 2,
+  "title": "Article 94: Structure of a provision on interpretation"
+ },
+ {
+  "id": "article-94-structure-d-une-disposition-sur-l-interprétation",
+  "level": 2,
+  "title": "Article 94 : Structure d’une disposition sur l’interprétation"
+ },
+ {
+  "id": "ingingo-ya-95-imiterere-y-ingingo-y-ibirebwa-n-itegeko",
+  "level": 2,
+  "title": "Ingingo ya 95: Imiterere y’ingingo y’ibirebwa n’itegeko"
+ },
+ {
+  "id": "article-95-structure-of-a-provision-on-scope",
+  "level": 2,
+  "title": "Article 95: Structure of a provision on scope"
+ },
+ {
+  "id": "article-95-structure-d-une-disposition-sur-l-application",
+  "level": 2,
+  "title": "Article 95 : Structure d’une disposition sur l’application"
+ },
+ {
+  "id": "ingingo-ya-96-imiterere-y-ingingo-zirebana-n-ireme-ry-itegek",
+  "level": 2,
+  "title": "Ingingo ya 96: Imiterere y’ingingo zirebana n’ireme ry’itegeko zishyirwa mu gice cy’itegeko cy’ingingo rusange"
+ },
+ {
+  "id": "article-96-structure-of-substantive-provisions-placed-in-a-d",
+  "level": 2,
+  "title": "Article 96: Structure of substantive provisions placed in a division of general provisions"
+ },
+ {
+  "id": "article-96-structure-des-dispositions-de-fond-placées-dans-u",
+  "level": 2,
+  "title": "Article 96 : Structure des dispositions de fond placées dans une division des dispositions générales"
+ },
+ {
+  "id": "akiciro-ka-2-imiterere-y-igice-subsection-2-structure-of-a-d",
+  "level": 2,
+  "title": "Akiciro ka 2: Imiterere y’igice Subsection 2: Structure of a division of Sous-section 2 : Structure d’une"
+ },
+ {
+  "id": "cy-itegeko-cy-ingingo-zirebana-n-ireme-ry-itegeko-substantiv",
+  "level": 2,
+  "title": "cy’itegeko cy’ingingo zirebana n’ireme ry’itegeko substantive provisions division des dispositions de fond"
+ },
+ {
+  "id": "ingingo-ya-97-imiterere-y-ingingo-zigize-igice-cy-itegeko-cy",
+  "level": 2,
+  "title": "Ingingo ya 97: Imiterere y’ingingo zigize igice cy’itegeko cy’ingingo zirebana n’ireme ry’itegeko"
+ },
+ {
+  "id": "article-97-structure-of-provisions-of-a-division-of-substant",
+  "level": 2,
+  "title": "Article 97: Structure of provisions of a division of substantive provisions"
+ },
+ {
+  "id": "article-97-structure-des-dispositions-d-une-division-des-dis",
+  "level": 2,
+  "title": "Article 97 : Structure des dispositions d’une division des dispositions de fond"
+ },
+ {
+  "id": "ingingo-ya-98-imiterere-y-ingingo-zitegeka",
+  "level": 2,
+  "title": "Ingingo ya 98: Imiterere y’ingingo zitegeka"
+ },
+ {
+  "id": "article-98-structure-of-provisions-of-authority",
+  "level": 2,
+  "title": "Article 98: Structure of provisions of authority"
+ },
+ {
+  "id": "article-98-structure-des-dispositions-d-autorité",
+  "level": 2,
+  "title": "Article 98 : Structure des dispositions d’autorité"
+ },
+ {
+  "id": "ingingo-ya-99-imiterere-y-ingingo-zibuza",
+  "level": 2,
+  "title": "Ingingo ya 99: Imiterere y’ingingo zibuza"
+ },
+ {
+  "id": "article-99-structure-of-prohibitive-provisions",
+  "level": 2,
+  "title": "Article 99: Structure of prohibitive provisions"
+ },
+ {
+  "id": "article-99-structure-des-dispositions-prohibitives",
+  "level": 2,
+  "title": "Article 99 : Structure des dispositions prohibitives"
+ },
+ {
+  "id": "ingingo-ya-100-imiterere-y-ingingo-zihana",
+  "level": 2,
+  "title": "Ingingo ya 100: Imiterere y’ingingo zihana"
+ },
+ {
+  "id": "article-100-structure-of-repressive-provisions",
+  "level": 2,
+  "title": "Article 100: Structure of repressive provisions"
+ },
+ {
+  "id": "article-100-structure-des-dispositions-répressives",
+  "level": 2,
+  "title": "Article 100 : Structure des dispositions répressives"
+ },
+ {
+  "id": "akiciro-ka-3-imiterere-y-igice-cy-itegeko-cy-ingingo-zinyura",
+  "level": 2,
+  "title": "Akiciro ka 3: Imiterere y’igice cy’itegeko cy’ingingo zinyuranye Subsection 3: Structure of a division of miscellaneous provisions Sous-section 3 : Structure d’une division des dispositions diverses"
+ },
+ {
+  "id": "ingingo-ya-101-imiterere-y-ingingo-zigize-igice-cy-itegeko-c",
+  "level": 2,
+  "title": "Ingingo ya 101: Imiterere y’ingingo zigize igice cy’itegeko cy’ingingo zinyuranye"
+ },
+ {
+  "id": "article-101-structure-of-provisions-of-a-division-of-miscell",
+  "level": 2,
+  "title": "Article 101: Structure of provisions of a division of miscellaneous provisions"
+ },
+ {
+  "id": "article-101-structure-des-dispositions-d-une-division-des-di",
+  "level": 2,
+  "title": "Article 101 : Structure des dispositions d’une division des dispositions diverses"
+ },
+ {
+  "id": "ingingo-ya-102-imiterere-y-ingingo-zirebana-n-ireme-ry-itege",
+  "level": 2,
+  "title": "Ingingo ya 102: Imiterere y’ingingo zirebana n’ireme ry’itegeko zishyirwa mu gice cy’itegeko cy’ingingo zinyuranye"
+ },
+ {
+  "id": "article-102-structure-of-substantive-provisions-placed-in-a-",
+  "level": 2,
+  "title": "Article 102: Structure of substantive provisions placed in a division of miscellaneous provisions"
+ },
+ {
+  "id": "article-102-structure-des-dispositions-de-fond-placées-dans-",
+  "level": 2,
+  "title": "Article 102 : Structure des dispositions de fond placées dans une division des dispositions diverses"
+ },
+ {
+  "id": "akiciro-ka-4-imiterere-y-igice-cy-itegeko-cy-ingingo-zisoza-",
+  "level": 2,
+  "title": "Akiciro ka 4: Imiterere y’igice cy’itegeko cy’ingingo zisoza Subsection 4: Structure of a division of final provisions Sous-section 4 : Structure d’une division des dispositions finales"
+ },
+ {
+  "id": "ingingo-ya-103-imiterere-y-ingingo-zigize-igice-cy-itegeko-c",
+  "level": 2,
+  "title": "Ingingo ya 103: Imiterere y’ingingo zigize igice cy’itegeko cy’ingingo zisoza"
+ },
+ {
+  "id": "article-103-structure-of-provisions-of-a-division-of-final-p",
+  "level": 2,
+  "title": "Article 103: Structure of provisions of a division of final provisions"
+ },
+ {
+  "id": "article-103-structure-des-dispositions-d-une-division-des-di",
+  "level": 2,
+  "title": "Article 103 : Structure des dispositions d’une division des dispositions finales"
+ },
+ {
+  "id": "ingingo-ya-104-imiterere-y-ingingo-igaragaza-abayobozi-bashi",
+  "level": 2,
+  "title": "Ingingo ya 104: Imiterere y’ingingo igaragaza abayobozi bashinzwe gushyira mu bikorwa"
+ },
+ {
+  "id": "article-104-structure-of-a-provision-on-authorities-responsi",
+  "level": 2,
+  "title": "Article 104: Structure of a provision on authorities responsible for implementation"
+ },
+ {
+  "id": "article-104-structure-d-une-disposition-sur-les-autorités-ch",
+  "level": 2,
+  "title": "Article 104 : Structure d’une disposition sur les autorités chargées de l’exécution"
+ },
+ {
+  "id": "ingingo-ya-105-imiterere-y-ingingo-y-ururimi",
+  "level": 2,
+  "title": "Ingingo ya 105: Imiterere y’ingingo y’ururimi"
+ },
+ {
+  "id": "article-105-structure-of-a-language-provision",
+  "level": 2,
+  "title": "Article 105: Structure of a language provision"
+ },
+ {
+  "id": "article-105-structure-d-une-disposition-linguistique",
+  "level": 2,
+  "title": "Article 105 : Structure d’une disposition linguistique"
+ },
+ {
+  "id": "ingingo-ya-106-imiterere-y-ingingo-ivanaho",
+  "level": 2,
+  "title": "Ingingo ya 106: Imiterere y’ingingo ivanaho"
+ },
+ {
+  "id": "article-106-structure-of-a-repealing-provision",
+  "level": 2,
+  "title": "Article 106: Structure of a repealing provision"
+ },
+ {
+  "id": "article-106-structure-d-une-disposition-abrogatoire",
+  "level": 2,
+  "title": "Article 106 : Structure d’une disposition abrogatoire"
+ },
+ {
+  "id": "ingingo-ya-107-imiterere-y-ingingo-y-inzibacyuho",
+  "level": 2,
+  "title": "Ingingo ya 107: Imiterere y’ingingo y’inzibacyuho"
+ },
+ {
+  "id": "article-107-structure-of-a-transitional-provision",
+  "level": 2,
+  "title": "Article 107: Structure of a transitional provision"
+ },
+ {
+  "id": "article-107-structure-d-une-disposition-transitoire",
+  "level": 2,
+  "title": "Article 107 : Structure d’une disposition transitoire"
+ },
+ {
+  "id": "ingingo-ya-108-imiterere-y-ingingo-izigama",
+  "level": 2,
+  "title": "Ingingo ya 108: Imiterere y’ingingo izigama"
+ },
+ {
+  "id": "article-108-structure-of-a-saving-provision",
+  "level": 2,
+  "title": "Article 108: Structure of a saving provision"
+ },
+ {
+  "id": "article-108-structure-d-une-disposition-de-sauvegarde",
+  "level": 2,
+  "title": "Article 108 : Structure d’une disposition de sauvegarde"
+ },
+ {
+  "id": "ingingo-ya-109-imiterere-y-ingingo-yo-kureka-kugira-agaciro",
+  "level": 2,
+  "title": "Ingingo ya 109: Imiterere y’ingingo yo kureka kugira agaciro"
+ },
+ {
+  "id": "article-109-structure-of-a-sunset-provision",
+  "level": 2,
+  "title": "Article 109: Structure of a sunset provision"
+ },
+ {
+  "id": "article-109-structure-d-une-disposition-de-cessation-dans-le",
+  "level": 2,
+  "title": "Article 109 : Structure d’une disposition de cessation dans le temps"
+ },
+ {
+  "id": "ingingo-ya-110-imiterere-y-ingingo-y-itangira-gukurikizwa",
+  "level": 2,
+  "title": "Ingingo ya 110: Imiterere y’ingingo y’itangira gukurikizwa"
+ },
+ {
+  "id": "article-110-structure-of-a-provision-on-entry-into-force",
+  "level": 2,
+  "title": "Article 110: Structure of a provision on entry into force"
+ },
+ {
+  "id": "article-110-structure-d-une-disposition-sur-l-entrée-en-vigu",
+  "level": 2,
+  "title": "Article 110 : Structure d’une disposition sur l’entrée en vigueur"
+ },
+ {
+  "id": "icyiciro-cya-5-imikono-section-5-signatures-section-5-signat",
+  "level": 2,
+  "title": "Icyiciro cya 5: Imikono Section 5: Signatures Section 5 : Signatures"
+ },
+ {
+  "id": "ingingo-ya-111-imiterere-y-ibice-bigize-imikono",
+  "level": 2,
+  "title": "Ingingo ya 111: Imiterere y’ibice bigize imikono"
+ },
+ {
+  "id": "article-111-structure-of-parts-of-the-signatures",
+  "level": 2,
+  "title": "Article 111: Structure of parts of the signatures"
+ },
+ {
+  "id": "article-111-structure-des-parties-des-signatures",
+  "level": 2,
+  "title": "Article 111 : Structure des parties des signatures"
+ },
+ {
+  "id": "ingingo-ya-112-imiterere-y-ahantu-n-itariki",
+  "level": 2,
+  "title": "Ingingo ya 112: Imiterere y’ahantu n’itariki"
+ },
+ {
+  "id": "article-112-structure-of-place-and-date-article-112-structur",
+  "level": 2,
+  "title": "Article 112: Structure of place and date Article 112 : Structure du lieu et de la date"
+ },
+ {
+  "id": "ingingo-ya-113-imiterere-y-umukono-article-113-structure-of-",
+  "level": 2,
+  "title": "Ingingo ya 113: Imiterere y’umukono Article 113: Structure of signature Article 113 : Structure de la signature"
+ },
+ {
+  "id": "ingingo-ya-114-imiterere-y-imikono-y-ingereka",
+  "level": 2,
+  "title": "Ingingo ya 114: Imiterere y’imikono y’ingereka"
+ },
+ {
+  "id": "article-114-structure-of-countersignatures",
+  "level": 2,
+  "title": "Article 114: Structure of countersignatures"
+ },
+ {
+  "id": "article-114-structure-des-contresignatures",
+  "level": 2,
+  "title": "Article 114 : Structure des contresignatures"
+ },
+ {
+  "id": "ingingo-ya-115-ikirango-cya-repubulika",
+  "level": 2,
+  "title": "Ingingo ya 115: Ikirango cya Repubulika"
+ },
+ {
+  "id": "article-115-the-seal-of-the-republic-article-115-le-sceau-de",
+  "level": 2,
+  "title": "Article 115: The Seal of the Republic Article 115 : Le Sceau de la République"
+ },
+ {
+  "id": "icyiciro-cya-6-imigereka-section-6-annexes-section-6-annexes",
+  "level": 2,
+  "title": "Icyiciro cya 6: Imigereka Section 6: Annexes Section 6 : Annexes"
+ },
+ {
+  "id": "ingingo-ya-116-imiterere-y-umugereka-article-116-structure-o",
+  "level": 2,
+  "title": "Ingingo ya 116: Imiterere y’umugereka Article 116: Structure of an annex Article 116 : Structure d’une annexe"
+ },
+ {
+  "id": "ingingo-ya-117-imiterere-y-ibice-bigize-umugereka",
+  "level": 2,
+  "title": "Ingingo ya 117: Imiterere y’ibice bigize umugereka"
+ },
+ {
+  "id": "article-117-structure-of-parts-of-the-annex",
+  "level": 2,
+  "title": "Article 117: Structure of parts of the annex"
+ },
+ {
+  "id": "article-117-structure-des-parties-d-une-annexe",
+  "level": 2,
+  "title": "Article 117 : Structure des parties d’une annexe"
+ },
+ {
+  "id": "ingingo-ya-118-inyito-y-umugereka-article-118-heading-of-an-",
+  "level": 2,
+  "title": "Ingingo ya 118: Inyito y’umugereka Article 118: Heading of an annex Article 118 : Intitulé d’une annexe"
+ },
+ {
+  "id": "ingingo-ya-119-imiterere-y-igihimba-cy-umugereka",
+  "level": 2,
+  "title": "Ingingo ya 119: Imiterere y’igihimba cy’umugereka"
+ },
+ {
+  "id": "article-119-structure-of-the-body-of-an-annex",
+  "level": 2,
+  "title": "Article 119: Structure of the body of an annex"
+ },
+ {
+  "id": "article-119-structure-du-corps-d-une-annexe",
+  "level": 2,
+  "title": "Article 119 : Structure du corps d’une annexe"
+ },
+ {
+  "id": "ingingo-ya-120-imiterere-y-umusozo-w-umugereka",
+  "level": 2,
+  "title": "Ingingo ya 120: Imiterere y’umusozo w’umugereka"
+ },
+ {
+  "id": "article-120-structure-of-the-ending-formula-of-an-annex",
+  "level": 2,
+  "title": "Article 120: Structure of the ending formula of an annex"
+ },
+ {
+  "id": "article-120-structure-de-la-formule-finale-d-une-annexe",
+  "level": 2,
+  "title": "Article 120 : Structure de la formule finale d’une annexe"
+ },
+ {
+  "id": "ingingo-ya-121-imiterere-y-imikono-y-umugereka",
+  "level": 2,
+  "title": "Ingingo ya 121: Imiterere y’imikono y’umugereka"
+ },
+ {
+  "id": "article-121-structure-of-signatures-of-an-annex",
+  "level": 2,
+  "title": "Article 121: Structure of signatures of an annex"
+ },
+ {
+  "id": "article-121-structure-des-signatures-d-une-annexe",
+  "level": 2,
+  "title": "Article 121 : Structure des signatures d’une annexe"
+ },
+ {
+  "id": "umutwe-wa-ii-imitondekere-y-itegeko-n-imitunganyirize-y-umwa",
+  "level": 2,
+  "title": "UMUTWE WA II: IMITONDEKERE Y’ITEGEKO N’IMITUNGANYIRIZE Y’UMWANDIKO W’ITEGEKO"
+ },
+ {
+  "id": "chapter-ii-organisation-of-a-legislation-and-layout-of-a-tex",
+  "level": 2,
+  "title": "CHAPTER II: ORGANISATION OF A LEGISLATION AND LAYOUT OF A TEXT OF A LEGISLATION CHAPITRE II : ORGANISATION D’UN TEXTE NORMATIF ET MISE EN PAGE D’UN TEXTE DU TEXTE NORMATIF"
+ },
+ {
+  "id": "ingingo-ya-122-igisobanuro-cyo-gutondeka-itegeko",
+  "level": 2,
+  "title": "Ingingo ya 122: Igisobanuro cyo gutondeka itegeko"
+ },
+ {
+  "id": "article-122-definition-of-organising-a-legislation",
+  "level": 2,
+  "title": "Article 122: Definition of organising a legislation"
+ },
+ {
+  "id": "article-122-définition-de-l-organisation-d-un-texte-normatif",
+  "level": 2,
+  "title": "Article 122 : Définition de l’organisation d’un texte normatif"
+ },
+ {
+  "id": "icyiciro-cya-mbere-ibice-by-itegeko-section-one-divisions-se",
+  "level": 2,
+  "title": "Icyiciro cya mbere: Ibice by’itegeko Section One: Divisions Section première : Divisions"
+ },
+ {
+  "id": "ingingo-ya-123-ibyiciro-by-bice-by-itegeko",
+  "level": 2,
+  "title": "Ingingo ya 123: Ibyiciro by’bice by’itegeko"
+ },
+ {
+  "id": "article-123-categories-of-divisions-article-123-catégorie-de",
+  "level": 2,
+  "title": "Article 123: Categories of divisions Article 123 : Catégorie des divisions"
+ },
+ {
+  "id": "akiciro-ka-mbere-ibice-by-itegeko-bito-subsection-one-lower-",
+  "level": 2,
+  "title": "Akiciro ka mbere: Ibice by’itegeko bito Subsection One: Lower divisions Sous-section première : Divisions inférieures"
+ },
+ {
+  "id": "ingingo-ya-124-ubwoko-bw-ibice-by-itegeko-bito",
+  "level": 2,
+  "title": "Ingingo ya 124: Ubwoko bw’ibice by’itegeko bito"
+ },
+ {
+  "id": "article-124-types-of-lower-divisions-article-124-types-des-d",
+  "level": 2,
+  "title": "Article 124: Types of lower divisions Article 124 : Types des divisions inférieures"
+ },
+ {
+  "id": "ingingo-ya-125-ikoreshwa-ry-ibice-by-itegeko-bito",
+  "level": 2,
+  "title": "Ingingo ya 125: Ikoreshwa ry’ibice by’itegeko bito"
+ },
+ {
+  "id": "article-125-use-of-lower-divisions-article-125-emploi-des-di",
+  "level": 2,
+  "title": "Article 125: Use of lower divisions Article 125 : Emploi des divisions inférieures"
+ },
+ {
+  "id": "akiciro-ka-2-ibice-by-itegeko-bikuru-subsection-2-higher-div",
+  "level": 2,
+  "title": "Akiciro ka 2: Ibice by’itegeko bikuru Subsection 2: Higher divisions Sous-section 2 : Divisions supérieures"
+ },
+ {
+  "id": "ingingo-ya-126-ubwoko-bw-ibice-by-itegeko-bikuru",
+  "level": 2,
+  "title": "Ingingo ya 126: Ubwoko bw’ibice by’itegeko bikuru"
+ },
+ {
+  "id": "article-126-types-of-higher-divisions-article-126-types-des-",
+  "level": 2,
+  "title": "Article 126: Types of higher divisions Article 126 : Types des divisions supérieures"
+ },
+ {
+  "id": "ingingo-ya-127-ikoreshwa-ry-ibice-by-itegeko-bikuru",
+  "level": 2,
+  "title": "Ingingo ya 127: Ikoreshwa ry’ibice by’itegeko bikuru"
+ },
+ {
+  "id": "article-127-use-of-higher-divisions-article-127-emploi-des-d",
+  "level": 2,
+  "title": "Article 127: Use of higher divisions Article 127 : Emploi des divisions supérieures"
+ },
+ {
+  "id": "akiciro-ka-3-uturango-n-inyito-by-ibice-by-itegeko-subsectio",
+  "level": 2,
+  "title": "Akiciro ka 3: Uturango n’inyito by’ibice by’itegeko Subsection 3: Designations and headings of divisions Sous-section 3 : Désignations et intitulés des divisions"
+ },
+ {
+  "id": "ingingo-ya-128-uturango-tw-ibice-by-itegeko-bito",
+  "level": 2,
+  "title": "Ingingo ya 128: Uturango tw’ibice by’itegeko bito"
+ },
+ {
+  "id": "article-128-designations-of-lower-divisions",
+  "level": 2,
+  "title": "Article 128: Designations of lower divisions"
+ },
+ {
+  "id": "article-128-désignation-des-divisions-inférieures",
+  "level": 2,
+  "title": "Article 128 : Désignation des divisions inférieures"
+ },
+ {
+  "id": "ingingo-ya-129-uturango-tw-ibice-by-itegeko-bikuru",
+  "level": 2,
+  "title": "Ingingo ya 129: Uturango tw’ibice by’itegeko bikuru"
+ },
+ {
+  "id": "article-129-designations-of-higher-divisions",
+  "level": 2,
+  "title": "Article 129: Designations of higher divisions"
+ },
+ {
+  "id": "article-129-désignation-des-divisions-supérieures",
+  "level": 2,
+  "title": "Article 129 : Désignation des divisions supérieures"
+ },
+ {
+  "id": "ingingo-ya-130-inyito-z-ibice-by-itegeko",
+  "level": 2,
+  "title": "Ingingo ya 130: Inyito z’ibice by’itegeko"
+ },
+ {
+  "id": "article-130-headings-of-divisions-article-130-intitulés-des-",
+  "level": 2,
+  "title": "Article 130: Headings of divisions Article 130 : Intitulés des divisions"
+ },
+ {
+  "id": "ingingo-ya-131-imimerere-y-inyito-z-ibice-by-itegeko-bikuru",
+  "level": 2,
+  "title": "Ingingo ya 131: Imimerere y’inyito z’ibice by’itegeko bikuru"
+ },
+ {
+  "id": "article-131-form-of-headings-of-higher-divisions",
+  "level": 2,
+  "title": "Article 131: Form of headings of higher divisions"
+ },
+ {
+  "id": "article-131-forme-des-intitulés-des-divisions-supérieures",
+  "level": 2,
+  "title": "Article 131 : Forme des intitulés des divisions supérieures"
+ },
+ {
+  "id": "ingingo-ya-132-imyandikire-y-inyito",
+  "level": 2,
+  "title": "Ingingo ya 132: Imyandikire y’inyito"
+ },
+ {
+  "id": "n-iy-umutwe",
+  "level": 2,
+  "title": "n’iy’umutwe"
+ },
+ {
+  "id": "article-132-drafting-of-a-heading-of-a-book-part-title-and-c",
+  "level": 2,
+  "title": "Article 132: Drafting of a heading of a book, part, title, and chapter"
+ },
+ {
+  "id": "article-132-rédaction-de-l-intitulé-d-un-livre-d-une-partie-",
+  "level": 2,
+  "title": "Article 132 : Rédaction de l’intitulé d’un livre, d’une partie, d’un titre, et d’un chapitre"
+ },
+ {
+  "id": "y-ingingo-iy-icyiciro-n-iy-akiciro",
+  "level": 2,
+  "title": "y’ingingo, iy’icyiciro, n’iy’akiciro"
+ },
+ {
+  "id": "article-133-drafting-of-a-heading-of-an",
+  "level": 2,
+  "title": "Article 133: Drafting of a heading of an"
+ },
+ {
+  "id": "article-section-and-subsection",
+  "level": 2,
+  "title": "article section, and subsection"
+ },
+ {
+  "id": "article-133-rédaction-de-l-intitulé-d-un-article-d-une-secti",
+  "level": 2,
+  "title": "Article 133 : Rédaction de l’intitulé d’un article, d’une section, et d’une sous- section"
+ },
+ {
+  "id": "icyiciro-cya-2-gutondeka-itegeko-section-2-organising-a-legi",
+  "level": 2,
+  "title": "Icyiciro cya 2: Gutondeka itegeko Section 2: Organising a legislation Section 2 : Organiser un texte normatif"
+ },
+ {
+  "id": "ingingo-ya-134-kugabanya-igihimba-cy-itegeko-mu-ngingo",
+  "level": 2,
+  "title": "Ingingo ya 134: Kugabanya igihimba cy’itegeko mu ngingo"
+ },
+ {
+  "id": "article-134-dividing-the-body-of-a-legislation-into-articles",
+  "level": 2,
+  "title": "Article 134: Dividing the body of a legislation into articles"
+ },
+ {
+  "id": "article-134-division-du-corps-d-un-texte-normatif-en-article",
+  "level": 2,
+  "title": "Article 134 : Division du corps d’un texte normatif en articles"
+ },
+ {
+  "id": "ingingo-ya-135-kubumbira-ingingo-z-itegeko-mu-mitwe",
+  "level": 2,
+  "title": "Ingingo ya 135: Kubumbira ingingo z’itegeko mu mitwe"
+ },
+ {
+  "id": "article-135-grouping-articles-of-a-legislation-into-chapters",
+  "level": 2,
+  "title": "Article 135: Grouping articles of a legislation into chapters"
+ },
+ {
+  "id": "article-135-regroupement-des-articles-d-un-texte-normatif-en",
+  "level": 2,
+  "title": "Article 135 : Regroupement des articles d’un texte normatif en chapitres"
+ },
+ {
+  "id": "ingingo-ya-136-kubumbira-ingingo-zigize-umutwe-mu-byiciro",
+  "level": 2,
+  "title": "Ingingo ya 136: Kubumbira ingingo zigize umutwe mu byiciro"
+ },
+ {
+  "id": "article-136-grouping-articles-of-a",
+  "level": 2,
+  "title": "Article 136: Grouping articles of a"
+ },
+ {
+  "id": "chapter-into-sections",
+  "level": 2,
+  "title": "chapter into sections"
+ },
+ {
+  "id": "article-136-regroupement-des-articles-d-un-chapitre-en-secti",
+  "level": 2,
+  "title": "Article 136 : Regroupement des articles d’un chapitre en sections"
+ },
+ {
+  "id": "ingingo-ya-137-kubumbira-ingingo-zigize-icyiciro-mu-twiciro",
+  "level": 2,
+  "title": "Ingingo ya 137: Kubumbira ingingo zigize icyiciro mu twiciro"
+ },
+ {
+  "id": "article-137-grouping-articles-of-a",
+  "level": 2,
+  "title": "Article 137: Grouping articles of a"
+ },
+ {
+  "id": "section-into-subsections",
+  "level": 2,
+  "title": "section into subsections"
+ },
+ {
+  "id": "article-137-regroupement-des-articles-d-une-section-en-sous-",
+  "level": 2,
+  "title": "Article 137 : Regroupement des articles d’une section en sous-sections"
+ },
+ {
+  "id": "ingingo-ya-138-kubumbira-imitwe-mu-nteruro",
+  "level": 2,
+  "title": "Ingingo ya 138: Kubumbira imitwe mu nteruro"
+ },
+ {
+  "id": "article-138-grouping-chapters-into-titles",
+  "level": 2,
+  "title": "Article 138: Grouping chapters into titles"
+ },
+ {
+  "id": "article-138-regroupement-des-chapitres-en-titres",
+  "level": 2,
+  "title": "Article 138 : Regroupement des chapitres en titres"
+ },
+ {
+  "id": "ingingo-ya-139-kubumbira-interuro-mu-bice",
+  "level": 2,
+  "title": "Ingingo ya 139: Kubumbira interuro mu bice"
+ },
+ {
+  "id": "article-139-grouping-titles-into-parts-article-139-regroupem",
+  "level": 2,
+  "title": "Article 139: Grouping titles into parts Article 139 : Regroupement des titres en parties"
+ },
+ {
+  "id": "ingingo-ya-140-kubumbira-ibice-mu-bitabo",
+  "level": 2,
+  "title": "Ingingo ya 140: Kubumbira ibice mu bitabo"
+ },
+ {
+  "id": "article-140-grouping-parts-into-books-article-140-regroupeme",
+  "level": 2,
+  "title": "Article 140: Grouping parts into books Article 140 : Regroupement des parties en livres"
+ },
+ {
+  "id": "ingingo-ya-141-kugabanya-ingingo-mu-bika",
+  "level": 2,
+  "title": "Ingingo ya 141: Kugabanya ingingo mu bika"
+ },
+ {
+  "id": "article-141-dividing-an-article-into-paragraphs",
+  "level": 2,
+  "title": "Article 141: Dividing an article into paragraphs"
+ },
+ {
+  "id": "article-141-division-d-un-article-en-paragraphes",
+  "level": 2,
+  "title": "Article 141 : Division d’un article en paragraphes"
+ },
+ {
+  "id": "ingingo-ya-142-kugabanya-ingingo-mu-duka",
+  "level": 2,
+  "title": "Ingingo ya 142: Kugabanya ingingo mu duka"
+ },
+ {
+  "id": "article-142-dividing-an-article-into-subparagraphs",
+  "level": 2,
+  "title": "Article 142: Dividing an article into subparagraphs"
+ },
+ {
+  "id": "article-142-division-d-un-article-en-alinéas",
+  "level": 2,
+  "title": "Article 142 : Division d’un article en alinéas"
+ },
+ {
+  "id": "ingingo-ya-143-kugabanya-igika-mu-duka",
+  "level": 2,
+  "title": "Ingingo ya 143: Kugabanya igika mu duka"
+ },
+ {
+  "id": "article-143-dividing-a-paragraph-into-subparagraphs",
+  "level": 2,
+  "title": "Article 143: Dividing a paragraph into subparagraphs"
+ },
+ {
+  "id": "article-143-division-d-un-paragraphe-en-alinéas",
+  "level": 2,
+  "title": "Article 143 : Division d’un paragraphe en alinéas"
+ },
+ {
+  "id": "ingingo-ya-144-kugabanya-agaka-mu-duce-tw-agaka",
+  "level": 2,
+  "title": "Ingingo ya 144: Kugabanya agaka mu duce tw’agaka"
+ },
+ {
+  "id": "article-144-dividing-a-subparagraph-into-sub-subparagraphs",
+  "level": 2,
+  "title": "Article 144: Dividing a subparagraph into sub-subparagraphs"
+ },
+ {
+  "id": "article-144-division-d-un-alinéa-en-sous-alinéas",
+  "level": 2,
+  "title": "Article 144 : Division d’un alinéa en sous-alinéas"
+ },
+ {
+  "id": "ingingo-ya-145-kugabanya-agace-k-agaka-mu-nyangingo",
+  "level": 2,
+  "title": "Ingingo ya 145: Kugabanya agace k’agaka mu nyangingo"
+ },
+ {
+  "id": "article-145-dividing-a-sub-subparagraph-into-clauses",
+  "level": 2,
+  "title": "Article 145: Dividing a sub- subparagraph into clauses"
+ },
+ {
+  "id": "article-145-division-d-un-sous-alinéa-en-clauses",
+  "level": 2,
+  "title": "Article 145 : Division d’un sous-alinéa en clauses"
+ },
+ {
+  "id": "ingingo-ya-146-kugabanya-inyangingo-mu-duce-tw-inyangingo",
+  "level": 2,
+  "title": "Ingingo ya 146: Kugabanya inyangingo mu duce tw’inyangingo"
+ },
+ {
+  "id": "article-146-dividing-a-clause-into-subclauses",
+  "level": 2,
+  "title": "Article 146: Dividing a clause into subclauses"
+ },
+ {
+  "id": "article-146-division-d-une-clause-en-sous-clauses",
+  "level": 2,
+  "title": "Article 146 : Division d’une clause en sous-clauses"
+ },
+ {
+  "id": "icyiciro-cya-3-imyubakire-y-ibice-by-itegeko",
+  "level": 2,
+  "title": "Icyiciro cya 3: Imyubakire y’ibice by’itegeko"
+ },
+ {
+  "id": "section-3-format-of-divisions-section-3-construction-des-div",
+  "level": 2,
+  "title": "Section 3: Format of divisions Section 3 : Construction des divisions"
+ },
+ {
+  "id": "ingingo-ya-147-urukurikirane-nyurabwenge-rw-igice-cy-itegeko",
+  "level": 2,
+  "title": "Ingingo ya 147: Urukurikirane nyurabwenge rw’igice cy’itegeko"
+ },
+ {
+  "id": "article-147-logical-sequence-of-a-division",
+  "level": 2,
+  "title": "Article 147: Logical sequence of a division"
+ },
+ {
+  "id": "article-147-séquence-logique-d-une-division",
+  "level": 2,
+  "title": "Article 147 : Séquence logique d’une division"
+ },
+ {
+  "id": "ingingo-ya-148-interuro-zigize-ingingo-article-148-sentences",
+  "level": 2,
+  "title": "Ingingo ya 148: Interuro zigize ingingo Article 148: Sentences of an article Article 148 : Phrases d’un article"
+ },
+ {
+  "id": "ingingo-ya-149-ibitekerezo-bigize-ingingo",
+  "level": 2,
+  "title": "Ingingo ya 149: Ibitekerezo bigize ingingo"
+ },
+ {
+  "id": "article-149-ideas-in-an-article-article-149-idées-dans-un-ar",
+  "level": 2,
+  "title": "Article 149: Ideas in an article Article 149 : Idées dans un article"
+ },
+ {
+  "id": "ingingo-ya-150-igitekerezo-kigize-igika-article-150-idea-in-",
+  "level": 2,
+  "title": "Ingingo ya 150: Igitekerezo kigize igika Article 150: Idea in a Paragraph Article 150 : Idée dans un paragraphe"
+ },
+ {
+  "id": "ingingo-ya-151-imyubakire-y-igika-article-151-format-of-a-pa",
+  "level": 2,
+  "title": "Ingingo ya 151: Imyubakire y’igika Article 151: Format of a paragraph Article 151 : Construction d’un"
+ },
+ {
+  "id": "paragraphe",
+  "level": 2,
+  "title": "paragraphe"
+ },
+ {
+  "id": "ingingo-ya-152-imyubakire-y-agaka-article-152-format-of-a-su",
+  "level": 2,
+  "title": "Ingingo ya 152: Imyubakire y’agaka Article 152: Format of a subparagraph Article 152 : Construction d’un alinéa"
+ },
+ {
+  "id": "ingingo-ya-153-imyubakire-y-agace-k-agaka",
+  "level": 2,
+  "title": "Ingingo ya 153: Imyubakire y’agace k’agaka"
+ },
+ {
+  "id": "article-153-format-of-a-sub-subparagraph",
+  "level": 2,
+  "title": "Article 153: Format of a sub- subparagraph"
+ },
+ {
+  "id": "article-153-construction-d-un-sous-alinéa",
+  "level": 2,
+  "title": "Article 153 : Construction d’un sous- alinéa"
+ },
+ {
+  "id": "icyiciro-cya-4-imitunganyirize-y-umwandiko-w-itegeko",
+  "level": 2,
+  "title": "Icyiciro cya 4: Imitunganyirize y’umwandiko w’itegeko"
+ },
+ {
+  "id": "section-4-layout-of-a-text-of-a-legislation",
+  "level": 2,
+  "title": "Section 4: Layout of a text of a legislation"
+ },
+ {
+  "id": "section-4-mise-en-page-du-texte-d-un-texte-normatif",
+  "level": 2,
+  "title": "Section 4 : Mise en page du texte d’un texte normatif"
+ },
+ {
+  "id": "ingingo-ya-154-ibikurikizwa-mu-mitunganyirize-y-umwandiko-w-",
+  "level": 2,
+  "title": "Ingingo ya 154: Ibikurikizwa mu mitunganyirize y’umwandiko w’itegeko"
+ },
+ {
+  "id": "article-154-rules-of-a-text-of-a-legislation",
+  "level": 2,
+  "title": "Article 154: Rules of a text of a legislation"
+ },
+ {
+  "id": "article-154-règles-de-mise-en-page-du-texte-d-un-texte-norma",
+  "level": 2,
+  "title": "Article 154 : Règles de mise en page du texte d’un texte normatif"
+ },
+ {
+  "id": "ingingo-ya-155-imitunganyirize-y-umwandiko-w-umugereka-w-ite",
+  "level": 2,
+  "title": "Ingingo ya 155: Imitunganyirize y’umwandiko w’umugereka w’itegeko"
+ },
+ {
+  "id": "article-155-layout-of-a-text-of-an-annex-of-a-legislation",
+  "level": 2,
+  "title": "Article 155: Layout of a text of an annex of a legislation"
+ },
+ {
+  "id": "article-155-mise-en-page-du-texte-d-une-annexe-d-un-texte-no",
+  "level": 2,
+  "title": "Article 155 : Mise en page du texte d’une annexe d’un texte normatif"
+ },
+ {
+  "id": "interuro-ya-v-ingingo-zisoza-title-v-final-provisions-titre-",
+  "level": 2,
+  "title": "INTERURO YA V: INGINGO ZISOZA TITLE V: FINAL PROVISIONS TITRE V : DISPOSITIONS FINALES"
+ },
+ {
+  "id": "ingingo-ya-156-gutangira-gukurikizwa-article-156-entry-into-",
+  "level": 2,
+  "title": "Ingingo ya 156: Gutangira gukurikizwa Article 156: Entry into force Article 156 : Entrée en vigueur"
+ },
+ {
+  "id": "imirongo-ngenderwaho-nº-001-rlrc-2022-yo-ku-wa-18-10-2022-y--2",
+  "level": 2,
+  "title": "IMIRONGO NGENDERWAHO Nº 001/RLRC/2022 YO KU WA 18/10/2022 Y’IMYANDIKIRE Y’AMATEGEKO GUIDELINES Nº 001/RLRC/2022 OF 18/10/2022 ON LEGISLATIVE DRAFTING LIGNES DIRECTRICES Nº 001/RLRC/2022 DU 18/10/2022 PORTANT RÉDACTION DES TEXTES NORMATIFS"
+ },
+ {
+  "id": "ashyizeho-imirongo-ngenderwaho-y-imyandikire-y-amategeko-iku",
+  "level": 2,
+  "title": "ASHYIZEHO IMIRONGO NGENDERWAHO Y’IMYANDIKIRE Y’AMATEGEKO IKURIKIRA: ISSUES THE FOLLOWING GUIDELINES OF LEGISLATIVE DRAFTING: ÉMET LES SUIVANTES LIGNES DIRECTRICES DE RÉDACTION DES TEXTES NORMATIFS :"
+ },
+ {
+  "id": "interuro-ya-mbere-ingingo-rusange-title-one-general-provisio-2",
+  "level": 2,
+  "title": "INTERURO YA MBERE: INGINGO RUSANGE TITLE ONE: GENERAL PROVISIONS TITRE PREMIER : DISPOSITIONS GÉNÉRALES"
+ },
+ {
+  "id": "ingingo-ya-mbere-icyo-iyi-mirongo-ngenderwaho-igamije-2",
+  "level": 2,
+  "title": "Ingingo ya mbere: Icyo iyi mirongo ngenderwaho igamije"
+ },
+ {
+  "id": "article-one-purpose-of-these-guidelines-2",
+  "level": 2,
+  "title": "Article One: Purpose of these Guidelines"
+ },
+ {
+  "id": "article-premier-objet-des-présentes-lignes-directrices-2",
+  "level": 2,
+  "title": "Article premier : Objet des présentes lignes directrices"
+ },
+ {
+  "id": "ingingo-ya-2-isobanura-article-2-interpretation-article-2-in-2",
+  "level": 2,
+  "title": "Ingingo ya 2: Isobanura Article 2: Interpretation Article 2 : Interprétation"
+ },
+ {
+  "id": "interuro-ya-ii-ibikorwa-mbere-yo-kwandika-amategeko-title-ii-2",
+  "level": 2,
+  "title": "INTERURO YA II: IBIKORWA MBERE YO KWANDIKA AMATEGEKO TITLE II: PRELIMINARIES TO LEGISLATIVE PREPARATION TITRE II : TÂCHES PRÉLIMINAIRES À LA PRÉPARATION DES TEXTES NORMATIFS"
+ },
+ {
+  "id": "umutwe-wa-mbere-ubushakashatsi-2",
+  "level": 2,
+  "title": "UMUTWE WA MBERE: UBUSHAKASHATSI"
+ },
+ {
+  "id": "chapter-one-research-chapitre-premier-recherche-2",
+  "level": 2,
+  "title": "CHAPTER ONE: RESEARCH CHAPITRE PREMIER : RECHERCHE"
+ },
+ {
+  "id": "ingingo-ya-3-intego-y-ubushakashatsi-article-3-objective-of--2",
+  "level": 2,
+  "title": "Ingingo ya 3: Intego y’ubushakashatsi Article 3: Objective of research Article 3 : Objectif de la recherche"
+ },
+ {
+  "id": "ingingo-ya-4-icyerekezo-cy-ubushakashatsi-2",
+  "level": 2,
+  "title": "Ingingo ya 4: Icyerekezo cy’ubushakashatsi"
+ },
+ {
+  "id": "article-4-research-orientation-article-4-orientation-de-la-r-2",
+  "level": 2,
+  "title": "Article 4: Research orientation Article 4 : Orientation de la recherche"
+ },
+ {
+  "id": "ingingo-ya-5-ibikubiye-muri-raporo-y-ubushakashatsi",
+  "level": 2,
+  "title": "Ingingo ya 5: Ibikubiye muri raporo y’ubushakashatsi"
+ },
+ {
+  "id": "article-5-content-of-a-research-report-article-5-contenu-d-u",
+  "level": 2,
+  "title": "Article 5: Content of a research report Article 5 : Contenu d’un rapport de recherche"
+ },
+ {
+  "id": "ingingo-ya-6-imiterere-ya-raporo-y-ubushakashatsi-2",
+  "level": 2,
+  "title": "Ingingo ya 6: Imiterere ya raporo y’ubushakashatsi"
+ },
+ {
+  "id": "article-6-format-of-the-research-report-article-6-forme-du-r-2",
+  "level": 2,
+  "title": "Article 6: Format of the research report Article 6 : Forme du rapport de recherche"
+ },
+ {
+  "id": "umutwe-wa-ii-amabwiriza-yo-kwandika-umushinga-2",
+  "level": 2,
+  "title": "UMUTWE WA II: AMABWIRIZA YO KWANDIKA UMUSHINGA"
+ },
+ {
+  "id": "chapter-ii-drafting-instructions-chapitre-ii-instructions-de-2",
+  "level": 2,
+  "title": "CHAPTER II: DRAFTING INSTRUCTIONS CHAPITRE II : INSTRUCTIONS DE RÉDACTION D’UN PROJET"
+ },
+ {
+  "id": "ingingo-ya-7-ikurikizwa-ry-amabwiriza-yo-kwandika-umushinga-2",
+  "level": 2,
+  "title": "Ingingo ya 7: Ikurikizwa ry’amabwiriza yo kwandika umushinga"
+ },
+ {
+  "id": "article-7-compliance-with-drafting-instructions-2",
+  "level": 2,
+  "title": "Article 7: Compliance with drafting instructions"
+ },
+ {
+  "id": "article-7-conformité-aux-instructions-de-rédaction-d-un-proj-2",
+  "level": 2,
+  "title": "Article 7 : Conformité aux instructions de rédaction d’un projet"
+ },
+ {
+  "id": "ingingo-ya-8-ibikubiye-mu-mabwiriza-yo-kwandika-umushinga-wa-2",
+  "level": 2,
+  "title": "Ingingo ya 8: Ibikubiye mu mabwiriza yo kwandika umushinga wakorewe ubushakashatsi"
+ },
+ {
+  "id": "article-8-content-of-drafting-instructions-for-a-draft-subje-2",
+  "level": 2,
+  "title": "Article 8: Content of drafting instructions for a draft subjected to research"
+ },
+ {
+  "id": "article-8-contenu-des-instructions-de-rédaction-d-un-projet--2",
+  "level": 2,
+  "title": "Article 8 : Contenu des instructions de rédaction d’un projet soumis à la recherche"
+ },
+ {
+  "id": "ingingo-ya-9-imiterere-y-amabwiriza-yo-kwandika-umushinga-2",
+  "level": 2,
+  "title": "Ingingo ya 9: Imiterere y’amabwiriza yo kwandika umushinga"
+ },
+ {
+  "id": "article-9-format-of-drafting-instructions-2",
+  "level": 2,
+  "title": "Article 9: Format of drafting instructions"
+ },
+ {
+  "id": "article-9-forme-des-instructions-de-rédaction-d-un-projet-2",
+  "level": 2,
+  "title": "Article 9 : Forme des instructions de rédaction d’un projet"
+ },
+ {
+  "id": "umutwe-wa-iii-gusaba-ibitekerezo-2",
+  "level": 2,
+  "title": "UMUTWE WA III: GUSABA IBITEKEREZO"
+ },
+ {
+  "id": "chapter-iii-consultations-chapitre-iii-consultations-2",
+  "level": 2,
+  "title": "CHAPTER III: CONSULTATIONS CHAPITRE III : CONSULTATIONS"
+ },
+ {
+  "id": "ingingo-ya-10-icyerekezo-cyo-gusaba-ibitekerezo-2",
+  "level": 2,
+  "title": "Ingingo ya 10: Icyerekezo cyo gusaba ibitekerezo"
+ },
+ {
+  "id": "article-10-orientation-of-consultations-article-10-orientati-2",
+  "level": 2,
+  "title": "Article 10: Orientation of consultations Article 10 : Orientation des consultations"
+ },
+ {
+  "id": "ingingo-ya-11-ibikubiye-muri-raporo-ku-gusaba-ibitekerezo-2",
+  "level": 2,
+  "title": "Ingingo ya 11: Ibikubiye muri raporo ku gusaba ibitekerezo"
+ },
+ {
+  "id": "article-11-content-of-a-report-on-consultations-2",
+  "level": 2,
+  "title": "Article 11: Content of a report on consultations"
+ },
+ {
+  "id": "article-11-contenu-d-un-rapport-sur-les-consultations-2",
+  "level": 2,
+  "title": "Article 11 : Contenu d’un rapport sur les consultations"
+ },
+ {
+  "id": "ingingo-ya-12-imiterere-ya-raporo-ku-gusaba-ibitekerezo-2",
+  "level": 2,
+  "title": "Ingingo ya 12 : Imiterere ya raporo ku gusaba ibitekerezo"
+ },
+ {
+  "id": "article-12-format-of-a-report-on-consultations-2",
+  "level": 2,
+  "title": "Article 12: Format of a report on consultations"
+ },
+ {
+  "id": "article-12-forme-d-un-rapport-sur-les-consultations-2",
+  "level": 2,
+  "title": "Article 12 : Forme d’un rapport sur les consultations"
+ },
+ {
+  "id": "umutwe-wa-iv-inyandiko-ikubiyemo-igitekerezo-cy-umushinga",
+  "level": 2,
+  "title": "UMUTWE WA IV: INYANDIKO IKUBIYEMO IGITEKEREZO CY’UMUSHINGA"
+ },
+ {
+  "id": "chapter-iv-concept-note-of-a-draft-chapitre-iv-note-conceptu-2",
+  "level": 2,
+  "title": "CHAPTER IV: CONCEPT NOTE OF A DRAFT CHAPITRE IV : NOTE CONCEPTUELLE D’UN PROJET"
+ },
+ {
+  "id": "ingingo-ya-13-icyo-inyandiko-ikubiyemo-igitekerezo-cy-umushi-2",
+  "level": 2,
+  "title": "Ingingo ya 13: Icyo inyandiko ikubiyemo igitekerezo cy’umushinga igamije"
+ },
+ {
+  "id": "article-13-purpose-of-a-concept-note-of-a-draft-2",
+  "level": 2,
+  "title": "Article 13: Purpose of a concept note of a draft"
+ },
+ {
+  "id": "article-13-objet-d-une-note-conceptuelle-du-projet-2",
+  "level": 2,
+  "title": "Article 13 : Objet d’une note conceptuelle du projet"
+ },
+ {
+  "id": "ingingo-ya-14-itegurwa-ry-inyandiko-ikubiyemo-igitekerezo-cy-2",
+  "level": 2,
+  "title": "Ingingo ya 14: Itegurwa ry’inyandiko ikubiyemo igitekerezo cy’umushinga"
+ },
+ {
+  "id": "article-14-preparation-of-a-concept-note-of-a-draft-2",
+  "level": 2,
+  "title": "Article 14: Preparation of a concept note of a draft"
+ },
+ {
+  "id": "article-14-préparation-d-une-note-conceptuelle-du-projet-2",
+  "level": 2,
+  "title": "Article 14 : Préparation d’une note conceptuelle du projet"
+ },
+ {
+  "id": "ingingo-ya-15-ibigize-inyandiko-ikubiyemo-igitekerezo-cy-umu-2",
+  "level": 2,
+  "title": "Ingingo ya 15: Ibigize inyandiko ikubiyemo igitekerezo cy’umushinga"
+ },
+ {
+  "id": "article-15-content-of-a-concept-note-of-a-draft-2",
+  "level": 2,
+  "title": "Article 15: Content of a concept note of a draft"
+ },
+ {
+  "id": "article-15-contenu-d-une-note-conceptuelle-du-projet-2",
+  "level": 2,
+  "title": "Article 15 : Contenu d’une note conceptuelle du projet"
+ },
+ {
+  "id": "ingingo-ya-16-imigereka-y-inyandiko-ikubiyemo-igitekerezo-cy-2",
+  "level": 2,
+  "title": "Ingingo ya 16: Imigereka y’inyandiko ikubiyemo igitekerezo cy’umushinga"
+ },
+ {
+  "id": "article-16-annexes-to-a-concept-note-of-a-draft-2",
+  "level": 2,
+  "title": "Article 16: Annexes to a concept note of a draft"
+ },
+ {
+  "id": "article-16-annexes-d-une-note-conceptuelle-du-projet-2",
+  "level": 2,
+  "title": "Article 16 : Annexes d’une note conceptuelle du projet"
+ },
+ {
+  "id": "ingingo-ya-17-imiterere-y-inyandiko-ikubiyemo-igitekerezo-cy-2",
+  "level": 2,
+  "title": "Ingingo ya 17 : Imiterere y’inyandiko ikubiyemo igitekerezo cy’umushinga"
+ },
+ {
+  "id": "article-17-format-of-a-concept-note-of-a-draft-2",
+  "level": 2,
+  "title": "Article 17: Format of a concept note of a draft"
+ },
+ {
+  "id": "article-17-forme-d-une-note-conceptuelle-du-projet-2",
+  "level": 2,
+  "title": "Article 17 : Forme d’une note conceptuelle du projet"
+ },
+ {
+  "id": "interuro-ya-iii-imyandikire-y-amategeko-title-iii-legislativ-2",
+  "level": 2,
+  "title": "INTERURO YA III: IMYANDIKIRE Y’AMATEGEKO TITLE III: LEGISLATIVE DRAFTING TITRE III : LÉGISTIQUE"
+ },
+ {
+  "id": "umutwe-wa-mbere-amahame-y-ibanze-y-imyandikire-y-amategeko-2",
+  "level": 2,
+  "title": "UMUTWE WA MBERE: AMAHAME Y’IBANZE Y’IMYANDIKIRE Y’AMATEGEKO"
+ },
+ {
+  "id": "chapter-one-basic-principles-of-legislative-drafting-chapitr-2",
+  "level": 2,
+  "title": "CHAPTER ONE: BASIC PRINCIPLES OF LEGISLATIVE DRAFTING CHAPITRE PREMIER : PRINCIPES DE BASE DE LÉGISTIQUE"
+ },
+ {
+  "id": "ingingo-ya-18-kudashyira-ingingo-z-itegeko-mu-rindi-2",
+  "level": 2,
+  "title": "Ingingo ya 18: Kudashyira ingingo z’itegeko mu rindi"
+ },
+ {
+  "id": "article-18-non-duplication-of-legislation-2",
+  "level": 2,
+  "title": "Article 18: Non-duplication of legislation"
+ },
+ {
+  "id": "article-18-non-redoublement-des-textes-normatifs-2",
+  "level": 2,
+  "title": "Article 18 : Non redoublement des textes normatifs"
+ },
+ {
+  "id": "ingingo-ya-19-ukutavuguruzanya-kw-amategeko-2",
+  "level": 2,
+  "title": "Ingingo ya 19: Ukutavuguruzanya kw’amategeko"
+ },
+ {
+  "id": "article-19-non-contradiction-of-legislation-2",
+  "level": 2,
+  "title": "Article 19: Non-contradiction of legislation"
+ },
+ {
+  "id": "article-19-non-contradiction-des-textes-normatifs-2",
+  "level": 2,
+  "title": "Article 19 : Non contradiction des textes normatifs"
+ },
+ {
+  "id": "ingingo-ya-20-inzitizi-ku-burenganzira-n-ubwisanzure-bwa-mun-2",
+  "level": 2,
+  "title": "Ingingo ya 20: Inzitizi ku burenganzira n’ubwisanzure bwa muntu"
+ },
+ {
+  "id": "article-20-restrictions-on-rights-and-freedoms-of-a-person-2",
+  "level": 2,
+  "title": "Article 20: Restrictions on rights and freedoms of a person"
+ },
+ {
+  "id": "article-20-limitations-aux-droits-et-à-la-liberté-de-la-pers-2",
+  "level": 2,
+  "title": "Article 20 : Limitations aux droits et à la liberté de la personne"
+ },
+ {
+  "id": "ingingo-ya-21-igihe-itegeko-rimara-rikurikizwa-2",
+  "level": 2,
+  "title": "Ingingo ya 21: Igihe itegeko rimara rikurikizwa"
+ },
+ {
+  "id": "article-21-term-of-effect-of-legislation-article-21-durée-de-2",
+  "level": 2,
+  "title": "Article 21: Term of effect of legislation Article 21 : Durée de validité d’un texte normatif"
+ },
+ {
+  "id": "ingingo-ya-22-ukudasubira-inyuma-kw-itegeko-2",
+  "level": 2,
+  "title": "Ingingo ya 22: Ukudasubira inyuma kw’itegeko"
+ },
+ {
+  "id": "article-22-non-retroactive-effect-of-legislation-2",
+  "level": 2,
+  "title": "Article 22: Non-retroactive effect of legislation"
+ },
+ {
+  "id": "article-22-effet-non-rétroactif-d-un-texte-normatif-2",
+  "level": 2,
+  "title": "Article 22 : Effet non-rétroactif d’un texte normatif"
+ },
+ {
+  "id": "ingingo-ya-23-ugutinda-gukurikizwa-kw-itegeko-2",
+  "level": 2,
+  "title": "Ingingo ya 23: Ugutinda gukurikizwa kw’itegeko"
+ },
+ {
+  "id": "article-23-post-active-effect-of-legislation-2",
+  "level": 2,
+  "title": "Article 23: Post-active effect of legislation"
+ },
+ {
+  "id": "article-23-effet-post-actif-d-un-texte-normatif-2",
+  "level": 2,
+  "title": "Article 23 : Effet post actif d’un texte normatif"
+ },
+ {
+  "id": "umutwe-wa-ii-interuro-y-itegeko-2",
+  "level": 2,
+  "title": "UMUTWE WA II: INTERURO Y’ITEGEKO"
+ },
+ {
+  "id": "chapter-ii-legislative-sentence-chapitre-ii-phrase-législati-2",
+  "level": 2,
+  "title": "CHAPTER II: LEGISLATIVE SENTENCE CHAPITRE II : PHRASE LÉGISLATIVE"
+ },
+ {
+  "id": "icyiciro-cya-mbere-imyubakire-y-interuro-y-itegeko-2",
+  "level": 2,
+  "title": "Icyiciro cya mbere: Imyubakire y’interuro y’itegeko"
+ },
+ {
+  "id": "section-one-construction-of-a-legislative-sentence-2",
+  "level": 2,
+  "title": "Section One: Construction of a legislative sentence"
+ },
+ {
+  "id": "section-première-construction-d-une-phrase-législative-2",
+  "level": 2,
+  "title": "Section première : Construction d’une phrase législative"
+ },
+ {
+  "id": "ingingo-ya-24-ibigize-interuro-y-itegeko-article-24-elements-2",
+  "level": 2,
+  "title": "Ingingo ya 24: Ibigize interuro y’itegeko Article 24: Elements of a legislative sentence"
+ },
+ {
+  "id": "article-24-éléments-d-une-phrase-législative-2",
+  "level": 2,
+  "title": "Article 24 : Éléments d’une phrase législative"
+ },
+ {
+  "id": "ingingo-ya-25-ukora-igikorwa-article-25-legal-subject-articl-2",
+  "level": 2,
+  "title": "Ingingo ya 25: Ukora igikorwa Article 25: Legal subject Article 25 : Sujet juridique"
+ },
+ {
+  "id": "ingingo-ya-26-igikorwa-article-26-legal-action-article-26-pr-2",
+  "level": 2,
+  "title": "Ingingo ya 26: Igikorwa Article 26: Legal action Article 26 : Prédicat"
+ },
+ {
+  "id": "ingingo-ya-27-ibyerekeranye-n-itegeko-article-27-context-art-2",
+  "level": 2,
+  "title": "Ingingo ya 27: Ibyerekeranye n’itegeko Article 27: Context Article 27 : Contexte"
+ },
+ {
+  "id": "umubare-n-ingiro-mu-nteruro-y-itegeko-2",
+  "level": 2,
+  "title": "umubare, n’ingiro mu nteruro y’itegeko"
+ },
+ {
+  "id": "and-voice-in-a-legislative-sentence-2",
+  "level": 2,
+  "title": "and voice in a legislative sentence"
+ },
+ {
+  "id": "nombre-et-voix-dans-une-phrase-législative-2",
+  "level": 2,
+  "title": "nombre, et voix dans une phrase législative"
+ },
+ {
+  "id": "ingingo-ya-28-ngenga-mu-nteruro-y-itegeko-2",
+  "level": 2,
+  "title": "Ingingo ya 28: Ngenga mu nteruro y’itegeko"
+ },
+ {
+  "id": "article-28-person-in-a-legislative-sentence-2",
+  "level": 2,
+  "title": "Article 28: Person in a legislative sentence"
+ },
+ {
+  "id": "article-28-personne-dans-une-phrase-législative-2",
+  "level": 2,
+  "title": "Article 28 : Personne dans une phrase législative"
+ },
+ {
+  "id": "ingingo-ya-29-igihe-mu-nteruro-y-itegeko",
+  "level": 2,
+  "title": "Ingingo ya 29: Igihe mu nteruro y’itegeko"
+ },
+ {
+  "id": "article-29-tense-in-a-legislative-sentence",
+  "level": 2,
+  "title": "Article 29: Tense in a legislative sentence"
+ },
+ {
+  "id": "article-29-temps-dans-une-phrase-législative",
+  "level": 2,
+  "title": "Article 29 : Temps dans une phrase législative"
+ },
+ {
+  "id": "ingingo-ya-30-uburyo-mu-nteruro-y-itegeko-2",
+  "level": 2,
+  "title": "Ingingo ya 30: Uburyo mu nteruro y’itegeko"
+ },
+ {
+  "id": "article-30-mood-in-a-legislative-sentence-2",
+  "level": 2,
+  "title": "Article 30: Mood in a legislative sentence"
+ },
+ {
+  "id": "article-30-mode-dans-une-phrase-législative-2",
+  "level": 2,
+  "title": "Article 30 : Mode dans une phrase législative"
+ },
+ {
+  "id": "ingingo-ya-31-umubare-mu-nteruro-y-itegeko-2",
+  "level": 2,
+  "title": "Ingingo ya 31: Umubare mu nteruro y’itegeko"
+ },
+ {
+  "id": "article-31-number-in-a-legislative-sentence-2",
+  "level": 2,
+  "title": "Article 31: Number in a legislative sentence"
+ },
+ {
+  "id": "article-31-nombre-dans-une-phrase-législative-2",
+  "level": 2,
+  "title": "Article 31 : Nombre dans une phrase législative"
+ },
+ {
+  "id": "ingingo-ya-32-ingiro-mu-nteruro-y-itegeko-2",
+  "level": 2,
+  "title": "Ingingo ya 32: Ingiro mu nteruro y’itegeko"
+ },
+ {
+  "id": "article-32-voice-in-a-legislative-sentence-article-32-voix-d-2",
+  "level": 2,
+  "title": "Article 32: Voice in a legislative sentence Article 32 : Voix dans une phrase législative"
+ },
+ {
+  "id": "icyiciro-cya-3-utwatuzo-n-inyuguti-nkuru-mu-nteruro-y-itegek-2",
+  "level": 2,
+  "title": "Icyiciro cya 3: Utwatuzo n’inyuguti nkuru mu nteruro y’itegeko"
+ },
+ {
+  "id": "section-3-punctuation-and-capitalisation-in-a-legislative-se-2",
+  "level": 2,
+  "title": "Section 3: Punctuation and capitalisation in a legislative sentence"
+ },
+ {
+  "id": "section-3-ponctuation-et-majuscule-dans-une-phrase-législati-2",
+  "level": 2,
+  "title": "Section 3 : Ponctuation et majuscule dans une phrase législative"
+ },
+ {
+  "id": "ingingo-ya-33-akabago-article-33-full-stop-article-33-point-2",
+  "level": 2,
+  "title": "Ingingo ya 33: Akabago Article 33: Full stop Article 33 : Point"
+ },
+ {
+  "id": "ingingo-ya-34-akabago-n-akitso-article-34-semi-colon-article-2",
+  "level": 2,
+  "title": "Ingingo ya 34: Akabago n’akitso Article 34: Semi-colon Article 34 : Point-virgule"
+ },
+ {
+  "id": "ingingo-ya-35-utubago-tubiri-article-35-colon-article-35-deu-2",
+  "level": 2,
+  "title": "Ingingo ya 35: Utubago tubiri Article 35: Colon Article 35 : Deux points"
+ },
+ {
+  "id": "ingingo-ya-36-akitso-article-36-comma-article-36-virgule-2",
+  "level": 2,
+  "title": "Ingingo ya 36: Akitso Article 36: Comma Article 36 : Virgule"
+ },
+ {
+  "id": "ingingo-ya-37-agakoni-article-37-dash-article-37-tiret-2",
+  "level": 2,
+  "title": "Ingingo ya 37: Agakoni Article 37: Dash Article 37 : Tiret"
+ },
+ {
+  "id": "ingingo-ya-38-akanyerezo-article-38-hyphen-article-38-trait--2",
+  "level": 2,
+  "title": "Ingingo ya 38: Akanyerezo Article 38: Hyphen Article 38 : Trait d’union"
+ },
+ {
+  "id": "ingingo-ya-39-utwuguruzo-n-utwugarizo-2",
+  "level": 2,
+  "title": "Ingingo ya 39: Utwuguruzo n’utwugarizo"
+ },
+ {
+  "id": "article-39-quotation-marks-article-39-guillemets-2",
+  "level": 2,
+  "title": "Article 39: Quotation marks Article 39 : Guillemets"
+ },
+ {
+  "id": "ingingo-ya-40-udusodeko-n-udukubo-article-40-square-and-roun-2",
+  "level": 2,
+  "title": "Ingingo ya 40: Udusodeko n’udukubo Article 40: Square and rounded brackets"
+ },
+ {
+  "id": "article-40-crochets-et-parenthèses-2",
+  "level": 2,
+  "title": "Article 40 : Crochets et parenthèses"
+ },
+ {
+  "id": "ingingo-ya-41-inyuguti-nkuru-mu-nteruro-y-itegeko-2",
+  "level": 2,
+  "title": "Ingingo ya 41: Inyuguti nkuru mu nteruro y’itegeko"
+ },
+ {
+  "id": "article-41-capitalisation-in-a-legislative-sentence-2",
+  "level": 2,
+  "title": "Article 41: Capitalisation in a legislative sentence"
+ },
+ {
+  "id": "article-41-majuscule-dans-une-phrase-législative-2",
+  "level": 2,
+  "title": "Article 41 : Majuscule dans une phrase législative"
+ },
+ {
+  "id": "n-imibare-mu-nteruro-y-itegeko-2",
+  "level": 2,
+  "title": "n’imibare mu nteruro y’itegeko"
+ },
+ {
+  "id": "section-4-expressing-time-dates-and-numbers-in-a-legislative-2",
+  "level": 2,
+  "title": "Section 4: Expressing time, dates, and numbers in a legislative sentence"
+ },
+ {
+  "id": "section-4-expression-du-temps-des-dates-et-des-nombres-dans--2",
+  "level": 2,
+  "title": "Section 4 : Expression du temps, des dates et des nombres dans une phrase législative"
+ },
+ {
+  "id": "ingingo-ya-42-imyandikire-y-amasaha-article-42-time-format-a-2",
+  "level": 2,
+  "title": "Ingingo ya 42: Imyandikire y’amasaha Article 42: Time format Article 42 : Forme de l’heure"
+ },
+ {
+  "id": "ingingo-ya-43-imyandikire-y-amatariki-article-43-date-format",
+  "level": 2,
+  "title": "Ingingo ya 43: Imyandikire y’amatariki Article 43: Date format Article 43 : Forme des dates"
+ },
+ {
+  "id": "ingingo-ya-44-imyandikire-y-imibare-article-44-numbers-forma-2",
+  "level": 2,
+  "title": "Ingingo ya 44: Imyandikire y’imibare Article 44: Numbers format Article 44 : Forme des nombres"
+ },
+ {
+  "id": "rwumvikana-kandi",
+  "level": 2,
+  "title": "RWUMVIKANA KANDI"
+ },
+ {
+  "id": "n-isemuranyandiko-2",
+  "level": 2,
+  "title": "N’ISEMURANYANDIKO"
+ },
+ {
+  "id": "chapter-iii-style-plain-language-and-translation-chapitre-ii-2",
+  "level": 2,
+  "title": "CHAPTER III: STYLE, PLAIN LANGUAGE, AND TRANSLATION CHAPITRE III : STYLE, LANGAGE COURANT, CLAIR ET SIMPLE, ET TRADUCTION"
+ },
+ {
+  "id": "icyiciro-cya-mbere-ikeshamvugo-n-ururimi-rusanzwe-rwumvikana-2",
+  "level": 2,
+  "title": "Icyiciro cya mbere: Ikeshamvugo n’ururimi rusanzwe, rwumvikana kandi rworoshye"
+ },
+ {
+  "id": "section-one-style-and-plain-language-section-première-style--2",
+  "level": 2,
+  "title": "Section One: Style and plain language Section première : Style et langage courant, clair et simple"
+ },
+ {
+  "id": "ingingo-ya-45-imyandikire-idahindagura-amagambo-2",
+  "level": 2,
+  "title": "Ingingo ya 45: Imyandikire idahindagura amagambo"
+ },
+ {
+  "id": "article-45-consistency-in-terminology-article-45-consistance-2",
+  "level": 2,
+  "title": "Article 45: Consistency in terminology Article 45 : Consistance terminologique"
+ },
+ {
+  "id": "ingingo-ya-46-kurasa-ku-ntego-article-46-directness-article--2",
+  "level": 2,
+  "title": "Ingingo ya 46: Kurasa ku ntego Article 46: Directness Article 46 : Être direct"
+ },
+ {
+  "id": "ingingo-ya-47-urukurikirane-rw-ibitekerezo-2",
+  "level": 2,
+  "title": "Ingingo ya 47: Urukurikirane rw’ibitekerezo"
+ },
+ {
+  "id": "article-47-flow-of-ideas-article-47-suite-des-idées-2",
+  "level": 2,
+  "title": "Article 47: Flow of ideas Article 47 : Suite des idées"
+ },
+ {
+  "id": "ingingo-ya-48-ikoreshwa-ry-ururimi-rusanzwe-rwumvikana-kandi-2",
+  "level": 2,
+  "title": "Ingingo ya 48: Ikoreshwa ry’ururimi rusanzwe, rwumvikana kandi rworoshye"
+ },
+ {
+  "id": "clair-et-simple-2",
+  "level": 2,
+  "title": "clair et simple"
+ },
+ {
+  "id": "icyiciro-cya-2-isemuranyandiko-section-2-translation-section-2",
+  "level": 2,
+  "title": "Icyiciro cya 2: Isemuranyandiko Section 2: Translation Section 2 : Traduction"
+ },
+ {
+  "id": "ingingo-ya-49-indimi-zikoreshwa-mu-gutegura-amategeko-2",
+  "level": 2,
+  "title": "Ingingo ya 49: Indimi zikoreshwa mu gutegura amategeko"
+ },
+ {
+  "id": "article-49-languages-used-in-legislative-drafting-2",
+  "level": 2,
+  "title": "Article 49: Languages used in legislative drafting"
+ },
+ {
+  "id": "article-49-langues-employées-dans-la-préparation-des-textes--2",
+  "level": 2,
+  "title": "Article 49 : Langues employées dans la préparation des textes normatifs"
+ },
+ {
+  "id": "ingingo-ya-50-isemuranyandiko-ry-amategeko-2",
+  "level": 2,
+  "title": "Ingingo ya 50: Isemuranyandiko ry’amategeko"
+ },
+ {
+  "id": "article-50-translating-legislation-article-50-traduire-des-t-2",
+  "level": 2,
+  "title": "Article 50: Translating legislation Article 50 : Traduire des textes normatifs"
+ },
+ {
+  "id": "ingingo-ya-51-ikoreshwa-ry-amagambo-y-amatirano-2",
+  "level": 2,
+  "title": "Ingingo ya 51: Ikoreshwa ry’amagambo y’amatirano"
+ },
+ {
+  "id": "article-51-use-of-borrowings-article-51-emploi-des-emprunts-2",
+  "level": 2,
+  "title": "Article 51: Use of borrowings Article 51 : Emploi des emprunts"
+ },
+ {
+  "id": "umutwe-wa-iv-imyandikire-y-ingingo-itanga-ububasha-bwo-gushy-2",
+  "level": 2,
+  "title": "UMUTWE WA IV: IMYANDIKIRE Y’INGINGO ITANGA UBUBASHA BWO GUSHYIRAHO AMATEGEKO Y’INGEREKA N’IY’ITEGEKO RIHINDURA"
+ },
+ {
+  "id": "chapter-iv-drafting-enabling-provision-and-amending-legislat-2",
+  "level": 2,
+  "title": "CHAPTER IV: DRAFTING ENABLING PROVISION AND AMENDING LEGISLATION CHAPITRE IV : RÉDACTION D’UNE DISPOSITION DE DÉLÉGATION ET D’UN TEXTE NORMATIF MODIFICATIF"
+ },
+ {
+  "id": "icyiciro-cya-mbere-imyandikire-y-ingingo-itanga-ububasha-bwo-2",
+  "level": 2,
+  "title": "Icyiciro cya mbere: Imyandikire y’ingingo itanga ububasha bwo gushyiraho amategeko y’ingereka"
+ },
+ {
+  "id": "section-one-drafting-an-enabling-provision-2",
+  "level": 2,
+  "title": "Section One: Drafting an enabling provision"
+ },
+ {
+  "id": "section-première-rédaction-d-une-disposition-de-délégation-2",
+  "level": 2,
+  "title": "Section première : Rédaction d’une disposition de délégation"
+ },
+ {
+  "id": "ingingo-ya-53-amategeko-ashyirwamo-ingingo-itanga-ububasha-b-2",
+  "level": 2,
+  "title": "Ingingo ya 53: Amategeko ashyirwamo ingingo itanga ububasha bwo gushyiraho amategeko y’ingereka"
+ },
+ {
+  "id": "article-53-legislation-that-may-provide-for-an-enabling-prov-2",
+  "level": 2,
+  "title": "Article 53: Legislation that may provide for an enabling provision"
+ },
+ {
+  "id": "article-53-textes-normatifs-pouvant-prévoir-une-disposition--2",
+  "level": 2,
+  "title": "Article 53 : Textes normatifs pouvant prévoir une disposition de délégation"
+ },
+ {
+  "id": "ingingo-ya-54-abayobozi-bashobora-guhabwa-ububasha-bwo-gushy-2",
+  "level": 2,
+  "title": "Ingingo ya 54: Abayobozi bashobora guhabwa ububasha bwo gushyiraho amategeko y’ingereka"
+ },
+ {
+  "id": "article-54-authorities-to-whom-legislative-powers-may-be-del-2",
+  "level": 2,
+  "title": "Article 54: Authorities to whom legislative powers may be delegated"
+ },
+ {
+  "id": "article-54-autorités-auxquelles-le-pouvoir-de-légiférer-peut-2",
+  "level": 2,
+  "title": "Article 54 : Autorités auxquelles le pouvoir de légiférer peut être délégué"
+ },
+ {
+  "id": "ingingo-ya-55-igihe-ububasha-bwo-gushyiraho-amategeko-butang-2",
+  "level": 2,
+  "title": "Ingingo ya 55: Igihe ububasha bwo gushyiraho amategeko butangwa"
+ },
+ {
+  "id": "article-55-circumstance-for-legislative-power-delegation-2",
+  "level": 2,
+  "title": "Article 55: Circumstance for legislative power delegation"
+ },
+ {
+  "id": "article-55-circonstance-de-délégation-du-pouvoir-de-légifére-2",
+  "level": 2,
+  "title": "Article 55 : Circonstance de délégation du pouvoir de légiférer"
+ },
+ {
+  "id": "ingingo-ya-56-ububasha-bwo-gushyiraho-amategeko-budashobora--2",
+  "level": 2,
+  "title": "Ingingo ya 56: Ububasha bwo gushyiraho amategeko budashobora gutangwa"
+ },
+ {
+  "id": "article-56-legislative-power-that-cannot-be-delegated-2",
+  "level": 2,
+  "title": "Article 56: Legislative power that cannot be delegated"
+ },
+ {
+  "id": "article-56-pouvoir-de-légiférer-ne-pouvant-pas-être-délégué-2",
+  "level": 2,
+  "title": "Article 56 : Pouvoir de légiférer ne pouvant pas être délégué"
+ },
+ {
+  "id": "ingingo-ya-57-ibigize-ingingo-itanga-ububasha-2",
+  "level": 2,
+  "title": "Ingingo ya 57: Ibigize ingingo itanga ububasha"
+ },
+ {
+  "id": "article-57-content-of-an-enabling-provision-2",
+  "level": 2,
+  "title": "Article 57: Content of an enabling provision"
+ },
+ {
+  "id": "article-57-contenu-d-une-disposition-de-délégation-2",
+  "level": 2,
+  "title": "Article 57 : Contenu d’une disposition de délégation"
+ },
+ {
+  "id": "icyiciro-cya-2-imyandikire-y-itegeko-rihindura-2",
+  "level": 2,
+  "title": "Icyiciro cya 2: Imyandikire y’itegeko rihindura"
+ },
+ {
+  "id": "section-2-drafting-an-amending-legislation-2",
+  "level": 2,
+  "title": "Section 2: Drafting an amending legislation"
+ },
+ {
+  "id": "section-2-rédaction-d-un-texte-normatif-modificatif-2",
+  "level": 2,
+  "title": "Section 2 : Rédaction d’un texte normatif modificatif"
+ },
+ {
+  "id": "akiciro-ka-mbere-iby-ibanze-mu-ihindurwa-subsection-one-basi-2",
+  "level": 2,
+  "title": "Akiciro ka mbere: Iby’ibanze mu ihindurwa Subsection One: Basics of amendment Sous-section première : Essentiel de la modification"
+ },
+ {
+  "id": "ingingo-ya-58-intego-z-ihindurwa-article-58-purpose-of-amend-2",
+  "level": 2,
+  "title": "Ingingo ya 58: Intego z’ihindurwa Article 58: Purpose of amendment Article 58 : Objectif d’une modification"
+ },
+ {
+  "id": "ingingo-ya-59-ihindurwa-ribujijwe-article-59-prohibited-amen-2",
+  "level": 2,
+  "title": "Ingingo ya 59: Ihindurwa ribujijwe Article 59: Prohibited amendment Article 59 : Modification proscrite"
+ },
+ {
+  "id": "akiciro-ka-2-uburyo-bw-ihindurwa-subsection-2-methods-of-ame-2",
+  "level": 2,
+  "title": "Akiciro ka 2: Uburyo bw’ihindurwa Subsection 2: Methods of amendment Sous-section 2 : Méthodes de modification"
+ },
+ {
+  "id": "ingingo-ya-60-uburyo-bwo-kuvanaho-no-kongera-gushyiraho-2",
+  "level": 2,
+  "title": "Ingingo ya 60: Uburyo bwo kuvanaho no kongera gushyiraho"
+ },
+ {
+  "id": "article-60-repeal-and-re-enactment-method-2",
+  "level": 2,
+  "title": "Article 60: Repeal and re-enactment method"
+ },
+ {
+  "id": "article-60-méthode-d-abrogation-et-de-ré-adoption-2",
+  "level": 2,
+  "title": "Article 60 : Méthode d’abrogation et de ré-adoption"
+ },
+ {
+  "id": "kongeraho-no-gusimbuza-2",
+  "level": 2,
+  "title": "kongeraho no gusimbuza"
+ },
+ {
+  "id": "article-61-repeal-insertion-and-substitution-method-2",
+  "level": 2,
+  "title": "Article 61: Repeal, insertion and substitution method"
+ },
+ {
+  "id": "d-insertion-et-de-substitution-2",
+  "level": 2,
+  "title": "d’insertion et de substitution"
+ },
+ {
+  "id": "akiciro-ka-3-uburyo-bukoreshwa-mu-ihindurwa-subsection-3-tec-2",
+  "level": 2,
+  "title": "Akiciro ka 3: Uburyo bukoreshwa mu ihindurwa Subsection 3: Techniques used in amendment Sous-section 3 : Techniques utilisées dans la modification"
+ },
+ {
+  "id": "ingingo-ya-62-ikeshamvugo-mu-itegeko-rihindura",
+  "level": 2,
+  "title": "Ingingo ya 62: Ikeshamvugo mu itegeko rihindura"
+ },
+ {
+  "id": "article-62-style-in-amending-legislation-article-62-style-da",
+  "level": 2,
+  "title": "Article 62: Style in amending legislation Article 62 : Style dans un texte normatif modificatif"
+ },
+ {
+  "id": "ingingo-ya-63-ibyitabwaho-mu-myandikire-y-itegeko-rihindura-2",
+  "level": 2,
+  "title": "Ingingo ya 63: Ibyitabwaho mu myandikire y’itegeko rihindura"
+ },
+ {
+  "id": "article-63-rules-in-drafting-amending-legislation-2",
+  "level": 2,
+  "title": "Article 63: Rules in drafting amending legislation"
+ },
+ {
+  "id": "article-63-règles-dans-la-rédaction-d-un-texte-normatif-modi-2",
+  "level": 2,
+  "title": "Article 63 : Règles dans la rédaction d’un texte normatif modificatif"
+ },
+ {
+  "id": "ingingo-ya-64-inyito-y-itegeko-rihindura-2",
+  "level": 2,
+  "title": "Ingingo ya 64: Inyito y’itegeko rihindura"
+ },
+ {
+  "id": "article-64-title-of-amending-legislation-article-64-intitulé-2",
+  "level": 2,
+  "title": "Article 64: Title of amending legislation Article 64 : Intitulé d’un texte normatif modificatif"
+ },
+ {
+  "id": "ingingo-ya-65-inyito-y-ingingo-ihindura-article-65-heading-o-2",
+  "level": 2,
+  "title": "Ingingo ya 65: Inyito y’ingingo ihindura Article 65: Heading of an amending article"
+ },
+ {
+  "id": "article-65-intitulé-d-un-article-modificatif-2",
+  "level": 2,
+  "title": "Article 65 : Intitulé d’un article modificatif"
+ },
+ {
+  "id": "ingingo-ya-66-guha-umubare-igice-cy-itegeko-mu-itegeko-rihin-2",
+  "level": 2,
+  "title": "Ingingo ya 66: Guha umubare igice cy’itegeko mu itegeko rihindura"
+ },
+ {
+  "id": "article-66-numbering-a-division-in-amending-legislation-2",
+  "level": 2,
+  "title": "Article 66: Numbering a division in amending legislation"
+ },
+ {
+  "id": "article-66-numérotation-d-une-division-dans-un-texte-normati-2",
+  "level": 2,
+  "title": "Article 66 : Numérotation d’une division dans un texte normatif modificatif"
+ },
+ {
+  "id": "ingingo-ya-67-ihindurwa-ry-umugereka-w-itegeko-2",
+  "level": 2,
+  "title": "Ingingo ya 67: Ihindurwa ry’umugereka w’itegeko"
+ },
+ {
+  "id": "article-67-amending-an-annex-of-a-legislation-2",
+  "level": 2,
+  "title": "Article 67: Amending an annex of a legislation"
+ },
+ {
+  "id": "article-67-modification-d-une-annexe-du-texte-normatif-2",
+  "level": 2,
+  "title": "Article 67 : Modification d’une annexe du texte normatif"
+ },
+ {
+  "id": "ingingo-ya-68-ihindurwa-rishamikiye-ku-rindi-2",
+  "level": 2,
+  "title": "Ingingo ya 68: Ihindurwa rishamikiye ku rindi"
+ },
+ {
+  "id": "article-68-consequential-amendment-article-68-modification-c-2",
+  "level": 2,
+  "title": "Article 68: Consequential amendment Article 68 : Modification corrélative"
+ },
+ {
+  "id": "ingingo-ya-69-ingingo-iranga-mu-itegeko-rihindura-2",
+  "level": 2,
+  "title": "Ingingo ya 69: Ingingo iranga mu itegeko rihindura"
+ },
+ {
+  "id": "article-69-cross-reference-in-amending-legislation-2",
+  "level": 2,
+  "title": "Article 69: Cross-reference in amending legislation"
+ },
+ {
+  "id": "article-69-renvoi-dans-un-texte-normatif-modificatif-2",
+  "level": 2,
+  "title": "Article 69 : Renvoi dans un texte normatif modificatif"
+ },
+ {
+  "id": "n-imitunganyirize-y-amategeko-2",
+  "level": 2,
+  "title": "N’IMITUNGANYIRIZE Y’AMATEGEKO"
+ },
+ {
+  "id": "organisation-and-layout-of-legislation-2",
+  "level": 2,
+  "title": "ORGANISATION, AND LAYOUT OF LEGISLATION"
+ },
+ {
+  "id": "organisation-et-mise-en-page-des-textes-normatifs-2",
+  "level": 2,
+  "title": "ORGANISATION, ET MISE EN PAGE DES TEXTES NORMATIFS"
+ },
+ {
+  "id": "umutwe-wa-mbere-imiterere-y-itegeko-2",
+  "level": 2,
+  "title": "UMUTWE WA MBERE: IMITERERE Y’ITEGEKO"
+ },
+ {
+  "id": "chapter-one-logical-structure-of-legislation-chapitre-one-st-2",
+  "level": 2,
+  "title": "CHAPTER ONE: LOGICAL STRUCTURE OF LEGISLATION CHAPITRE ONE : STRUCTURE LOGIQUE D’UN TEXTE NORMATIF"
+ },
+ {
+  "id": "ingingo-ya-70-imiterere-y-ibice-bigize-itegeko",
+  "level": 2,
+  "title": "Ingingo ya 70: Imiterere y’ibice bigize itegeko"
+ },
+ {
+  "id": "article-70-structure-of-parts-of-a-legislation",
+  "level": 2,
+  "title": "Article 70: Structure of parts of a legislation"
+ },
+ {
+  "id": "article-70-structure-des-parties-d-un-texte-normatif",
+  "level": 2,
+  "title": "Article 70 : Structure des parties d’un texte normatif"
+ },
+ {
+  "id": "icyiciro-cya-mbere-inyito-y-itegeko-section-one-title-sectio-2",
+  "level": 2,
+  "title": "Icyiciro cya mbere: Inyito y’itegeko Section One: Title Section première : Titre"
+ },
+ {
+  "id": "ingingo-ya-71-imiterere-y-ibice-bigize-inyito-y-itegeko-2",
+  "level": 2,
+  "title": "Ingingo ya 71: Imiterere y’ibice bigize inyito y’itegeko"
+ },
+ {
+  "id": "article-71-structure-of-parts-of-the-title-article-71-struct-2",
+  "level": 2,
+  "title": "Article 71: Structure of parts of the title Article 71 : Structure des parties du titre"
+ },
+ {
+  "id": "ingingo-ya-72-ubwoko-bw-itegeko-article-72-type-of-legislati-2",
+  "level": 2,
+  "title": "Ingingo ya 72: Ubwoko bw’itegeko Article 72: Type of legislation Article 72 : Type de texte normatif"
+ },
+ {
+  "id": "ingingo-ya-73-inomero-n-itariki-article-73-number-and-date-a-2",
+  "level": 2,
+  "title": "Ingingo ya 73: Inomero n’itariki Article 73: Number and date Article 73 : Numéro et date"
+ },
+ {
+  "id": "ingingo-ya-74-igiteganywa-article-74-subject-matter-article--2",
+  "level": 2,
+  "title": "Ingingo ya 74: Igiteganywa Article 74: Subject matter Article 74 : Sujet"
+ },
+ {
+  "id": "icyiciro-cya-2-ishakiro-section-2-table-of-contents-section--2",
+  "level": 2,
+  "title": "Icyiciro cya 2: Ishakiro Section 2: Table of contents Section 2 : Table des matières"
+ },
+ {
+  "id": "ingingo-ya-75-imiterere-y-ibice-bigize-ishakiro-2",
+  "level": 2,
+  "title": "Ingingo ya 75: Imiterere y’ibice bigize ishakiro"
+ },
+ {
+  "id": "article-75-structure-of-parts-of-the-table-of-contents-2",
+  "level": 2,
+  "title": "Article 75: Structure of parts of the table of contents"
+ },
+ {
+  "id": "article-75-structure-des-parties-de-la-table-des-matières-2",
+  "level": 2,
+  "title": "Article 75 : Structure des parties de la table des matières"
+ },
+ {
+  "id": "ingingo-ya-76-imyandikire-y-ishakiro-article-76-drafting-of--2",
+  "level": 2,
+  "title": "Ingingo ya 76: Imyandikire y’ishakiro Article 76: Drafting of a table of contents"
+ },
+ {
+  "id": "article-76-rédaction-de-la-table-des-matières-2",
+  "level": 2,
+  "title": "Article 76 : Rédaction de la table des matières"
+ },
+ {
+  "id": "icyiciro-cya-3-inyandiko-ntangazategeko-n-irangashingiro-2",
+  "level": 2,
+  "title": "Icyiciro cya 3: Inyandiko ntangazategeko n’irangashingiro"
+ },
+ {
+  "id": "section-3-enacting-formula-and-preamble-2",
+  "level": 2,
+  "title": "Section 3: Enacting formula and preamble"
+ },
+ {
+  "id": "section-3-formule-d-édiction-et-préambule-2",
+  "level": 2,
+  "title": "Section 3 : Formule d’édiction et préambule"
+ },
+ {
+  "id": "akiciro-ka-mbere-imiterere-y-inyandiko-ntangazategeko-subsec-2",
+  "level": 2,
+  "title": "Akiciro ka mbere: Imiterere y’inyandiko ntangazategeko Subsection One: Structure of the enacting formula Sous-section première : Structure de la formule d’édiction"
+ },
+ {
+  "id": "ingingo-ya-77-inyandiko-ntangazategeko-2",
+  "level": 2,
+  "title": "Ingingo ya 77: Inyandiko ntangazategeko"
+ },
+ {
+  "id": "article-77-enacting-formula-article-77-formule-d-édiction-2",
+  "level": 2,
+  "title": "Article 77: Enacting formula Article 77 : Formule d’édiction"
+ },
+ {
+  "id": "ingingo-ya-78-imiterere-y-inyandiko-ntangazategeko-y-itegeko-2",
+  "level": 2,
+  "title": "Ingingo ya 78: Imiterere y’inyandiko ntangazategeko y’itegeko ngenga"
+ },
+ {
+  "id": "article-78-structure-of-the-enacting-formula-of-an-organic-l-2",
+  "level": 2,
+  "title": "Article 78: Structure of the enacting formula of an organic law"
+ },
+ {
+  "id": "article-78-structure-de-la-formule-d-édiction-d-une-loi-orga-2",
+  "level": 2,
+  "title": "Article 78 : Structure de la formule d’édiction d’une loi organique"
+ },
+ {
+  "id": "yemeje-adopts-adopte",
+  "level": 2,
+  "title": "YEMEJE: ADOPTS: ADOPTE :"
+ },
+ {
+  "id": "ingingo-ya-79-imiterere-y-inyandiko-ntangazategeko-y-itegeko-2",
+  "level": 2,
+  "title": "Ingingo ya 79: Imiterere y’inyandiko ntangazategeko y’itegeko risanzwe"
+ },
+ {
+  "id": "article-79-structure-of-the-enacting-formula-of-an-ordinary--2",
+  "level": 2,
+  "title": "Article 79: Structure of the enacting formula of an ordinary law"
+ },
+ {
+  "id": "article-79-structure-de-la-formule-d-édiction-d-une-loi-ordi-2",
+  "level": 2,
+  "title": "Article 79 : Structure de la formule d’édiction d’une loi ordinaire"
+ },
+ {
+  "id": "yemeje-adopts-adopte-2",
+  "level": 2,
+  "title": "YEMEJE: ADOPTS: ADOPTE :"
+ },
+ {
+  "id": "ingingo-ya-80-imiterere-y-inyandiko-ntangazategeko-y-itegeko-2",
+  "level": 2,
+  "title": "Ingingo ya 80: Imiterere y’inyandiko ntangazategeko y’itegeko-teka"
+ },
+ {
+  "id": "article-80-structure-of-the-enacting-formula-of-a-decree-law-2",
+  "level": 2,
+  "title": "Article 80: Structure of the enacting formula of a decree-law"
+ },
+ {
+  "id": "article-80-structure-de-la-formule-d-édiction-d-un-décret-lo-2",
+  "level": 2,
+  "title": "Article 80 : Structure de la formule d’édiction d’un décret-loi"
+ },
+ {
+  "id": "dushyizeho-itegeko-teka-rikurikira-do-promulgate-the-followi",
+  "level": 2,
+  "title": "DUSHYIZEHO ITEGEKO-TEKA RIKURIKIRA: DO PROMULGATE THE FOLLOWING DECREE-LAW: PROMULGUONS LE DÉCRET-LOI SUIVANT :"
+ },
+ {
+  "id": "ingingo-ya-81-imiterere-y-inyandiko-ntangazategeko-y-iteka-r-2",
+  "level": 2,
+  "title": "Ingingo ya 81: Imiterere y’inyandiko ntangazategeko y’iteka rya Perezida"
+ },
+ {
+  "id": "article-81-structure-of-the-enacting-formula-of-a-presidenti-2",
+  "level": 2,
+  "title": "Article 81: Structure of the enacting formula of a Presidential Order"
+ },
+ {
+  "id": "article-81-structure-de-la-formule-d-édiction-d-un-arrêté-pr-2",
+  "level": 2,
+  "title": "Article 81 : Structure de la formule d’édiction d’un arrêté présidentiel"
+ },
+ {
+  "id": "dutegetse-do-order-arrêtons",
+  "level": 2,
+  "title": "DUTEGETSE: DO ORDER: ARRÊTONS :"
+ },
+ {
+  "id": "ingingo-ya-82-imiterere-y-inyandiko-ntangazategeko-y-iteka-r-2",
+  "level": 2,
+  "title": "Ingingo ya 82: Imiterere y’inyandiko ntangazategeko y’iteka rya Minisitiri w’Intebe"
+ },
+ {
+  "id": "article-82-structure-of-the-enacting-formula-of-a-prime-mini-2",
+  "level": 2,
+  "title": "Article 82: Structure of the enacting formula of a Prime Minister’s Order"
+ },
+ {
+  "id": "article-82-structure-de-la-formule-d-édiction-d-un-arrêté-du-2",
+  "level": 2,
+  "title": "Article 82 : Structure de la formule d’édiction d’un arrêté du Premier Ministre"
+ },
+ {
+  "id": "ategetse-orders-arrête",
+  "level": 2,
+  "title": "ATEGETSE: ORDERS: ARRÊTE :"
+ },
+ {
+  "id": "ingingo-ya-83-imiterere-y-inyandiko-ntangazategeko-y-iteka-r-2",
+  "level": 2,
+  "title": "Ingingo ya 83: Imiterere y’inyandiko ntangazategeko y’iteka rya Minisitiri"
+ },
+ {
+  "id": "article-83-structure-of-the-enacting-formula-of-a-ministeria-2",
+  "level": 2,
+  "title": "Article 83: Structure of the enacting formula of a Ministerial Order"
+ },
+ {
+  "id": "article-83-structure-de-la-formule-d-édiction-d-un-arrêté-mi-2",
+  "level": 2,
+  "title": "Article 83 : Structure de la formule d’édiction d’un arrêté ministériel"
+ },
+ {
+  "id": "ategetse-orders-arrête-2",
+  "level": 2,
+  "title": "ATEGETSE: ORDERS: ARRÊTE :"
+ },
+ {
+  "id": "ingingo-ya-84-imiterere-y-inyandiko-ntangazategeko-y-andi-ma-2",
+  "level": 2,
+  "title": "Ingingo ya 84: Imiterere y’inyandiko ntangazategeko y’andi mategeko y’ingereka"
+ },
+ {
+  "id": "article-84-structure-of-the-enacting-formula-of-other-subsid-2",
+  "level": 2,
+  "title": "Article 84: Structure of the enacting formula of other subsidiary legislation"
+ },
+ {
+  "id": "article-84-structure-de-la-formule-d-édiction-des-autres-lég-2",
+  "level": 2,
+  "title": "Article 84 : Structure de la formule d’édiction des autres législations subsidiaires"
+ },
+ {
+  "id": "akiciro-ka-2-imiterere-y-irangashingiro-subsection-2-structu-2",
+  "level": 2,
+  "title": "Akiciro ka 2: Imiterere y’irangashingiro Subsection 2: Structure of the preamble Sous-section 2 : Structure du préambule"
+ },
+ {
+  "id": "ingingo-ya-85-imiterere-y-ibice-bigize-irangashingiro-2",
+  "level": 2,
+  "title": "Ingingo ya 85: Imiterere y’ibice bigize irangashingiro"
+ },
+ {
+  "id": "article-85-structure-of-parts-of-the-preamble-2",
+  "level": 2,
+  "title": "Article 85: Structure of parts of the preamble"
+ },
+ {
+  "id": "article-85-structure-des-parties-du-préambule-2",
+  "level": 2,
+  "title": "Article 85 : Structure des parties du préambule"
+ },
+ {
+  "id": "ingingo-ya-86-imyandikire-y-igika-kiranga-urwego-rwemeje-ite-2",
+  "level": 2,
+  "title": "Ingingo ya 86: Imyandikire y’igika kiranga urwego rwemeje itegeko"
+ },
+ {
+  "id": "article-86-drafting-of-the-paragraph-indicating-the-adopting-2",
+  "level": 2,
+  "title": "Article 86: Drafting of the paragraph indicating the adopting organ"
+ },
+ {
+  "id": "article-86-rédaction-du-paragraphe-qui-indique-l-organe-adop-2",
+  "level": 2,
+  "title": "Article 86 : Rédaction du paragraphe qui indique l’organe adoptant"
+ },
+ {
+  "id": "ingingo-ya-87-imiterere-y-igika-cyerekeza-ku-itegeko-nshinga-2",
+  "level": 2,
+  "title": "Ingingo ya 87: Imiterere y’igika cyerekeza ku Itegeko Nshinga"
+ },
+ {
+  "id": "article-87-structure-of-the-paragraph-referring-to-the-const-2",
+  "level": 2,
+  "title": "Article 87: Structure of the paragraph referring to the Constitution"
+ },
+ {
+  "id": "article-87-structure-du-paragraphe-se-référant-à-la-constitu-2",
+  "level": 2,
+  "title": "Article 87 : Structure du paragraphe se référant à la Constitution"
+ },
+ {
+  "id": "ingingo-ya-88-imiterere-y-igika-cy-itegeko-rishingiweho",
+  "level": 2,
+  "title": "Ingingo ya 88: Imiterere y’igika cy’itegeko rishingiweho"
+ },
+ {
+  "id": "article-88-structure-of-the-paragraph-of-enabling-legislatio",
+  "level": 2,
+  "title": "Article 88: Structure of the paragraph of enabling legislation"
+ },
+ {
+  "id": "article-88-structure-du-paragraphe-du-texte-normatif-de-délé",
+  "level": 2,
+  "title": "Article 88 : Structure du paragraphe du texte normatif de délégation"
+ },
+ {
+  "id": "ingingo-ya-89-imiterere-y-igika-cy-itegeko-rivanwaho-2",
+  "level": 2,
+  "title": "Ingingo ya 89: Imiterere y’igika cy’itegeko rivanwaho"
+ },
+ {
+  "id": "article-89-structure-of-the-paragraph-of-legislation-being-r-2",
+  "level": 2,
+  "title": "Article 89: Structure of the paragraph of legislation being repealed"
+ },
+ {
+  "id": "article-89-structure-du-paragraphe-du-texte-normatif-sujet-d-2",
+  "level": 2,
+  "title": "Article 89 : Structure du paragraphe du texte normatif sujet d’abrogation"
+ },
+ {
+  "id": "ingingo-ya-90-imiterere-y-igika-cy-itegeko-rihindurwa-2",
+  "level": 2,
+  "title": "Ingingo ya 90: Imiterere y’igika cy’itegeko rihindurwa"
+ },
+ {
+  "id": "article-90-structure-of-the-paragraph-of-legislation-being-a-2",
+  "level": 2,
+  "title": "Article 90: Structure of the paragraph of legislation being amended"
+ },
+ {
+  "id": "article-90-structure-du-paragraphe-du-texte-normatif-sujet-d-2",
+  "level": 2,
+  "title": "Article 90 : Structure du paragraphe du texte normatif sujet de modification"
+ },
+ {
+  "id": "icyiciro-cya-4-igihimba-section-4-body-section-4-corps-2",
+  "level": 2,
+  "title": "Icyiciro cya 4: Igihimba Section 4: Body Section 4 : Corps"
+ },
+ {
+  "id": "ingingo-ya-91-imiterere-y-igihimba-article-91-structure-of-t-2",
+  "level": 2,
+  "title": "Ingingo ya 91: Imiterere y’igihimba Article 91: Structure of the body Article 91 : Structure du corps"
+ },
+ {
+  "id": "akiciro-ka-mbere-imiterere-y-igice-cy-itegeko-cy-ingingo-rus-2",
+  "level": 2,
+  "title": "Akiciro ka mbere: Imiterere y’igice cy’itegeko cy’ingingo rusange Subsection One: Structure of a division of general provisions Sous-section première : Structure d’une division des dispositions générales"
+ },
+ {
+  "id": "ingingo-ya-92-imiterere-y-ingingo-zigize-igice-cy-itegeko-cy-2",
+  "level": 2,
+  "title": "Ingingo ya 92: Imiterere y’ingingo zigize igice cy’itegeko cy’ingingo rusange"
+ },
+ {
+  "id": "article-92-structure-of-provisions-of-a-division-of-general--2",
+  "level": 2,
+  "title": "Article 92: Structure of provisions of a division of general provisions"
+ },
+ {
+  "id": "article-92-structure-des-dispositions-d-une-division-des-dis-2",
+  "level": 2,
+  "title": "Article 92 : Structure des dispositions d’une division des dispositions générales"
+ },
+ {
+  "id": "ingingo-ya-93-imiterere-y-ingingo-y-ikigamijwe-2",
+  "level": 2,
+  "title": "Ingingo ya 93: Imiterere y’ingingo y’ikigamijwe"
+ },
+ {
+  "id": "article-93-structure-of-a-provision-on-purpose-2",
+  "level": 2,
+  "title": "Article 93: Structure of a provision on purpose"
+ },
+ {
+  "id": "article-93-structure-d-une-disposition-sur-l-objet-2",
+  "level": 2,
+  "title": "Article 93 : Structure d’une disposition sur l’objet"
+ },
+ {
+  "id": "ingingo-ya-94-imiterere-y-ingingo-y-isobanura-2",
+  "level": 2,
+  "title": "Ingingo ya 94: Imiterere y’ingingo y’isobanura"
+ },
+ {
+  "id": "article-94-structure-of-a-provision-on-interpretation-2",
+  "level": 2,
+  "title": "Article 94: Structure of a provision on interpretation"
+ },
+ {
+  "id": "article-94-structure-d-une-disposition-sur-l-interprétation-2",
+  "level": 2,
+  "title": "Article 94 : Structure d’une disposition sur l’interprétation"
+ },
+ {
+  "id": "ingingo-ya-95-imiterere-y-ingingo-y-ibirebwa-n-itegeko-2",
+  "level": 2,
+  "title": "Ingingo ya 95: Imiterere y’ingingo y’ibirebwa n’itegeko"
+ },
+ {
+  "id": "article-95-structure-of-a-provision-on-scope-2",
+  "level": 2,
+  "title": "Article 95: Structure of a provision on scope"
+ },
+ {
+  "id": "article-95-structure-d-une-disposition-sur-l-application-2",
+  "level": 2,
+  "title": "Article 95 : Structure d’une disposition sur l’application"
+ },
+ {
+  "id": "ingingo-ya-96-imiterere-y-ingingo-zirebana-n-ireme-ry-itegek-2",
+  "level": 2,
+  "title": "Ingingo ya 96: Imiterere y’ingingo zirebana n’ireme ry’itegeko zishyirwa mu gice cy’itegeko cy’ingingo rusange"
+ },
+ {
+  "id": "article-96-structure-of-substantive-provisions-placed-in-a-d-2",
+  "level": 2,
+  "title": "Article 96: Structure of substantive provisions placed in a division of general provisions"
+ },
+ {
+  "id": "article-96-structure-des-dispositions-de-fond-placées-dans-u-2",
+  "level": 2,
+  "title": "Article 96 : Structure des dispositions de fond placées dans une division des dispositions générales"
+ },
+ {
+  "id": "akiciro-ka-2-imiterere-y-igice-cy-itegeko-cy-ingingo-zireban",
+  "level": 2,
+  "title": "Akiciro ka 2: Imiterere y’igice cy’itegeko cy’ingingo zirebana n’ireme ry’itegeko Subsection 2: Structure of a division of substantive provisions Sous-section 2 : Structure d’une division des dispositions de fond"
+ },
+ {
+  "id": "ingingo-ya-97-imiterere-y-ingingo-zigize-igice-cy-itegeko-cy-2",
+  "level": 2,
+  "title": "Ingingo ya 97: Imiterere y’ingingo zigize igice cy’itegeko cy’ingingo zirebana n’ireme ry’itegeko"
+ },
+ {
+  "id": "article-97-structure-of-provisions-of-a-division-of-substant-2",
+  "level": 2,
+  "title": "Article 97: Structure of provisions of a division of substantive provisions"
+ },
+ {
+  "id": "article-97-structure-des-dispositions-d-une-division-des-dis-2",
+  "level": 2,
+  "title": "Article 97 : Structure des dispositions d’une division des dispositions de fond"
+ },
+ {
+  "id": "ingingo-ya-98-imiterere-y-ingingo-zitegeka-2",
+  "level": 2,
+  "title": "Ingingo ya 98: Imiterere y’ingingo zitegeka"
+ },
+ {
+  "id": "article-98-structure-of-provisions-of-authority-2",
+  "level": 2,
+  "title": "Article 98: Structure of provisions of authority"
+ },
+ {
+  "id": "article-98-structure-des-dispositions-d-autorité-2",
+  "level": 2,
+  "title": "Article 98 : Structure des dispositions d’autorité"
+ },
+ {
+  "id": "ingingo-ya-99-imiterere-y-ingingo-zibuza-2",
+  "level": 2,
+  "title": "Ingingo ya 99: Imiterere y’ingingo zibuza"
+ },
+ {
+  "id": "article-99-structure-of-prohibitive-provisions-2",
+  "level": 2,
+  "title": "Article 99: Structure of prohibitive provisions"
+ },
+ {
+  "id": "article-99-structure-des-dispositions-prohibitives-2",
+  "level": 2,
+  "title": "Article 99 : Structure des dispositions prohibitives"
+ },
+ {
+  "id": "ingingo-ya-100-imiterere-y-ingingo-zihana-2",
+  "level": 2,
+  "title": "Ingingo ya 100: Imiterere y’ingingo zihana"
+ },
+ {
+  "id": "article-100-structure-of-repressive-provisions-2",
+  "level": 2,
+  "title": "Article 100: Structure of repressive provisions"
+ },
+ {
+  "id": "article-100-structure-des-dispositions-répressives-2",
+  "level": 2,
+  "title": "Article 100 : Structure des dispositions répressives"
+ },
+ {
+  "id": "akiciro-ka-3-imiterere-y-igice-cy-itegeko-cy-ingingo-zinyura-2",
+  "level": 2,
+  "title": "Akiciro ka 3: Imiterere y’igice cy’itegeko cy’ingingo zinyuranye Subsection 3: Structure of a division of miscellaneous provisions Sous-section 3 : Structure d’une division des dispositions diverses"
+ },
+ {
+  "id": "ingingo-ya-101-imiterere-y-ingingo-zigize-igice-cy-itegeko-c-2",
+  "level": 2,
+  "title": "Ingingo ya 101: Imiterere y’ingingo zigize igice cy’itegeko cy’ingingo zinyuranye"
+ },
+ {
+  "id": "article-101-structure-of-provisions-of-a-division-of-miscell-2",
+  "level": 2,
+  "title": "Article 101: Structure of provisions of a division of miscellaneous provisions"
+ },
+ {
+  "id": "article-101-structure-des-dispositions-d-une-division-des-di-2",
+  "level": 2,
+  "title": "Article 101 : Structure des dispositions d’une division des dispositions diverses"
+ },
+ {
+  "id": "ingingo-ya-102-imiterere-y-ingingo-zirebana-n-ireme-ry-itege-2",
+  "level": 2,
+  "title": "Ingingo ya 102: Imiterere y’ingingo zirebana n’ireme ry’itegeko zishyirwa mu gice cy’itegeko cy’ingingo zinyuranye"
+ },
+ {
+  "id": "article-102-structure-of-substantive-provisions-placed-in-a--2",
+  "level": 2,
+  "title": "Article 102: Structure of substantive provisions placed in a division of miscellaneous provisions"
+ },
+ {
+  "id": "article-102-structure-des-dispositions-de-fond-placées-dans--2",
+  "level": 2,
+  "title": "Article 102 : Structure des dispositions de fond placées dans une division des dispositions diverses"
+ },
+ {
+  "id": "akiciro-ka-4-imiterere-y-igice-cy-itegeko-cy-ingingo-zisoza--2",
+  "level": 2,
+  "title": "Akiciro ka 4: Imiterere y’igice cy’itegeko cy’ingingo zisoza Subsection 4: Structure of a division of final provisions Sous-section 4 : Structure d’une division des dispositions finales"
+ },
+ {
+  "id": "ingingo-ya-103-imiterere-y-ingingo-zigize-igice-cy-itegeko-c-2",
+  "level": 2,
+  "title": "Ingingo ya 103: Imiterere y’ingingo zigize igice cy’itegeko cy’ingingo zisoza"
+ },
+ {
+  "id": "article-103-structure-of-provisions-of-a-division-of-final-p-2",
+  "level": 2,
+  "title": "Article 103: Structure of provisions of a division of final provisions"
+ },
+ {
+  "id": "article-103-structure-des-dispositions-d-une-division-des-di-2",
+  "level": 2,
+  "title": "Article 103 : Structure des dispositions d’une division des dispositions finales"
+ },
+ {
+  "id": "ingingo-ya-104-imiterere-y-ingingo-igaragaza-abayobozi-bashi-2",
+  "level": 2,
+  "title": "Ingingo ya 104: Imiterere y’ingingo igaragaza abayobozi bashinzwe gushyira mu bikorwa"
+ },
+ {
+  "id": "article-104-structure-of-a-provision-on-authorities-responsi-2",
+  "level": 2,
+  "title": "Article 104: Structure of a provision on authorities responsible for implementation"
+ },
+ {
+  "id": "article-104-structure-d-une-disposition-sur-les-autorités-ch-2",
+  "level": 2,
+  "title": "Article 104 : Structure d’une disposition sur les autorités chargées de l’exécution"
+ },
+ {
+  "id": "ingingo-ya-105-imiterere-y-ingingo-y-ururimi-2",
+  "level": 2,
+  "title": "Ingingo ya 105: Imiterere y’ingingo y’ururimi"
+ },
+ {
+  "id": "article-105-structure-of-a-language-provision-2",
+  "level": 2,
+  "title": "Article 105: Structure of a language provision"
+ },
+ {
+  "id": "article-105-structure-d-une-disposition-linguistique-2",
+  "level": 2,
+  "title": "Article 105 : Structure d’une disposition linguistique"
+ },
+ {
+  "id": "ingingo-ya-106-imiterere-y-ingingo-ivanaho-2",
+  "level": 2,
+  "title": "Ingingo ya 106: Imiterere y’ingingo ivanaho"
+ },
+ {
+  "id": "article-106-structure-of-a-repealing-provision-2",
+  "level": 2,
+  "title": "Article 106: Structure of a repealing provision"
+ },
+ {
+  "id": "article-106-structure-d-une-disposition-abrogatoire-2",
+  "level": 2,
+  "title": "Article 106 : Structure d’une disposition abrogatoire"
+ },
+ {
+  "id": "ingingo-ya-107-imiterere-y-ingingo-y-inzibacyuho-2",
+  "level": 2,
+  "title": "Ingingo ya 107: Imiterere y’ingingo y’inzibacyuho"
+ },
+ {
+  "id": "article-107-structure-of-a-transitional-provision-2",
+  "level": 2,
+  "title": "Article 107: Structure of a transitional provision"
+ },
+ {
+  "id": "article-107-structure-d-une-disposition-transitoire-2",
+  "level": 2,
+  "title": "Article 107 : Structure d’une disposition transitoire"
+ },
+ {
+  "id": "ingingo-ya-108-imiterere-y-ingingo-zizigama",
+  "level": 2,
+  "title": "Ingingo ya 108: Imiterere y’ingingo zizigama"
+ },
+ {
+  "id": "article-108-structure-of-a-saving-provision-2",
+  "level": 2,
+  "title": "Article 108: Structure of a saving provision"
+ },
+ {
+  "id": "article-108-structure-d-une-disposition-de-sauvegarde-2",
+  "level": 2,
+  "title": "Article 108 : Structure d’une disposition de sauvegarde"
+ },
+ {
+  "id": "ingingo-ya-109-imiterere-y-ingingo-yo-kureka-kugira-agaciro-2",
+  "level": 2,
+  "title": "Ingingo ya 109: Imiterere y’ingingo yo kureka kugira agaciro"
+ },
+ {
+  "id": "article-109-structure-of-a-sunset-provision-2",
+  "level": 2,
+  "title": "Article 109: Structure of a sunset provision"
+ },
+ {
+  "id": "article-109-structure-d-une-disposition-de-cessation-dans-le-2",
+  "level": 2,
+  "title": "Article 109 : Structure d’une disposition de cessation dans le temps"
+ },
+ {
+  "id": "ingingo-ya-110-imiterere-y-ingingo-y-itangira-gukurikizwa-2",
+  "level": 2,
+  "title": "Ingingo ya 110: Imiterere y’ingingo y’itangira gukurikizwa"
+ },
+ {
+  "id": "article-110-structure-of-a-provision-on-entry-into-force-2",
+  "level": 2,
+  "title": "Article 110: Structure of a provision on entry into force"
+ },
+ {
+  "id": "article-110-structure-d-une-disposition-sur-l-entrée-en-vigu-2",
+  "level": 2,
+  "title": "Article 110 : Structure d’une disposition sur l’entrée en vigueur"
+ },
+ {
+  "id": "icyiciro-cya-5-imikono-section-5-signatures-section-5-signat-2",
+  "level": 2,
+  "title": "Icyiciro cya 5: Imikono Section 5: Signatures Section 5 : Signatures"
+ },
+ {
+  "id": "ingingo-ya-111-imiterere-y-ibice-bigize-imikono-2",
+  "level": 2,
+  "title": "Ingingo ya 111: Imiterere y’ibice bigize imikono"
+ },
+ {
+  "id": "article-111-structure-of-parts-of-the-signatures-2",
+  "level": 2,
+  "title": "Article 111: Structure of parts of the signatures"
+ },
+ {
+  "id": "article-111-structure-des-parties-des-signatures-2",
+  "level": 2,
+  "title": "Article 111 : Structure des parties des signatures"
+ },
+ {
+  "id": "ingingo-ya-112-imiterere-y-ahantu-n-itariki-2",
+  "level": 2,
+  "title": "Ingingo ya 112: Imiterere y’ahantu n’itariki"
+ },
+ {
+  "id": "article-112-structure-of-place-and-date-article-112-structur-2",
+  "level": 2,
+  "title": "Article 112: Structure of place and date Article 112 : Structure du lieu et de la date"
+ },
+ {
+  "id": "ingingo-ya-113-imiterere-y-umukono-article-113-structure-of--2",
+  "level": 2,
+  "title": "Ingingo ya 113: Imiterere y’umukono Article 113: Structure of signature Article 113 : Structure de la signature"
+ },
+ {
+  "id": "ingingo-ya-114-imiterere-y-imikono-y-ingereka-2",
+  "level": 2,
+  "title": "Ingingo ya 114: Imiterere y’imikono y’ingereka"
+ },
+ {
+  "id": "article-114-structure-of-countersignatures-2",
+  "level": 2,
+  "title": "Article 114: Structure of countersignatures"
+ },
+ {
+  "id": "article-114-structure-des-contresignatures-2",
+  "level": 2,
+  "title": "Article 114 : Structure des contresignatures"
+ },
+ {
+  "id": "ingingo-ya-115-ikirango-cya-repubulika-2",
+  "level": 2,
+  "title": "Ingingo ya 115: Ikirango cya Repubulika"
+ },
+ {
+  "id": "article-115-the-seal-of-the-republic-article-115-le-sceau-de-2",
+  "level": 2,
+  "title": "Article 115: The Seal of the Republic Article 115 : Le Sceau de la République"
+ },
+ {
+  "id": "icyiciro-cya-6-imigereka-section-6-annexes-section-6-annexes-2",
+  "level": 2,
+  "title": "Icyiciro cya 6: Imigereka Section 6: Annexes Section 6 : Annexes"
+ },
+ {
+  "id": "ingingo-ya-116-imiterere-y-umugereka-article-116-structure-o-2",
+  "level": 2,
+  "title": "Ingingo ya 116: Imiterere y’umugereka Article 116: Structure of an annex Article 116 : Structure d’une annexe"
+ },
+ {
+  "id": "ingingo-ya-117-imiterere-y-ibice-bigize-umugereka-2",
+  "level": 2,
+  "title": "Ingingo ya 117: Imiterere y’ibice bigize umugereka"
+ },
+ {
+  "id": "article-117-structure-of-parts-of-the-annex-2",
+  "level": 2,
+  "title": "Article 117: Structure of parts of the annex"
+ },
+ {
+  "id": "article-117-structure-des-parties-d-une-annexe-2",
+  "level": 2,
+  "title": "Article 117 : Structure des parties d’une annexe"
+ },
+ {
+  "id": "ingingo-ya-118-inyito-y-umugereka-article-118-heading-of-an--2",
+  "level": 2,
+  "title": "Ingingo ya 118: Inyito y’umugereka Article 118: Heading of an annex Article 118 : Intitulé d’une annexe"
+ },
+ {
+  "id": "ingingo-ya-119-imiterere-y-igihimba-cy-umugereka-2",
+  "level": 2,
+  "title": "Ingingo ya 119: Imiterere y’igihimba cy’umugereka"
+ },
+ {
+  "id": "article-119-structure-of-the-body-of-an-annex-2",
+  "level": 2,
+  "title": "Article 119: Structure of the body of an annex"
+ },
+ {
+  "id": "article-119-structure-du-corps-d-une-annexe-2",
+  "level": 2,
+  "title": "Article 119 : Structure du corps d’une annexe"
+ },
+ {
+  "id": "ingingo-ya-120-imiterere-y-umusozo-w-umugereka-2",
+  "level": 2,
+  "title": "Ingingo ya 120: Imiterere y’umusozo w’umugereka"
+ },
+ {
+  "id": "article-120-structure-of-the-ending-formula-of-an-annex-2",
+  "level": 2,
+  "title": "Article 120: Structure of the ending formula of an annex"
+ },
+ {
+  "id": "article-120-structure-de-la-formule-finale-d-une-annexe-2",
+  "level": 2,
+  "title": "Article 120 : Structure de la formule finale d’une annexe"
+ },
+ {
+  "id": "ingingo-ya-121-imiterere-y-imikono-y-umugereka-2",
+  "level": 2,
+  "title": "Ingingo ya 121: Imiterere y’imikono y’umugereka"
+ },
+ {
+  "id": "article-121-structure-of-signatures-of-an-annex-2",
+  "level": 2,
+  "title": "Article 121: Structure of signatures of an annex"
+ },
+ {
+  "id": "article-121-structure-des-signatures-d-une-annexe-2",
+  "level": 2,
+  "title": "Article 121 : Structure des signatures d’une annexe"
+ },
+ {
+  "id": "umutwe-wa-ii-imitondekere-y-itegeko-n-imitunganyirize-y-umwa-2",
+  "level": 2,
+  "title": "UMUTWE WA II: IMITONDEKERE Y’ITEGEKO N’IMITUNGANYIRIZE Y’UMWANDIKO W’ITEGEKO"
+ },
+ {
+  "id": "chapter-ii-organisation-of-a-legislation-and-layout-of-a-tex-2",
+  "level": 2,
+  "title": "CHAPTER II: ORGANISATION OF A LEGISLATION AND LAYOUT OF A TEXT OF A LEGISLATION CHAPITRE II : ORGANISATION D’UN TEXTE NORMATIF ET MISE EN PAGE D’UN TEXTE DU TEXTE NORMATIF"
+ },
+ {
+  "id": "ingingo-ya-122-igisobanuro-cyo-gutondeka-itegeko-2",
+  "level": 2,
+  "title": "Ingingo ya 122: Igisobanuro cyo gutondeka itegeko"
+ },
+ {
+  "id": "article-122-definition-of-organising-a-legislation-2",
+  "level": 2,
+  "title": "Article 122: Definition of organising a legislation"
+ },
+ {
+  "id": "article-122-définition-de-l-organisation-d-un-texte-normatif-2",
+  "level": 2,
+  "title": "Article 122 : Définition de l’organisation d’un texte normatif"
+ },
+ {
+  "id": "icyiciro-cya-mbere-ibice-by-itegeko-section-one-divisions-se-2",
+  "level": 2,
+  "title": "Icyiciro cya mbere: Ibice by’itegeko Section One: Divisions Section première : Divisions"
+ },
+ {
+  "id": "ingingo-ya-123-ibyiciro-by-bice-by-itegeko-2",
+  "level": 2,
+  "title": "Ingingo ya 123: Ibyiciro by’bice by’itegeko"
+ },
+ {
+  "id": "article-123-categories-of-divisions-article-123-catégorie-de-2",
+  "level": 2,
+  "title": "Article 123: Categories of divisions Article 123 : Catégorie des divisions"
+ },
+ {
+  "id": "akiciro-ka-mbere-ibice-by-itegeko-bito-subsection-one-lower--2",
+  "level": 2,
+  "title": "Akiciro ka mbere: Ibice by’itegeko bito Subsection One: Lower divisions Sous-section première : Divisions inférieures"
+ },
+ {
+  "id": "ingingo-ya-124-ubwoko-bw-ibice-by-itegeko-bito-2",
+  "level": 2,
+  "title": "Ingingo ya 124: Ubwoko bw’ibice by’itegeko bito"
+ },
+ {
+  "id": "article-124-types-of-lower-divisions-article-124-types-des-d-2",
+  "level": 2,
+  "title": "Article 124: Types of lower divisions Article 124 : Types des divisions inférieures"
+ },
+ {
+  "id": "ingingo-ya-125-ikoreshwa-ry-ibice-by-itegeko-bito-2",
+  "level": 2,
+  "title": "Ingingo ya 125: Ikoreshwa ry’ibice by’itegeko bito"
+ },
+ {
+  "id": "article-125-use-of-lower-divisions-article-125-emploi-des-di-2",
+  "level": 2,
+  "title": "Article 125: Use of lower divisions Article 125 : Emploi des divisions inférieures"
+ },
+ {
+  "id": "akiciro-ka-2-ibice-by-itegeko-bikuru-subsection-2-higher-div-2",
+  "level": 2,
+  "title": "Akiciro ka 2: Ibice by’itegeko bikuru Subsection 2: Higher divisions Sous-section 2 : Divisions supérieures"
+ },
+ {
+  "id": "ingingo-ya-126-ubwoko-bw-ibice-by-itegeko-bikuru-2",
+  "level": 2,
+  "title": "Ingingo ya 126: Ubwoko bw’ibice by’itegeko bikuru"
+ },
+ {
+  "id": "article-126-types-of-higher-divisions-article-126-types-des--2",
+  "level": 2,
+  "title": "Article 126: Types of higher divisions Article 126 : Types des divisions supérieures"
+ },
+ {
+  "id": "ingingo-ya-127-ikoreshwa-ry-ibice-by-itegeko-bikuru-2",
+  "level": 2,
+  "title": "Ingingo ya 127: Ikoreshwa ry’ibice by’itegeko bikuru"
+ },
+ {
+  "id": "article-127-use-of-higher-divisions-article-127-emploi-des-d-2",
+  "level": 2,
+  "title": "Article 127: Use of higher divisions Article 127 : Emploi des divisions supérieures"
+ },
+ {
+  "id": "akiciro-ka-3-uturango-n-inyito-by-ibice-by-itegeko-subsectio-2",
+  "level": 2,
+  "title": "Akiciro ka 3: Uturango n’inyito by’ibice by’itegeko Subsection 3: Designations and headings of divisions Sous-section 3 : Désignations et intitulés des divisions"
+ },
+ {
+  "id": "ingingo-ya-128-uturango-tw-ibice-by-itegeko-bito-2",
+  "level": 2,
+  "title": "Ingingo ya 128: Uturango tw’ibice by’itegeko bito"
+ },
+ {
+  "id": "article-128-designations-of-lower-divisions-2",
+  "level": 2,
+  "title": "Article 128: Designations of lower divisions"
+ },
+ {
+  "id": "article-128-désignation-des-divisions-inférieures-2",
+  "level": 2,
+  "title": "Article 128 : Désignation des divisions inférieures"
+ },
+ {
+  "id": "ingingo-ya-129-uturango-tw-ibice-by-itegeko-bikuru-2",
+  "level": 2,
+  "title": "Ingingo ya 129: Uturango tw’ibice by’itegeko bikuru"
+ },
+ {
+  "id": "article-129-designations-of-higher-divisions-2",
+  "level": 2,
+  "title": "Article 129: Designations of higher divisions"
+ },
+ {
+  "id": "article-129-désignation-des-divisions-supérieures-2",
+  "level": 2,
+  "title": "Article 129 : Désignation des divisions supérieures"
+ },
+ {
+  "id": "ingingo-ya-130-inyito-z-ibice-by-itegeko-article-130-heading",
+  "level": 2,
+  "title": "Ingingo ya 130: Inyito z’ibice by’itegeko Article 130: Headings of divisions Article 130 : Intitulés des divisions"
+ },
+ {
+  "id": "ingingo-ya-131-imimerere-y-inyito-z-ibice-by-itegeko-bikuru-2",
+  "level": 2,
+  "title": "Ingingo ya 131: Imimerere y’inyito z’ibice by’itegeko bikuru"
+ },
+ {
+  "id": "article-131-form-of-headings-of-higher-divisions-2",
+  "level": 2,
+  "title": "Article 131: Form of headings of higher divisions"
+ },
+ {
+  "id": "article-131-forme-des-intitulés-des-divisions-supérieures-2",
+  "level": 2,
+  "title": "Article 131 : Forme des intitulés des divisions supérieures"
+ },
+ {
+  "id": "ingingo-ya-132-imyandikire-y-inyito-2",
+  "level": 2,
+  "title": "Ingingo ya 132: Imyandikire y’inyito"
+ },
+ {
+  "id": "n-iy-umutwe-2",
+  "level": 2,
+  "title": "n’iy’umutwe"
+ },
+ {
+  "id": "article-132-drafting-of-a-heading-of-a-book-part-title-and-c-2",
+  "level": 2,
+  "title": "Article 132: Drafting of a heading of a book, part, title, and chapter"
+ },
+ {
+  "id": "article-132-rédaction-de-l-intitulé-d-un-livre-d-une-partie--2",
+  "level": 2,
+  "title": "Article 132 : Rédaction de l’intitulé d’un livre, d’une partie, d’un titre, et d’un chapitre"
+ },
+ {
+  "id": "y-ingingo-iy-icyiciro-n-iy-akiciro-2",
+  "level": 2,
+  "title": "y’ingingo, iy’icyiciro, n’iy’akiciro"
+ },
+ {
+  "id": "article-133-drafting-of-a-heading-of-an-2",
+  "level": 2,
+  "title": "Article 133: Drafting of a heading of an"
+ },
+ {
+  "id": "article-section-and-subsection-2",
+  "level": 2,
+  "title": "article section, and subsection"
+ },
+ {
+  "id": "article-133-rédaction-de-l-intitulé-d-un-article-d-une-secti-2",
+  "level": 2,
+  "title": "Article 133 : Rédaction de l’intitulé d’un article, d’une section, et d’une sous- section"
+ },
+ {
+  "id": "icyiciro-cya-2-gutondeka-itegeko-section-2-organising-a-legi-2",
+  "level": 2,
+  "title": "Icyiciro cya 2: Gutondeka itegeko Section 2: Organising a legislation Section 2 : Organiser un texte normatif"
+ },
+ {
+  "id": "ingingo-ya-134-kugabanya-igihimba-cy-itegeko-mu-ngingo-2",
+  "level": 2,
+  "title": "Ingingo ya 134: Kugabanya igihimba cy’itegeko mu ngingo"
+ },
+ {
+  "id": "article-134-dividing-the-body-of-a-legislation-into-articles-2",
+  "level": 2,
+  "title": "Article 134: Dividing the body of a legislation into articles"
+ },
+ {
+  "id": "article-134-division-du-corps-d-un-texte-normatif-en-article-2",
+  "level": 2,
+  "title": "Article 134 : Division du corps d’un texte normatif en articles"
+ },
+ {
+  "id": "ingingo-ya-135-kubumbira-ingingo-z-itegeko-mu-mitwe-2",
+  "level": 2,
+  "title": "Ingingo ya 135: Kubumbira ingingo z’itegeko mu mitwe"
+ },
+ {
+  "id": "article-135-grouping-articles-of-a-legislation-into-chapters-2",
+  "level": 2,
+  "title": "Article 135: Grouping articles of a legislation into chapters"
+ },
+ {
+  "id": "article-135-regroupement-des-articles-d-un-texte-normatif-en-2",
+  "level": 2,
+  "title": "Article 135 : Regroupement des articles d’un texte normatif en chapitres"
+ },
+ {
+  "id": "ingingo-ya-136-kubumbira-ingingo-zigize-umutwe-mu-byiciro-2",
+  "level": 2,
+  "title": "Ingingo ya 136: Kubumbira ingingo zigize umutwe mu byiciro"
+ },
+ {
+  "id": "article-136-grouping-articles-of-a-2",
+  "level": 2,
+  "title": "Article 136: Grouping articles of a"
+ },
+ {
+  "id": "chapter-into-sections-2",
+  "level": 2,
+  "title": "chapter into sections"
+ },
+ {
+  "id": "article-136-regroupement-des-articles-d-un-chapitre-en-secti-2",
+  "level": 2,
+  "title": "Article 136 : Regroupement des articles d’un chapitre en sections"
+ },
+ {
+  "id": "ingingo-ya-137-kubumbira-ingingo-zigize-icyiciro-mu-twiciro-2",
+  "level": 2,
+  "title": "Ingingo ya 137: Kubumbira ingingo zigize icyiciro mu twiciro"
+ },
+ {
+  "id": "article-137-grouping-articles-of-a-2",
+  "level": 2,
+  "title": "Article 137: Grouping articles of a"
+ },
+ {
+  "id": "section-into-subsections-2",
+  "level": 2,
+  "title": "section into subsections"
+ },
+ {
+  "id": "article-137-regroupement-des-articles-d-une-section-en-sous--2",
+  "level": 2,
+  "title": "Article 137 : Regroupement des articles d’une section en sous-sections"
+ },
+ {
+  "id": "ingingo-ya-138-kubumbira-imitwe-mu-nteruro-2",
+  "level": 2,
+  "title": "Ingingo ya 138: Kubumbira imitwe mu nteruro"
+ },
+ {
+  "id": "article-138-grouping-chapters-into-titles-2",
+  "level": 2,
+  "title": "Article 138: Grouping chapters into titles"
+ },
+ {
+  "id": "article-138-regroupement-des-chapitres-en-titres-2",
+  "level": 2,
+  "title": "Article 138 : Regroupement des chapitres en titres"
+ },
+ {
+  "id": "ingingo-ya-139-kubumbira-interuro-mu-bice-2",
+  "level": 2,
+  "title": "Ingingo ya 139: Kubumbira interuro mu bice"
+ },
+ {
+  "id": "article-139-grouping-titles-into-parts-article-139-regroupem-2",
+  "level": 2,
+  "title": "Article 139: Grouping titles into parts Article 139 : Regroupement des titres en parties"
+ },
+ {
+  "id": "ingingo-ya-140-kubumbira-ibice-mu-bitabo-2",
+  "level": 2,
+  "title": "Ingingo ya 140: Kubumbira ibice mu bitabo"
+ },
+ {
+  "id": "article-140-grouping-parts-into-books-article-140-regroupeme-2",
+  "level": 2,
+  "title": "Article 140: Grouping parts into books Article 140 : Regroupement des parties en livres"
+ },
+ {
+  "id": "ingingo-ya-141-kugabanya-ingingo-mu-bika-2",
+  "level": 2,
+  "title": "Ingingo ya 141: Kugabanya ingingo mu bika"
+ },
+ {
+  "id": "article-141-dividing-an-article-into-paragraphs-2",
+  "level": 2,
+  "title": "Article 141: Dividing an article into paragraphs"
+ },
+ {
+  "id": "article-141-division-d-un-article-en-paragraphes-2",
+  "level": 2,
+  "title": "Article 141 : Division d’un article en paragraphes"
+ },
+ {
+  "id": "ingingo-ya-142-kugabanya-ingingo-mu-duka-2",
+  "level": 2,
+  "title": "Ingingo ya 142: Kugabanya ingingo mu duka"
+ },
+ {
+  "id": "article-142-dividing-an-article-into-subparagraphs-2",
+  "level": 2,
+  "title": "Article 142: Dividing an article into subparagraphs"
+ },
+ {
+  "id": "article-142-division-d-un-article-en-alinéas-2",
+  "level": 2,
+  "title": "Article 142 : Division d’un article en alinéas"
+ },
+ {
+  "id": "ingingo-ya-143-kugabanya-igika-mu-duka-2",
+  "level": 2,
+  "title": "Ingingo ya 143: Kugabanya igika mu duka"
+ },
+ {
+  "id": "article-143-dividing-a-paragraph-into-subparagraphs-2",
+  "level": 2,
+  "title": "Article 143: Dividing a paragraph into subparagraphs"
+ },
+ {
+  "id": "article-143-division-d-un-paragraphe-en-alinéas-2",
+  "level": 2,
+  "title": "Article 143 : Division d’un paragraphe en alinéas"
+ },
+ {
+  "id": "ingingo-ya-144-kugabanya-agaka-mu-duce-tw-agaka-2",
+  "level": 2,
+  "title": "Ingingo ya 144: Kugabanya agaka mu duce tw’agaka"
+ },
+ {
+  "id": "article-144-dividing-a-subparagraph-into-sub-subparagraphs-2",
+  "level": 2,
+  "title": "Article 144: Dividing a subparagraph into sub-subparagraphs"
+ },
+ {
+  "id": "article-144-division-d-un-alinéa-en-sous-alinéas-2",
+  "level": 2,
+  "title": "Article 144 : Division d’un alinéa en sous-alinéas"
+ },
+ {
+  "id": "ingingo-ya-145-kugabanya-agace-k-agaka-mu-nyangingo-2",
+  "level": 2,
+  "title": "Ingingo ya 145: Kugabanya agace k’agaka mu nyangingo"
+ },
+ {
+  "id": "article-145-dividing-a-sub-subparagraph-into-clauses-2",
+  "level": 2,
+  "title": "Article 145: Dividing a sub- subparagraph into clauses"
+ },
+ {
+  "id": "article-145-division-d-un-sous-alinéa-en-clauses-2",
+  "level": 2,
+  "title": "Article 145 : Division d’un sous-alinéa en clauses"
+ },
+ {
+  "id": "ingingo-ya-146-kugabanya-inyangingo-mu-duce-tw-inyangingo-2",
+  "level": 2,
+  "title": "Ingingo ya 146: Kugabanya inyangingo mu duce tw’inyangingo"
+ },
+ {
+  "id": "article-146-dividing-a-clause-into-subclauses-2",
+  "level": 2,
+  "title": "Article 146: Dividing a clause into subclauses"
+ },
+ {
+  "id": "article-146-division-d-une-clause-en-sous-clauses-2",
+  "level": 2,
+  "title": "Article 146 : Division d’une clause en sous-clauses"
+ },
+ {
+  "id": "icyiciro-cya-3-imyubakire-y-ibice-by-itegeko-2",
+  "level": 2,
+  "title": "Icyiciro cya 3: Imyubakire y’ibice by’itegeko"
+ },
+ {
+  "id": "section-3-format-of-divisions-section-3-construction-des-div-2",
+  "level": 2,
+  "title": "Section 3: Format of divisions Section 3 : Construction des divisions"
+ },
+ {
+  "id": "ingingo-ya-147-urukurikirane-nyurabwenge-rw-igice-cy-itegeko-2",
+  "level": 2,
+  "title": "Ingingo ya 147: Urukurikirane nyurabwenge rw’igice cy’itegeko"
+ },
+ {
+  "id": "article-147-logical-sequence-of-a-division-2",
+  "level": 2,
+  "title": "Article 147: Logical sequence of a division"
+ },
+ {
+  "id": "article-147-séquence-logique-d-une-division-2",
+  "level": 2,
+  "title": "Article 147 : Séquence logique d’une division"
+ },
+ {
+  "id": "ingingo-ya-148-interuro-zigize-ingingo-article-148-sentences-2",
+  "level": 2,
+  "title": "Ingingo ya 148: Interuro zigize ingingo Article 148: Sentences of an article Article 148 : Phrases d’un article"
+ },
+ {
+  "id": "ingingo-ya-149-ibitekerezo-bigize-ingingo-2",
+  "level": 2,
+  "title": "Ingingo ya 149: Ibitekerezo bigize ingingo"
+ },
+ {
+  "id": "article-149-ideas-in-an-article-article-149-idées-dans-un-ar-2",
+  "level": 2,
+  "title": "Article 149: Ideas in an article Article 149 : Idées dans un article"
+ },
+ {
+  "id": "ingingo-ya-150-igitekerezo-kigize-igika-article-150-idea-in--2",
+  "level": 2,
+  "title": "Ingingo ya 150: Igitekerezo kigize igika Article 150: Idea in a Paragraph Article 150 : Idée dans un paragraphe"
+ },
+ {
+  "id": "ingingo-ya-151-imyubakire-y-igika-article-151-format-of-a-pa-2",
+  "level": 2,
+  "title": "Ingingo ya 151: Imyubakire y’igika Article 151: Format of a paragraph Article 151 : Construction d’un paragraphe"
+ },
+ {
+  "id": "ingingo-ya-152-imyubakire-y-agaka-article-152-format-of-a-su-2",
+  "level": 2,
+  "title": "Ingingo ya 152: Imyubakire y’agaka Article 152: Format of a subparagraph Article 152 : Construction d’un alinéa"
+ },
+ {
+  "id": "ingingo-ya-153-imyubakire-y-agace-k-agaka-2",
+  "level": 2,
+  "title": "Ingingo ya 153: Imyubakire y’agace k’agaka"
+ },
+ {
+  "id": "article-153-format-of-a-sub-subparagraph-2",
+  "level": 2,
+  "title": "Article 153: Format of a sub- subparagraph"
+ },
+ {
+  "id": "article-153-construction-d-un-sous-alinéa-2",
+  "level": 2,
+  "title": "Article 153 : Construction d’un sous- alinéa"
+ },
+ {
+  "id": "icyiciro-cya-4-imitunganyirize-y-umwandiko-w-itegeko-2",
+  "level": 2,
+  "title": "Icyiciro cya 4: Imitunganyirize y’umwandiko w’itegeko"
+ },
+ {
+  "id": "section-4-layout-of-a-text-of-a-legislation-2",
+  "level": 2,
+  "title": "Section 4: Layout of a text of a legislation"
+ },
+ {
+  "id": "section-4-mise-en-page-du-texte-d-un-texte-normatif-2",
+  "level": 2,
+  "title": "Section 4 : Mise en page du texte d’un texte normatif"
+ },
+ {
+  "id": "ingingo-ya-154-ibikurikizwa-mu-mitunganyirize-y-umwandiko-w--2",
+  "level": 2,
+  "title": "Ingingo ya 154: Ibikurikizwa mu mitunganyirize y’umwandiko w’itegeko"
+ },
+ {
+  "id": "article-154-rules-of-a-text-of-a-legislation-2",
+  "level": 2,
+  "title": "Article 154: Rules of a text of a legislation"
+ },
+ {
+  "id": "article-154-règles-de-mise-en-page-du-texte-d-un-texte-norma-2",
+  "level": 2,
+  "title": "Article 154 : Règles de mise en page du texte d’un texte normatif"
+ },
+ {
+  "id": "ingingo-ya-155-imitunganyirize-y-umwandiko-w-umugereka-w-ite-2",
+  "level": 2,
+  "title": "Ingingo ya 155: Imitunganyirize y’umwandiko w’umugereka w’itegeko"
+ },
+ {
+  "id": "article-155-layout-of-a-text-of-an-annex-of-a-legislation-2",
+  "level": 2,
+  "title": "Article 155: Layout of a text of an annex of a legislation"
+ },
+ {
+  "id": "article-155-mise-en-page-du-texte-d-une-annexe-d-un-texte-no-2",
+  "level": 2,
+  "title": "Article 155 : Mise en page du texte d’une annexe d’un texte normatif"
+ },
+ {
+  "id": "interuro-ya-v-ingingo-zisoza-title-v-final-provisions-titre--2",
+  "level": 2,
+  "title": "INTERURO YA V: INGINGO ZISOZA TITLE V: FINAL PROVISIONS TITRE V : DISPOSITIONS FINALES"
+ },
+ {
+  "id": "ingingo-ya-156-gutangira-gukurikizwa-article-156-entry-into--2",
+  "level": 2,
+  "title": "Ingingo ya 156: Gutangira gukurikizwa Article 156: Entry into force Article 156 : Entrée en vigueur"
+ },
+ {
+  "id": "mukantaganzwa-domitilla",
+  "level": 2,
+  "title": "MUKANTAGANZWA Domitilla"
+ },
+ {
+  "id": "umugereka-wa-mbere-w-imirongo-ngenderwaho-nº-001-rlrc-2022-y",
+  "level": 2,
+  "title": "UMUGEREKA WA MBERE W’IMIRONGO NGENDERWAHO Nº 001/RLRC/2022 YO KU WA 18/10/2022 Y’IMYANDIKIRE Y’AMATEGEKO ANNEX ONE TO GUIDELINES Nº 001/RLRC/2022 OF 18/10/2022 ON LEGISLATIVE DRAFTING ANNEXE PREMIÈRE DES LIGNES DIRECTRICES Nº 001/RLRC/2022 DU 18/10/2022 PORTANT RÉDACTION DES TEXTES NORMATIFS"
+ },
+ {
+  "id": "inyandikongero-ya-raporo-y-ubushakashatsi-bwakozwe-template-",
+  "level": 2,
+  "title": "INYANDIKONGERO YA RAPORO Y’UBUSHAKASHATSI BWAKOZWE TEMPLATE FOR REPORT ON CONDUCTED LEGISLATIVE RESEARCH MODÈLE DE RAPPORT SUR LA RECHERCHE LÉGISLATIVE MENÉE"
+ },
+ {
+  "id": "repubulika-y-u-rwanda",
+  "level": 2,
+  "title": "REPUBULIKA Y’U RWANDA"
+ },
+ {
+  "id": "minisiteri",
+  "level": 2,
+  "title": "MINISITERI …………………………"
+ },
+ {
+  "id": "raporo-y-ubushakashatsi-bwakozwe",
+  "level": 2,
+  "title": "RAPORO Y’UBUSHAKASHATSI BWAKOZWE"
+ },
+ {
+  "id": "n-impamvu-zacyo",
+  "level": 2,
+  "title": "n’impamvu zacyo"
+ },
+ {
+  "id": "by-igikwiye-gukorwa-mu-gukemura-icyo-kibazo",
+  "level": 2,
+  "title": "by’igikwiye gukorwa mu gukemura icyo kibazo"
+ },
+ {
+  "id": "bw-ikibazo-ugereranyije-n-ibiteganywa-gukorwa-mu-kugikemura",
+  "level": 2,
+  "title": "bw’ikibazo ugereranyije n’ibiteganywa gukorwa mu kugikemura"
+ },
+ {
+  "id": "gukorwa-bizahuzwa-n-ibiriho-mu-gihugu-mu-karere-no-ku-rwego-",
+  "level": 2,
+  "title": "gukorwa bizahuzwa n’ibiriho mu Gihugu, mu karere no ku rwego mpuzamahanga"
+ },
+ {
+  "id": "gukorwa-bizahuzwa",
+  "level": 2,
+  "title": "gukorwa bizahuzwa"
+ },
+ {
+  "id": "ayo-mu-karere-na-mpuzamahanga",
+  "level": 2,
+  "title": "ayo mu karere na mpuzamahanga"
+ },
+ {
+  "id": "reublic-of-rwanda",
+  "level": 2,
+  "title": "REUBLIC OF RWANDA"
+ },
+ {
+  "id": "template-of-report-on-conducted-legislative-research",
+  "level": 2,
+  "title": "TEMPLATE OF REPORT ON CONDUCTED LEGISLATIVE RESEARCH"
+ },
+ {
+  "id": "problem-and-its-cause-s",
+  "level": 2,
+  "title": "problem and its cause (s)"
+ },
+ {
+  "id": "mechanisms-for-an-appropriate-action",
+  "level": 2,
+  "title": "mechanisms for an appropriate action"
+ },
+ {
+  "id": "the-problem-vis-à-vis-the-proposed-actions",
+  "level": 2,
+  "title": "the problem vis-à-vis the proposed actions"
+ },
+ {
+  "id": "the-proposed-actions",
+  "level": 2,
+  "title": "the proposed actions"
+ },
+ {
+  "id": "regional-and-international-context",
+  "level": 2,
+  "title": "regional, and international context"
+ },
+ {
+  "id": "the-proposed-actions-with-relevant",
+  "level": 2,
+  "title": "the proposed actions with relevant"
+ },
+ {
+  "id": "and-international-legal-framework",
+  "level": 2,
+  "title": "and international legal framework"
+ },
+ {
+  "id": "république-du-rwanda",
+  "level": 2,
+  "title": "RÉPUBLIQUE DU RWANDA"
+ },
+ {
+  "id": "ministère-de",
+  "level": 2,
+  "title": "MINISTÈRE DE …………………………"
+ },
+ {
+  "id": "rapport-sur-la-recherche-législative-menée",
+  "level": 2,
+  "title": "RAPPORT SUR LA RECHERCHE LÉGISLATIVE MENÉE"
+ },
+ {
+  "id": "problème-de-la-question-et-sa-ses-cause-s",
+  "level": 2,
+  "title": "problème de la question et sa (ses) cause (s)"
+ },
+ {
+  "id": "mécanismes-pour-une-solution-appropriée",
+  "level": 2,
+  "title": "mécanismes pour une solution appropriée"
+ },
+ {
+  "id": "problème-vis-à-vis-des-solutions-proposées",
+  "level": 2,
+  "title": "problème vis-à-vis des solutions proposées"
+ },
+ {
+  "id": "des-solutions-proposées-sur-le-contexte-national-régional-et",
+  "level": 2,
+  "title": "des solutions proposées sur le contexte national, régional et international y relatif"
+ },
+ {
+  "id": "des-solutions-proposées-sur-le-cadre-juridique-national-régi",
+  "level": 2,
+  "title": "des solutions proposées sur le cadre juridique national, régional et international y relatif"
+ },
+ {
+  "id": "nom-du-ministre",
+  "level": 2,
+  "title": "Nom du Ministre : …………………….…………"
+ },
+ {
+  "id": "umugereka-wa-2-w-imirongo-ngenderwaho-nº-001-rlrc-2022-yo-ku",
+  "level": 2,
+  "title": "UMUGEREKA WA 2 W’IMIRONGO NGENDERWAHO Nº 001/RLRC/2022 YO KU WA 18/10/2022 Y’IMYANDIKIRE Y’AMATEGEKO ANNEX 2 TO GUIDELINES Nº 001/RLRC/2022 OF 18/10/2022 ON LEGISLATIVE DRAFTING ANNEXE 2 AUX LIGNES DIRECTRICES Nº 001/RLRC/2022 DU 18/10/2022 PORTANT RÉDACTION DES TEXTES NORMATIFS"
+ },
+ {
+  "id": "inyandikorugero-y-amabwiriza-yo-kwandika-umushinga-template-",
+  "level": 2,
+  "title": "INYANDIKORUGERO Y’AMABWIRIZA YO KWANDIKA UMUSHINGA TEMPLATE FOR DRAFTING INSTRUCTIONS MODÈLE D’INSTRUCTIONS DE RÉDACTION D’UN PROJET"
+ },
+ {
+  "id": "repubulika-y-u-rwanda-2",
+  "level": 2,
+  "title": "REPUBULIKA Y’U RWANDA"
+ },
+ {
+  "id": "minisiteri-ya",
+  "level": 2,
+  "title": "MINISITERI YA …………………………"
+ },
+ {
+  "id": "republic-of-rwanda",
+  "level": 2,
+  "title": "REPUBLIC OF RWANDA"
+ },
+ {
+  "id": "ministry-of",
+  "level": 2,
+  "title": "MINISTRY OF …………………………"
+ },
+ {
+  "id": "name-of-the-minister",
+  "level": 2,
+  "title": "Name of the Minister……………"
+ },
+ {
+  "id": "république-du-rwanda-2",
+  "level": 2,
+  "title": "RÉPUBLIQUE DU RWANDA"
+ },
+ {
+  "id": "ministère-de-2",
+  "level": 2,
+  "title": "MINISTÈRE DE …………………………"
+ },
+ {
+  "id": "umugereka-wa-3-w-imirongo-ngenderwaho-nº-001-rlrc-2022-yo-ku",
+  "level": 2,
+  "title": "UMUGEREKA WA 3 W’IMIRONGO NGENDERWAHO Nº 001/RLRC/2022 YO KU WA 18/10/2022 Y’IMYANDIKIRE Y’AMATEGEKO ANNEX 3 TO GUIDELINES Nº 001/RLRC/2022 OF 18/10/2022 ON LEGISLATIVE DRAFTING ANNEXE 3 DES LIGNES DIRECTRICES Nº 001/RLRC/2022 DU 18/10/2022 PORTANT RÉDACTION DES TEXTES NORMATIFS"
+ },
+ {
+  "id": "inyandikongero-ya-raporo-ku-gusaba-ibitekerezo-template-for-",
+  "level": 2,
+  "title": "INYANDIKONGERO YA RAPORO KU GUSABA IBITEKEREZO TEMPLATE FOR REPORT ON CONSULTATIONS MODÈLE DE RAPPORT SUR LES CONSULTATIONS"
+ },
+ {
+  "id": "repubulika-y-u-rwanda-3",
+  "level": 2,
+  "title": "REPUBULIKA Y’U RWANDA"
+ },
+ {
+  "id": "minisiteri-ya-2",
+  "level": 2,
+  "title": "MINISITERI YA …………………………"
+ },
+ {
+  "id": "inyandikongero-ya-raporo-ku-gusaba-ibitekerezo-inzego-n-aban",
+  "level": 2,
+  "title": "INYANDIKONGERO YA RAPORO KU GUSABA IBITEKEREZO Inzego n’abantu batanze ibitekerezo:"
+ },
+ {
+  "id": "ibitekerezo-byatanzwe",
+  "level": 2,
+  "title": "Ibitekerezo byatanzwe:"
+ },
+ {
+  "id": "ibitekerezo-byemewe",
+  "level": 2,
+  "title": "Ibitekerezo byemewe:"
+ },
+ {
+  "id": "ibitekerezo-bitemewe-n-impamvu-bitemewe",
+  "level": 2,
+  "title": "Ibitekerezo bitemewe n’impamvu bitemewe:"
+ },
+ {
+  "id": "republic-of-rwanda-2",
+  "level": 2,
+  "title": "REPUBLIC OF RWANDA"
+ },
+ {
+  "id": "ministry-of-2",
+  "level": 2,
+  "title": "MINISTRY OF …………………………"
+ },
+ {
+  "id": "template-of-report-on-consultations",
+  "level": 2,
+  "title": "TEMPLATE OF REPORT ON CONSULTATIONS"
+ },
+ {
+  "id": "institutions-and-people-consulted-opinions-that-were-provide",
+  "level": 2,
+  "title": "Institutions and people consulted Opinions that were provided"
+ },
+ {
+  "id": "opinions-that-were-accepted",
+  "level": 2,
+  "title": "Opinions that were accepted"
+ },
+ {
+  "id": "opinions-that-were-rejected-and-justifications-for-rejection",
+  "level": 2,
+  "title": "Opinions that were rejected and justifications for rejection"
+ },
+ {
+  "id": "république-du-rwanda-3",
+  "level": 2,
+  "title": "RÉPUBLIQUE DU RWANDA"
+ },
+ {
+  "id": "ministère-de-3",
+  "level": 2,
+  "title": "MINISTÈRE DE …………………………"
+ },
+ {
+  "id": "rapport-sur-les-consultations",
+  "level": 2,
+  "title": "RAPPORT SUR LES CONSULTATIONS"
+ },
+ {
+  "id": "les-institutions-et-des-personnes-consultées-les-avis-qui-on",
+  "level": 2,
+  "title": "Les institutions et des personnes consultées Les avis qui ont été donnés"
+ },
+ {
+  "id": "les-avis-qui-ont-été-retenus",
+  "level": 2,
+  "title": "Les avis qui ont été retenus"
+ },
+ {
+  "id": "les-avis-qui-ont-été-rejetés-et-les-motifs-de-rejet",
+  "level": 2,
+  "title": "Les avis qui ont été rejetés et les motifs de rejet"
+ },
+ {
+  "id": "nom-du-ministre-2",
+  "level": 2,
+  "title": "Nom du Ministre : …………………….…………"
+ },
+ {
+  "id": "umugereka-wa-4-w-imirongo-ngenderwaho-nº-001-rlrc-2022-yo-ku",
+  "level": 2,
+  "title": "UMUGEREKA WA 4 W’IMIRONGO NGENDERWAHO Nº 001/RLRC/2022 YO KU WA 18/10/2022 Y’IMYANDIKIRE Y’AMATEGEKO ANNEX 4 TO GUIDELINES Nº 001/RLRC/2022 OF 18/10/2022 ON LEGISLATIVE DRAFTING ANNEXE 4 AUX LIGNES DIRECTRICES Nº 001/RLRC/2022 DU 18/10/2022 PORTANT RÉDACTION DES TEXTES NORMATIFS"
+ },
+ {
+  "id": "inyandikorugero-y-inyandiko-ikubiyemo-igitekerezo-cy-umushin",
+  "level": 2,
+  "title": "INYANDIKORUGERO Y’INYANDIKO IKUBIYEMO IGITEKEREZO CY’UMUSHINGA TEMPLATE FOR A CONCEPT NOTE OF A DRAFT MODÈLE D’UNE NOTE CONCEPTUELLE DU PROJET"
+ },
+ {
+  "id": "repubulika-y-u-rwanda-4",
+  "level": 2,
+  "title": "REPUBULIKA Y’U RWANDA"
+ },
+ {
+  "id": "minisiteri-ya-3",
+  "level": 2,
+  "title": "MINISITERI YA …………………………"
+ },
+ {
+  "id": "intego",
+  "level": 2,
+  "title": "Intego"
+ },
+ {
+  "id": "ikigamijwe-kugerwaho",
+  "level": 2,
+  "title": "Ikigamijwe kugerwaho:"
+ },
+ {
+  "id": "itsinda-rirebwa-n-umushinga",
+  "level": 2,
+  "title": "Itsinda rirebwa n’umushinga:"
+ },
+ {
+  "id": "imiterere-remezo-y-umushinga",
+  "level": 2,
+  "title": "Imiterere remezo y’umushinga:"
+ },
+ {
+  "id": "ibirebwa-n-umushinga",
+  "level": 2,
+  "title": "Ibirebwa n’umushinga:"
+ },
+ {
+  "id": "ibigengwa-n-umushinga",
+  "level": 2,
+  "title": "Ibigengwa n’umushinga:"
+ },
+ {
+  "id": "ubushobozi-bwo-gushyira-mu-bikorwa-umushinga",
+  "level": 2,
+  "title": "Ubushobozi bwo gushyira mu bikorwa umushinga:"
+ },
+ {
+  "id": "andi-makuru-ya-ngombwa",
+  "level": 2,
+  "title": "Andi makuru ya ngombwa:"
+ },
+ {
+  "id": "republic-of-rwanda-3",
+  "level": 2,
+  "title": "REPUBLIC OF RWANDA"
+ },
+ {
+  "id": "ministry-of-3",
+  "level": 2,
+  "title": "MINISTRY OF …………………………"
+ },
+ {
+  "id": "purpose-of-the-draft",
+  "level": 2,
+  "title": "Purpose of the draft:"
+ },
+ {
+  "id": "target-to-be-achieved",
+  "level": 2,
+  "title": "Target to be achieved:"
+ },
+ {
+  "id": "target-group",
+  "level": 2,
+  "title": "Target group:"
+ },
+ {
+  "id": "conceptual-framework-of-the-draft",
+  "level": 2,
+  "title": "Conceptual framework of the draft:"
+ },
+ {
+  "id": "scope-of-the-draft",
+  "level": 2,
+  "title": "Scope of the draft:"
+ },
+ {
+  "id": "matters-to-be-regulated",
+  "level": 2,
+  "title": "Matters to be regulated:"
+ },
+ {
+  "id": "practical-readiness-for-execution",
+  "level": 2,
+  "title": "Practical readiness for execution:"
+ },
+ {
+  "id": "other-relevant-information",
+  "level": 2,
+  "title": "Other relevant information:"
+ },
+ {
+  "id": "name-of-the-minister-2",
+  "level": 2,
+  "title": "Name of the Minister……………"
+ },
+ {
+  "id": "république-du-rwanda-4",
+  "level": 2,
+  "title": "RÉPUBLIQUE DU RWANDA"
+ },
+ {
+  "id": "ministère-de-4",
+  "level": 2,
+  "title": "MINISTÈRE DE …………………………"
+ },
+ {
+  "id": "objectif-du-projet",
+  "level": 2,
+  "title": "Objectif du projet :"
+ },
+ {
+  "id": "objectif-à-atteindre",
+  "level": 2,
+  "title": "Objectif à atteindre :"
+ },
+ {
+  "id": "groupe-cible",
+  "level": 2,
+  "title": "Groupe cible :"
+ },
+ {
+  "id": "cadre-conceptuel-du-projet",
+  "level": 2,
+  "title": "Cadre conceptuel du projet :"
+ },
+ {
+  "id": "champ-d-application-du-projet",
+  "level": 2,
+  "title": "Champ d’application du projet :"
+ },
+ {
+  "id": "matière-qui-doit-être-réglementée",
+  "level": 2,
+  "title": "Matière qui doit être réglementée :"
+ },
+ {
+  "id": "aspect-pratique-de-mise-à-exécution",
+  "level": 2,
+  "title": "Aspect pratique de mise à exécution :"
+ },
+ {
+  "id": "autres-informations-pertinentes",
+  "level": 2,
+  "title": "Autres informations pertinentes :"
+ }
+]

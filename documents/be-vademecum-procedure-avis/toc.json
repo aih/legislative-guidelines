@@ -1,0 +1,427 @@
+[
+ {
+  "id": "conseil-d-état",
+  "level": 2,
+  "title": "Conseil d’État"
+ },
+ {
+  "id": "vade-mecum-sur-la-procédure-d-avis-devant-la-section-de-légi",
+  "level": 2,
+  "title": "Vade-mecum sur la procédure d’avis devant la section de législation"
+ },
+ {
+  "id": "2021",
+  "level": 2,
+  "title": "2021"
+ },
+ {
+  "id": "sommaire",
+  "level": 2,
+  "title": "Sommaire"
+ },
+ {
+  "id": "i-aperçu-de-la-procédure-d-avis",
+  "level": 2,
+  "title": "I. Aperçu de la procédure d’avis"
+ },
+ {
+  "id": "a-qui-peut-demander-l-avis",
+  "level": 3,
+  "title": "A. Qui peut demander l’avis ?"
+ },
+ {
+  "id": "b-quels-types-de-textes-peuvent-faire-l-objet-d-une-demande-",
+  "level": 3,
+  "title": "B. Quels types de textes peuvent faire l’objet d’une demande d’avis ? (compétence d’avis)"
+ },
+ {
+  "id": "a-principe",
+  "level": 5,
+  "title": "a. Principe"
+ },
+ {
+  "id": "b-exceptions",
+  "level": 5,
+  "title": "b. Exceptions"
+ },
+ {
+  "id": "c-cas-particulier-assentiment-à-des-conventions-et-à-des-acc",
+  "level": 5,
+  "title": "c. Cas particulier : assentiment à des conventions et à des accords de coopération"
+ },
+ {
+  "id": "c-quels-textes-doivent-être-soumis-pour-avis-avis-requis",
+  "level": 3,
+  "title": "C. Quels textes doivent être soumis pour avis ? (avis requis)"
+ },
+ {
+  "id": "a-principe-2",
+  "level": 5,
+  "title": "a. Principe"
+ },
+ {
+  "id": "b-exception-l-urgence",
+  "level": 5,
+  "title": "b. Exception : l’urgence"
+ },
+ {
+  "id": "c-exception-amendements-déposés-par-un-gouvernement",
+  "level": 5,
+  "title": "c. Exception : amendements déposés par un gouvernement"
+ },
+ {
+  "id": "d-exception-arrêtés-royaux-rendant-obligatoires-des-conventi",
+  "level": 5,
+  "title": "d. Exception : arrêtés royaux rendant obligatoires des conventions collectives de travail"
+ },
+ {
+  "id": "a-principe-3",
+  "level": 5,
+  "title": "a. Principe"
+ },
+ {
+  "id": "b-exception-l-avis-sollicité-par-un-certain-nombre-de-parlem",
+  "level": 5,
+  "title": "b. Exception : l’avis sollicité par un certain nombre de parlementaires"
+ },
+ {
+  "id": "c-cas-particulier-proposition-législative-issue-d-un-texte-d",
+  "level": 5,
+  "title": "c. Cas particulier : proposition législative issue d’un texte d’origine gouvernementale"
+ },
+ {
+  "id": "d-dans-quel-délai-l-avis-peut-il-être-demandé",
+  "level": 3,
+  "title": "D. Dans quel délai l’avis peut-il être demandé ?"
+ },
+ {
+  "id": "a-étendue-de-l-avis",
+  "level": 5,
+  "title": "a. Étendue de l’avis"
+ },
+ {
+  "id": "b-examen-préalable-de-l-accomplissement-des-formalités-presc",
+  "level": 5,
+  "title": "b. Examen préalable de l’accomplissement des formalités prescrites"
+ },
+ {
+  "id": "a-étendue-de-l-avis-2",
+  "level": 5,
+  "title": "a. Étendue de l’avis"
+ },
+ {
+  "id": "b-prolongation-du-délai",
+  "level": 5,
+  "title": "b. Prolongation du délai"
+ },
+ {
+  "id": "c-dépassement-du-délai-conséquences",
+  "level": 5,
+  "title": "c. Dépassement du délai - conséquences"
+ },
+ {
+  "id": "a-condition-de-l-urgence",
+  "level": 5,
+  "title": "a. Condition de l’urgence"
+ },
+ {
+  "id": "b-étendue-de-l-avis",
+  "level": 5,
+  "title": "b. Étendue de l’avis"
+ },
+ {
+  "id": "c-prolongation-du-délai",
+  "level": 5,
+  "title": "c. Prolongation du délai"
+ },
+ {
+  "id": "d-dépassement-du-délai-conséquence",
+  "level": 5,
+  "title": "d. Dépassement du délai - conséquence"
+ },
+ {
+  "id": "e-comment-une-demande-d-avis-doit-elle-être-introduite",
+  "level": 3,
+  "title": "E. Comment une demande d’avis doit-elle être introduite ?"
+ },
+ {
+  "id": "a-le-dossier-de-demande-d-avis",
+  "level": 5,
+  "title": "a. Le dossier de demande d’avis"
+ },
+ {
+  "id": "b-la-lettre-de-demande-d-avis",
+  "level": 5,
+  "title": "b. La lettre de demande d’avis"
+ },
+ {
+  "id": "c-contrôle-de-la-conformité-du-dossier-et-sanction",
+  "level": 5,
+  "title": "c. Contrôle de la conformité du dossier et sanction"
+ },
+ {
+  "id": "d-accusé-d-enrôlement",
+  "level": 5,
+  "title": "d. Accusé d’enrôlement"
+ },
+ {
+  "id": "f-traitement-de-la-demande-d-avis",
+  "level": 3,
+  "title": "F. Traitement de la demande d’avis"
+ },
+ {
+  "id": "a-contacts-avec-le-délégué",
+  "level": 5,
+  "title": "a. Contacts avec le délégué"
+ },
+ {
+  "id": "b-rapport-de-l-auditeur",
+  "level": 5,
+  "title": "b. Rapport de l’auditeur"
+ },
+ {
+  "id": "a-chambres-chambres-réunies-et-assemblée-générale",
+  "level": 5,
+  "title": "a. Chambres, chambres réunies et assemblée générale"
+ },
+ {
+  "id": "b-déroulement-de-la-séance",
+  "level": 5,
+  "title": "b. Déroulement de la séance"
+ },
+ {
+  "id": "c-rédaction-de-l-avis",
+  "level": 5,
+  "title": "c. Rédaction de l’avis"
+ },
+ {
+  "id": "g-expédition-et-traduction-de-l-avis",
+  "level": 3,
+  "title": "G. Expédition et traduction de l’avis"
+ },
+ {
+  "id": "h-contenu-de-l-avis",
+  "level": 3,
+  "title": "H. Contenu de l’avis"
+ },
+ {
+  "id": "i-adaptations-consécutives-à-l-avis-et-réponse-à-l-avis",
+  "level": 3,
+  "title": "I. Adaptations consécutives à l’avis et réponse à l’avis"
+ },
+ {
+  "id": "a-dans-l-exposé-des-motifs-ou-lors-des-travaux-préparatoires",
+  "level": 5,
+  "title": "a. Dans l’exposé des motifs ou lors des travaux préparatoires"
+ },
+ {
+  "id": "b-dans-un-rapport-au-roi-gouvernement",
+  "level": 5,
+  "title": "b. Dans un rapport au Roi /gouvernement"
+ },
+ {
+  "id": "j-publication-de-l-avis",
+  "level": 3,
+  "title": "J. Publication de l’avis"
+ },
+ {
+  "id": "a-documents-parlementaires",
+  "level": 5,
+  "title": "a. Documents parlementaires"
+ },
+ {
+  "id": "b-moniteur-belge",
+  "level": 5,
+  "title": "b. Moniteur belge"
+ },
+ {
+  "id": "c-publicité-de-l-administration",
+  "level": 5,
+  "title": "c. Publicité de l’administration"
+ },
+ {
+  "id": "d-procédure-devant-la-section-du-contentieux-administratif-d",
+  "level": 5,
+  "title": "d. Procédure devant la section du contentieux administratif du Conseil d’État"
+ },
+ {
+  "id": "ii-foire-aux-questions",
+  "level": 2,
+  "title": "II. Foire aux questions"
+ },
+ {
+  "id": "a-quel-est-le-délai-le-plus-adapté-à-la-demande-d-avis",
+  "level": 3,
+  "title": "A. Quel est le délai le plus adapté à la demande d’avis ?"
+ },
+ {
+  "id": "b-je-veux-offrir-plus-de-temps-à-la-section-de-législation-p",
+  "level": 3,
+  "title": "B. Je veux offrir plus de temps à la section de législation pour lui permettre de donner un avis plus approfondi mais je veux être certain de disposer de cet avis dans un délai de trois mois. Comment puis-je procéder ?"
+ },
+ {
+  "id": "c-qu-en-est-il-d-une-demande-d-avis-introduite-pendant-les-p",
+  "level": 3,
+  "title": "C. Qu’en est-il d’une demande d’avis introduite pendant les périodes de vacances ?"
+ },
+ {
+  "id": "d-qu-en-est-il-si-la-section-de-législation-fait-savoir-qu-e",
+  "level": 3,
+  "title": "D. Qu’en est-il si la section de législation fait savoir qu’elle ne peut pas formuler d’avis sur un projet d’arrêté ?"
+ },
+ {
+  "id": "e-qu-en-est-il-des-décisions-du-conseil-des-ministres-ou-d-u",
+  "level": 3,
+  "title": "E. Qu’en est-il des décisions du conseil des ministres ou d’un gouvernement formulant certaines conditions sur la consultation d’autres organes ( avant la consultation de la section de législation) et fixant certains délais pour la consultation de la section de législation ?"
+ },
+ {
+  "id": "f-quand-et-comment-puis-je-contacter-la-section-de-législati",
+  "level": 3,
+  "title": "F. Quand et comment puis-je contacter la section de législation (avant l’introduction de la demande d’avis et pendant le traitement de celle-ci) ?"
+ },
+ {
+  "id": "g-est-il-possible-dans-le-cadre-de-la-demande-d-avis-d-attir",
+  "level": 3,
+  "title": "G. Est-il possible, dans le cadre de la demande d’avis, d’attirer l’attention de la section de législation sur des problèmes spécifiques ?"
+ },
+ {
+  "id": "h-le-texte-d-un-projet-peut-il-encore-être-modifié-pendant-l",
+  "level": 3,
+  "title": "H. Le texte d’un projet peut-il encore être modifié pendant le traitement de la demande d’avis ?"
+ },
+ {
+  "id": "i-puis-je-retirer-ou-modifier-une-demande-d-avis-et-dans-l-a",
+  "level": 3,
+  "title": "I. Puis-je retirer ou modifier une demande d’avis et, dans l’affirmative, de quelle manière ?"
+ },
+ {
+  "id": "j-l-auditeur-pose-de-nombreuses-questions-en-peu-de-temps-su",
+  "level": 3,
+  "title": "J. L’auditeur pose (de nombreuses) questions (en peu de temps) sur le texte. Dois-je m’inquiéter ?"
+ },
+ {
+  "id": "k-pourquoi-mon-dossier-est-il-traité-par-les-chambres-réunie",
+  "level": 3,
+  "title": "K. Pourquoi mon dossier est-il traité par les chambres réunies ou l’assemblée générale ?"
+ },
+ {
+  "id": "l-nous-ne-comprenons-pas-la-portée-d-une-observation-figuran",
+  "level": 3,
+  "title": "L. Nous ne comprenons pas la portée d’une observation figurant dans l’avis de la section de législation. Que devons-nous faire ?"
+ },
+ {
+  "id": "m-le-texte-d-un-projet-peut-il-encore-être-modifié-après-l-a",
+  "level": 3,
+  "title": "M. Le texte d’un projet peut-il encore être modifié après l’avis ?"
+ },
+ {
+  "id": "n-puis-je-consulter-une-deuxième-fois-la-section-de-législat",
+  "level": 3,
+  "title": "N. Puis-je consulter une deuxième fois la section de législation (sur une version adaptée du projet) ?"
+ },
+ {
+  "id": "o-je-souhaite-mentionner-explicitement-comment-j-ai-donné-su",
+  "level": 3,
+  "title": "O. Je souhaite mentionner explicitement comment j’ai donné suite aux observations contenues dans un avis de la section de législation. Comment procéder ?"
+ },
+ {
+  "id": "p-que-signifient-les-codes-après-le-numéro-de-l-avis",
+  "level": 3,
+  "title": "P. Que signifient les codes après le numéro de l’avis ?"
+ },
+ {
+  "id": "q-que-signifient-les-codes-au-bas-du-document-dans-la-marge-",
+  "level": 3,
+  "title": "Q. Que signifient les codes au bas du document dans la marge de droite ?"
+ },
+ {
+  "id": "r-où-puis-je-trouver-les-avis-du-conseil-d-état",
+  "level": 3,
+  "title": "R. Où puis-je trouver les avis du Conseil d’État?"
+ },
+ {
+  "id": "s-à-qui-m-adresser-pour-des-questions-de-technique-législati",
+  "level": 3,
+  "title": "S. À qui m’adresser pour des questions de technique législative ?"
+ },
+ {
+  "id": "iii-modèles-de-courriers",
+  "level": 2,
+  "title": "III. Modèles de courriers"
+ },
+ {
+  "id": "annexe-1-lettre-de-demande-d-avis-d-un-ministre-sans-indicat",
+  "level": 3,
+  "title": "Annexe 1. Lettre de demande d’avis d’un ministre sans indication de délai 1"
+ },
+ {
+  "id": "annexe-2-lettre-de-demande-d-avis-d-un-ministre-dans-un-déla",
+  "level": 3,
+  "title": "Annexe 2. Lettre de demande d’avis d’un ministre dans un délai de soixante"
+ },
+ {
+  "id": "jours-1",
+  "level": 4,
+  "title": "jours 1"
+ },
+ {
+  "id": "annexe-3-lettre-de-demande-d-avis-d-un-ministre-dans-un-déla",
+  "level": 3,
+  "title": "Annexe 3. Lettre de demande d’avis d’un ministre dans un délai de trente"
+ },
+ {
+  "id": "jours-1-2",
+  "level": 4,
+  "title": "jours 1"
+ },
+ {
+  "id": "annexe-4-lettre-de-demande-d-avis-d-un-ministre-dans-un-déla",
+  "level": 3,
+  "title": "Annexe 4. Lettre de demande d’avis d’un ministre dans un délai de cinq"
+ },
+ {
+  "id": "jours-ouvrables-1",
+  "level": 4,
+  "title": "jours ouvrables 1"
+ },
+ {
+  "id": "annexe-5-lettre-de-demande-d-avis-du-président-d-un-parlemen",
+  "level": 3,
+  "title": "Annexe 5. Lettre de demande d’avis du président d’un parlement sans"
+ },
+ {
+  "id": "indication-d-un-délai-1",
+  "level": 4,
+  "title": "indication d’un délai 1"
+ },
+ {
+  "id": "annexe-6-lettre-de-demande-d-avis-du-président-d-un-parlemen",
+  "level": 3,
+  "title": "Annexe 6. Lettre de demande d’avis du président d’un parlement dans un"
+ },
+ {
+  "id": "délai-de-soixante-jours-1",
+  "level": 4,
+  "title": "délai de soixante jours 1"
+ },
+ {
+  "id": "annexe-7-lettre-de-demande-d-avis-du-président-d-un-parlemen",
+  "level": 3,
+  "title": "Annexe 7. Lettre de demande d’avis du président d’un parlement dans un"
+ },
+ {
+  "id": "délai-de-trente-jours-1",
+  "level": 4,
+  "title": "délai de trente jours 1"
+ },
+ {
+  "id": "annexe-8-lettre-de-demande-d-avis-du-président-d-un-parlemen",
+  "level": 3,
+  "title": "Annexe 8. Lettre de demande d’avis du président d’un parlement dans un"
+ },
+ {
+  "id": "délai-de-cinq-jours-ouvrables-1",
+  "level": 4,
+  "title": "délai de cinq jours ouvrables 1"
+ }
+]

@@ -1,0 +1,547 @@
+[
+ {
+  "id": "manual-of-parliamentary-procedures-in-the-government-of-indi",
+  "level": 4,
+  "title": "Manual of Parliamentary Procedures in the Government of India"
+ },
+ {
+  "id": "ministry-of-parliamentary-affairs-july-2019",
+  "level": 5,
+  "title": "Ministry of Parliamentary Affairs JULY, 2019"
+ },
+ {
+  "id": "preface-to-the-fourth-edition",
+  "level": 2,
+  "title": "Preface to the Fourth Edition"
+ },
+ {
+  "id": "preface-to-the-third-edition",
+  "level": 2,
+  "title": "Preface to the Third Edition"
+ },
+ {
+  "id": "preface-to-the-first-edition",
+  "level": 2,
+  "title": "Preface to the First Edition"
+ },
+ {
+  "id": "contents",
+  "level": 3,
+  "title": "Contents"
+ },
+ {
+  "id": "annexes",
+  "level": 5,
+  "title": "Annexes"
+ },
+ {
+  "id": "abbreviations",
+  "level": 3,
+  "title": "Abbreviations"
+ },
+ {
+  "id": "chapter-1",
+  "level": 5,
+  "title": "Chapter 1"
+ },
+ {
+  "id": "introduction",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "chapter-2",
+  "level": 5,
+  "title": "Chapter 2"
+ },
+ {
+  "id": "general-instructions",
+  "level": 2,
+  "title": "General Instructions"
+ },
+ {
+  "id": "chapter-3",
+  "level": 5,
+  "title": "Chapter 3"
+ },
+ {
+  "id": "questions",
+  "level": 2,
+  "title": "Questions"
+ },
+ {
+  "id": "chapter-4",
+  "level": 5,
+  "title": "Chapter 4"
+ },
+ {
+  "id": "laying-of-papers-on-the-table-of-the-house",
+  "level": 2,
+  "title": "Laying of Papers on the Table of the House"
+ },
+ {
+  "id": "chapter-5",
+  "level": 5,
+  "title": "Chapter 5"
+ },
+ {
+  "id": "motions-official-statements-short-duration-discussions-resol",
+  "level": 2,
+  "title": "Motions, Official Statements, Short Duration Discussions & Resolutions"
+ },
+ {
+  "id": "chapter-6",
+  "level": 5,
+  "title": "Chapter 6"
+ },
+ {
+  "id": "president-s-address",
+  "level": 2,
+  "title": "President’s Address"
+ },
+ {
+  "id": "chapter-7",
+  "level": 5,
+  "title": "Chapter 7"
+ },
+ {
+  "id": "budget",
+  "level": 2,
+  "title": "Budget"
+ },
+ {
+  "id": "chapter-8",
+  "level": 5,
+  "title": "Chapter 8"
+ },
+ {
+  "id": "assurances",
+  "level": 2,
+  "title": "Assurances"
+ },
+ {
+  "id": "chapter-9",
+  "level": 5,
+  "title": "Chapter 9"
+ },
+ {
+  "id": "legislation",
+  "level": 2,
+  "title": "Legislation"
+ },
+ {
+  "id": "chapter-10",
+  "level": 5,
+  "title": "Chapter 10"
+ },
+ {
+  "id": "legislation-in-respect-of-states-under-the-president-s-rule",
+  "level": 2,
+  "title": "Legislation in respect of States Under the President’s Rule"
+ },
+ {
+  "id": "chapter-11",
+  "level": 5,
+  "title": "Chapter 11"
+ },
+ {
+  "id": "subordinate-legislation",
+  "level": 2,
+  "title": "Subordinate Legislation"
+ },
+ {
+  "id": "checklist",
+  "level": 5,
+  "title": "CHECKLIST"
+ },
+ {
+  "id": "chapter-12",
+  "level": 5,
+  "title": "Chapter 12"
+ },
+ {
+  "id": "committees-of-parliament",
+  "level": 2,
+  "title": "Committees of Parliament"
+ },
+ {
+  "id": "chapter-13",
+  "level": 5,
+  "title": "Chapter 13"
+ },
+ {
+  "id": "consultative-committees",
+  "level": 2,
+  "title": "Consultative Committees"
+ },
+ {
+  "id": "chapter-14",
+  "level": 5,
+  "title": "Chapter 14"
+ },
+ {
+  "id": "nomination-of-members-of-parliament-on-committees-councils-b",
+  "level": 2,
+  "title": "Nomination of Members of Parliament on Committees, Councils, Boards and Commissions, etc., set up by the Government"
+ },
+ {
+  "id": "chapter-15",
+  "level": 5,
+  "title": "Chapter 15"
+ },
+ {
+  "id": "matters-raised-in-the-lok-sabha-under-rule-377-in-the-rajya-",
+  "level": 2,
+  "title": "Matters raised in the Lok Sabha under Rule 377, in the Rajya Sabha under Rule 180A-E and in ‘Zero Hour’"
+ },
+ {
+  "id": "chapter-16",
+  "level": 5,
+  "title": "Chapter 16"
+ },
+ {
+  "id": "miscellaneous",
+  "level": 2,
+  "title": "Miscellaneous"
+ },
+ {
+  "id": "chapter-17",
+  "level": 5,
+  "title": "Chapter 17"
+ },
+ {
+  "id": "constitutional-provisions-relating-to-parliament",
+  "level": 2,
+  "title": "Constitutional Provisions Relating to Parliament"
+ },
+ {
+  "id": "members",
+  "level": 5,
+  "title": "members"
+ },
+ {
+  "id": "parliament",
+  "level": 5,
+  "title": "Parliament"
+ },
+ {
+  "id": "procedure-generally",
+  "level": 5,
+  "title": "Procedure Generally"
+ },
+ {
+  "id": "relation-to-financial-business",
+  "level": 5,
+  "title": "relation to financial business:-"
+ },
+ {
+  "id": "during-recess-of-parliament",
+  "level": 5,
+  "title": "during recess of Parliament"
+ },
+ {
+  "id": "and-procedure-therefor",
+  "level": 5,
+  "title": "and procedure therefor"
+ },
+ {
+  "id": "chapter-18",
+  "level": 5,
+  "title": "Chapter- 18"
+ },
+ {
+  "id": "important-activities-of-ministry-of-parliamentary-affairs",
+  "level": 2,
+  "title": "Important Activities of Ministry of Parliamentary Affairs"
+ },
+ {
+  "id": "organisational-set-up",
+  "level": 5,
+  "title": "Organisational Set-up"
+ },
+ {
+  "id": "list-of-secretaries-of-the-ministry-of-parliamentary-affairs",
+  "level": 4,
+  "title": "LIST OF SECRETARIES OF THE MINISTRY OF PARLIAMENTARY AFFAIRS"
+ },
+ {
+  "id": "para-8-1",
+  "level": 5,
+  "title": "(Para 8.1)"
+ },
+ {
+  "id": "standard-list-of-expressions-constituting-assurances",
+  "level": 5,
+  "title": "STANDARD LIST OF EXPRESSIONS CONSTITUTING ASSURANCES"
+ },
+ {
+  "id": "lok-sabha-rajya-sabha",
+  "level": 5,
+  "title": "LOK SABHA RAJYA SABHA"
+ },
+ {
+  "id": "lok-sabha",
+  "level": 5,
+  "title": "LOK SABHA"
+ },
+ {
+  "id": "rarajya-sabha",
+  "level": 5,
+  "title": "RARAJYA SABHA"
+ },
+ {
+  "id": "annex-4-para-8-7-1",
+  "level": 5,
+  "title": "ANNEX 4 (Para 8.7.1)"
+ },
+ {
+  "id": "register-of-assurances-given-in-parliament",
+  "level": 5,
+  "title": "REGISTER OF ASSURANCES GIVEN IN PARLIAMENT"
+ },
+ {
+  "id": "annex-5-para-8-7-2",
+  "level": 5,
+  "title": "ANNEX 5 (Para 8.7.2)"
+ },
+ {
+  "id": "register-of-assurances-given-in-parliament-2",
+  "level": 5,
+  "title": "REGISTER OF ASSURANCES GIVEN IN PARLIAMENT"
+ },
+ {
+  "id": "no-file",
+  "level": 5,
+  "title": "No File"
+ },
+ {
+  "id": "no-dis-cussion-date-and-name-of-mp-rais-ing-the-point-refer-",
+  "level": 5,
+  "title": "No. dis- cussion date and name of MP rais- ing the point Refer- ence Sub- ject Prom- ise Made Dt. of receipt from Parlia- ment unit Due dt. for imple- men- tation of the assur- ance Sources from which infor- mation is re- quired to be col- lected Exten- sion sought/ granted"
+ },
+ {
+  "id": "of-the-commu-nication-under-which-ir-part-ir-was",
+  "level": 5,
+  "title": "Of the commu- nication under which IR/ Part IR was"
+ },
+ {
+  "id": "dt-on-which-it-part-ir-laid-on-the-table-of-the-house-re-mar",
+  "level": 5,
+  "title": "Dt. On which IT/Part IR/Laid on the Table of the House Re- marks"
+ },
+ {
+  "id": "2-3-4-5-6-7-8-9-10-11-12-13",
+  "level": 5,
+  "title": "2 3 4 5 6 7 8 9 10 11 12 13"
+ },
+ {
+  "id": "paras-8-9-2-8-11",
+  "level": 5,
+  "title": "(Paras 8.9.2 & 8.11)"
+ },
+ {
+  "id": "annex-7-para-9-7-3",
+  "level": 5,
+  "title": "Annex-7 (Para 9.7.3)"
+ },
+ {
+  "id": "form-in-which-the-recommendation-previous-sanction-of-the-pr",
+  "level": 5,
+  "title": "FORM IN WHICH THE RECOMMENDATION/PREVIOUS SANCTION OF THE PRESIDENT HAS TO BE COMMUNICATED BY THE MINISTER IN-CHARGE"
+ },
+ {
+  "id": "para-9-7-4",
+  "level": 5,
+  "title": "(Para 9.7.4)"
+ },
+ {
+  "id": "proforma-indicating-the-constitutional-and-procedural-requir",
+  "level": 5,
+  "title": "PROFORMA INDICATING THE CONSTITUTIONAL AND PROCEDURAL REQUIREMENTS TO BE"
+ },
+ {
+  "id": "para-9-11-1",
+  "level": 5,
+  "title": "(Para 9.11.1)"
+ },
+ {
+  "id": "motion-for-introduction-of-a-bill",
+  "level": 5,
+  "title": "MOTION FOR INTRODUCTION OF A BILL"
+ },
+ {
+  "id": "para-9-11-3",
+  "level": 5,
+  "title": "(Para 9.11.3)"
+ },
+ {
+  "id": "memorandum-for-exemption-from-direction-19a-19b",
+  "level": 5,
+  "title": "MEMORANDUM FOR EXEMPTION FROM DIRECTION 19A/19B"
+ },
+ {
+  "id": "para-9-12-a",
+  "level": 5,
+  "title": "[Para 9.12(a)]"
+ },
+ {
+  "id": "motion-for-consideration-and-passing-of-a-bill",
+  "level": 5,
+  "title": "MOTION FOR CONSIDERATION AND PASSING OF A BILL"
+ },
+ {
+  "id": "paras-9-12-b-9-14-1",
+  "level": 5,
+  "title": "[Paras 9.12(b) & 9.14.1]"
+ },
+ {
+  "id": "motion-for-referring-a-bill-to-a-select-committee",
+  "level": 5,
+  "title": "MOTION FOR REFERRING A BILL TO A SELECT COMMITTEE"
+ },
+ {
+  "id": "para-9-12-c-9-14-1",
+  "level": 5,
+  "title": "[Para 9.12(c) & 9.14.1]"
+ },
+ {
+  "id": "motion-for-referring-a-bill-to-a-joint-committee-of-the-hous",
+  "level": 5,
+  "title": "MOTION FOR REFERRING A BILL TO A JOINT COMMITTEE OF THE HOUSES"
+ },
+ {
+  "id": "para-9-12-d",
+  "level": 5,
+  "title": "[Para 9.12(d)]"
+ },
+ {
+  "id": "motion-for-circulation-of-a-bill-for-eliciting-public-opinio",
+  "level": 5,
+  "title": "MOTION FOR CIRCULATION OF A BILL FOR ELICITING PUBLIC OPINION"
+ },
+ {
+  "id": "para-9-13",
+  "level": 5,
+  "title": "(Para 9.13)"
+ },
+ {
+  "id": "motion-for-withdrawal-of-a-bill-in-the-house-in-which-it-has",
+  "level": 5,
+  "title": "MOTION FOR WITHDRAWAL OF A BILL IN THE HOUSE IN WHICH IT HAS BEEN INTRODUCED"
+ },
+ {
+  "id": "para-9-13-2",
+  "level": 5,
+  "title": "[Para 9.13]"
+ },
+ {
+  "id": "motion-for-withdrawal-of-a-bill-passed-by-one-house-and-pend",
+  "level": 5,
+  "title": "MOTION FOR WITHDRAWAL OF A BILL PASSED BY ONE HOUSE AND PENDING IN THE OTHER HOUSE"
+ },
+ {
+  "id": "pending",
+  "level": 5,
+  "title": "pending"
+ },
+ {
+  "id": "pending-2",
+  "level": 5,
+  "title": "pending"
+ },
+ {
+  "id": "para-9-14-1",
+  "level": 5,
+  "title": "(Para 9.14.1)"
+ },
+ {
+  "id": "motion-for-concurrence-in-the-recommendation-for-reference-o",
+  "level": 5,
+  "title": "MOTION FOR CONCURRENCE IN THE RECOMMENDATION FOR REFERENCE OF A BILL TO A JOINT COMMITTEE"
+ },
+ {
+  "id": "para-9-14-3",
+  "level": 5,
+  "title": "(Para 9.14.3)"
+ },
+ {
+  "id": "motion-for-leave-to-move-amendments-to-a-bill-referred-to-a-",
+  "level": 5,
+  "title": "MOTION FOR LEAVE TO MOVE AMENDMENTS TO A BILL REFERRED TO A SELECT/JOINT COMMITTEE"
+ },
+ {
+  "id": "para-9-18-2",
+  "level": 5,
+  "title": "(Para 9.18.2)"
+ },
+ {
+  "id": "motion-for-leave-to-move-amendments-to-a-bill-in-the-house",
+  "level": 5,
+  "title": "MOTION FOR LEAVE TO MOVE AMENDMENTS TO A BILL IN THE HOUSE"
+ },
+ {
+  "id": "para-9-20-1",
+  "level": 5,
+  "title": "(Para 9.20.1)"
+ },
+ {
+  "id": "motion-regarding-consideration-and-passing-return-of-a-bill-",
+  "level": 5,
+  "title": "MOTION REGARDING CONSIDERATION AND PASSING/*RETURN OF A BILL PASSED IN ONE HOUSE AND PENDING IN THE OTHER HOUSE"
+ },
+ {
+  "id": "para-9-20-2",
+  "level": 5,
+  "title": "(Para 9.20.2)"
+ },
+ {
+  "id": "specimen-form-for-communicating-revised-financial-memorandum",
+  "level": 5,
+  "title": "SPECIMEN FORM FOR COMMUNICATING REVISED FINANCIAL MEMORANDUM AND/OR MEMORANDUM REGARDING DELEGATED LEGISLATION"
+ },
+ {
+  "id": "para-11-7-4",
+  "level": 5,
+  "title": "(Para 11.7.4)"
+ },
+ {
+  "id": "motion-for-consideration-and-approval-of-a",
+  "level": 5,
+  "title": "MOTION FOR CONSIDERATION AND APPROVAL OF A"
+ },
+ {
+  "id": "lok-sabha-2",
+  "level": 5,
+  "title": "Lok Sabha"
+ },
+ {
+  "id": "rajya-sabha",
+  "level": 5,
+  "title": "Rajya Sabha"
+ },
+ {
+  "id": "joint-committess",
+  "level": 5,
+  "title": "Joint Committess"
+ },
+ {
+  "id": "hkkjrh-laln",
+  "level": 4,
+  "title": "Hkkjrh; laln"
+ },
+ {
+  "id": "jkt-lhkk-lfpoky",
+  "level": 4,
+  "title": "jkT;lHkk lfpoky;"
+ },
+ {
+  "id": "index",
+  "level": 5,
+  "title": "Index"
+ },
+ {
+  "id": "bibliography",
+  "level": 3,
+  "title": "Bibliography"
+ }
+]

@@ -1,0 +1,5902 @@
+[
+ {
+  "id": "drafting-legislation-in-hong-kong",
+  "level": 2,
+  "title": "DRAFTING LEGISLATION IN HONG KONG"
+ },
+ {
+  "id": "contents",
+  "level": 5,
+  "title": "CONTENTS"
+ },
+ {
+  "id": "1-a-brief-overview-of-hong-kong-legislation-1",
+  "level": 5,
+  "title": "1 A BRIEF OVERVIEW OF HONG KONG LEGISLATION 1"
+ },
+ {
+  "id": "2-primary-legislation-7",
+  "level": 5,
+  "title": "2 PRIMARY LEGISLATION 7"
+ },
+ {
+  "id": "3-subsidiary-legislation-16",
+  "level": 5,
+  "title": "3 SUBSIDIARY LEGISLATION 16"
+ },
+ {
+  "id": "4-organizational-matters-38",
+  "level": 5,
+  "title": "4 ORGANIZATIONAL MATTERS 38"
+ },
+ {
+  "id": "5-interpretation-provisions-52",
+  "level": 5,
+  "title": "5 INTERPRETATION PROVISIONS 52"
+ },
+ {
+  "id": "6-offences-penalties-and-defences-63",
+  "level": 5,
+  "title": "6 OFFENCES, PENALTIES AND DEFENCES 63"
+ },
+ {
+  "id": "7-final-provisions-77",
+  "level": 5,
+  "title": "7 FINAL PROVISIONS 77"
+ },
+ {
+  "id": "8-explanatory-information-85",
+  "level": 5,
+  "title": "8 EXPLANATORY INFORMATION 85"
+ },
+ {
+  "id": "9-plain-language-and-genderneutral-drafting-88",
+  "level": 5,
+  "title": "9 PLAIN LANGUAGE AND GENDERNEUTRAL DRAFTING 88"
+ },
+ {
+  "id": "10-spelling-and-terminology-108",
+  "level": 5,
+  "title": "10 SPELLING AND TERMINOLOGY 108"
+ },
+ {
+  "id": "11-punctuation-130",
+  "level": 5,
+  "title": "11 PUNCTUATION 130"
+ },
+ {
+  "id": "12-numbers-symbols-date-and-time-142",
+  "level": 5,
+  "title": "12 NUMBERS, SYMBOLS, DATE AND TIME 142"
+ },
+ {
+  "id": "13-references-to-enactments-and-provisions-160",
+  "level": 5,
+  "title": "13 REFERENCES TO ENACTMENTS AND PROVISIONS 160"
+ },
+ {
+  "id": "14-amending-enactments-170",
+  "level": 5,
+  "title": "14 AMENDING ENACTMENTS 170"
+ },
+ {
+  "id": "15-standard-amending-formulas-187",
+  "level": 5,
+  "title": "15 STANDARD AMENDING FORMULAS 187"
+ },
+ {
+  "id": "foreword",
+  "level": 4,
+  "title": "Foreword"
+ },
+ {
+  "id": "preface",
+  "level": 4,
+  "title": "Preface"
+ },
+ {
+  "id": "1-a-brief-overview",
+  "level": 2,
+  "title": "1 A Brief Overview"
+ },
+ {
+  "id": "of-hong-kong-legislation",
+  "level": 3,
+  "title": "of Hong Kong Legislation"
+ },
+ {
+  "id": "1-1-legislation-of-hong-kong",
+  "level": 5,
+  "title": "1.1 Legislation of Hong Kong"
+ },
+ {
+  "id": "legislation-comprises-ordinances-and-subsidiary-legislation",
+  "level": 5,
+  "title": "Legislation comprises Ordinances and subsidiary legislation"
+ },
+ {
+  "id": "definitions-of-ordinance-and-subsidiary-legislation",
+  "level": 5,
+  "title": "Definitions of Ordinance and subsidiary legislation"
+ },
+ {
+  "id": "drafting-of-government-legislation",
+  "level": 5,
+  "title": "Drafting of Government legislation"
+ },
+ {
+  "id": "statute-book",
+  "level": 5,
+  "title": "Statute Book"
+ },
+ {
+  "id": "1-2-bills-and-ordinances",
+  "level": 5,
+  "title": "1.2 Bills and Ordinances"
+ },
+ {
+  "id": "bill-becomes-ordinance",
+  "level": 5,
+  "title": "Bill becomes Ordinance"
+ },
+ {
+  "id": "public-bills-and-private-bills",
+  "level": 5,
+  "title": "Public Bills and private Bills"
+ },
+ {
+  "id": "new-principal-bills-and-amending-bills",
+  "level": 5,
+  "title": "New principal Bills and amending Bills"
+ },
+ {
+  "id": "publication-of-bills",
+  "level": 5,
+  "title": "Publication of Bills"
+ },
+ {
+  "id": "government-bills",
+  "level": 5,
+  "title": "Government Bills"
+ },
+ {
+  "id": "three-readings-of-a-bill",
+  "level": 5,
+  "title": "Three readings of a Bill"
+ },
+ {
+  "id": "committee-stage-amendments",
+  "level": 5,
+  "title": "Committee stage amendments"
+ },
+ {
+  "id": "stage-at-which-bill-is-passed",
+  "level": 5,
+  "title": "Stage at which Bill is passed"
+ },
+ {
+  "id": "legco-s-database-of-bills",
+  "level": 5,
+  "title": "LegCo’s database of Bills"
+ },
+ {
+  "id": "publication-in-gazette-as-ordinance",
+  "level": 5,
+  "title": "Publication in Gazette as Ordinance"
+ },
+ {
+  "id": "numbering-of-ordinances",
+  "level": 5,
+  "title": "Numbering of Ordinances"
+ },
+ {
+  "id": "example-1",
+  "level": 5,
+  "title": "Example 1"
+ },
+ {
+  "id": "publication-of-ordinances-in-loose-leaf-edition",
+  "level": 5,
+  "title": "Publication of Ordinances in Loose‐leaf Edition"
+ },
+ {
+  "id": "example-2",
+  "level": 5,
+  "title": "Example 2"
+ },
+ {
+  "id": "publication-of-ordinances-on-blis",
+  "level": 5,
+  "title": "Publication of Ordinances on BLIS"
+ },
+ {
+  "id": "1-3-subsidiary-legislation",
+  "level": 5,
+  "title": "1.3 Subsidiary Legislation"
+ },
+ {
+  "id": "enabling-ordinance-and-subsidiary-legislation",
+  "level": 5,
+  "title": "Enabling Ordinance and subsidiary legislation"
+ },
+ {
+  "id": "new-principal-subsidiary-legislation-and-amending-subsidiary",
+  "level": 5,
+  "title": "New principal subsidiary legislation and amending subsidiary legislation"
+ },
+ {
+  "id": "publication-of-subsidiary-legislation-in-gazette",
+  "level": 5,
+  "title": "Publication of subsidiary legislation in Gazette"
+ },
+ {
+  "id": "1-3-3",
+  "level": 5,
+  "title": "1.3.3"
+ },
+ {
+  "id": "numbering-of-subsidiary-legislation",
+  "level": 5,
+  "title": "Numbering of subsidiary legislation"
+ },
+ {
+  "id": "publication-of-subsidiary-legislation-in-loose-leaf-edition",
+  "level": 5,
+  "title": "Publication of subsidiary legislation in Loose‐leaf Edition"
+ },
+ {
+  "id": "example-3",
+  "level": 5,
+  "title": "Example 3"
+ },
+ {
+  "id": "publication-of-subsidiary-legislation-on-blis",
+  "level": 5,
+  "title": "Publication of subsidiary legislation on BLIS"
+ },
+ {
+  "id": "2-primary-legislation",
+  "level": 2,
+  "title": "2 Primary Legislation"
+ },
+ {
+  "id": "2-1-formal-requirements-and-conventions-for-bills",
+  "level": 5,
+  "title": "2.1 Formal Requirements and Conventions for Bills"
+ },
+ {
+  "id": "language-of-ordinances",
+  "level": 5,
+  "title": "Language of Ordinances"
+ },
+ {
+  "id": "form-of-bill-legco-rule-50",
+  "level": 5,
+  "title": "Form of Bill—LegCo Rule 50"
+ },
+ {
+  "id": "law-draftsman-s-certificate",
+  "level": 5,
+  "title": "Law Draftsman’s certificate"
+ },
+ {
+  "id": "one-bill-one-subject",
+  "level": 5,
+  "title": "One Bill, one subject"
+ },
+ {
+  "id": "2-1-4",
+  "level": 5,
+  "title": "2.1.4"
+ },
+ {
+  "id": "preliminary-provisions",
+  "level": 5,
+  "title": "Preliminary provisions"
+ },
+ {
+  "id": "long-title",
+  "level": 5,
+  "title": "Long title"
+ },
+ {
+  "id": "enacting-formula",
+  "level": 5,
+  "title": "Enacting formula"
+ },
+ {
+  "id": "preamble",
+  "level": 5,
+  "title": "Preamble"
+ },
+ {
+  "id": "short-title",
+  "level": 5,
+  "title": "Short title"
+ },
+ {
+  "id": "clauses-of-bill",
+  "level": 5,
+  "title": "Clauses of Bill"
+ },
+ {
+  "id": "saving-clause-for-private-bills",
+  "level": 5,
+  "title": "Saving clause for private Bills"
+ },
+ {
+  "id": "explanatory-memorandum",
+  "level": 5,
+  "title": "Explanatory Memorandum"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 5,
+  "title": "Table of Contents"
+ },
+ {
+  "id": "2-2-preliminary-clauses-of-a-bill",
+  "level": 5,
+  "title": "2.2 Preliminary Clauses of a Bill"
+ },
+ {
+  "id": "what-is-a-short-title",
+  "level": 5,
+  "title": "What is a short title"
+ },
+ {
+  "id": "2-2-2",
+  "level": 5,
+  "title": "2.2.2"
+ },
+ {
+  "id": "rules-for-short-titles-new-principal-bills",
+  "level": 5,
+  "title": "Rules for short titles (new principal Bills)"
+ },
+ {
+  "id": "example-1-2",
+  "level": 5,
+  "title": "Example 1"
+ },
+ {
+  "id": "rules-for-short-titles-amending-bills",
+  "level": 5,
+  "title": "Rules for short titles (amending Bills)"
+ },
+ {
+  "id": "commencement-section-20-of-igco",
+  "level": 5,
+  "title": "Commencement—section 20 of IGCO"
+ },
+ {
+  "id": "commencement-on-gazettal",
+  "level": 5,
+  "title": "Commencement on Gazettal"
+ },
+ {
+  "id": "commencement-on-specified-date",
+  "level": 5,
+  "title": "Commencement on specified date"
+ },
+ {
+  "id": "example-2-2",
+  "level": 5,
+  "title": "Example 2"
+ },
+ {
+  "id": "commencement-on-appointed-day",
+  "level": 5,
+  "title": "Commencement on appointed day"
+ },
+ {
+  "id": "example-3-2",
+  "level": 5,
+  "title": "Example 3"
+ },
+ {
+  "id": "mixed-commencement-provisions",
+  "level": 5,
+  "title": "Mixed commencement provisions"
+ },
+ {
+  "id": "example-4",
+  "level": 5,
+  "title": "Example 4"
+ },
+ {
+  "id": "example-5",
+  "level": 5,
+  "title": "Example 5"
+ },
+ {
+  "id": "2-3-organization-basic-structure-of-a-bill",
+  "level": 5,
+  "title": "2.3 Organization—Basic Structure of a Bill"
+ },
+ {
+  "id": "read-with-chapter-4-organizational-matters",
+  "level": 5,
+  "title": "Read with Chapter 4 (Organizational Matters)"
+ },
+ {
+  "id": "basic-rule-for-organization",
+  "level": 5,
+  "title": "Basic rule for organization"
+ },
+ {
+  "id": "divide-into-clauses-legco-rule-50-6",
+  "level": 5,
+  "title": "Divide into clauses—LegCo Rule 50(6)"
+ },
+ {
+  "id": "keep-clauses-short",
+  "level": 5,
+  "title": "Keep clauses short"
+ },
+ {
+  "id": "divide-into-subclauses",
+  "level": 5,
+  "title": "Divide into subclauses"
+ },
+ {
+  "id": "further-divisions-paragraphs-and-subparagraphs",
+  "level": 5,
+  "title": "Further divisions—paragraphs and subparagraphs"
+ },
+ {
+  "id": "group-into-parts-divisions-subdivisions",
+  "level": 5,
+  "title": "Group into Parts, Divisions, Subdivisions"
+ },
+ {
+  "id": "schedules",
+  "level": 5,
+  "title": "Schedules"
+ },
+ {
+  "id": "forms-of-clauses",
+  "level": 5,
+  "title": "Forms of clauses"
+ },
+ {
+  "id": "example-6",
+  "level": 5,
+  "title": "Example 6"
+ },
+ {
+  "id": "example-7",
+  "level": 5,
+  "title": "Example 7"
+ },
+ {
+  "id": "example-8",
+  "level": 5,
+  "title": "Example 8"
+ },
+ {
+  "id": "3-subsidiary-legislation",
+  "level": 2,
+  "title": "3 Subsidiary Legislation"
+ },
+ {
+  "id": "3-1-enabling-powers-general",
+  "level": 5,
+  "title": "3.1 Enabling Powers—General"
+ },
+ {
+  "id": "subsidiary-legislation-can-only-be-made-under-enabling-power",
+  "level": 5,
+  "title": "Subsidiary legislation can only be made under enabling power"
+ },
+ {
+  "id": "general-provisions-to-keep-in-view",
+  "level": 5,
+  "title": "General provisions to keep in view"
+ },
+ {
+  "id": "basic-law",
+  "level": 5,
+  "title": " Basic Law—"
+ },
+ {
+  "id": "interpretation-and-general-clauses-ordinance-cap-1-1",
+  "level": 5,
+  "title": " Interpretation and General Clauses Ordinance (Cap. 1)1—"
+ },
+ {
+  "id": "scope-vires",
+  "level": 5,
+  "title": "Scope (vires)"
+ },
+ {
+  "id": "essential-elements-of-enabling-provision",
+  "level": 5,
+  "title": "Essential elements of enabling provision"
+ },
+ {
+  "id": "name-instrument-in-enabling-provision",
+  "level": 5,
+  "title": "Name instrument in enabling provision"
+ },
+ {
+  "id": "name-only-one-kind-of-instrument",
+  "level": 5,
+  "title": "Name only one kind of instrument"
+ },
+ {
+  "id": "not-to-be-used",
+  "level": 5,
+  "title": "Not to be used"
+ },
+ {
+  "id": "regulations-rules-and-bylaws",
+  "level": 5,
+  "title": "Regulations, rules and bylaws"
+ },
+ {
+  "id": "example-1-3",
+  "level": 5,
+  "title": "Example 1"
+ },
+ {
+  "id": "example-2-3",
+  "level": 5,
+  "title": "Example 2"
+ },
+ {
+  "id": "example-3-3",
+  "level": 5,
+  "title": "Example 3"
+ },
+ {
+  "id": "orders-and-notices",
+  "level": 5,
+  "title": "Orders and notices"
+ },
+ {
+  "id": "example-4-2",
+  "level": 5,
+  "title": "Example 4"
+ },
+ {
+  "id": "enabling-power-subject-to-conditions",
+  "level": 5,
+  "title": "Enabling power subject to conditions"
+ },
+ {
+  "id": "example-5-2",
+  "level": 5,
+  "title": "Example 5"
+ },
+ {
+  "id": "example-6-2",
+  "level": 5,
+  "title": "Example 6"
+ },
+ {
+  "id": "prior-approval",
+  "level": 5,
+  "title": "Prior approval"
+ },
+ {
+  "id": "subject-to-approval",
+  "level": 5,
+  "title": "Subject to approval"
+ },
+ {
+  "id": "use-of-prescribe",
+  "level": 5,
+  "title": "Use of “prescribe”"
+ },
+ {
+  "id": "consultation-under-article-56-of-bl",
+  "level": 5,
+  "title": "Consultation under Article 56 of BL"
+ },
+ {
+  "id": "3-2-enabling-powers-specific-matters",
+  "level": 5,
+  "title": "3.2 Enabling Powers—Specific Matters"
+ },
+ {
+  "id": "differential-treatment",
+  "level": 5,
+  "title": "Differential treatment"
+ },
+ {
+  "id": "example-7-2",
+  "level": 5,
+  "title": "Example 7"
+ },
+ {
+  "id": "subdelegation",
+  "level": 5,
+  "title": "Subdelegation"
+ },
+ {
+  "id": "example-8-2",
+  "level": 5,
+  "title": "Example 8"
+ },
+ {
+  "id": "offences",
+  "level": 5,
+  "title": "Offences"
+ },
+ {
+  "id": "3-2-3",
+  "level": 5,
+  "title": "3.2.3"
+ },
+ {
+  "id": "example-9",
+  "level": 5,
+  "title": "Example 9"
+ },
+ {
+  "id": "example-10",
+  "level": 5,
+  "title": "Example 10"
+ },
+ {
+  "id": "fees",
+  "level": 5,
+  "title": "Fees"
+ },
+ {
+  "id": "variation-of-fees-under-section-29a-of-igco",
+  "level": 5,
+  "title": "Variation of fees under section 29A of IGCO"
+ },
+ {
+  "id": "3-3-provisions-for-scrutiny-by-legco",
+  "level": 5,
+  "title": "3.3 Provisions for Scrutiny by LegCo"
+ },
+ {
+  "id": "mechanisms-for-scrutiny",
+  "level": 5,
+  "title": "Mechanisms for scrutiny"
+ },
+ {
+  "id": "negative-vetting",
+  "level": 5,
+  "title": "Negative vetting"
+ },
+ {
+  "id": "positive-vetting",
+  "level": 5,
+  "title": "Positive vetting"
+ },
+ {
+  "id": "example-11",
+  "level": 5,
+  "title": "Example 11"
+ },
+ {
+  "id": "example-12",
+  "level": 5,
+  "title": "Example 12"
+ },
+ {
+  "id": "3-4-provisions-to-clarify-status-of-instrument",
+  "level": 5,
+  "title": "3.4 Provisions to Clarify Status of Instrument"
+ },
+ {
+  "id": "if-status-of-instrument-is-not-clear",
+  "level": 5,
+  "title": "If status of instrument is not clear"
+ },
+ {
+  "id": "example-13",
+  "level": 5,
+  "title": "Example 13"
+ },
+ {
+  "id": "example-14",
+  "level": 5,
+  "title": "Example 14"
+ },
+ {
+  "id": "3-5-instruments-of-subsidiary-legislation",
+  "level": 5,
+  "title": "3.5 Instruments of Subsidiary Legislation"
+ },
+ {
+  "id": "form-no-equivalent-of-legco-rule-50",
+  "level": 5,
+  "title": "Form—no equivalent of LegCo Rule 50"
+ },
+ {
+  "id": "regulations-orders-and-notices-nomenclature",
+  "level": 5,
+  "title": "Regulations, orders and notices—nomenclature"
+ },
+ {
+  "id": "rules-nomenclature",
+  "level": 5,
+  "title": "Rules—nomenclature"
+ },
+ {
+  "id": "bylaws-nomenclature",
+  "level": 5,
+  "title": "Bylaws—nomenclature"
+ },
+ {
+  "id": "resolutions-nomenclature",
+  "level": 5,
+  "title": "Resolutions—nomenclature"
+ },
+ {
+  "id": "language-of-subsidiary-legislation",
+  "level": 5,
+  "title": "Language of subsidiary legislation"
+ },
+ {
+  "id": "titles-of-subsidiary-legislation",
+  "level": 5,
+  "title": "Titles of subsidiary legislation"
+ },
+ {
+  "id": "3-5-7",
+  "level": 5,
+  "title": "3.5.7"
+ },
+ {
+  "id": "example-15",
+  "level": 5,
+  "title": "Example 15"
+ },
+ {
+  "id": "example-16",
+  "level": 5,
+  "title": "Example 16"
+ },
+ {
+  "id": "what-is-an-enacting-formula",
+  "level": 5,
+  "title": "What is an enacting formula"
+ },
+ {
+  "id": "enacting-formula-to-follow-language-of-enabling-provision",
+  "level": 5,
+  "title": "Enacting formula to follow language of enabling provision"
+ },
+ {
+  "id": "example-17",
+  "level": 5,
+  "title": "Example 17"
+ },
+ {
+  "id": "contents-of-enacting-formula",
+  "level": 5,
+  "title": "Contents of enacting formula"
+ },
+ {
+  "id": "example-18",
+  "level": 5,
+  "title": "Example 18"
+ },
+ {
+  "id": "example-19",
+  "level": 5,
+  "title": "Example 19"
+ },
+ {
+  "id": "examples-of-enacting-formulas",
+  "level": 5,
+  "title": "Examples of enacting formulas"
+ },
+ {
+  "id": "example-20",
+  "level": 5,
+  "title": "Example 20"
+ },
+ {
+  "id": "example-21",
+  "level": 5,
+  "title": "Example 21"
+ },
+ {
+  "id": "example-22",
+  "level": 5,
+  "title": "Example 22"
+ },
+ {
+  "id": "example-23",
+  "level": 5,
+  "title": "Example 23"
+ },
+ {
+  "id": "example-24",
+  "level": 5,
+  "title": "Example 24"
+ },
+ {
+  "id": "example-25",
+  "level": 5,
+  "title": "Example 25"
+ },
+ {
+  "id": "example-26",
+  "level": 5,
+  "title": "Example 26"
+ },
+ {
+  "id": "organization-of-subject-matter",
+  "level": 5,
+  "title": "Organization of subject matter"
+ },
+ {
+  "id": "explanatory-note",
+  "level": 5,
+  "title": "Explanatory Note"
+ },
+ {
+  "id": "table-of-contents-2",
+  "level": 5,
+  "title": "Table of Contents"
+ },
+ {
+  "id": "signature",
+  "level": 5,
+  "title": "Signature"
+ },
+ {
+  "id": "3-6-commencement-of-subsidiary-legislation",
+  "level": 5,
+  "title": "3.6 Commencement of Subsidiary Legislation"
+ },
+ {
+  "id": "section-28-3-4-and-5-of-igco",
+  "level": 5,
+  "title": "Section 28(3), (4) and (5) of IGCO"
+ },
+ {
+  "id": "commencement-on-specified-date-2",
+  "level": 5,
+  "title": "Commencement on specified date"
+ },
+ {
+  "id": "example-27",
+  "level": 5,
+  "title": "Example 27"
+ },
+ {
+  "id": "example-28",
+  "level": 5,
+  "title": "Example 28"
+ },
+ {
+  "id": "commencement-on-appointed-date",
+  "level": 5,
+  "title": "Commencement on appointed date"
+ },
+ {
+  "id": "example-29",
+  "level": 5,
+  "title": "Example 29"
+ },
+ {
+  "id": "mixed-commencement-provisions-2",
+  "level": 5,
+  "title": "Mixed commencement provisions"
+ },
+ {
+  "id": "no-retrospective-commencement",
+  "level": 5,
+  "title": "No retrospective commencement"
+ },
+ {
+  "id": "3-7-commencement-notices",
+  "level": 5,
+  "title": "3.7 Commencement Notices"
+ },
+ {
+  "id": "what-is-a-commencement-notice",
+  "level": 5,
+  "title": "What is a commencement notice"
+ },
+ {
+  "id": "standard-forms",
+  "level": 5,
+  "title": "Standard forms"
+ },
+ {
+  "id": "example-30-abc-ordinance-commencement-notice",
+  "level": 5,
+  "title": "Example 30 ABC Ordinance (Commencement) Notice"
+ },
+ {
+  "id": "example-31",
+  "level": 5,
+  "title": "Example 31"
+ },
+ {
+  "id": "example-32",
+  "level": 5,
+  "title": "Example 32"
+ },
+ {
+  "id": "example-33",
+  "level": 5,
+  "title": "Example 33"
+ },
+ {
+  "id": "example-34",
+  "level": 5,
+  "title": "Example 34"
+ },
+ {
+  "id": "example-35",
+  "level": 5,
+  "title": "Example 35"
+ },
+ {
+  "id": "example-36",
+  "level": 5,
+  "title": "Example 36"
+ },
+ {
+  "id": "example-37",
+  "level": 5,
+  "title": "Example 37"
+ },
+ {
+  "id": "3-8-resolutions-of-the-legislative-council",
+  "level": 5,
+  "title": "3.8 Resolutions of the Legislative Council"
+ },
+ {
+  "id": "4-organizational-matters",
+  "level": 2,
+  "title": "4 Organizational Matters"
+ },
+ {
+  "id": "4-1-rules-for-organization",
+  "level": 5,
+  "title": "4.1 Rules for Organization"
+ },
+ {
+  "id": "general-principles",
+  "level": 5,
+  "title": "General principles"
+ },
+ {
+  "id": "principal-vs-subsidiary-legislation",
+  "level": 5,
+  "title": "Principal vs subsidiary legislation"
+ },
+ {
+  "id": "main-provisions-vs-schedules",
+  "level": 5,
+  "title": "Main provisions vs Schedules"
+ },
+ {
+  "id": "sequence-of-provisions-ordinances",
+  "level": 5,
+  "title": "Sequence of provisions—Ordinances"
+ },
+ {
+  "id": "order-of-arrangement-subsidiary-legislation",
+  "level": 5,
+  "title": "Order of arrangement—subsidiary legislation"
+ },
+ {
+  "id": "division-into-sections-principal-legislation",
+  "level": 5,
+  "title": "Division into sections—principal legislation"
+ },
+ {
+  "id": "division-into-subsections",
+  "level": 5,
+  "title": "Division into subsections"
+ },
+ {
+  "id": "no-provisos",
+  "level": 5,
+  "title": "No provisos"
+ },
+ {
+  "id": "division-into-paragraphs-and-subparagraphs",
+  "level": 5,
+  "title": "Division into paragraphs and subparagraphs"
+ },
+ {
+  "id": "grouping-into-parts-divisions-and-subdivisions",
+  "level": 5,
+  "title": "Grouping into Parts, Divisions and Subdivisions"
+ },
+ {
+  "id": "no-arrangement-under-cross-headings",
+  "level": 5,
+  "title": "No arrangement under cross‐headings"
+ },
+ {
+  "id": "4-1-21",
+  "level": 5,
+  "title": "4.1.21"
+ },
+ {
+  "id": "schedules-2",
+  "level": 5,
+  "title": "Schedules"
+ },
+ {
+  "id": "4-2-numbering-of-provisions",
+  "level": 5,
+  "title": "4.2 Numbering of Provisions"
+ },
+ {
+  "id": "provisions-of-an-ordinance",
+  "level": 5,
+  "title": "Provisions of an Ordinance"
+ },
+ {
+  "id": "subsidiary-legislation-current-and-earlier-nomenclature",
+  "level": 5,
+  "title": "Subsidiary legislation—current and earlier nomenclature"
+ },
+ {
+  "id": "numbering-of-new-provisions",
+  "level": 5,
+  "title": "Numbering of new provisions"
+ },
+ {
+  "id": "4-3-numbering-of-parts-schedules-etc",
+  "level": 5,
+  "title": "4.3 Numbering of Parts, Schedules etc."
+ },
+ {
+  "id": "parts-divisions-subdivisions-and-schedules",
+  "level": 5,
+  "title": "Parts, Divisions, Subdivisions and Schedules"
+ },
+ {
+  "id": "example-1-4",
+  "level": 5,
+  "title": "Example 1"
+ },
+ {
+  "id": "4-4-paragraphing",
+  "level": 5,
+  "title": "4.4 Paragraphing"
+ },
+ {
+  "id": "object-of-paragraphing",
+  "level": 5,
+  "title": "Object of paragraphing"
+ },
+ {
+  "id": "introductory-words",
+  "level": 5,
+  "title": "Introductory words"
+ },
+ {
+  "id": "not-to-be-used-2",
+  "level": 5,
+  "title": "Not to be used"
+ },
+ {
+  "id": "paragraph-appropriately-and-grammatically",
+  "level": 5,
+  "title": "Paragraph appropriately and grammatically"
+ },
+ {
+  "id": "conjunctions-between-paragraphs",
+  "level": 5,
+  "title": "Conjunctions between paragraphs"
+ },
+ {
+  "id": "bilingualism-and-paragraphing",
+  "level": 5,
+  "title": "Bilingualism and paragraphing"
+ },
+ {
+  "id": "sandwich-clauses",
+  "level": 5,
+  "title": "Sandwich clauses"
+ },
+ {
+  "id": "example-2-4",
+  "level": 5,
+  "title": "Example 2"
+ },
+ {
+  "id": "two-series-of-paragraphs-in-one-sentence",
+  "level": 5,
+  "title": "Two series of paragraphs in one sentence"
+ },
+ {
+  "id": "not-to-be-used6",
+  "level": 5,
+  "title": "Not to be used6"
+ },
+ {
+  "id": "4-5-headings",
+  "level": 5,
+  "title": "4.5 Headings"
+ },
+ {
+  "id": "general",
+  "level": 5,
+  "title": "General"
+ },
+ {
+  "id": "section-headings",
+  "level": 5,
+  "title": "Section headings"
+ },
+ {
+  "id": "some-guidelines-for-drafting-headings",
+  "level": 5,
+  "title": "Some guidelines for drafting headings"
+ },
+ {
+  "id": "4-6-table-of-contents",
+  "level": 5,
+  "title": "4.6 Table of Contents"
+ },
+ {
+  "id": "example-3-4",
+  "level": 5,
+  "title": "Example 3"
+ },
+ {
+  "id": "5-interpretation-provisions",
+  "level": 2,
+  "title": "5 Interpretation Provisions"
+ },
+ {
+  "id": "5-1-definitions-of-general-application",
+  "level": 5,
+  "title": "5.1 Definitions of General Application"
+ },
+ {
+  "id": "definitions-in-igco",
+  "level": 5,
+  "title": "Definitions in IGCO"
+ },
+ {
+  "id": "section-31-of-igco",
+  "level": 5,
+  "title": "Section 31 of IGCO"
+ },
+ {
+  "id": "5-2-general-drafting-matters",
+  "level": 5,
+  "title": "5.2 General Drafting Matters"
+ },
+ {
+  "id": "group-together-in-general-provision",
+  "level": 5,
+  "title": "Group together in general provision"
+ },
+ {
+  "id": "example-1-5",
+  "level": 5,
+  "title": "Example 1"
+ },
+ {
+  "id": "definitions-in-schedule",
+  "level": 5,
+  "title": "Definitions in Schedule"
+ },
+ {
+  "id": "example-2-5",
+  "level": 5,
+  "title": "Example 2"
+ },
+ {
+  "id": "stand-alone-definitions",
+  "level": 5,
+  "title": "Stand‐alone definitions"
+ },
+ {
+  "id": "definitions-specific-to-a-part-etc",
+  "level": 5,
+  "title": "Definitions specific to a Part etc."
+ },
+ {
+  "id": "example-3-5",
+  "level": 5,
+  "title": "Example 3"
+ },
+ {
+  "id": "index-of-definitions",
+  "level": 5,
+  "title": "Index of definitions"
+ },
+ {
+  "id": "unless-the-context-otherwise-requires-no-longer-used",
+  "level": 5,
+  "title": "“Unless the context otherwise requires” no longer used"
+ },
+ {
+  "id": "use-a-different-defined-term",
+  "level": 5,
+  "title": "Use a different defined term"
+ },
+ {
+  "id": "example-4-3",
+  "level": 5,
+  "title": "Example 4"
+ },
+ {
+  "id": "example-5-3",
+  "level": 5,
+  "title": "Example 5"
+ },
+ {
+  "id": "arrangement-alphabetical-order-or-number-of-strokes",
+  "level": 5,
+  "title": "Arrangement—alphabetical order or number of strokes"
+ },
+ {
+  "id": "example-6-3",
+  "level": 5,
+  "title": "Example 6"
+ },
+ {
+  "id": "terms-unsuitable-for-chinese-text",
+  "level": 5,
+  "title": "Terms unsuitable for Chinese text"
+ },
+ {
+  "id": "do-not-use-means-and-includes",
+  "level": 5,
+  "title": "Do not use “means and includes”"
+ },
+ {
+  "id": "use-of-includes",
+  "level": 5,
+  "title": "Use of “includes”"
+ },
+ {
+  "id": "additional-guidelines",
+  "level": 5,
+  "title": "Additional guidelines"
+ },
+ {
+  "id": "5-3-definition-by-reference-to-another-definition",
+  "level": 5,
+  "title": "5.3 Definition by Reference to Another Definition"
+ },
+ {
+  "id": "avoid-unless-necessary",
+  "level": 5,
+  "title": "Avoid unless necessary"
+ },
+ {
+  "id": "cite-the-exact-provision",
+  "level": 5,
+  "title": "Cite the exact provision"
+ },
+ {
+  "id": "has-the-meaning-given-by",
+  "level": 5,
+  "title": "“has the meaning given by”"
+ },
+ {
+  "id": "example-7-3",
+  "level": 5,
+  "title": "Example 7"
+ },
+ {
+  "id": "has-the-same-meaning-as-in",
+  "level": 5,
+  "title": "“has the same meaning as in”"
+ },
+ {
+  "id": "5-3-4",
+  "level": 5,
+  "title": "5.3.4"
+ },
+ {
+  "id": "have-the-same-meaning-as-in",
+  "level": 5,
+  "title": "“have the same meaning as in”"
+ },
+ {
+  "id": "example-9-2",
+  "level": 5,
+  "title": "Example 9"
+ },
+ {
+  "id": "as-defined-by",
+  "level": 5,
+  "title": "“as defined by”"
+ },
+ {
+  "id": "example-10-2",
+  "level": 5,
+  "title": "Example 10"
+ },
+ {
+  "id": "example-11-2",
+  "level": 5,
+  "title": "Example 11"
+ },
+ {
+  "id": "example-12-2",
+  "level": 5,
+  "title": "Example 12"
+ },
+ {
+  "id": "within-the-meaning-of",
+  "level": 5,
+  "title": "“within the meaning of”"
+ },
+ {
+  "id": "example-13-2",
+  "level": 5,
+  "title": "Example 13"
+ },
+ {
+  "id": "example-14-2",
+  "level": 5,
+  "title": "Example 14"
+ },
+ {
+  "id": "example-15-2",
+  "level": 5,
+  "title": "Example 15"
+ },
+ {
+  "id": "referring-to-a-definition",
+  "level": 5,
+  "title": "Referring to a definition"
+ },
+ {
+  "id": "5-4-types-of-definitions",
+  "level": 5,
+  "title": "5.4 Types of Definitions"
+ },
+ {
+  "id": "different-interpretative-devices",
+  "level": 5,
+  "title": "Different interpretative devices"
+ },
+ {
+  "id": "standard-definitions",
+  "level": 5,
+  "title": "Standard definitions"
+ },
+ {
+  "id": "referential-definitions",
+  "level": 5,
+  "title": "Referential definitions"
+ },
+ {
+  "id": "not-to-be-used-3",
+  "level": 5,
+  "title": "Not to be used"
+ },
+ {
+  "id": "tag-definitions",
+  "level": 5,
+  "title": "Tag‐definitions"
+ },
+ {
+  "id": "signpost-definitions",
+  "level": 5,
+  "title": "Signpost definitions"
+ },
+ {
+  "id": "example-16-2",
+  "level": 5,
+  "title": "Example 16"
+ },
+ {
+  "id": "5-5-format-of-definitions",
+  "level": 5,
+  "title": "5.5 Format of Definitions"
+ },
+ {
+  "id": "use-bold-italics",
+  "level": 5,
+  "title": "Use bold italics"
+ },
+ {
+  "id": "6-offences-penalties-and-defences",
+  "level": 2,
+  "title": "6 Offences, Penalties and Defences"
+ },
+ {
+  "id": "6-1-general-matters",
+  "level": 5,
+  "title": "6.1 General Matters"
+ },
+ {
+  "id": "enforcing-legislation",
+  "level": 5,
+  "title": "Enforcing legislation"
+ },
+ {
+  "id": "is-an-offence-appropriate",
+  "level": 5,
+  "title": "Is an offence appropriate"
+ },
+ {
+  "id": "constitutional-and-bor-provisions",
+  "level": 5,
+  "title": "Constitutional and BOR provisions"
+ },
+ {
+  "id": "fundamental-principles-of-common-law",
+  "level": 5,
+  "title": "Fundamental principles of common law"
+ },
+ {
+  "id": "general-provisions",
+  "level": 5,
+  "title": "General provisions"
+ },
+ {
+  "id": "6-2-form-and-style-of-offences-and-defences",
+  "level": 5,
+  "title": "6.2 Form and Style of Offences and Defences"
+ },
+ {
+  "id": "basic-components-of-offence-provisions",
+  "level": 5,
+  "title": "Basic components of offence provisions"
+ },
+ {
+  "id": "constituent-elements-of-offence",
+  "level": 5,
+  "title": "Constituent elements of offence"
+ },
+ {
+  "id": "6-2-2",
+  "level": 5,
+  "title": "6.2.2"
+ },
+ {
+  "id": "physical-elements",
+  "level": 5,
+  "title": "Physical elements"
+ },
+ {
+  "id": "mental-elements",
+  "level": 5,
+  "title": "Mental elements"
+ },
+ {
+  "id": "forms-of-offence-provisions",
+  "level": 5,
+  "title": "Forms of offence provisions"
+ },
+ {
+  "id": "example-1-6",
+  "level": 5,
+  "title": "Example 1"
+ },
+ {
+  "id": "example-2-6",
+  "level": 5,
+  "title": "Example 2"
+ },
+ {
+  "id": "example-3-6",
+  "level": 5,
+  "title": "Example 3"
+ },
+ {
+  "id": "example-4-4",
+  "level": 5,
+  "title": "Example 4"
+ },
+ {
+  "id": "example-5-4",
+  "level": 5,
+  "title": "Example 5"
+ },
+ {
+  "id": "example-6-4",
+  "level": 5,
+  "title": "Example 6"
+ },
+ {
+  "id": "actor-not-specified-in-offence-provision",
+  "level": 5,
+  "title": "Actor not specified in offence provision"
+ },
+ {
+  "id": "example-7-4",
+  "level": 5,
+  "title": "Example 7"
+ },
+ {
+  "id": "additional-drafting-guidelines",
+  "level": 5,
+  "title": "Additional drafting guidelines"
+ },
+ {
+  "id": "not-to-be-used-4",
+  "level": 5,
+  "title": "Not to be used"
+ },
+ {
+  "id": "application-of-offence-provisions",
+  "level": 5,
+  "title": "Application of offence provisions"
+ },
+ {
+  "id": "offences-without-express-mental-element",
+  "level": 5,
+  "title": "Offences without express mental element"
+ },
+ {
+  "id": "drafting-strict-liability-or-absolute-liability-offences12",
+  "level": 5,
+  "title": "Drafting strict liability or absolute liability offences12"
+ },
+ {
+  "id": "burden-and-standard-of-proof",
+  "level": 5,
+  "title": "Burden and standard of proof"
+ },
+ {
+  "id": "proof-on-balance-of-probabilities",
+  "level": 5,
+  "title": "Proof on balance of probabilities"
+ },
+ {
+  "id": "evidential-burden",
+  "level": 5,
+  "title": "Evidential burden"
+ },
+ {
+  "id": "example-8-3",
+  "level": 5,
+  "title": "Example 8"
+ },
+ {
+  "id": "use-general-defences-cautiously",
+  "level": 5,
+  "title": "Use general defences cautiously"
+ },
+ {
+  "id": "defences-and-negative-averments",
+  "level": 5,
+  "title": "Defences and negative averments"
+ },
+ {
+  "id": "example-9-3",
+  "level": 5,
+  "title": "Example 9"
+ },
+ {
+  "id": "6-3-classification-of-offences",
+  "level": 5,
+  "title": "6.3 Classification of Offences"
+ },
+ {
+  "id": "two-types-of-offences",
+  "level": 5,
+  "title": "Two types of offences"
+ },
+ {
+  "id": "how-to-create-indictable-offences",
+  "level": 5,
+  "title": "How to create indictable offences"
+ },
+ {
+  "id": "how-to-create-summary-offences",
+  "level": 5,
+  "title": "How to create summary offences"
+ },
+ {
+  "id": "example-10-3",
+  "level": 5,
+  "title": "Example 10"
+ },
+ {
+  "id": "offences-triable-on-indictment-or-summarily",
+  "level": 5,
+  "title": "Offences triable on indictment or summarily"
+ },
+ {
+  "id": "example-11-3",
+  "level": 5,
+  "title": "Example 11"
+ },
+ {
+  "id": "6-4-limitation-periods-for-prosecutions",
+  "level": 5,
+  "title": "6.4 Limitation Periods for Prosecutions"
+ },
+ {
+  "id": "indictable-offences",
+  "level": 5,
+  "title": "Indictable offences"
+ },
+ {
+  "id": "summary-offences",
+  "level": 5,
+  "title": "Summary offences"
+ },
+ {
+  "id": "provisions-extending-or-restricting-periods-for-prosecution",
+  "level": 5,
+  "title": "Provisions extending or restricting periods for prosecution"
+ },
+ {
+  "id": "if-offence-is-triable-on-indictment-or-summarily",
+  "level": 5,
+  "title": "If offence is triable on indictment or summarily"
+ },
+ {
+  "id": "to-extend-period-of-limitation",
+  "level": 5,
+  "title": "To extend period of limitation"
+ },
+ {
+  "id": "example-12-3",
+  "level": 5,
+  "title": "Example 12"
+ },
+ {
+  "id": "6-5-penalties",
+  "level": 5,
+  "title": "6.5 Penalties"
+ },
+ {
+  "id": "general-provisions-in-cpo",
+  "level": 5,
+  "title": "General provisions in CPO"
+ },
+ {
+  "id": "levels-of-fines",
+  "level": 5,
+  "title": "Levels of fines"
+ },
+ {
+  "id": "amendment-of-fines-by-resolution",
+  "level": 5,
+  "title": "Amendment of fines by resolution"
+ },
+ {
+  "id": "form-and-style-of-penalty-provision",
+  "level": 5,
+  "title": "Form and style of penalty provision"
+ },
+ {
+  "id": "example-13-3",
+  "level": 5,
+  "title": "Example 13"
+ },
+ {
+  "id": "example-14-3",
+  "level": 5,
+  "title": "Example 14"
+ },
+ {
+  "id": "penalties-for-subsequent-offences",
+  "level": 5,
+  "title": "Penalties for subsequent offences"
+ },
+ {
+  "id": "example-15-3",
+  "level": 5,
+  "title": "Example 15"
+ },
+ {
+  "id": "penalties-for-continuing-offences",
+  "level": 5,
+  "title": "Penalties for continuing offences"
+ },
+ {
+  "id": "example-16-3",
+  "level": 5,
+  "title": "Example 16"
+ },
+ {
+  "id": "7-final-provisions",
+  "level": 2,
+  "title": "7 Final Provisions"
+ },
+ {
+  "id": "7-1-savings-and-transitional-provisions",
+  "level": 5,
+  "title": "7.1 Savings and Transitional Provisions"
+ },
+ {
+  "id": "need-for-savings-and-transitionals",
+  "level": 5,
+  "title": "Need for savings and transitionals"
+ },
+ {
+  "id": "subsidiary-legislation-whether-within-power",
+  "level": 5,
+  "title": "Subsidiary legislation—whether within power"
+ },
+ {
+  "id": "grandfathering-arrangements",
+  "level": 5,
+  "title": "Grandfathering arrangements"
+ },
+ {
+  "id": "section-23-of-igco",
+  "level": 5,
+  "title": "Section 23 of IGCO"
+ },
+ {
+  "id": "other-relevant-matters",
+  "level": 5,
+  "title": "Other relevant matters"
+ },
+ {
+  "id": "amendment-of-penalty",
+  "level": 5,
+  "title": "Amendment of penalty"
+ },
+ {
+  "id": "inclusion-in-principal-enactment",
+  "level": 5,
+  "title": "Inclusion in principal enactment"
+ },
+ {
+  "id": "when-to-include-in-amending-enactment",
+  "level": 5,
+  "title": "When to include in amending enactment"
+ },
+ {
+  "id": "specific-guidelines-for-location",
+  "level": 5,
+  "title": "Specific guidelines for location"
+ },
+ {
+  "id": "headings-of-savings-and-transitional-provisions",
+  "level": 5,
+  "title": "Headings of savings and transitional provisions"
+ },
+ {
+  "id": "providing-by-subsidiary-legislation",
+  "level": 5,
+  "title": "Providing by subsidiary legislation"
+ },
+ {
+  "id": "amending-or-repealing-savings-and-transitional-provisions",
+  "level": 5,
+  "title": "Amending or repealing savings and transitional provisions"
+ },
+ {
+  "id": "7-2-schedules",
+  "level": 5,
+  "title": "7.2 Schedules"
+ },
+ {
+  "id": "use-of-schedules",
+  "level": 5,
+  "title": "Use of Schedules"
+ },
+ {
+  "id": "wording-to-be-consistent",
+  "level": 5,
+  "title": "Wording to be consistent"
+ },
+ {
+  "id": "linking-the-schedule",
+  "level": 5,
+  "title": "Linking the Schedule"
+ },
+ {
+  "id": "example-1-7",
+  "level": 5,
+  "title": "Example 1"
+ },
+ {
+  "id": "example-2-7",
+  "level": 5,
+  "title": "Example 2"
+ },
+ {
+  "id": "schedule-to-and-not-of",
+  "level": 5,
+  "title": "Schedule “to” and not “of”"
+ },
+ {
+  "id": "external-and-internal-cross-references",
+  "level": 5,
+  "title": "External and internal cross‐references"
+ },
+ {
+  "id": "avoid-excessive-cross-referencing",
+  "level": 5,
+  "title": "Avoid excessive cross‐referencing"
+ },
+ {
+  "id": "use-arabic-numerals-in-numbering",
+  "level": 5,
+  "title": "Use Arabic numerals in numbering"
+ },
+ {
+  "id": "linking-provisions-to-be-cited",
+  "level": 5,
+  "title": "Linking provisions to be cited"
+ },
+ {
+  "id": "example-3-7",
+  "level": 5,
+  "title": "Example 3"
+ },
+ {
+  "id": "form-depends-on-contents",
+  "level": 5,
+  "title": "Form depends on contents"
+ },
+ {
+  "id": "arrangement-of-contents",
+  "level": 5,
+  "title": "Arrangement of contents"
+ },
+ {
+  "id": "listing-and-numbering-of-contents",
+  "level": 5,
+  "title": "Listing and numbering of contents"
+ },
+ {
+  "id": "prescribed-forms",
+  "level": 5,
+  "title": "Prescribed forms"
+ },
+ {
+  "id": "8-explanatory-information",
+  "level": 2,
+  "title": "8 Explanatory Information"
+ },
+ {
+  "id": "8-1-explanatory-memorandum-and-explanatory-note",
+  "level": 5,
+  "title": "8.1 Explanatory Memorandum and Explanatory Note"
+ },
+ {
+  "id": "explanatory-memorandum-legco-rule-50-7",
+  "level": 5,
+  "title": "Explanatory Memorandum—LegCo Rule 50(7)"
+ },
+ {
+  "id": "purpose-of-explanatory-memorandum",
+  "level": 5,
+  "title": "Purpose of Explanatory Memorandum"
+ },
+ {
+  "id": "explanatory-note-no-equivalent-of-legco-rule-50-7",
+  "level": 5,
+  "title": "Explanatory Note—no equivalent of LegCo Rule 50(7)"
+ },
+ {
+  "id": "explanatory-information-to-be-accurate",
+  "level": 5,
+  "title": "Explanatory information to be accurate"
+ },
+ {
+  "id": "judicial-observations-on-explanatory-memorandum",
+  "level": 5,
+  "title": "Judicial observations on Explanatory Memorandum"
+ },
+ {
+  "id": "rulings-on-scope",
+  "level": 5,
+  "title": "Rulings on scope"
+ },
+ {
+  "id": "8-2-drafting-guidelines",
+  "level": 5,
+  "title": "8.2 Drafting Guidelines"
+ },
+ {
+  "id": "guidelines",
+  "level": 5,
+  "title": "Guidelines"
+ },
+ {
+  "id": "9-plain-language-and",
+  "level": 2,
+  "title": "9 Plain Language and"
+ },
+ {
+  "id": "genderneutral-drafting",
+  "level": 3,
+  "title": "GenderNeutral Drafting"
+ },
+ {
+  "id": "9-1-plain-language-drafting",
+  "level": 5,
+  "title": "9.1 Plain Language Drafting"
+ },
+ {
+  "id": "description-of-plain-language",
+  "level": 5,
+  "title": "Description of plain language"
+ },
+ {
+  "id": "write-easily-understandable-text",
+  "level": 5,
+  "title": "Write easily understandable text"
+ },
+ {
+  "id": "sentence-length",
+  "level": 5,
+  "title": "Sentence length"
+ },
+ {
+  "id": "one-sentence-per-clause-or-subclause",
+  "level": 5,
+  "title": "One sentence per clause or subclause"
+ },
+ {
+  "id": "minimize-cross-references",
+  "level": 5,
+  "title": "Minimize cross‐references"
+ },
+ {
+  "id": "9-2-use-of-shall-discontinued",
+  "level": 5,
+  "title": "9.2 Use of “Shall” Discontinued"
+ },
+ {
+  "id": "shall-not-to-be-used",
+  "level": 5,
+  "title": "“Shall” not to be used"
+ },
+ {
+  "id": "substitutes-for-shall",
+  "level": 5,
+  "title": "Substitutes for “shall”"
+ },
+ {
+  "id": "certain-purposes-use-only-must-and-must-not",
+  "level": 5,
+  "title": "Certain purposes—use only “must” and “must not”"
+ },
+ {
+  "id": "other-purposes-choose-words-to-suit-desired-effect-and-conte",
+  "level": 5,
+  "title": "Other purposes—choose words to suit desired effect and context"
+ },
+ {
+  "id": "obligations-with-sanction",
+  "level": 5,
+  "title": "Obligations with sanction"
+ },
+ {
+  "id": "example-1-8",
+  "level": 5,
+  "title": "Example 1"
+ },
+ {
+  "id": "example-2-8",
+  "level": 5,
+  "title": "Example 2"
+ },
+ {
+  "id": "prohibitions-with-sanction",
+  "level": 5,
+  "title": "Prohibitions with sanction"
+ },
+ {
+  "id": "example-3-8",
+  "level": 5,
+  "title": "Example 3"
+ },
+ {
+  "id": "example-4-5",
+  "level": 5,
+  "title": "Example 4"
+ },
+ {
+  "id": "example-5-5",
+  "level": 5,
+  "title": "Example 5"
+ },
+ {
+  "id": "other-substitutes-for-shall",
+  "level": 5,
+  "title": "Other substitutes for “shall”"
+ },
+ {
+  "id": "statutory-duty-with-no-statutory-penalty",
+  "level": 5,
+  "title": "Statutory duty with no statutory penalty"
+ },
+ {
+  "id": "example-6-5",
+  "level": 5,
+  "title": "Example 6"
+ },
+ {
+  "id": "example-7-5",
+  "level": 5,
+  "title": "Example 7"
+ },
+ {
+  "id": "example-8-4",
+  "level": 5,
+  "title": "Example 8"
+ },
+ {
+  "id": "statutory-directions-and-limitations",
+  "level": 5,
+  "title": "Statutory directions and limitations"
+ },
+ {
+  "id": "example-9-4",
+  "level": 5,
+  "title": "Example 9"
+ },
+ {
+  "id": "example-10-4",
+  "level": 5,
+  "title": "Example 10"
+ },
+ {
+  "id": "example-11-4",
+  "level": 5,
+  "title": "Example 11"
+ },
+ {
+  "id": "example-12-4",
+  "level": 5,
+  "title": "Example 12"
+ },
+ {
+  "id": "example-13-4",
+  "level": 5,
+  "title": "Example 13"
+ },
+ {
+  "id": "example-14-4",
+  "level": 5,
+  "title": "Example 14"
+ },
+ {
+  "id": "example-15-4",
+  "level": 5,
+  "title": "Example 15"
+ },
+ {
+  "id": "example-16-4",
+  "level": 5,
+  "title": "Example 16"
+ },
+ {
+  "id": "example-17-2",
+  "level": 5,
+  "title": "Example 17"
+ },
+ {
+  "id": "example-18-2",
+  "level": 5,
+  "title": "Example 18"
+ },
+ {
+  "id": "specifying-statutory-conditions",
+  "level": 5,
+  "title": "Specifying statutory conditions"
+ },
+ {
+  "id": "example-19-2",
+  "level": 5,
+  "title": "Example 19"
+ },
+ {
+  "id": "example-20-2",
+  "level": 5,
+  "title": "Example 20"
+ },
+ {
+  "id": "example-21-2",
+  "level": 5,
+  "title": "Example 21"
+ },
+ {
+  "id": "example-22-2",
+  "level": 5,
+  "title": "Example 22"
+ },
+ {
+  "id": "declaratory-provisions",
+  "level": 5,
+  "title": "Declaratory provisions"
+ },
+ {
+  "id": "example-23-2",
+  "level": 5,
+  "title": "Example 23"
+ },
+ {
+  "id": "example-24-not-to-be-used",
+  "level": 5,
+  "title": "Example 24 Not to be used"
+ },
+ {
+  "id": "example-25-2",
+  "level": 5,
+  "title": "Example 25"
+ },
+ {
+  "id": "example-26-not-to-be-used",
+  "level": 5,
+  "title": "Example 26 Not to be used"
+ },
+ {
+  "id": "commencement-provisions",
+  "level": 5,
+  "title": "Commencement provisions"
+ },
+ {
+  "id": "new-principal-bills-and-subsidiary-legislation",
+  "level": 5,
+  "title": "New principal Bills and subsidiary legislation"
+ },
+ {
+  "id": "amending-bills-and-subsidiary-legislation",
+  "level": 5,
+  "title": "Amending Bills and subsidiary legislation"
+ },
+ {
+  "id": "guidelines-for-use-in-amending-enactments",
+  "level": 5,
+  "title": "Guidelines for use in amending enactments"
+ },
+ {
+  "id": "9-3-gender-neutral-drafting",
+  "level": 5,
+  "title": "9.3 Gender‐Neutral Drafting"
+ },
+ {
+  "id": "more-appropriate-in-modern-society",
+  "level": 5,
+  "title": "More appropriate in modern society"
+ },
+ {
+  "id": "9-3-1",
+  "level": 5,
+  "title": "9.3.1"
+ },
+ {
+  "id": "more-compatible-with-plain-language",
+  "level": 5,
+  "title": "More compatible with plain language"
+ },
+ {
+  "id": "use-in-all-new-principal-legislation",
+  "level": 5,
+  "title": "Use in all new principal legislation"
+ },
+ {
+  "id": "how-to-use-in-amending-legislation",
+  "level": 5,
+  "title": "How to use in amending legislation"
+ },
+ {
+  "id": "different-techniques-can-be-used",
+  "level": 5,
+  "title": "Different techniques can be used"
+ },
+ {
+  "id": "repeat-noun-neutral",
+  "level": 5,
+  "title": "Repeat noun (neutral)"
+ },
+ {
+  "id": "example-27-2",
+  "level": 5,
+  "title": "Example 27"
+ },
+ {
+  "id": "avoid-using-pronoun-noun",
+  "level": 5,
+  "title": "Avoid using pronoun/noun"
+ },
+ {
+  "id": "example-28-2",
+  "level": 5,
+  "title": "Example 28"
+ },
+ {
+  "id": "use-relative-clause",
+  "level": 5,
+  "title": "Use relative clause"
+ },
+ {
+  "id": "example-29-2",
+  "level": 5,
+  "title": "Example 29"
+ },
+ {
+  "id": "replace-possessive-pronoun",
+  "level": 5,
+  "title": "Replace possessive pronoun"
+ },
+ {
+  "id": "example-30",
+  "level": 5,
+  "title": "Example 30"
+ },
+ {
+  "id": "eliminate-pronoun-altogether",
+  "level": 5,
+  "title": "Eliminate pronoun altogether"
+ },
+ {
+  "id": "example-31-2",
+  "level": 5,
+  "title": "Example 31"
+ },
+ {
+  "id": "example-32-2",
+  "level": 5,
+  "title": "Example 32"
+ },
+ {
+  "id": "example-33-2",
+  "level": 5,
+  "title": "Example 33"
+ },
+ {
+  "id": "use-both-pronouns-he-or-she-his-or-her",
+  "level": 5,
+  "title": "Use both pronouns—“he or she”/“his or her”"
+ },
+ {
+  "id": "example-34-2",
+  "level": 5,
+  "title": "Example 34"
+ },
+ {
+  "id": "redraft-in-passive-voice-or-swap-the-order-of-subject-and-ob",
+  "level": 5,
+  "title": "Redraft in passive voice or swap the order of subject and object"
+ },
+ {
+  "id": "example-35-2",
+  "level": 5,
+  "title": "Example 35"
+ },
+ {
+  "id": "use-verb-instead-of-noun",
+  "level": 5,
+  "title": "Use verb instead of noun"
+ },
+ {
+  "id": "example-36-2",
+  "level": 5,
+  "title": "Example 36"
+ },
+ {
+  "id": "draft-in-the-plural",
+  "level": 5,
+  "title": "Draft in the plural"
+ },
+ {
+  "id": "example-37-2",
+  "level": 5,
+  "title": "Example 37"
+ },
+ {
+  "id": "use-plural-pronoun",
+  "level": 5,
+  "title": "Use plural pronoun"
+ },
+ {
+  "id": "example-38",
+  "level": 5,
+  "title": "Example 38"
+ },
+ {
+  "id": "gender-neutral-job-titles-etc",
+  "level": 5,
+  "title": "Gender‐neutral job titles etc."
+ },
+ {
+  "id": "instead-of-consider",
+  "level": 5,
+  "title": "Instead of Consider"
+ },
+ {
+  "id": "instead-of-consider-2",
+  "level": 5,
+  "title": "Instead of Consider"
+ },
+ {
+  "id": "9-4-reader-s-aids",
+  "level": 5,
+  "title": "9.4 Reader’s Aids"
+ },
+ {
+  "id": "devices-to-assist-reader",
+  "level": 5,
+  "title": "Devices to assist reader"
+ },
+ {
+  "id": "use-in-moderation",
+  "level": 5,
+  "title": "Use in moderation"
+ },
+ {
+  "id": "notes-widely-used",
+  "level": 5,
+  "title": "Notes widely used"
+ },
+ {
+  "id": "where-to-put-notes",
+  "level": 5,
+  "title": "Where to put notes"
+ },
+ {
+  "id": "status-clause",
+  "level": 5,
+  "title": "Status clause"
+ },
+ {
+  "id": "example-39",
+  "level": 5,
+  "title": "Example 39"
+ },
+ {
+  "id": "examples",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "purpose-clause-or-objects-clause",
+  "level": 5,
+  "title": "Purpose clause or objects clause"
+ },
+ {
+  "id": "which-term-to-use",
+  "level": 5,
+  "title": "Which term to use"
+ },
+ {
+  "id": "where-to-place-purpose-clause-or-objects-clause",
+  "level": 5,
+  "title": "Where to place purpose clause or objects clause"
+ },
+ {
+  "id": "draft-in-broad-terms",
+  "level": 5,
+  "title": "Draft in broad terms"
+ },
+ {
+  "id": "10-spelling-and-terminology",
+  "level": 2,
+  "title": "10 Spelling and Terminology"
+ },
+ {
+  "id": "10-1-spelling",
+  "level": 5,
+  "title": "10.1 Spelling"
+ },
+ {
+  "id": "follow-oed-spelling",
+  "level": 5,
+  "title": "Follow OED spelling"
+ },
+ {
+  "id": "use-english-not-latin-plurals",
+  "level": 5,
+  "title": "Use English not Latin plurals"
+ },
+ {
+  "id": "standardized-spelling",
+  "level": 5,
+  "title": "Standardized spelling"
+ },
+ {
+  "id": "capitals",
+  "level": 5,
+  "title": "Capitals"
+ },
+ {
+  "id": "10-2-archaic-language",
+  "level": 5,
+  "title": "10.2 Archaic Language"
+ },
+ {
+  "id": "archaic-terminology",
+  "level": 5,
+  "title": "Archaic terminology"
+ },
+ {
+  "id": "example-1-9",
+  "level": 5,
+  "title": "Example 1"
+ },
+ {
+  "id": "example-2-9",
+  "level": 5,
+  "title": "Example 2"
+ },
+ {
+  "id": "example-3-9",
+  "level": 5,
+  "title": "Example 3"
+ },
+ {
+  "id": "example-4-6",
+  "level": 5,
+  "title": "Example 4"
+ },
+ {
+  "id": "example-5-6",
+  "level": 5,
+  "title": "Example 5"
+ },
+ {
+  "id": "example-6-6",
+  "level": 5,
+  "title": "Example 6"
+ },
+ {
+  "id": "example-7-6",
+  "level": 5,
+  "title": "Example 7"
+ },
+ {
+  "id": "example-8-5",
+  "level": 5,
+  "title": "Example 8"
+ },
+ {
+  "id": "example-9-5",
+  "level": 5,
+  "title": "Example 9"
+ },
+ {
+  "id": "example-10-5",
+  "level": 5,
+  "title": "Example 10"
+ },
+ {
+  "id": "example-11-5",
+  "level": 5,
+  "title": "Example 11"
+ },
+ {
+  "id": "example-12-5",
+  "level": 5,
+  "title": "Example 12"
+ },
+ {
+  "id": "example-13-5",
+  "level": 5,
+  "title": "Example 13"
+ },
+ {
+  "id": "example-14-5",
+  "level": 5,
+  "title": "Example 14"
+ },
+ {
+  "id": "example-15-5",
+  "level": 5,
+  "title": "Example 15"
+ },
+ {
+  "id": "example-16-5",
+  "level": 5,
+  "title": "Example 16"
+ },
+ {
+  "id": "example-17-3",
+  "level": 5,
+  "title": "Example 17"
+ },
+ {
+  "id": "howsoever",
+  "level": 5,
+  "title": "“howsoever”"
+ },
+ {
+  "id": "example-18-3",
+  "level": 5,
+  "title": "Example 18"
+ },
+ {
+  "id": "same",
+  "level": 5,
+  "title": "“same”"
+ },
+ {
+  "id": "example-19-3",
+  "level": 5,
+  "title": "Example 19"
+ },
+ {
+  "id": "example-20-3",
+  "level": 5,
+  "title": "Example 20"
+ },
+ {
+  "id": "example-21-3",
+  "level": 5,
+  "title": "Example 21"
+ },
+ {
+  "id": "save",
+  "level": 5,
+  "title": "“save”"
+ },
+ {
+  "id": "example-22-3",
+  "level": 5,
+  "title": "Example 22"
+ },
+ {
+  "id": "example-23-3",
+  "level": 5,
+  "title": "Example 23"
+ },
+ {
+  "id": "example-24-2",
+  "level": 5,
+  "title": "Example 24"
+ },
+ {
+  "id": "example-25-3",
+  "level": 5,
+  "title": "Example 25"
+ },
+ {
+  "id": "example-26-2",
+  "level": 5,
+  "title": "Example 26"
+ },
+ {
+  "id": "example-27-3",
+  "level": 5,
+  "title": "Example 27"
+ },
+ {
+  "id": "10-3-words-and-expressions-to-be-used-with-caution",
+  "level": 5,
+  "title": "10.3 Words and Expressions to be Used with Caution"
+ },
+ {
+  "id": "any-all-each-and-every",
+  "level": 5,
+  "title": "“any”, “all”, “each” and “every”"
+ },
+ {
+  "id": "example-28-3",
+  "level": 5,
+  "title": "Example 28"
+ },
+ {
+  "id": "example-29-3",
+  "level": 5,
+  "title": "Example 29"
+ },
+ {
+  "id": "example-30-2",
+  "level": 5,
+  "title": "Example 30"
+ },
+ {
+  "id": "as-the-case-may-be",
+  "level": 5,
+  "title": "“as the case may be”"
+ },
+ {
+  "id": "as-the-case-may-require-etc",
+  "level": 5,
+  "title": "“as the case may require” etc."
+ },
+ {
+  "id": "cause-to-be",
+  "level": 5,
+  "title": "“cause to be …”"
+ },
+ {
+  "id": "commencing-on",
+  "level": 5,
+  "title": "“commencing on”"
+ },
+ {
+  "id": "contravene",
+  "level": 5,
+  "title": "“contravene”"
+ },
+ {
+  "id": "day-next-preceding-and-day-next-following",
+  "level": 5,
+  "title": "“day next preceding” and “day next following”"
+ },
+ {
+  "id": "existing-before-and-after",
+  "level": 5,
+  "title": "“existing”, “before” and “after”"
+ },
+ {
+  "id": "expiration",
+  "level": 5,
+  "title": "“expiration”"
+ },
+ {
+  "id": "foregoing",
+  "level": 5,
+  "title": "“foregoing”"
+ },
+ {
+  "id": "for-the-avoidance-of-doubt",
+  "level": 5,
+  "title": "“for the avoidance of doubt”"
+ },
+ {
+  "id": "for-the-purposes-of",
+  "level": 5,
+  "title": "“for the purposes of …”"
+ },
+ {
+  "id": "if-and-only-if",
+  "level": 5,
+  "title": "“if and only if”"
+ },
+ {
+  "id": "including-but-not-limited-to",
+  "level": 5,
+  "title": "“including but not limited to”"
+ },
+ {
+  "id": "in-a-case-in-the-case-of-and-in-the-case-where-4",
+  "level": 5,
+  "title": "“in a case”, “in the case of ... ” and “in the case where”4"
+ },
+ {
+  "id": "example-31-3",
+  "level": 5,
+  "title": "Example 31"
+ },
+ {
+  "id": "example-32-3",
+  "level": 5,
+  "title": "Example 32"
+ },
+ {
+  "id": "example-33-3",
+  "level": 5,
+  "title": "Example 33"
+ },
+ {
+  "id": "example-34-3",
+  "level": 5,
+  "title": "Example 34"
+ },
+ {
+  "id": "example-35-3",
+  "level": 5,
+  "title": "Example 35"
+ },
+ {
+  "id": "it-is-declared",
+  "level": 5,
+  "title": "“it is declared”"
+ },
+ {
+  "id": "example-36-3",
+  "level": 5,
+  "title": "Example 36"
+ },
+ {
+  "id": "it-is-the-duty-of-and-it-is-lawful-for",
+  "level": 5,
+  "title": "“it is the duty of” and “it is lawful for”"
+ },
+ {
+  "id": "less-than-more-than-and-similar-words-and-phrases",
+  "level": 5,
+  "title": "“less than”, “more than” and similar words and phrases"
+ },
+ {
+  "id": "notwithstanding",
+  "level": 5,
+  "title": "“notwithstanding”"
+ },
+ {
+  "id": "prima-facie",
+  "level": 5,
+  "title": "“prima facie”"
+ },
+ {
+  "id": "10-3-20",
+  "level": 5,
+  "title": "10.3.20"
+ },
+ {
+  "id": "such",
+  "level": 5,
+  "title": "“such”"
+ },
+ {
+  "id": "example-37-3",
+  "level": 5,
+  "title": "Example 37"
+ },
+ {
+  "id": "example-38-2",
+  "level": 5,
+  "title": "Example 38"
+ },
+ {
+  "id": "example-39-2",
+  "level": 5,
+  "title": "Example 39"
+ },
+ {
+  "id": "example-40",
+  "level": 5,
+  "title": "Example 40"
+ },
+ {
+  "id": "example-41",
+  "level": 5,
+  "title": "Example 41"
+ },
+ {
+  "id": "under-and-in-accordance-with",
+  "level": 5,
+  "title": "“under and in accordance with”"
+ },
+ {
+  "id": "unless-and-until",
+  "level": 5,
+  "title": "“unless and until”"
+ },
+ {
+  "id": "upon",
+  "level": 5,
+  "title": "“upon”"
+ },
+ {
+  "id": "upon-the-expiration-of",
+  "level": 5,
+  "title": "“upon the expiration of”"
+ },
+ {
+  "id": "without-limiting-the-generality-of-and-without-affecting-the",
+  "level": 5,
+  "title": "“without limiting the generality of” and “without affecting the generality of”"
+ },
+ {
+  "id": "without-prejudice-to-the-generality-of",
+  "level": 5,
+  "title": "“without prejudice to the generality of”"
+ },
+ {
+  "id": "whichever-is-the-less",
+  "level": 5,
+  "title": "“whichever is the less”"
+ },
+ {
+  "id": "10-4-other-style-and-usage-issues",
+  "level": 5,
+  "title": "10.4 Other Style and Usage Issues"
+ },
+ {
+  "id": "use-of-synonyms",
+  "level": 5,
+  "title": "Use of synonyms"
+ },
+ {
+  "id": "and-and-or",
+  "level": 5,
+  "title": "“and” and “or”"
+ },
+ {
+  "id": "despite-and-subject-to",
+  "level": 5,
+  "title": "“Despite” and “subject to”"
+ },
+ {
+  "id": "if-where-and-when",
+  "level": 5,
+  "title": "“If”, “where” and “when”"
+ },
+ {
+  "id": "pronouns",
+  "level": 5,
+  "title": "Pronouns"
+ },
+ {
+  "id": "provisions-of",
+  "level": 5,
+  "title": "“Provisions of”"
+ },
+ {
+  "id": "subject-to-this-ordinance",
+  "level": 5,
+  "title": "“Subject to this Ordinance”"
+ },
+ {
+  "id": "that-and-which",
+  "level": 5,
+  "title": "“That” and “which”"
+ },
+ {
+  "id": "if-then-constructions",
+  "level": 5,
+  "title": "“If … then …” constructions"
+ },
+ {
+  "id": "example-42",
+  "level": 5,
+  "title": "Example 42"
+ },
+ {
+  "id": "example-43",
+  "level": 5,
+  "title": "Example 43"
+ },
+ {
+  "id": "possessives",
+  "level": 5,
+  "title": "Possessives"
+ },
+ {
+  "id": "use-of-deemed-etc",
+  "level": 5,
+  "title": "Use of “deemed” etc."
+ },
+ {
+  "id": "example-44",
+  "level": 5,
+  "title": "Example 44"
+ },
+ {
+  "id": "example-45",
+  "level": 5,
+  "title": "Example 45"
+ },
+ {
+  "id": "retrospective-commencement-used-deemed",
+  "level": 5,
+  "title": "Retrospective commencement—used “deemed”"
+ },
+ {
+  "id": "example-46",
+  "level": 5,
+  "title": "Example 46"
+ },
+ {
+  "id": "use-of-is-to-be-regarded-as-is-taken-to-be-and-is-to-be-trea",
+  "level": 5,
+  "title": "Use of “is to be regarded as”, “is taken to be” and “is to be treated as”"
+ },
+ {
+  "id": "use-of-presumed",
+  "level": 5,
+  "title": "Use of “presumed”"
+ },
+ {
+  "id": "declaratory-statements",
+  "level": 5,
+  "title": "Declaratory statements"
+ },
+ {
+  "id": "example-47",
+  "level": 5,
+  "title": "Example 47"
+ },
+ {
+  "id": "example-48",
+  "level": 5,
+  "title": "Example 48"
+ },
+ {
+  "id": "example-49",
+  "level": 5,
+  "title": "Example 49"
+ },
+ {
+  "id": "e-terminology",
+  "level": 5,
+  "title": "E‐terminology"
+ },
+ {
+  "id": "facsimile-vs-fax",
+  "level": 5,
+  "title": "“Facsimile” vs “fax”"
+ },
+ {
+  "id": "foreign-words",
+  "level": 5,
+  "title": "Foreign words"
+ },
+ {
+  "id": "use-of-government-and-government",
+  "level": 5,
+  "title": "Use of “Government” and “government”"
+ },
+ {
+  "id": "references-to-hong-kong",
+  "level": 5,
+  "title": "References to Hong Kong"
+ },
+ {
+  "id": "10-4-26",
+  "level": 5,
+  "title": "10.4.26"
+ },
+ {
+  "id": "11-punctuation",
+  "level": 2,
+  "title": "11 Punctuation"
+ },
+ {
+  "id": "11-1-general",
+  "level": 5,
+  "title": "11.1 General"
+ },
+ {
+  "id": "purpose-of-punctuation",
+  "level": 5,
+  "title": "Purpose of punctuation"
+ },
+ {
+  "id": "11-2-punctuation-rules",
+  "level": 5,
+  "title": "11.2 Punctuation Rules"
+ },
+ {
+  "id": "full-stop",
+  "level": 5,
+  "title": "Full stop"
+ },
+ {
+  "id": "colon",
+  "level": 5,
+  "title": "Colon"
+ },
+ {
+  "id": "example-12-6",
+  "level": 5,
+  "title": "Example 12"
+ },
+ {
+  "id": "dash",
+  "level": 5,
+  "title": "Dash"
+ },
+ {
+  "id": "example-2-10",
+  "level": 5,
+  "title": "Example 2"
+ },
+ {
+  "id": "semicolon",
+  "level": 5,
+  "title": "Semicolon"
+ },
+ {
+  "id": "example-3-10",
+  "level": 5,
+  "title": "Example 3"
+ },
+ {
+  "id": "example-4-7",
+  "level": 5,
+  "title": "Example 4"
+ },
+ {
+  "id": "example-5-7",
+  "level": 5,
+  "title": "Example 5"
+ },
+ {
+  "id": "comma",
+  "level": 5,
+  "title": "Comma"
+ },
+ {
+  "id": "example-6-7",
+  "level": 5,
+  "title": "Example 6"
+ },
+ {
+  "id": "question-mark",
+  "level": 5,
+  "title": "Question mark"
+ },
+ {
+  "id": "example-7-7",
+  "level": 5,
+  "title": "Example 7"
+ },
+ {
+  "id": "parentheses",
+  "level": 5,
+  "title": "Parentheses"
+ },
+ {
+  "id": "example-8-6",
+  "level": 5,
+  "title": "Example 8"
+ },
+ {
+  "id": "example-9-6",
+  "level": 5,
+  "title": "Example 9"
+ },
+ {
+  "id": "example-10-6",
+  "level": 5,
+  "title": "Example 10"
+ },
+ {
+  "id": "example-11-6",
+  "level": 5,
+  "title": "Example 11"
+ },
+ {
+  "id": "example-12-7",
+  "level": 5,
+  "title": "Example 12"
+ },
+ {
+  "id": "example-13-6",
+  "level": 5,
+  "title": "Example 13"
+ },
+ {
+  "id": "example-14-6",
+  "level": 5,
+  "title": "Example 14"
+ },
+ {
+  "id": "example-15-6",
+  "level": 5,
+  "title": "Example 15"
+ },
+ {
+  "id": "example-16-6",
+  "level": 5,
+  "title": "Example 16"
+ },
+ {
+  "id": "example-17-4",
+  "level": 5,
+  "title": "Example 17"
+ },
+ {
+  "id": "example-18-4",
+  "level": 5,
+  "title": "Example 18"
+ },
+ {
+  "id": "square-brackets",
+  "level": 5,
+  "title": "Square brackets"
+ },
+ {
+  "id": "example-19-4",
+  "level": 5,
+  "title": "Example 19"
+ },
+ {
+  "id": "apostrophe",
+  "level": 5,
+  "title": "Apostrophe"
+ },
+ {
+  "id": "example-20-4",
+  "level": 5,
+  "title": "Example 20"
+ },
+ {
+  "id": "example-21-4",
+  "level": 5,
+  "title": "Example 21"
+ },
+ {
+  "id": "example-22-4",
+  "level": 5,
+  "title": "Example 22"
+ },
+ {
+  "id": "hyphen",
+  "level": 5,
+  "title": "Hyphen"
+ },
+ {
+  "id": "example-23-4",
+  "level": 5,
+  "title": "Example 23"
+ },
+ {
+  "id": "example-24-3",
+  "level": 5,
+  "title": "Example 24"
+ },
+ {
+  "id": "example-25-4",
+  "level": 5,
+  "title": "Example 25"
+ },
+ {
+  "id": "example-26-3",
+  "level": 5,
+  "title": "Example 26"
+ },
+ {
+  "id": "example-27-4",
+  "level": 5,
+  "title": "Example 27"
+ },
+ {
+  "id": "example-28-4",
+  "level": 5,
+  "title": "Example 28"
+ },
+ {
+  "id": "example-29-4",
+  "level": 5,
+  "title": "Example 29"
+ },
+ {
+  "id": "example-30-3",
+  "level": 5,
+  "title": "Example 30"
+ },
+ {
+  "id": "example-31-4",
+  "level": 5,
+  "title": "Example 31"
+ },
+ {
+  "id": "example-32-4",
+  "level": 5,
+  "title": "Example 32"
+ },
+ {
+  "id": "example-33-4",
+  "level": 5,
+  "title": "Example 33"
+ },
+ {
+  "id": "example-34-4",
+  "level": 5,
+  "title": "Example 34"
+ },
+ {
+  "id": "example-35-4",
+  "level": 5,
+  "title": "Example 35"
+ },
+ {
+  "id": "example-35-cont-d",
+  "level": 5,
+  "title": "Example 35 (cont’d)"
+ },
+ {
+  "id": "12-numbers-symbols-date-and",
+  "level": 2,
+  "title": "12 Numbers, Symbols, Date and"
+ },
+ {
+  "id": "time",
+  "level": 3,
+  "title": "Time"
+ },
+ {
+  "id": "12-1-numbers",
+  "level": 5,
+  "title": "12.1 Numbers"
+ },
+ {
+  "id": "use-figures-not-words",
+  "level": 5,
+  "title": "Use figures not words"
+ },
+ {
+  "id": "money-measurements-etc",
+  "level": 5,
+  "title": "Money, measurements etc."
+ },
+ {
+  "id": "example-1-10",
+  "level": 5,
+  "title": "Example 1"
+ },
+ {
+  "id": "example-2-11",
+  "level": 5,
+  "title": "Example 2"
+ },
+ {
+  "id": "example-3-11",
+  "level": 5,
+  "title": "Example 3"
+ },
+ {
+  "id": "example-4-8",
+  "level": 5,
+  "title": "Example 4"
+ },
+ {
+  "id": "example-5-8",
+  "level": 5,
+  "title": "Example 5"
+ },
+ {
+  "id": "example-6-8",
+  "level": 5,
+  "title": "Example 6"
+ },
+ {
+  "id": "example-7-8",
+  "level": 5,
+  "title": "Example 7"
+ },
+ {
+  "id": "example-8-7",
+  "level": 5,
+  "title": "Example 8"
+ },
+ {
+  "id": "example-9-7",
+  "level": 5,
+  "title": "Example 9"
+ },
+ {
+  "id": "zero-or-0",
+  "level": 5,
+  "title": "Zero or 0"
+ },
+ {
+  "id": "example-10-7",
+  "level": 5,
+  "title": "Example 10"
+ },
+ {
+  "id": "example-11-7",
+  "level": 5,
+  "title": "Example 11"
+ },
+ {
+  "id": "example-12-8",
+  "level": 5,
+  "title": "Example 12"
+ },
+ {
+  "id": "example-13-7",
+  "level": 5,
+  "title": "Example 13"
+ },
+ {
+  "id": "example-14-7",
+  "level": 5,
+  "title": "Example 14"
+ },
+ {
+  "id": "example-15-7",
+  "level": 5,
+  "title": "Example 15"
+ },
+ {
+  "id": "one-or-1",
+  "level": 5,
+  "title": "One or 1"
+ },
+ {
+  "id": "example-16-7",
+  "level": 5,
+  "title": "Example 16"
+ },
+ {
+  "id": "example-17-5",
+  "level": 5,
+  "title": "Example 17"
+ },
+ {
+  "id": "example-18-5",
+  "level": 5,
+  "title": "Example 18"
+ },
+ {
+  "id": "example-19-5",
+  "level": 5,
+  "title": "Example 19"
+ },
+ {
+  "id": "example-20-5",
+  "level": 5,
+  "title": "Example 20"
+ },
+ {
+  "id": "example-21-5",
+  "level": 5,
+  "title": "Example 21"
+ },
+ {
+  "id": "example-22-5",
+  "level": 5,
+  "title": "Example 22"
+ },
+ {
+  "id": "example-23-5",
+  "level": 5,
+  "title": "Example 23"
+ },
+ {
+  "id": "example-24-4",
+  "level": 5,
+  "title": "Example 24"
+ },
+ {
+  "id": "example-25-5",
+  "level": 5,
+  "title": "Example 25"
+ },
+ {
+  "id": "example-26-4",
+  "level": 5,
+  "title": "Example 26"
+ },
+ {
+  "id": "example-26-cont-d",
+  "level": 5,
+  "title": "Example 26 (cont’d)"
+ },
+ {
+  "id": "example-27-5",
+  "level": 5,
+  "title": "Example 27"
+ },
+ {
+  "id": "example-28-5",
+  "level": 5,
+  "title": "Example 28"
+ },
+ {
+  "id": "other-numbers-as-pronouns",
+  "level": 5,
+  "title": "Other numbers as pronouns"
+ },
+ {
+  "id": "ordinal-numbers",
+  "level": 5,
+  "title": "Ordinal numbers"
+ },
+ {
+  "id": "example-29-5",
+  "level": 5,
+  "title": "Example 29"
+ },
+ {
+  "id": "example-30-4",
+  "level": 5,
+  "title": "Example 30"
+ },
+ {
+  "id": "example-31-5",
+  "level": 5,
+  "title": "Example 31"
+ },
+ {
+  "id": "example-32-5",
+  "level": 5,
+  "title": "Example 32"
+ },
+ {
+  "id": "example-33-5",
+  "level": 5,
+  "title": "Example 33"
+ },
+ {
+  "id": "example-34-5",
+  "level": 5,
+  "title": "Example 34"
+ },
+ {
+  "id": "fractions",
+  "level": 5,
+  "title": "Fractions"
+ },
+ {
+  "id": "example-35-5",
+  "level": 5,
+  "title": "Example 35"
+ },
+ {
+  "id": "example-36-4",
+  "level": 5,
+  "title": "Example 36"
+ },
+ {
+  "id": "example-37-4",
+  "level": 5,
+  "title": "Example 37"
+ },
+ {
+  "id": "example-38-3",
+  "level": 5,
+  "title": "Example 38"
+ },
+ {
+  "id": "example-39-3",
+  "level": 5,
+  "title": "Example 39"
+ },
+ {
+  "id": "example-40-2",
+  "level": 5,
+  "title": "Example 40"
+ },
+ {
+  "id": "example-41-2",
+  "level": 5,
+  "title": "Example 41"
+ },
+ {
+  "id": "example-42-2",
+  "level": 5,
+  "title": "Example 42"
+ },
+ {
+  "id": "example-43-2",
+  "level": 5,
+  "title": "Example 43"
+ },
+ {
+  "id": "example-44-2",
+  "level": 5,
+  "title": "Example 44"
+ },
+ {
+  "id": "example-45-2",
+  "level": 5,
+  "title": "Example 45"
+ },
+ {
+  "id": "example-46-2",
+  "level": 5,
+  "title": "Example 46"
+ },
+ {
+  "id": "example-47-2",
+  "level": 5,
+  "title": "Example 47"
+ },
+ {
+  "id": "example-48-2",
+  "level": 5,
+  "title": "Example 48"
+ },
+ {
+  "id": "example-49-2",
+  "level": 5,
+  "title": "Example 49"
+ },
+ {
+  "id": "12-2-dates",
+  "level": 5,
+  "title": "12.2 Dates"
+ },
+ {
+  "id": "references-to-specific-dates",
+  "level": 5,
+  "title": "References to specific dates"
+ },
+ {
+  "id": "example-50",
+  "level": 5,
+  "title": "Example 50"
+ },
+ {
+  "id": "dates-in-tables",
+  "level": 5,
+  "title": "Dates in tables"
+ },
+ {
+  "id": "example-51",
+  "level": 5,
+  "title": "Example 51"
+ },
+ {
+  "id": "prescribed-forms-2",
+  "level": 5,
+  "title": "Prescribed forms"
+ },
+ {
+  "id": "example-52",
+  "level": 5,
+  "title": "Example 52"
+ },
+ {
+  "id": "example-53",
+  "level": 5,
+  "title": "Example 53"
+ },
+ {
+  "id": "example-54",
+  "level": 5,
+  "title": "Example 54"
+ },
+ {
+  "id": "date-of-signing",
+  "level": 5,
+  "title": "Date of signing"
+ },
+ {
+  "id": "example-55",
+  "level": 5,
+  "title": "Example 55"
+ },
+ {
+  "id": "12-3-time",
+  "level": 5,
+  "title": "12.3 Time"
+ },
+ {
+  "id": "hong-kong-time",
+  "level": 5,
+  "title": "Hong Kong time"
+ },
+ {
+  "id": "if-not-hong-kong-time",
+  "level": 5,
+  "title": "If not Hong Kong time"
+ },
+ {
+  "id": "example-56",
+  "level": 5,
+  "title": "Example 56"
+ },
+ {
+  "id": "example-57",
+  "level": 5,
+  "title": "Example 57"
+ },
+ {
+  "id": "use-a-m-and-p-m",
+  "level": 5,
+  "title": "Use “a.m.” and “p.m.”"
+ },
+ {
+  "id": "example-58",
+  "level": 5,
+  "title": "Example 58"
+ },
+ {
+  "id": "example-59",
+  "level": 5,
+  "title": "Example 59"
+ },
+ {
+  "id": "example-60",
+  "level": 5,
+  "title": "Example 60"
+ },
+ {
+  "id": "example-61",
+  "level": 5,
+  "title": "Example 61"
+ },
+ {
+  "id": "example-62",
+  "level": 5,
+  "title": "Example 62"
+ },
+ {
+  "id": "example-63",
+  "level": 5,
+  "title": "Example 63"
+ },
+ {
+  "id": "example-64",
+  "level": 5,
+  "title": "Example 64"
+ },
+ {
+  "id": "example-65",
+  "level": 5,
+  "title": "Example 65"
+ },
+ {
+  "id": "12-4-symbols",
+  "level": 5,
+  "title": "12.4 Symbols"
+ },
+ {
+  "id": "use-for-hk-dollars",
+  "level": 5,
+  "title": "Use “$” for HK dollars"
+ },
+ {
+  "id": "large-amounts-of-money",
+  "level": 5,
+  "title": "Large amounts of money"
+ },
+ {
+  "id": "example-66",
+  "level": 5,
+  "title": "Example 66"
+ },
+ {
+  "id": "fines",
+  "level": 5,
+  "title": "Fines"
+ },
+ {
+  "id": "12-4-3",
+  "level": 5,
+  "title": "12.4.3"
+ },
+ {
+  "id": "example-67",
+  "level": 5,
+  "title": "Example 67"
+ },
+ {
+  "id": "cents",
+  "level": 5,
+  "title": "Cents"
+ },
+ {
+  "id": "example-68",
+  "level": 5,
+  "title": "Example 68"
+ },
+ {
+  "id": "foreign-currency",
+  "level": 5,
+  "title": "Foreign Currency"
+ },
+ {
+  "id": "example-69",
+  "level": 5,
+  "title": "Example 69"
+ },
+ {
+  "id": "percentages",
+  "level": 5,
+  "title": "Percentages"
+ },
+ {
+  "id": "example-70",
+  "level": 5,
+  "title": "Example 70"
+ },
+ {
+  "id": "metric-symbols",
+  "level": 5,
+  "title": "Metric symbols"
+ },
+ {
+  "id": "example-71",
+  "level": 5,
+  "title": "Example 71"
+ },
+ {
+  "id": "non-metric-symbols",
+  "level": 5,
+  "title": "Non‐metric symbols"
+ },
+ {
+  "id": "example-72",
+  "level": 5,
+  "title": "Example 72"
+ },
+ {
+  "id": "mathematical-symbols",
+  "level": 5,
+  "title": "Mathematical symbols"
+ },
+ {
+  "id": "example-73",
+  "level": 5,
+  "title": "Example 73"
+ },
+ {
+  "id": "example-74",
+  "level": 5,
+  "title": "Example 74"
+ },
+ {
+  "id": "example-75",
+  "level": 5,
+  "title": "Example 75"
+ },
+ {
+  "id": "example-76",
+  "level": 5,
+  "title": "Example 76"
+ },
+ {
+  "id": "example-77",
+  "level": 5,
+  "title": "Example 77"
+ },
+ {
+  "id": "13-references-to-enactments-and",
+  "level": 2,
+  "title": "13 References to Enactments and"
+ },
+ {
+  "id": "provisions",
+  "level": 3,
+  "title": "Provisions"
+ },
+ {
+  "id": "13-1-references-to-provisions",
+  "level": 5,
+  "title": "13.1 References to Provisions"
+ },
+ {
+  "id": "useful-provisions-of-igco",
+  "level": 5,
+  "title": "Useful provisions of IGCO"
+ },
+ {
+  "id": "forward-referencing-system-used-in-hk",
+  "level": 5,
+  "title": "Forward‐referencing system used in HK"
+ },
+ {
+  "id": "references-to-parts-of-a-section",
+  "level": 5,
+  "title": "References to parts of a section"
+ },
+ {
+  "id": "references-to-parts-of-a-subsection",
+  "level": 5,
+  "title": "References to parts of a subsection"
+ },
+ {
+  "id": "reference-to-part-of-a-paragraph",
+  "level": 5,
+  "title": "Reference to part of a paragraph"
+ },
+ {
+  "id": "provisions-with-different-nomenclature",
+  "level": 5,
+  "title": "Provisions with different nomenclature"
+ },
+ {
+  "id": "deviations-from-normal-style",
+  "level": 5,
+  "title": "Deviations from normal style"
+ },
+ {
+  "id": "example-1-11",
+  "level": 5,
+  "title": "Example 1"
+ },
+ {
+  "id": "example-2-12",
+  "level": 5,
+  "title": "Example 2"
+ },
+ {
+  "id": "cross-references-to-divisions-and-subdivisions",
+  "level": 5,
+  "title": "Cross‐references to Divisions and Subdivisions"
+ },
+ {
+  "id": "cross-references-to-provisions-collectively-or-alternatively",
+  "level": 5,
+  "title": "Cross‐references to provisions collectively or alternatively"
+ },
+ {
+  "id": "example-3-12",
+  "level": 5,
+  "title": "Example 3"
+ },
+ {
+  "id": "example-4-9",
+  "level": 5,
+  "title": "Example 4"
+ },
+ {
+  "id": "sections-17-2-and-31-2-of-igco",
+  "level": 5,
+  "title": "Sections 17(2) and 31(2) of IGCO"
+ },
+ {
+  "id": "references-to-specific-provisions",
+  "level": 5,
+  "title": "References to specific provisions"
+ },
+ {
+  "id": "cross-references-schedules-divided-into-sections",
+  "level": 5,
+  "title": "Cross‐references—schedules divided into sections"
+ },
+ {
+  "id": "cross-references-schedules-in-other-formats",
+  "level": 5,
+  "title": "Cross‐references—schedules in other formats"
+ },
+ {
+  "id": "external-references-in-schedules",
+  "level": 5,
+  "title": "External references in Schedules"
+ },
+ {
+  "id": "parenthetical-description-after-cross-references",
+  "level": 5,
+  "title": "Parenthetical description after cross‐references"
+ },
+ {
+  "id": "example-5-9",
+  "level": 5,
+  "title": "Example 5"
+ },
+ {
+  "id": "13-2-references-to-enactments",
+  "level": 5,
+  "title": "13.2 References to Enactments"
+ },
+ {
+  "id": "cross-references-to-ordinances-before-publication-in-loose-l",
+  "level": 5,
+  "title": "Cross‐references to Ordinances—before publication in Loose‐leaf Edition"
+ },
+ {
+  "id": "example-6-9",
+  "level": 5,
+  "title": "Example 6"
+ },
+ {
+  "id": "example-7-9",
+  "level": 5,
+  "title": "Example 7"
+ },
+ {
+  "id": "cross-references-to-ordinances-after-publication-in-loose-le",
+  "level": 5,
+  "title": "Cross‐references to Ordinances—after publication in Loose‐leaf Edition"
+ },
+ {
+  "id": "example-8-8",
+  "level": 5,
+  "title": "Example 8"
+ },
+ {
+  "id": "cross-references-to-subsidiary-legislation-before-publicatio",
+  "level": 5,
+  "title": "Cross‐references to subsidiary legislation—before publication in Loose‐leaf Edition"
+ },
+ {
+  "id": "example-9-8",
+  "level": 5,
+  "title": "Example 9"
+ },
+ {
+  "id": "example-10-8",
+  "level": 5,
+  "title": "Example 10"
+ },
+ {
+  "id": "cross-references-to-subsidiary-legislation-after-publication",
+  "level": 5,
+  "title": "Cross‐references to subsidiary legislation—after publication in Loose‐leaf Edition"
+ },
+ {
+  "id": "example-11-8",
+  "level": 5,
+  "title": "Example 11"
+ },
+ {
+  "id": "multiple-references",
+  "level": 5,
+  "title": "Multiple references"
+ },
+ {
+  "id": "subsidiary-legislation-made-contemporaneously",
+  "level": 5,
+  "title": "Subsidiary legislation made contemporaneously"
+ },
+ {
+  "id": "cross-references-to-particular-provisions",
+  "level": 5,
+  "title": "Cross‐references to particular provisions"
+ },
+ {
+  "id": "example-12-9",
+  "level": 5,
+  "title": "Example 12"
+ },
+ {
+  "id": "reference-by-gazette-reference-even-after-commencement",
+  "level": 5,
+  "title": "Reference by Gazette reference even after commencement"
+ },
+ {
+  "id": "example-13-8",
+  "level": 5,
+  "title": "Example 13"
+ },
+ {
+  "id": "example-14-8",
+  "level": 5,
+  "title": "Example 14"
+ },
+ {
+  "id": "example-15-8",
+  "level": 5,
+  "title": "Example 15"
+ },
+ {
+  "id": "references-in-subsidiary-legislation-to-parent-ordinance",
+  "level": 5,
+  "title": "References in subsidiary legislation to parent Ordinance"
+ },
+ {
+  "id": "example-16-8",
+  "level": 5,
+  "title": "Example 16"
+ },
+ {
+  "id": "example-17-6",
+  "level": 5,
+  "title": "Example 17"
+ },
+ {
+  "id": "references-in-parent-ordinance-to-subsidiary-legislation",
+  "level": 5,
+  "title": "References in parent Ordinance to subsidiary legislation"
+ },
+ {
+  "id": "example-18-6",
+  "level": 5,
+  "title": "Example 18"
+ },
+ {
+  "id": "14-amending-enactments",
+  "level": 2,
+  "title": "14 Amending Enactments"
+ },
+ {
+  "id": "14-1-preliminary",
+  "level": 5,
+  "title": "14.1 Preliminary"
+ },
+ {
+  "id": "application-of-practices-to-amending-bills-and-subsidiary-le",
+  "level": 5,
+  "title": "Application of practices to amending Bills and subsidiary legislation"
+ },
+ {
+  "id": "14-2-general-matters",
+  "level": 5,
+  "title": "14.2 General Matters"
+ },
+ {
+  "id": "amendments-must-be-made-directly",
+  "level": 5,
+  "title": "Amendments must be made directly"
+ },
+ {
+  "id": "standard-amendment-formulas",
+  "level": 5,
+  "title": "Standard amendment formulas"
+ },
+ {
+  "id": "language-of-new-text",
+  "level": 5,
+  "title": "Language of new text"
+ },
+ {
+  "id": "no-renumbering-of-existing-provisions",
+  "level": 5,
+  "title": "No renumbering of existing provisions"
+ },
+ {
+  "id": "reusing-numbers-of-repealed-or-omitted-provisions",
+  "level": 5,
+  "title": "Reusing numbers of repealed or omitted provisions"
+ },
+ {
+  "id": "14-3-organizational-matters",
+  "level": 5,
+  "title": "14.3 Organizational Matters"
+ },
+ {
+  "id": "arrangement-of-clauses-amending-bill",
+  "level": 5,
+  "title": "Arrangement of clauses—amending bill"
+ },
+ {
+  "id": "arrangement-of-amending-provisions-subsidiary-legislation",
+  "level": 5,
+  "title": "Arrangement of amending provisions—subsidiary legislation"
+ },
+ {
+  "id": "amendments-to-be-in-consecutive-order",
+  "level": 5,
+  "title": "Amendments to be in consecutive order"
+ },
+ {
+  "id": "one-subclause-one-amendment",
+  "level": 5,
+  "title": "One subclause, one amendment"
+ },
+ {
+  "id": "subclause-not-to-be-further-divided",
+  "level": 5,
+  "title": "Subclause not to be further divided"
+ },
+ {
+  "id": "order-of-amendments",
+  "level": 5,
+  "title": "Order of amendments"
+ },
+ {
+  "id": "each-section-to-be-amended-by-one-clause",
+  "level": 5,
+  "title": "Each section to be amended by one clause"
+ },
+ {
+  "id": "division-into-parts-if-2-or-more-enactments-amended",
+  "level": 5,
+  "title": "Division into Parts if 2 or more enactments amended"
+ },
+ {
+  "id": "if-bill-also-has-consequential-amendments",
+  "level": 5,
+  "title": "If Bill also has consequential amendments"
+ },
+ {
+  "id": "amending-private-bills",
+  "level": 5,
+  "title": "Amending private Bills"
+ },
+ {
+  "id": "substantive-amendments-to-be-in-main-body",
+  "level": 5,
+  "title": "Substantive amendments to be in main body"
+ },
+ {
+  "id": "use-of-schedules-for-amendments",
+  "level": 5,
+  "title": "Use of Schedules for amendments"
+ },
+ {
+  "id": "generally-no-arrangement-by-subject-matter",
+  "level": 5,
+  "title": "Generally no arrangement by subject matter"
+ },
+ {
+  "id": "when-arrangement-by-subject-matter-is-appropriate",
+  "level": 5,
+  "title": "When arrangement by subject matter is appropriate"
+ },
+ {
+  "id": "14-4-long-titles-of-amending-bills",
+  "level": 5,
+  "title": "14.4 Long Titles of Amending Bills"
+ },
+ {
+  "id": "should-be-wide-enough-to-encompass-amendments",
+  "level": 5,
+  "title": "Should be wide enough to encompass amendments"
+ },
+ {
+  "id": "types-of-long-titles",
+  "level": 5,
+  "title": "Types of long titles"
+ },
+ {
+  "id": "ordinances-named",
+  "level": 5,
+  "title": "Ordinances named"
+ },
+ {
+  "id": "example-1-one-ordinance-named",
+  "level": 5,
+  "title": "Example 1 One Ordinance named"
+ },
+ {
+  "id": "example-2-one-ordinance-named",
+  "level": 5,
+  "title": "Example 2 One Ordinance named"
+ },
+ {
+  "id": "example-3-two-or-more-ordinances-named",
+  "level": 5,
+  "title": "Example 3 Two or more Ordinances named"
+ },
+ {
+  "id": "ordinances-named-and-purposes-described",
+  "level": 5,
+  "title": "Ordinances named and purposes described"
+ },
+ {
+  "id": "example-4-one-ordinance-named-and-purpose-described",
+  "level": 5,
+  "title": "Example 4 One Ordinance named and purpose described"
+ },
+ {
+  "id": "example-5-one-ordinance-named-and-purpose-described",
+  "level": 5,
+  "title": "Example 5 One Ordinance named and purpose described"
+ },
+ {
+  "id": "purpose-of-amendments-described-only",
+  "level": 5,
+  "title": "Purpose of amendments described only"
+ },
+ {
+  "id": "example-6-purpose-described-only",
+  "level": 5,
+  "title": "Example 6 Purpose described only"
+ },
+ {
+  "id": "example-7-purpose-described-only",
+  "level": 5,
+  "title": "Example 7 Purpose described only"
+ },
+ {
+  "id": "reference-to-subsidiary-legislation",
+  "level": 5,
+  "title": "Reference to subsidiary legislation"
+ },
+ {
+  "id": "example-8-reference-to-subsidiary-legislation-in-long-title",
+  "level": 5,
+  "title": "Example 8 Reference to subsidiary legislation in long title"
+ },
+ {
+  "id": "example-9-reference-to-subsidiary-legislation-in-long-title",
+  "level": 5,
+  "title": "Example 9 Reference to subsidiary legislation in long title"
+ },
+ {
+  "id": "reference-to-consequential-amendments",
+  "level": 5,
+  "title": "Reference to consequential amendments"
+ },
+ {
+  "id": "reference-to-related-or-other-amendments",
+  "level": 5,
+  "title": "Reference to related or other amendments"
+ },
+ {
+  "id": "miscellaneous-amending-bills",
+  "level": 5,
+  "title": "Miscellaneous amending bills"
+ },
+ {
+  "id": "example-10-statute-law-miscellaneous-provisions-bill-2008",
+  "level": 5,
+  "title": "Example 10 Statute Law (Miscellaneous Provisions) Bill 2008"
+ },
+ {
+  "id": "14-5-short-titles-of-amending-bills",
+  "level": 5,
+  "title": "14.5 Short Titles of Amending Bills"
+ },
+ {
+  "id": "legco-rule-50-2",
+  "level": 5,
+  "title": "LegCo Rule 50(2)"
+ },
+ {
+  "id": "should-show-it-is-an-amending-bill",
+  "level": 5,
+  "title": "Should show it is an amending Bill"
+ },
+ {
+  "id": "also-add-year-of-publication",
+  "level": 5,
+  "title": "Also add year of publication"
+ },
+ {
+  "id": "bill-amending-one-ordinance",
+  "level": 5,
+  "title": "Bill amending one Ordinance"
+ },
+ {
+  "id": "example-11-simple-short-title-first-bill-presented-in-a-part",
+  "level": 5,
+  "title": "Example 11 Simple short title: first Bill presented in a particular year"
+ },
+ {
+  "id": "if-more-than-one-bill-amends-same-ordinance",
+  "level": 5,
+  "title": "If more than one Bill amends same Ordinance"
+ },
+ {
+  "id": "example-12-bill-subsequent-to-first-presented-in-a-particula",
+  "level": 5,
+  "title": "Example 12 Bill subsequent to first presented in a particular year"
+ },
+ {
+  "id": "legco-rule-58-10",
+  "level": 5,
+  "title": "LegCo Rule 58(10)"
+ },
+ {
+  "id": "bill-amending-an-un-commenced-ordinance",
+  "level": 5,
+  "title": "Bill amending an un‐commenced Ordinance"
+ },
+ {
+  "id": "example-13-bill-amending-ordinance-not-yet-in-operation",
+  "level": 5,
+  "title": "Example 13 Bill amending Ordinance not yet in operation"
+ },
+ {
+  "id": "bill-amending-more-than-one-ordinance",
+  "level": 5,
+  "title": "Bill amending more than one Ordinance"
+ },
+ {
+  "id": "example-14-9",
+  "level": 5,
+  "title": "Example 14"
+ },
+ {
+  "id": "example-15-9",
+  "level": 5,
+  "title": "Example 15"
+ },
+ {
+  "id": "example-16-9",
+  "level": 5,
+  "title": "Example 16"
+ },
+ {
+  "id": "example-17-7",
+  "level": 5,
+  "title": "Example 17"
+ },
+ {
+  "id": "14-6-titles-of-amending-subsidiary-legislation",
+  "level": 5,
+  "title": "14.6 Titles of Amending Subsidiary Legislation"
+ },
+ {
+  "id": "amending-subsidiary-legislation",
+  "level": 5,
+  "title": "Amending subsidiary legislation"
+ },
+ {
+  "id": "14-7-titles-of-private-amending-bills",
+  "level": 5,
+  "title": "14.7 Titles of Private Amending Bills"
+ },
+ {
+  "id": "amendments-to-private-ordinances",
+  "level": 5,
+  "title": "Amendments to private Ordinances"
+ },
+ {
+  "id": "saving",
+  "level": 5,
+  "title": "“Saving"
+ },
+ {
+  "id": "14-8-consequential-amendments",
+  "level": 5,
+  "title": "14.8 Consequential Amendments"
+ },
+ {
+  "id": "amending-bill-to-include-consequential-amendments",
+  "level": 5,
+  "title": "Amending Bill to include consequential amendments"
+ },
+ {
+  "id": "consequential-amendments-in-subsidiary-legislation",
+  "level": 5,
+  "title": "Consequential amendments in subsidiary legislation"
+ },
+ {
+  "id": "organization-of-consequential-amendments",
+  "level": 5,
+  "title": "Organization of consequential amendments"
+ },
+ {
+  "id": "15-standard-amending-formulas",
+  "level": 2,
+  "title": "15 Standard Amending Formulas"
+ },
+ {
+  "id": "15-1-preliminary",
+  "level": 5,
+  "title": "15.1 Preliminary"
+ },
+ {
+  "id": "15-2-enactments-amended-clause",
+  "level": 5,
+  "title": "15.2 Enactments Amended Clause"
+ },
+ {
+  "id": "what-is-an-enactments-amended-clause",
+  "level": 5,
+  "title": "What is an Enactments Amended Clause"
+ },
+ {
+  "id": "commencement-of-eac",
+  "level": 5,
+  "title": "Commencement of EAC"
+ },
+ {
+  "id": "legco-resolutions-with-amendments",
+  "level": 5,
+  "title": "LegCo resolutions with amendments"
+ },
+ {
+  "id": "when-eac-is-to-be-included",
+  "level": 5,
+  "title": "When EAC is to be included"
+ },
+ {
+  "id": "15-2-5",
+  "level": 5,
+  "title": "15.2.5"
+ },
+ {
+  "id": "when-eac-is-not-required",
+  "level": 5,
+  "title": "When EAC is not required"
+ },
+ {
+  "id": "form-of-eac-amendments-to-single-enactment",
+  "level": 5,
+  "title": "Form of EAC—amendments to single enactment"
+ },
+ {
+  "id": "15-2-7",
+  "level": 5,
+  "title": "15.2.7"
+ },
+ {
+  "id": "example-1-12",
+  "level": 5,
+  "title": "Example 1"
+ },
+ {
+  "id": "example-2-13",
+  "level": 5,
+  "title": "Example 2"
+ },
+ {
+  "id": "example-3-13",
+  "level": 5,
+  "title": "Example 3"
+ },
+ {
+  "id": "form-of-eac-amendments-to-multiple-enactments",
+  "level": 5,
+  "title": "Form of EAC—amendments to multiple enactments"
+ },
+ {
+  "id": "example-4-10",
+  "level": 5,
+  "title": "Example 4"
+ },
+ {
+  "id": "example-5-10",
+  "level": 5,
+  "title": "Example 5"
+ },
+ {
+  "id": "location-of-eac",
+  "level": 5,
+  "title": "Location of EAC"
+ },
+ {
+  "id": "15-3-section-headings-of-amending-provisions",
+  "level": 5,
+  "title": "15.3 Section Headings of Amending Provisions"
+ },
+ {
+  "id": "cite-number-of-provision",
+  "level": 5,
+  "title": "Cite number of provision"
+ },
+ {
+  "id": "cite-existing-section-heading-etc",
+  "level": 5,
+  "title": "Cite existing section heading etc."
+ },
+ {
+  "id": "examples-of-section-headings-to-amend-sections-etc",
+  "level": 5,
+  "title": "Examples of section headings to amend sections etc."
+ },
+ {
+  "id": "examples-section-headings-of-provisions-amending-sections",
+  "level": 5,
+  "title": "Examples: section headings of provisions amending sections"
+ },
+ {
+  "id": "15-3-7",
+  "level": 5,
+  "title": "15.3.7"
+ },
+ {
+  "id": "section-headings-to-amend-parts-etc",
+  "level": 5,
+  "title": "Section headings to amend Parts etc."
+ },
+ {
+  "id": "sections-headings-to-add-or-amend-headings",
+  "level": 5,
+  "title": "Sections headings to add or amend headings"
+ },
+ {
+  "id": "examples-section-headings-of-provisions-amending-headings",
+  "level": 5,
+  "title": "Examples: section headings of provisions amending headings"
+ },
+ {
+  "id": "section-headings-in-amending-resolutions",
+  "level": 5,
+  "title": "Section headings in amending resolutions"
+ },
+ {
+  "id": "examples-section-headings-of-amending-provisions-in-resoluti",
+  "level": 5,
+  "title": "Examples: section headings of amending provisions in resolutions"
+ },
+ {
+  "id": "15-4-repeal-without-substitution",
+  "level": 5,
+  "title": "15.4 Repeal without Substitution"
+ },
+ {
+  "id": "components-of-formula-for-repeal-without-substitution",
+  "level": 5,
+  "title": "Components of formula for repeal without substitution"
+ },
+ {
+  "id": "repeal-of-a-part-section-or-schedule",
+  "level": 5,
+  "title": "Repeal of a Part, section or Schedule"
+ },
+ {
+  "id": "examples-repeal-of-a-part-section-or-schedule",
+  "level": 5,
+  "title": "Examples: repeal of a Part, section or Schedule"
+ },
+ {
+  "id": "example-6-10",
+  "level": 5,
+  "title": "Example 6"
+ },
+ {
+  "id": "example-7-10",
+  "level": 5,
+  "title": "Example 7"
+ },
+ {
+  "id": "example-8-9",
+  "level": 5,
+  "title": "Example 8"
+ },
+ {
+  "id": "repeal-of-a-division-subdivision-etc",
+  "level": 5,
+  "title": "Repeal of a Division, Subdivision etc."
+ },
+ {
+  "id": "examples-repeal-of-a-division-or-subdivision-or-a-provision-",
+  "level": 5,
+  "title": "Examples: repeal of a Division or Subdivision or a provision in a Schedule"
+ },
+ {
+  "id": "example-9-9",
+  "level": 5,
+  "title": "Example 9"
+ },
+ {
+  "id": "example-10-9",
+  "level": 5,
+  "title": "Example 10"
+ },
+ {
+  "id": "example-11-9",
+  "level": 5,
+  "title": "Example 11"
+ },
+ {
+  "id": "example-12-10",
+  "level": 5,
+  "title": "Example 12"
+ },
+ {
+  "id": "example-13-9",
+  "level": 5,
+  "title": "Example 13"
+ },
+ {
+  "id": "repeal-of-multiple-provisions",
+  "level": 5,
+  "title": "Repeal of multiple provisions"
+ },
+ {
+  "id": "examples-repeal-of-multiple-provisions",
+  "level": 5,
+  "title": "Examples: repeal of multiple provisions"
+ },
+ {
+  "id": "example-14-10",
+  "level": 5,
+  "title": "Example 14"
+ },
+ {
+  "id": "example-15-10",
+  "level": 5,
+  "title": "Example 15"
+ },
+ {
+  "id": "example-16-10",
+  "level": 5,
+  "title": "Example 16"
+ },
+ {
+  "id": "example-16a",
+  "level": 5,
+  "title": "Example 16A"
+ },
+ {
+  "id": "example-17-8",
+  "level": 5,
+  "title": "Example 17"
+ },
+ {
+  "id": "example-18-7",
+  "level": 5,
+  "title": "Example 18"
+ },
+ {
+  "id": "example-19-6",
+  "level": 5,
+  "title": "Example 19"
+ },
+ {
+  "id": "example-20-6",
+  "level": 5,
+  "title": "Example 20"
+ },
+ {
+  "id": "example-21-6",
+  "level": 5,
+  "title": "Example 21"
+ },
+ {
+  "id": "repeal-of-a-single-subsection-paragraph-or-subparagraph",
+  "level": 5,
+  "title": "Repeal of a single subsection, paragraph or subparagraph"
+ },
+ {
+  "id": "examples-repeal-of-a-single-subsection-paragraph-or-subparag",
+  "level": 5,
+  "title": "Examples: repeal of a single subsection, paragraph or subparagraph"
+ },
+ {
+  "id": "example-22-6",
+  "level": 5,
+  "title": "Example 22"
+ },
+ {
+  "id": "example-23-6",
+  "level": 5,
+  "title": "Example 23"
+ },
+ {
+  "id": "example-24-5",
+  "level": 5,
+  "title": "Example 24"
+ },
+ {
+  "id": "multiple-repeals-in-the-same-section",
+  "level": 5,
+  "title": "Multiple repeals in the same section"
+ },
+ {
+  "id": "examples-repeal-of-multiple-provisions-of-the-same-section",
+  "level": 5,
+  "title": "Examples: repeal of multiple provisions of the same section"
+ },
+ {
+  "id": "example-25-6",
+  "level": 5,
+  "title": "Example 25"
+ },
+ {
+  "id": "example-26-5",
+  "level": 5,
+  "title": "Example 26"
+ },
+ {
+  "id": "example-27-6",
+  "level": 5,
+  "title": "Example 27"
+ },
+ {
+  "id": "example-28-6",
+  "level": 5,
+  "title": "Example 28"
+ },
+ {
+  "id": "example-29-6",
+  "level": 5,
+  "title": "Example 29"
+ },
+ {
+  "id": "repeal-of-words-expressions-or-blocks-of-text",
+  "level": 5,
+  "title": "Repeal of words, expressions or blocks of text"
+ },
+ {
+  "id": "examples-repeal-of-words-or-expressions",
+  "level": 5,
+  "title": "Examples: repeal of words or expressions"
+ },
+ {
+  "id": "example-30-5",
+  "level": 5,
+  "title": "Example 30"
+ },
+ {
+  "id": "example-31-not-the-preferred-approach",
+  "level": 5,
+  "title": "Example 31 Not the preferred approach"
+ },
+ {
+  "id": "example-32-6",
+  "level": 5,
+  "title": "Example 32"
+ },
+ {
+  "id": "example-33-6",
+  "level": 5,
+  "title": "Example 33"
+ },
+ {
+  "id": "example-34-6",
+  "level": 5,
+  "title": "Example 34"
+ },
+ {
+  "id": "example-35-6",
+  "level": 5,
+  "title": "Example 35"
+ },
+ {
+  "id": "example-36-5",
+  "level": 5,
+  "title": "Example 36"
+ },
+ {
+  "id": "example-37-5",
+  "level": 5,
+  "title": "Example 37"
+ },
+ {
+  "id": "example-38-4",
+  "level": 5,
+  "title": "Example 38"
+ },
+ {
+  "id": "example-39-4",
+  "level": 5,
+  "title": "Example 39"
+ },
+ {
+  "id": "example-40-3",
+  "level": 5,
+  "title": "Example 40"
+ },
+ {
+  "id": "example-41-3",
+  "level": 5,
+  "title": "Example 41"
+ },
+ {
+  "id": "example-42-3",
+  "level": 5,
+  "title": "Example 42"
+ },
+ {
+  "id": "example-43-3",
+  "level": 5,
+  "title": "Example 43"
+ },
+ {
+  "id": "repeal-of-punctuation-marks",
+  "level": 5,
+  "title": "Repeal of punctuation marks"
+ },
+ {
+  "id": "examples-repeal-of-punctuation-marks",
+  "level": 5,
+  "title": "Examples: repeal of punctuation marks"
+ },
+ {
+  "id": "example-44-3",
+  "level": 5,
+  "title": "Example 44"
+ },
+ {
+  "id": "example-45-3",
+  "level": 5,
+  "title": "Example 45"
+ },
+ {
+  "id": "example-46-3",
+  "level": 5,
+  "title": "Example 46"
+ },
+ {
+  "id": "repeal-of-headings-or-provisions-together-with-cross-heading",
+  "level": 5,
+  "title": "Repeal of headings or provisions together with cross‐headings"
+ },
+ {
+  "id": "examples-repeal-of-cross-headings",
+  "level": 5,
+  "title": "Examples: repeal of cross‐headings"
+ },
+ {
+  "id": "example-47-3",
+  "level": 5,
+  "title": "Example 47"
+ },
+ {
+  "id": "example-48-3",
+  "level": 5,
+  "title": "Example 48"
+ },
+ {
+  "id": "example-49-3",
+  "level": 5,
+  "title": "Example 49"
+ },
+ {
+  "id": "repeal-of-definitions",
+  "level": 5,
+  "title": "Repeal of definitions"
+ },
+ {
+  "id": "examples-repeal-of-definitions",
+  "level": 5,
+  "title": "Examples: repeal of definitions"
+ },
+ {
+  "id": "example-50-2",
+  "level": 5,
+  "title": "Example 50"
+ },
+ {
+  "id": "example-51-2",
+  "level": 5,
+  "title": "Example 51"
+ },
+ {
+  "id": "example-52-2",
+  "level": 5,
+  "title": "Example 52"
+ },
+ {
+  "id": "repeal-of-whole-enactment",
+  "level": 5,
+  "title": "Repeal of whole enactment"
+ },
+ {
+  "id": "examples-repeal-of-whole-enactment",
+  "level": 5,
+  "title": "Examples: repeal of whole enactment"
+ },
+ {
+  "id": "example-53-2",
+  "level": 5,
+  "title": "Example 53"
+ },
+ {
+  "id": "example-54-2",
+  "level": 5,
+  "title": "Example 54"
+ },
+ {
+  "id": "example-55-2",
+  "level": 5,
+  "title": "Example 55"
+ },
+ {
+  "id": "example-56-2",
+  "level": 5,
+  "title": "Example 56"
+ },
+ {
+  "id": "repeal-one-language-text-only",
+  "level": 5,
+  "title": "Repeal—one language text only"
+ },
+ {
+  "id": "examples-repeal-in-one-language-text",
+  "level": 5,
+  "title": "Examples: repeal in one language text"
+ },
+ {
+  "id": "example-57-2",
+  "level": 5,
+  "title": "Example 57"
+ },
+ {
+  "id": "example-58-2",
+  "level": 5,
+  "title": "Example 58"
+ },
+ {
+  "id": "15-5-additions",
+  "level": 5,
+  "title": "15.5 Additions"
+ },
+ {
+  "id": "components-of-formula-for-addition",
+  "level": 5,
+  "title": "Components of formula for addition"
+ },
+ {
+  "id": "addition-of-a-part-division-subdivision-section-or-schedule",
+  "level": 5,
+  "title": "Addition of a Part, Division, Subdivision, section or Schedule"
+ },
+ {
+  "id": "example-59-2",
+  "level": 5,
+  "title": "Example 59"
+ },
+ {
+  "id": "example-60-2",
+  "level": 5,
+  "title": "Example 60"
+ },
+ {
+  "id": "example-61-2",
+  "level": 5,
+  "title": "Example 61"
+ },
+ {
+  "id": "example-62-2",
+  "level": 5,
+  "title": "Example 62"
+ },
+ {
+  "id": "example-63-2",
+  "level": 5,
+  "title": "Example 63"
+ },
+ {
+  "id": "example-64-2",
+  "level": 5,
+  "title": "Example 64"
+ },
+ {
+  "id": "example-65-2",
+  "level": 5,
+  "title": "Example 65"
+ },
+ {
+  "id": "schedule-heading",
+  "level": 5,
+  "title": "Schedule Heading"
+ },
+ {
+  "id": "addition-of-multiple-sections-parts-divisions-subdivisions-o",
+  "level": 5,
+  "title": "Addition of multiple sections, Parts, Divisions, Subdivisions or Schedules"
+ },
+ {
+  "id": "examples-addition-of-multiple-whole-provisions",
+  "level": 5,
+  "title": "Examples: addition of multiple whole provisions"
+ },
+ {
+  "id": "example-66-2",
+  "level": 5,
+  "title": "Example 66"
+ },
+ {
+  "id": "example-67-2",
+  "level": 5,
+  "title": "Example 67"
+ },
+ {
+  "id": "example-68-2",
+  "level": 5,
+  "title": "Example 68"
+ },
+ {
+  "id": "addition-of-a-single-subsection-paragraph-or-subparagraph",
+  "level": 5,
+  "title": "Addition of a single subsection, paragraph or subparagraph"
+ },
+ {
+  "id": "examples-addition-of-a-single-subsection-paragraph-or-subpar",
+  "level": 5,
+  "title": "Examples: addition of a single subsection, paragraph or subparagraph"
+ },
+ {
+  "id": "example-69-2",
+  "level": 5,
+  "title": "Example 69"
+ },
+ {
+  "id": "example-70-2",
+  "level": 5,
+  "title": "Example 70"
+ },
+ {
+  "id": "example-71-2",
+  "level": 5,
+  "title": "Example 71"
+ },
+ {
+  "id": "example-72-2",
+  "level": 5,
+  "title": "Example 72"
+ },
+ {
+  "id": "example-73-2",
+  "level": 5,
+  "title": "Example 73"
+ },
+ {
+  "id": "addition-of-2-or-more-subsections-paragraphs-or-subparagraph",
+  "level": 5,
+  "title": "Addition of 2 or more subsections, paragraphs or subparagraphs"
+ },
+ {
+  "id": "examples-addition-of-2-or-more-subsections-paragraphs-or-sub",
+  "level": 5,
+  "title": "Examples: addition of 2 or more subsections, paragraphs or subparagraphs"
+ },
+ {
+  "id": "example-74-2",
+  "level": 5,
+  "title": "Example 74"
+ },
+ {
+  "id": "example-75-2",
+  "level": 5,
+  "title": "Example 75"
+ },
+ {
+  "id": "add",
+  "level": 5,
+  "title": "Add"
+ },
+ {
+  "id": "example-76-2",
+  "level": 5,
+  "title": "Example 76"
+ },
+ {
+  "id": "addition-of-words-or-expressions",
+  "level": 5,
+  "title": "Addition of words or expressions"
+ },
+ {
+  "id": "examples-addition-of-words-or-expressions",
+  "level": 5,
+  "title": "Examples: addition of words or expressions"
+ },
+ {
+  "id": "example-77-2",
+  "level": 5,
+  "title": "Example 77"
+ },
+ {
+  "id": "example-78-not-the-preferred-approach",
+  "level": 5,
+  "title": "Example 78 Not the preferred approach"
+ },
+ {
+  "id": "example-79",
+  "level": 5,
+  "title": "Example 79"
+ },
+ {
+  "id": "example-80",
+  "level": 5,
+  "title": "Example 80"
+ },
+ {
+  "id": "example-81",
+  "level": 5,
+  "title": "Example 81"
+ },
+ {
+  "id": "example-82",
+  "level": 5,
+  "title": "Example 82"
+ },
+ {
+  "id": "example-83",
+  "level": 5,
+  "title": "Example 83"
+ },
+ {
+  "id": "example-84",
+  "level": 5,
+  "title": "Example 84"
+ },
+ {
+  "id": "example-85",
+  "level": 5,
+  "title": "Example 85"
+ },
+ {
+  "id": "example-86",
+  "level": 5,
+  "title": "Example 86"
+ },
+ {
+  "id": "example-87",
+  "level": 5,
+  "title": "Example 87"
+ },
+ {
+  "id": "addition-of-punctuation-marks",
+  "level": 5,
+  "title": "Addition of punctuation marks"
+ },
+ {
+  "id": "example-88",
+  "level": 5,
+  "title": "Example 88"
+ },
+ {
+  "id": "addition-of-headings",
+  "level": 5,
+  "title": "Addition of headings"
+ },
+ {
+  "id": "examples-addition-of-headings",
+  "level": 5,
+  "title": "Examples: addition of headings"
+ },
+ {
+  "id": "example-89",
+  "level": 5,
+  "title": "Example 89"
+ },
+ {
+  "id": "example-90",
+  "level": 5,
+  "title": "Example 90"
+ },
+ {
+  "id": "example-91",
+  "level": 5,
+  "title": "Example 91"
+ },
+ {
+  "id": "addition-of-definitions",
+  "level": 5,
+  "title": "Addition of definitions"
+ },
+ {
+  "id": "examples-addition-of-definitions",
+  "level": 5,
+  "title": "Examples: addition of definitions"
+ },
+ {
+  "id": "example-92",
+  "level": 5,
+  "title": "Example 92"
+ },
+ {
+  "id": "example-93",
+  "level": 5,
+  "title": "Example 93"
+ },
+ {
+  "id": "addition-of-provisions-after-or-before-a-repealed-provision",
+  "level": 5,
+  "title": "Addition of provisions after or before a repealed provision"
+ },
+ {
+  "id": "examples-addition-of-provisions-after-or-before-a-repealed-p",
+  "level": 5,
+  "title": "Examples: addition of provisions after or before a repealed provision"
+ },
+ {
+  "id": "example-94",
+  "level": 5,
+  "title": "Example 94"
+ },
+ {
+  "id": "example-95",
+  "level": 5,
+  "title": "Example 95"
+ },
+ {
+  "id": "example-96",
+  "level": 5,
+  "title": "Example 96"
+ },
+ {
+  "id": "example-97",
+  "level": 5,
+  "title": "Example 97"
+ },
+ {
+  "id": "example-98",
+  "level": 5,
+  "title": "Example 98"
+ },
+ {
+  "id": "example-99",
+  "level": 5,
+  "title": "Example 99"
+ },
+ {
+  "id": "example-100",
+  "level": 5,
+  "title": "Example 100"
+ },
+ {
+  "id": "15-6-repeal-and-substitution",
+  "level": 5,
+  "title": "15.6 Repeal and Substitution"
+ },
+ {
+  "id": "components-of-formula-for-repeal-and-substitution",
+  "level": 5,
+  "title": "Components of formula for repeal and substitution"
+ },
+ {
+  "id": "repeal-and-substitution-of-a-part-section-or-schedule",
+  "level": 5,
+  "title": "Repeal and substitution of a Part, section or Schedule"
+ },
+ {
+  "id": "examples-repeal-and-substitution-of-a-single-part-section-sc",
+  "level": 5,
+  "title": "Examples: repeal and substitution of a single Part, section, Schedule"
+ },
+ {
+  "id": "example-101",
+  "level": 5,
+  "title": "Example 101"
+ },
+ {
+  "id": "example-102",
+  "level": 5,
+  "title": "Example 102"
+ },
+ {
+  "id": "example-103",
+  "level": 5,
+  "title": "Example 103"
+ },
+ {
+  "id": "repeal-and-substitution-of-a-division-or-subdivision",
+  "level": 5,
+  "title": "Repeal and substitution of a Division or Subdivision"
+ },
+ {
+  "id": "examples-repeal-and-substitution-of-a-single-division-or-a-s",
+  "level": 5,
+  "title": "Examples: repeal and substitution of a single Division or a Subdivision"
+ },
+ {
+  "id": "example-104",
+  "level": 5,
+  "title": "Example 104"
+ },
+ {
+  "id": "example-105",
+  "level": 5,
+  "title": "Example 105"
+ },
+ {
+  "id": "example-106",
+  "level": 5,
+  "title": "Example 106"
+ },
+ {
+  "id": "repeal-and-substitution-of-multiple-whole-provisions",
+  "level": 5,
+  "title": "Repeal and substitution of multiple whole provisions"
+ },
+ {
+  "id": "examples-repeal-and-substitution-of-multiple-whole-provision",
+  "level": 5,
+  "title": "Examples: repeal and substitution of multiple whole provisions"
+ },
+ {
+  "id": "example-107",
+  "level": 5,
+  "title": "Example 107"
+ },
+ {
+  "id": "example-108",
+  "level": 5,
+  "title": "Example 108"
+ },
+ {
+  "id": "example-109",
+  "level": 5,
+  "title": "Example 109"
+ },
+ {
+  "id": "example-110",
+  "level": 5,
+  "title": "Example 110"
+ },
+ {
+  "id": "repeal-and-substitution-of-a-subsection-paragraph-etc",
+  "level": 5,
+  "title": "Repeal and substitution of a subsection, paragraph etc."
+ },
+ {
+  "id": "examples-repeal-and-substitution-of-parts-of-a-section",
+  "level": 5,
+  "title": "Examples: repeal and substitution of parts of a section"
+ },
+ {
+  "id": "example-111",
+  "level": 5,
+  "title": "Example 111"
+ },
+ {
+  "id": "example-112",
+  "level": 5,
+  "title": "Example 112"
+ },
+ {
+  "id": "example-113",
+  "level": 5,
+  "title": "Example 113"
+ },
+ {
+  "id": "example-114",
+  "level": 5,
+  "title": "Example 114"
+ },
+ {
+  "id": "example-115",
+  "level": 5,
+  "title": "Example 115"
+ },
+ {
+  "id": "example-116",
+  "level": 5,
+  "title": "Example 116"
+ },
+ {
+  "id": "example-117",
+  "level": 5,
+  "title": "Example 117"
+ },
+ {
+  "id": "example-118",
+  "level": 5,
+  "title": "Example 118"
+ },
+ {
+  "id": "example-119",
+  "level": 5,
+  "title": "Example 119"
+ },
+ {
+  "id": "example-120",
+  "level": 5,
+  "title": "Example 120"
+ },
+ {
+  "id": "repeal-and-substitution-of-words-expressions-or-blocks-of-te",
+  "level": 5,
+  "title": "Repeal and substitution of words, expressions or blocks of text"
+ },
+ {
+  "id": "examples-repeal-and-substitution-of-words-or-expressions",
+  "level": 5,
+  "title": "Examples: repeal and substitution of words or expressions"
+ },
+ {
+  "id": "example-121",
+  "level": 5,
+  "title": "Example 121"
+ },
+ {
+  "id": "example-122-not-the-preferred-approach",
+  "level": 5,
+  "title": "Example 122 Not the preferred approach"
+ },
+ {
+  "id": "example-123",
+  "level": 5,
+  "title": "Example 123"
+ },
+ {
+  "id": "example-124",
+  "level": 5,
+  "title": "Example 124"
+ },
+ {
+  "id": "example-125",
+  "level": 5,
+  "title": "Example 125"
+ },
+ {
+  "id": "example-126",
+  "level": 5,
+  "title": "Example 126"
+ },
+ {
+  "id": "example-127",
+  "level": 5,
+  "title": "Example 127"
+ },
+ {
+  "id": "example-128",
+  "level": 5,
+  "title": "Example 128"
+ },
+ {
+  "id": "example-129",
+  "level": 5,
+  "title": "Example 129"
+ },
+ {
+  "id": "example-130",
+  "level": 5,
+  "title": "Example 130"
+ },
+ {
+  "id": "example-131",
+  "level": 5,
+  "title": "Example 131"
+ },
+ {
+  "id": "example-132",
+  "level": 5,
+  "title": "Example 132"
+ },
+ {
+  "id": "example-133",
+  "level": 5,
+  "title": "Example 133"
+ },
+ {
+  "id": "example-134",
+  "level": 5,
+  "title": "Example 134"
+ },
+ {
+  "id": "example-135",
+  "level": 5,
+  "title": "Example 135"
+ },
+ {
+  "id": "example-136",
+  "level": 5,
+  "title": "Example 136"
+ },
+ {
+  "id": "repeal-and-substitution-of-punctuation-marks",
+  "level": 5,
+  "title": "Repeal and substitution of punctuation marks"
+ },
+ {
+  "id": "examples-repeal-and-substitution-of-punctuation-marks-exampl",
+  "level": 5,
+  "title": "Examples: repeal and substitution of punctuation marks Example 137"
+ },
+ {
+  "id": "example-138",
+  "level": 5,
+  "title": "Example 138"
+ },
+ {
+  "id": "amendment-or-substitution-of-headings",
+  "level": 5,
+  "title": "Amendment or substitution of headings"
+ },
+ {
+  "id": "15-6-20",
+  "level": 5,
+  "title": "15.6.20"
+ },
+ {
+  "id": "examples-amendment-or-substitution-of-headings",
+  "level": 5,
+  "title": "Examples: amendment or substitution of headings"
+ },
+ {
+  "id": "example-139",
+  "level": 5,
+  "title": "Example 139"
+ },
+ {
+  "id": "example-140",
+  "level": 5,
+  "title": "Example 140"
+ },
+ {
+  "id": "example-141",
+  "level": 5,
+  "title": "Example 141"
+ },
+ {
+  "id": "example-142",
+  "level": 5,
+  "title": "Example 142"
+ },
+ {
+  "id": "repeal-and-substitution-of-definitions",
+  "level": 5,
+  "title": "Repeal and substitution of definitions"
+ },
+ {
+  "id": "examples-repeal-and-substitution-of-definitions",
+  "level": 5,
+  "title": "Examples: repeal and substitution of definitions"
+ },
+ {
+  "id": "example-143",
+  "level": 5,
+  "title": "Example 143"
+ },
+ {
+  "id": "repeal-and-substitution-of-one-language-text",
+  "level": 5,
+  "title": "Repeal and substitution of one language text"
+ },
+ {
+  "id": "examples-repeal-and-substitution-in-one-language-text",
+  "level": 5,
+  "title": "Examples: repeal and substitution in one language text"
+ },
+ {
+  "id": "example-144",
+  "level": 5,
+  "title": "Example 144"
+ },
+ {
+  "id": "example-145",
+  "level": 5,
+  "title": "Example 145"
+ },
+ {
+  "id": "15-7-amendment-of-un-commenced-amending-provisions",
+  "level": 5,
+  "title": "15.7 Amendment of Un‐commenced Amending Provisions"
+ },
+ {
+  "id": "examples-amendment-of-un-commenced-provisions",
+  "level": 5,
+  "title": "Examples: amendment of un‐commenced provisions"
+ },
+ {
+  "id": "example-146",
+  "level": 5,
+  "title": "Example 146"
+ },
+ {
+  "id": "example-147",
+  "level": 5,
+  "title": "Example 147"
+ },
+ {
+  "id": "example-148",
+  "level": 5,
+  "title": "Example 148"
+ },
+ {
+  "id": "example-149",
+  "level": 5,
+  "title": "Example 149"
+ },
+ {
+  "id": "example-150",
+  "level": 5,
+  "title": "Example 150"
+ },
+ {
+  "id": "example-151",
+  "level": 5,
+  "title": "Example 151"
+ },
+ {
+  "id": "example-152",
+  "level": 5,
+  "title": "Example 152"
+ },
+ {
+  "id": "example-153",
+  "level": 5,
+  "title": "Example 153"
+ },
+ {
+  "id": "example-154",
+  "level": 5,
+  "title": "Example 154"
+ },
+ {
+  "id": "example-155",
+  "level": 5,
+  "title": "Example 155"
+ },
+ {
+  "id": "example-156",
+  "level": 5,
+  "title": "Example 156"
+ },
+ {
+  "id": "example-157",
+  "level": 5,
+  "title": "Example 157"
+ },
+ {
+  "id": "example-158",
+  "level": 5,
+  "title": "Example 158"
+ },
+ {
+  "id": "example-159-if-the-amending-enactment-is-in-the-old-style",
+  "level": 5,
+  "title": "Example 159 If the amending enactment is in the old style"
+ },
+ {
+  "id": "abbreviations",
+  "level": 4,
+  "title": "Abbreviations"
+ },
+ {
+  "id": "interpretation-and-general-clauses-ordinance-cap-1",
+  "level": 5,
+  "title": "Interpretation and General Clauses Ordinance (Cap. 1)"
+ },
+ {
+  "id": "part-i",
+  "level": 5,
+  "title": "Part I"
+ },
+ {
+  "id": "short-title-and-application",
+  "level": 5,
+  "title": "Short Title and Application"
+ },
+ {
+  "id": "2a-laws-previously-in-force",
+  "level": 5,
+  "title": "2A. Laws previously in force"
+ },
+ {
+  "id": "part-ii",
+  "level": 5,
+  "title": "Part II"
+ },
+ {
+  "id": "interpretation-of-words-and-expressions",
+  "level": 5,
+  "title": "Interpretation of Words and Expressions"
+ },
+ {
+  "id": "hong-kong-permanent-resident-and-permanent-resident-of-the-h",
+  "level": 5,
+  "title": "Hong Kong permanent resident and permanent resident of the Hong Kong"
+ },
+ {
+  "id": "offices-set-up-by-the-central-people-s-government-in-the-hon",
+  "level": 5,
+  "title": "Offices set up by the Central People’s Government in the Hong Kong Special"
+ },
+ {
+  "id": "3a-references-to-former-or-retired-judge",
+  "level": 5,
+  "title": "3A. References to former or retired judge"
+ },
+ {
+  "id": "part-iia",
+  "level": 5,
+  "title": "Part IIA"
+ },
+ {
+  "id": "general-provisions-as-to-laws-in-both-official-languages",
+  "level": 5,
+  "title": "General Provisions as to Laws in Both Official Languages"
+ },
+ {
+  "id": "10a-application-of-part-iia",
+  "level": 5,
+  "title": "10A. Application of Part IIA"
+ },
+ {
+  "id": "10b-construction-of-ordinances-in-both-official-languages",
+  "level": 5,
+  "title": "10B. Construction of Ordinances in both official languages"
+ },
+ {
+  "id": "10c-expressions-of-common-law",
+  "level": 5,
+  "title": "10C. Expressions of common law"
+ },
+ {
+  "id": "10d-name-of-statutory-body-corporate",
+  "level": 5,
+  "title": "10D. Name of statutory body corporate"
+ },
+ {
+  "id": "10e-words-etc-in-the-official-languages-may-be-declared-as-e",
+  "level": 5,
+  "title": "10E. Words etc. in the official languages may be declared as equivalents"
+ },
+ {
+  "id": "part-iii",
+  "level": 5,
+  "title": "Part III"
+ },
+ {
+  "id": "general-provisions-as-to-ordinances",
+  "level": 5,
+  "title": "General Provisions as to Ordinances"
+ },
+ {
+  "id": "part-iv",
+  "level": 5,
+  "title": "Part IV"
+ },
+ {
+  "id": "commencement-disallowance-amendment-and-repeal",
+  "level": 5,
+  "title": "Commencement, Disallowance, Amendment and Repeal"
+ },
+ {
+  "id": "part-v",
+  "level": 5,
+  "title": "Part V"
+ },
+ {
+  "id": "subsidiary-legislation",
+  "level": 5,
+  "title": "Subsidiary Legislation"
+ },
+ {
+  "id": "28a-construction-of-power-to-make-subsidiary-legislation",
+  "level": 5,
+  "title": "28A. Construction of power to make subsidiary legislation"
+ },
+ {
+  "id": "29a-variation-of-certain-fees-and-charges",
+  "level": 5,
+  "title": "29A. Variation of certain fees and charges"
+ },
+ {
+  "id": "ordinance",
+  "level": 5,
+  "title": "Ordinance"
+ },
+ {
+  "id": "37a-amendment-of-subsidiary-legislation-by-ordinance",
+  "level": 5,
+  "title": "37A. Amendment of subsidiary legislation by Ordinance"
+ },
+ {
+  "id": "part-vi",
+  "level": 5,
+  "title": "Part VI"
+ },
+ {
+  "id": "powers",
+  "level": 5,
+  "title": "Powers"
+ },
+ {
+  "id": "part-vii",
+  "level": 5,
+  "title": "Part VII"
+ },
+ {
+  "id": "boards-and-committees",
+  "level": 5,
+  "title": "Boards and Committees"
+ },
+ {
+  "id": "47a-power-of-chief-executive-to-appoint-advisory-bodies",
+  "level": 5,
+  "title": "47A. Power of Chief Executive to appoint advisory bodies"
+ },
+ {
+  "id": "part-viii-public-officers-and-public-contracts",
+  "level": 5,
+  "title": "Part VIII Public Officers and Public Contracts"
+ },
+ {
+  "id": "54a-power-to-transfer-functions-of-public-officers",
+  "level": 5,
+  "title": "54A. Power to transfer functions of public officers"
+ },
+ {
+  "id": "part-ix",
+  "level": 5,
+  "title": "Part IX"
+ },
+ {
+  "id": "government-chief-executive-and-chief-executive-in-council",
+  "level": 5,
+  "title": "Government, Chief Executive and Chief Executive in Council"
+ },
+ {
+  "id": "part-x",
+  "level": 5,
+  "title": "Part X"
+ },
+ {
+  "id": "time-and-distance",
+  "level": 5,
+  "title": "Time and Distance"
+ },
+ {
+  "id": "part-xi",
+  "level": 5,
+  "title": "Part XI"
+ },
+ {
+  "id": "national-laws-applying-in-hong-kong",
+  "level": 5,
+  "title": "National Laws Applying in Hong Kong"
+ },
+ {
+  "id": "kong",
+  "level": 5,
+  "title": "Kong"
+ },
+ {
+  "id": "80a-application-of-section-23-to-national-laws-applying-in-h",
+  "level": 5,
+  "title": "80A. Application of section 23 to national laws applying in Hong Kong"
+ },
+ {
+  "id": "part-xii",
+  "level": 5,
+  "title": "Part XII"
+ },
+ {
+  "id": "search-and-seizure-of-journalistic-material",
+  "level": 5,
+  "title": "Search and Seizure of Journalistic Material"
+ },
+ {
+  "id": "part-xiii",
+  "level": 5,
+  "title": "Part XIII"
+ },
+ {
+  "id": "miscellaneous",
+  "level": 5,
+  "title": "Miscellaneous"
+ },
+ {
+  "id": "98a-rectification-of-errors",
+  "level": 5,
+  "title": "98A. Rectification of errors"
+ },
+ {
+  "id": "100a-power-to-increase-fines",
+  "level": 5,
+  "title": "100A. Power to increase fines"
+ },
+ {
+  "id": "boundaries-of-the-city-of-victoria",
+  "level": 5,
+  "title": "Boundaries of the City of Victoria"
+ },
+ {
+  "id": "the-land-and-sea-comprising-the-hong-kong-special-administra",
+  "level": 5,
+  "title": "The Land and Sea Comprising the Hong Kong Special Administrative Region"
+ },
+ {
+  "id": "boundaries-of-the-harbour",
+  "level": 5,
+  "title": "Boundaries of the Harbour"
+ },
+ {
+  "id": "area-of-kowloon",
+  "level": 5,
+  "title": "Area of Kowloon"
+ },
+ {
+  "id": "area-of-new-kowloon",
+  "level": 5,
+  "title": "Area of New Kowloon"
+ },
+ {
+  "id": "area-of-new-territories",
+  "level": 5,
+  "title": "Area of New Territories"
+ },
+ {
+  "id": "public-officers",
+  "level": 5,
+  "title": "Public Officers"
+ },
+ {
+  "id": "directorate-disciplined-officers",
+  "level": 5,
+  "title": "Directorate Disciplined Officers"
+ },
+ {
+  "id": "construction-on-and-after-1-july-1997-of-words-and-expressio",
+  "level": 5,
+  "title": "Construction on and after 1 July 1997 of Words and Expressions in Laws Previously in Force"
+ },
+ {
+  "id": "temporary-provisions",
+  "level": 5,
+  "title": "Temporary Provisions"
+ },
+ {
+  "id": "sample-amendment-bill-2011-contents",
+  "level": 5,
+  "title": "Sample (Amendment) Bill 2011 Contents"
+ },
+ {
+  "id": "appendix-2",
+  "level": 5,
+  "title": "Appendix�2�"
+ },
+ {
+  "id": "a-bill-to",
+  "level": 3,
+  "title": "A BILL To"
+ },
+ {
+  "id": "part-1-preliminary",
+  "level": 5,
+  "title": "Part 1 Preliminary"
+ },
+ {
+  "id": "part-2-amendments-to-fruits-ordinance-cap-998",
+  "level": 5,
+  "title": "Part 2 Amendments to Fruits Ordinance (Cap. 998)"
+ },
+ {
+  "id": "fruits-exempted-from-storage-requirements",
+  "level": 5,
+  "title": "Fruits Exempted from Storage Requirements"
+ },
+ {
+  "id": "schedule-4-s-11b",
+  "level": 5,
+  "title": "Schedule 4 [s. 11B]"
+ },
+ {
+  "id": "fee-payable-for-licence-for-sale-of-fruits",
+  "level": 5,
+  "title": "Fee Payable for Licence for Sale of Fruits"
+ },
+ {
+  "id": "part-3-amendments-to-drinks-ordinance-cap-999",
+  "level": 5,
+  "title": "Part 3 Amendments to Drinks Ordinance (Cap. 999)"
+ },
+ {
+  "id": "part-2",
+  "level": 5,
+  "title": "“Part 2"
+ },
+ {
+  "id": "division-2-import-from-a-place-other-than-the",
+  "level": 5,
+  "title": "“Division 2—Import from a Place Other than the"
+ },
+ {
+  "id": "part-4-consequential-amendments-division-1-amendments-to-fru",
+  "level": 5,
+  "title": "Part 4 Consequential Amendments Division 1—Amendments to Fruits (Registration) Regulations (Cap. 998 sub. leg. A)"
+ },
+ {
+  "id": "division-2-enactments-repealed",
+  "level": 5,
+  "title": "Division 2—Enactments Repealed"
+ }
+]
