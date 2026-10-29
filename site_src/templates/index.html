@@ -1,0 +1,82 @@
+{% extends "base.html" %}
+{% block main %}
+<section class="hero">
+  <div class="wrap">
+    <h1>{{ site.title }}</h1>
+    <p class="lead">{{ site.subtitle }}. Each entry records the issuing body, edition, currency, original format and source,
+      with the full text converted to navigable HTML where available.</p>
+    <dl class="stats">
+      <div><dt>Documents</dt><dd>{{ stats.documents }}</dd></div>
+      <div><dt>Jurisdictions</dt><dd>{{ stats.jurisdictions }}</dd></div>
+      <div><dt>Full text in HTML</dt><dd>{{ stats.converted }}</dd></div>
+    </dl>
+    <form class="hero-search" action="search.html" role="search">
+      <label class="sr-only" for="hero-q">Search the full text of all guidelines</label>
+      <input id="hero-q" name="q" type="search" placeholder="Search all guidelines, e.g. “shall” or “definitions”">
+      <button type="submit">Search</button>
+    </form>
+  </div>
+</section>
+
+<section class="wrap catalog">
+  <h2>Catalog</h2>
+  <form class="filters" id="filters" aria-label="Filter the catalog">
+    <label>Text <input type="search" id="f-text" placeholder="Title, jurisdiction, body"></label>
+    <label>Level
+      <select id="f-level"><option value="">All</option>
+        {% for v in facets.levels %}<option value="{{ v }}">{{ v|capitalize }}</option>{% endfor %}
+      </select>
+    </label>
+    <label>Region
+      <select id="f-region"><option value="">All</option>
+        {% for v in facets.regions %}<option>{{ v }}</option>{% endfor %}
+      </select>
+    </label>
+    <label>Language
+      <select id="f-lang"><option value="">All</option>
+        {% for v in facets.languages %}<option>{{ v }}</option>{% endfor %}
+      </select>
+    </label>
+    <label>Currency
+      <select id="f-status"><option value="">All</option>
+        {% for v in facets.statuses %}<option value="{{ v }}">{{ status_labels[v] }}</option>{% endfor %}
+      </select>
+    </label>
+    <p class="count" id="f-count" aria-live="polite"></p>
+  </form>
+
+  <div class="table-scroll">
+  <table class="catalog-table" id="catalog">
+    <thead>
+      <tr>
+        <th scope="col">Jurisdiction</th>
+        <th scope="col">Guideline</th>
+        <th scope="col">Issuing body</th>
+        <th scope="col">Last updated</th>
+        <th scope="col">Currency</th>
+        <th scope="col">Format</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% for g in catalog %}
+      <tr data-level="{{ g.jurisdiction_level }}" data-region="{{ g.region }}" data-status="{{ g.currency.status }}"
+          data-langs="{{ g.language_names|join('|') }}"
+          data-text="{{ (g.title ~ ' ' ~ (g.title_en or '') ~ ' ' ~ g.jurisdiction ~ ' ' ~ g.issuing_body ~ ' ' ~ g.document_type)|lower }}">
+        <td><span class="juris">{{ g.jurisdiction }}</span><span class="level level-{{ g.jurisdiction_level }}">{{ g.jurisdiction_level }}</span></td>
+        <td>
+          <a class="g-title" href="guidelines/{{ g.id }}/index.html">{{ g.title }}</a>
+          {% if g.title_en %}<span class="g-en">{{ g.title_en }}</span>{% endif %}
+          <span class="g-type">{{ g.document_type }}{% if g.edition %} · {{ g.edition }}{% endif %}</span>
+        </td>
+        <td>{{ g.issuing_body }}</td>
+        <td class="nowrap">{{ g.last_updated or '—' }}</td>
+        <td><span class="badge badge-{{ g.currency.status }}">{{ g.status_label }}</span></td>
+        <td>{{ g.original_format }}{% if g.content %}<span class="html-flag" title="Full text available as HTML">HTML</span>{% endif %}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  </div>
+</section>
+{% endblock %}
+{% block scripts %}<script src="assets/catalog.js"></script>{% endblock %}

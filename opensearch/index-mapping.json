@@ -1,0 +1,35 @@
+{
+  "settings": {
+    "index": { "number_of_shards": 1, "number_of_replicas": 0 },
+    "analysis": {
+      "analyzer": {
+        "folded": { "type": "custom", "tokenizer": "standard", "filter": ["lowercase", "asciifolding"] }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "guideline_id":       { "type": "keyword" },
+      "title":              { "type": "text", "analyzer": "folded", "fields": { "raw": { "type": "keyword" } } },
+      "title_en":           { "type": "text", "analyzer": "folded" },
+      "jurisdiction":       { "type": "keyword" },
+      "jurisdiction_level": { "type": "keyword" },
+      "country_code":       { "type": "keyword" },
+      "region":             { "type": "keyword" },
+      "issuing_body":       { "type": "text", "analyzer": "folded", "fields": { "raw": { "type": "keyword" } } },
+      "languages":          { "type": "keyword" },
+      "document_type":      { "type": "keyword" },
+      "legal_status":       { "type": "text" },
+      "edition":            { "type": "keyword" },
+      "last_updated":       { "type": "keyword" },
+      "currency_status":    { "type": "keyword" },
+      "original_format":    { "type": "keyword" },
+      "source_url":         { "type": "keyword", "index": false },
+      "page_url":           { "type": "keyword", "index": false },
+      "section_id":         { "type": "keyword" },
+      "section_title":      { "type": "text", "analyzer": "folded" },
+      "section_path":       { "type": "text", "analyzer": "folded" },
+      "body":               { "type": "text", "analyzer": "folded" }
+    }
+  }
+}

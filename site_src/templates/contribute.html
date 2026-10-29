@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block title %}Submit a guideline | {{ site.title }}{% endblock %}
+{% block main %}
+<div class="wrap narrow">
+  <h1>Submit a guideline</h1>
+  <p>Do you know of a legislative drafting manual, style guide or set of drafting rules that is missing here, or a newer
+    edition of one we list? Tell us about it. National, supranational and international bodies are the current focus;
+    sub-national guidelines are welcome too.</p>
+
+  <form id="contribute" class="contribute-form" data-endpoint="{{ site.form_endpoint }}" data-repo="{{ site.repo }}">
+    <div class="field"><label for="c-juris">Jurisdiction or organisation <span class="req">*</span></label>
+      <input id="c-juris" name="jurisdiction" required placeholder="e.g. Ireland, ECOWAS, Council of Europe"></div>
+    <div class="field"><label for="c-title">Title of the guideline <span class="req">*</span></label>
+      <input id="c-title" name="title" required></div>
+    <div class="field"><label for="c-body">Issuing body</label>
+      <input id="c-body" name="issuing_body" placeholder="e.g. Office of the Parliamentary Counsel"></div>
+    <div class="field"><label for="c-url">Link to the document or publisher page <span class="req">*</span></label>
+      <input id="c-url" name="url" type="url" required placeholder="https://"></div>
+    <div class="field-row">
+      <div class="field"><label for="c-edition">Edition or date</label><input id="c-edition" name="edition"></div>
+      <div class="field"><label for="c-lang">Language(s)</label><input id="c-lang" name="language"></div>
+    </div>
+    <div class="field"><label for="c-kind">This is</label>
+      <select id="c-kind" name="kind">
+        <option>A guideline missing from the collection</option>
+        <option>A newer edition of a listed guideline</option>
+        <option>A correction to listed metadata</option>
+      </select></div>
+    <div class="field"><label for="c-notes">Notes</label>
+      <textarea id="c-notes" name="notes" rows="4" placeholder="Is it current? Is it binding? Anything else we should know."></textarea></div>
+    <div class="field-row">
+      <div class="field"><label for="c-name">Your name (optional)</label><input id="c-name" name="name" autocomplete="name"></div>
+      <div class="field"><label for="c-email">Email (optional)</label><input id="c-email" name="email" type="email" autocomplete="email"></div>
+    </div>
+    <button type="submit" class="button">Send submission</button>
+    <p class="form-help" id="c-help">
+      {% if site.form_endpoint %}Your submission is sent to the maintainers.
+      {% else %}Submitting opens a pre-filled issue on GitHub (a free GitHub account is needed). Your email is not included in the public issue.{% endif %}
+    </p>
+    <p class="form-status" id="c-status" role="status" aria-live="polite"></p>
+  </form>
+</div>
+{% endblock %}
+{% block scripts %}<script src="assets/contribute.js"></script>{% endblock %}

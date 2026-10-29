@@ -1,0 +1,83 @@
+{% extends "base.html" %}
+{% block title %}{{ g.title }} — {{ g.jurisdiction }} | {{ site.title }}{% endblock %}
+{% block description %}{{ g.document_type|capitalize }} issued by {{ g.issuing_body }} ({{ g.jurisdiction }}).{% endblock %}
+{% block main %}
+<div class="wrap doc-layout">
+  <aside class="doc-toc" aria-label="Contents">
+    <nav>
+      <p class="toc-heading">On this page</p>
+      <ul>
+        <li><a href="#about-document">About this document</a></li>
+        {% if g.content %}<li><a href="#full-text">Full text</a></li>{% endif %}
+      </ul>
+      {% if g.toc %}
+      <p class="toc-heading">Contents</p>
+      <ul class="toc-list">
+        {% for h in g.toc if h.level <= 4 %}
+        <li class="toc-l{{ h.level }}"><a href="#{{ h.id }}">{{ h.title|truncate(90) }}</a></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </nav>
+  </aside>
+
+  <article class="doc" data-pagefind-body>
+    <p class="crumbs" data-pagefind-ignore><a href="../../index.html">Guidelines</a> › {{ g.jurisdiction }}</p>
+    <h1 data-pagefind-meta="title">{{ g.title }}</h1>
+    {% if g.title_en %}<p class="g-en-lg">{{ g.title_en }}</p>{% endif %}
+    <p class="doc-sub">
+      <span data-pagefind-filter="Jurisdiction">{{ g.jurisdiction }}</span> ·
+      <span>{{ g.issuing_body }}</span>
+      <span hidden data-pagefind-filter="Level">{{ g.jurisdiction_level }}</span>
+      <span hidden data-pagefind-filter="Region">{{ g.region }}</span>
+      {% for l in g.language_names %}<span hidden data-pagefind-filter="Language">{{ l }}</span>{% endfor %}
+      <span hidden data-pagefind-filter="Currency">{{ g.status_label }}</span>
+    </p>
+
+    <section id="about-document" class="meta-card" data-pagefind-ignore="all">
+      <h2>About this document</h2>
+      <div class="actions">
+        {% if stored %}<a class="button" href="{{ stored }}">Download stored original ({{ g.retrieval.format }})</a>{% endif %}
+        {% if g.source_url %}<a class="button button-outline" href="{{ g.source_url }}">Official source</a>{% endif %}
+        {% if g.html_edition_url %}<a class="button button-outline" href="{{ g.html_edition_url }}">HTML edition</a>{% endif %}
+      </div>
+      <dl class="meta">
+        <dt>Jurisdiction</dt><dd>{{ g.jurisdiction }} ({{ g.jurisdiction_level }})</dd>
+        <dt>Issuing body</dt><dd>{{ g.issuing_body }}</dd>
+        <dt>Document type</dt><dd>{{ g.document_type|capitalize }}</dd>
+        <dt>Legal status</dt><dd>{{ g.legal_status or '—' }}</dd>
+        {% if g.edition %}<dt>Edition</dt><dd>{{ g.edition }}</dd>{% endif %}
+        {% if g.published %}<dt>First published</dt><dd>{{ g.published }}</dd>{% endif %}
+        <dt>Last updated</dt><dd>{{ g.last_updated or 'Unknown' }}</dd>
+        <dt>Currency</dt>
+        <dd><span class="badge badge-{{ g.currency.status }}">{{ g.status_label }}</span>
+          {% if g.currency.note %} {{ g.currency.note }}{% endif %}
+          {% if g.currency.checked_on %}<span class="muted">Checked {{ g.currency.checked_on }}.</span>{% endif %}</dd>
+        <dt>Language(s)</dt><dd>{{ g.language_names|join(', ') }}</dd>
+        <dt>Original format</dt><dd>{{ g.original_format }}</dd>
+        <dt>Source URL</dt><dd>{% if g.source_url %}<a href="{{ g.source_url }}">{{ g.source_url|truncate(80) }}</a>{% else %}—{% endif %}</dd>
+        {% if g.landing_url and g.landing_url != g.source_url %}<dt>Publisher page</dt><dd><a href="{{ g.landing_url }}">{{ g.landing_url|truncate(80) }}</a></dd>{% endif %}
+        <dt>Retrieved</dt>
+        <dd>{% if g.retrieval.sha256 %}{{ g.retrieval.retrieved_at[:10] }} · {{ '{:,}'.format(g.retrieval.bytes) }} bytes ·
+          <span class="mono" title="SHA-256">{{ g.retrieval.sha256[:16] }}…</span>
+          {% else %}Not yet retrieved{% endif %}</dd>
+        <dt>Licence / reuse</dt><dd>{{ g.license or 'Unspecified' }}</dd>
+        {% if g.notes %}<dt>Notes</dt><dd>{{ g.notes }}</dd>{% endif %}
+      </dl>
+    </section>
+
+    {% if g.content %}
+    <section id="full-text" class="full-text" lang="{{ g.languages[0] if g.languages and g.languages[0] != 'multilingual' else 'en' }}">
+      <h2 class="full-text-heading" data-pagefind-ignore>Full text</h2>
+      <p class="conversion-note" data-pagefind-ignore>Converted automatically from the {{ g.retrieval.format or g.original_format }} original. Headings and paragraphs are reconstructed from the layout; check the original for exact wording and formatting.</p>
+      {{ g.content|safe }}
+    </section>
+    {% else %}
+    <section class="empty-text" data-pagefind-ignore>
+      <h2>Full text</h2>
+      <p>The full text has not been converted yet. Use the official source link above.</p>
+    </section>
+    {% endif %}
+  </article>
+</div>
+{% endblock %}
