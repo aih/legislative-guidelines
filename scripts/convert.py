@@ -371,6 +371,9 @@ def convert(doc_dir: Path) -> str:
 
 def main(argv: list[str]) -> int:
     ids = set(argv)
+    if not DOCS.exists():
+        print("no documents/ directory; run scripts/fetch.py first")
+        return 0
     for doc_dir in sorted(p for p in DOCS.iterdir() if p.is_dir()):
         if ids and doc_dir.name not in ids:
             continue
