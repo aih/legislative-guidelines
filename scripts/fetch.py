@@ -13,6 +13,8 @@ Usage:
     python scripts/fetch.py               # fetch everything not yet retrieved
     python scripts/fetch.py --force       # re-download everything
     python scripts/fetch.py eu-joint-practical-guide fr-guide-de-legistique
+    python scripts/fetch.py eu-joint-practical-guide --file ~/Downloads/KB0213228ENN.pdf
+                                          # import a document downloaded by hand
 """
 from __future__ import annotations
 
@@ -188,14 +190,66 @@ def fetch_entry(session: requests.Session, entry: dict) -> dict:
     return record
 
 
+def import_file(entry: dict, path: Path, url: str | None) -> dict:
+    """Store a document downloaded by hand as documents/<id>/original.<ext>."""
+    content = path.read_bytes()
+    record: dict = {
+        "retrieved_at": dt.datetime.fromtimestamp(path.stat().st_mtime, dt.timezone.utc).isoformat(timespec="seconds"),
+        "requested_url": url or entry.get("source_url"),
+        "final_url": url or entry.get("source_url"),
+        "manual": True,
+    }
+    ext = path.suffix.lower()
+    ext = ".html" if ext == ".htm" else ext
+    if ext not in {".pdf", ".html", ".doc", ".docx", ".odt", ".rtf"}:
+        record["error"] = f"unsupported file type {path.suffix!r}"
+        return record
+    if len(content) < MIN_DOCUMENT_BYTES:
+        record["error"] = f"file too small to be the document ({len(content)} bytes)"
+        return record
+    if ext == ".pdf" and content[:4] != b"%PDF":
+        record["error"] = "file has a .pdf extension but is not a PDF"
+        return record
+    out_dir = DOCS / entry["id"]
+    out_dir.mkdir(parents=True, exist_ok=True)
+    for old in out_dir.glob("original.*"):
+        old.unlink()
+    target = out_dir / f"original{ext}"
+    target.write_bytes(content)
+    record.update(
+        {
+            "file": str(target.relative_to(ROOT)),
+            "format": ext.lstrip(".").upper(),
+            "bytes": len(content),
+            "sha256": hashlib.sha256(content).hexdigest(),
+        }
+    )
+    return record
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("ids", nargs="*", help="only fetch these catalog ids")
     parser.add_argument("--force", action="store_true", help="re-download documents already retrieved")
+    parser.add_argument("--file", type=Path, help="import this downloaded file for the single id given")
+    parser.add_argument("--url", help="with --file: the URL the file was downloaded from, if not the catalog's source_url")
     args = parser.parse_args()
 
     catalog = load_catalog()
     retrieval = load_retrieval()
+    if args.file:
+        if len(args.ids) != 1:
+            parser.error("--file needs exactly one catalog id")
+        entry = next((e for e in catalog if e["id"] == args.ids[0]), None)
+        if entry is None:
+            parser.error(f"{args.ids[0]} is not in the catalog")
+        record = import_file(entry, args.file.expanduser(), args.url)
+        print(f"{entry['id']:50s} {record.get('error') or record['format'] + ' ' + format(record['bytes'], ',') + ' bytes'}")
+        if record.get("error"):
+            return 1
+        retrieval[entry["id"]] = record
+        save_retrieval(retrieval)
+        return 0
     session = requests.Session()
     failures = 0
     for entry in catalog:
