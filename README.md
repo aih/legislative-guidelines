@@ -6,7 +6,7 @@ full text converted to HTML. It follows the approach of the
 [Commonwealth Legislative Drafting Manual](https://github.com/aih/commonwealth-leg-drafting-manual) web edition,
 extended to many documents.
 
-Site: <https://aih.github.io/legislative-guidelines/> (deployed from `main` by GitHub Actions).
+Site: <https://aih.github.io/legislative-guidelines/> (deployed from `main` by GitHub Actions; see [Deployment](#deployment)).
 
 ## Layout
 
@@ -34,6 +34,35 @@ python scripts/build_site.py             # dist/
 npx -y pagefind@1.3.0 --site dist        # full-text search index
 python -m http.server -d dist 8000
 ```
+
+## Deployment
+
+`.github/workflows/deploy.yml` builds the site on every push to `main` and publishes `dist/` to GitHub Pages with
+`actions/deploy-pages`. Pull requests run the build without deploying. The build fetches any catalogued document not
+already stored under `documents/`, converts it, builds the site and runs Pagefind. The repository's Pages source is
+set to **GitHub Actions** (Settings → Pages).
+
+Repository variables (Settings → Secrets and variables → Actions → Variables):
+
+| Variable | Purpose |
+|---|---|
+| `SITE_URL` | Absolute site URL used in `opensearch.xml`. Defaults to `https://<owner>.github.io/<repo>/`. |
+| `FORM_ENDPOINT` | Formspree-compatible endpoint for the submission form. |
+
+### Custom domain
+
+To serve the site at `legdraft.linkedlegislation.org`:
+
+1. At the DNS provider for `linkedlegislation.org`, add a record `legdraft  CNAME  aih.github.io.`
+2. Set the domain on the Pages site:
+   `gh api -X PUT repos/aih/legislative-guidelines/pages -f cname=legdraft.linkedlegislation.org`
+3. Set the `SITE_URL` variable: `gh variable set SITE_URL --body https://legdraft.linkedlegislation.org/`
+4. Once GitHub has issued the certificate (Settings → Pages shows the domain as verified), enforce HTTPS:
+   `gh api -X PUT repos/aih/legislative-guidelines/pages -F https_enforced=true`
+5. Re-run the workflow (`gh workflow run deploy.yml`).
+
+All links in the site are relative, so the same build works at both addresses. Verifying `linkedlegislation.org`
+under the account's Settings → Pages → Verified domains prevents other accounts from claiming its subdomains.
 
 ## Search
 
