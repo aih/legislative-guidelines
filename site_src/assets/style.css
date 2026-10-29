@@ -227,3 +227,7 @@ dl.meta dd { margin: 0; overflow-wrap: anywhere; }
   .hero h1 { font-size: 1.6rem; }
   .filters .count { margin-left: 0; }
 }
+
+.text-flag { display: inline-block; font-size: .75rem; font-weight: 700; padding: .1rem .45rem; border-radius: 3px; white-space: nowrap; }
+.text-flag-yes { background: #e7f2f5; color: var(--primary); box-shadow: inset 0 0 0 1px #9bc3d4; }
+.text-flag-no { background: #fff; color: var(--muted); box-shadow: inset 0 0 0 1px var(--line); }
