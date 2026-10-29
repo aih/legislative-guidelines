@@ -588,7 +588,7 @@
   source_url: https://moodle2.units.it/pluginfile.php/210470/mod_resource/content/1/Presidenza%20del%20Consiglio%20dei%20ministri%2C%20Circolare%2020%20aprile%202001.pdf
   landing_url: https://www.senato.it/istituzione/redazione-dei-testi-legislativi
   license: Official work
-  notes: Source URL is a university mirror; the Senate landing page could not be fetched on 2026-10-29.
+  notes: Source URL is a university mirror that requires a login. The stored copy is the Senate of the Republic's edition, downloaded by hand via the landing page on 2026-10-29; it also contains the President of the Senate's circular of 10 January 1997 on the preparation of legislation.
 
 # ---------------------------------------------------------------- Nordic
 - id: fi-lainkirjoittajan-opas

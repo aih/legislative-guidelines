@@ -1,0 +1,547 @@
+[
+ {
+  "id": "opc-drafting-manual",
+  "level": 2,
+  "title": "OPC Drafting Manual"
+ },
+ {
+  "id": "edition-3-2-july-2019",
+  "level": 2,
+  "title": "edition 3.2 July 2019"
+ },
+ {
+  "id": "contents",
+  "level": 3,
+  "title": "Contents"
+ },
+ {
+  "id": "purpose-of-the-manual-5-overview-5-relationship-to-other-doc",
+  "level": 5,
+  "title": "Purpose of the manual 5 Overview 5 Relationship to other documents 5"
+ },
+ {
+  "id": "overview-6-format-of-legislation-6-bill-titles-6",
+  "level": 5,
+  "title": "Overview 6 Format of legislation 6 Bill titles 6"
+ },
+ {
+  "id": "instrument-names-8",
+  "level": 5,
+  "title": "Instrument names 8"
+ },
+ {
+  "id": "portfolio-for-cover-page-of-bill-8-ministerial-title-for-sig",
+  "level": 5,
+  "title": "Portfolio for cover page of Bill 8 Ministerial title for signature page of regulations 9 Name and title of rule-maker for signature page of instruments 9 Commencement provisions 9 Amending forms 10 Textual amendments 10 Definitions 11"
+ },
+ {
+  "id": "units-of-text-in-acts-and-instruments-11-numbering-and-lette",
+  "level": 5,
+  "title": "Units of text in Acts and instruments 11 Numbering and lettering 12"
+ },
+ {
+  "id": "application-provisions-12-transitional-provisions-12-legisla",
+  "level": 5,
+  "title": "Application provisions 12 Transitional provisions 12 Legislation with special formats and rules 13"
+ },
+ {
+  "id": "plain-english-and-plain-language-13",
+  "level": 5,
+  "title": "Plain English and plain language 13"
+ },
+ {
+  "id": "macquarie-dictionary-and-the-style-manual-13-gender-neutral-",
+  "level": 5,
+  "title": "Macquarie Dictionary and the Style Manual 13 Gender-neutral language 14 Use of various expressions in legislation 14 Constitutional law 14 Taxation 15 Application of legislation in relation to various maritime and external areas 15 Exercise of powers etc. (including by Governor-General) 15 Offences, penalties, self-incrimination, secrecy provisions and enforcement powers 16 Statutory authorities 17 Tribunals and other administrative bodies 17 Subordinate instruments 17 Evidence and proof (including oaths and affirmations) 18 Australian governments or jurisdictions 18 Commonwealth agreements (including treaties and conventions etc.) 18 Appropriations and public money 19 Explanatory material 19 Introduction 20 Manuals 20 Office Procedural Circulars 20 Information Technology Circulars and Word Notes 20 Procedural matters covered by Drafting Directions 21"
+ },
+ {
+  "id": "components-of-bills-and-instruments-28",
+  "level": 5,
+  "title": "Components of Bills and instruments 28"
+ },
+ {
+  "id": "components-of-bills-bills-using-division-section-numbering-3",
+  "level": 5,
+  "title": "Components of Bills—Bills using Division-section numbering 33"
+ },
+ {
+  "id": "components-of-instruments-instruments-using-part-section-num",
+  "level": 5,
+  "title": "Components of instruments—instruments using Part-section numbering 33"
+ },
+ {
+  "id": "components-of-instruments-instruments-using-numbering-to-ref",
+  "level": 5,
+  "title": "Components of instruments—instruments using numbering to reflect the number of the parent Act 34"
+ },
+ {
+  "id": "purpose-of-the-manual-overview",
+  "level": 3,
+  "title": "Purpose of the manual Overview"
+ },
+ {
+  "id": "relationship-to-other-documents",
+  "level": 3,
+  "title": "Relationship to other documents"
+ },
+ {
+  "id": "drafting-directions",
+  "level": 4,
+  "title": "Drafting Directions"
+ },
+ {
+  "id": "drafting-notes-including-instrument-drafting-notes",
+  "level": 4,
+  "title": "Drafting Notes (including Instrument Drafting Notes)"
+ },
+ {
+  "id": "fpc-emails",
+  "level": 4,
+  "title": "FPC emails"
+ },
+ {
+  "id": "relationship-with-this-manual",
+  "level": 4,
+  "title": "Relationship with this manual"
+ },
+ {
+  "id": "presentation-and-form-of-legislation",
+  "level": 2,
+  "title": "Presentation and form of legislation"
+ },
+ {
+  "id": "overview",
+  "level": 3,
+  "title": "Overview"
+ },
+ {
+  "id": "format-of-legislation",
+  "level": 3,
+  "title": "Format of legislation"
+ },
+ {
+  "id": "bill-titles",
+  "level": 3,
+  "title": "Bill titles"
+ },
+ {
+  "id": "general",
+  "level": 4,
+  "title": "General"
+ },
+ {
+  "id": "long-titles-for-bills",
+  "level": 4,
+  "title": "Long titles for Bills"
+ },
+ {
+  "id": "short-titles-for-bills",
+  "level": 4,
+  "title": "Short titles for Bills"
+ },
+ {
+  "id": "act-numbers",
+  "level": 4,
+  "title": "Act numbers"
+ },
+ {
+  "id": "instrument-names",
+  "level": 3,
+  "title": "Instrument names"
+ },
+ {
+  "id": "general-2",
+  "level": 4,
+  "title": "General"
+ },
+ {
+  "id": "frl-numbers-legislative-instruments",
+  "level": 4,
+  "title": "FRL numbers—legislative instruments"
+ },
+ {
+  "id": "portfolio-for-cover-page-of-bill",
+  "level": 3,
+  "title": "Portfolio for cover page of Bill"
+ },
+ {
+  "id": "ministerial-title-for-signature-page-of-regulations",
+  "level": 3,
+  "title": "Ministerial title for signature page of regulations"
+ },
+ {
+  "id": "name-and-title-of-rule-maker-for-signature-page-of-instrumen",
+  "level": 3,
+  "title": "Name and title of rule-maker for signature page of instruments"
+ },
+ {
+  "id": "commencement-provisions",
+  "level": 3,
+  "title": "Commencement provisions"
+ },
+ {
+  "id": "amending-forms",
+  "level": 3,
+  "title": "Amending forms"
+ },
+ {
+  "id": "textual-amendments",
+  "level": 3,
+  "title": "Textual amendments"
+ },
+ {
+  "id": "definitions",
+  "level": 3,
+  "title": "Definitions"
+ },
+ {
+  "id": "introduction",
+  "level": 4,
+  "title": "Introduction"
+ },
+ {
+  "id": "asterisking-to-identify-defined-terms",
+  "level": 4,
+  "title": "Asterisking to identify defined terms"
+ },
+ {
+  "id": "units-of-text-in-acts-and-instruments",
+  "level": 3,
+  "title": "Units of text in Acts and instruments"
+ },
+ {
+  "id": "numbering-and-lettering",
+  "level": 3,
+  "title": "Numbering and lettering"
+ },
+ {
+  "id": "general-3",
+  "level": 4,
+  "title": "General"
+ },
+ {
+  "id": "naming-conventions",
+  "level": 4,
+  "title": "Naming conventions"
+ },
+ {
+  "id": "application-provisions",
+  "level": 3,
+  "title": "Application provisions"
+ },
+ {
+  "id": "transitional-provisions",
+  "level": 3,
+  "title": "Transitional provisions"
+ },
+ {
+  "id": "legislation-with-special-formats-and-rules",
+  "level": 3,
+  "title": "Legislation with special formats and rules"
+ },
+ {
+  "id": "tax-code-bills",
+  "level": 4,
+  "title": "Tax Code Bills"
+ },
+ {
+  "id": "social-security-bills",
+  "level": 4,
+  "title": "Social Security Bills"
+ },
+ {
+  "id": "usage-including-plain-language",
+  "level": 2,
+  "title": "Usage (including plain language)"
+ },
+ {
+  "id": "plain-english-and-plain-language",
+  "level": 3,
+  "title": "Plain English and plain language"
+ },
+ {
+  "id": "macquarie-dictionary-and-the-style-manual",
+  "level": 3,
+  "title": "Macquarie Dictionary and the Style Manual"
+ },
+ {
+  "id": "gender-neutral-language",
+  "level": 3,
+  "title": "Gender-neutral language"
+ },
+ {
+  "id": "use-of-various-expressions-in-legislation",
+  "level": 3,
+  "title": "Use of various expressions in legislation"
+ },
+ {
+  "id": "content",
+  "level": 2,
+  "title": "Content"
+ },
+ {
+  "id": "constitutional-law",
+  "level": 3,
+  "title": "Constitutional law"
+ },
+ {
+  "id": "taxation",
+  "level": 3,
+  "title": "Taxation"
+ },
+ {
+  "id": "application-of-legislation-in-relation-to-various-maritime-a",
+  "level": 3,
+  "title": "Application of legislation in relation to various maritime and external areas"
+ },
+ {
+  "id": "exercise-of-powers-etc-including-by-governor-general",
+  "level": 3,
+  "title": "Exercise of powers etc. (including by Governor-General)"
+ },
+ {
+  "id": "offences-penalties-self-incrimination-secrecy-provisions-and",
+  "level": 3,
+  "title": "Offences, penalties, self-incrimination, secrecy provisions and enforcement powers"
+ },
+ {
+  "id": "statutory-authorities",
+  "level": 3,
+  "title": "Statutory authorities"
+ },
+ {
+  "id": "tribunals-and-other-administrative-bodies",
+  "level": 3,
+  "title": "Tribunals and other administrative bodies"
+ },
+ {
+  "id": "subordinate-instruments",
+  "level": 3,
+  "title": "Subordinate instruments"
+ },
+ {
+  "id": "evidence-and-proof-including-oaths-and-affirmations",
+  "level": 3,
+  "title": "Evidence and proof (including oaths and affirmations)"
+ },
+ {
+  "id": "australian-governments-or-jurisdictions",
+  "level": 3,
+  "title": "Australian governments or jurisdictions"
+ },
+ {
+  "id": "commonwealth-agreements-including-treaties-and-conventions-e",
+  "level": 3,
+  "title": "Commonwealth agreements (including treaties and conventions etc.)"
+ },
+ {
+  "id": "appropriations-and-public-money",
+  "level": 3,
+  "title": "Appropriations and public money"
+ },
+ {
+  "id": "explanatory-material",
+  "level": 3,
+  "title": "Explanatory material"
+ },
+ {
+  "id": "procedural-matters",
+  "level": 2,
+  "title": "Procedural matters"
+ },
+ {
+  "id": "introduction-2",
+  "level": 3,
+  "title": "Introduction"
+ },
+ {
+  "id": "manuals",
+  "level": 3,
+  "title": "Manuals"
+ },
+ {
+  "id": "office-procedural-circulars",
+  "level": 3,
+  "title": "Office Procedural Circulars"
+ },
+ {
+  "id": "information-technology-circulars-and-word-notes",
+  "level": 3,
+  "title": "Information Technology Circulars and Word Notes"
+ },
+ {
+  "id": "procedural-matters-covered-by-drafting-directions",
+  "level": 3,
+  "title": "Procedural matters covered by Drafting Directions"
+ },
+ {
+  "id": "introduction-3",
+  "level": 4,
+  "title": "Introduction"
+ },
+ {
+  "id": "relationships-with-instructors",
+  "level": 4,
+  "title": "Relationships with instructors"
+ },
+ {
+  "id": "referral-of-legislation-to-other-agencies",
+  "level": 4,
+  "title": "Referral of legislation to other agencies"
+ },
+ {
+  "id": "consultation-with-states-and-territories-under-an-intergover",
+  "level": 4,
+  "title": "Consultation with States and Territories under an intergovernmental agreement"
+ },
+ {
+  "id": "statute-law-revision-amendments-and-technical-errors-in-bill",
+  "level": 4,
+  "title": "Statute law revision amendments and technical errors in Bills and instruments"
+ },
+ {
+  "id": "australian-government-solicitor-advice",
+  "level": 4,
+  "title": "Australian Government Solicitor advice"
+ },
+ {
+  "id": "legislation-approval-process-for-bills-and-parliamentary-ame",
+  "level": 4,
+  "title": "Legislation Approval Process for Bills and parliamentary amendments"
+ },
+ {
+  "id": "house-of-introduction",
+  "level": 4,
+  "title": "House of introduction"
+ },
+ {
+  "id": "deputy-speaker-s-and-chair-s-amendments",
+  "level": 4,
+  "title": "Deputy Speaker’s and Chair’s amendments"
+ },
+ {
+  "id": "parliamentary-amendments-procedural-matters",
+  "level": 4,
+  "title": "Parliamentary amendments—procedural matters"
+ },
+ {
+  "id": "messages-for-bills-and-parliamentary-amendments",
+  "level": 4,
+  "title": "Messages for Bills and parliamentary amendments"
+ },
+ {
+  "id": "parliamentary-amendments-and-requests",
+  "level": 4,
+  "title": "Parliamentary amendments and requests"
+ },
+ {
+  "id": "presentation-of-bills-for-royal-assent",
+  "level": 4,
+  "title": "Presentation of Bills for Royal Assent"
+ },
+ {
+  "id": "attachment-a-components-of-bills-and-instruments",
+  "level": 2,
+  "title": "Attachment A—Components of Bills and instruments"
+ },
+ {
+  "id": "components-of-bills-and-instruments",
+  "level": 3,
+  "title": "Components of Bills and instruments"
+ },
+ {
+  "id": "chapters",
+  "level": 4,
+  "title": "Chapters"
+ },
+ {
+  "id": "parts",
+  "level": 4,
+  "title": "Parts"
+ },
+ {
+  "id": "divisions",
+  "level": 4,
+  "title": "Divisions"
+ },
+ {
+  "id": "subdivisions",
+  "level": 4,
+  "title": "Subdivisions"
+ },
+ {
+  "id": "sections",
+  "level": 4,
+  "title": "Sections"
+ },
+ {
+  "id": "subsections",
+  "level": 4,
+  "title": "Subsections"
+ },
+ {
+  "id": "paragraphs",
+  "level": 4,
+  "title": "Paragraphs"
+ },
+ {
+  "id": "subparagraphs",
+  "level": 4,
+  "title": "Subparagraphs"
+ },
+ {
+  "id": "sub-subparagraphs",
+  "level": 4,
+  "title": "Sub-subparagraphs"
+ },
+ {
+  "id": "other-components-of-bills-acts-and-instruments",
+  "level": 4,
+  "title": "Other components of Bills, Acts and instruments"
+ },
+ {
+  "id": "components-of-bills-bills-using-division-section-numbering",
+  "level": 3,
+  "title": "Components of Bills—Bills using Division-section numbering"
+ },
+ {
+  "id": "description-of-the-division-section-numbering-system",
+  "level": 4,
+  "title": "Description of the Division-section numbering system"
+ },
+ {
+  "id": "modifications-of-the-standard-numbering-system",
+  "level": 4,
+  "title": "Modifications of the standard numbering system"
+ },
+ {
+  "id": "components-of-instruments-instruments-using-part-section-num-2",
+  "level": 3,
+  "title": "Components of instruments—instruments using Part-section numbering"
+ },
+ {
+  "id": "description-of-the-part-section-numbering-system",
+  "level": 4,
+  "title": "Description of the Part-section numbering system"
+ },
+ {
+  "id": "modifications-of-the-standard-numbering-system-2",
+  "level": 4,
+  "title": "Modifications of the standard numbering system"
+ },
+ {
+  "id": "components-of-instruments-instruments-using-numbering-to-ref-2",
+  "level": 3,
+  "title": "Components of instruments—instruments using numbering to reflect the number of the parent Act"
+ },
+ {
+  "id": "description-of-this-numbering-system",
+  "level": 4,
+  "title": "Description of this numbering system"
+ },
+ {
+  "id": "modifications-of-the-standard-numbering-system-3",
+  "level": 4,
+  "title": "Modifications of the standard numbering system"
+ }
+]

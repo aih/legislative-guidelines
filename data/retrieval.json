@@ -16,12 +16,24 @@
     "retrieved_at": "2026-10-29T15:53:23+00:00"
   },
   "au-opc-drafting-manual": {
-    "error": "ReadTimeout: HTTPSConnectionPool(host='www.opc.gov.au', port=443): Read timed out. (read timeout=90)",
-    "retrieved_at": "2026-10-29T15:48:38+00:00"
+    "bytes": 201620,
+    "file": "documents/au-opc-drafting-manual/original.pdf",
+    "final_url": "https://www.opc.gov.au/sites/default/files/2023-01/s05pq37.v27.pdf",
+    "format": "PDF",
+    "manual": true,
+    "requested_url": "https://www.opc.gov.au/sites/default/files/2023-01/s05pq37.v27.pdf",
+    "retrieved_at": "2026-10-29T19:50:37+00:00",
+    "sha256": "02692936c0bc3dd9f3bd961b92c44269eb24fb62cc8c1f50840fb87cb92a011a"
   },
   "au-opc-plain-english-manual": {
-    "error": "ReadTimeout: HTTPSConnectionPool(host='www.opc.gov.au', port=443): Read timed out. (read timeout=90)",
-    "retrieved_at": "2026-10-29T15:43:53+00:00"
+    "bytes": 775797,
+    "file": "documents/au-opc-plain-english-manual/original.pdf",
+    "final_url": "https://www.opc.gov.au/sites/default/files/2023-01/plain_english_0.pdf",
+    "format": "PDF",
+    "manual": true,
+    "requested_url": "https://www.opc.gov.au/sites/default/files/2023-01/plain_english_0.pdf",
+    "retrieved_at": "2026-10-29T19:49:23+00:00",
+    "sha256": "27eeaff5290acdd5eb584db27753b942d4145b67d04898cf7564ae1069161e81"
   },
   "ba-manual-drafting-legislation": {
     "bytes": 383610,
@@ -952,13 +964,14 @@
     "sha256": "5cf5c98e3645846d265e865e17ec0be5330a01aa4b44f1bc7345f680e75e8f92"
   },
   "es-directrices-tecnica-normativa": {
-    "content_type": "text/html; charset=utf-8",
-    "error": "HTTP 403",
+    "bytes": 294401,
+    "file": "documents/es-directrices-tecnica-normativa/original.pdf",
     "final_url": "https://www.mpr.gob.es/servicios/publicaciones/Documents/Directrices_2reimpr_linea.pdf",
-    "http_status": 403,
-    "last_modified_header": null,
+    "format": "PDF",
+    "manual": true,
     "requested_url": "https://www.mpr.gob.es/servicios/publicaciones/Documents/Directrices_2reimpr_linea.pdf",
-    "retrieved_at": "2026-10-29T15:54:29+00:00"
+    "retrieved_at": "2026-10-29T19:52:16+00:00",
+    "sha256": "4a69b89ae219ab5ee6e3b39152443eebb609510745dcb9248085d78b6a4add63"
   },
   "eu-interinstitutional-style-guide": {
     "content_type": "text/html",
@@ -979,13 +992,14 @@
     "retrieved_at": "2026-10-29T15:41:58+00:00"
   },
   "eu-joint-practical-guide": {
-    "content_type": "text/html; charset=UTF-8",
-    "error": "HTTP 202 with an empty body (bot challenge)",
+    "bytes": 643967,
+    "file": "documents/eu-joint-practical-guide/original.pdf",
     "final_url": "https://eur-lex.europa.eu/content/techleg/KB0213228ENN.pdf",
-    "http_status": 202,
-    "last_modified_header": null,
+    "format": "PDF",
+    "manual": true,
     "requested_url": "https://eur-lex.europa.eu/content/techleg/KB0213228ENN.pdf",
-    "retrieved_at": "2026-10-29T15:41:56+00:00"
+    "retrieved_at": "2026-10-29T19:23:18+00:00",
+    "sha256": "15432a87afa257b3950dcc50451a18d0c6b00d1d83fe1254f7a2ba0ef10a0265"
   },
   "fi-lainkirjoittajan-opas": {
     "bytes": 709208,
@@ -1009,13 +1023,14 @@
     "retrieved_at": "2026-10-29T15:54:17+00:00"
   },
   "it-regole-raccomandazioni-2001": {
-    "content_type": "text/html; charset=utf-8",
-    "error": "expected PDF, got an HTML page (Moodle login page)",
-    "final_url": "https://moodle2.units.it/pluginfile.php/210470/mod_resource/content/1/Presidenza%20del%20Consiglio%20dei%20ministri%2C%20Circolare%2020%20aprile%202001.pdf",
-    "http_status": 200,
-    "last_modified_header": null,
-    "requested_url": "https://moodle2.units.it/pluginfile.php/210470/mod_resource/content/1/Presidenza%20del%20Consiglio%20dei%20ministri%2C%20Circolare%2020%20aprile%202001.pdf",
-    "retrieved_at": "2026-10-29T15:54:30+00:00"
+    "bytes": 1071192,
+    "file": "documents/it-regole-raccomandazioni-2001/original.pdf",
+    "final_url": "https://www.senato.it/istituzione/redazione-dei-testi-legislativi",
+    "format": "PDF",
+    "manual": true,
+    "requested_url": "https://www.senato.it/istituzione/redazione-dei-testi-legislativi",
+    "retrieved_at": "2026-10-29T19:52:41+00:00",
+    "sha256": "2984982e8cb50c2e3b5fb9f3973cfc9abc6b88433343d7b026e9f8236373b239"
   },
   "ke-guide-legislative-process": {
     "bytes": 1925238,

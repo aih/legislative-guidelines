@@ -1,6 +1,6 @@
 # Manual downloads
 
-Documents that `scripts/fetch.py` could not download, as of 2026-10-29. Each site either blocks automated requests,
+Documents that `scripts/fetch.py` could not download and that have not yet been imported by hand, as of 2026-10-29. Each site either blocks automated requests,
 timed out, or no longer serves the catalogued URL. A browser usually gets the file.
 
 The list covers entries with an `error` in `data/retrieval.json`. The 52 catalog entries not yet attempted are not
@@ -57,14 +57,9 @@ For each document:
 
 | id | Document | Download URL | Problem |
 |---|---|---|---|
-| `eu-joint-practical-guide` | Joint Practical Guide for persons involved in the drafting of EU legislation (EU) | <https://eur-lex.europa.eu/content/techleg/KB0213228ENN.pdf> | HTTP 202 bot challenge. Alternative: the PDF link on <https://op.europa.eu/en/publication-detail/-/publication/3879747d-7a3c-411b-a3a0-55c14e2ba732> (English). |
 | `eu-joint-handbook-olp` | Joint Handbook on the ordinary legislative procedure (EU) | <https://www.consilium.europa.eu/media/ch2b24su/joint_handbook_en_28-november-2025_def_final.pdf> | HTTP 403 |
-| `au-opc-plain-english-manual` | Plain English Manual (Australia) | <https://www.opc.gov.au/sites/default/files/2023-01/plain_english_0.pdf> | Timed out. Landing page: <https://www.opc.gov.au/node/145> |
-| `au-opc-drafting-manual` | OPC Drafting Manual (Australia) | <https://www.opc.gov.au/sites/default/files/2023-01/s05pq37.v27.pdf> | Timed out. Landing page: <https://www.opc.gov.au/drafting-resources> |
 | `nz-legislation-guidelines-2021` | Legislation Guidelines: 2021 edition (New Zealand) | Find the PDF on <https://www.lac.org.nz/guidelines/legislation-guidelines-2021-edition/> | HTTP 404; the catalogued URL (regulation.govt.nz) has moved. Use `--url` and update `source_url`. |
 | `fr-guide-de-legistique` | Guide de légistique (France) | <https://www.legifrance.gouv.fr/contenu/Media/files/autour-de-la-loi/guide-de-legistique/guide_legistique_2026.pdf> | HTTP 403 |
-| `es-directrices-tecnica-normativa` | Directrices de técnica normativa (Spain) | <https://www.mpr.gob.es/servicios/publicaciones/Documents/Directrices_2reimpr_linea.pdf> | HTTP 403. Alternative: the BOE publication of the 2005 resolution, <https://www.boe.es/boe/dias/2005/07/29/pdfs/BOE-S-2005-180.pdf> (use `--url`). |
-| `it-regole-raccomandazioni-2001` | Regole e raccomandazioni per la formulazione tecnica dei testi legislativi (Italy) | <https://moodle2.units.it/pluginfile.php/210470/mod_resource/content/1/Presidenza%20del%20Consiglio%20dei%20ministri%2C%20Circolare%2020%20aprile%202001.pdf> | Requires a University of Trieste Moodle login. Look for the circular of 20 April 2001 on <https://www.senato.it/istituzione/redazione-dei-testi-legislativi> and use `--url`. |
 | `no-lovteknikk-og-lovforberedelse` | Lovteknikk og lovforberedelse (Norway) | <https://www.regjeringen.no/globalassets/upload/kilde/jd/bro/2000/0002/ddd/pdfv/108138-lovteknikkboka.pdf> | HTTP 403. Landing page: <https://www.regjeringen.no/no/dokumenter/veiledning-om-lov--og-forskriftsarbeid/id87536/> |
 
 ### HTML
@@ -82,3 +77,13 @@ Save as **Webpage, HTML Only**.
 |---|---|---|---|
 | `eu-interinstitutional-style-guide` | Interinstitutional Style Guide (EU) | <https://style-guide.europa.eu/en/> | HTTP 403. A multi-page website; saving the home page captures only the table of contents. Check the site for a PDF edition; otherwise leave the entry as source link only. |
 | `au-opc-drafting-directions` | OPC Drafting Directions (Australia) | <https://www.opc.gov.au/drafting-resources/drafting-directions> | No `source_url` in the catalog. A series of separate PDF and DOCX documents; the catalog entry needs splitting into one entry per direction, or one chosen document, before it can be downloaded. |
+
+## Imported by hand
+
+| id | File | Notes |
+|---|---|---|
+| `eu-joint-practical-guide` | `KB0213228ENN.pdf` | |
+| `au-opc-drafting-manual` | `s05pq37.v27.pdf` | Edition 3.2, July 2019 |
+| `au-opc-plain-english-manual` | `plain_english_0.pdf` | |
+| `es-directrices-tecnica-normativa` | `Directrices_2reimpr_linea.pdf` | |
+| `it-regole-raccomandazioni-2001` | Senate of the Republic edition | Recorded with the Senate landing page as its URL |

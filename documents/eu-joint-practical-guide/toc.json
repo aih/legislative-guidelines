@@ -1,0 +1,347 @@
+[
+ {
+  "id": "guide-pratique-commun",
+  "level": 2,
+  "title": "Guide pratique commun"
+ },
+ {
+  "id": "en",
+  "level": 2,
+  "title": "EN"
+ },
+ {
+  "id": "european-union",
+  "level": 4,
+  "title": "EUROPEAN UNION"
+ },
+ {
+  "id": "joint-practical-guide-of-the-european-parliament-the-council",
+  "level": 2,
+  "title": "Joint Practical Guide of the European Parliament, the Council and the Commission for persons involved in the drafting of European Union legislation"
+ },
+ {
+  "id": "joint-practical-guide-of-the-european-parliament-the-council-2",
+  "level": 2,
+  "title": "Joint Practical Guide of the European Parliament, the Council and the Commission for persons involved in the drafting of European Union legislation"
+ },
+ {
+  "id": "european-union-2",
+  "level": 4,
+  "title": "EUROPEAN UNION"
+ },
+ {
+  "id": "freephone-number-00-800-6-7-8-9-10-11",
+  "level": 5,
+  "title": "Freephone number (*): 00 800 6 7 8 9 10 11"
+ },
+ {
+  "id": "contents",
+  "level": 2,
+  "title": "CONTENTS"
+ },
+ {
+  "id": "general-principles-guidelines-1-to-6",
+  "level": 4,
+  "title": "General principles Guidelines 1 to 6"
+ },
+ {
+  "id": "different-parts-of-the-act-guidelines-7-to-15",
+  "level": 4,
+  "title": "Different parts of the act Guidelines 7 to 15"
+ },
+ {
+  "id": "internal-and-external-references-guidelines-16-and-17",
+  "level": 4,
+  "title": "Internal and external references Guidelines 16 and 17"
+ },
+ {
+  "id": "amending-acts-guidelines-18-and-19",
+  "level": 4,
+  "title": "Amending acts Guidelines 18 and 19"
+ },
+ {
+  "id": "final-provisions-repeals-and-annexes-guidelines-20-21-and-22",
+  "level": 4,
+  "title": "Final provisions, repeals and annexes Guidelines 20, 21 and 22 Prefaces"
+ },
+ {
+  "id": "preface-to-the-second-edition",
+  "level": 2,
+  "title": "PREFACE TO THE SECOND EDITION"
+ },
+ {
+  "id": "for-more-than-10-years-the-joint-practical-guide-has-proven-",
+  "level": 5,
+  "title": "For more than 10 years, the Joint Practical Guide has proven to be a valuable tool in ensuring that the legal acts drawn up by the European Parliament, the Council and the Commission are drafted clearly and precisely. The principles set out in the guide are the point of reference for matters of legislative drafting for the three institutions. However, since the first edition of the guide was published in 2000, numerous changes have taken place in what is now Union law. It was necessary to consolidate the partial updates which were already available online and the adaptations introduced by the Lisbon Treaty (1) into a new edition. This edition has also been simplified in certain respects and takes account of the most recent changes. Further developments are also expected; when the time comes, they will have to be integrated into the text of the guide by the Think- tank on Legislative Technique (2), which will be responsible for ensuring it is kept up to date. The Joint Practical Guide is a platform of general drafting principles. Each ins titution uses the guide alongside other instruments which contain specific standard formulations and more detailed practical rules. May the guide, as adapted and updated, continue to contribute to the quality of legal acts of the Union."
+ },
+ {
+  "id": "preface-to-the-first-edition",
+  "level": 2,
+  "title": "PREFACE TO THE FIRST EDITION"
+ },
+ {
+  "id": "in-order-for-community-legislation-to-be-better-understood-a",
+  "level": 5,
+  "title": "In order for Community legislation to be better understood and correctly implemented, it is essential to ensure that it is well drafted. Acts adopted by the Community institutions must be drawn up in an intelligible and consistent manner, in accordance with uniform principles of presentation and legislative drafting, so that citizens and economic operators can identify their rights and obligations and the courts can enforce them, and so that, where necessary, the Member States can correctly transpose those acts in due time. Since the Edinburgh European Council in 1992, the need for better lawmaking — by clearer, simpler acts complying with principles of good legislative drafting — has been recognised at the highest political level. The Council and the Commission have both taken steps to meet that need (3). It was reaffirmed by Declaration No 39 on the quality of the drafting of Community legislation, annexed to the final act of the Amsterdam Treaty. As a result of that declaration, the three institutions involved in the procedure for the adoption of Community acts, the European Parliament, the Council and the Commission, adopted common guidelines intended to improve the quality of drafting of Community legislation by the Interinstitutional Agreement of 22 December 1998 (4). This guide has been drawn up by the three legal services pursuant to that agreement to develop the content and explain the implications of those guidelines, by commenting on each guideline individually and illustrating them with examples. It is intended to be used by everyone who is involved in the drafting of the most common types of Community acts. Furthermore, it should serve as inspiration for any act of the institutions, whether within the framework of the Community treaties or within that of the titles of the Treaty on European Union relating to the common foreign and security policy and police and judicial cooperation in criminal matters. The Joint Practical Guide is to be used in conjunction with other more specific instruments, such as the Council’s Manual of Precedents, the Commission’s Manual on Legislative Drafting, the Interinstitutional style guide published by the Publications Office of the European Union or the models in LegisWrite. In addition, it will always be useful and often indispensable to refer to the relevant provisions of the treaties and the key basic acts in a specific field."
+ },
+ {
+  "id": "staff-of-the-three-institutions-are-urged-to-use-the-guide-a",
+  "level": 5,
+  "title": "Staff of the three institutions are urged to use the guide and to contribute to it with their comments. These may be sent at any time to the interinstitutional group on the quality of drafting, which will keep the guide updated. The three legal services hope that the guide will assist all those involved, in any way, in drafting legislative acts within the institutions. They will all be able to work towards the common goal of presenting to European citizens legislation which makes clear the objectives of the European Union and the means it deploys to attain them."
+ },
+ {
+  "id": "general-principles",
+  "level": 2,
+  "title": "General principles"
+ },
+ {
+  "id": "guidelines-1-to-6",
+  "level": 3,
+  "title": "Guidelines 1 to 6"
+ },
+ {
+  "id": "1-6",
+  "level": 4,
+  "title": "1/6"
+ },
+ {
+  "id": "legal-acts-of-the-union-shall-be-drafted-clearly-simply-and-",
+  "level": 5,
+  "title": "LEGAL ACTS OF THE UNION SHALL BE DRAFTED CLEARLY, SIMPLY AND PRECISELY (*)."
+ },
+ {
+  "id": "the-drafting-of-union-acts-shall-be-appropriate-to-the-type-",
+  "level": 5,
+  "title": "THE DRAFTING OF UNION ACTS SHALL BE APPROPRIATE TO THE TYPE OF ACT CONCERNED AND, IN PARTICULAR, TO WHETHER OR NOT IT IS BINDING (REGULATION, DIRECTIVE, DECISION, RECOMMENDATION, OR OTHER ACT) (*)."
+ },
+ {
+  "id": "the-drafting-of-acts-shall-take-account-of-the-persons-to-wh",
+  "level": 5,
+  "title": "THE DRAFTING OF ACTS SHALL TAKE ACCOUNT OF THE PERSONS TO WHOM THEY ARE INTENDED TO APPLY, WITH A VIEW TO ENABLING THEM TO IDENTIFY THEIR RIGHTS AND OBLIGATIONS UNAMBIGUOUSLY, AND OF THE PERSONS RESPONSIBLE FOR PUTTING THE ACTS INTO EFFECT."
+ },
+ {
+  "id": "counterfeit-analysis-centre-and-counterfeit-currency-databas",
+  "level": 5,
+  "title": "Counterfeit Analysis Centre and counterfeit currency database"
+ },
+ {
+  "id": "provisions-of-acts-shall-be-concise-and-their-content-should",
+  "level": 5,
+  "title": "PROVISIONS OF ACTS SHALL BE CONCISE AND THEIR CONTENT SHOULD BE AS HOMOGENEOUS AS POSSIBLE. OVERLY LONG ARTICLES AND SENTENCES, UNNECESSARILY CONVOLUTED WORDING AND EXCESSIVE USE OF ABBREVIATIONS SHOULD BE AVOIDED."
+ },
+ {
+  "id": "throughout-the-process-leading-to-their-adoption-draft-acts-",
+  "level": 5,
+  "title": "THROUGHOUT THE PROCESS LEADING TO THEIR ADOPTION, DRAFT ACTS SHALL BE FRAMED IN TERMS AND SENTENCE STRUCTURES WHICH RESPECT THE MULTILINGUAL NATURE OF UNION LEGISLATION; CONCEPTS OR TERMINOLOGY SPECIFIC TO ANY ONE NATIONAL LEGAL SYSTEM ARE TO BE USED WITH CARE (*)."
+ },
+ {
+  "id": "the-terminology-used-in-a-given-act-shall-be-consistent-both",
+  "level": 5,
+  "title": "THE TERMINOLOGY USED IN A GIVEN ACT SHALL BE CONSISTENT BOTH INTERNALLY AND WITH ACTS ALREADY IN FORCE, ESPECIALLY IN THE SAME FIELD."
+ },
+ {
+  "id": "identical-concepts-shall-be-expressed-in-the-same-terms-as-f",
+  "level": 5,
+  "title": "IDENTICAL CONCEPTS SHALL BE EXPRESSED IN THE SAME TERMS, AS FAR AS POSSIBLE WITHOUT DEPARTING FROM THEIR MEANING IN ORDINARY, LEGAL OR TECHNICAL LANGUAGE."
+ },
+ {
+  "id": "different-parts-of-the-act",
+  "level": 2,
+  "title": "Different parts of the act"
+ },
+ {
+  "id": "guidelines-7-to-15",
+  "level": 3,
+  "title": "Guidelines 7 to 15"
+ },
+ {
+  "id": "7-15",
+  "level": 4,
+  "title": "7/15"
+ },
+ {
+  "id": "all-acts-of-general-application-shall-be-drafted-according-t",
+  "level": 5,
+  "title": "ALL ACTS OF GENERAL APPLICATION SHALL BE DRAFTED ACCORDING TO A STANDARD STRUCTURE (TITLE — PREAMBLE — ENACTING TERMS — ANNEXES, WHERE NECESSARY) (*)."
+ },
+ {
+  "id": "the-title-of-an-act-shall-give-as-succinct-and-full-an-indic",
+  "level": 5,
+  "title": "THE TITLE OF AN ACT SHALL GIVE AS SUCCINCT AND FULL AN INDICATION AS POSSIBLE OF THE SUBJECT MATTER WHICH DOES NOT MISLEAD THE READER AS TO THE CONTENT OF THE ENACTING TERMS. WHERE APPROPRIATE, THE FULL TITLE OF THE ACT MAY BE FOLLOWED BY A SHORT TITLE."
+ },
+ {
+  "id": "the-purpose-of-the-citations-is-to-set-out-the-legal-basis-o",
+  "level": 5,
+  "title": "THE PURPOSE OF THE CITATIONS IS TO SET OUT THE LEGAL BASIS OF THE ACT AND THE MAIN STEPS IN THE PROCEDURE LEADING TO ITS ADOPTION."
+ },
+ {
+  "id": "the-purpose-of-the-recitals-is-to-set-out-concise-reasons-fo",
+  "level": 5,
+  "title": "THE PURPOSE OF THE RECITALS IS TO SET OUT CONCISE REASONS FOR THE CHIEF PROVISIONS OF THE ENACTING TERMS, WITHOUT REPRODUCING OR PARAPHRASING THEM. THEY SHALL NOT CONTAIN NORMATIVE PROVISIONS OR POLITICAL EXHORTATIONS."
+ },
+ {
+  "id": "each-recital-shall-be-numbered",
+  "level": 5,
+  "title": "EACH RECITAL SHALL BE NUMBERED."
+ },
+ {
+  "id": "the-enacting-terms-of-a-binding-act-shall-not-include-provis",
+  "level": 5,
+  "title": "THE ENACTING TERMS OF A BINDING ACT SHALL NOT INCLUDE PROVISIONS OF A NON-NORMATIVE NATURE, SUCH AS WISHES OR POLITICAL DECLARATIONS, OR THOSE WHICH REPEAT OR PARAPHRASE PASSAGES OR ARTICLES FROM THE TREATIES OR THOSE WHICH RESTATE LEGAL PROVISIONS ALREADY IN FORCE."
+ },
+ {
+  "id": "acts-shall-not-include-provisions-which-enunciate-the-conten",
+  "level": 5,
+  "title": "ACTS SHALL NOT INCLUDE PROVISIONS WHICH ENUNCIATE THE CONTENT OF OTHER ARTICLES OR REPEAT THE TITLE OF THE ACT."
+ },
+ {
+  "id": "where-appropriate-an-article-shall-be-included-at-the-beginn",
+  "level": 5,
+  "title": "WHERE APPROPRIATE, AN ARTICLE SHALL BE INCLUDED AT THE BEGINNING OF THE ENACTING TERMS TO DEFINE THE SUBJECT MATTER AND SCOPE OF THE ACT."
+ },
+ {
+  "id": "where-the-terms-used-in-the-act-are-not-unambiguous-they-sho",
+  "level": 5,
+  "title": "WHERE THE TERMS USED IN THE ACT ARE NOT UNAMBIGUOUS, THEY SHOULD BE DEFINED TOGETHER IN A SINGLE ARTICLE AT THE BEGINNING OF THE ACT. THE DEFINITIONS SHALL NOT CONTAIN AUTONOMOUS NORMATIVE PROVISIONS."
+ },
+ {
+  "id": "as-far-as-possible-the-enacting-terms-shall-have-a-standard-",
+  "level": 5,
+  "title": "AS FAR AS POSSIBLE, THE ENACTING TERMS SHALL HAVE A STANDARD STRUCTURE (SUBJECT MATTER AND SCOPE — DEFINITIONS — RIGHTS AND OBLIGATIONS — PROVISIONS DELEGATING POWERS AND CONFERRING IMPLEMENTING POWERS — PROCEDURAL PROVISIONS — MEASURES RELATING TO IMPLEMENTATION — TRANSITIONAL AND FINAL PROVISIONS)."
+ },
+ {
+  "id": "the-enacting-terms-shall-be-subdivided-into-articles-and-dep",
+  "level": 5,
+  "title": "THE ENACTING TERMS SHALL BE SUBDIVIDED INTO ARTICLES AND, DEPENDING ON THEIR LENGTH AND COMPLEXITY, INTO TITLES, CHAPTERS AND SECTIONS. WHEN AN ARTICLE CONTAINS A LIST, EACH ITEM ON THE LIST SHOULD BE IDENTIFIED BY A NUMBER OR A LETTER RATHER THAN AN INDENT (*)."
+ },
+ {
+  "id": "16-17",
+  "level": 4,
+  "title": "16/17"
+ },
+ {
+  "id": "internal-and-external-references",
+  "level": 2,
+  "title": "Internal and external references"
+ },
+ {
+  "id": "guidelines-16-and-17",
+  "level": 3,
+  "title": "Guidelines 16 and 17"
+ },
+ {
+  "id": "references-to-other-acts-should-be-kept-to-a-minimum-referen",
+  "level": 5,
+  "title": "REFERENCES TO OTHER ACTS SHOULD BE KEPT TO A MINIMUM. REFERENCES SHALL INDICATE PRECISELY THE ACT OR PROVISION TO WHICH THEY REFER. CIRCULAR REFERENCES (REFERENCES TO AN ACT OR AN ARTICLE WHICH ITSELF REFERS BACK TO THE INITIAL PROVISION) AND SERIAL REFERENCES (REFERENCES TO A PROVISION WHICH ITSELF REFERS TO ANOTHER PROVISION) SHALL ALSO BE AVOIDED."
+ },
+ {
+  "id": "rather-than",
+  "level": 5,
+  "title": "Rather than:"
+ },
+ {
+  "id": "use",
+  "level": 5,
+  "title": "use:"
+ },
+ {
+  "id": "example-of-drafting-to-be-avoided",
+  "level": 5,
+  "title": "Example of drafting to be avoided:"
+ },
+ {
+  "id": "better-drafting",
+  "level": 5,
+  "title": "Better drafting:"
+ },
+ {
+  "id": "a-reference-made-in-the-enacting-terms-of-a-binding-act-to-a",
+  "level": 5,
+  "title": "A REFERENCE MADE IN THE ENACTING TERMS OF A BINDING ACT TO A NON-BINDING ACT SHALL NOT HAVE THE EFFECT OF MAKING THE LATTER BINDING. SHOULD THE DRAFTERS WISH TO RENDER BINDING THE WHOLE OR PART OF THE CONTENT OF THE NON-BINDING ACT, ITS TERMS SHOULD AS FAR AS POSSIBLE BE SET OUT AS PART OF THE BINDING ACT."
+ },
+ {
+  "id": "amending-acts",
+  "level": 2,
+  "title": "Amending acts"
+ },
+ {
+  "id": "guidelines-18-and-19",
+  "level": 3,
+  "title": "Guidelines 18 and 19"
+ },
+ {
+  "id": "18-19",
+  "level": 4,
+  "title": "18/19"
+ },
+ {
+  "id": "every-amendment-of-an-act-shall-be-clearly-expressed-amendme",
+  "level": 5,
+  "title": "EVERY AMENDMENT OF AN ACT SHALL BE CLEARLY EXPRESSED. AMENDMENTS SHALL TAKE THE FORM OF A TEXT TO BE INSERTED IN THE ACT TO BE AMENDED. PREFERENCE SHALL BE GIVEN TO REPLACING WHOLE PROVISIONS (ARTICLES OR SUBDIVISIONS OF ARTICLES) RATHER THAN INSERTING OR DELETING INDIVIDUAL SENTENCES, PHRASES OR WORDS."
+ },
+ {
+  "id": "an-amending-act-shall-not-contain-autonomous-substantive-pro",
+  "level": 5,
+  "title": "AN AMENDING ACT SHALL NOT CONTAIN AUTONOMOUS SUBSTANTIVE PROVISIONS WHICH ARE NOT INSERTED IN THE ACT TO BE AMENDED."
+ },
+ {
+  "id": "an-act-not-primarily-intended-to-amend-another-act-may-set-o",
+  "level": 5,
+  "title": "AN ACT NOT PRIMARILY INTENDED TO AMEND ANOTHER ACT MAY SET OUT, AT THE END, AMENDMENTS OF OTHER ACTS WHICH ARE A CONSEQUENCE OF CHANGES WHICH IT INTRODUCES. WHERE THE CONSEQUENTIAL AMENDMENTS ARE SUBSTANTIAL, A SEPARATE AMENDING ACT SHOULD BE ADOPTED."
+ },
+ {
+  "id": "final-provisions-repeals-and-annexes",
+  "level": 2,
+  "title": "Final provisions, repeals and annexes"
+ },
+ {
+  "id": "guidelines-20-21-and-22",
+  "level": 3,
+  "title": "Guidelines 20, 21 and 22"
+ },
+ {
+  "id": "20-22",
+  "level": 4,
+  "title": "20/22"
+ },
+ {
+  "id": "provisions-laying-down-dates-time-limits-exceptions-derogati",
+  "level": 5,
+  "title": "PROVISIONS LAYING DOWN DATES, TIME LIMITS, EXCEPTIONS, DEROGATIONS AND EXTENSIONS, TRANSITIONAL PROVISIONS (IN PARTICULAR THOSE RELATING TO THE EFFECTS OF THE ACT ON EXISTING SITUATIONS) AND FINAL PROVISIONS (ENTRY INTO FORCE, DEADLINE FOR TRANSPOSITION AND TEMPORAL APPLICATION OF THE ACT) SHALL BE DRAWN UP IN PRECISE TERMS."
+ },
+ {
+  "id": "provisions-on-deadlines-for-the-transposition-and-applicatio",
+  "level": 5,
+  "title": "PROVISIONS ON DEADLINES FOR THE TRANSPOSITION AND APPLICATION OF ACTS SHALL SPECIFY A DATE EXPRESSED AS DAY/MONTH/YEAR. IN THE CASE OF DIRECTIVES, THOSE DEADLINES SHALL BE EXPRESSED IN SUCH A WAY AS TO GUARANTEE AN ADEQUATE PERIOD FOR TRANSPOSITION."
+ },
+ {
+  "id": "obsolete-acts-and-provisions-shall-be-expressly-repealed-the",
+  "level": 5,
+  "title": "OBSOLETE ACTS AND PROVISIONS SHALL BE EXPRESSLY REPEALED. THE ADOPTION OF A NEW ACT SHOULD RESULT IN THE EXPRESS REPEAL OF ANY ACT OR PROVISION RENDERED INAPPLICABLE OR REDUNDANT BY VIRTUE OF THE NEW ACT."
+ },
+ {
+  "id": "technical-aspects-of-the-act-shall-be-contained-in-the-annex",
+  "level": 5,
+  "title": "TECHNICAL ASPECTS OF THE ACT SHALL BE CONTAINED IN THE ANNEXES, TO WHICH INDIVIDUAL REFERENCE SHALL BE MADE IN THE ENACTING TERMS OF THE ACT AND WHICH SHALL NOT EMBODY ANY NEW RIGHT OR OBLIGATION NOT SET OUT IN THE ENACTING TERMS."
+ },
+ {
+  "id": "annexes-shall-be-drawn-up-in-accordance-with-a-standardised-",
+  "level": 5,
+  "title": "ANNEXES SHALL BE DRAWN UP IN ACCORDANCE WITH A STANDARDISED FORMAT."
+ },
+ {
+  "id": "how-to-obtain-eu-publications",
+  "level": 4,
+  "title": "HOW TO OBTAIN EU PUBLICATIONS"
+ },
+ {
+  "id": "free-publications",
+  "level": 5,
+  "title": "Free publications:"
+ },
+ {
+  "id": "priced-publications",
+  "level": 5,
+  "title": "Priced publications:"
+ }
+]
