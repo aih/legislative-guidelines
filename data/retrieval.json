@@ -84,16 +84,13 @@
     "sha256": "e2f155b77b8d60a84e70c5f65e41ab43899fcf314252724787bbf7c057ed1532"
   },
   "be-principes-technique-legislative": {
-    "bytes": 61789,
     "content_type": "text/html; charset=utf-8",
-    "file": "documents/be-principes-technique-legislative/original.html",
+    "error": "source URL redirects to the Conseil d'État home page",
     "final_url": "https://www.raadvst-consetat.be/fr/?page=technique_legislative",
-    "format": "HTML",
     "http_status": 200,
     "last_modified_header": null,
     "requested_url": "https://www.raadvst-consetat.be/fr/?page=technique_legislative",
-    "retrieved_at": "2026-10-29T17:33:04+00:00",
-    "sha256": "ebaa838b0d175ef894b65c8c6c45f1db30fb479d004d1ef18cfe568386d62bf5"
+    "retrieved_at": "2026-10-29T17:33:04+00:00"
   },
   "be-vademecum-procedure-avis": {
     "bytes": 823388,
@@ -108,16 +105,13 @@
     "sha256": "fc7bd06e0f1f330c2b1f076ca53e9ec259ec4a2f98ad4d76aefc39f6eb6fe924"
   },
   "bg-zakon-za-normativnite-aktove": {
-    "bytes": 4304,
     "content_type": "text/html; charset=UTF-8",
-    "file": "documents/bg-zakon-za-normativnite-aktove/original.html",
+    "error": "page text is loaded by JavaScript; the downloaded HTML (4 KB) has no content",
     "final_url": "https://parliament.bg/bg/laws/ID/15534",
-    "format": "HTML",
     "http_status": 200,
     "last_modified_header": null,
     "requested_url": "https://parliament.bg/bg/laws/ID/15534",
-    "retrieved_at": "2026-10-29T17:33:16+00:00",
-    "sha256": "d0f25e00fbfb17e52dfa579c670330d8b029477bc1b33508adac89209123ef94"
+    "retrieved_at": "2026-10-29T17:33:16+00:00"
   },
   "br-decreto-12002-2024": {
     "content_type": "text/html; charset=windows-1252",
@@ -1195,16 +1189,13 @@
     "retrieved_at": "2026-10-29T17:32:50+00:00"
   },
   "gb-sct-drafting-matters": {
-    "bytes": 0,
     "content_type": "text/html; charset=UTF-8",
-    "file": "documents/gb-sct-drafting-matters/original.html",
+    "error": "HTTP 202 (bot challenge); multi-page guide",
     "final_url": "https://www.gov.scot/publications/drafting-matters/pages/1/",
-    "format": "HTML",
     "http_status": 202,
     "last_modified_header": null,
     "requested_url": "https://www.gov.scot/publications/drafting-matters/pages/1/",
-    "retrieved_at": "2026-10-29T17:32:59+00:00",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    "retrieved_at": "2026-10-29T17:32:59+00:00"
   },
   "gb-wls-writing-laws-for-wales": {
     "bytes": 580232,
@@ -1361,16 +1352,13 @@
     "sha256": "19a039e8f29699c07e7cc82dea1be5686a231407e253dffbc63dde2778111b05"
   },
   "jp-clb-horitsu-an-sakusei": {
-    "bytes": 21216,
     "content_type": "text/html; charset=utf-8",
-    "file": "documents/jp-clb-horitsu-an-sakusei/original.html",
+    "error": "source URL is the Cabinet Legislation Bureau's list of bills before the Diet, not a drafting guide",
     "final_url": "https://www.clb.go.jp/law/bill/",
-    "format": "HTML",
     "http_status": 200,
     "last_modified_header": null,
     "requested_url": "https://www.clb.go.jp/law/bill/",
-    "retrieved_at": "2026-10-29T17:34:04+00:00",
-    "sha256": "8712f43bc212921bb6a140eaff7ff1012b69323eb07a18756c1f852260ac4ac8"
+    "retrieved_at": "2026-10-29T17:34:04+00:00"
   },
   "ke-guide-legislative-process": {
     "bytes": 1925238,
@@ -1507,16 +1495,13 @@
     "retrieved_at": "2026-10-29T17:32:46+00:00"
   },
   "oecd-regulatory-policy-governance-2012": {
-    "bytes": 4035,
     "content_type": "text/html",
-    "file": "documents/oecd-regulatory-policy-governance-2012/original.html",
+    "error": "page text is loaded by JavaScript; the downloaded HTML (4 KB) has no content",
     "final_url": "https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0390",
-    "format": "HTML",
     "http_status": 200,
     "last_modified_header": "Thu, 07 May 2026 06:54:11 GMT",
     "requested_url": "https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0390",
-    "retrieved_at": "2026-10-29T17:32:52+00:00",
-    "sha256": "2d7447c98e31677dab7c7e4d619f5222ec47160cf1ea91b6b20245efb9b4d3e3"
+    "retrieved_at": "2026-10-29T17:32:52+00:00"
   },
   "osce-odihr-democratic-lawmaking-2024": {
     "bytes": 3470023,
@@ -1591,16 +1576,13 @@
     "sha256": "930a57d79ab03e9d4dfc788da1c8a443d7f04fbc97aa38b85d4c539217e3a6db"
   },
   "pt-regras-legistica-conselho-ministros": {
-    "bytes": 2346,
     "content_type": "text/html; charset=utf-8",
-    "file": "documents/pt-regras-legistica-conselho-ministros/original.html",
+    "error": "page text is loaded by JavaScript; the downloaded HTML (2 KB) has no content",
     "final_url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/105-2025-923487049",
-    "format": "HTML",
     "http_status": 200,
     "last_modified_header": null,
     "requested_url": "https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/105-2025-923487049",
-    "retrieved_at": "2026-10-29T17:33:06+00:00",
-    "sha256": "0794abe5f8088cfd34e8e50bb5f9f7828b20a3c505f702e4b51be3bbb0631b57"
+    "retrieved_at": "2026-10-29T17:33:06+00:00"
   },
   "qa-drafting-legislation-guide": {
     "bytes": 8930278,

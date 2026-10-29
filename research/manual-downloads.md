@@ -1,10 +1,9 @@
 # Manual downloads
 
-Documents that `scripts/fetch.py` could not download and that have not yet been imported by hand, as of 2026-10-29. Each site either blocks automated requests,
-timed out, or no longer serves the catalogued URL. A browser usually gets the file.
-
-The list covers entries with an `error` in `data/retrieval.json`. The 52 catalog entries not yet attempted are not
-included; after running `python scripts/fetch.py`, list any new failures with:
+Catalog entries without converted text, as of 2026-10-29: 18 of 97. For each, `scripts/fetch.py` either could not
+download the document (the site blocks automated requests, refuses the connection, or no longer serves the URL), or
+downloaded a page that is not the document. A browser usually gets the file. Each entry's problem is recorded as
+`error` in `data/retrieval.json`; list them with:
 
 ```sh
 .venv/bin/python -c "import json; [print(k, '-', v['error']) for k, v in json.load(open('data/retrieval.json')).items() if v.get('error')]"
@@ -17,6 +16,9 @@ For each document:
 1. Open the download URL in a browser and save the file.
    - PDF: save the PDF itself, not the browser's viewer page. In Chrome, use the download button in the PDF toolbar.
    - HTML: File → Save Page As… → format **Webpage, HTML Only**, with a `.html` extension.
+   - HTML pages whose text is loaded by JavaScript (marked *JavaScript* below): wait for the text to appear, then
+     File → Save Page As… → **Webpage, Complete**. Import the `.html` file; the `_files` folder is not needed.
+     **HTML Only** saves the page before the text loads.
 2. If the URL in the table did not work and you found the document elsewhere (for example on the landing page), note
    the URL you used.
 3. Import the file. This copies it to `documents/<id>/original.<ext>` and writes the download record:
@@ -61,20 +63,35 @@ For each document:
 | `nz-legislation-guidelines-2021` | Legislation Guidelines: 2021 edition (New Zealand) | Find the PDF on <https://www.lac.org.nz/guidelines/legislation-guidelines-2021-edition/> | HTTP 404; the catalogued URL (regulation.govt.nz) has moved. Use `--url` and update `source_url`. |
 | `fr-guide-de-legistique` | Guide de légistique (France) | <https://www.legifrance.gouv.fr/contenu/Media/files/autour-de-la-loi/guide-de-legistique/guide_legistique_2026.pdf> | HTTP 403 |
 | `no-lovteknikk-og-lovforberedelse` | Lovteknikk og lovforberedelse (Norway) | <https://www.regjeringen.no/globalassets/upload/kilde/jd/bro/2000/0002/ddd/pdfv/108138-lovteknikkboka.pdf> | HTTP 403. Landing page: <https://www.regjeringen.no/no/dokumenter/veiledning-om-lov--og-forskriftsarbeid/id87536/> |
+| `co-manual-elaboracion-textos-normativos` | Manual para la elaboración de textos normativos (Colombia) | <https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=39371> | TLS error from the server. Landing page: <https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=39371> |
+| `oecd-regulatory-policy-governance-2012` | Recommendation of the Council on Regulatory Policy and Governance (OECD) | The PDF link on <https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0390> | The instrument page is *JavaScript*. Saving the PDF is simpler; use `--url` with the PDF's URL. |
 
 ### HTML
 
-Save as **Webpage, HTML Only**.
-
 | id | Document | Download URL | Problem |
 |---|---|---|---|
-| `br-lei-complementar-95-1998` | Lei Complementar nº 95, de 26 de fevereiro de 1998 (Brazil) | <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm> | planalto.gov.br blocks automated requests |
-| `br-decreto-12002-2024` | Decreto nº 12.002, de 22 de abril de 2024 (Brazil) | <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12002.htm> | planalto.gov.br blocks automated requests |
+| `br-lei-complementar-95-1998` | Lei Complementar nº 95, de 26 de fevereiro de 1998 (Brazil) | <https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm> | planalto.gov.br blocks automated requests. HTML Only. |
+| `br-decreto-12002-2024` | Decreto nº 12.002, de 22 de abril de 2024 (Brazil) | <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12002.htm> | planalto.gov.br blocks automated requests. HTML Only. |
+| `pt-regras-legistica-conselho-ministros` | Regras de legística, Anexo II à RCM n.º 105/2025 (Portugal) | <https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/105-2025-923487049> | *JavaScript*. The Diário da República also offers a PDF of the issue; either works. |
+| `bg-zakon-za-normativnite-aktove` | Закон за нормативните актове (Bulgaria) | <https://parliament.bg/bg/laws/ID/15534> | *JavaScript* |
+
+### No usable source URL
+
+These need a URL found and entered as `source_url` in `data/guidelines.yml` before or while importing.
+
+| id | Document | Where to look | Problem |
+|---|---|---|---|
+| `ro-legea-24-2000-tehnica-legislativa` | Legea nr. 24/2000 privind normele de tehnică legislativă (Romania) | <https://legislatie.just.ro/Public/DetaliiDocument/21698> | No `source_url` in the catalog. The consolidated text on the landing page can be saved as HTML (*JavaScript*). |
+| `lt-teises-aktu-projektu-rengimo-rekomendacijos` | Teisės aktų projektų rengimo rekomendacijos (Lithuania) | <https://www.e-tar.lt/portal/lt/legalAct/9f8e8430723411e3a1f1b21417c4c75e/asr> | No `source_url` in the catalog. *JavaScript*. |
+| `lv-normativo-aktu-projektu-izstrades-rokasgramata` | Normatīvo aktu projektu izstrādes rokasgrāmata (Latvia) | <https://tai.mk.gov.lv/book/1/chapter/178> | No `source_url` in the catalog. An online book in chapters; one saved page holds one chapter. Look for a PDF edition. |
+| `be-principes-technique-legislative` | Principes de technique législative (Belgium, Conseil d'État) | <https://www.raadvst-consetat.be/> → Technique législative | The catalogued URL redirects to the home page. The guide is published as a PDF. |
+| `jp-clb-horitsu-an-sakusei` | 法律案の審査・作成 (Japan, Cabinet Legislation Bureau) | <https://www.clb.go.jp/> | The catalogued URL is the list of bills before the Diet, not a drafting guide. The entry needs a different document or removal. |
 
 ### Not a single file
 
 | id | Document | URL | Problem |
 |---|---|---|---|
+| `gb-sct-drafting-matters` | Drafting Matters! (Scotland) | <https://www.gov.scot/publications/drafting-matters/> | HTTP 202 bot challenge. A multi-page publication; gov.scot usually offers a PDF download under "Documents" on the publication page. |
 | `eu-interinstitutional-style-guide` | Interinstitutional Style Guide (EU) | <https://style-guide.europa.eu/en/> | HTTP 403. A multi-page website; saving the home page captures only the table of contents. Check the site for a PDF edition; otherwise leave the entry as source link only. |
 | `au-opc-drafting-directions` | OPC Drafting Directions (Australia) | <https://www.opc.gov.au/drafting-resources/drafting-directions> | No `source_url` in the catalog. A series of separate PDF and DOCX documents; the catalog entry needs splitting into one entry per direction, or one chosen document, before it can be downloaded. |
 
@@ -84,6 +101,6 @@ Save as **Webpage, HTML Only**.
 |---|---|---|
 | `eu-joint-practical-guide` | `KB0213228ENN.pdf` | |
 | `au-opc-drafting-manual` | `s05pq37.v27.pdf` | Edition 3.2, July 2019 |
-| `au-opc-plain-english-manual` | `plain_english_0.pdf` | |
+| `au-opc-plain-english-manual` | `aus_manual.pdf` | |
 | `es-directrices-tecnica-normativa` | `Directrices_2reimpr_linea.pdf` | |
-| `it-regole-raccomandazioni-2001` | Senate of the Republic edition | Recorded with the Senate landing page as its URL |
+| `it-regole-raccomandazioni-2001` | `regole_testi_legislativi.pdf`, Senate of the Republic edition | Recorded with the Senate landing page as its URL |
