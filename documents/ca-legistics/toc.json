@@ -1,0 +1,1522 @@
+[
+ {
+  "id": "legistics",
+  "level": 2,
+  "title": "Legistics"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 2,
+  "title": "Table of Contents"
+ },
+ {
+  "id": "legistics-2",
+  "level": 2,
+  "title": "Legistics"
+ },
+ {
+  "id": "table-of-contents-2",
+  "level": 2,
+  "title": "Table of Contents"
+ },
+ {
+  "id": "legistics-attributing-meaning-to-terms",
+  "level": 2,
+  "title": "Legistics Attributing Meaning to Terms"
+ },
+ {
+  "id": "recommendation",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "models",
+  "level": 2,
+  "title": "Models"
+ },
+ {
+  "id": "footnotes",
+  "level": 3,
+  "title": "Footnotes"
+ },
+ {
+  "id": "legistics-body-corporate-and-corporation",
+  "level": 2,
+  "title": "Legistics Body Corporate and Corporation"
+ },
+ {
+  "id": "recommendation-2",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "discussion",
+  "level": 2,
+  "title": "Discussion"
+ },
+ {
+  "id": "source",
+  "level": 3,
+  "title": "Source:"
+ },
+ {
+  "id": "legistics-but",
+  "level": 2,
+  "title": "Legistics But"
+ },
+ {
+  "id": "recommendation-3",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "discussion-2",
+  "level": 2,
+  "title": "Discussion"
+ },
+ {
+  "id": "examples",
+  "level": 2,
+  "title": "Examples"
+ },
+ {
+  "id": "legistics-comprise",
+  "level": 2,
+  "title": "Legistics Comprise"
+ },
+ {
+  "id": "introduction",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "recommendation-4",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "discussion-3",
+  "level": 2,
+  "title": "Discussion"
+ },
+ {
+  "id": "sources-chronological-order",
+  "level": 3,
+  "title": "Sources (chronological order)"
+ },
+ {
+  "id": "legistics-deem",
+  "level": 2,
+  "title": "Legistics Deem"
+ },
+ {
+  "id": "background",
+  "level": 2,
+  "title": "Background"
+ },
+ {
+  "id": "creating-legal-fictions",
+  "level": 2,
+  "title": "Creating legal fictions"
+ },
+ {
+  "id": "changing-meaning",
+  "level": 2,
+  "title": "Changing meaning"
+ },
+ {
+  "id": "application-provisions",
+  "level": 2,
+  "title": "Application provisions"
+ },
+ {
+  "id": "confer-discretion",
+  "level": 2,
+  "title": "Confer discretion"
+ },
+ {
+  "id": "creating-presumptions",
+  "level": 2,
+  "title": "Creating presumptions"
+ },
+ {
+  "id": "recommendation-5",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "legistics-definitions",
+  "level": 2,
+  "title": "Legistics Definitions"
+ },
+ {
+  "id": "introduction-2",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "principles-governing-the-use-of-definitions",
+  "level": 2,
+  "title": "Principles governing the use of definitions"
+ },
+ {
+  "id": "common-meaning-of-words",
+  "level": 3,
+  "title": "Common meaning of words"
+ },
+ {
+  "id": "effect-of-definitions",
+  "level": 3,
+  "title": "Effect of definitions"
+ },
+ {
+  "id": "role-of-definitions",
+  "level": 3,
+  "title": "Role of definitions"
+ },
+ {
+  "id": "use-of-definitions",
+  "level": 3,
+  "title": "Use of definitions"
+ },
+ {
+  "id": "contents-of-definitions",
+  "level": 3,
+  "title": "Contents of definitions"
+ },
+ {
+  "id": "types-of-definitions",
+  "level": 2,
+  "title": "Types of Definitions"
+ },
+ {
+  "id": "delimiting-definition",
+  "level": 3,
+  "title": "Delimiting definition"
+ },
+ {
+  "id": "extending-definition",
+  "level": 3,
+  "title": "Extending definition"
+ },
+ {
+  "id": "narrowing-definition",
+  "level": 3,
+  "title": "Narrowing definition"
+ },
+ {
+  "id": "mixed-definition",
+  "level": 3,
+  "title": "Mixed definition"
+ },
+ {
+  "id": "drafting-definitions",
+  "level": 3,
+  "title": "Drafting Definitions"
+ },
+ {
+  "id": "other-terms-used-to-define",
+  "level": 4,
+  "title": "Other terms used to define"
+ },
+ {
+  "id": "using-defined-term-in-the-definition",
+  "level": 4,
+  "title": "Using defined term in the definition"
+ },
+ {
+  "id": "parts-of-speech",
+  "level": 4,
+  "title": "Parts of speech"
+ },
+ {
+  "id": "contents-of-definitions-2",
+  "level": 3,
+  "title": "Contents of definitions"
+ },
+ {
+  "id": "multiple-defined-terms",
+  "level": 3,
+  "title": "Multiple defined terms"
+ },
+ {
+  "id": "formal-aspects",
+  "level": 2,
+  "title": "Formal Aspects"
+ },
+ {
+  "id": "interpetation-definitions",
+  "level": 2,
+  "title": "INTERPETATION [DEFINITIONS]"
+ },
+ {
+  "id": "amendments-to-definitions",
+  "level": 3,
+  "title": "Amendments to Definitions"
+ },
+ {
+  "id": "alternatives-to-formal-definition-sections",
+  "level": 3,
+  "title": "Alternatives to Formal Definition Sections"
+ },
+ {
+  "id": "footnotes-2",
+  "level": 3,
+  "title": "Footnotes"
+ },
+ {
+  "id": "legistics-definitions-adjectives",
+  "level": 2,
+  "title": "Legistics Definitions (Adjectives)"
+ },
+ {
+  "id": "introduction-3",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "discussion-4",
+  "level": 2,
+  "title": "Discussion"
+ },
+ {
+  "id": "recommendation-6",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "analysis",
+  "level": 2,
+  "title": "Analysis"
+ },
+ {
+  "id": "questions-and-answers",
+  "level": 2,
+  "title": "Questions and Answers"
+ },
+ {
+  "id": "question-1",
+  "level": 3,
+  "title": "Question 1:"
+ },
+ {
+  "id": "answer",
+  "level": 4,
+  "title": "Answer:"
+ },
+ {
+  "id": "question-2",
+  "level": 3,
+  "title": "Question 2:"
+ },
+ {
+  "id": "answer-2",
+  "level": 4,
+  "title": "Answer:"
+ },
+ {
+  "id": "question-3",
+  "level": 3,
+  "title": "Question 3:"
+ },
+ {
+  "id": "answer-3",
+  "level": 4,
+  "title": "Answer:"
+ },
+ {
+  "id": "legistics-everyone-and-anyone",
+  "level": 2,
+  "title": "Legistics Everyone and Anyone"
+ },
+ {
+  "id": "recommendation-7",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "discussion-5",
+  "level": 2,
+  "title": "Discussion"
+ },
+ {
+  "id": "examples-2",
+  "level": 2,
+  "title": "Examples"
+ },
+ {
+  "id": "sources",
+  "level": 3,
+  "title": "Sources:"
+ },
+ {
+  "id": "footnotes-3",
+  "level": 2,
+  "title": "Footnotes"
+ },
+ {
+  "id": "legistics-expiry-expiration-and-end",
+  "level": 2,
+  "title": "Legistics Expiry, Expiration and End"
+ },
+ {
+  "id": "background-2",
+  "level": 2,
+  "title": "Background"
+ },
+ {
+  "id": "recommendations",
+  "level": 2,
+  "title": "Recommendations"
+ },
+ {
+  "id": "legistics-expressing-obligations-and-prohibitions",
+  "level": 2,
+  "title": "Legistics Expressing Obligations and Prohibitions"
+ },
+ {
+  "id": "direction",
+  "level": 2,
+  "title": "Direction"
+ },
+ {
+  "id": "discussion-6",
+  "level": 2,
+  "title": "Discussion"
+ },
+ {
+  "id": "obligations",
+  "level": 3,
+  "title": "Obligations"
+ },
+ {
+  "id": "prohibitions",
+  "level": 3,
+  "title": "Prohibitions"
+ },
+ {
+  "id": "footnotes-4",
+  "level": 3,
+  "title": "Footnotes"
+ },
+ {
+  "id": "legistics-expressing-permission-powers-or-rights",
+  "level": 2,
+  "title": "Legistics Expressing Permission, Powers or Rights"
+ },
+ {
+  "id": "direction-2",
+  "level": 2,
+  "title": "Direction"
+ },
+ {
+  "id": "discussion-7",
+  "level": 2,
+  "title": "Discussion"
+ },
+ {
+  "id": "permission-powers-or-rights",
+  "level": 3,
+  "title": "Permission,  powers or rights"
+ },
+ {
+  "id": "limiting-or-denying-a-permission-power-or-right",
+  "level": 3,
+  "title": "Limiting or denying a permission, power or  right"
+ },
+ {
+  "id": "footnotes-5",
+  "level": 2,
+  "title": "Footnotes"
+ },
+ {
+  "id": "legistics-expressing-possibility",
+  "level": 2,
+  "title": "Legistics Expressing Possibility"
+ },
+ {
+  "id": "recommendation-8",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "discussion-and-examples",
+  "level": 2,
+  "title": "Discussion and examples"
+ },
+ {
+  "id": "can",
+  "level": 3,
+  "title": "Can"
+ },
+ {
+  "id": "could",
+  "level": 3,
+  "title": "Could"
+ },
+ {
+  "id": "may",
+  "level": 3,
+  "title": "May"
+ },
+ {
+  "id": "might",
+  "level": 3,
+  "title": "Might"
+ },
+ {
+  "id": "likely",
+  "level": 3,
+  "title": "Likely"
+ },
+ {
+  "id": "possible",
+  "level": 3,
+  "title": "Possible"
+ },
+ {
+  "id": "sources-2",
+  "level": 2,
+  "title": "Sources"
+ },
+ {
+  "id": "footnotes-6",
+  "level": 2,
+  "title": "Footnotes"
+ },
+ {
+  "id": "legistics-expressing-universality",
+  "level": 2,
+  "title": "Legistics Expressing Universality"
+ },
+ {
+  "id": "introduction-4",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "discussion-and-examples-2",
+  "level": 2,
+  "title": "Discussion and examples"
+ },
+ {
+  "id": "1-expressing-universality-in-relation-to-a-class",
+  "level": 3,
+  "title": "1. Expressing universality in relation to a class"
+ },
+ {
+  "id": "singular-indefinite-articles-a-an",
+  "level": 4,
+  "title": "Singular indefinite articles: a, an"
+ },
+ {
+  "id": "a-an",
+  "level": 5,
+  "title": "A, an"
+ },
+ {
+  "id": "other-determiners-any-each-every-all-no",
+  "level": 4,
+  "title": "Other determiners: any, each, every, all, no"
+ },
+ {
+  "id": "any",
+  "level": 5,
+  "title": "Any"
+ },
+ {
+  "id": "each-every",
+  "level": 5,
+  "title": "Each, every"
+ },
+ {
+  "id": "all",
+  "level": 5,
+  "title": "All"
+ },
+ {
+  "id": "no",
+  "level": 5,
+  "title": "No"
+ },
+ {
+  "id": "the-definite-article-the-14",
+  "level": 4,
+  "title": "The definite article: the [ 14 ]"
+ },
+ {
+  "id": "the",
+  "level": 5,
+  "title": "The"
+ },
+ {
+  "id": "2-expressing-universality-in-relation-to-everyone",
+  "level": 3,
+  "title": "2. Expressing universality in relation to everyone"
+ },
+ {
+  "id": "3-plural-nouns",
+  "level": 3,
+  "title": "3. Plural nouns"
+ },
+ {
+  "id": "preambles-and-purpose-provisions",
+  "level": 4,
+  "title": "Preambles and purpose provisions"
+ },
+ {
+  "id": "application-provisions-2",
+  "level": 4,
+  "title": "Application provisions"
+ },
+ {
+  "id": "empowering-provisions",
+  "level": 4,
+  "title": "Empowering provisions"
+ },
+ {
+  "id": "4-some-thoughts-about-the-french-practice-19",
+  "level": 3,
+  "title": "4. Some thoughts about the French practice [ 19 ]"
+ },
+ {
+  "id": "sources-3",
+  "level": 3,
+  "title": "Sources"
+ },
+ {
+  "id": "footnotes-7",
+  "level": 2,
+  "title": "Footnotes"
+ },
+ {
+  "id": "legistics-first-nation-s-aboriginal",
+  "level": 2,
+  "title": "Legistics First Nation(s) - Aboriginal"
+ },
+ {
+  "id": "introduction-5",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "recommendation-9",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "discussion-8",
+  "level": 2,
+  "title": "Discussion"
+ },
+ {
+  "id": "first-nation-s",
+  "level": 3,
+  "title": "First Nation(s)"
+ },
+ {
+  "id": "aboriginal",
+  "level": 3,
+  "title": "Aboriginal"
+ },
+ {
+  "id": "footnotes-8",
+  "level": 2,
+  "title": "Footnotes"
+ },
+ {
+  "id": "legistics-formula-descriptions",
+  "level": 2,
+  "title": "Legistics Formula Descriptions"
+ },
+ {
+  "id": "background-3",
+  "level": 2,
+  "title": "Background"
+ },
+ {
+  "id": "recommendation-10",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "examples-3",
+  "level": 2,
+  "title": "Examples"
+ },
+ {
+  "id": "conclusion",
+  "level": 2,
+  "title": "Conclusion"
+ },
+ {
+  "id": "legistics-geographical-names",
+  "level": 2,
+  "title": "Legistics Geographical names"
+ },
+ {
+  "id": "introduction-6",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "1-canadian-geographical-names-having-one-official-version-en",
+  "level": 2,
+  "title": "1.  Canadian geographical names having one official version (English or French)"
+ },
+ {
+  "id": "quick-consultation-guide-for-names-of-this-type",
+  "level": 3,
+  "title": "Quick consultation guide for names of this type"
+ },
+ {
+  "id": "a-inhabited-places-cities-towns-municipalities",
+  "level": 4,
+  "title": "(a) Inhabited places (cities, towns, municipalities)"
+ },
+ {
+  "id": "b-geographical-features-lakes-mountains-rivers-etc",
+  "level": 4,
+  "title": "(b) Geographical\n    features (lakes, mountains, rivers, etc.)"
+ },
+ {
+  "id": "2-canadian-geographical-names-having-two-official-versions-e",
+  "level": 2,
+  "title": "2.  Canadian geographical names having two official versions (English or French)"
+ },
+ {
+  "id": "quick-consultation-guide-for-names-of-this-type-2",
+  "level": 3,
+  "title": "Quick consultation\n      guide for names of this type"
+ },
+ {
+  "id": "a-names-of-pan-canadian-significance",
+  "level": 4,
+  "title": "(a) Names of\n    pan-Canadian significance"
+ },
+ {
+  "id": "b-names-of-features-shared-by-two-provinces-and-having-offic",
+  "level": 4,
+  "title": "(b) Names of features shared\n      by two provinces and having official status"
+ },
+ {
+  "id": "c-geographical-names-approved-in-both-english-and-french-wit",
+  "level": 4,
+  "title": "(c) Geographical names approved in both English and\n      French within one province"
+ },
+ {
+  "id": "d-undersea-feature-names-approved-in-english-and-french",
+  "level": 4,
+  "title": "(d) Undersea feature names approved in English and French"
+ },
+ {
+  "id": "e-names-of-international-waters-adjacent-to-canada-approved-",
+  "level": 4,
+  "title": "(e) Names of international waters adjacent to Canada approved in English and French"
+ },
+ {
+  "id": "f-names-of-national-parks-of-canada-and-national-historic-si",
+  "level": 4,
+  "title": "(f) Names of national parks of Canada and national\n      historic sites of Canada in English and French"
+ },
+ {
+  "id": "3-foreign-geographical-names",
+  "level": 2,
+  "title": "3.  Foreign geographical names"
+ },
+ {
+  "id": "quick-consultation-guide-for-names-of-this-type-3",
+  "level": 3,
+  "title": "Quick consultation guide for names\n        of this type"
+ },
+ {
+  "id": "footnotes-9",
+  "level": 2,
+  "title": "Footnotes"
+ },
+ {
+  "id": "gender-inclusive-language",
+  "level": 2,
+  "title": "Gender-inclusive Language"
+ },
+ {
+  "id": "introduction-7",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "recommendations-2",
+  "level": 2,
+  "title": "Recommendations"
+ },
+ {
+  "id": "discussion-and-examples-3",
+  "level": 2,
+  "title": "Discussion and Examples"
+ },
+ {
+  "id": "gender-in-legislation-history",
+  "level": 3,
+  "title": "Gender in legislation – history"
+ },
+ {
+  "id": "referring-to-unspecified-persons",
+  "level": 3,
+  "title": "Referring to unspecified persons"
+ },
+ {
+  "id": "referring-to-a-specific-individual",
+  "level": 3,
+  "title": "Referring to a specific individual"
+ },
+ {
+  "id": "amending-existing-legislation",
+  "level": 3,
+  "title": "Amending existing legislation"
+ },
+ {
+  "id": "references-and-further-reading",
+  "level": 2,
+  "title": "References and Further Reading"
+ },
+ {
+  "id": "legistics-hereby",
+  "level": 2,
+  "title": "Legistics Hereby"
+ },
+ {
+  "id": "introduction-8",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "recommendation-11",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "discussion-9",
+  "level": 2,
+  "title": "Discussion"
+ },
+ {
+  "id": "footnotes-10",
+  "level": 2,
+  "title": "Footnotes"
+ },
+ {
+  "id": "legistics-however",
+  "level": 2,
+  "title": "Legistics However"
+ },
+ {
+  "id": "recommendation-12",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "background-4",
+  "level": 2,
+  "title": "Background"
+ },
+ {
+  "id": "examples-4",
+  "level": 2,
+  "title": "Examples"
+ },
+ {
+  "id": "punctuation",
+  "level": 2,
+  "title": "Punctuation"
+ },
+ {
+  "id": "footnotes-11",
+  "level": 2,
+  "title": "Footnotes"
+ },
+ {
+  "id": "legistics-if-where-and-when",
+  "level": 2,
+  "title": "Legistics If, Where and When"
+ },
+ {
+  "id": "background-5",
+  "level": 2,
+  "title": "Background"
+ },
+ {
+  "id": "recommendation-13",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "examples-5",
+  "level": 2,
+  "title": "Examples"
+ },
+ {
+  "id": "sources-4",
+  "level": 2,
+  "title": "Sources"
+ },
+ {
+  "id": "legistics-members-of-parliament",
+  "level": 2,
+  "title": "Legistics Members of Parliament"
+ },
+ {
+  "id": "background-6",
+  "level": 2,
+  "title": "Background"
+ },
+ {
+  "id": "recommendation-14",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "legistics-alternatives-to-notwithstanding",
+  "level": 2,
+  "title": "Legistics Alternatives to \"notwithstanding\""
+ },
+ {
+  "id": "background-7",
+  "level": 2,
+  "title": "Background"
+ },
+ {
+  "id": "recommendation-15",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "legistics-possessives",
+  "level": 2,
+  "title": "Legistics Possessives"
+ },
+ {
+  "id": "introduction-9",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "recommendation-16",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "discussion-and-examples-4",
+  "level": 2,
+  "title": "Discussion and examples"
+ },
+ {
+  "id": "1-use-of-the-s-form-instead-of-the-of-form-to-indicate-posse",
+  "level": 3,
+  "title": "1.  Use of the \"'s\" form instead of the \"of\" form to indicate possession"
+ },
+ {
+  "id": "a-to-avoid-ambiguity",
+  "level": 4,
+  "title": "(a) To avoid ambiguity:"
+ },
+ {
+  "id": "b-to-avoid-repeating-of-several-times",
+  "level": 4,
+  "title": "(b) To avoid repeating \"of\" several times:"
+ },
+ {
+  "id": "c-to-avoid-breaking-up-elements-that-belong-together",
+  "level": 4,
+  "title": "(c) To avoid breaking up elements that belong together:"
+ },
+ {
+  "id": "d-to-put-new-or-complex-information-in-final-position",
+  "level": 4,
+  "title": "(d) To put new or complex information in final position:"
+ },
+ {
+  "id": "2-the-possessive-pronouns-its-his-or-her-and-their",
+  "level": 3,
+  "title": "2.  The possessive  pronouns \"its\", \"his or her\", and \"their\""
+ },
+ {
+  "id": "3-use-of-the-s-form-with-collective-nouns-and-inanimate-noun",
+  "level": 3,
+  "title": "3.  Use of the \"'s\" form with collective nouns and inanimate nouns"
+ },
+ {
+  "id": "4-use-of-the-apostrophe-in-expressions-of-time-and-measureme",
+  "level": 3,
+  "title": "4.  Use of the  apostrophe in expressions of time and measurement"
+ },
+ {
+  "id": "sources-5",
+  "level": 3,
+  "title": "Sources:"
+ },
+ {
+  "id": "footnotes-12",
+  "level": 2,
+  "title": "Footnotes"
+ },
+ {
+  "id": "legistics-pursuant-to",
+  "level": 2,
+  "title": "Legistics Pursuant To"
+ },
+ {
+  "id": "background-and-recommendation",
+  "level": 2,
+  "title": "Background and Recommendation"
+ },
+ {
+  "id": "alternatives-to-pursuant-to",
+  "level": 3,
+  "title": "Alternatives to \"pursuant to\""
+ },
+ {
+  "id": "links-to-other-provisions",
+  "level": 3,
+  "title": "Links to other Provisions"
+ },
+ {
+  "id": "links-to-factual-matters",
+  "level": 3,
+  "title": "Links to Factual Matters"
+ },
+ {
+  "id": "legistics-references-to-text-in-columns",
+  "level": 2,
+  "title": "Legistics References to Text in Columns"
+ },
+ {
+  "id": "recommendation-17",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "background-8",
+  "level": 2,
+  "title": "Background"
+ },
+ {
+  "id": "rationale",
+  "level": 3,
+  "title": "Rationale"
+ },
+ {
+  "id": "particular-items",
+  "level": 3,
+  "title": "Particular Items"
+ },
+ {
+  "id": "legistics-punctuation-with-restrictive-non-restrictive-eleme",
+  "level": 2,
+  "title": "Legistics Punctuation with Restrictive/ Non-Restrictive Elements"
+ },
+ {
+  "id": "introduction-10",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "recommendation-18",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "examples-6",
+  "level": 2,
+  "title": "Examples"
+ },
+ {
+  "id": "phrases",
+  "level": 3,
+  "title": "Phrases"
+ },
+ {
+  "id": "clauses",
+  "level": 3,
+  "title": "Clauses"
+ },
+ {
+  "id": "exceptions-to-the-general-rule",
+  "level": 3,
+  "title": "Exceptions to the general rule"
+ },
+ {
+  "id": "legistics-rounding-of-numbers",
+  "level": 2,
+  "title": "Legistics Rounding of Numbers"
+ },
+ {
+  "id": "monetary-amounts",
+  "level": 2,
+  "title": "Monetary Amounts"
+ },
+ {
+  "id": "decimals",
+  "level": 2,
+  "title": "Decimals"
+ },
+ {
+  "id": "truncation",
+  "level": 2,
+  "title": "Truncation"
+ },
+ {
+  "id": "legistics-series-of-nouns",
+  "level": 2,
+  "title": "Legistics Series of Nouns"
+ },
+ {
+  "id": "introduction-11",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "part-1-the-indefinite-article-and-certain-series-of-nouns-co",
+  "level": 3,
+  "title": "Part 1 The Indefinite Article and Certain Series of Nouns Conjoined by “or”"
+ },
+ {
+  "id": "recommendation-19",
+  "level": 4,
+  "title": "Recommendation"
+ },
+ {
+  "id": "background-9",
+  "level": 4,
+  "title": "Background"
+ },
+ {
+  "id": "rationale-2",
+  "level": 4,
+  "title": "Rationale"
+ },
+ {
+  "id": "part-2-embedding-certain-bijural-terms-doublets-in-a-series-",
+  "level": 3,
+  "title": "Part 2 Embedding Certain Bijural Terms (“Doublets”) in a Series of Nouns"
+ },
+ {
+  "id": "recommendation-20",
+  "level": 4,
+  "title": "Recommendation"
+ },
+ {
+  "id": "rationale-3",
+  "level": 4,
+  "title": "Rationale"
+ },
+ {
+  "id": "legistics-such",
+  "level": 2,
+  "title": "Legistics Such"
+ },
+ {
+  "id": "recommendations-3",
+  "level": 2,
+  "title": "Recommendations"
+ },
+ {
+  "id": "discussion-10",
+  "level": 2,
+  "title": "Discussion"
+ },
+ {
+  "id": "1-backward-reference",
+  "level": 3,
+  "title": "1. Backward reference"
+ },
+ {
+  "id": "2-forward-reference",
+  "level": 3,
+  "title": "2. Forward reference"
+ },
+ {
+  "id": "footnotes-13",
+  "level": 2,
+  "title": "Footnotes"
+ },
+ {
+  "id": "legistics-terms-and-conditions",
+  "level": 2,
+  "title": "Legistics Terms and Conditions"
+ },
+ {
+  "id": "introduction-12",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "recommendation-21",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "discussion-11",
+  "level": 2,
+  "title": "Discussion"
+ },
+ {
+  "id": "footnotes-14",
+  "level": 2,
+  "title": "Footnotes"
+ },
+ {
+  "id": "legistics-there-words",
+  "level": 2,
+  "title": "Legistics There- words"
+ },
+ {
+  "id": "discussion-12",
+  "level": 2,
+  "title": "Discussion"
+ },
+ {
+  "id": "footnote",
+  "level": 2,
+  "title": "Footnote"
+ },
+ {
+  "id": "legistics-describing-time-periods",
+  "level": 2,
+  "title": "Legistics Describing Time Periods"
+ },
+ {
+  "id": "introduction-13",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "categorization-of-time-periods",
+  "level": 2,
+  "title": "Categorization of Time Periods"
+ },
+ {
+  "id": "recommendations-4",
+  "level": 2,
+  "title": "Recommendations"
+ },
+ {
+  "id": "1-shortest-time-period",
+  "level": 3,
+  "title": "1. Shortest time period"
+ },
+ {
+  "id": "2-something-must-be-done-soon-taking-the-circumstances-into-",
+  "level": 3,
+  "title": "2. Something must be done soon − taking the\n      circumstances into account"
+ },
+ {
+  "id": "3-requirement-to-do-something-within-a-reasonable-time",
+  "level": 3,
+  "title": "3. Requirement to do something \"within a reasonable\n      time\""
+ },
+ {
+  "id": "footnotes-15",
+  "level": 2,
+  "title": "Footnotes"
+ },
+ {
+  "id": "legistics-triad-separators-in-metric-measurement",
+  "level": 2,
+  "title": "Legistics Triad Separators in Metric Measurement"
+ },
+ {
+  "id": "recommendation-22",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "examples-7",
+  "level": 2,
+  "title": "Examples"
+ },
+ {
+  "id": "rationale-4",
+  "level": 2,
+  "title": "Rationale"
+ },
+ {
+  "id": "sources-6",
+  "level": 3,
+  "title": "Sources"
+ },
+ {
+  "id": "legistics-cross-references",
+  "level": 2,
+  "title": "Legistics Cross References"
+ },
+ {
+  "id": "background-10",
+  "level": 2,
+  "title": "Background"
+ },
+ {
+  "id": "recommendations-5",
+  "level": 2,
+  "title": "Recommendations"
+ },
+ {
+  "id": "examples-of-ways-to-link-ideas-without-cross-references",
+  "level": 2,
+  "title": "Examples of Ways to Link Ideas without Cross-references"
+ },
+ {
+  "id": "definite-articles",
+  "level": 3,
+  "title": "Definite Articles"
+ },
+ {
+  "id": "specific-words-and-phrases",
+  "level": 3,
+  "title": "Specific Words and Phrases"
+ },
+ {
+  "id": "definition-and-application-provisions",
+  "level": 3,
+  "title": "Definition and Application Provisions"
+ },
+ {
+  "id": "legistics-more-than-one-sentence-in-a-section-or-subsection",
+  "level": 2,
+  "title": "Legistics More Than One Sentence in a Section or Subsection"
+ },
+ {
+  "id": "legistics-present-indicative",
+  "level": 2,
+  "title": "Legistics Present Indicative"
+ },
+ {
+  "id": "background-11",
+  "level": 2,
+  "title": "Background"
+ },
+ {
+  "id": "present-tense",
+  "level": 3,
+  "title": "Present Tense"
+ },
+ {
+  "id": "indicative-mood-and-modal-verbs",
+  "level": 3,
+  "title": "Indicative Mood and Modal Verbs"
+ },
+ {
+  "id": "conclusion-2",
+  "level": 2,
+  "title": "Conclusion"
+ },
+ {
+  "id": "legistics-sentence-structure-complexity-and-organization",
+  "level": 2,
+  "title": "Legistics Sentence Structure:\nComplexity and Organization"
+ },
+ {
+  "id": "background-12",
+  "level": 2,
+  "title": "Background"
+ },
+ {
+  "id": "complexity",
+  "level": 2,
+  "title": "Complexity"
+ },
+ {
+  "id": "sentence-organization",
+  "level": 2,
+  "title": "Sentence Organization"
+ },
+ {
+  "id": "overview",
+  "level": 3,
+  "title": "Overview"
+ },
+ {
+  "id": "separation-of-subject-and-verb",
+  "level": 3,
+  "title": "Separation of Subject and Verb"
+ },
+ {
+  "id": "conditional-clauses",
+  "level": 3,
+  "title": "Conditional Clauses"
+ },
+ {
+  "id": "consolidation",
+  "level": 3,
+  "title": "Consolidation"
+ },
+ {
+  "id": "the-place-of-the-case-and-other-adverbial-clauses",
+  "level": 3,
+  "title": "The Place of the Case (and other Adverbial Clauses)"
+ },
+ {
+  "id": "adjectival-clauses-instead-of-adverbial-clauses",
+  "level": 3,
+  "title": "Adjectival Clauses instead of Adverbial Clauses"
+ },
+ {
+  "id": "conclusion-3",
+  "level": 2,
+  "title": "Conclusion"
+ },
+ {
+  "id": "legistics-paragraphing",
+  "level": 2,
+  "title": "Legistics Paragraphing"
+ },
+ {
+  "id": "what-is-paragraphing",
+  "level": 2,
+  "title": "What is paragraphing?"
+ },
+ {
+  "id": "why-paragraph",
+  "level": 2,
+  "title": "Why paragraph?"
+ },
+ {
+  "id": "how-do-you-paragraph",
+  "level": 2,
+  "title": "How do you paragraph?"
+ },
+ {
+  "id": "legistics-paragraphing-2",
+  "level": 2,
+  "title": "Legistics Paragraphing"
+ },
+ {
+  "id": "the-logical-relationship-among-paragraphed-elements",
+  "level": 2,
+  "title": "The logical relationship among paragraphed elements"
+ },
+ {
+  "id": "recommendation-23",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "alert-conjunctions-with-negation",
+  "level": 3,
+  "title": "Alert — Conjunctions with negation"
+ },
+ {
+  "id": "negating-each-of-the-elements",
+  "level": 4,
+  "title": "Negating each of the elements"
+ },
+ {
+  "id": "conjunctions-between-paragraphs",
+  "level": 2,
+  "title": "Conjunctions between paragraphs"
+ },
+ {
+  "id": "examples-8",
+  "level": 3,
+  "title": "Examples:"
+ },
+ {
+  "id": "punctuation-of-paragraphs",
+  "level": 2,
+  "title": "Punctuation of paragraphs"
+ },
+ {
+  "id": "when-should-you-paragraph",
+  "level": 2,
+  "title": "When should you paragraph?"
+ },
+ {
+  "id": "legistics-table-of-factors-and-examples",
+  "level": 2,
+  "title": "Legistics Table of Factors and Examples"
+ },
+ {
+  "id": "legistics-compounds-and-hyphenation",
+  "level": 2,
+  "title": "Legistics Compounds and Hyphenation"
+ },
+ {
+  "id": "background-13",
+  "level": 2,
+  "title": "Background"
+ },
+ {
+  "id": "basic-compounds",
+  "level": 2,
+  "title": "Basic compounds"
+ },
+ {
+  "id": "compound-nouns-a-few-guidelines",
+  "level": 3,
+  "title": "Compound nouns - a few guidelines"
+ },
+ {
+  "id": "compound-modifiers",
+  "level": 3,
+  "title": "Compound modifiers"
+ },
+ {
+  "id": "capitalizing-hyphenated-compounds",
+  "level": 3,
+  "title": "Capitalizing hyphenated compounds"
+ },
+ {
+  "id": "conclusion-4",
+  "level": 2,
+  "title": "Conclusion"
+ },
+ {
+  "id": "examples-9",
+  "level": 2,
+  "title": "Examples"
+ },
+ {
+  "id": "hyphenate",
+  "level": 3,
+  "title": "Hyphenate:"
+ },
+ {
+  "id": "usually-hyphenate",
+  "level": 3,
+  "title": "Usually hyphenate:"
+ },
+ {
+  "id": "do-not-hyphenate",
+  "level": 3,
+  "title": "Do not hyphenate:"
+ },
+ {
+  "id": "sources-7",
+  "level": 3,
+  "title": "Sources"
+ },
+ {
+  "id": "legistics-em-dashes",
+  "level": 2,
+  "title": "Legistics Em Dashes"
+ },
+ {
+  "id": "background-14",
+  "level": 2,
+  "title": "Background"
+ },
+ {
+  "id": "recommendation-24",
+  "level": 2,
+  "title": "Recommendation"
+ },
+ {
+  "id": "analysis-2",
+  "level": 2,
+  "title": "Analysis"
+ },
+ {
+  "id": "footnotes-16",
+  "level": 3,
+  "title": "Footnotes"
+ }
+]

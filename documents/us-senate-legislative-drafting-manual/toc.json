@@ -1,0 +1,337 @@
+[
+ {
+  "id": "legislative-drafting",
+  "level": 2,
+  "title": "LEGISLATIVE DRAFTING"
+ },
+ {
+  "id": "manual",
+  "level": 3,
+  "title": "MANUAL"
+ },
+ {
+  "id": "office-of-the-legislative-counsel",
+  "level": 2,
+  "title": "OFFICE OF THE LEGISLATIVE COUNSEL"
+ },
+ {
+  "id": "united-states-senate",
+  "level": 2,
+  "title": "UNITED STATES SENATE"
+ },
+ {
+  "id": "title-i-general-drafting",
+  "level": 2,
+  "title": "TITLE I-GENERAL DRAFTING"
+ },
+ {
+  "id": "principles",
+  "level": 3,
+  "title": "PRINCIPLES"
+ },
+ {
+  "id": "subtitle-a-fundamental-rules",
+  "level": 2,
+  "title": "Subtitle A-Fundamental Rules"
+ },
+ {
+  "id": "that",
+  "level": 4,
+  "title": "that-"
+ },
+ {
+  "id": "subtitle-b-organization",
+  "level": 2,
+  "title": "Subtitle B-Organization"
+ },
+ {
+  "id": "title-i-major-legislative",
+  "level": 3,
+  "title": "TITLE I-MAJOR LEGISLATIVE"
+ },
+ {
+  "id": "component",
+  "level": 3,
+  "title": "COMPONENT"
+ },
+ {
+  "id": "subtitle-a",
+  "level": 3,
+  "title": "Subtitle A-"
+ },
+ {
+  "id": "chaprerl",
+  "level": 4,
+  "title": "CHAPrERl-"
+ },
+ {
+  "id": "subpart-a",
+  "level": 5,
+  "title": "Subpart A-"
+ },
+ {
+  "id": "subtitle-b",
+  "level": 3,
+  "title": "Subtitle B-"
+ },
+ {
+  "id": "title-ii-major-legislative",
+  "level": 3,
+  "title": "TITLE II-MAJOR LEGISLATIVE"
+ },
+ {
+  "id": "component-2",
+  "level": 3,
+  "title": "COMPONENT"
+ },
+ {
+  "id": "subtitle-c-particular-provisions",
+  "level": 2,
+  "title": "Subtitle C-Particular Provisions"
+ },
+ {
+  "id": "bill-an-act-or-resolution-and-preceding-the",
+  "level": 5,
+  "title": "Bill\", \"An Act\", or \"Resolution\" and preceding the"
+ },
+ {
+  "id": "tion-concurrent-resolution-or-joint",
+  "level": 3,
+  "title": "tion\", \"Concurrent Resolution\", or \"Joint"
+ },
+ {
+  "id": "used",
+  "level": 5,
+  "title": "used-"
+ },
+ {
+  "id": "act-amendments-of-year-if-appro",
+  "level": 5,
+  "title": "\"... Act Amendments [of year (if appro-"
+ },
+ {
+  "id": "5",
+  "level": 5,
+  "title": "5"
+ },
+ {
+  "id": "section",
+  "level": 2,
+  "title": "-----"
+ },
+ {
+  "id": "section-2",
+  "level": 2,
+  "title": "."
+ },
+ {
+  "id": "law",
+  "level": 5,
+  "title": "LAw.-"
+ },
+ {
+  "id": "section-3",
+  "level": 2,
+  "title": "."
+ },
+ {
+  "id": "od",
+  "level": 4,
+  "title": "od-"
+ },
+ {
+  "id": "section-4",
+  "level": 2,
+  "title": "."
+ },
+ {
+  "id": "section-5",
+  "level": 3,
+  "title": "."
+ },
+ {
+  "id": "section-6",
+  "level": 2,
+  "title": "-------"
+ },
+ {
+  "id": "section-7",
+  "level": 2,
+  "title": ".-"
+ },
+ {
+  "id": "y",
+  "level": 4,
+  "title": "y'"
+ },
+ {
+  "id": "section-8",
+  "level": 3,
+  "title": "."
+ },
+ {
+  "id": "section-9",
+  "level": 2,
+  "title": "'\""
+ },
+ {
+  "id": "section-10",
+  "level": 3,
+  "title": "/'"
+ },
+ {
+  "id": "cause",
+  "level": 5,
+  "title": "cause-"
+ },
+ {
+  "id": "section-11",
+  "level": 4,
+  "title": "--"
+ },
+ {
+  "id": "b",
+  "level": 5,
+  "title": "(B»\"]."
+ },
+ {
+  "id": "if",
+  "level": 3,
+  "title": "if-"
+ },
+ {
+  "id": "section-12",
+  "level": 3,
+  "title": "."
+ },
+ {
+  "id": "section-13",
+  "level": 2,
+  "title": "."
+ },
+ {
+  "id": "title-ii-floor-and-commit",
+  "level": 2,
+  "title": "TITLE II-FLOOR AND COMMIT·"
+ },
+ {
+  "id": "tee-amendments-and-mo",
+  "level": 3,
+  "title": "TEE AMENDMENTS AND MO-"
+ },
+ {
+  "id": "tions",
+  "level": 2,
+  "title": "TIONS"
+ },
+ {
+  "id": "section-14",
+  "level": 2,
+  "title": "."
+ },
+ {
+  "id": "to",
+  "level": 3,
+  "title": "to ...\"."
+ },
+ {
+  "id": "section-15",
+  "level": 4,
+  "title": "."
+ },
+ {
+  "id": "liamentarian",
+  "level": 5,
+  "title": "liamentarian. '"
+ },
+ {
+  "id": "title-iii-miscellaneous",
+  "level": 3,
+  "title": "TITLE III-MISCELLANEOUS"
+ },
+ {
+  "id": "class-if-the-thing",
+  "level": 5,
+  "title": "class if the thing-"
+ },
+ {
+  "id": "______-the-secretary-shall-submit-the-report",
+  "level": 4,
+  "title": "______, the Secretary shall submit the report"
+ },
+ {
+  "id": "section-16",
+  "level": 4,
+  "title": ". \"]"
+ },
+ {
+  "id": "sum",
+  "level": 5,
+  "title": "sum ."
+ },
+ {
+  "id": "section-17",
+  "level": 4,
+  "title": ".'"
+ },
+ {
+  "id": "law-2",
+  "level": 4,
+  "title": "LAw.-"
+ },
+ {
+  "id": "2",
+  "level": 4,
+  "title": "2"
+ },
+ {
+  "id": "9",
+  "level": 5,
+  "title": "9"
+ },
+ {
+  "id": "11",
+  "level": 5,
+  "title": "11-"
+ },
+ {
+  "id": "22",
+  "level": 5,
+  "title": "22"
+ },
+ {
+  "id": "24",
+  "level": 5,
+  "title": "24"
+ },
+ {
+  "id": "26",
+  "level": 4,
+  "title": "26"
+ },
+ {
+  "id": "vi-ua-s",
+  "level": 4,
+  "title": "VI ua s ...."
+ },
+ {
+  "id": "section-18",
+  "level": 3,
+  "title": ", ,"
+ },
+ {
+  "id": "ing-september-30-__",
+  "level": 5,
+  "title": "ing September 30, __\")."
+ },
+ {
+  "id": "section-19",
+  "level": 3,
+  "title": "\""
+ },
+ {
+  "id": "section-20",
+  "level": 2,
+  "title": "-'"
+ }
+]

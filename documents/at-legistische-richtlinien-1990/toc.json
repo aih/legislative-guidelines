@@ -1,0 +1,1742 @@
+[
+ {
+  "id": "handbuch-der-rechtssetzungstechnik",
+  "level": 2,
+  "title": "Handbuch der Rechtssetzungstechnik"
+ },
+ {
+  "id": "teil-1-legistische-richtlinien-1990",
+  "level": 2,
+  "title": "Teil 1: Legistische Richtlinien 1990"
+ },
+ {
+  "id": "herausgegeben-vom-bundeskanzleramt",
+  "level": 3,
+  "title": "Herausgegeben vom Bundeskanzleramt"
+ },
+ {
+  "id": "inhaltsübersicht",
+  "level": 3,
+  "title": "INHALTSÜBERSICHT"
+ },
+ {
+  "id": "i-rechtssprache-5-allgemeines-5",
+  "level": 3,
+  "title": "I. RECHTSSPRACHE ................................................................................................ 5 ALLGEMEINES ....................................................................................................... 5"
+ },
+ {
+  "id": "1-sprachliche-sparsamkeit-5",
+  "level": 3,
+  "title": "1. Sprachliche Sparsamkeit ............................................................................. 5"
+ },
+ {
+  "id": "2-rechtserzeugung-5",
+  "level": 3,
+  "title": "2. Rechtserzeugung ......................................................................................... 5"
+ },
+ {
+  "id": "3-motive-5",
+  "level": 3,
+  "title": "3. Motive .......................................................................................................... 5"
+ },
+ {
+  "id": "4-wiederholungen-5",
+  "level": 3,
+  "title": "4. Wiederholungen ........................................................................................... 5"
+ },
+ {
+  "id": "5-salvatorische-klauseln-5",
+  "level": 3,
+  "title": "5. Salvatorische Klauseln ................................................................................. 5"
+ },
+ {
+  "id": "6-abstraktheit-und-beispiele-5",
+  "level": 3,
+  "title": "6. Abstraktheit und Beispiele ........................................................................... 5"
+ },
+ {
+  "id": "7-sprachliche-klarheit-6",
+  "level": 3,
+  "title": "7. Sprachliche Klarheit ..................................................................................... 6"
+ },
+ {
+  "id": "8-allgemeine-regeln-für-den-sprachstil-6",
+  "level": 3,
+  "title": "8. Allgemeine Regeln für den Sprachstil .......................................................... 6"
+ },
+ {
+  "id": "9-verständlichkeit-6",
+  "level": 3,
+  "title": "9. Verständlichkeit............................................................................................ 6"
+ },
+ {
+  "id": "10-sprachliche-gleichbehandlung-von-frau-und-mann-6-textaufb",
+  "level": 3,
+  "title": "10. Sprachliche Gleichbehandlung von Frau und Mann .................................. 6 TEXTAUFBAU ........................................................................................................ 6"
+ },
+ {
+  "id": "11-systematik-6",
+  "level": 3,
+  "title": "11. Systematik ................................................................................................. 6"
+ },
+ {
+  "id": "12-gliederung-7-paragraphenaufbau-7",
+  "level": 3,
+  "title": "12. Gliederung ................................................................................................. 7 PARAGRAPHENAUFBAU ...................................................................................... 7"
+ },
+ {
+  "id": "13-länge-eines-paragraphen-7",
+  "level": 3,
+  "title": "13. Länge eines Paragraphen .......................................................................... 7"
+ },
+ {
+  "id": "14-gliederung-eines-paragraphen-7-satzbau-7",
+  "level": 3,
+  "title": "14. Gliederung eines Paragraphen .................................................................. 7 SATZBAU ............................................................................................................... 7"
+ },
+ {
+  "id": "15-hauptwortstil-7",
+  "level": 3,
+  "title": "15. Hauptwortstil .............................................................................................. 7"
+ },
+ {
+  "id": "16-schachtelsätze-7",
+  "level": 3,
+  "title": "16. Schachtelsätze........................................................................................... 7"
+ },
+ {
+  "id": "17-aktivkonstruktionen-7",
+  "level": 3,
+  "title": "17. Aktivkonstruktionen .................................................................................... 7"
+ },
+ {
+  "id": "18-satzlänge-7",
+  "level": 3,
+  "title": "18. Satzlänge ................................................................................................... 7"
+ },
+ {
+  "id": "19-nebensätze-8",
+  "level": 3,
+  "title": "19. Nebensätze ................................................................................................ 8"
+ },
+ {
+  "id": "20-unvollständige-sätze-8",
+  "level": 3,
+  "title": "20. Unvollständige Sätze ................................................................................. 8"
+ },
+ {
+  "id": "21-verneinungen-8",
+  "level": 3,
+  "title": "21. Verneinungen ............................................................................................ 8"
+ },
+ {
+  "id": "22-lange-beifügungen-8",
+  "level": 3,
+  "title": "22. Lange Beifügungen .................................................................................... 8"
+ },
+ {
+  "id": "23-gegensätze-deutlich-machen-9",
+  "level": 3,
+  "title": "23. Gegensätze deutlich machen .................................................................... 9"
+ },
+ {
+  "id": "24-und-9",
+  "level": 3,
+  "title": "24. „und“ .......................................................................................................... 9"
+ },
+ {
+  "id": "25-oder-9",
+  "level": 3,
+  "title": "25. „oder“ ......................................................................................................... 9"
+ },
+ {
+  "id": "26-beziehungsweise-und-oder-10-ausdruck-10",
+  "level": 3,
+  "title": "26. „beziehungsweise“, „und/oder“ ................................................................ 10 AUSDRUCK .......................................................................................................... 10"
+ },
+ {
+  "id": "27-gebote-und-verbote-10",
+  "level": 3,
+  "title": "27. Gebote und Verbote ................................................................................. 10"
+ },
+ {
+  "id": "28-hauptwortphrasen-10",
+  "level": 3,
+  "title": "28. Hauptwortphrasen .................................................................................... 10"
+ },
+ {
+  "id": "29-zusammengesetzte-hauptwörter-10",
+  "level": 3,
+  "title": "29. Zusammengesetzte Hauptwörter ............................................................. 10"
+ },
+ {
+  "id": "30-legaldefinition-10",
+  "level": 3,
+  "title": "30. Legaldefinition .......................................................................................... 10"
+ },
+ {
+  "id": "31-einheitliche-bedeutung-11",
+  "level": 3,
+  "title": "31. Einheitliche Bedeutung ............................................................................ 11"
+ },
+ {
+  "id": "32-fremdwörter-11",
+  "level": 3,
+  "title": "32. Fremdwörter ............................................................................................ 11"
+ },
+ {
+  "id": "33-zeitgemäße-wortwahl-11",
+  "level": 3,
+  "title": "33. Zeitgemäße Wortwahl .............................................................................. 11"
+ },
+ {
+  "id": "34-können-11",
+  "level": 3,
+  "title": "34. „können“ ................................................................................................... 11"
+ },
+ {
+  "id": "35-sollen-11",
+  "level": 3,
+  "title": "35. „sollen“ ..................................................................................................... 11"
+ },
+ {
+  "id": "36-bundesminister-11",
+  "level": 3,
+  "title": "36. Bundesminister ........................................................................................ 11"
+ },
+ {
+  "id": "ii-rechtstechnik-12-zeitlicher-geltungsbereich-12",
+  "level": 3,
+  "title": "II. RECHTSTECHNIK ............................................................................................... 12 ZEITLICHER GELTUNGSBEREICH .................................................................... 12"
+ },
+ {
+  "id": "37-allgemeines-12-inkrafttreten-12",
+  "level": 3,
+  "title": "37. Allgemeines ............................................................................................. 12 INKRAFTTRETEN ............................................................................................. 12"
+ },
+ {
+  "id": "38-art-49-b-vg-12",
+  "level": 3,
+  "title": "38. Art. 49 B-VG ............................................................................................ 12"
+ },
+ {
+  "id": "39-abweichendes-inkrafttreten-13",
+  "level": 3,
+  "title": "39. Abweichendes Inkrafttreten ..................................................................... 13"
+ },
+ {
+  "id": "40-inkrafttretensregelungen-als-schlußbestimmung-13",
+  "level": 3,
+  "title": "40. Inkrafttretensregelungen als Schlußbestimmung ..................................... 13"
+ },
+ {
+  "id": "41-novellierung-des-geltungsbereiches-14",
+  "level": 3,
+  "title": "41. Novellierung des Geltungsbereiches ....................................................... 14"
+ },
+ {
+  "id": "42-befristete-geltung-einer-rechtsvorschrift-14-ausserkraftt",
+  "level": 3,
+  "title": "42. Befristete Geltung einer Rechtsvorschrift ................................................. 14 AUSSERKRAFTTRETEN .................................................................................. 15"
+ },
+ {
+  "id": "43-bezeichnung-15",
+  "level": 3,
+  "title": "43. Bezeichnung ............................................................................................ 15"
+ },
+ {
+  "id": "44-vermeidung-materieller-derogationen-15",
+  "level": 3,
+  "title": "44. Vermeidung materieller Derogationen ..................................................... 15"
+ },
+ {
+  "id": "45-eingeschränkte-aufhebung-15",
+  "level": 3,
+  "title": "45. Eingeschränkte Aufhebung ...................................................................... 15"
+ },
+ {
+  "id": "46-zeitpunkt-der-aufhebung-16-rückwirkung-16",
+  "level": 3,
+  "title": "46. Zeitpunkt der Aufhebung .......................................................................... 16 RÜCKWIRKUNG ............................................................................................... 16"
+ },
+ {
+  "id": "47-allgemeine-regel-16",
+  "level": 3,
+  "title": "47. Allgemeine Regel ..................................................................................... 16"
+ },
+ {
+  "id": "48-beginn-von-fristen-16",
+  "level": 3,
+  "title": "48. Beginn von Fristen ................................................................................... 16"
+ },
+ {
+  "id": "49-nachträgliche-verkürzung-einer-legisvakanz-16-rechtsberei",
+  "level": 3,
+  "title": "49. Nachträgliche Verkürzung einer Legisvakanz .......................................... 16 RECHTSBEREINIGUNG ................................................................................... 17"
+ },
+ {
+  "id": "50-derogationsvorschriften-17-sonstiges-17",
+  "level": 3,
+  "title": "50. Derogationsvorschriften ........................................................................... 17 SONSTIGES ..................................................................................................... 17"
+ },
+ {
+  "id": "51-verfassungsbestimmungen-17",
+  "level": 3,
+  "title": "51. Verfassungsbestimmungen ..................................................................... 17"
+ },
+ {
+  "id": "52-keine-verdoppelung-17",
+  "level": 3,
+  "title": "52. Keine Verdoppelung ................................................................................ 17"
+ },
+ {
+  "id": "53-neuerlassung-17-verweisungen-18-allgemeines-18",
+  "level": 3,
+  "title": "53. Neuerlassung ........................................................................................... 17 VERWEISUNGEN ................................................................................................ 18 ALLGEMEINES ................................................................................................. 18"
+ },
+ {
+  "id": "54-allgemeine-regel-18",
+  "level": 3,
+  "title": "54. Allgemeine Regel ..................................................................................... 18"
+ },
+ {
+  "id": "55-verbot-von-kettenverweisungen-18",
+  "level": 3,
+  "title": "55. Verbot von Kettenverweisungen .............................................................. 18"
+ },
+ {
+  "id": "56-verständlichkeit-der-verweisungen-18",
+  "level": 3,
+  "title": "56. Verständlichkeit der Verweisungen .......................................................... 18"
+ },
+ {
+  "id": "57-eindeutigkeit-18",
+  "level": 3,
+  "title": "57. Eindeutigkeit ............................................................................................ 18"
+ },
+ {
+  "id": "58-wahrung-der-publizität-19",
+  "level": 3,
+  "title": "58. Wahrung der Publizität ............................................................................. 19"
+ },
+ {
+  "id": "59-klarheit-der-verweisung-19",
+  "level": 3,
+  "title": "59. Klarheit der Verweisung ........................................................................... 19"
+ },
+ {
+  "id": "60-statische-verweisung-textverweisung-19-dynamische-gleiten",
+  "level": 3,
+  "title": "60. Statische Verweisung (Textverweisung) .................................................. 19 DYNAMISCHE (GLEITENDE) VERWEISUNG 1. GRADES ............................. 19"
+ },
+ {
+  "id": "61-allgemeine-regel-19",
+  "level": 3,
+  "title": "61. Allgemeine Regel ..................................................................................... 19"
+ },
+ {
+  "id": "62-generelle-verweisungsbestimmung-20",
+  "level": 3,
+  "title": "62. Generelle Verweisungsbestimmung ........................................................ 20"
+ },
+ {
+  "id": "63-verfassungsrechtlich-unzulässige-verweisung-20-dynamische",
+  "level": 3,
+  "title": "63. Verfassungsrechtlich unzulässige Verweisung ........................................ 20 DYNAMISCHE VERWEISUNG 2. GRADES ..................................................... 20"
+ },
+ {
+  "id": "64-dynamische-verweisung-2-grades-20-novellen-20-allgemeines",
+  "level": 3,
+  "title": "64. Dynamische Verweisung 2. Grades ......................................................... 20 NOVELLEN ........................................................................................................... 20 ALLGEMEINES ................................................................................................. 20"
+ },
+ {
+  "id": "65-grundsatz-der-einzelnovellierung-20",
+  "level": 3,
+  "title": "65. Grundsatz der Einzelnovellierung ............................................................ 20"
+ },
+ {
+  "id": "66-verbot-von-selbständigen-bestimmungen-21",
+  "level": 3,
+  "title": "66. Verbot von selbständigen Bestimmungen ................................................ 21"
+ },
+ {
+  "id": "67-verbot-der-novellierung-von-novellen-21",
+  "level": 3,
+  "title": "67. Verbot der Novellierung von Novellen ...................................................... 21"
+ },
+ {
+  "id": "68-stammvorschriften-21",
+  "level": 3,
+  "title": "68. Stammvorschriften ................................................................................... 21"
+ },
+ {
+  "id": "69-aufhebung-und-befristung-21",
+  "level": 3,
+  "title": "69. Aufhebung und Befristung ....................................................................... 21"
+ },
+ {
+  "id": "70-formulierung-im-indikativ-21",
+  "level": 3,
+  "title": "70. Formulierung im Indikativ ......................................................................... 21"
+ },
+ {
+  "id": "71-novellierung-von-verfassungs-und-von-grundsatzbestimmunge",
+  "level": 3,
+  "title": "71. Novellierung von Verfassungs- und von Grundsatzbestimmungen ......... 22"
+ },
+ {
+  "id": "72-anpassung-von-verweisungen-22",
+  "level": 3,
+  "title": "72. Anpassung von Verweisungen................................................................. 22"
+ },
+ {
+  "id": "73-umwandlung-von-verweisungen-22",
+  "level": 3,
+  "title": "73. Umwandlung von Verweisungen.............................................................. 22"
+ },
+ {
+  "id": "74-implizite-verweisung-22",
+  "level": 3,
+  "title": "74. Implizite Verweisung ................................................................................ 22"
+ },
+ {
+  "id": "übergangs-und-anpassungsbestimmungen-23",
+  "level": 3,
+  "title": "ÜBERGANGS- UND ANPASSUNGSBESTIMMUNGEN ................................... 23"
+ },
+ {
+  "id": "75-übergangsrecht-23",
+  "level": 3,
+  "title": "75. „Übergangsrecht“ ..................................................................................... 23"
+ },
+ {
+  "id": "76-befristung-23",
+  "level": 3,
+  "title": "76. Befristung ................................................................................................. 23"
+ },
+ {
+  "id": "77-eingriff-in-die-rechtskraft-behördlicher-erledigungen-23-",
+  "level": 3,
+  "title": "77. Eingriff in die Rechtskraft behördlicher Erledigungen .............................. 23 VOLLZIEHUNG ..................................................................................................... 24"
+ },
+ {
+  "id": "79-organe-und-behörden-24",
+  "level": 3,
+  "title": "79. Organe und Behörden ............................................................................. 24"
+ },
+ {
+  "id": "80-vollziehungsklausel-24",
+  "level": 3,
+  "title": "80. Vollziehungsklausel ................................................................................. 24"
+ },
+ {
+  "id": "81-privatwirtschaftsverwaltung-24",
+  "level": 3,
+  "title": "81. Privatwirtschaftsverwaltung ..................................................................... 24"
+ },
+ {
+  "id": "82-änderung-der-zuständigkeit-25",
+  "level": 3,
+  "title": "82. Änderung der Zuständigkeit ..................................................................... 25"
+ },
+ {
+  "id": "83-novellen-25-ermessen-25",
+  "level": 3,
+  "title": "83. Novellen ................................................................................................... 25 ERMESSEN .......................................................................................................... 25"
+ },
+ {
+  "id": "84-ermessensbestimmung-25",
+  "level": 3,
+  "title": "84. Ermessensbestimmung ........................................................................... 25"
+ },
+ {
+  "id": "85-ermessensrichtlinien-25-legalitätsprinzip-25",
+  "level": 3,
+  "title": "85. Ermessensrichtlinien ................................................................................ 25 LEGALITÄTSPRINZIP .......................................................................................... 25"
+ },
+ {
+  "id": "86-ausreichende-determinierung-25",
+  "level": 3,
+  "title": "86. Ausreichende Determinierung.................................................................. 25"
+ },
+ {
+  "id": "87-unbestimmte-gesetzesbegriffe-25",
+  "level": 3,
+  "title": "87. Unbestimmte Gesetzesbegriffe ................................................................ 25"
+ },
+ {
+  "id": "88-ausnahmen-25",
+  "level": 3,
+  "title": "88. Ausnahmen .............................................................................................. 25"
+ },
+ {
+  "id": "89-gebote-und-verbote-26-grundsatzgesetze-26",
+  "level": 3,
+  "title": "89. Gebote und Verbote ................................................................................. 26 GRUNDSATZGESETZE ....................................................................................... 26"
+ },
+ {
+  "id": "90-frist-für-die-erlassung-von-ausführungsgesetzen-26",
+  "level": 3,
+  "title": "90. Frist für die Erlassung von Ausführungsgesetzen .................................... 26"
+ },
+ {
+  "id": "91-inkrafttreten-des-grundsatzgesetzes-26",
+  "level": 3,
+  "title": "91. Inkrafttreten des Grundsatzgesetzes ....................................................... 26"
+ },
+ {
+  "id": "92-bezeichnung-26-sonstiges-27",
+  "level": 3,
+  "title": "92. Bezeichnung ............................................................................................ 26 SONSTIGES ......................................................................................................... 27"
+ },
+ {
+  "id": "93-verfassungsbestimmungen-27",
+  "level": 3,
+  "title": "93. Verfassungsbestimmungen ..................................................................... 27"
+ },
+ {
+  "id": "94-selbstbindungsgesetze-27",
+  "level": 3,
+  "title": "94. Selbstbindungsgesetze ............................................................................ 27"
+ },
+ {
+  "id": "95-legisvakanz-27",
+  "level": 3,
+  "title": "95. Legisvakanz ............................................................................................. 27"
+ },
+ {
+  "id": "96-durchführungsverordnung-27",
+  "level": 3,
+  "title": "96. Durchführungsverordnung ....................................................................... 27"
+ },
+ {
+  "id": "97-hebung-von-verordnungen-in-gesetzesrang-27",
+  "level": 3,
+  "title": "97. „Hebung“ von Verordnungen in Gesetzesrang ........................................ 27"
+ },
+ {
+  "id": "98-frühzeitige-erlassung-von-verordnungen-28",
+  "level": 3,
+  "title": "98. Frühzeitige Erlassung von Verordnungen ................................................ 28"
+ },
+ {
+  "id": "99-besondere-verfahren-zur-erzeugung-von-bundesgesetzen-28-i",
+  "level": 3,
+  "title": "99. Besondere Verfahren zur Erzeugung von Bundesgesetzen .................... 28 III. FORMELLE GESTALTUNG ................................................................................ 29 TITEL .................................................................................................................... 29 ALLGEMEINES ................................................................................................. 29"
+ },
+ {
+  "id": "100-inhalt-29",
+  "level": 3,
+  "title": "100. Inhalt ...................................................................................................... 29"
+ },
+ {
+  "id": "101-kurztitel-29",
+  "level": 3,
+  "title": "101. Kurztitel .................................................................................................. 29"
+ },
+ {
+  "id": "102-jahreszahl-29",
+  "level": 3,
+  "title": "102. Jahreszahl ............................................................................................. 29"
+ },
+ {
+  "id": "103-beschlußdatum-29-verordnungen-30",
+  "level": 3,
+  "title": "103. Beschlußdatum ...................................................................................... 29 VERORDNUNGEN............................................................................................ 30"
+ },
+ {
+  "id": "104-gemeinsame-zuständigkeit-mehrerer-bundesminister-30",
+  "level": 3,
+  "title": "104. Gemeinsame Zuständigkeit mehrerer Bundesminister .......................... 30"
+ },
+ {
+  "id": "105-einvernehmen-mitwirkung-30-promulgationsklausel-30",
+  "level": 3,
+  "title": "105. Einvernehmen, Mitwirkung ..................................................................... 30 PROMULGATIONSKLAUSEL .............................................................................. 30"
+ },
+ {
+  "id": "106-bundesgesetze-30",
+  "level": 3,
+  "title": "106. Bundesgesetze ...................................................................................... 30"
+ },
+ {
+  "id": "107-vereinbarungen-gemäß-art-15a-b-vg-30",
+  "level": 3,
+  "title": "107. Vereinbarungen gemäß Art. 15a B-VG .................................................. 30"
+ },
+ {
+  "id": "108-staatsverträge-gem-art-50-abs-1-b-vg-30",
+  "level": 3,
+  "title": "108. Staatsverträge gem. Art. 50 Abs. 1 B-VG .............................................. 30"
+ },
+ {
+  "id": "109-verordnungen-kundmachungen-entschließungen-31",
+  "level": 3,
+  "title": "109. Verordnungen, Kundmachungen, Entschließungen............................... 31"
+ },
+ {
+  "id": "110-einvernehmen-mitwirkung-31-gliederung-der-rechtsvorschri",
+  "level": 3,
+  "title": "110. Einvernehmen, Mitwirkung ..................................................................... 31 GLIEDERUNG DER RECHTSVORSCHRIFT ....................................................... 32"
+ },
+ {
+  "id": "111-grobgliederung-32",
+  "level": 3,
+  "title": "111. Grobgliederung ...................................................................................... 32"
+ },
+ {
+  "id": "112-anlagen-32",
+  "level": 3,
+  "title": "112. Anlagen .................................................................................................. 32"
+ },
+ {
+  "id": "113-detailgliederung-32",
+  "level": 3,
+  "title": "113. Detailgliederung ..................................................................................... 32"
+ },
+ {
+  "id": "114-artikel-32",
+  "level": 3,
+  "title": "114. Artikel ..................................................................................................... 32"
+ },
+ {
+  "id": "115-fortlaufende-numerierung-32",
+  "level": 3,
+  "title": "115. Fortlaufende Numerierung ..................................................................... 32"
+ },
+ {
+  "id": "116-unbezeichnete-absätze-32",
+  "level": 3,
+  "title": "116. Unbezeichnete Absätze ......................................................................... 32"
+ },
+ {
+  "id": "117-paragraphenbezeichnung-und-paragraphenüberschrift-33",
+  "level": 3,
+  "title": "117. Paragraphenbezeichnung und Paragraphenüberschrift ......................... 33"
+ },
+ {
+  "id": "118-tabellen-33",
+  "level": 3,
+  "title": "118. Tabellen ................................................................................................. 33"
+ },
+ {
+  "id": "119-inhaltsverzeichnis-33-novellen-33",
+  "level": 3,
+  "title": "119. Inhaltsverzeichnis .................................................................................. 33 NOVELLEN ........................................................................................................... 33"
+ },
+ {
+  "id": "120-titel-33",
+  "level": 3,
+  "title": "120. Titel ........................................................................................................ 33"
+ },
+ {
+  "id": "121-gliederung-34",
+  "level": 3,
+  "title": "121. Gliederung ............................................................................................. 34"
+ },
+ {
+  "id": "122-änderung-vollständiger-gliederungseinheiten-34",
+  "level": 3,
+  "title": "122. Änderung vollständiger Gliederungseinheiten ....................................... 34"
+ },
+ {
+  "id": "123-zitierung-34",
+  "level": 3,
+  "title": "123. Zitierung ................................................................................................. 34"
+ },
+ {
+  "id": "124-einleitungssatz-34",
+  "level": 3,
+  "title": "124. Einleitungssatz ....................................................................................... 34"
+ },
+ {
+  "id": "125-anführungszeichen-34",
+  "level": 3,
+  "title": "125. Anführungszeichen ................................................................................ 34"
+ },
+ {
+  "id": "126-einfügung-35",
+  "level": 3,
+  "title": "126. Einfügung ............................................................................................... 35"
+ },
+ {
+  "id": "127-umfangreiche-novellierungen-35-sammelnovellen-35",
+  "level": 3,
+  "title": "127. Umfangreiche Novellierungen ................................................................ 35 SAMMELNOVELLEN ........................................................................................ 35"
+ },
+ {
+  "id": "128-titel-35",
+  "level": 3,
+  "title": "128. Titel ........................................................................................................ 35"
+ },
+ {
+  "id": "129-kurztitel-35",
+  "level": 3,
+  "title": "129. Kurztitel .................................................................................................. 35"
+ },
+ {
+  "id": "130-gliederung-von-sammelnovellen-35-zitierregeln-35",
+  "level": 3,
+  "title": "130. Gliederung von Sammelnovellen ........................................................... 35 ZITIERREGELN .................................................................................................... 35"
+ },
+ {
+  "id": "131-allgemeine-regel-35",
+  "level": 3,
+  "title": "131. Allgemeine Regel ................................................................................... 35"
+ },
+ {
+  "id": "132-fundstelle-36",
+  "level": 3,
+  "title": "132. Fundstelle .............................................................................................. 36"
+ },
+ {
+  "id": "133-kurztitel-36",
+  "level": 3,
+  "title": "133. Kurztitel .................................................................................................. 36"
+ },
+ {
+  "id": "134-binnenzitierung-36",
+  "level": 3,
+  "title": "134. Binnenzitierung ...................................................................................... 36"
+ },
+ {
+  "id": "135-angabe-der-gliederungseinheit-36",
+  "level": 3,
+  "title": "135. Angabe der Gliederungseinheit.............................................................. 36"
+ },
+ {
+  "id": "136-artikel-37",
+  "level": 3,
+  "title": "136. Artikel ..................................................................................................... 37"
+ },
+ {
+  "id": "137-abkürzung-der-gliederungseinheiten-37",
+  "level": 3,
+  "title": "137. Abkürzung der Gliederungseinheiten ..................................................... 37"
+ },
+ {
+  "id": "138-sonderfälle-37-schreibweise-von-zahlen-37",
+  "level": 3,
+  "title": "138. Sonderfälle ............................................................................................. 37 SCHREIBWEISE VON ZAHLEN ........................................................................... 37"
+ },
+ {
+  "id": "139-dezimalzeichen-37",
+  "level": 3,
+  "title": "139. Dezimalzeichen ...................................................................................... 37"
+ },
+ {
+  "id": "140-zahlen-mit-mehr-als-drei-stellen-38",
+  "level": 3,
+  "title": "140. Zahlen mit mehr als drei Stellen............................................................. 38"
+ },
+ {
+  "id": "141-zahlen-38",
+  "level": 3,
+  "title": "141. Zahlen .................................................................................................... 38"
+ },
+ {
+  "id": "142-geldbeträge-38",
+  "level": 3,
+  "title": "142. Geldbeträge ........................................................................................... 38"
+ },
+ {
+  "id": "143-datum-38-zeichensetzung-39",
+  "level": 3,
+  "title": "143. Datum .................................................................................................... 38 ZEICHENSETZUNG ............................................................................................. 39"
+ },
+ {
+  "id": "144-überschrift-39",
+  "level": 3,
+  "title": "144. Überschrift ............................................................................................. 39"
+ },
+ {
+  "id": "145-zitat-einer-rechtsvorschrift-39",
+  "level": 3,
+  "title": "145. Zitat einer Rechtsvorschrift .................................................................... 39"
+ },
+ {
+  "id": "146-zitat-von-unterteilungen-39",
+  "level": 3,
+  "title": "146. Zitat von Unterteilungen ......................................................................... 39"
+ },
+ {
+  "id": "147-bis-39-abkürzungen-39",
+  "level": 3,
+  "title": "147. „bis“ ........................................................................................................ 39 ABKÜRZUNGEN .................................................................................................. 39"
+ },
+ {
+  "id": "148-normative-abkürzungen-39",
+  "level": 3,
+  "title": "148. Normative Abkürzungen ........................................................................ 39"
+ },
+ {
+  "id": "149-abkürzungspunkt-39-anhang-1-abkürzungen-41-anhang-2-rund",
+  "level": 3,
+  "title": "149. Abkürzungspunkt ................................................................................... 39 Anhang 1: ABKÜRZUNGEN .................................................................................... 41 Anhang 2: Rundschreiben des Bundeskanzleramtes-Verfassungsdienst vom"
+ },
+ {
+  "id": "12-dezember-1991-gz-602-271-11-v-2-91-43",
+  "level": 3,
+  "title": "12. Dezember 1991, GZ 602.271/11-V/2/91 ............................................................. 43"
+ },
+ {
+  "id": "i-rechtssprache",
+  "level": 2,
+  "title": "I. RECHTSSPRACHE"
+ },
+ {
+  "id": "allgemeines",
+  "level": 4,
+  "title": "ALLGEMEINES"
+ },
+ {
+  "id": "rechtsvorschriften-sind-knapp-und-einfach-zu-fassen-jedes-üb",
+  "level": 4,
+  "title": "Rechtsvorschriften sind knapp und einfach zu fassen. Jedes überflüssige Wort ist zu"
+ },
+ {
+  "id": "gesetze-und-verordnungen-sind-grundsätzlich-zur-erzeugung-vo",
+  "level": 4,
+  "title": "Gesetze und Verordnungen sind grundsätzlich zur Erzeugung von Rechtsnormen be- stimmt. Daher sind Deklarationen, Appelle, empirische Aussagen, belehrende Ausfüh-"
+ },
+ {
+  "id": "motive-für-eine-bestimmung-sind-in-die-rechtsvorschrift-nur-",
+  "level": 4,
+  "title": "Motive für eine Bestimmung sind in die Rechtsvorschrift nur dann aufzunehmen, wenn dies zur Ermittlung des Sinnes der Bestimmung erforderlich ist. Im übrigen sind die"
+ },
+ {
+  "id": "die-wiederholung-einer-geltenden-norm-durch-denselben-oder-e",
+  "level": 4,
+  "title": "Die Wiederholung einer geltenden Norm durch denselben oder einen anderen Norm- setzer ist – außer bei Wiederverlautbarungen und paktierten Normen – grundsätzlich"
+ },
+ {
+  "id": "sogenannte-salvatorische-klauseln-die-den-geltungsbereich-ei",
+  "level": 4,
+  "title": "Sogenannte „Salvatorische Klauseln“, die den Geltungsbereich einer Rechtsvorschrift durch einen allgemeinen Vorbehalt gegenüber einer anderen Rechtsvorschrift um- schreiben, deuten auf eine Unsicherheit des Normsetzers über den Geltungsbereich"
+ },
+ {
+  "id": "rechtsvorschriften-sind-abstrakt-zu-formulieren-kasuistische",
+  "level": 4,
+  "title": "Rechtsvorschriften sind abstrakt zu formulieren. Kasuistische Regelungen sind zu vermeiden. Beispiele sind in einer Rechtsvorschrift nur dann anzuführen, wenn sie Begriffe verdeutlichen oder zur Konkretisierung von Generalklauseln beitragen. Bei"
+ },
+ {
+  "id": "dem-text-einer-rechtsvorschrift-müssen-die-normadressaten-de",
+  "level": 4,
+  "title": "Dem Text einer Rechtsvorschrift müssen die Normadressaten der einzelnen Regelun-"
+ },
+ {
+  "id": "allgemeine-regeln-für-den-sprachstil-z-b-die-unterlassung-vo",
+  "level": 4,
+  "title": "Allgemeine Regeln für den Sprachstil (z.B. die Unterlassung von Wortwiederholungen) sollten bei der Formulierung von Rechtsvorschriften nicht überbewertet werden. Je- denfalls muß der Eindeutigkeit und Übersichtlichkeit der Norm der Vorrang vor der"
+ },
+ {
+  "id": "rechtsvorschriften-sollen-leicht-lesbar-sein-grundsätzlich-s",
+  "level": 4,
+  "title": "Rechtsvorschriften sollen leicht lesbar sein. Grundsätzlich soll sich die Formulierung von Rechtsvorschriften am allgemeinen Sprachgebrauch orientieren; wenn Begriffe in einer davon abweichenden Bedeutung oder wenn Fachbegriffe verwendet werden, so ist dies im Text der Rechtsvorschrift deutlich zu machen (vgl. Richtlinie 30). Auf den"
+ },
+ {
+  "id": "in-rechtsvorschriften-sind-unsachliche-differenzierungen-zwi",
+  "level": 4,
+  "title": "In Rechtsvorschriften sind unsachliche Differenzierungen zwischen Frauen und Män- nern zu vermeiden. Formulierungen sind so zu wählen, daß sie Frauen und Männer"
+ },
+ {
+  "id": "textaufbau",
+  "level": 4,
+  "title": "TEXTAUFBAU"
+ },
+ {
+  "id": "dem-text-einer-rechtsvorschrift-muß-eine-klar-erkennbare-sys",
+  "level": 4,
+  "title": "Dem Text einer Rechtsvorschrift muß eine klar erkennbare Systematik zugrundelie-"
+ },
+ {
+  "id": "rechtsvorschriften-sollen-in-systematischer-klar-geordneter-",
+  "level": 4,
+  "title": "Rechtsvorschriften sollen in systematischer, klar geordneter Abfolge aufgebaut sein und keine Brüche aufweisen. Was inhaltlich zusammengehört, soll zusammengefaßt"
+ },
+ {
+  "id": "paragraphenaufbau",
+  "level": 4,
+  "title": "PARAGRAPHENAUFBAU"
+ },
+ {
+  "id": "der-in-einem-paragraphen-zusammengefaßte-text-soll-nicht-län",
+  "level": 4,
+  "title": "Der in einem Paragraphen zusammengefaßte Text soll nicht länger als zwei einein-"
+ },
+ {
+  "id": "der-erste-absatz-soll-das-thema-des-paragraphen-konkretisier",
+  "level": 4,
+  "title": "Der erste Absatz soll das Thema des Paragraphen konkretisieren und gegebenenfalls"
+ },
+ {
+  "id": "satzbau",
+  "level": 4,
+  "title": "SATZBAU"
+ },
+ {
+  "id": "die-sätze-sollen-nicht-zu-umfangreich-gestaltet-und-vor-alle",
+  "level": 4,
+  "title": "Die Sätze sollen nicht zu umfangreich gestaltet und vor allem nicht mit Hauptwörtern überladen werden (vgl. auch Richtlinie 28). Als Faustregel gilt: Pro Satz nur eine Aus-"
+ },
+ {
+  "id": "die-wesentliche-information-gehört-in-den-hauptsatz-lange-sa",
+  "level": 4,
+  "title": "Die wesentliche Information gehört in den Hauptsatz. Lange Satzketten mit mehrfa-"
+ },
+ {
+  "id": "sätze-sollen-möglichst-nicht-mehr-als-20-wörter-aufweisen-wi",
+  "level": 4,
+  "title": "Sätze sollen möglichst nicht mehr als 20 Wörter aufweisen. Wichtiger als die Satzlän- ge ist jedoch eine übersichtliche Satzstruktur; diese wird erreicht, indem der Abstand vom Satzanfang bis zum Hauptzeitwort möglichst kurz gehalten wird. Dabei kann der"
+ },
+ {
+  "id": "bei-aufzählungen-sind-aus-gründen-der-übersichtlichkeit-und-",
+  "level": 4,
+  "title": "Bei Aufzählungen sind aus Gründen der Übersichtlichkeit und der leichteren Lesbar-"
+ },
+ {
+  "id": "lange-beifügungen-vor-dem-hauptwort-sind-zu-vermeiden-sie-si",
+  "level": 4,
+  "title": "Lange Beifügungen vor dem Hauptwort sind zu vermeiden. Sie sind zwar ökonomisch"
+ },
+ {
+  "id": "wenn-es-für-die-verständlichkeit-sinnvoll-ist-den-gegensatz-",
+  "level": 4,
+  "title": "Wenn es für die Verständlichkeit sinnvoll ist, den Gegensatz zwischen zwei Aussagen"
+ },
+ {
+  "id": "das-wort-und-ist-immer-dann-zu-gebrauchen-wenn-in-einer-rech",
+  "level": 4,
+  "title": "Das Wort „und“ ist immer dann zu gebrauchen, wenn in einer Rechtsvorschrift ver- schiedene Voraussetzungen kumulativ festgelegt werden sollen oder wenn an einen"
+ },
+ {
+  "id": "das-wort-oder-kann-zwei-bedeutungen-haben",
+  "level": 4,
+  "title": "Das Wort „oder“ kann zwei Bedeutungen haben:"
+ },
+ {
+  "id": "denen-voraussetzungen-gegeben-es-können-aber-auch-mehrere-vo",
+  "level": 4,
+  "title": "denen Voraussetzungen gegeben, es können aber auch mehrere Voraussetzungen vorliegen; an einen Tatbestand werden Rechtsfolgen in der Weise geknüpft, daß ei-"
+ },
+ {
+  "id": "liegen-was-selten-vorkommen-wird-an-einen-tatbestand-werden-",
+  "level": 4,
+  "title": "liegen (was selten vorkommen wird); an einen Tatbestand werden Rechtsfolgen in"
+ },
+ {
+  "id": "die-ausdrücke-beziehungsweise-sowie-und-oder-sollen-soweit-a",
+  "level": 4,
+  "title": "Die Ausdrücke „beziehungsweise“ sowie „und/oder“ sollen soweit als möglich ver-"
+ },
+ {
+  "id": "ausdruck",
+  "level": 4,
+  "title": "AUSDRUCK"
+ },
+ {
+  "id": "bei-neubildung-von-worten-sind-wortungetüme-zu-vermeiden-ebe",
+  "level": 4,
+  "title": "Bei Neubildung von Worten sind „Wortungetüme“ zu vermeiden. Ebenso sind aber auch fachsprachliche Sprachformen zu vermeiden, wenn ein treffender, allgemein"
+ },
+ {
+  "id": "die-begriffe-sollen-in-jener-bedeutung-verwendet-werden-die-",
+  "level": 4,
+  "title": "Die Begriffe sollen in jener Bedeutung verwendet werden, die ihnen im allgemeinen Sprachgebrauch oder in der Fachsprache zukommt. Begriffsbestimmungen sind in"
+ },
+ {
+  "id": "derselbe-begriff-ist-grundsätzlich-überall-in-ein-und-dersel",
+  "level": 4,
+  "title": "Derselbe Begriff ist grundsätzlich überall in ein und derselben Bedeutung zu verwen- den, und zwar auf jeden Fall innerhalb eines Gesetzes oder einer Verordnung, nach Möglichkeit aber auch innerhalb der gesamten Rechtsordnung. Umgekehrt ist auch zur Bezeichnung ein und desselben Gegenstandes immer derselbe Begriff zu verwen-"
+ },
+ {
+  "id": "fremdwörter-für-die-ein-treffender-deutscher-ausdruck-zur-ve",
+  "level": 4,
+  "title": "Fremdwörter, für die ein treffender deutscher Ausdruck zur Verfügung steht, sind nicht zu verwenden. Das Eindeutschen von Fremdwörtern ist zu vermeiden, wenn dadurch neue Kunstbegriffe entstehen oder schwierige Umschreibungen notwendig"
+ },
+ {
+  "id": "die-wortwahl-bei-der-formulierung-von-rechtsvorschriften-sol",
+  "level": 4,
+  "title": "Die Wortwahl bei der Formulierung von Rechtsvorschriften soll üblich und zeitgemäß"
+ },
+ {
+  "id": "das-wort-können-ist-mehrdeutig-man-kann-darunter-vermögen-dü",
+  "level": 4,
+  "title": "Das Wort „können“ ist mehrdeutig. Man kann darunter „vermögen“, „dürfen“, „sol-"
+ },
+ {
+  "id": "das-wort-sollen-ist-in-gebots-und-verbotsvorschriften-wegen-",
+  "level": 4,
+  "title": "Das Wort „sollen“ ist in Gebots- und Verbotsvorschriften wegen seines mehrdeutigen"
+ },
+ {
+  "id": "bei-regelungen-der-zuständigkeit-zur-erlassung-von-rechtsakt",
+  "level": 4,
+  "title": "Bei Regelungen der Zuständigkeit zur Erlassung von Rechtsakten ist stets „der Bun-"
+ },
+ {
+  "id": "ii-rechtstechnik",
+  "level": 2,
+  "title": "II. RECHTSTECHNIK"
+ },
+ {
+  "id": "zeitlicher-geltungsbereich",
+  "level": 4,
+  "title": "ZEITLICHER GELTUNGSBEREICH"
+ },
+ {
+  "id": "rechtsvorschriften-können-in-verschiedener-hinsicht-in-zeitl",
+  "level": 4,
+  "title": "Rechtsvorschriften können in verschiedener Hinsicht in zeitlichen Bezügen stehen. Da dies zu Auslegungsproblemen führen kann, ist bei der Formulierung der entsprechen-"
+ },
+ {
+  "id": "inkrafttreten",
+  "level": 4,
+  "title": "INKRAFTTRETEN"
+ },
+ {
+  "id": "sofern-nicht-ausdrücklich-anderes-bestimmt-ist-treten-gemäß-",
+  "level": 4,
+  "title": "Sofern nicht ausdrücklich anderes bestimmt ist, treten gemäß Art. 49 B-VG und § 4 des Bundesgesetzes über das Bundesgesetzblatt 1985 Rechtsvorschriften, die im Bundesgesetzblatt kundgemacht werden, nach Ablauf des Tages, an dem das Stück des Bundesgesetzblattes, das die Kundmachung enthält, herausgegeben und versen-"
+ },
+ {
+  "id": "wenn-ein-von-der-bestimmung-des-art-49-b-vg-abweichendes-ink",
+  "level": 4,
+  "title": "Wenn ein von der Bestimmung des Art. 49 B-VG abweichendes Inkrafttreten angeord- net werden soll, so ist klarzustellen, inwieweit der Bedingungs- oder der Rechtsfol-"
+ },
+ {
+  "id": "rechtsfolgenbereich-und-bedingungsbereich-sind-grundsätzlich",
+  "level": 4,
+  "title": "Rechtsfolgenbereich und Bedingungsbereich sind grundsätzlich am Ende einer"
+ },
+ {
+  "id": "wenn-durch-eine-novelle-der-rechtsfolgenbereich-oder-der-bed",
+  "level": 4,
+  "title": "Wenn durch eine Novelle der Rechtsfolgenbereich oder der Bedingungsbereich der Vorschrift geändert wird – was der Regelfall ist -, so sollte im Sinne einer weitestge- henden Kodifikation die Bestimmung der Stammvorschrift über den Geltungsbereich entsprechend novelliert werden. Wenn die Stammvorschrift aber keine Regelung über den Geltungsbereich enthält, so sollte durch die Novelle eine solche in die Stammvor- schrift eingefügt werden. Die Novelle selbst sollte keine Inkrafttretensbestimmung"
+ },
+ {
+  "id": "wenn-eine-rechtsvorschrift-nur-für-einen-bestimmten-zeitraum",
+  "level": 4,
+  "title": "Wenn eine Rechtsvorschrift nur für einen bestimmten Zeitraum gelten soll, so ist dies"
+ },
+ {
+  "id": "ausserkrafttreten",
+  "level": 4,
+  "title": "AUSSERKRAFTTRETEN"
+ },
+ {
+  "id": "auch-in-regelungen-über-die-beendigung-des-zeitlichen-geltun",
+  "level": 4,
+  "title": "Auch in Regelungen über die Beendigung des zeitlichen Geltungsbereiches einer Rechtsvorschrift ist deutlich zu machen, ob ihr Bedingungs- oder ihr Rechtsfolgenbe- reich beendet werden soll. Sollen beide Bereiche gleichzeitig beendet werden, so soll das „Außerkrafttreten“ in der betreffenden Rechtsvorschrift angeordnet werden; sol- len hingegen Bedingungs- und Rechtsfolgenbereich zu unterschiedlichen Zeitpunkten"
+ },
+ {
+  "id": "wenn-durch-eine-rechtsvorschrift-eine-andere-aufgehoben-werd",
+  "level": 4,
+  "title": "Wenn durch eine Rechtsvorschrift eine andere aufgehoben werden soll, so ist dies ausdrücklich anzuordnen (formelle Derogation). Die aufgehobenen Rechtsvorschriften"
+ },
+ {
+  "id": "wenn-eine-rechtsvorschrift-bloß-in-einer-in-zeitlicher-sachl",
+  "level": 4,
+  "title": "Wenn eine Rechtsvorschrift bloß in einer in zeitlicher, sachlicher oder persönlicher Hinsicht eingeschränkten Weise aufgehoben werden soll, so ist für den verbleibenden"
+ },
+ {
+  "id": "der-zeitpunkt-zu-dem-eine-rechtsvorschrift-aufgehoben-wird-s",
+  "level": 4,
+  "title": "Der Zeitpunkt, zu dem eine Rechtsvorschrift aufgehoben wird, soll in der aufhebenden Bestimmung genannt werden und nicht bloß aus der Inkrafttretensbestimmung er- schließbar sein. Zudem soll in der aufhebenden Vorschrift deutlich zum Ausdruck ge- bracht werden, ob die frühere Vorschrift zur Gänze aus dem Rechtsbestand ausge- schieden, d.h. rückwirkend aufgehoben wird, oder ob nur ihr zeitlicher Geltungsbe-"
+ },
+ {
+  "id": "rückwirkung",
+  "level": 4,
+  "title": "RÜCKWIRKUNG"
+ },
+ {
+  "id": "das-rückwirkende-inkrafttreten-einer-rechtsvorschrift-darf-a",
+  "level": 4,
+  "title": "Das rückwirkende Inkrafttreten einer Rechtsvorschrift darf angeordnet werden, soweit"
+ },
+ {
+  "id": "wenn-ein-gesetz-rückwirkend-in-kraft-gesetzt-wird-so-ist-deu",
+  "level": 4,
+  "title": "Wenn ein Gesetz rückwirkend in Kraft gesetzt wird, so ist deutlich zu machen, ob all- fällige Fristen mit dem Inkrafttreten oder erst mit der Kundmachung des Gesetzes be-"
+ },
+ {
+  "id": "eine-nachträgliche-verkürzung-einer-legisvakanz-in-der-weise",
+  "level": 4,
+  "title": "Eine nachträgliche Verkürzung einer Legisvakanz in der Weise, daß der neue Zeit- punkt des Inkrafttretens vor der Kundmachung der Verkürzung liegt, ist nur unter den für eine rückwirkende Erlassung von Rechtsvorschriften geltenden Beschränkungen"
+ },
+ {
+  "id": "rechtsbereinigung",
+  "level": 4,
+  "title": "RECHTSBEREINIGUNG"
+ },
+ {
+  "id": "rechtsvorschriften-die-ausschließlich-die-aufhebung-einer-an",
+  "level": 4,
+  "title": "Rechtsvorschriften, die ausschließlich die Aufhebung einer anderen Rechtsvorschrift"
+ },
+ {
+  "id": "sonstiges",
+  "level": 4,
+  "title": "SONSTIGES"
+ },
+ {
+  "id": "bestimmungen-über-das-in-und-das-außerkrafttreten-von-einfac",
+  "level": 4,
+  "title": "Bestimmungen über das In- und das Außerkrafttreten von einfachen Gesetzen, die Verfassungsbestimmungen enthalten, sind – soweit sie sich auf die Verfassungsbe-"
+ },
+ {
+  "id": "bestimmungen-über-das-in-und-außerkrafttreten-von-rechtsvors",
+  "level": 4,
+  "title": "Bestimmungen über das In- und Außerkrafttreten von Rechtsvorschriften dürfen – insbesondere bei deren Novellierung – nicht selbst Gegenstand von In- und Außer-"
+ },
+ {
+  "id": "wenn-die-bereits-erfolgte-aufhebung-einer-rechtsvorschrift-r",
+  "level": 4,
+  "title": "Wenn die bereits erfolgte Aufhebung einer Rechtsvorschrift rückgängig gemacht wer- den soll, so ist deren – allenfalls rückwirkende – Neuerlassung ausdrücklich anzuord- nen und nicht die Bestimmung über das Ende des zeitlichen Geltungsbereiches zu"
+ },
+ {
+  "id": "verweisungen",
+  "level": 4,
+  "title": "VERWEISUNGEN"
+ },
+ {
+  "id": "allgemeines-2",
+  "level": 4,
+  "title": "ALLGEMEINES"
+ },
+ {
+  "id": "verweisungen-sind-nur-dann-vorzusehen-wenn-dadurch-gegenüber",
+  "level": 4,
+  "title": "Verweisungen sind nur dann vorzusehen, wenn dadurch gegenüber der inhaltlichen Wiedergabe der Rechtsvorschrift eine wesentliche Vereinfachung erzielt werden kann"
+ },
+ {
+  "id": "verweisungen-auf-rechtsvorschriften-die-ihrerseits-auf-ander",
+  "level": 4,
+  "title": "Verweisungen auf Rechtsvorschriften, die ihrerseits auf andere Rechtsvorschriften"
+ },
+ {
+  "id": "wenn-verwiesen-wird-so-ist-die-verweisende-bestimmung-so-zu-",
+  "level": 4,
+  "title": "Wenn verwiesen wird, so ist die verweisende Bestimmung so zu fassen, daß ihr"
+ },
+ {
+  "id": "es-ist-klarzustellen-auf-welche-elemente-des-tatbestandes-od",
+  "level": 4,
+  "title": "Es ist klarzustellen, auf welche Elemente des Tatbestandes oder der Rechtsfolge der zitierten Bestimmung verwiesen wird. Besonders die Praxis, Verweisungen in der Weise zu treffen, daß die verwiesene Bestimmung ohne näheren Hinweis auf ihre Be- deutung in Klammern gesetzt wird, kann zu Mehrdeutigkeiten führen. Sie soll daher"
+ },
+ {
+  "id": "eine-verweisung-auf-kundmachungen-die-wenn-überhaupt-nur-ein",
+  "level": 4,
+  "title": "Eine Verweisung auf Kundmachungen, die, wenn überhaupt, nur einer ganz geringen"
+ },
+ {
+  "id": "eine-sinngemäße-oder-entsprechende-anwendung-anderer-rechtsv",
+  "level": 4,
+  "title": "Eine „sinngemäße“ oder „entsprechende“ Anwendung anderer Rechtsvorschriften darf nicht angeordnet werden; es ist entweder uneingeschränkt auf die anderen"
+ },
+ {
+  "id": "soll-eine-rechtsvorschrift-auf-die-verwiesen-wird-in-einer-b",
+  "level": 4,
+  "title": "Soll eine Rechtsvorschrift, auf die verwiesen wird, in einer bestimmten Fassung an- gewendet werden, so sind dem Titel der Rechtsvorschrift die Fundstelle der Stamm- fassung und die Fundstellen jener Novellen beizufügen, in deren Fassung die betref-"
+ },
+ {
+  "id": "dynamische-gleitende-verweisung-1-grades",
+  "level": 4,
+  "title": "DYNAMISCHE (GLEITENDE) VERWEISUNG 1. GRADES"
+ },
+ {
+  "id": "soll-eine-rechtsvorschrift-auf-die-verwiesen-wird-in-ihrer-j",
+  "level": 4,
+  "title": "Soll eine Rechtsvorschrift, auf die verwiesen wird, in ihrer jeweiligen Fassung ange- wendet werden, so ist dem Zitat mit dem Titel (Kurztitel) und der Fundstelle der"
+ },
+ {
+  "id": "wenn-ein-gesetz-oder-eine-verordnung-eine-größere-zahl-von-d",
+  "level": 4,
+  "title": "Wenn ein Gesetz oder eine Verordnung eine größere Zahl von dynamischen Verwei- sungen auf verschiedene Rechtsvorschriften enthält, so empfiehlt es sich, folgende Bestimmung in die Rechtsvorschrift (am besten am Anfang) aufzunehmen: „Soweit in"
+ },
+ {
+  "id": "sind-diese-in-ihrer-jeweils-geltenden-fassung-anzuwenden",
+  "level": 4,
+  "title": "sind diese in ihrer jeweils geltenden Fassung anzuwenden.“"
+ },
+ {
+  "id": "die-verweisung-auf-rechtsvorschriften-einer-anderen-normsetz",
+  "level": 4,
+  "title": "Die Verweisung auf Rechtsvorschriften einer anderen normsetzenden Autorität „in ihrer jeweils geltenden Fassung“ ist verfassungsrechtlich unzulässig. Verfassungs- rechtlich unbedenklich sind nur solche dynamische Verweisungen, mit denen in den Tatbestand einer Norm einzelne Elemente aufgenommen werden, deren Vorliegen auf Grund von Vorschriften eines anderen Normsetzers zu beurteilen ist (z.B. Tatbe-"
+ },
+ {
+  "id": "dynamische-verweisung-2-grades",
+  "level": 4,
+  "title": "DYNAMISCHE VERWEISUNG 2. GRADES"
+ },
+ {
+  "id": "sollen-die-rechtsvorschriften-eines-bestimmten-regelungsbere",
+  "level": 4,
+  "title": "Sollen die Rechtsvorschriften eines bestimmten Regelungsbereiches angewendet werden, so ist die Verweisung derart zu fassen, daß auf die „Vorschriften über ...“"
+ },
+ {
+  "id": "novellen",
+  "level": 4,
+  "title": "NOVELLEN"
+ },
+ {
+  "id": "allgemeines-3",
+  "level": 4,
+  "title": "ALLGEMEINES"
+ },
+ {
+  "id": "grundsätzlich-ist-jede-änderung-einer-rechtsvorschrift-mit-e",
+  "level": 4,
+  "title": "Grundsätzlich ist jede Änderung einer Rechtsvorschrift mit einem gesonderten Gesetz"
+ },
+ {
+  "id": "eine-novelle-sollte-nur-bestimmungen-enthalten-mit-welchen-e",
+  "level": 4,
+  "title": "Eine Novelle sollte nur Bestimmungen enthalten, mit welchen ein Gesetz oder eine"
+ },
+ {
+  "id": "die-novellierung-einer-novelle-ist-nur-hinsichtlich-ausnahms",
+  "level": 4,
+  "title": "Die Novellierung einer Novelle ist nur hinsichtlich ausnahmsweise enthaltener selb-"
+ },
+ {
+  "id": "in-stammvorschriften-hat-jede-aufhebung-oder-änderung-einer-",
+  "level": 4,
+  "title": "In Stammvorschriften hat jede Aufhebung oder Änderung einer nicht unmittelbar zu"
+ },
+ {
+  "id": "die-aufhebung-einer-novelle-oder-die-bestimmung-daß-die-nove",
+  "level": 4,
+  "title": "Die Aufhebung einer Novelle oder die Bestimmung, daß die Novelle zu einem be-"
+ },
+ {
+  "id": "bei-der-novellierung-von-verfassungs-und-von-grundsatzbestim",
+  "level": 4,
+  "title": "Bei der Novellierung von Verfassungs- und von Grundsatzbestimmungen ist auch die Novellierungsanordnung als Verfassungs- oder als Grundsatzbestimmung zu be- zeichnen. Wenn nur ein Absatz einer längeren Verfassungs- oder Grundsatzbestim- mung geändert wird, so reicht es aus, die Novellierungsanordnung als Verfassungs-"
+ },
+ {
+  "id": "wenn-eine-bestimmung-die-den-gegenstand-einer-verweisung-bil",
+  "level": 4,
+  "title": "Wenn eine Bestimmung, die den Gegenstand einer Verweisung bildet (verwiesene Be- stimmung), novelliert wird, so hat diejenige Stelle, der die legistische Betreuung der verweisenden Bestimmung obliegt, Klarheit über die Konsequenzen dieser Novellie-"
+ },
+ {
+  "id": "dies-ist-ein-wichtiger-zweck-des-begutachtungsverfahrens",
+  "level": 4,
+  "title": "Dies ist ein wichtiger Zweck des Begutachtungsverfahrens!"
+ },
+ {
+  "id": "wenn-verweisungen-anzupassen-sind-soll-dies-in-der-form-eine",
+  "level": 4,
+  "title": "Wenn Verweisungen anzupassen sind, soll dies in der Form einer Novelle der verwei- senden Rechtsvorschrift ausdrücklich angeordnet werden und nicht durch eine allge- meine Anordnung in der verweisenden Rechtsvorschrift, die zum Entstehen von leges"
+ },
+ {
+  "id": "auch-bei-bloß-impliziten-verweisungen-durch-anknüpfung-an-be",
+  "level": 4,
+  "title": "Auch bei bloß impliziten Verweisungen durch Anknüpfung an Begriffe oder Tatbe- standsmerkmale einer anderen Rechtsvorschrift (vgl. Richtlinie 63) ist bei Aufhebung oder Ersetzung der implizit verwiesenen Rechtsvorschrift durch eine Novelle der ver-"
+ },
+ {
+  "id": "weisenden-rechtsvorschrift-klarzustellen-welche-bedeutung-di",
+  "level": 4,
+  "title": "weisenden Rechtsvorschrift klarzustellen, welche Bedeutung die implizite Verweisung"
+ },
+ {
+  "id": "übergangs-und-anpassungsbestimmungen",
+  "level": 4,
+  "title": "ÜBERGANGS- UND ANPASSUNGSBESTIMMUNGEN"
+ },
+ {
+  "id": "übergangs-und-anpassungsbestimmungen-sollen-nicht-als-selbst",
+  "level": 4,
+  "title": "Übergangs- und Anpassungsbestimmungen sollen nicht als selbständige Bestim-"
+ },
+ {
+  "id": "übergangsbestimmungen-sollen-nach-möglichkeit-eine-frist-ent",
+  "level": 4,
+  "title": "Übergangsbestimmungen sollen nach Möglichkeit eine Frist enthalten, ab der die Re-"
+ },
+ {
+  "id": "wenn-ein-neues-gesetz-vorbereitet-wird-so-ist-zu-prüfen-ob-z",
+  "level": 4,
+  "title": "Wenn ein neues Gesetz vorbereitet wird, so ist zu prüfen, ob zu regelnde Sachverhalte bereits rechtskräftig entschieden sind. Wenn dies der Fall ist, so ist klarzustellen, ob und welche konkreten Auswirkungen die neue Regelung auf rechtskräftige Urteile und"
+ },
+ {
+  "id": "de-verfahren-wenn-eine-neu-zu-erlassende-rechtsvorschrift-ve",
+  "level": 4,
+  "title": "de Verfahren Wenn eine neu zu erlassende Rechtsvorschrift Verfahrensbestimmungen enthält, so ist anzugeben, ob und allenfalls welche Auswirkungen diese Rechtsvorschrift auf lau- fende Verfahren haben soll. Wenn eine Auswirkung auf laufende Verfahren vorgese- hen werden soll, so ist die Erforderlichkeit einer solchen Regelung in den Erläuterun-"
+ },
+ {
+  "id": "vollziehung",
+  "level": 4,
+  "title": "VOLLZIEHUNG"
+ },
+ {
+  "id": "zur-besseren-erkennbarkeit-der-zuständigkeiten-soll-zusammen",
+  "level": 4,
+  "title": "Zur besseren Erkennbarkeit der Zuständigkeiten soll zusammenfassend geregelt wer- den, welche Organe (Behörden) das Bundesgesetz oder einzelne Bestimmungen zu vollziehen haben, sowie ob und welche Behörden dabei ein Mitwirkungsrecht haben"
+ },
+ {
+  "id": "die-vollziehungsklausel-ist-ausnahmslos-in-übereinstimmung-m",
+  "level": 4,
+  "title": "Die Vollziehungsklausel ist ausnahmslos in Übereinstimmung mit Teil 2 der Anlage zu § 2 des Bundesministeriengesetzes 1986 in seiner jeweils geltenden Fassung zu for-"
+ },
+ {
+  "id": "bundesgesetze-in-angelegenheiten-der-privatwirtschaftsverwal",
+  "level": 4,
+  "title": "Bundesgesetze in Angelegenheiten der Privatwirtschaftsverwaltung des Bundes be-"
+ },
+ {
+  "id": "wenn-durch-die-änderungen-eines-gesetzes-vollziehungszuständ",
+  "level": 4,
+  "title": "Wenn durch die Änderungen eines Gesetzes Vollziehungszuständigkeiten geändert"
+ },
+ {
+  "id": "eine-novelle-hat-nur-dann-eine-vollziehungsklausel-zu-enthal",
+  "level": 4,
+  "title": "Eine Novelle hat nur dann eine Vollziehungsklausel zu enthalten, wenn sie aus-"
+ },
+ {
+  "id": "ermessen",
+  "level": 4,
+  "title": "ERMESSEN"
+ },
+ {
+  "id": "wenn-der-vollziehung-durch-gesetz-ermessen-eingeräumt-werden",
+  "level": 4,
+  "title": "Wenn der Vollziehung durch Gesetz Ermessen eingeräumt werden soll, so ist dies klar und ausdrücklich anzuordnen (z.B. „kann nach ihrem Ermessen“) (vgl. auch die Richt- linien 7 und 34). Das Wort „kann“ reicht unter Umständen für die Verdeutlichung der Einräumung von Ermessen nicht aus; in der Judikatur der Gerichtshöfe des öffentli- chen Rechts wird trotz Verwendung des Wortes „kann“ Ermessen dann nicht ange- nommen, wenn der Behörde bloß eine einzige Handlungsmöglichkeit und keine Alter- native offensteht. Wenn daher beabsichtigt ist, daß der Behörde Ermessen zukommen"
+ },
+ {
+  "id": "die-ermessensrichtlinien-sollen-im-betreffenden-gesetz-ausdr",
+  "level": 4,
+  "title": "Die Ermessensrichtlinien sollen im betreffenden Gesetz ausdrücklich angeführt wer- den; soweit möglich, sollen sie in der Ermessensbestimmung selbst oder in ihrer un-"
+ },
+ {
+  "id": "legalitätsprinzip",
+  "level": 4,
+  "title": "LEGALITÄTSPRINZIP"
+ },
+ {
+  "id": "gesetze-sind-so-zu-gestalten-daß-alle-wesentlichen-merkmale-",
+  "level": 4,
+  "title": "Gesetze sind so zu gestalten, daß alle wesentlichen Merkmale der beabsichtigten Voll- ziehungsakte schon aus dem Gesetz (d.h. nicht erst aus einer Durchführungsverord-"
+ },
+ {
+  "id": "wenn-unbestimmte-gesetzesbegriffe-verwendet-werden-so-ist-mö",
+  "level": 4,
+  "title": "Wenn „unbestimmte Gesetzesbegriffe“ verwendet werden, so ist möglichst genau an- zuführen, wo die Grenzen der Unbestimmtheit liegen, so daß der eingeräumte Spiel-"
+ },
+ {
+  "id": "der-umfang-von-ausnahmen-muß-eindeutig-bestimmbar-sein-ausna",
+  "level": 4,
+  "title": "Der Umfang von Ausnahmen muß eindeutig bestimmbar sein. Ausnahmebestimmun- gen sollen klar verständlich formuliert sein, Ausnahmen von Ausnahmen sind zu ver- meiden (vgl. Richtlinie 16). Ausnahmen von einer Anordnung sollen in unmittelbarem"
+ },
+ {
+  "id": "gebote-und-verbote-deren-nichtbeachtung-mit-strafe-bedroht-i",
+  "level": 4,
+  "title": "Gebote und Verbote, deren Nichtbeachtung mit Strafe bedroht ist, sind im einzelnen zu bezeichnen. Es ist eindeutig klarzustellen, ob es sich um gerichtlich strafbare De-"
+ },
+ {
+  "id": "grundsatzgesetze",
+  "level": 4,
+  "title": "GRUNDSATZGESETZE"
+ },
+ {
+  "id": "grundsatzgesetze-dürfen-gemäß-art-15-abs-6-b-vg-eine-frist-f",
+  "level": 4,
+  "title": "Grundsatzgesetze dürfen gemäß Art. 15 Abs. 6 B-VG eine Frist für die Erlassung von Ausführungsgesetzen bestimmen, die ohne die Zustimmung des Bundesrates nicht"
+ },
+ {
+  "id": "bei-grundsatzgesetzen-die-für-die-erlassung-von-ausführungsg",
+  "level": 4,
+  "title": "Bei Grundsatzgesetzen, die für die Erlassung von Ausführungsgesetzen eine Frist bestimmen, darf, es sei denn mit Zustimmung des Bundesrates, der Zeitpunkt des In- krafttretens des Bundesgesetzes nicht so bestimmt werden, daß den Ländern – ge- rechnet von dem der Kundmachung des Bundesgesetzes folgenden Tag an – für die Inkraftsetzung des Ausführungsgesetzes eine kürzere als eine sechsmonatige oder"
+ },
+ {
+  "id": "enthält-ein-bundesgesetz-sowohl-grundsatzbestimmungen-als-au",
+  "level": 4,
+  "title": "Enthält ein Bundesgesetz sowohl Grundsatzbestimmungen als auch unmittelbar an- wendbares Bundesrecht, so sind diese Regelungsgruppen in Form jeweils eigener"
+ },
+ {
+  "id": "sonstiges-2",
+  "level": 4,
+  "title": "SONSTIGES"
+ },
+ {
+  "id": "bundesverfassungsgesetzliche-bestimmungen-in-einfachen-bunde",
+  "level": 4,
+  "title": "Bundesverfassungsgesetzliche Bestimmungen in einfachen Bundesgesetzen sind als eigene Gliederungseinheit (Paragraph, Absatz) zu gestalten und ausdrücklich als"
+ },
+ {
+  "id": "in-selbstbindungsgesetze-ist-ein-hinweis-aufzunehmen-daß-und",
+  "level": 4,
+  "title": "In Selbstbindungsgesetze ist ein Hinweis aufzunehmen, daß und wo allfällige generel- le Weisungen (Erlässe, Richtlinien etc.) von allgemeiner Bedeutung kundzumachen"
+ },
+ {
+  "id": "gesetze-sollen-mit-einer-so-langen-legisvakanz-versehen-werd",
+  "level": 4,
+  "title": "Gesetze sollen mit einer so langen Legisvakanz versehen werden, daß das neue Ge-"
+ },
+ {
+  "id": "wenn-es-unumgänglich-ist-ein-gesetz-so-rasch-in-kraft-zu-set",
+  "level": 4,
+  "title": "Wenn es unumgänglich ist, ein Gesetz so rasch in Kraft zu setzen, daß die erforderli- chen Durchführungsverordnungen nicht rechtzeitig erlassen werden können, dann"
+ },
+ {
+  "id": "verordnungen-dürfen-grundsätzlich-erst-erlassen-werden-wenn-",
+  "level": 4,
+  "title": "Verordnungen dürfen grundsätzlich erst erlassen werden, wenn das durchzuführende Gesetz bereits in Kraft steht. Soll eine Verordnung gleichzeitig mit dem Gesetz in Kraft"
+ },
+ {
+  "id": "regelungen-in-einem-bundesgesetz-die-in-einem-besonderen-ges",
+  "level": 4,
+  "title": "Regelungen in einem Bundesgesetz, die in einem besonderen Gesetzgebungsverfah- ren zu erzeugen sind, sind von anderen Regelungsgruppen in Form jeweils eigener"
+ },
+ {
+  "id": "iii-formelle-gestaltung",
+  "level": 2,
+  "title": "III. FORMELLE GESTALTUNG"
+ },
+ {
+  "id": "titel",
+  "level": 4,
+  "title": "TITEL"
+ },
+ {
+  "id": "allgemeines-4",
+  "level": 4,
+  "title": "ALLGEMEINES"
+ },
+ {
+  "id": "der-titel-eines-bundesgesetzes-oder-einer-verordnung-soll-ku",
+  "level": 4,
+  "title": "Der Titel eines Bundesgesetzes oder einer Verordnung soll kurz und einprägsam den Inhalt angeben. Er hat die Normenkategorie (Bundesverfassungsgesetz, Bundesge-"
+ },
+ {
+  "id": "bei-bedarf-kann-dem-titel-in-klammer-ein-kurztitel-oder-eine",
+  "level": 4,
+  "title": "Bei Bedarf kann dem Titel in Klammer ein Kurztitel oder eine Abkürzung angefügt"
+ },
+ {
+  "id": "eine-jahreszahl-ist-dem-kurztitel-oder-der-abkürzung-nur-dan",
+  "level": 4,
+  "title": "Eine Jahreszahl ist dem Kurztitel oder der Abkürzung nur dann anzufügen, wenn dies"
+ },
+ {
+  "id": "verordnungen",
+  "level": 4,
+  "title": "VERORDNUNGEN"
+ },
+ {
+  "id": "wenn-zur-erlassung-einer-verordnung-mehrere-bundesminister-g",
+  "level": 4,
+  "title": "Wenn zur Erlassung einer Verordnung mehrere Bundesminister gemeinsam zuständig"
+ },
+ {
+  "id": "wenn-ein-bundesminister-bei-der-erlassung-einer-verordnung-d",
+  "level": 4,
+  "title": "Wenn ein Bundesminister bei der Erlassung einer Verordnung das Einvernehmen mit einem anderen Bundesminister herzustellen hat oder wenn die Mitwirkung des Haupt-"
+ },
+ {
+  "id": "promulgationsklausel",
+  "level": 4,
+  "title": "PROMULGATIONSKLAUSEL"
+ },
+ {
+  "id": "die-promulgationsklausel-von-bundesgesetzen-hat-zu-lauten-de",
+  "level": 4,
+  "title": "Die Promulgationsklausel von Bundesgesetzen hat zu lauten: „Der Nationalrat hat be- schlossen:“"
+ },
+ {
+  "id": "die-promulgationsklausel-von-vereinbarungen-gemäß-art-15a-b-",
+  "level": 4,
+  "title": "Die Promulgationsklausel von Vereinbarungen gemäß Art. 15a B-VG, die der Geneh- migung durch den Nationalrat bedürfen, hat zu lauten: „Der Nationalrat hat beschlos- sen: Der Abschluß der nachstehenden Vereinbarung gemäß Art. 15a B-VG wird ge- nehmigt.“"
+ },
+ {
+  "id": "die-promulgationsklausel-von-staatsverträgen-gemäß-art-50-ab",
+  "level": 4,
+  "title": "Die Promulgationsklausel von Staatsverträgen gemäß Art. 50 Abs. 1 B-VG hat zu lau- ten: „Der Nationalrat hat beschlossen: Der Abschluß des nachstehenden Staatsver- trages wird genehmigt.“ Wenn der Staatsvertrag zur Gänze verfassungsändernd ist, so hat die Promulgations- klausel zu lauten: „Der Nationalrat hat beschlossen: Der Abschluß des nachstehenden Staatsvertrages, der verfassungsändernd ist, wird genehmigt.“ Wenn bloß einzelne Bestimmungen des Staatsvertrages verfassungsändernd sind, so hat die Promulgationsklausel zu lauten: „Der Nationalrat hat beschlossen: Der Ab-"
+ },
+ {
+  "id": "wird-genehmigt",
+  "level": 4,
+  "title": "wird genehmigt.“"
+ },
+ {
+  "id": "in-der-promulgationsklausel-von-verordnungen-kundmachungen-u",
+  "level": 4,
+  "title": "In der Promulgationsklausel von Verordnungen, Kundmachungen und Entschließun- gen sind die bundesgesetzlichen Bestimmungen, auf die sie sich gründen, im einzel-"
+ },
+ {
+  "id": "wenn-die-verordnung-eines-bundesministers-im-einvernehmen-mi",
+  "level": 4,
+  "title": "Wenn die Verordnung eines Bundesministers im Einvernehmen mit einem anderen Bundesminister oder unter Mitwirkung des Hauptausschusses des Nationalrates er- lassen wird, so ist dies in der Promulgationsklausel festzuhalten. Wenn die Herstel- lung des Einvernehmens in einer anderen gesetzlichen Bestimmung als der inhaltlich durchgeführten vorgesehen ist, so ist auch diese in der Promulgationsklausel anzu-"
+ },
+ {
+  "id": "gliederung-der-rechtsvorschrift",
+  "level": 4,
+  "title": "GLIEDERUNG DER RECHTSVORSCHRIFT"
+ },
+ {
+  "id": "gesetze-und-verordnungen-die-aus-mehr-als-etwa-20-paragraphe",
+  "level": 4,
+  "title": "Gesetze und Verordnungen, die aus mehr als etwa 20 Paragraphen bestehen, sind grob zu gliedern. Dabei ist als oberste Gliederungseinheit „Teil“, als Untergliederung"
+ },
+ {
+  "id": "gesetze-und-verordnungen-sind-in-paragraphen-1-2-zu-gliedern",
+  "level": 4,
+  "title": "Gesetze und Verordnungen sind in Paragraphen (§ 1, § 2, ...) zu gliedern; erforderli- chenfalls sind diese in Absätze ((1), (2), ...) und diese in mit Zahlen bezeichnete Gliede-"
+ },
+ {
+  "id": "eine-gliederung-von-bundesgesetzen-und-verordnungen-in-artik",
+  "level": 4,
+  "title": "Eine Gliederung von Bundesgesetzen und Verordnungen in Artikel ist nur bei Novellen (vgl. aber die Richtlinien 65 und 66), Wiederverlautbarungen und Bundesverfassungs-"
+ },
+ {
+  "id": "die-artikel-oder-paragraphen-sind-vom-anfang-bis-zum-ende-du",
+  "level": 4,
+  "title": "Die Artikel oder Paragraphen sind vom Anfang bis zum Ende durchzunumerieren. In- nerhalb des Gesetzes oder der Verordnung darf mit der Zählung nicht von neuem be-"
+ },
+ {
+  "id": "innerhalb-des-textes-haben-einrückungen-und-absätze-die-nich",
+  "level": 4,
+  "title": "Innerhalb des Textes haben Einrückungen und Absätze, die nicht ausdrücklich als"
+ },
+ {
+  "id": "paragraphen-die-einen-einzelnen-textabschnitt-einleiten-sind",
+  "level": 4,
+  "title": "Paragraphen, die einen einzelnen Textabschnitt einleiten, sind stets dessen erster Zei-"
+ },
+ {
+  "id": "tabellen-sollen-eine-breite-von-69-zeichen-nicht-überschreit",
+  "level": 4,
+  "title": "Tabellen sollen eine Breite von 69 Zeichen nicht überschreiten, um ihre Darstellung in"
+ },
+ {
+  "id": "jede-stammvorschrift-die-länger-als-etwa-20-paragraphen-ist-",
+  "level": 4,
+  "title": "Jede Stammvorschrift, die länger als etwa 20 Paragraphen ist, kann ein Inhaltsver-"
+ },
+ {
+  "id": "novellen-2",
+  "level": 4,
+  "title": "NOVELLEN"
+ },
+ {
+  "id": "im-titel-einer-novelle-ist-der-titel-der-zu-ändernden-rechts",
+  "level": 4,
+  "title": "Im Titel einer Novelle ist der Titel der zu ändernden Rechtsvorschrift ohne Datum und"
+ },
+ {
+  "id": "novellen-sind-in-arabische-zahlen-zu-gliedern-soweit-ausnahm",
+  "level": 4,
+  "title": "Novellen sind in (arabische) Zahlen zu gliedern. Soweit ausnahmsweise eine Gliede- rung der Novellen in Artikel zulässig ist (vgl. die Richtlinien 65, 66 und 114), sind diese"
+ },
+ {
+  "id": "grundsätzlich-sind-nur-vollständige-gliederungseinheiten-abs",
+  "level": 4,
+  "title": "Grundsätzlich sind nur vollständige Gliederungseinheiten (§, Abs., Z, allenfalls bei"
+ },
+ {
+  "id": "bei-der-änderung-ergänzung-oder-aufhebung-von-bestimmungen-d",
+  "level": 4,
+  "title": "Bei der Änderung, Ergänzung oder Aufhebung von Bestimmungen der Stammvor-"
+ },
+ {
+  "id": "im-einleitungssatz-einer-novelle-ist-die-zu-ändernde-rechtsv",
+  "level": 4,
+  "title": "Im Einleitungssatz einer Novelle ist die zu ändernde Rechtsvorschrift mit dem Titel (falls vorhanden mit dem Kurztitel und einer allfälligen Abkürzung) und der Fundstelle der Stammfassung sowie allen bisherigen Änderungen zu zitieren. Ist die betreffende Rechtsvorschrift bereits häufig geändert worden, so kann bloß die Normenkategorie und Fundstelle der letzten Änderung – ohne Rücksicht darauf, ob diese Änderung die"
+ },
+ {
+  "id": "wenn-durch-eine-novelle-die-reihenfolge-der-paragraphen-der-",
+  "level": 4,
+  "title": "Wenn durch eine Novelle die Reihenfolge der Paragraphen, der Absätze oder der Zah- len (bei älteren Rechtsvorschriften gegebenenfalls auch der Kleinbuchstaben) etwa durch Einfügung einer neuen Bestimmung geändert wird, so sind diese Bezeichnun-"
+ },
+ {
+  "id": "wenn-eine-verordnung-umfangreich-geändert-wird-so-sollte-sie",
+  "level": 4,
+  "title": "Wenn eine Verordnung umfangreich geändert wird, so sollte sie zur Gänze neu erlas-"
+ },
+ {
+  "id": "sammelnovellen",
+  "level": 4,
+  "title": "SAMMELNOVELLEN"
+ },
+ {
+  "id": "wenn-eine-rechtsvorschrift-ausnahmsweise-novellierungen-vers",
+  "level": 4,
+  "title": "Wenn eine Rechtsvorschrift ausnahmsweise Novellierungen verschiedener Rechts- vorschriften enthält, so muß der Titel klar erkennen lassen, daß mehrere Rechtsvor- schriften geändert werden und um welche Rechtsvorschriften es sich dabei im einzel-"
+ },
+ {
+  "id": "kurztitel-von-sammelnovellen-sind-ausnahmsweise-zulässig-wen",
+  "level": 4,
+  "title": "Kurztitel von Sammelnovellen sind ausnahmsweise zulässig, wenn ein besonderes"
+ },
+ {
+  "id": "bei-sammelnovellen-sind-änderungen-oder-ergänzungen-einer-st",
+  "level": 4,
+  "title": "Bei Sammelnovellen sind Änderungen oder Ergänzungen einer Stammvorschrift in einem Artikel der Novelle zusammenzufassen, der als Überschrift den Titel der geän-"
+ },
+ {
+  "id": "zitierregeln",
+  "level": 4,
+  "title": "ZITIERREGELN"
+ },
+ {
+  "id": "im-text-einer-rechtsvorschrift-sind-andere-rechtsvorschrifte",
+  "level": 4,
+  "title": "Im Text einer Rechtsvorschrift sind andere Rechtsvorschriften mit ihrem Titel (Kurzti-"
+ },
+ {
+  "id": "es-ist-klarzustellen-ob-das-zitat-die-stammfassung-die-fassu",
+  "level": 4,
+  "title": "es ist klarzustellen, ob das Zitat die Stammfassung, die Fassung der zitierten Rechts-"
+ },
+ {
+  "id": "vorschrift-in-einer-bestimmten-novelle-oder-die-jeweils-gelt",
+  "level": 4,
+  "title": "vorschrift in einer bestimmten Novelle oder die jeweils geltende Fassung der Rechts-"
+ },
+ {
+  "id": "die-fundstelle-ist-durch-das-kundmachungsorgan-und-dessen-nu",
+  "level": 4,
+  "title": "Die Fundstelle ist durch das Kundmachungsorgan und dessen Nummer sowie das"
+ },
+ {
+  "id": "wenn-die-zu-zitierende-rechtsvorschrift-einen-kurztitel-hat-",
+  "level": 4,
+  "title": "Wenn die zu zitierende Rechtsvorschrift einen Kurztitel hat, so ist statt des Titels nur"
+ },
+ {
+  "id": "wenn-einzelne-bestimmungen-derselben-rechtsvorschrift-zitier",
+  "level": 4,
+  "title": "Wenn einzelne Bestimmungen derselben Rechtsvorschrift zitiert werden, so ist bloß"
+ },
+ {
+  "id": "beim-zitat-einer-rechtsvorschrift-ist-die-entsprechende-glie",
+  "level": 4,
+  "title": "Beim Zitat einer Rechtsvorschrift ist die entsprechende Gliederungseinheit exakt an- zugeben. Dabei ist die in der jeweiligen Rechtsvorschrift verwendete Reihenfolge der"
+ },
+ {
+  "id": "wenn-einzelne-bestimmungen-einer-anderen-rechtsvorschrift-zi",
+  "level": 4,
+  "title": "Wenn einzelne Bestimmungen einer anderen Rechtsvorschrift zitiert werden, so ist vor deren Titel oder Kurztitel der bestimmte Artikel einzufügen. Wenn hingegen die"
+ },
+ {
+  "id": "dem-zitat-mehrerer-artikel-paragraphen-absätze-zahlen-oder-k",
+  "level": 4,
+  "title": "Dem Zitat mehrerer Artikel, Paragraphen, Absätze, Zahlen oder Kleinbuchstaben sind die Abkürzung „Art.“, das Doppelzeichen „§§“ und die Abkürzungen „Abs.“, „Z“ oder"
+ },
+ {
+  "id": "ii-zu-zitieren-z-b-verordnung-über-außerordentliche-maßnahme",
+  "level": 4,
+  "title": "II“ zu zitieren (z.B. Verordnung über außerordentliche Maßnahmen im Warenzei-"
+ },
+ {
+  "id": "önormen-der-nummer-ihrem-vollen-titel-zwischen-anführungszei",
+  "level": 4,
+  "title": "„ÖNORMEN“), der Nummer, ihrem vollen Titel zwischen Anführungszeichen und dem Herausgabedatum zu zitieren (z.B. ÖNORM A 2060 „Allgemeine Vertragsbe-"
+ },
+ {
+  "id": "schreibweise-von-zahlen",
+  "level": 4,
+  "title": "SCHREIBWEISE VON ZAHLEN"
+ },
+ {
+  "id": "zahlen-mit-mehr-als-drei-stellen-sind-vom-dezimalzeichen-aus",
+  "level": 4,
+  "title": "Zahlen mit mehr als drei Stellen sind, vom Dezimalzeichen ausgehend, durch Zwi-"
+ },
+ {
+  "id": "die-zahlen-eins-bis-zwölf-sind-in-wörtern-die-zahlen-von-13-",
+  "level": 4,
+  "title": "Die Zahlen eins bis zwölf sind in Wörtern, die Zahlen von 13 aufwärts in Ziffern auszu-"
+ },
+ {
+  "id": "bei-der-angabe-von-geldbeträgen-ist-die-bezeichnung-der-währ",
+  "level": 4,
+  "title": "Bei der Angabe von Geldbeträgen ist die Bezeichnung der Währung dem Betrag nach- zusetzen. Runde Beträge in Millionen- oder Milliardenhöhe sind – ausgenommen in"
+ },
+ {
+  "id": "monatsnamen-sind-ausgenommen-in-tabellen-auszuschreiben-jahr",
+  "level": 4,
+  "title": "Monatsnamen sind – ausgenommen in Tabellen – auszuschreiben. Jahreszahlen sind zur Gänze in Ziffern anzugeben. Das Datum ist in der Reihenfolge Tag – Monat – Jahr"
+ },
+ {
+  "id": "zeichensetzung",
+  "level": 4,
+  "title": "ZEICHENSETZUNG"
+ },
+ {
+  "id": "am-ende-einer-überschrift-oder-eines-titels-ist-kein-punkt-z",
+  "level": 4,
+  "title": "Am Ende einer Überschrift oder eines Titels ist kein Punkt zu setzen. Besteht eine Überschrift ausnahmsweise aus mehreren Sätzen oder Wortgruppen, so ist zwischen"
+ },
+ {
+  "id": "im-zitat-einer-rechtsvorschrift-ist-die-fundstelle-der-stamm",
+  "level": 4,
+  "title": "Im Zitat einer Rechtsvorschrift ist die Fundstelle der Stammfassung nach dem Titel oder Kurztitel zwischen Beistriche zu setzen; bei der Anführung der späteren Novelle der Stammvorschrift ist zwischen die Zitierung der jeweiligen Fundstelle und nach der"
+ },
+ {
+  "id": "im-zitat-von-unterteilungen-einzelner-bestimmungen-einer-rec",
+  "level": 4,
+  "title": "Im Zitat von Unterteilungen einzelner Bestimmungen einer Rechtsvorschrift sind keine"
+ },
+ {
+  "id": "in-einer-rechtsvorschrift-ist-bis-auszuschreiben-und-nicht-d",
+  "level": 4,
+  "title": "In einer Rechtsvorschrift ist „bis“ auszuschreiben und nicht durch einen Bindestrich"
+ },
+ {
+  "id": "abkürzungen",
+  "level": 4,
+  "title": "ABKÜRZUNGEN"
+ },
+ {
+  "id": "abkürzungen-des-titels-von-rechtsvorschriften-sind-nur-in-de",
+  "level": 4,
+  "title": "Abkürzungen des Titels von Rechtsvorschriften sind nur in der vom Normsetzer be-"
+ },
+ {
+  "id": "endet-eine-abkürzung-mit-einem-großbuchstaben-abgb-gspvg-uve",
+  "level": 4,
+  "title": "Endet eine Abkürzung mit einem Großbuchstaben (ABGB, GSPVG, UVEG), so ist ihr"
+ },
+ {
+  "id": "anhang-1",
+  "level": 3,
+  "title": "Anhang 1:"
+ },
+ {
+  "id": "abkürzungen-2",
+  "level": 2,
+  "title": "ABKÜRZUNGEN"
+ },
+ {
+  "id": "anhang-2",
+  "level": 3,
+  "title": "Anhang 2:"
+ },
+ {
+  "id": "rundschreiben-des-bundeskanzleramtes-verfassungsdienst-vom-1",
+  "level": 2,
+  "title": "Rundschreiben des Bundeskanzleramtes-Verfassungsdienst vom 12. Dezember 1991, GZ 602.271/11-V/2/91"
+ },
+ {
+  "id": "legistische-richtlinien-1990",
+  "level": 2,
+  "title": "LEGISTISCHE RICHTLINIEN 1990"
+ },
+ {
+  "id": "gestaltung-der-regelung-des-zeitlichen-geltungsbereiches",
+  "level": 4,
+  "title": "Gestaltung der Regelung des zeitlichen Geltungsbereiches"
+ },
+ {
+  "id": "rung-von-gesetzen-die-bereits-novelliert-wurden",
+  "level": 4,
+  "title": "rung von Gesetzen, die bereits novelliert wurden:"
+ },
+ {
+  "id": "len",
+  "level": 4,
+  "title": "len:"
+ }
+]

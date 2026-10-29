@@ -1,0 +1,3007 @@
+[
+ {
+  "id": "1-johdanto",
+  "level": 2,
+  "title": "1 Johdanto"
+ },
+ {
+  "id": "2-valtiojärjestyksen-perusteet",
+  "level": 2,
+  "title": "2 Valtiojärjestyksen perusteet"
+ },
+ {
+  "id": "2-1-suomen-perustuslaki",
+  "level": 3,
+  "title": "2.1 Suomen perustuslaki"
+ },
+ {
+  "id": "2-2-suomen-täysivaltaisuus",
+  "level": 3,
+  "title": "2.2 Suomen täysivaltaisuus"
+ },
+ {
+  "id": "2-3-toimivallan-siirto-euroopan-unionille-tai-kansainvälisel",
+  "level": 3,
+  "title": "2.3 Toimivallan siirto Euroopan unionille tai kansainväliselle järjestölle"
+ },
+ {
+  "id": "2-4-oikeusvaltioperiaate-ja-hallinnon-lainalaisuus",
+  "level": 3,
+  "title": "2.4 Oikeusvaltioperiaate ja hallinnon lainalaisuus"
+ },
+ {
+  "id": "3-perustuslaki-lainvalmistelussa",
+  "level": 2,
+  "title": "3 Perustuslaki lainvalmistelussa"
+ },
+ {
+  "id": "3-1-lakien-perustuslainmukaisuuden-valvonta",
+  "level": 3,
+  "title": "3.1 Lakien perustuslainmukaisuuden valvonta"
+ },
+ {
+  "id": "3-2-perustuslain-etusija",
+  "level": 3,
+  "title": "3.2 Perustuslain etusija"
+ },
+ {
+  "id": "3-3-perustuslain-huomioon-ottaminen-lainvalmistelussa",
+  "level": 3,
+  "title": "3.3 Perustuslain huomioon ottaminen lainvalmistelussa"
+ },
+ {
+  "id": "3-4-lakiehdotuksen-perustuslainmukaisuus-perustellaan",
+  "level": 3,
+  "title": "3.4 Lakiehdotuksen perustuslainmukaisuus perustellaan"
+ },
+ {
+  "id": "3-5-perustuslain-tekstin-muuttaminen",
+  "level": 3,
+  "title": "3.5 Perustuslain tekstin muuttaminen"
+ },
+ {
+  "id": "3-6-perustuslain-välillinen-muuttaminen-eli-rajattu-poikkeus",
+  "level": 3,
+  "title": "3.6 Perustuslain välillinen muuttaminen eli ”rajattu poikkeus” perustuslaista"
+ },
+ {
+  "id": "3-7-poikkeuslakeja-tulee-välttää",
+  "level": 3,
+  "title": "3.7 Poikkeuslakeja tulee välttää"
+ },
+ {
+  "id": "3-8-poikkeuslakien-muuttaminen-ja-kumoaminen",
+  "level": 3,
+  "title": "3.8 Poikkeuslakien muuttaminen ja kumoaminen"
+ },
+ {
+  "id": "3-9-vanhat-poikkeuslait-tulee-kumota",
+  "level": 3,
+  "title": "3.9 Vanhat poikkeuslait tulee kumota"
+ },
+ {
+  "id": "3-10-tietoa-perustuslaista",
+  "level": 3,
+  "title": "3.10 Tietoa perustuslaista"
+ },
+ {
+  "id": "3-10-1-esityöt",
+  "level": 4,
+  "title": "3.10.1 Esityöt"
+ },
+ {
+  "id": "3-10-2-perustuslakivaliokunnan-lausunnot-ja-mietinnöt",
+  "level": 4,
+  "title": "3.10.2 Perustuslakivaliokunnan lausunnot ja mietinnöt"
+ },
+ {
+  "id": "4-perusoikeudet",
+  "level": 2,
+  "title": "4 Perusoikeudet"
+ },
+ {
+  "id": "4-1-perusoikeuksien-sääntely",
+  "level": 3,
+  "title": "4.1 Perusoikeuksien sääntely"
+ },
+ {
+  "id": "4-1-1-valtiosäännön-arvoperusta",
+  "level": 4,
+  "title": "4.1.1 Valtiosäännön arvoperusta"
+ },
+ {
+  "id": "4-1-2-perusoikeudet",
+  "level": 4,
+  "title": "4.1.2 Perusoikeudet"
+ },
+ {
+  "id": "4-1-3-ihmisoikeudet",
+  "level": 4,
+  "title": "4.1.3 Ihmisoikeudet"
+ },
+ {
+  "id": "4-1-4-euroopan-unionin-perusoikeudet",
+  "level": 4,
+  "title": "4.1.4 Euroopan unionin perusoikeudet"
+ },
+ {
+  "id": "4-1-5-perusoikeuden-subjekti",
+  "level": 4,
+  "title": "4.1.5 Perusoikeuden subjekti"
+ },
+ {
+  "id": "4-1-6-erityinen-vallanalaisuussuhde-ja-laitosvalta",
+  "level": 4,
+  "title": "4.1.6 Erityinen vallanalaisuussuhde ja laitosvalta"
+ },
+ {
+  "id": "4-1-7-sotilaat",
+  "level": 4,
+  "title": "4.1.7 Sotilaat"
+ },
+ {
+  "id": "4-1-8-perusoikeudet-velvoittavat-ensi-sijassa-julkista-valta",
+  "level": 4,
+  "title": "4.1.8 Perusoikeudet velvoittavat ensi sijassa julkista valtaa"
+ },
+ {
+  "id": "4-1-9-perusoikeudet-lainsäätäjän-toiminnassa",
+  "level": 4,
+  "title": "4.1.9 Perusoikeudet lainsäätäjän toiminnassa"
+ },
+ {
+  "id": "4-1-10-ehdottomat-kiellot",
+  "level": 4,
+  "title": "4.1.10 Ehdottomat kiellot"
+ },
+ {
+  "id": "4-1-11-sääntelyvaraukset-ja-muut-lakiviittaukset",
+  "level": 4,
+  "title": "4.1.11 Sääntelyvaraukset ja muut lakiviittaukset"
+ },
+ {
+  "id": "4-1-12-turvaamis-ja-edistämisvelvollisuudet",
+  "level": 4,
+  "title": "4.1.12 Turvaamis- ja edistämisvelvollisuudet"
+ },
+ {
+  "id": "4-1-13-perusoikeuksien-yleiset-rajoitusedellytykset",
+  "level": 4,
+  "title": "4.1.13 Perusoikeuksien yleiset rajoitusedellytykset"
+ },
+ {
+  "id": "4-1-14-lailla-säätämisen-vaatimus-ja-delegointikielto",
+  "level": 4,
+  "title": "4.1.14 Lailla säätämisen vaatimus ja delegointikielto"
+ },
+ {
+  "id": "4-1-15-täsmällisyys-ja-tarkkarajaisuusvaatimus",
+  "level": 4,
+  "title": "4.1.15 Täsmällisyys- ja tarkkarajaisuusvaatimus"
+ },
+ {
+  "id": "4-1-16-vaatimus-rajoitusperusteen-hyväksyttävyydestä",
+  "level": 4,
+  "title": "4.1.16 Vaatimus rajoitusperusteen hyväksyttävyydestä"
+ },
+ {
+  "id": "4-1-17-suostumus-rajoitusperusteena",
+  "level": 4,
+  "title": "4.1.17 Suostumus rajoitusperusteena"
+ },
+ {
+  "id": "4-1-18-oikeasuhtaisuusvaatimus",
+  "level": 4,
+  "title": "4.1.18 Oikeasuhtaisuusvaatimus"
+ },
+ {
+  "id": "4-1-19-ydinalueen-koskemattomuuden-vaatimus",
+  "level": 4,
+  "title": "4.1.19 Ydinalueen koskemattomuuden vaatimus"
+ },
+ {
+  "id": "4-1-20-oikeusturvavaatimus",
+  "level": 4,
+  "title": "4.1.20 Oikeusturvavaatimus"
+ },
+ {
+  "id": "4-1-21-ihmisoikeusvelvoitteiden-noudattamisen-vaatimus",
+  "level": 4,
+  "title": "4.1.21 Ihmisoikeusvelvoitteiden noudattamisen vaatimus"
+ },
+ {
+  "id": "4-1-22-yksilöidyt-kvalifioidut-lakivaraukset",
+  "level": 4,
+  "title": "4.1.22 Yksilöidyt (kvalifioidut) lakivaraukset"
+ },
+ {
+  "id": "4-1-23-perusoikeudet-poikkeusoloissa",
+  "level": 4,
+  "title": "4.1.23 Perusoikeudet poikkeusoloissa"
+ },
+ {
+  "id": "4-2-perusoikeudet-lainkohdittain",
+  "level": 3,
+  "title": "4.2 Perusoikeudet lainkohdittain"
+ },
+ {
+  "id": "4-2-1-yhdenvertaisuus-6",
+  "level": 4,
+  "title": "4.2.1 Yhdenvertaisuus (6 §)"
+ },
+ {
+  "id": "yleinen-yhdenvertaisuuslauseke",
+  "level": 4,
+  "title": "Yleinen yhdenvertaisuuslauseke"
+ },
+ {
+  "id": "yhdenvertaisuus-koskee-ihmisiä",
+  "level": 4,
+  "title": "Yhdenvertaisuus koskee ihmisiä"
+ },
+ {
+  "id": "syrjintäkielto",
+  "level": 4,
+  "title": "Syrjintäkielto"
+ },
+ {
+  "id": "segregaatio",
+  "level": 4,
+  "title": "Segregaatio"
+ },
+ {
+  "id": "etninen-profilointi",
+  "level": 4,
+  "title": "Etninen profilointi"
+ },
+ {
+  "id": "välillinen-syrjintä",
+  "level": 4,
+  "title": "Välillinen syrjintä"
+ },
+ {
+  "id": "positiivinen-erityiskohtelu",
+  "level": 4,
+  "title": "Positiivinen erityiskohtelu"
+ },
+ {
+  "id": "lasten-kohtelu",
+  "level": 4,
+  "title": "Lasten kohtelu"
+ },
+ {
+  "id": "sukupuolten-tasa-arvo",
+  "level": 4,
+  "title": "Sukupuolten tasa-arvo"
+ },
+ {
+  "id": "alueelliset-kokeilut",
+  "level": 4,
+  "title": "Alueelliset kokeilut"
+ },
+ {
+  "id": "4-2-2-oikeus-elämään-sekä-henkilökohtaiseen-vapauteen-ja-kos",
+  "level": 4,
+  "title": "4.2.2 Oikeus elämään sekä henkilökohtaiseen vapauteen ja koskemattomuuteen (7 §)"
+ },
+ {
+  "id": "henkilökohtainen-vapaus",
+  "level": 4,
+  "title": "Henkilökohtainen vapaus"
+ },
+ {
+  "id": "työvelvollisuus-ja-pakkotyön-kielto",
+  "level": 4,
+  "title": "Työvelvollisuus ja pakkotyön kielto"
+ },
+ {
+  "id": "henkilökohtainen-koskemattomuus",
+  "level": 4,
+  "title": "Henkilökohtainen koskemattomuus"
+ },
+ {
+  "id": "voimakeinojen-käyttö",
+  "level": 4,
+  "title": "Voimakeinojen käyttö"
+ },
+ {
+  "id": "henkilökohtainen-turvallisuus",
+  "level": 4,
+  "title": "Henkilökohtainen turvallisuus"
+ },
+ {
+  "id": "kuolemanrangaistuksen-kidutuksen-ja-muun-ihmisarvoa-loukkaav",
+  "level": 4,
+  "title": "Kuolemanrangaistuksen , kidutuksen ja muun ihmisarvoa loukkaavan kohtelun kielto"
+ },
+ {
+  "id": "lakiin-perustumattoman-ja-mielivaltaisen-puuttumisen-kielto",
+  "level": 4,
+  "title": "Lakiin perustumattoman ja mielivaltaisen puuttumisen kielto"
+ },
+ {
+  "id": "vapaudenmenetys",
+  "level": 4,
+  "title": "Vapaudenmenetys"
+ },
+ {
+  "id": "vapausrangaistuksen-määrääminen",
+  "level": 4,
+  "title": "Vapausrangaistuksen määrääminen"
+ },
+ {
+  "id": "vapaudenmenetyksen-laillisuuden-tutkiminen",
+  "level": 4,
+  "title": "Vapaudenmenetyksen laillisuuden tutkiminen"
+ },
+ {
+  "id": "vapautensa-menettäneen-oikeudet-turvataan-lailla",
+  "level": 4,
+  "title": "Vapautensa menettäneen oikeudet turvataan lailla"
+ },
+ {
+  "id": "4-2-3-rikosoikeudellinen-laillisuusperiaate-8",
+  "level": 4,
+  "title": "4.2.3 Rikosoikeudellinen laillisuusperiaate (8 §)"
+ },
+ {
+  "id": "perusoikeudet-ja-rikoslainsäädäntö",
+  "level": 4,
+  "title": "Perusoikeudet ja rikoslainsäädäntö"
+ },
+ {
+  "id": "rikoslain-tarkkuus",
+  "level": 4,
+  "title": "Rikoslain tarkkuus"
+ },
+ {
+  "id": "blankorangaistussäännökset",
+  "level": 4,
+  "title": "Blankorangaistussäännökset"
+ },
+ {
+  "id": "lievemmän-lain-periaate",
+  "level": 4,
+  "title": "Lievemmän lain periaate"
+ },
+ {
+  "id": "seuraamukset-määriteltävä-laissa",
+  "level": 4,
+  "title": "Seuraamukset määriteltävä laissa"
+ },
+ {
+  "id": "hallinnolliset-sanktiot",
+  "level": 4,
+  "title": "Hallinnolliset sanktiot"
+ },
+ {
+  "id": "4-2-4-liikkumisvapaus-9",
+  "level": 4,
+  "title": "4.2.4 Liikkumisvapaus (9 §)"
+ },
+ {
+  "id": "vapaus-liikkua-maassa-ja-valita-asuinpaikka",
+  "level": 4,
+  "title": "Vapaus liikkua maassa ja valita asuinpaikka"
+ },
+ {
+  "id": "oikeus-lähteä-maasta",
+  "level": 4,
+  "title": "Oikeus lähteä maasta"
+ },
+ {
+  "id": "suomen-kansalaisen-oikeus-saapua-maahan-ja-olla-täällä",
+  "level": 4,
+  "title": "Suomen kansalaisen oikeus saapua maahan ja olla täällä"
+ },
+ {
+  "id": "ulkomaalaisen-oikeus-tulla-suomeen-ja-oleskella-täällä",
+  "level": 4,
+  "title": "Ulkomaalaisen oikeus tulla Suomeen ja oleskella täällä"
+ },
+ {
+  "id": "ulkomaalaisen-palauttamisen-kielto",
+  "level": 4,
+  "title": "Ulkomaalaisen palauttamisen kielto"
+ },
+ {
+  "id": "4-2-5-yksityiselämän-suoja-10",
+  "level": 4,
+  "title": "4.2.5 Yksityiselämän suoja (10 §)"
+ },
+ {
+  "id": "yksityiselämän-suoja",
+  "level": 4,
+  "title": "Yksityiselämän suoja"
+ },
+ {
+  "id": "henkilötietojen-suoja",
+  "level": 4,
+  "title": "Henkilötietojen suoja"
+ },
+ {
+  "id": "oikeus-saada-ja-luovuttaa-henkilötietoja",
+  "level": 4,
+  "title": "Oikeus saada ja luovuttaa henkilötietoja"
+ },
+ {
+  "id": "henkilötietojen-luovuttaminen-suomen-ulkopuolelle",
+  "level": 4,
+  "title": "Henkilötietojen luovuttaminen Suomen ulkopuolelle"
+ },
+ {
+  "id": "kotirauha",
+  "level": 4,
+  "title": "Kotirauha"
+ },
+ {
+  "id": "kotirauhan-piiri-pysyväisluonteiseen-asumiseen-käytetyt-tila",
+  "level": 4,
+  "title": "Kotirauhan piiri: pysyväisluonteiseen asumiseen käytetyt tilat"
+ },
+ {
+  "id": "kotirauhan-piiriin-ulottuva-toimenpide",
+  "level": 4,
+  "title": "Kotirauhan piiriin ulottuva ”toimenpide”"
+ },
+ {
+  "id": "toimenpiteet-perusoikeuksien-turvaamiseksi",
+  "level": 4,
+  "title": "Toimenpiteet perusoikeuksien turvaamiseksi"
+ },
+ {
+  "id": "toimenpiteet-rikosten-selvittämiseksi",
+  "level": 4,
+  "title": "Toimenpiteet rikosten selvittämiseksi"
+ },
+ {
+  "id": "ei-toimenpiteitä-pelkän-suostumuksen-perusteella",
+  "level": 4,
+  "title": "Ei toimenpiteitä pelkän suostumuksen perusteella"
+ },
+ {
+  "id": "välttämättömyysvaatimus",
+  "level": 4,
+  "title": "Välttämättömyysvaatimus"
+ },
+ {
+  "id": "kotirauhan-piirin-rajaaminen-toimenpidevaltuuksien-ulkopuole",
+  "level": 4,
+  "title": "Kotirauhan piirin rajaaminen toimenpidevaltuuksien ulkopuolelle"
+ },
+ {
+  "id": "liiketilojen-tarkastukset",
+  "level": 4,
+  "title": "Liiketilojen tarkastukset"
+ },
+ {
+  "id": "luottamuksellisen-viestin-salaisuuden-suoja",
+  "level": 4,
+  "title": "Luottamuksellisen viestin salaisuuden suoja"
+ },
+ {
+  "id": "viestin-suoja-yksilön-tai-yhteiskunnan-turvallisuutta-taikka",
+  "level": 4,
+  "title": "Viestin suoja yksilön tai yhteiskunnan turvallisuutta taikka kotirauhaa vaarantavien rikosten tutkinnassa"
+ },
+ {
+  "id": "viestin-suoja-oikeudenkäynnissä",
+  "level": 4,
+  "title": "Viestin suoja oikeudenkäynnissä"
+ },
+ {
+  "id": "viestin-suoja-turvallisuustarkastuksessa",
+  "level": 4,
+  "title": "Viestin suoja turvallisuustarkastuksessa"
+ },
+ {
+  "id": "viestin-suoja-vapaudenmenetyksen-aikana",
+  "level": 4,
+  "title": "Viestin suoja vapaudenmenetyksen aikana"
+ },
+ {
+  "id": "luottamuksellisen-viestin-tunnistamistiedot",
+  "level": 4,
+  "title": "Luottamuksellisen viestin tunnistamistiedot"
+ },
+ {
+  "id": "4-2-6-uskonnon-ja-omantunnon-vapaus-11",
+  "level": 4,
+  "title": "4.2.6 Uskonnon ja omantunnon vapaus (11 §)"
+ },
+ {
+  "id": "4-2-7-sananvapaus-ja-julkisuus-12",
+  "level": 4,
+  "title": "4.2.7 Sananvapaus ja julkisuus (12 §)"
+ },
+ {
+  "id": "sananvapauden-ydinajatus",
+  "level": 4,
+  "title": "Sananvapauden ydinajatus"
+ },
+ {
+  "id": "sananvapaudella-turvataan-kaikkea-viestintää",
+  "level": 4,
+  "title": "Sananvapaudella turvataan kaikkea viestintää"
+ },
+ {
+  "id": "sananvapaudella-turvataan-viestintää-kaikenlaisissa-välineis",
+  "level": 4,
+  "title": "Sananvapaudella turvataan viestintää kaikenlaisissa välineissä"
+ },
+ {
+  "id": "sananvapaudella-turvataan-myös-ilmaisun-muotoa",
+  "level": 4,
+  "title": "Sananvapaudella turvataan myös ilmaisun muotoa"
+ },
+ {
+  "id": "sananvapauteen-sisältyvät-oikeudet",
+  "level": 4,
+  "title": "Sananvapauteen sisältyvät oikeudet"
+ },
+ {
+  "id": "ennakkoesteiden-kielto",
+  "level": 4,
+  "title": "Ennakkoesteiden kielto"
+ },
+ {
+  "id": "toimilupa",
+  "level": 4,
+  "title": "Toimilupa"
+ },
+ {
+  "id": "luvan-ehtojen-muuttaminen-ja-luvan-peruuttaminen",
+  "level": 4,
+  "title": "Luvan ehtojen muuttaminen ja luvan peruuttaminen"
+ },
+ {
+  "id": "lasten-suojelemiseksi-välttämättömät-rajoitukset",
+  "level": 4,
+  "title": "Lasten suojelemiseksi välttämättömät rajoitukset"
+ },
+ {
+  "id": "jälkikäteinen-valvonta",
+  "level": 4,
+  "title": "Jälkikäteinen valvonta"
+ },
+ {
+  "id": "käyttösääntely-lailla",
+  "level": 4,
+  "title": "Käyttösääntely lailla"
+ },
+ {
+  "id": "julkisuusperiaatteen-ydinajatus",
+  "level": 4,
+  "title": "Julkisuusperiaatteen ydinajatus"
+ },
+ {
+  "id": "välttämättömät-rajoitukset-erikseen-lailla",
+  "level": 4,
+  "title": "Välttämättömät rajoitukset erikseen lailla"
+ },
+ {
+  "id": "4-2-8-kokoontumis-ja-yhdistymisvapaus-13",
+  "level": 4,
+  "title": "4.2.8 Kokoontumis- ja yhdistymisvapaus (13 §)"
+ },
+ {
+  "id": "kokoontumisvapaus",
+  "level": 4,
+  "title": "Kokoontumisvapaus"
+ },
+ {
+  "id": "mielenosoitusoikeus",
+  "level": 4,
+  "title": "Mielenosoitusoikeus"
+ },
+ {
+  "id": "yhdistymisvapaus",
+  "level": 4,
+  "title": "Yhdistymisvapaus"
+ },
+ {
+  "id": "yhdistymisvapaus-on-turvattu-jokaiselle",
+  "level": 4,
+  "title": "Yhdistymisvapaus on turvattu jokaiselle"
+ },
+ {
+  "id": "oikeus-perustaa-yhdistys",
+  "level": 4,
+  "title": "Oikeus perustaa yhdistys"
+ },
+ {
+  "id": "yhdistyksen-itsemääräämisoikeus-yhdistysautonomia",
+  "level": 4,
+  "title": "Yhdistyksen itsemääräämisoikeus – yhdistysautonomia"
+ },
+ {
+  "id": "oikeus-kuulua-tai-olla-kuulumatta-yhdistykseen",
+  "level": 4,
+  "title": "Oikeus kuulua tai olla kuulumatta yhdistykseen"
+ },
+ {
+  "id": "oikeus-osallistua-yhdistyksen-toimintaan",
+  "level": 4,
+  "title": "Oikeus osallistua yhdistyksen toimintaan"
+ },
+ {
+  "id": "ammatillinen-yhdistymisvapaus",
+  "level": 4,
+  "title": "Ammatillinen yhdistymisvapaus"
+ },
+ {
+  "id": "työtaisteluoikeus",
+  "level": 4,
+  "title": "Työtaisteluoikeus"
+ },
+ {
+  "id": "lakivaraus",
+  "level": 4,
+  "title": "Lakivaraus"
+ },
+ {
+  "id": "4-2-9-vaali-ja-osallistumisoikeudet-14",
+  "level": 4,
+  "title": "4.2.9 Vaali- ja osallistumisoikeudet (14 §)"
+ },
+ {
+  "id": "4-2-10-omaisuudensuoja-15",
+  "level": 4,
+  "title": "4.2.10 Omaisuudensuoja (15 §)"
+ },
+ {
+  "id": "omaisuudensuojalla-turvataan-varallisuusarvoisia-etuja-ja-oi",
+  "level": 4,
+  "title": "Omaisuudensuojalla turvataan varallisuusarvoisia etuja ja oikeuksia"
+ },
+ {
+  "id": "eläkkeet",
+  "level": 4,
+  "title": "Eläkkeet"
+ },
+ {
+  "id": "laittomasti-hankittua-omaisuutta-ei-suojata",
+  "level": 4,
+  "title": "Laittomasti hankittua omaisuutta ei suojata"
+ },
+ {
+  "id": "täytäntöönpano-oikeudellinen-sääntely",
+  "level": 4,
+  "title": "Täytäntöönpano-oikeudellinen sääntely"
+ },
+ {
+  "id": "omistajan-käyttöoikeus-ja-määräämisvalta",
+  "level": 4,
+  "title": "Omistajan käyttöoikeus ja määräämisvalta"
+ },
+ {
+  "id": "omistajan-käyttöoikeuden-ja-määräämisvallan-rajoitukset",
+  "level": 4,
+  "title": "Omistajan käyttöoikeuden ja määräämisvallan rajoitukset"
+ },
+ {
+  "id": "omaisuuden-käytön-sääntely",
+  "level": 4,
+  "title": "Omaisuuden käytön sääntely"
+ },
+ {
+  "id": "oikeushenkilön-omaisuuteen-kohdistuva-sääntely",
+  "level": 4,
+  "title": "Oikeushenkilön omaisuuteen kohdistuva sääntely"
+ },
+ {
+  "id": "korvaus-käyttörajoituksista",
+  "level": 4,
+  "title": "Korvaus käyttörajoituksista"
+ },
+ {
+  "id": "sopimusvapaus-sopimussuhteiden-pysyvyys",
+  "level": 4,
+  "title": "Sopimusvapaus – sopimussuhteiden pysyvyys"
+ },
+ {
+  "id": "säännöstelylainsäädäntö",
+  "level": 4,
+  "title": "Säännöstelylainsäädäntö"
+ },
+ {
+  "id": "konfiskatorisen-verotuksen-kielto",
+  "level": 4,
+  "title": "Konfiskatorisen verotuksen kielto"
+ },
+ {
+  "id": "pakkolunastus",
+  "level": 4,
+  "title": "Pakkolunastus"
+ },
+ {
+  "id": "4-2-11-sivistykselliset-oikeudet-16",
+  "level": 4,
+  "title": "4.2.11 Sivistykselliset oikeudet (16 §)"
+ },
+ {
+  "id": "maksuton-perusopetus",
+  "level": 4,
+  "title": "Maksuton perusopetus"
+ },
+ {
+  "id": "oppivelvollisuus",
+  "level": 4,
+  "title": "Oppivelvollisuus"
+ },
+ {
+  "id": "mahdollisuus-saada-muuta-opetusta-ja-kehittää-itseään",
+  "level": 4,
+  "title": "Mahdollisuus saada muuta opetusta ja kehittää itseään"
+ },
+ {
+  "id": "tieteen-taiteen-ja-ylimmän-opetuksen-vapaus",
+  "level": 4,
+  "title": "Tieteen, taiteen ja ylimmän opetuksen vapaus"
+ },
+ {
+  "id": "4-2-12-kielelliset-oikeudet-17",
+  "level": 4,
+  "title": "4.2.12 Kielelliset oikeudet (17 §)"
+ },
+ {
+  "id": "kansalliskielet",
+  "level": 4,
+  "title": "Kansalliskielet"
+ },
+ {
+  "id": "oikeus-käyttää-omaa-kieltä-viranomaisissa",
+  "level": 4,
+  "title": "Oikeus käyttää omaa kieltä viranomaisissa"
+ },
+ {
+  "id": "väestön-sivistyksellisistä-ja-yhteiskunnallisista-tarpeista-",
+  "level": 4,
+  "title": "Väestön sivistyksellisistä ja yhteiskunnallisista tarpeista huolehtiminen"
+ },
+ {
+  "id": "oppilaitosten-opetuskieli",
+  "level": 4,
+  "title": "Oppilaitosten opetuskieli"
+ },
+ {
+  "id": "vähemmistöryhmien-oikeus-ylläpitää-ja-kehittää-kulttuuriaan",
+  "level": 4,
+  "title": "Vähemmistöryhmien oikeus ylläpitää ja kehittää kulttuuriaan"
+ },
+ {
+  "id": "saamelaisten-asema-alkuperäiskansana",
+  "level": 4,
+  "title": "Saamelaisten asema alkuperäiskansana"
+ },
+ {
+  "id": "saamelaisten-oikeus-käyttää-saamen-kieltä-viranomaisessa",
+  "level": 4,
+  "title": "Saamelaisten oikeus käyttää saamen kieltä viranomaisessa"
+ },
+ {
+  "id": "viittomakieltä-käyttävien-ja-vammaisuuden-vuoksi-tulkitsemis",
+  "level": 4,
+  "title": "Viittomakieltä käyttävien ja vammaisuuden vuoksi tulkitsemisapua tarvitsevien oikeudet"
+ },
+ {
+  "id": "kielelliset-oikeudet-ja-hallinnolliset-jaotukset",
+  "level": 4,
+  "title": "Kielelliset oikeudet ja hallinnolliset jaotukset"
+ },
+ {
+  "id": "4-2-13-oikeus-työhön-ja-elinkeinovapaus-18",
+  "level": 4,
+  "title": "4.2.13 Oikeus työhön ja elinkeinovapaus (18 §)"
+ },
+ {
+  "id": "työn-ammatin-ja-elinkeinon-valinnan-vapaus",
+  "level": 4,
+  "title": "Työn, ammatin ja elinkeinon valinnan vapaus"
+ },
+ {
+  "id": "lain-mukaan",
+  "level": 4,
+  "title": "”Lain mukaan”"
+ },
+ {
+  "id": "luvanvaraisuus",
+  "level": 4,
+  "title": "Luvanvaraisuus"
+ },
+ {
+  "id": "lupaehdot",
+  "level": 4,
+  "title": "Lupaehdot"
+ },
+ {
+  "id": "luvan-peruuttaminen",
+  "level": 4,
+  "title": "Luvan peruuttaminen"
+ },
+ {
+  "id": "luvan-uudistamatta-jättäminen",
+  "level": 4,
+  "title": "Luvan uudistamatta jättäminen"
+ },
+ {
+  "id": "luvan-muuttaminen",
+  "level": 4,
+  "title": "Luvan muuttaminen"
+ },
+ {
+  "id": "luvan-mukaisen-toiminnan-rajoittaminen",
+  "level": 4,
+  "title": "Luvan mukaisen toiminnan rajoittaminen"
+ },
+ {
+  "id": "rekisteröitymisvelvollisuus",
+  "level": 4,
+  "title": "Rekisteröitymisvelvollisuus"
+ },
+ {
+  "id": "ilmoitusvelvollisuus",
+  "level": 4,
+  "title": "Ilmoitusvelvollisuus"
+ },
+ {
+  "id": "muita-rajoituksia-ja-sääntelyjä",
+  "level": 4,
+  "title": "Muita rajoituksia ja sääntelyjä"
+ },
+ {
+  "id": "julkisten-hallintotehtävien-hoitaminen-ja-elinkeinovapaus",
+  "level": 4,
+  "title": "Julkisten hallintotehtävien hoitaminen ja elinkeinovapaus"
+ },
+ {
+  "id": "työvoiman-suojelu",
+  "level": 4,
+  "title": "Työvoiman suojelu"
+ },
+ {
+  "id": "julkisen-vallan-on-edistettävä-työllisyyttä-ja-pyrittävä-tur",
+  "level": 4,
+  "title": "Julkisen vallan on edistettävä työllisyyttä ja pyrittävä turvaamaan jokaiselle oikeus työhön"
+ },
+ {
+  "id": "oikeudesta-työllistävään-koulutukseen-säädetään-lailla",
+  "level": 4,
+  "title": "Oikeudesta työllistävään koulutukseen säädetään lailla"
+ },
+ {
+  "id": "lakiin-perustumattoman-työstä-erottamisen-kielto",
+  "level": 4,
+  "title": "Lakiin perustumattoman työstä erottamisen kielto"
+ },
+ {
+  "id": "4-2-14-oikeus-sosiaaliturvaan-19",
+  "level": 4,
+  "title": "4.2.14 Oikeus sosiaaliturvaan (19 §)"
+ },
+ {
+  "id": "oikeus-välttämättömään-toimeentuloon-ja-huolenpitoon",
+  "level": 4,
+  "title": "Oikeus välttämättömään toimeentuloon ja huolenpitoon"
+ },
+ {
+  "id": "oikeus-perustoimeentulon-turvaan",
+  "level": 4,
+  "title": "Oikeus perustoimeentulon turvaan"
+ },
+ {
+  "id": "riittävät-sosiaali-ja-terveyspalvelut",
+  "level": 4,
+  "title": "Riittävät sosiaali- ja terveyspalvelut"
+ },
+ {
+  "id": "väestön-terveyden-edistäminen",
+  "level": 4,
+  "title": "Väestön terveyden edistäminen"
+ },
+ {
+  "id": "tuki-lapsen-huolenpidosta-vastaaville",
+  "level": 4,
+  "title": "Tuki lapsen huolenpidosta vastaaville"
+ },
+ {
+  "id": "oikeus-asuntoon",
+  "level": 4,
+  "title": "Oikeus asuntoon"
+ },
+ {
+  "id": "asumis-ja-työskentelyvaatimuksista",
+  "level": 4,
+  "title": "Asumis- ja työskentelyvaatimuksista"
+ },
+ {
+  "id": "4-2-15-vastuu-ympäristöstä-20",
+  "level": 4,
+  "title": "4.2.15 Vastuu ympäristöstä (20 §)"
+ },
+ {
+  "id": "vastuu-luonnosta",
+  "level": 4,
+  "title": "Vastuu luonnosta"
+ },
+ {
+  "id": "julkisen-vallan-velvoite-turvaamiseen",
+  "level": 4,
+  "title": "Julkisen vallan velvoite turvaamiseen"
+ },
+ {
+  "id": "4-2-16-oikeusturva-21",
+  "level": 4,
+  "title": "4.2.16 Oikeusturva (21 §)"
+ },
+ {
+  "id": "lain-mukaan-toimivaltainen-tuomioistuin-tai-muu-viranomainen",
+  "level": 4,
+  "title": "Lain mukaan toimivaltainen tuomioistuin tai muu viranomainen"
+ },
+ {
+  "id": "riippumaton-lainkäyttöelin",
+  "level": 4,
+  "title": "Riippumaton lainkäyttöelin"
+ },
+ {
+  "id": "oikeudenmukainen-oikeudenkäynti",
+  "level": 4,
+  "title": "Oikeudenmukainen oikeudenkäynti"
+ },
+ {
+  "id": "hyvän-hallinnon-takeet",
+  "level": 4,
+  "title": "Hyvän hallinnon takeet"
+ },
+ {
+  "id": "oikeuksia-ja-velvollisuuksia-koskeva-päätös",
+  "level": 4,
+  "title": "Oikeuksia ja velvollisuuksia koskeva päätös"
+ },
+ {
+  "id": "muutoksenhaku-viranomaisen-päätökseen",
+  "level": 4,
+  "title": "Muutoksenhaku viranomaisen päätökseen"
+ },
+ {
+  "id": "muutoksenhakukiellon-sääntelytekniikasta",
+  "level": 4,
+  "title": "Muutoksenhakukiellon sääntelytekniikasta"
+ },
+ {
+  "id": "tosiasialliset-hallintotoimet",
+  "level": 4,
+  "title": "Tosiasialliset hallintotoimet"
+ },
+ {
+  "id": "lupajärjestelmä-muutoksenhaussa-ensi-asteeseen",
+  "level": 4,
+  "title": "Lupajärjestelmä muutoksenhaussa ensi asteeseen"
+ },
+ {
+  "id": "jatkovalituskielto-hallintolainkäyttölinjalla",
+  "level": 4,
+  "title": "Jatkovalituskielto hallintolainkäyttölinjalla"
+ },
+ {
+  "id": "jatkovalituslupa-hallintolainkäyttölinjalla",
+  "level": 4,
+  "title": "Jatkovalituslupa hallintolainkäyttölinjalla"
+ },
+ {
+  "id": "viranomaisen-muutoksenhakuoikeus",
+  "level": 4,
+  "title": "Viranomaisen muutoksenhakuoikeus"
+ },
+ {
+  "id": "valinnainen-muutoksenhakutie",
+  "level": 4,
+  "title": "Valinnainen muutoksenhakutie"
+ },
+ {
+  "id": "muutoksenhakuoikeus-yleisten-tuomioistuinten-linjalla",
+  "level": 4,
+  "title": "Muutoksenhakuoikeus yleisten tuomioistuinten linjalla"
+ },
+ {
+  "id": "vähäiset-poikkeukset",
+  "level": 4,
+  "title": "Vähäiset poikkeukset"
+ },
+ {
+  "id": "5-ahvenanmaan-huomioon-ottaminen-lainvalmistelussa",
+  "level": 2,
+  "title": "5 Ahvenanmaan huomioon ottaminen lainvalmistelussa"
+ },
+ {
+  "id": "5-1-ahvenanmaan-itsehallinto",
+  "level": 3,
+  "title": "5.1 Ahvenanmaan itsehallinto"
+ },
+ {
+  "id": "5-2-lainsäädäntövallan-jako-valtakunnan-ja-maakunnan-kesken",
+  "level": 3,
+  "title": "5.2 Lainsäädäntövallan jako valtakunnan ja maakunnan kesken"
+ },
+ {
+  "id": "5-3-maakuntalait",
+  "level": 3,
+  "title": "5.3 Maakuntalait"
+ },
+ {
+  "id": "5-4-ahvenanmaata-koskevat-erityissäännökset-laissa",
+  "level": 3,
+  "title": "5.4 Ahvenanmaata koskevat erityissäännökset laissa"
+ },
+ {
+  "id": "5-5-toimivalta-hallintoasioissa-sopimusasetukset",
+  "level": 3,
+  "title": "5.5 Toimivalta hallintoasioissa – sopimusasetukset"
+ },
+ {
+  "id": "6-eu-oikeus-osana-suomen-oikeusjärjestystä",
+  "level": 2,
+  "title": "6 EU-oikeus osana Suomen oikeusjärjestystä"
+ },
+ {
+  "id": "6-1-eu-oikeuden-ja-kansallisen-oikeuden-välinen-suhde",
+  "level": 3,
+  "title": "6.1 EU-oikeuden ja kansallisen oikeuden välinen suhde"
+ },
+ {
+  "id": "6-1-1-eu-oikeuden-velvoittavuus",
+  "level": 4,
+  "title": "6.1.1 EU-oikeuden velvoittavuus"
+ },
+ {
+  "id": "6-1-2-vilpittömän-yhteistyön-periaate",
+  "level": 4,
+  "title": "6.1.2 Vilpittömän yhteistyön periaate"
+ },
+ {
+  "id": "6-1-3-tulkintavaikutuksen-periaate",
+  "level": 4,
+  "title": "6.1.3 Tulkintavaikutuksen periaate"
+ },
+ {
+  "id": "6-1-4-välittömän-oikeusvaikutuksen-periaate",
+  "level": 4,
+  "title": "6.1.4 Välittömän oikeusvaikutuksen periaate"
+ },
+ {
+  "id": "6-1-5-etusijaperiaate",
+  "level": 4,
+  "title": "6.1.5 Etusijaperiaate"
+ },
+ {
+  "id": "6-2-euroopan-unionin-perussopimukset",
+  "level": 3,
+  "title": "6.2 Euroopan unionin perussopimukset"
+ },
+ {
+  "id": "6-3-euroopan-unionin-säädökset",
+  "level": 3,
+  "title": "6.3 Euroopan unionin säädökset"
+ },
+ {
+  "id": "6-3-1-johdettu-oikeus",
+  "level": 4,
+  "title": "6.3.1 Johdettu oikeus"
+ },
+ {
+  "id": "6-3-2-säädösten-hierarkkisuus",
+  "level": 4,
+  "title": "6.3.2 Säädösten hierarkkisuus"
+ },
+ {
+  "id": "6-3-3-sitovat-säädökset",
+  "level": 4,
+  "title": "6.3.3 Sitovat säädökset"
+ },
+ {
+  "id": "asetukset",
+  "level": 5,
+  "title": "Asetukset"
+ },
+ {
+  "id": "direktiivit",
+  "level": 5,
+  "title": "Direktiivit"
+ },
+ {
+  "id": "päätökset",
+  "level": 5,
+  "title": "Päätökset"
+ },
+ {
+  "id": "6-3-4-ohjeluonteiset-instrumentit",
+  "level": 4,
+  "title": "6.3.4 Ohjeluonteiset instrumentit"
+ },
+ {
+  "id": "6-4-eu-oikeuden-periaatteet-lainvalmistelussa",
+  "level": 3,
+  "title": "6.4 EU-oikeuden periaatteet lainvalmistelussa"
+ },
+ {
+  "id": "6-4-2-syrjintäkiellon-periaate",
+  "level": 4,
+  "title": "6.4.2 Syrjintäkiellon periaate"
+ },
+ {
+  "id": "6-4-3-yhdenvertaisuusperiaate",
+  "level": 4,
+  "title": "6.4.3 Yhdenvertaisuusperiaate"
+ },
+ {
+  "id": "6-4-4-suhteellisuusperiaate",
+  "level": 4,
+  "title": "6.4.4 Suhteellisuusperiaate"
+ },
+ {
+  "id": "6-4-5-oikeusvarmuuden-periaate",
+  "level": 4,
+  "title": "6.4.5 Oikeusvarmuuden periaate"
+ },
+ {
+  "id": "6-4-6-oikeusturvan-saatavuus",
+  "level": 4,
+  "title": "6.4.6 Oikeusturvan saatavuus"
+ },
+ {
+  "id": "6-5-eu-n-tekemät-kansainväliset-sopimukset",
+  "level": 3,
+  "title": "6.5 EU:n tekemät kansainväliset sopimukset"
+ },
+ {
+  "id": "6-6-eu-n-tuomioistuimen-oikeuskäytäntö",
+  "level": 3,
+  "title": "6.6 EU:n tuomioistuimen oikeuskäytäntö"
+ },
+ {
+  "id": "6-7-lainvalmisteluun-liittyviä-ilmoitusvelvoitteita",
+  "level": 3,
+  "title": "6.7 Lainvalmisteluun liittyviä ilmoitusvelvoitteita"
+ },
+ {
+  "id": "6-7-1-ilmoitusvelvollisuudesta",
+  "level": 4,
+  "title": "6.7.1 Ilmoitusvelvollisuudesta"
+ },
+ {
+  "id": "6-7-2-teknisiä-määräyksiä-koskevat-ilmoitukset",
+  "level": 4,
+  "title": "6.7.2 Teknisiä määräyksiä koskevat ilmoitukset"
+ },
+ {
+  "id": "6-7-3-valtiontukia-koskevat-ilmoitukset",
+  "level": 4,
+  "title": "6.7.3 Valtiontukia koskevat ilmoitukset"
+ },
+ {
+  "id": "6-7-4-palveluelinkeinojen-sääntelyä-koskevat-ilmoitukset",
+  "level": 4,
+  "title": "6.7.4 Palveluelinkeinojen sääntelyä koskevat ilmoitukset"
+ },
+ {
+  "id": "6-7-5-ammattisääntelyn-suhteellisuusarviointi-ja-sitä-koskev",
+  "level": 4,
+  "title": "6.7.5 Ammattisääntelyn suhteellisuusarviointi ja sitä koskevat ilmoitukset"
+ },
+ {
+  "id": "6-7-6-muita-ilmoituksia",
+  "level": 4,
+  "title": "6.7.6 Muita ilmoituksia"
+ },
+ {
+  "id": "7-euroopan-unionin-säädösten-täytäntöönpano",
+  "level": 2,
+  "title": "7 Euroopan unionin säädösten täytäntöönpano"
+ },
+ {
+  "id": "7-1-eu-oikeuden-tehokas-toteutuminen",
+  "level": 3,
+  "title": "7.1 EU-oikeuden tehokas toteutuminen"
+ },
+ {
+  "id": "7-2-asetuksen-täytäntöönpanon-erityispiirteitä",
+  "level": 3,
+  "title": "7.2 Asetuksen täytäntöönpanon erityispiirteitä"
+ },
+ {
+  "id": "7-3-direktiivin-täytäntöönpanon-erityispiirteitä",
+  "level": 3,
+  "title": "7.3 Direktiivin täytäntöönpanon erityispiirteitä"
+ },
+ {
+  "id": "7-3-1-täytäntöönpanon-tehokkuus",
+  "level": 4,
+  "title": "7.3.1 Täytäntöönpanon tehokkuus"
+ },
+ {
+  "id": "7-3-2-täytäntöönpanomenetelmät",
+  "level": 4,
+  "title": "7.3.2 Täytäntöönpanomenetelmät"
+ },
+ {
+  "id": "7-4-päätöksen-täytäntöönpanosta",
+  "level": 3,
+  "title": "7.4 Päätöksen täytäntöönpanosta"
+ },
+ {
+  "id": "7-6-eu-säädösten-täytäntöönpanoon-liittyvät-ilmoitusvelvoitt",
+  "level": 3,
+  "title": "7.6 EU-säädösten täytäntöönpanoon liittyvät ilmoitusvelvoitteet"
+ },
+ {
+  "id": "7-6-1-direktiivin-täytäntöönpanosta-ilmoittaminen",
+  "level": 4,
+  "title": "7.6.1 Direktiivin täytäntöönpanosta ilmoittaminen"
+ },
+ {
+  "id": "7-6-2-asetusta-koskevat-ilmoitukset",
+  "level": 4,
+  "title": "7.6.2 Asetusta koskevat ilmoitukset"
+ },
+ {
+  "id": "7-6-3-muita-ilmoituksia",
+  "level": 4,
+  "title": "7.6.3 Muita ilmoituksia"
+ },
+ {
+  "id": "7-7-täytäntöönpanon-laiminlyönnin-seurauksista",
+  "level": 3,
+  "title": "7.7 Täytäntöönpanon laiminlyönnin seurauksista"
+ },
+ {
+  "id": "8-valtiosopimukset-suomen-oikeusjärjestyksessä",
+  "level": 2,
+  "title": "8 Valtiosopimukset Suomen oikeusjärjestyksessä"
+ },
+ {
+  "id": "9-julkinen-hallinto",
+  "level": 2,
+  "title": "9 Julkinen hallinto"
+ },
+ {
+  "id": "9-1-valtioneuvoston-yleistä-toimialaa-sekä-ministeriöitä-kos",
+  "level": 3,
+  "title": "9.1 Valtioneuvoston yleistä toimialaa sekä ministeriöitä koskevien säännösten antaminen"
+ },
+ {
+  "id": "9-2-muuta-valtionhallintoa-koskevien-säännösten-antaminen",
+  "level": 3,
+  "title": "9.2 Muuta valtionhallintoa koskevien säännösten antaminen"
+ },
+ {
+  "id": "9-3-kuntien-itsehallinto",
+  "level": 3,
+  "title": "9.3 Kuntien itsehallinto"
+ },
+ {
+  "id": "9-4-evankelis-luterilainen-kirkko",
+  "level": 3,
+  "title": "9.4 Evankelis-luterilainen kirkko"
+ },
+ {
+  "id": "9-5-yliopisto-laitos",
+  "level": 3,
+  "title": "9.5 Yliopisto laitos"
+ },
+ {
+  "id": "9-6-julkishallinnon-henkilöstön-oikeusasema",
+  "level": 3,
+  "title": "9.6 Julkishallinnon henkilöstön oikeusasema"
+ },
+ {
+  "id": "9-7-siirtymäsäännökset-valtion-virastoja-koskevissa-järjeste",
+  "level": 3,
+  "title": "9.7 Siirtymäsäännökset valtion virastoja koskevissa järjestelyissä"
+ },
+ {
+  "id": "10-julkisen-hallintotehtävän-antaminen-muulle-kuin-viranomai",
+  "level": 2,
+  "title": "10 Julkisen hallintotehtävän antaminen muulle kuin viranomaiselle"
+ },
+ {
+  "id": "10-1-perustuslain-124-n-säännökset",
+  "level": 3,
+  "title": "10.1 Perustuslain 124 §:n säännökset"
+ },
+ {
+  "id": "10-2-säädöstaso-annettaessa-hallintotehtäviä-muulle-kuin-vir",
+  "level": 3,
+  "title": "10.2 Säädöstaso annettaessa hallintotehtäviä muulle kuin viranomaiselle"
+ },
+ {
+  "id": "10-3-edellytykset-hallintotehtävien-antamiselle-muulle-kuin-",
+  "level": 3,
+  "title": "10.3 Edellytykset hallintotehtävien antamiselle muulle kuin viranomaiselle"
+ },
+ {
+  "id": "10-4-hallintotehtävien-antamisen-rajoitukset",
+  "level": 3,
+  "title": "10.4 Hallintotehtävien antamisen rajoitukset"
+ },
+ {
+  "id": "10-5-merkittävä-julkisen-vallan-käyttö",
+  "level": 3,
+  "title": "10.5 Merkittävä julkisen vallan käyttö"
+ },
+ {
+  "id": "11-verot-ja-maksut",
+  "level": 2,
+  "title": "11 Verot ja maksut"
+ },
+ {
+  "id": "11-1-perustuslain-säännökset",
+  "level": 3,
+  "title": "11.1 Perustuslain säännökset"
+ },
+ {
+  "id": "11-2-veron-ja-maksun-välinen-ero",
+  "level": 3,
+  "title": "11.2 Veron ja maksun välinen ero"
+ },
+ {
+  "id": "11-3-verosta-säätäminen",
+  "level": 3,
+  "title": "11.3 Verosta säätäminen"
+ },
+ {
+  "id": "11-4-maksujen-perusteista-ja-määrästä-säätäminen",
+  "level": 3,
+  "title": "11.4 Maksujen perusteista ja määrästä säätäminen"
+ },
+ {
+  "id": "12-yleislait-ja-eräät-yleiset-sääntelyt",
+  "level": 2,
+  "title": "12 Yleislait ja eräät yleiset sääntelyt"
+ },
+ {
+  "id": "12-1-yleislakien-kunnioittaminen",
+  "level": 3,
+  "title": "12.1 Yleislakien kunnioittaminen"
+ },
+ {
+  "id": "12-2-viittaaminen-yleislakiin",
+  "level": 3,
+  "title": "12.2 Viittaaminen yleislakiin"
+ },
+ {
+  "id": "12-2-1-yleislakiin-ei-yleensä-viitata",
+  "level": 4,
+  "title": "12.2.1 Yleislakiin ei yleensä viitata"
+ },
+ {
+  "id": "12-2-2-aineelliset-viittaukset",
+  "level": 4,
+  "title": "12.2.2 Aineelliset viittaukset"
+ },
+ {
+  "id": "12-2-3-vältettävät-soveltamisohjeet-soveltuvin-osin-ja-vasta",
+  "level": 4,
+  "title": "12.2.3 Vältettävät soveltamisohjeet ”soveltuvin osin” ja ”vastaavasti”"
+ },
+ {
+  "id": "12-2-4-informatiiviset-viittaukset",
+  "level": 4,
+  "title": "12.2.4 Informatiiviset viittaukset"
+ },
+ {
+  "id": "12-2-5-vältettävät-viittaukset-koskee-ja-on-voimassa-mitä",
+  "level": 4,
+  "title": "12.2.5 Vältettävät viittaukset ”koskee” ja ”on voimassa, mitä”"
+ },
+ {
+  "id": "12-2-6-vältettävä-viittaus-siten-kuin",
+  "level": 4,
+  "title": "12.2.6 Vältettävä viittaus ”siten kuin”"
+ },
+ {
+  "id": "12-2-7-lain-ensisijaisuuden-ja-toissijaisuuden-ilmaiseminen",
+  "level": 4,
+  "title": "12.2.7 Lain ensisijaisuuden ja toissijaisuuden ilmaiseminen"
+ },
+ {
+  "id": "12-2-8-viittaus-täydentävään-lainsäädäntöön",
+  "level": 4,
+  "title": "12.2.8 Viittaus täydentävään lainsäädäntöön"
+ },
+ {
+  "id": "12-2-9-viittaus-lakiin-kattaa-myös-lain-nojalla-annetut-sään",
+  "level": 4,
+  "title": "12.2.9 Viittaus lakiin kattaa myös lain nojalla annetut säännökset"
+ },
+ {
+  "id": "12-3-hallinnon-yleislakeihin-viittaaminen",
+  "level": 3,
+  "title": "12.3 Hallinnon yleislakeihin viittaaminen"
+ },
+ {
+  "id": "12-3-1-hallinnon-yleislait",
+  "level": 4,
+  "title": "12.3.1 Hallinnon yleislait"
+ },
+ {
+  "id": "12-3-2-hallintolaki",
+  "level": 4,
+  "title": "12.3.2 Hallintolaki"
+ },
+ {
+  "id": "12-3-3-sähköisestä-asioinnista-viranomaistoiminnassa-annettu",
+  "level": 4,
+  "title": "12.3.3 Sähköisestä asioinnista viranomaistoiminnassa annettu laki"
+ },
+ {
+  "id": "12-4-julkisuuslaki-viranomaisten-toiminnan-julkisuudesta-ann",
+  "level": 3,
+  "title": "12.4 Julkisuuslaki (Viranomaisten toiminnan julkisuudesta annettu laki )"
+ },
+ {
+  "id": "12-4-1-julkisuusperiaate",
+  "level": 4,
+  "title": "12.4.1 Julkisuusperiaate"
+ },
+ {
+  "id": "12-4-2-julkisuuslaki-yleislakina",
+  "level": 4,
+  "title": "12.4.2 Julkisuuslaki yleislakina"
+ },
+ {
+  "id": "12-4-3-julkisuuslain-soveltamisala",
+  "level": 4,
+  "title": "12.4.3 Julkisuuslain soveltamisala"
+ },
+ {
+  "id": "12-4-4-viittaaminen-julkisuuslakiin",
+  "level": 4,
+  "title": "12.4.4 Viittaaminen julkisuuslakiin"
+ },
+ {
+  "id": "12-4-5-salassapito-velvollisuus-ja-muut-tiedonsaantioikeuden",
+  "level": 4,
+  "title": "12.4.5 Salassapito velvollisuus ja muut tiedonsaantioikeuden rajoitukset"
+ },
+ {
+  "id": "12-4-6-salassa-pidettävien-tietojen-luovuttaminen",
+  "level": 4,
+  "title": "12.4.6 Salassa pidettävien tietojen luovuttaminen"
+ },
+ {
+  "id": "12-4-7-henkilötietojen-luovuttaminen-viranomaisen-ylläpitämä",
+  "level": 4,
+  "title": "12.4.7 Henkilötietojen luovuttaminen viranomaisen ylläpitämästä henkilörekisteristä"
+ },
+ {
+  "id": "12-4-8-erityissäännösten-valmistelusta-ja-muotoilusta",
+  "level": 4,
+  "title": "12.4.8 Erityissäännösten valmistelusta ja muotoilusta"
+ },
+ {
+  "id": "12-5-tietosuojalainsäädäntö",
+  "level": 3,
+  "title": "12.5 Tietosuojalainsäädäntö"
+ },
+ {
+  "id": "12-5-1-henkilötietojen-käsittelyyn-sovellettava-yleislainsää",
+  "level": 4,
+  "title": "12.5.1 Henkilötietojen käsittelyyn sovellettava yleislainsäädäntö"
+ },
+ {
+  "id": "tietosuoja-asetus-ja-tietosuojalaki",
+  "level": 4,
+  "title": "Tietosuoja-asetus ja tietosuojalaki"
+ },
+ {
+  "id": "rikosasioiden-tietosuojalaki",
+  "level": 4,
+  "title": "Rikosasioiden tietosuojalaki"
+ },
+ {
+  "id": "yleislakiin-viittaaminen",
+  "level": 4,
+  "title": "Yleislakiin viittaaminen"
+ },
+ {
+  "id": "12-5-2-henkilötietojen-suojasta-säätäminen-erityislainsäädän",
+  "level": 4,
+  "title": "12.5.2 Henkilötietojen suojasta säätäminen erityislainsäädännössä"
+ },
+ {
+  "id": "erityissäännösten-tarpeesta",
+  "level": 4,
+  "title": "Erityissäännösten tarpeesta"
+ },
+ {
+  "id": "käsittelyn-oikeusperuste-yleisen-tietosuoja-asetuksen-sovelt",
+  "level": 4,
+  "title": "Käsittelyn oikeusperuste yleisen tietosuoja-asetuksen soveltamisalalla"
+ },
+ {
+  "id": "12-5-3-arkaluonteiset-henkilötiedot",
+  "level": 4,
+  "title": "12.5.3 Arkaluonteiset henkilötiedot"
+ },
+ {
+  "id": "erityisiin-henkilötietoryhmiin-kuuluvat-tiedot",
+  "level": 4,
+  "title": "Erityisiin henkilötietoryhmiin kuuluvat tiedot"
+ },
+ {
+  "id": "rikostietojen-käsittely",
+  "level": 4,
+  "title": "Rikostietojen käsittely"
+ },
+ {
+  "id": "arkaluonteisten-henkilötietojen-käsittelystä-säätäminen",
+  "level": 4,
+  "title": "Arkaluonteisten henkilötietojen käsittelystä säätäminen"
+ },
+ {
+  "id": "12-5-4-henkilötietojen-luovuttaminen-viranomaisen-henkilörek",
+  "level": 4,
+  "title": "12.5.4 Henkilötietojen luovuttaminen viranomaisen henkilörekisteristä"
+ },
+ {
+  "id": "12-6-kielilait",
+  "level": 3,
+  "title": "12.6 Kielilait"
+ },
+ {
+  "id": "12-6-1-kielilaki",
+  "level": 4,
+  "title": "12.6.1 Kielilaki"
+ },
+ {
+  "id": "12-6-2-saamen-kielilaki",
+  "level": 4,
+  "title": "12.6.2 Saamen kielilaki"
+ },
+ {
+  "id": "12-6-3-viittomakielilaki",
+  "level": 4,
+  "title": "12.6.3 Viittomakielilaki"
+ },
+ {
+  "id": "12-6-4-ahvenanmaan-itsehallintolaki",
+  "level": 4,
+  "title": "12.6.4 Ahvenanmaan itsehallintolaki"
+ },
+ {
+  "id": "12-6-5-julkisyhteisöjen-henkilöstöltä-vaadittavasta-kielitai",
+  "level": 4,
+  "title": "12.6.5 Julkisyhteisöjen henkilöstöltä vaadittavasta kielitaidosta annettu laki"
+ },
+ {
+  "id": "12-7-uhkasakko-teettämisuhka-ja-keskeyttämisuhka",
+  "level": 3,
+  "title": "12.7 Uhkasakko, teettämisuhka ja keskeyttämisuhka"
+ },
+ {
+  "id": "12-8-pakkokeinot-kotirauhaan-puuttuminen-yms",
+  "level": 3,
+  "title": "12.8 Pakkokeinot , kotirauhaan puuttuminen yms."
+ },
+ {
+  "id": "12-9-kriminalisointi-ja-rangaistussäännökset",
+  "level": 3,
+  "title": "12.9 Kriminalisointi ja rangaistussäännökset"
+ },
+ {
+  "id": "12-9-1-rikoslain-kokonaisuudistuksessa-omaksutut-periaatteet",
+  "level": 4,
+  "title": "12.9.1 Rikoslain kokonaisuudistuksessa omaksutut periaatteet"
+ },
+ {
+  "id": "12-9-2-rangaistussäännöksen-tarve",
+  "level": 4,
+  "title": "12.9.2 Rangaistussäännöksen tarve"
+ },
+ {
+  "id": "12-9-3-keskittämisperiaate",
+  "level": 4,
+  "title": "12.9.3 Keskittämisperiaate"
+ },
+ {
+  "id": "12-9-4-yhtenäinen-kirjoittamistapa",
+  "level": 4,
+  "title": "12.9.4 Yhtenäinen kirjoittamistapa"
+ },
+ {
+  "id": "12-9-5-rangaistussäännösten-täsmällisyys",
+  "level": 4,
+  "title": "12.9.5 Rangaistussäännösten täsmällisyys"
+ },
+ {
+  "id": "12-9-6-tunnusmerkistö",
+  "level": 4,
+  "title": "12.9.6 Tunnusmerkistö"
+ },
+ {
+  "id": "12-9-7-syyksiluettavuus",
+  "level": 4,
+  "title": "12.9.7 Syyksiluettavuus"
+ },
+ {
+  "id": "12-9-8-osallisuus-ja-yritys",
+  "level": 4,
+  "title": "12.9.8 Osallisuus ja yritys"
+ },
+ {
+  "id": "12-9-9-rikosnimike",
+  "level": 4,
+  "title": "12.9.9 Rikosnimike"
+ },
+ {
+  "id": "12-9-10-porrastaminen",
+  "level": 4,
+  "title": "12.9.10 Porrastaminen"
+ },
+ {
+  "id": "12-9-11-rangaistusasteikko-rikesakko-ja-erityiset-seuraamuks",
+  "level": 4,
+  "title": "12.9.11 Rangaistusasteikko, rikesakko ja erityiset seuraamukset"
+ },
+ {
+  "id": "12-9-12-toissijaisuuslauseke",
+  "level": 4,
+  "title": "12.9.12 Toissijaisuuslauseke"
+ },
+ {
+  "id": "12-9-13-syyteoikeus",
+  "level": 4,
+  "title": "12.9.13 Syyteoikeus"
+ },
+ {
+  "id": "12-9-14-menettämisseuraamukset-ja-vanhentuminen",
+  "level": 4,
+  "title": "12.9.14 Menettämisseuraamukset ja vanhentuminen"
+ },
+ {
+  "id": "12-9-15-suomen-rikosoikeuden-soveltamisala-sekä-ajallinen-so",
+  "level": 4,
+  "title": "12.9.15 Suomen rikosoikeuden soveltamisala sekä ajallinen soveltuvuus ja taannehtivuuskielto"
+ },
+ {
+  "id": "12-9-16-oikeushenkilön-rangaistusvastuu",
+  "level": 4,
+  "title": "12.9.16 Oikeushenkilön rangaistusvastuu"
+ },
+ {
+  "id": "12-10-hallinnollisten-sanktioiden-sääntelyperiaatteet",
+  "level": 3,
+  "title": "12.10 Hallinnollisten sanktioiden sääntelyperiaatteet"
+ },
+ {
+  "id": "12-10-1-sääntelyperiaatteiden-sisältö-ja-tarkoitus",
+  "level": 4,
+  "title": "12.10.1 Sääntelyperiaatteiden sisältö ja tarkoitus"
+ },
+ {
+  "id": "12-10-2-hallinnollisen-sanktion-määrittely",
+  "level": 4,
+  "title": "12.10.2 Hallinnollisen sanktion määrittely"
+ },
+ {
+  "id": "12-10-3-hallinnollisen-sanktion-käyttöala-sekä-suhde-hallinn",
+  "level": 4,
+  "title": "12.10.3 Hallinnollisen sanktion käyttöala sekä suhde hallinnollisiin ja rikosoikeudellisiin seuraamuksiin"
+ },
+ {
+  "id": "12-10-4-hallinnollisten-sanktioiden-sääntelyn-keskeiset-läht",
+  "level": 4,
+  "title": "12.10.4 Hallinnollisten sanktioiden sääntelyn keskeiset lähtökohdat"
+ },
+ {
+  "id": "perusoikeudet-ja-niiden-rajoitusedellytykset",
+  "level": 4,
+  "title": "Perusoikeudet ja niiden rajoitusedellytykset"
+ },
+ {
+  "id": "laillisuusperiaate",
+  "level": 4,
+  "title": "Laillisuusperiaate"
+ },
+ {
+  "id": "12-10-5-hallinnollisten-sanktioiden-erityiset-oikeusturvavaa",
+  "level": 4,
+  "title": "12.10.5 Hallinnollisten sanktioiden erityiset oikeusturvavaatimukset"
+ },
+ {
+  "id": "syyttömyysolettama",
+  "level": 4,
+  "title": "Syyttömyysolettama"
+ },
+ {
+  "id": "kaksoisrangaistavuuden-kielto",
+  "level": 4,
+  "title": "Kaksoisrangaistavuuden kielto"
+ },
+ {
+  "id": "itsekriminointisuoja",
+  "level": 4,
+  "title": "Itsekriminointisuoja"
+ },
+ {
+  "id": "12-10-6-hallinnollisen-sanktion-määräämisen-perusteet",
+  "level": 4,
+  "title": "12.10.6 Hallinnollisen sanktion määräämisen perusteet"
+ },
+ {
+  "id": "määräämistoimivallan-organisointi",
+  "level": 4,
+  "title": "Määräämistoimivallan organisointi"
+ },
+ {
+  "id": "selvitysvastuu-ja-näyttövelvollisuus",
+  "level": 4,
+  "title": "Selvitysvastuu ja näyttövelvollisuus"
+ },
+ {
+  "id": "hallinnollisen-sanktion-määrääminen-luonnolliselle-henkilöll",
+  "level": 4,
+  "title": "Hallinnollisen sanktion määrääminen luonnolliselle henkilölle tai oikeushenkilölle"
+ },
+ {
+  "id": "oikeasuhtaisuuden-vaatimus",
+  "level": 4,
+  "title": "Oikeasuhtaisuuden vaatimus"
+ },
+ {
+  "id": "kohtuullistaminen-ja-sanktion-määräämättä-jättäminen",
+  "level": 4,
+  "title": "Kohtuullistaminen ja sanktion määräämättä jättäminen"
+ },
+ {
+  "id": "12-10-7-menettelysäännökset",
+  "level": 4,
+  "title": "12.10.7 Menettelysäännökset"
+ },
+ {
+  "id": "hallintolain-ja-oikeudenkäynnistä-hallintoasioissa-annetun-l",
+  "level": 4,
+  "title": "Hallintolain ja oikeudenkäynnistä hallintoasioissa annetun lain soveltaminen"
+ },
+ {
+  "id": "oikeusturvajärjestelyt",
+  "level": 4,
+  "title": "Oikeusturvajärjestelyt"
+ },
+ {
+  "id": "hallinnollisen-sanktion-määräämisoikeuden-vanhentuminen",
+  "level": 4,
+  "title": "Hallinnollisen sanktion määräämisoikeuden vanhentuminen"
+ },
+ {
+  "id": "viivästysseuraamukset",
+  "level": 4,
+  "title": "Viivästysseuraamukset"
+ },
+ {
+  "id": "hallinnollisen-sanktion-täytäntöönpano",
+  "level": 4,
+  "title": "Hallinnollisen sanktion täytäntöönpano"
+ },
+ {
+  "id": "12-11-vahingon-korvaaminen",
+  "level": 3,
+  "title": "12.11 Vahingon korvaaminen"
+ },
+ {
+  "id": "12-12-virkavastuu",
+  "level": 3,
+  "title": "12.12 Virkavastuu"
+ },
+ {
+  "id": "12-13-oikeusturva",
+  "level": 3,
+  "title": "12.13 Oikeusturva"
+ },
+ {
+  "id": "12-13-1-oikeudenkäymiskaari-ja-oikeudenkäynnistä-rikosasiois",
+  "level": 4,
+  "title": "12.13.1 Oikeudenkäymiskaari ja oikeudenkäynnistä rikosasioissa annettu laki"
+ },
+ {
+  "id": "12-13-2-muutoksenhaku-hallintopäätökseen",
+  "level": 4,
+  "title": "12.13.2 Muutoksenhaku hallintopäätökseen"
+ },
+ {
+  "id": "13-säädösten-lajit-ja-säädöstaso",
+  "level": 2,
+  "title": "13 Säädösten lajit ja säädöstaso"
+ },
+ {
+  "id": "13-1-säädökset",
+  "level": 3,
+  "title": "13.1 Säädökset"
+ },
+ {
+  "id": "13-2-lain-ja-asetuksen-ala",
+  "level": 3,
+  "title": "13.2 Lain ja asetuksen ala"
+ },
+ {
+  "id": "13-2-1-lain-ala",
+  "level": 4,
+  "title": "13.2.1 Lain ala"
+ },
+ {
+  "id": "13-2-2-asetuksen-ala",
+  "level": 4,
+  "title": "13.2.2 Asetuksen ala"
+ },
+ {
+  "id": "13-3-lainsäädäntövallan-siirtäminen-asetuksenantajalle",
+  "level": 3,
+  "title": "13.3 Lainsäädäntövallan siirtäminen asetuksenantajalle"
+ },
+ {
+  "id": "13-4-asetuksen-antajat",
+  "level": 3,
+  "title": "13.4 Asetuksen antajat"
+ },
+ {
+  "id": "13-4-1-tasavallan-presidentti-valtioneuvosto-ministeriö",
+  "level": 4,
+  "title": "13.4.1 Tasavallan presidentti – valtioneuvosto – ministeriö"
+ },
+ {
+  "id": "13-4-2-subdelegointikielto",
+  "level": 4,
+  "title": "13.4.2 Subdelegointikielto"
+ },
+ {
+  "id": "13-5-asetuksenantovaltuudet-ja-niiden-laatiminen-täsmällisyy",
+  "level": 3,
+  "title": "13.5 Asetuksenantovaltuudet ja niiden laatiminen – täsmällisyyden ja tarkkarajaisuuden vaatimus"
+ },
+ {
+  "id": "13-5-1-lakiin-perustuvat-asetuksenantovaltuudet",
+  "level": 4,
+  "title": "13.5.1 Lakiin perustuvat asetuksenantovaltuudet"
+ },
+ {
+  "id": "13-5-2-täsmällisyys-ja-tarkkarajaisuus",
+  "level": 4,
+  "title": "13.5.2 Täsmällisyys ja tarkkarajaisuus"
+ },
+ {
+  "id": "13-5-3-rinnakkaiset-asetuksenantovaltuudet",
+  "level": 4,
+  "title": "13.5.3 Rinnakkaiset asetuksenantovaltuudet"
+ },
+ {
+  "id": "13-5-4-valtuussäännöksen-muoto",
+  "level": 4,
+  "title": "13.5.4 Valtuussäännöksen muoto"
+ },
+ {
+  "id": "13-5-5-kielto-käyttää-siten-kuin-rakennetta",
+  "level": 4,
+  "title": "13.5.5 Kielto käyttää ”siten kuin” -rakennetta"
+ },
+ {
+  "id": "13-5-6-tarkemmat-säännökset-lain-täytäntöönpanosta",
+  "level": 4,
+  "title": "13.5.6 ”Tarkemmat säännökset lain täytäntöönpanosta”"
+ },
+ {
+  "id": "13-6-säädöstaso-euroopan-unionin-säädösten-täytäntöönpanossa",
+  "level": 3,
+  "title": "13.6 Säädöstaso Euroopan unionin säädösten täytäntöönpanossa"
+ },
+ {
+  "id": "tarkempia-säännöksiä-1-momentissa-tarkoitetuista-toimenpitei",
+  "level": 5,
+  "title": "Tarkempia säännöksiä 1 momentissa tarkoitetuista toimenpiteistä, määräyksistä, kielloista, ehdoista, ja rajoituksista annetaan maa- ja metsätalousministeriön asetuksella sen mukaan kuin kasvinterveyttä koskevassa Euroopan yhteisön lainsäädännössä säädetään."
+ },
+ {
+  "id": "valtioneuvoston-asetuksella-voidaan-säätää-tuottajavastuuta-",
+  "level": 5,
+  "title": "Valtioneuvoston asetuksella voidaan säätää tuottajavastuuta koskevien Euroopan unionin säädösten täytäntöönpanemiseksi:"
+ },
+ {
+  "id": "13-7-vanhojen-asetusten-ja-päätösten-muuttaminen-ja-kumoamin",
+  "level": 3,
+  "title": "13.7 ”Vanhojen” asetusten ja päätösten muuttaminen ja kumoaminen"
+ },
+ {
+  "id": "13-8-lainsäädäntövallan-siirtäminen-muulle-viranomaiselle",
+  "level": 3,
+  "title": "13.8 Lainsäädäntövallan siirtäminen ”muulle viranomaiselle”"
+ },
+ {
+  "id": "13-8-1-delegointi-aina-lailla",
+  "level": 4,
+  "title": "13.8.1 Delegointi aina lailla"
+ },
+ {
+  "id": "13-8-2-käsitteet-oikeussääntö-määräys-ja-viranomainen",
+  "level": 4,
+  "title": "13.8.2 Käsitteet ” oikeussääntö”, ” määräys” ja ” viranomainen”"
+ },
+ {
+  "id": "13-8-3-valtuuden-edellytykset-määrätyt-asiat-erityiset-syyt-",
+  "level": 4,
+  "title": "13.8.3 Valtuuden edellytykset \"määrätyt asiat\", \"erityiset syyt\" ja ”täsmällisesti rajattu soveltamisala”"
+ },
+ {
+  "id": "13-8-4-kuntien-määräystenantovalta",
+  "level": 4,
+  "title": "13.8.4 Kuntien määräystenantovalta"
+ },
+ {
+  "id": "13-9-hallinnon-sisäiset-määräykset",
+  "level": 3,
+  "title": "13.9 Hallinnon sisäiset määräykset"
+ },
+ {
+  "id": "13-9-1-hallinnon-sisäisten-määräysten-oikeusperusta",
+  "level": 4,
+  "title": "13.9.1 Hallinnon sisäisten määräysten oikeusperusta"
+ },
+ {
+  "id": "13-9-2-hallinnon-sisäisten-määräysten-rajat",
+  "level": 4,
+  "title": "13.9.2 Hallinnon sisäisten määräysten rajat"
+ },
+ {
+  "id": "13-9-3-hallinnon-sisäisiä-määräyksiä-sisältävät-valtioneuvos",
+  "level": 4,
+  "title": "13.9.3 Hallinnon sisäisiä määräyksiä sisältävät valtioneuvoston ja ministeriön päätökset"
+ },
+ {
+  "id": "13-9-4-suositus-suhtautua-pidättyvästi-hallinnollisten-määrä",
+  "level": 4,
+  "title": "13.9.4 Suositus suhtautua pidättyvästi hallinnollisten määräysten antamiseen"
+ },
+ {
+  "id": "13-10-kielto-valtuuttaa-ohjeiden-antamiseen",
+  "level": 3,
+  "title": "13.10 Kielto valtuuttaa ”ohjeiden” antamiseen"
+ },
+ {
+  "id": "14-säädösten-rakenne",
+  "level": 2,
+  "title": "14 Säädösten rakenne"
+ },
+ {
+  "id": "14-1-uudet-säädökset-ja-muutossäädökset",
+  "level": 3,
+  "title": "14.1 Uudet säädökset ja muutossäädökset"
+ },
+ {
+  "id": "14-2-säädöksen-osat",
+  "level": 3,
+  "title": "14.2 Säädöksen osat"
+ },
+ {
+  "id": "14-2-1-säädöksen-osien-nimitykset",
+  "level": 4,
+  "title": "14.2.1 Säädöksen osien nimitykset"
+ },
+ {
+  "id": "14-2-2-pykälien-numerointi",
+  "level": 4,
+  "title": "14.2.2 Pykälien numerointi"
+ },
+ {
+  "id": "14-2-3-pykälien-otsikot",
+  "level": 4,
+  "title": "14.2.3 Pykälien otsikot"
+ },
+ {
+  "id": "14-2-4-väliotsikointi-pykälien-otsikoinnin-asemesta",
+  "level": 4,
+  "title": "14.2.4 Väliotsikointi pykälien otsikoinnin asemesta"
+ },
+ {
+  "id": "14-2-5-momenttien-yksilöinti",
+  "level": 4,
+  "title": "14.2.5 Momenttien yksilöinti"
+ },
+ {
+  "id": "14-2-6-kohtien-johdantokappale-ja-numerointi",
+  "level": 4,
+  "title": "14.2.6 Kohtien johdantokappale ja numerointi"
+ },
+ {
+  "id": "14-2-7-alakohtien-yksilöinti",
+  "level": 4,
+  "title": "14.2.7 Alakohtien yksilöinti"
+ },
+ {
+  "id": "14-2-8-kohtien-ja-alakohtien-erottaminen-toisistaan",
+  "level": 4,
+  "title": "14.2.8 Kohtien ja alakohtien erottaminen toisistaan"
+ },
+ {
+  "id": "14-2-9-johdantokappaleen-ja-kohtien-virkerakenne",
+  "level": 4,
+  "title": "14.2.9 Johdantokappaleen ja kohtien virkerakenne"
+ },
+ {
+  "id": "14-2-10-rangaistussäännösten-kohtajako",
+  "level": 4,
+  "title": "14.2.10 Rangaistussäännösten kohtajako"
+ },
+ {
+  "id": "14-2-11-lukujen-numerointi-ja-otsikointi",
+  "level": 4,
+  "title": "14.2.11 Lukujen numerointi ja otsikointi"
+ },
+ {
+  "id": "14-2-12-osien-numerointi-ja-otsikointi",
+  "level": 4,
+  "title": "14.2.12 Osien numerointi ja otsikointi"
+ },
+ {
+  "id": "14-2-13-väliotsikot",
+  "level": 4,
+  "title": "14.2.13 Väliotsikot"
+ },
+ {
+  "id": "14-2-14-voimaantulosäännös-ja-sen-sijoittaminen",
+  "level": 4,
+  "title": "14.2.14 Voimaantulosäännös ja sen sijoittaminen"
+ },
+ {
+  "id": "14-2-15-päiväykset-ja-allekirjoitukset",
+  "level": 4,
+  "title": "14.2.15 Päiväykset ja allekirjoitukset"
+ },
+ {
+  "id": "14-3-säädöksen-jäsentely",
+  "level": 3,
+  "title": "14.3 Säädöksen jäsentely"
+ },
+ {
+  "id": "14-3-1-säädöksen-jäsentelyn-perusperiaatteet",
+  "level": 4,
+  "title": "14.3.1 Säädöksen jäsentelyn perusperiaatteet"
+ },
+ {
+  "id": "14-3-2-rakenteen-johdonmukaisuus",
+  "level": 4,
+  "title": "14.3.2 Rakenteen johdonmukaisuus"
+ },
+ {
+  "id": "14-3-3-säännösten-järjestys",
+  "level": 4,
+  "title": "14.3.3 Säännösten järjestys"
+ },
+ {
+  "id": "14-3-4-lukujen-otsikot",
+  "level": 4,
+  "title": "14.3.4 Lukujen otsikot"
+ },
+ {
+  "id": "14-3-5-3-3-3-suositus",
+  "level": 4,
+  "title": "14.3.5 3–3–3-suositus"
+ },
+ {
+  "id": "14-3-6-suositus-olla-viittaamatta-jäljempänä-tulevaan-teksti",
+  "level": 4,
+  "title": "14.3.6 Suositus olla viittaamatta jäljempänä tulevaan tekstiin"
+ },
+ {
+  "id": "14-3-7-asetuksenantovaltuuksien-sijoittaminen",
+  "level": 4,
+  "title": "14.3.7 Asetuksenantovaltuuksien sijoittaminen"
+ },
+ {
+  "id": "14-4-liitteet",
+  "level": 3,
+  "title": "14.4 Liitteet"
+ },
+ {
+  "id": "14-4-1-liitteessä-säätäminen",
+  "level": 4,
+  "title": "14.4.1 Liitteessä säätäminen"
+ },
+ {
+  "id": "14-4-2-liitteen-kytkeminen-pykälätekstiin",
+  "level": 4,
+  "title": "14.4.2 Liitteen kytkeminen pykälätekstiin"
+ },
+ {
+  "id": "14-4-3-säädöshierarkia",
+  "level": 4,
+  "title": "14.4.3 Säädöshierarkia"
+ },
+ {
+  "id": "14-4-4-liitteen-rakenne-ja-liitteen-muuttaminen",
+  "level": 4,
+  "title": "14.4.4 Liitteen rakenne ja liitteen muuttaminen"
+ },
+ {
+  "id": "14-5-muutossäädöksen-rakenne",
+  "level": 3,
+  "title": "14.5 Muutossäädöksen rakenne"
+ },
+ {
+  "id": "14-5-1-muutossäädöksen-rakenteen-perusperiaatteet",
+  "level": 4,
+  "title": "14.5.1 Muutossäädöksen rakenteen perusperiaatteet"
+ },
+ {
+  "id": "14-5-2-muuttamatta-jäävän-momentin-tai-kohdan-merkitseminen",
+  "level": 4,
+  "title": "14.5.2 Muuttamatta jäävän momentin tai kohdan merkitseminen"
+ },
+ {
+  "id": "14-5-3-luvun-otsikot-ja-väliotsikot-muutossäädöksissä",
+  "level": 4,
+  "title": "14.5.3 Luvun otsikot ja väliotsikot muutossäädöksissä"
+ },
+ {
+  "id": "14-5-4-pykälän-muuttamisen-periaatteet",
+  "level": 4,
+  "title": "14.5.4 Pykälän muuttamisen periaatteet"
+ },
+ {
+  "id": "14-5-5-muutossäädöksen-voimaantulosäännöksen-sijoittaminen",
+  "level": 4,
+  "title": "14.5.5 Muutossäädöksen voimaantulosäännöksen sijoittaminen"
+ },
+ {
+  "id": "15-uusi-säädös-muutossäädös-vai-kumoamissäädös",
+  "level": 2,
+  "title": "15 Uusi säädös, muutossäädös vai kumoamissäädös"
+ },
+ {
+  "id": "15-1-uusi-säädös-ja-muutossäädös",
+  "level": 3,
+  "title": "15.1 Uusi säädös ja muutossäädös"
+ },
+ {
+  "id": "15-2-lain-muuttaminen",
+  "level": 3,
+  "title": "15.2 Lain muuttaminen"
+ },
+ {
+  "id": "15-3-muuttamiskelpoinen-säädös",
+  "level": 3,
+  "title": "15.3 Muuttamiskelpoinen säädös"
+ },
+ {
+  "id": "15-4-muutettavissa-olevat-säädöksen-osat",
+  "level": 3,
+  "title": "15.4 Muutettavissa olevat säädöksen osat"
+ },
+ {
+  "id": "15-5-paloiteltujen-muutosten-välttäminen",
+  "level": 3,
+  "title": "[15.5 Paloiteltujen muutosten välttäminen]"
+ },
+ {
+  "id": "15-6-säädöksen-muuttaminen-kumoamalla",
+  "level": 3,
+  "title": "15.6 Säädöksen muuttaminen kumoamalla"
+ },
+ {
+  "id": "15-7-säädöksen-muuttaminen-lisäämällä",
+  "level": 3,
+  "title": "15.7 Säädöksen muuttaminen lisäämällä"
+ },
+ {
+  "id": "2-luku",
+  "level": 5,
+  "title": "2 luku"
+ },
+ {
+  "id": "virkajärjestelyt",
+  "level": 5,
+  "title": "Virkajärjestelyt"
+ },
+ {
+  "id": "15-8-pykälien-siirtämättömyys-ja-momenttien-siirrettävyys",
+  "level": 3,
+  "title": "15.8 Pykälien siirtämättömyys ja momenttien siirrettävyys"
+ },
+ {
+  "id": "15-9-voimaantulosäännöksen-muuttaminen",
+  "level": 3,
+  "title": "15.9 Voimaantulosäännöksen muuttaminen"
+ },
+ {
+  "id": "15-10-pysyvä-ja-väliaikainen-muuttaminen",
+  "level": 3,
+  "title": "15.10 ”Pysyvä” ja väliaikainen muuttaminen"
+ },
+ {
+  "id": "15-11-muutossäädöksen-muuttaminen",
+  "level": 3,
+  "title": "15.11 Muutossäädöksen muuttaminen"
+ },
+ {
+  "id": "15-12-säädöksen-muuttaminen-ennen-sen-voimaantuloa",
+  "level": 3,
+  "title": "15.12 Säädöksen muuttaminen ennen sen voimaantuloa"
+ },
+ {
+  "id": "15-13-muutossäädöksen-voimaan-saattaminen",
+  "level": 3,
+  "title": "15.13 Muutossäädöksen voimaan saattaminen"
+ },
+ {
+  "id": "15-14-muutoslain-muuttaminen-ja-kumoaminen-ennen-sen-voimaan",
+  "level": 3,
+  "title": "15.14 Muutoslain muuttaminen ja kumoaminen ennen sen voimaantuloa sekä voimassa olevan lain muuttaminen ennen aikaisemmin annetun muutoslain voimaantuloa"
+ },
+ {
+  "id": "15-14-1-yleistä",
+  "level": 4,
+  "title": "15.14.1 Yleistä"
+ },
+ {
+  "id": "15-14-2-muutoslailla-voimaan-tulevan-oikeustilan-muuttaminen",
+  "level": 4,
+  "title": "15.14.2 Muutoslailla voimaan tulevan oikeustilan muuttaminen ennen muutoslain voimaantuloa"
+ },
+ {
+  "id": "15-14-3-väliaikaisella-lailla-kumoamisen-kielto",
+  "level": 4,
+  "title": "15.14.3 Väliaikaisella lailla kumoamisen kielto"
+ },
+ {
+  "id": "15-14-4-ennen-muutoslain-voimaantuloa-vallitsevan-oikeustila",
+  "level": 4,
+  "title": "15.14.4 Ennen muutoslain voimaantuloa vallitsevan oikeustilan muuttaminen"
+ },
+ {
+  "id": "15-14-5-ennen-muutoslain-voimaantuloa-vallitsevan-oikeustila",
+  "level": 4,
+  "title": "15.14.5 Ennen muutoslain voimaantuloa vallitsevan oikeustilan muuttaminen väliaikaisesti"
+ },
+ {
+  "id": "15-14-6",
+  "level": 4,
+  "title": "[15.14.6]"
+ },
+ {
+  "id": "15-15-kumoamissäädös",
+  "level": 3,
+  "title": "15.15 Kumoamissäädös"
+ },
+ {
+  "id": "15-16-kumoaminen-muutoslailla",
+  "level": 3,
+  "title": "15.16 Kumoaminen muutoslailla"
+ },
+ {
+  "id": "15-17-uudet-asetukset-ja-muutosasetukset",
+  "level": 3,
+  "title": "15.17 Uudet asetukset ja muutosasetukset"
+ },
+ {
+  "id": "15-18-rinnakkaiset-lainmuutosehdotukset",
+  "level": 3,
+  "title": "15.18 Rinnakkaiset lainmuutosehdotukset"
+ },
+ {
+  "id": "15-19-hallituksen-esityksen-täydentäminen",
+  "level": 3,
+  "title": "15.19 Hallituksen esityksen täydentäminen"
+ },
+ {
+  "id": "15-19-1-täydentävän-esityksen-antamisen-edellytykset",
+  "level": 4,
+  "title": "15.19.1 Täydentävän esityksen antamisen edellytykset"
+ },
+ {
+  "id": "15-19-2-täydentävän-esityksen-sisältö-ja-muoto",
+  "level": 4,
+  "title": "15.19.2 Täydentävän esityksen sisältö ja muoto"
+ },
+ {
+  "id": "15-19-3-täydentävän-esityksen-antaminen-ja-käsittely",
+  "level": 4,
+  "title": "15.19.3 Täydentävän esityksen antaminen ja käsittely"
+ },
+ {
+  "id": "15-20-hallituksen-esityksen-peruuttaminen",
+  "level": 3,
+  "title": "15.20 Hallituksen esityksen peruuttaminen"
+ },
+ {
+  "id": "16-säädöksen-nimike",
+  "level": 2,
+  "title": "16 Säädöksen nimike"
+ },
+ {
+  "id": "16-1-yleistä",
+  "level": 3,
+  "title": "16.1 Yleistä"
+ },
+ {
+  "id": "16-2-nimikkeelle-asetettavat-vaatimukset",
+  "level": 3,
+  "title": "16.2 Nimikkeelle asetettavat vaatimukset"
+ },
+ {
+  "id": "16-3-uuden-säädöksen-nimike",
+  "level": 3,
+  "title": "16.3 Uuden säädöksen nimike"
+ },
+ {
+  "id": "16-4-nimikkeen-muuttaminen",
+  "level": 3,
+  "title": "16.4 Nimikkeen muuttaminen"
+ },
+ {
+  "id": "16-5-viittaaminen-muutettuun-nimikkeeseen",
+  "level": 3,
+  "title": "16.5 Viittaaminen muutettuun nimikkeeseen"
+ },
+ {
+  "id": "16-6-lain-ja-asetuksen-nimike",
+  "level": 3,
+  "title": "16.6 Lain ja asetuksen nimike"
+ },
+ {
+  "id": "16-6-2-lakien-yhdyssananimikkeet",
+  "level": 4,
+  "title": "16.6.2 Lakien yhdyssananimikkeet"
+ },
+ {
+  "id": "16-6-3-suositus-välttää-sanaliittonimikkeitä",
+  "level": 4,
+  "title": "16.6.3 Suositus välttää sanaliittonimikkeitä"
+ },
+ {
+  "id": "16-6-4-todennäköisen-kutsumanimikkeen-arvioiminen",
+  "level": 4,
+  "title": "16.6.4 Todennäköisen kutsumanimikkeen arvioiminen"
+ },
+ {
+  "id": "16-6-5-lain-ja-asetuksen-nimikkeiden-yhdenmukaisuus",
+  "level": 4,
+  "title": "16.6.5 Lain ja asetuksen nimikkeiden yhdenmukaisuus"
+ },
+ {
+  "id": "16-6-6-poikkeukselliset-nimikkeet",
+  "level": 4,
+  "title": "16.6.6 Poikkeukselliset nimikkeet"
+ },
+ {
+  "id": "16-7-määräaikaisen-säädöksen-nimike",
+  "level": 3,
+  "title": "16.7 Määräaikaisen säädöksen nimike"
+ },
+ {
+  "id": "16-8-muutossäädöksen-nimike",
+  "level": 3,
+  "title": "16.8 Muutossäädöksen nimike"
+ },
+ {
+  "id": "16-8-1-muutossäädöksen-nimikkeen-muoto",
+  "level": 4,
+  "title": "16.8.1 Muutossäädöksen nimikkeen muoto"
+ },
+ {
+  "id": "16-8-2-nimikkeessä-käytettävä-muutettavan-säädöksen-nimike",
+  "level": 4,
+  "title": "16.8.2 Nimikkeessä käytettävä muutettavan säädöksen nimike"
+ },
+ {
+  "id": "16-8-3-vanhan-asetuksen-ja-päätöksen-muuttamista-koskevan-sä",
+  "level": 4,
+  "title": "16.8.3 Vanhan asetuksen ja päätöksen muuttamista koskevan säädöksen nimike"
+ },
+ {
+  "id": "16-8-4-lainkohtien-mainitseminen-muutossäädöksen-nimikkeessä",
+  "level": 4,
+  "title": "16.8.4 Lainkohtien mainitseminen muutossäädöksen nimikkeessä"
+ },
+ {
+  "id": "16-8-5-säädös-väliaikaisesta-muuttamisesta",
+  "level": 4,
+  "title": "16.8.5 Säädös \"väliaikaisesta muuttamisesta\""
+ },
+ {
+  "id": "16-9-kumoamissäädöksen-nimike",
+  "level": 3,
+  "title": "16.9 Kumoamissäädöksen nimike"
+ },
+ {
+  "id": "17-johtolause",
+  "level": 2,
+  "title": "17 Johtolause"
+ },
+ {
+  "id": "17-1-yleistä",
+  "level": 3,
+  "title": "17.1 Yleistä"
+ },
+ {
+  "id": "17-2-uuden-säädöksen-johtolause",
+  "level": 3,
+  "title": "17.2 Uuden säädöksen johtolause"
+ },
+ {
+  "id": "17-2-1-lain-johtolause",
+  "level": 4,
+  "title": "17.2.1 Lain johtolause"
+ },
+ {
+  "id": "17-2-2-tasavallan-presidentin-asetuksen-johtolause",
+  "level": 4,
+  "title": "17.2.2 Tasavallan presidentin asetuksen johtolause"
+ },
+ {
+  "id": "17-2-3-ahvenanmaan-itsehallintolain-32-n-nojalla-annettavan-",
+  "level": 4,
+  "title": "17.2.3 Ahvenanmaan itsehallintolain 32 §:n nojalla annettavan sopimusasetuksen johtolause"
+ },
+ {
+  "id": "17-2-4-valtioneuvoston-asetuksen-johtolause",
+  "level": 4,
+  "title": "17.2.4 Valtioneuvoston asetuksen johtolause"
+ },
+ {
+  "id": "17-2-5-ministeriön-asetuksen-johtolause",
+  "level": 4,
+  "title": "17.2.5 Ministeriön asetuksen johtolause"
+ },
+ {
+  "id": "17-3-muutossäädöksen-johtolause",
+  "level": 3,
+  "title": "17.3 Muutossäädöksen johtolause"
+ },
+ {
+  "id": "17-3-1-muutossäädöksen-johtolauseen-suuri-merkitys",
+  "level": 4,
+  "title": "17.3.1 Muutossäädöksen johtolauseen suuri merkitys"
+ },
+ {
+  "id": "17-3-2-muutossäädöksen-johtolauseen-rakenne",
+  "level": 4,
+  "title": "17.3.2 Muutossäädöksen johtolauseen rakenne"
+ },
+ {
+  "id": "17-3-3-kumottavien-ja-muutettavien-lainkohtien-yksilöinti",
+  "level": 4,
+  "title": "17.3.3 Kumottavien ja muutettavien lainkohtien yksilöinti"
+ },
+ {
+  "id": "17-3-4-aikaisemmin-muutetut-lainkohdat",
+  "level": 4,
+  "title": "17.3.4 Aikaisemmin muutetut lainkohdat"
+ },
+ {
+  "id": "17-3-5-lainkohtien-lisääminen",
+  "level": 4,
+  "title": "17.3.5 Lainkohtien lisääminen"
+ },
+ {
+  "id": "17-3-6-esimerkkejä-muutossäädösten-johtolauseista",
+  "level": 4,
+  "title": "17.3.6 Esimerkkejä muutossäädösten johtolauseista"
+ },
+ {
+  "id": "1",
+  "level": 5,
+  "title": "1 §"
+ },
+ {
+  "id": "18-lain-ja-asetuksen-alkusäännökset",
+  "level": 2,
+  "title": "18 Lain ja asetuksen alkusäännökset"
+ },
+ {
+  "id": "18-1-lain-aloittaminen",
+  "level": 3,
+  "title": "18.1 Lain aloittaminen"
+ },
+ {
+  "id": "18-1-1-yleistä",
+  "level": 4,
+  "title": "18.1.1 Yleistä"
+ },
+ {
+  "id": "18-1-2-lain-aloittaminen-keskeisimmällä-aineellisella-säännö",
+  "level": 4,
+  "title": "18.1.2 Lain aloittaminen keskeisimmällä aineellisella säännöksellä"
+ },
+ {
+  "id": "18-1-3-lain-aloittaminen-nimilappusäännöksellä",
+  "level": 4,
+  "title": "18.1.3 Lain aloittaminen nimilappusäännöksellä"
+ },
+ {
+  "id": "18-1-4-lain-aloittaminen-soveltamisalasäännöksellä",
+  "level": 4,
+  "title": "18.1.4 Lain aloittaminen soveltamisalasäännöksellä"
+ },
+ {
+  "id": "18-1-5-lain-aloittaminen-tavoitesäännöksellä",
+  "level": 4,
+  "title": "18.1.5 Lain aloittaminen tavoitesäännöksellä"
+ },
+ {
+  "id": "18-1-6-lain-aloittaminen-keskeisen-aineellisen-säännöksen-ja",
+  "level": 4,
+  "title": "18.1.6 Lain aloittaminen keskeisen aineellisen säännöksen ja tavoitesäännöksen yhdistelmällä"
+ },
+ {
+  "id": "18-1-7-virastoa-tai-laitosta-koskevan-lain-aloittaminen",
+  "level": 4,
+  "title": "18.1.7 Virastoa tai laitosta koskevan lain aloittaminen"
+ },
+ {
+  "id": "18-2-asetuksen-aloittaminen",
+  "level": 3,
+  "title": "18.2 Asetuksen aloittaminen"
+ },
+ {
+  "id": "18-2-1-yleistä",
+  "level": 4,
+  "title": "18.2.1 Yleistä"
+ },
+ {
+  "id": "18-2-2-asetuksen-aloittaminen-keskeisellä-aineellisella-sään",
+  "level": 4,
+  "title": "18.2.2 Asetuksen aloittaminen keskeisellä aineellisella säännöksellä"
+ },
+ {
+  "id": "18-2-3-asetuksen-aloittaminen-nimilappusäännöksellä",
+  "level": 4,
+  "title": "18.2.3 Asetuksen aloittaminen nimilappusäännöksellä"
+ },
+ {
+  "id": "18-2-4-vältettävä-asetuksen-aloittaminen-toistamalla-asetuks",
+  "level": 4,
+  "title": "18.2.4 Vältettävä asetuksen aloittaminen toistamalla asetuksen nimike"
+ },
+ {
+  "id": "18-2-5-asetuksen-aloittaminen-soveltamisalasäännöksellä",
+  "level": 4,
+  "title": "18.2.5 Asetuksen aloittaminen soveltamisalasäännöksellä"
+ },
+ {
+  "id": "18-2-6-vältettävä-asetuksen-aloittaminen-tavoite-tai-tarkoit",
+  "level": 4,
+  "title": "18.2.6 Vältettävä asetuksen aloittaminen tavoite- tai tarkoitussäännöksellä"
+ },
+ {
+  "id": "18-2-7-viittaaminen-lakiin-asetusta-aloitettaessa",
+  "level": 4,
+  "title": "18.2.7 Viittaaminen lakiin asetusta aloitettaessa"
+ },
+ {
+  "id": "18-2-8-lakiin-viittaamatta-jättäminen-asetusta-aloitettaessa",
+  "level": 4,
+  "title": "18.2.8 Lakiin viittaamatta jättäminen asetusta aloitettaessa"
+ },
+ {
+  "id": "19-säädöksiin-ja-määräyksiin-viittaaminen",
+  "level": 2,
+  "title": "19 Säädöksiin ja määräyksiin viittaaminen"
+ },
+ {
+  "id": "19-1-kansalliset-säädökset",
+  "level": 3,
+  "title": "19.1 Kansalliset säädökset"
+ },
+ {
+  "id": "19-1-1-säädösten-numerointi-suomen-säädöskokoelmassa",
+  "level": 4,
+  "title": "19.1.1 Säädösten numerointi Suomen säädöskokoelmassa"
+ },
+ {
+  "id": "19-1-2-säädöksiin-viittaaminen",
+  "level": 4,
+  "title": "19.1.2 Säädöksiin viittaaminen"
+ },
+ {
+  "id": "19-1-3-lainkohtiin-viittaaminen",
+  "level": 4,
+  "title": "19.1.3 Lainkohtiin viittaaminen"
+ },
+ {
+  "id": "19-2-euroopan-unionin-perussopimukset-ja-säädökset",
+  "level": 3,
+  "title": "19.2 Euroopan unionin perussopimukset ja säädökset"
+ },
+ {
+  "id": "19-2-1-perussopimukset",
+  "level": 4,
+  "title": "19.2.1 Perussopimukset"
+ },
+ {
+  "id": "19-2-2-säädöksiin-viittaaminen",
+  "level": 4,
+  "title": "19.2.2 Säädöksiin viittaaminen"
+ },
+ {
+  "id": "19-3-valtiosopimukset",
+  "level": 3,
+  "title": "19.3 Valtiosopimukset"
+ },
+ {
+  "id": "20-voimaantulo",
+  "level": 2,
+  "title": "20 Voimaantulo"
+ },
+ {
+  "id": "20-1-voimaantuloa-koskevat-perustuslain-säännökset",
+  "level": 3,
+  "title": "20.1 Voimaantuloa koskevat perustuslain säännökset"
+ },
+ {
+  "id": "20-1-1-lain-voimaantuloajankohdasta-säätäminen",
+  "level": 4,
+  "title": "20.1.1 Lain voimaantuloajankohdasta säätäminen"
+ },
+ {
+  "id": "20-1-2-asetuksen-voimaantuloajankohdasta-säätäminen",
+  "level": 4,
+  "title": "20.1.2 Asetuksen voimaantuloajankohdasta säätäminen"
+ },
+ {
+  "id": "20-1-3-kansainvälisen-velvoitteen-voimaan-saattaminen",
+  "level": 4,
+  "title": "20.1.3 Kansainvälisen velvoitteen voimaan saattaminen"
+ },
+ {
+  "id": "20-2-voimaantulosäännös",
+  "level": 3,
+  "title": "20.2 Voimaantulosäännös"
+ },
+ {
+  "id": "20-2-1-voimaantulosäännöksen-perusmuoto",
+  "level": 4,
+  "title": "20.2.1 Voimaantulosäännöksen perusmuoto"
+ },
+ {
+  "id": "20-2-2-erillinen-voimaanpanolaki",
+  "level": 4,
+  "title": "20.2.2 Erillinen voimaanpanolaki"
+ },
+ {
+  "id": "20-2-3-voimaantulosta-säätäminen-valtioneuvoston-asetuksella",
+  "level": 4,
+  "title": "20.2.3 Voimaantulosta säätäminen valtioneuvoston asetuksella"
+ },
+ {
+  "id": "20-2-4-kansainvälisen-velvoitteen-voimaantulo",
+  "level": 4,
+  "title": "20.2.4 Kansainvälisen velvoitteen voimaantulo"
+ },
+ {
+  "id": "20-2-5-poikkeuksellinen-voimaantulosäännös-muutettaessa-laki",
+  "level": 4,
+  "title": "20.2.5 Poikkeuksellinen voimaantulosäännös muutettaessa lakia ennen sen voimaantuloa"
+ },
+ {
+  "id": "20-2-6-voimaantulosäännöksen-sijoittaminen",
+  "level": 4,
+  "title": "20.2.6 Voimaantulosäännöksen sijoittaminen"
+ },
+ {
+  "id": "20-3-eräitä-muita-voimaantuloon-liittyviä-seikkoja",
+  "level": 3,
+  "title": "20.3 Eräitä muita voimaantuloon liittyviä seikkoja"
+ },
+ {
+  "id": "20-3-1-voimaantulon-selvittäminen-lakiehdotuksen-perusteluis",
+  "level": 4,
+  "title": "20.3.1 Voimaantulon selvittäminen lakiehdotuksen perusteluissa"
+ },
+ {
+  "id": "20-3-2-avopäiväyksen-käytön-rajoittaminen-lain-varsinaiseen-",
+  "level": 4,
+  "title": "20.3.2 Avopäiväyksen käytön rajoittaminen lain varsinaiseen voimaantuloajankohtaan"
+ },
+ {
+  "id": "20-3-3-voimaantuloajankohdan-määrääminen-lakia-vahvistettaes",
+  "level": 4,
+  "title": "20.3.3 Voimaantuloajankohdan määrääminen lakia vahvistettaessa"
+ },
+ {
+  "id": "20-4-voimaantulo-ja-soveltaminen",
+  "level": 3,
+  "title": "20.4 Voimaantulo ja soveltaminen"
+ },
+ {
+  "id": "20-4-1-voimaantuloa-ja-soveltamista-koskevat-perusperiaattee",
+  "level": 4,
+  "title": "20.4.1 Voimaantuloa ja soveltamista koskevat perusperiaatteet"
+ },
+ {
+  "id": "20-4-2-voimaantulon-ja-soveltamisen-porrastaminen",
+  "level": 4,
+  "title": "20.4.2 Voimaantulon ja soveltamisen porrastaminen"
+ },
+ {
+  "id": "21-siirtymäsäännökset",
+  "level": 2,
+  "title": "21 Siirtymäsäännökset"
+ },
+ {
+  "id": "21-1-vanhan-ja-uuden-säädöksen-soveltaminen-sekä-siirtymäsää",
+  "level": 3,
+  "title": "21.1 Vanhan ja uuden säädöksen soveltaminen sekä siirtymäsäännökset"
+ },
+ {
+  "id": "21-1-1-lain-siirtymäsäännökset",
+  "level": 3,
+  "title": "21.1.1 Lain siirtymäsäännökset"
+ },
+ {
+  "id": "21-1-2-asetusten-siirtymäsäännökset",
+  "level": 3,
+  "title": "21.1.2 Asetusten siirtymäsäännökset"
+ },
+ {
+  "id": "21-2-muutossäädöksen-voimaantulosäännös-ja-siirtymäsäännökse",
+  "level": 3,
+  "title": "21.2 Muutossäädöksen voimaantulosäännös ja siirtymäsäännökset"
+ },
+ {
+  "id": "21-3-tarpeeton-säännös-oikeudesta-ryhtyä-täytäntöönpanotoimi",
+  "level": 3,
+  "title": "21.3 Tarpeeton säännös oikeudesta ryhtyä täytäntöönpanotoimiin ennen lain voimaantuloa"
+ },
+ {
+  "id": "22-kumoamissäädökset-ja-kumoamissäännökset",
+  "level": 2,
+  "title": "22 Kumoamissäädökset ja kumoamissäännökset"
+ },
+ {
+  "id": "23-määritelmistä",
+  "level": 2,
+  "title": "23 Määritelmistä"
+ },
+ {
+  "id": "24-lakikieli",
+  "level": 2,
+  "title": "24 Lakikieli"
+ },
+ {
+  "id": "24-1-johdanto",
+  "level": 3,
+  "title": "24.1 Johdanto"
+ },
+ {
+  "id": "24-2-yleiset-vaatimukset-ja-ominaispiirteet",
+  "level": 3,
+  "title": "24.2 Yleiset vaatimukset ja ominaispiirteet"
+ },
+ {
+  "id": "24-2-1-yleiskielisyyden-vaatimus",
+  "level": 4,
+  "title": "24.2.1 Yleiskielisyyden vaatimus"
+ },
+ {
+  "id": "24-2-2-yleinen-hyvän-kielenkäytön-vaatimus",
+  "level": 4,
+  "title": "24.2.2 Yleinen hyvän kielenkäytön vaatimus"
+ },
+ {
+  "id": "24-2-3-lakikielen-erityiset-hyvän-kielenkäytön-vaatimukset",
+  "level": 4,
+  "title": "24.2.3 Lakikielen erityiset hyvän kielenkäytön vaatimukset"
+ },
+ {
+  "id": "24-2-4-lakikielen-erityisluonne",
+  "level": 4,
+  "title": "24.2.4 Lakikielen erityisluonne"
+ },
+ {
+  "id": "24-2-5-toisto-ja-tiiviys",
+  "level": 4,
+  "title": "24.2.5 Toisto ja tiiviys"
+ },
+ {
+  "id": "24-3-säätämisen-sanastoa",
+  "level": 3,
+  "title": "24.3 Säätämisen sanastoa"
+ },
+ {
+  "id": "24-3-1-säädös-säännös-ja-lainkohta-käsitteinä",
+  "level": 4,
+  "title": "24.3.1 Säädös, säännös ja lainkohta käsitteinä"
+ },
+ {
+  "id": "24-3-2-voimaantulosäännös-ilmaisuna",
+  "level": 4,
+  "title": "24.3.2 Voimaantulosäännös ilmaisuna"
+ },
+ {
+  "id": "24-3-3-säädetään-ja-määrätään-säännös-ja-määräys",
+  "level": 4,
+  "title": "24.3.3 Säädetään ja määrätään, säännös ja määräys"
+ },
+ {
+  "id": "24-3-4-säädetään-ei-on-säädetty",
+  "level": 4,
+  "title": "24.3.4 Säädetään, ei ”on säädetty”"
+ },
+ {
+  "id": "24-3-5-laki-ei-säädä-vaan-laissa-säädetään",
+  "level": 4,
+  "title": "24.3.5 Laki ei säädä, vaan laissa säädetään"
+ },
+ {
+  "id": "24-3-6-säädökseen-viittaaminen",
+  "level": 4,
+  "title": "24.3.6 Säädökseen viittaaminen"
+ },
+ {
+  "id": "24-3-7-säädöksen-kutsumanimike",
+  "level": 4,
+  "title": "24.3.7 Säädöksen kutsumanimike"
+ },
+ {
+  "id": "24-3-8-annettu-tehty",
+  "level": 4,
+  "title": "24.3.8 Annettu, tehty"
+ },
+ {
+  "id": "24-4-merkeistä-ja-taivutusmuodoista-lakikielessä",
+  "level": 3,
+  "title": "24.4 Merkeistä ja taivutusmuodoista lakikielessä"
+ },
+ {
+  "id": "24-4-1-pykälänmerkin-käyttö",
+  "level": 4,
+  "title": "24.4.1 Pykälänmerkin käyttö"
+ },
+ {
+  "id": "24-4-2-järjestysnumerot-ja-päivämäärät",
+  "level": 4,
+  "title": "24.4.2 Järjestysnumerot ja päivämäärät"
+ },
+ {
+  "id": "24-4-3-luvut",
+  "level": 4,
+  "title": "24.4.3 Luvut"
+ },
+ {
+  "id": "24-4-4-prosentit",
+  "level": 4,
+  "title": "24.4.4 Prosentit"
+ },
+ {
+  "id": "24-4-5-mittayksiköt",
+  "level": 4,
+  "title": "24.4.5 Mittayksiköt"
+ },
+ {
+  "id": "24-4-6-rahayksiköt",
+  "level": 4,
+  "title": "24.4.6 Rahayksiköt"
+ },
+ {
+  "id": "24-4-7-virkettä-ei-koskaan-aloiteta-numerolla",
+  "level": 4,
+  "title": "24.4.7 Virkettä ei koskaan aloiteta numerolla"
+ },
+ {
+  "id": "24-4-8-välimerkit-johdantokappaleissa-ja-kohdissa",
+  "level": 4,
+  "title": "24.4.8 Välimerkit johdantokappaleissa ja kohdissa"
+ },
+ {
+  "id": "24-4-9-lyhenteiden-käytön-kielto",
+  "level": 4,
+  "title": "24.4.9 Lyhenteiden käytön kielto"
+ },
+ {
+  "id": "24-4-10-poikkeukselliset-kirjainlyhenteet",
+  "level": 4,
+  "title": "24.4.10 Poikkeukselliset kirjainlyhenteet"
+ },
+ {
+  "id": "24-5-konjunktiot-ja-sekä-tai-ja-taikka",
+  "level": 3,
+  "title": "24.5 Konjunktiot ja, sekä, tai ja taikka"
+ },
+ {
+  "id": "24-6-sanajärjestys",
+  "level": 3,
+  "title": "24.6 Sanajärjestys"
+ },
+ {
+  "id": "24-7-sanojen-määrittelemisestä",
+  "level": 3,
+  "title": "24.7 Sanojen määrittelemisestä"
+ },
+ {
+  "id": "24-8-eräistä-lakikielelle-ominaisista-ilmaisuista",
+  "level": 3,
+  "title": "24.8 Eräistä lakikielelle ominaisista ilmaisuista"
+ },
+ {
+  "id": "24-8-1-mainittu-tarkoitettu-säädetty-mukainen",
+  "level": 4,
+  "title": "24.8.1 Mainittu, tarkoitettu, säädetty, mukainen"
+ },
+ {
+  "id": "24-8-2-mukaan-mukaisesti-nojalla-perusteella",
+  "level": 4,
+  "title": "24.8.2 Mukaan, mukaisesti, nojalla, perusteella"
+ },
+ {
+  "id": "liitteet",
+  "level": 2,
+  "title": "Liitteet"
+ },
+ {
+  "id": "1-lainvalmistelussa-tarvittavan-eu-tiedon-lähteitä",
+  "level": 3,
+  "title": "1 Lainvalmistelussa tarvittavan EU-tiedon lähteitä"
+ },
+ {
+  "id": "1-1-eu-lainsäädännön-viralliset-lähteet",
+  "level": 4,
+  "title": "1.1 EU-lainsäädännön viralliset lähteet"
+ },
+ {
+  "id": "1-2-eu-n-toimielinten-asiakirjat-ja-tietokannat",
+  "level": 4,
+  "title": "1.2 EU:n toimielinten asiakirjat ja tietokannat"
+ },
+ {
+  "id": "1-3-eduskunnan-ylläpitämät-tietolähdesivut",
+  "level": 4,
+  "title": "1.3 Eduskunnan ylläpitämät tietolähdesivut"
+ },
+ {
+  "id": "1-4-eu-n-tuomioistuimen-oikeuskäytäntö",
+  "level": 4,
+  "title": "1.4 EU:n tuomioistuimen oikeuskäytäntö"
+ },
+ {
+  "id": "1-5-eta-sopimus",
+  "level": 4,
+  "title": "1.5 ETA-sopimus"
+ },
+ {
+  "id": "1-6-muita-lähteitä",
+  "level": 4,
+  "title": "1.6 Muita lähteitä"
+ },
+ {
+  "id": "2-viittaaminen-eu-n-tuomioistuimen-oikeuskäytäntöön",
+  "level": 3,
+  "title": "2 Viittaaminen EU:n tuomioistuimen oikeuskäytäntöön"
+ },
+ {
+  "id": "3-eu-perusasiakirjojen-ja-säädösten-nimiä",
+  "level": 3,
+  "title": "3 EU: perusasiakirjojen ja säädösten nimiä"
+ },
+ {
+  "id": "3-1-eu-n-perustamissopimusten-niitä-muuttavien-sopimusten-ja",
+  "level": 4,
+  "title": "3.1 EU:n perustamissopimusten, niitä muuttavien sopimusten ja muiden perusasiakirjojen nimet"
+ },
+ {
+  "id": "3-2-eu-n-perussopimusten-hyväksymistä-ja-voimaansaattamista-",
+  "level": 4,
+  "title": "3.2 EU:n perussopimusten hyväksymistä ja voimaansaattamista koskevat säädökset ja hallituksen esitykset"
+ },
+ {
+  "id": "3-3-eu-säädösten-ja-niiden-osien-nimet",
+  "level": 4,
+  "title": "3.3 EU-säädösten ja niiden osien nimet"
+ },
+ {
+  "id": "4-eu-säädösten-täytäntöönpanoon-liittyvistä-vaikeuksista-ja-",
+  "level": 3,
+  "title": "4 EU-säädösten täytäntöönpanoon liittyvistä vaikeuksista ja täytäntöönpanoa edistävistä toimenpiteistä"
+ },
+ {
+  "id": "hakemisto",
+  "level": 3,
+  "title": "Hakemisto"
+ }
+]

@@ -1,0 +1,1367 @@
+[
+ {
+  "id": "gesetzestechnische-richtlinien-des-bundes-gtr",
+  "level": 2,
+  "title": "Gesetzestechnische Richtlinien des Bundes (GTR)"
+ },
+ {
+  "id": "stand-5-juni-2026",
+  "level": 3,
+  "title": "Stand 5. Juni 2026"
+ },
+ {
+  "id": "www-bk-admin-ch-dokumentation-rechtsetzungsbegleitung-gesetz",
+  "level": 4,
+  "title": "www.bk.admin.ch > Dokumentation > Rechtsetzungsbegleitung > Gesetzestechnische Richtlinien GTR"
+ },
+ {
+  "id": "herausgegeben-von-der-schweizerischen-bundeskanzlei",
+  "level": 4,
+  "title": "Herausgegeben von der Schweizerischen Bundeskanzlei"
+ },
+ {
+  "id": "inhaltsübersicht",
+  "level": 3,
+  "title": "Inhaltsübersicht"
+ },
+ {
+  "id": "anhang-1-gestaltung-von-gebührenverordnungen-und-von-gebühre",
+  "level": 5,
+  "title": "Anhang 1: Gestaltung von Gebührenverordnungen und von Gebühren- bestimmungen in anderen Verordnungen .............................................................. 138 Anhang 2: Gesetzestechnische Regeln zu Schengen/Dublin ................................... 141 Anhang 2a: Gestaltung von Bundesbeschlüssen über die Genehmigung völkerrechtlicher Verträge mit gleichzeitiger Umsetzung (Art. 141a BV) ............ 154 Anhang 3: Beispiel für einen Neuerlass ...................................................................... 161 Anhang 4: Beispiel für einen Änderungserlass .......................................................... 163"
+ },
+ {
+  "id": "inhaltsverzeichnis",
+  "level": 3,
+  "title": "Inhaltsverzeichnis"
+ },
+ {
+  "id": "gestaltung-von-gebührenverordnungen-und-von-gebühren-bestimm",
+  "level": 5,
+  "title": "Gestaltung von Gebührenverordnungen und von Gebühren- bestimmungen in anderen Verordnungen ............................................................................................. 138"
+ },
+ {
+  "id": "gesetzestechnische-regeln-zu-schengen-dublin-141",
+  "level": 5,
+  "title": "Gesetzestechnische Regeln zu Schengen/Dublin...................................................... 141"
+ },
+ {
+  "id": "gestaltung-von-bundesbeschlüssen-über-die-genehmigung-völker",
+  "level": 5,
+  "title": "Gestaltung von Bundesbeschlüssen über die Genehmigung völkerrechtlicher Verträge mit gleichzeitiger Umsetzung (Art. 141a BV) .......................................... 154"
+ },
+ {
+  "id": "beispiel-für-einen-änderungserlass-163",
+  "level": 5,
+  "title": "Beispiel für einen Änderungserlass ............................................................................ 163"
+ },
+ {
+  "id": "einleitung",
+  "level": 3,
+  "title": "Einleitung"
+ },
+ {
+  "id": "1-zweck-adressatinnen-und-adressaten",
+  "level": 3,
+  "title": "1. Zweck, Adressatinnen und Adressaten"
+ },
+ {
+  "id": "2-arbeiten-mit-den-gtr",
+  "level": 3,
+  "title": "2. Arbeiten mit den GTR"
+ },
+ {
+  "id": "3-neuerungen-in-der-vorliegenden-neuauflage",
+  "level": 3,
+  "title": "3. Neuerungen in der vorliegenden Neuauflage"
+ },
+ {
+  "id": "4-dienstleistungen-der-bundeskanzlei",
+  "level": 3,
+  "title": "4. Dienstleistungen der Bundeskanzlei"
+ },
+ {
+  "id": "weitere-arbeitsinstrumente",
+  "level": 3,
+  "title": "Weitere Arbeitsinstrumente"
+ },
+ {
+  "id": "abkürzungsverzeichnis",
+  "level": 3,
+  "title": "Abkürzungsverzeichnis"
+ },
+ {
+  "id": "1-teil-grundsätze-der-erlassgestaltung",
+  "level": 2,
+  "title": "1. Teil: Grundsätze der Erlassgestaltung"
+ },
+ {
+  "id": "1-titel-gliederung-nach-dem-inhalt",
+  "level": 3,
+  "title": "1. Titel: Gliederung nach dem Inhalt"
+ },
+ {
+  "id": "1-kapitel-erlasstitel",
+  "level": 3,
+  "title": "1. Kapitel: Erlasstitel"
+ },
+ {
+  "id": "verordnung-des-blw-über-die-kontrolle-von-traubenmosten-trau",
+  "level": 3,
+  "title": "Verordnung des BLW über die Kontrolle von Traubenmosten, Traubensäften und Weinen für die Ausfuhr"
+ },
+ {
+  "id": "bundesgesetz-über-die-verlagerung-des-alpenquerenden-gütersc",
+  "level": 3,
+  "title": "Bundesgesetz über die Verlagerung des alpenquerenden Güterschwerverkehrs von der Strasse auf die Schiene"
+ },
+ {
+  "id": "güterverkehrsverlagerungsgesetz-gvvg",
+  "level": 5,
+  "title": "(Güterverkehrsverlagerungsgesetz, GVVG)"
+ },
+ {
+  "id": "verordnung-des-edi-über-die-zuteilung-von-organen-zur-transp",
+  "level": 3,
+  "title": "Verordnung des EDI über die Zuteilung von Organen zur Transplantation"
+ },
+ {
+  "id": "organzuteilungsverordnung-edi",
+  "level": 5,
+  "title": "(Organzuteilungsverordnung EDI)"
+ },
+ {
+  "id": "verordnung-des-eth-rates-über-das-personal-im-bereich-der-ei",
+  "level": 3,
+  "title": "Verordnung des ETH-Rates über das Personal im Bereich der Eidgenössischen Technischen Hochschulen"
+ },
+ {
+  "id": "personalverordnung-eth-bereich-pvo-eth",
+  "level": 5,
+  "title": "(Personalverordnung ETH-Bereich, PVO-ETH)"
+ },
+ {
+  "id": "2-kapitel-ingress",
+  "level": 3,
+  "title": "2. Kapitel: Ingress"
+ },
+ {
+  "id": "bundesgesetz-entwurf-über-lebensmittel-und-gebrauchsgegenstä",
+  "level": 3,
+  "title": "Bundesgesetz Entwurf über Lebensmittel und Gebrauchsgegenstände"
+ },
+ {
+  "id": "lebensmittelgesetz-lmg",
+  "level": 5,
+  "title": "(Lebensmittelgesetz, LMG)"
+ },
+ {
+  "id": "bundesgesetz-über-die-kommission-zur-verhütung-von-folter",
+  "level": 3,
+  "title": "Bundesgesetz über die Kommission zur Verhütung von Folter"
+ },
+ {
+  "id": "verordnung-über-die-ausstellung-von-reisedokumenten-für-ausl",
+  "level": 3,
+  "title": "Verordnung über die Ausstellung von Reisedokumenten für ausländische Personen"
+ },
+ {
+  "id": "rdv",
+  "level": 5,
+  "title": "(RDV)"
+ },
+ {
+  "id": "verordnung-über-die-landessprachen-und-die-verständigung-zwi",
+  "level": 3,
+  "title": "Verordnung über die Landessprachen und die Verständigung zwischen den Sprachgemeinschaften"
+ },
+ {
+  "id": "sprachenverordnung-spv",
+  "level": 5,
+  "title": "(Sprachenverordnung, SpV)"
+ },
+ {
+  "id": "3-kapitel-einleitungsteil",
+  "level": 3,
+  "title": "3. Kapitel: Einleitungsteil"
+ },
+ {
+  "id": "4-kapitel-hauptteil",
+  "level": 3,
+  "title": "4. Kapitel: Hauptteil"
+ },
+ {
+  "id": "5-kapitel-schlussbestimmungen",
+  "level": 3,
+  "title": "5. Kapitel: Schlussbestimmungen"
+ },
+ {
+  "id": "gemeinsame-aspekte",
+  "level": 5,
+  "title": "(gemeinsame Aspekte)"
+ },
+ {
+  "id": "dringliche-veröffentlichung",
+  "level": 5,
+  "title": "dringliche Veröffentlichung"
+ },
+ {
+  "id": "6-kapitel-anhänge",
+  "level": 3,
+  "title": "6. Kapitel: Anhänge"
+ },
+ {
+  "id": "liste-der-zugelassenen-futtermittelzusatzstoffe-zusatzstoffl",
+  "level": 4,
+  "title": "Liste der zugelassenen Futtermittelzusatzstoffe (Zusatzstoffliste)"
+ },
+ {
+  "id": "2-titel-formale-gliederung-und-gestaltung",
+  "level": 3,
+  "title": "2. Titel: Formale Gliederung und Gestaltung"
+ },
+ {
+  "id": "1-kapitel-die-gliederungseinheiten-im-überblick",
+  "level": 3,
+  "title": "1. Kapitel: Die Gliederungseinheiten im Überblick"
+ },
+ {
+  "id": "2-kapitel-gliederungseinheiten-oberhalb-des-artikels-abschni",
+  "level": 3,
+  "title": "2. Kapitel: Gliederungseinheiten oberhalb des Artikels (Abschnitt, Kapitel, Titel, Teil)"
+ },
+ {
+  "id": "3-kapitel-gliederung-und-gestaltung-der-artikel",
+  "level": 3,
+  "title": "3. Kapitel: Gliederung und Gestaltung der Artikel"
+ },
+ {
+  "id": "absätze",
+  "level": 5,
+  "title": "Absätze"
+ },
+ {
+  "id": "aufzählungen-buchstaben-ziffern-striche",
+  "level": 5,
+  "title": "Aufzählungen (Buchstaben, Ziffern, Striche)"
+ },
+ {
+  "id": "sätze",
+  "level": 5,
+  "title": "Sätze"
+ },
+ {
+  "id": "4-kapitel-gliederung-und-gestaltung-der-anhänge",
+  "level": 3,
+  "title": "4. Kapitel: Gliederung und Gestaltung der Anhänge"
+ },
+ {
+  "id": "betäubung-durch-bolzenschuss",
+  "level": 4,
+  "title": "Betäubung durch Bolzenschuss"
+ },
+ {
+  "id": "1-anforderungen-an-geräte-und-munition",
+  "level": 5,
+  "title": "1 Anforderungen an Geräte und Munition"
+ },
+ {
+  "id": "aufhebung-und-änderung-anderer-erlasse",
+  "level": 4,
+  "title": "Aufhebung und Änderung anderer Erlasse"
+ },
+ {
+  "id": "3-titel-verweisung",
+  "level": 3,
+  "title": "3. Titel: Verweisung"
+ },
+ {
+  "id": "1-kapitel-allgemeine-bestimmungen",
+  "level": 3,
+  "title": "1. Kapitel: Allgemeine Bestimmungen"
+ },
+ {
+  "id": "2-kapitel-verweisung-innerhalb-eines-erlasses",
+  "level": 3,
+  "title": "2. Kapitel: Verweisung innerhalb eines Erlasses"
+ },
+ {
+  "id": "3-kapitel-verweisung-auf-andere-erlasse-innerhalb-von-as-und",
+  "level": 3,
+  "title": "3. Kapitel: Verweisung auf andere Erlasse innerhalb von AS und SR"
+ },
+ {
+  "id": "ausnahme-1-erlasse-die-immer-ohne-datum-zitiert-werden",
+  "level": 5,
+  "title": "Ausnahme 1: Erlasse, die immer ohne Datum zitiert werden"
+ },
+ {
+  "id": "ausnahme-2-verweisung-mittels-abkürzung-oder-inoffiziellem-k",
+  "level": 5,
+  "title": "Ausnahme 2: Verweisung mittels Abkürzung oder inoffiziellem Kurztitel"
+ },
+ {
+  "id": "ausnahme-3-verweisung-auf-erlasse-die-bereits-im-ingress-zit",
+  "level": 5,
+  "title": "Ausnahme 3: Verweisung auf Erlasse, die bereits im Ingress zitiert wurden"
+ },
+ {
+  "id": "ausnahme-4-wiederholte-verweisung-im-gleichen-artikel-oder-a",
+  "level": 5,
+  "title": "Ausnahme 4: Wiederholte Verweisung im gleichen Artikel oder Anhang"
+ },
+ {
+  "id": "ausnahme-5-fundstelle-in-as-und-bbl",
+  "level": 5,
+  "title": "Ausnahme 5: Fundstelle in AS und BBl"
+ },
+ {
+  "id": "4-kapitel-verweisung-auf-texte-ausserhalb-von-as-und-sr",
+  "level": 3,
+  "title": "4. Kapitel: Verweisung auf Texte ausserhalb von AS und SR"
+ },
+ {
+  "id": "ähnliches",
+  "level": 5,
+  "title": "Ähnliches"
+ },
+ {
+  "id": "4-titel-besondere-bestimmungen-für-die-verweisung-auf-eu-rec",
+  "level": 3,
+  "title": "4. Titel: Besondere Bestimmungen für die Verweisung auf EU-Recht"
+ },
+ {
+  "id": "1-kapitel-einführung",
+  "level": 3,
+  "title": "1. Kapitel: Einführung"
+ },
+ {
+  "id": "2-kapitel-ausgestaltung-von-verweisen",
+  "level": 3,
+  "title": "2. Kapitel: Ausgestaltung von Verweisen"
+ },
+ {
+  "id": "normalfall-kurzform-verweisung",
+  "level": 5,
+  "title": "Normalfall: Kurzform-Verweisung"
+ },
+ {
+  "id": "ausnahme-ausführliche-verweisung",
+  "level": 5,
+  "title": "Ausnahme: Ausführliche Verweisung"
+ },
+ {
+  "id": "mehrfach-zitiert-wird-grundsatz",
+  "level": 5,
+  "title": "mehrfach zitiert wird? Grundsatz"
+ },
+ {
+  "id": "ausnahme-1-verweis-mit-offiziellem-oder-inoffiziellem-kurzti",
+  "level": 5,
+  "title": "Ausnahme 1: Verweis mit offiziellem oder inoffiziellem Kurztitel"
+ },
+ {
+  "id": "ausnahme-2-im-ingress-angeführte-eu-rechtsakte",
+  "level": 5,
+  "title": "Ausnahme 2: im Ingress angeführte EU-Rechtsakte"
+ },
+ {
+  "id": "mehrfachverweis-im-gleichen-artikel",
+  "level": 5,
+  "title": "Mehrfachverweis im gleichen Artikel"
+ },
+ {
+  "id": "3-kapitel-umgang-mit-der-dynamik-des-eu-rechts-statische-ver",
+  "level": 3,
+  "title": "3. Kapitel: Umgang mit der Dynamik des EU-Rechts (statische Verweisung)"
+ },
+ {
+  "id": "4-kapitel-umgang-mit-berichtigungen-von-eu-rechtsakten",
+  "level": 3,
+  "title": "4. Kapitel: Umgang mit Berichtigungen von EU-Rechtsakten"
+ },
+ {
+  "id": "5-kapitel-ergänzende-hinweise-zur-gestaltung-der-verweise",
+  "level": 3,
+  "title": "5. Kapitel: Ergänzende Hinweise zur Gestaltung der Verweise"
+ },
+ {
+  "id": "6-kapitel-keine-angabe-von-bezugsquellen",
+  "level": 3,
+  "title": "6. Kapitel: Keine Angabe von Bezugsquellen"
+ },
+ {
+  "id": "5-titel-nennung-von-einheiten-der-bundesverwaltung",
+  "level": 3,
+  "title": "5. Titel: Nennung von Einheiten der Bundesverwaltung"
+ },
+ {
+  "id": "verwaltungseinheiten-beim-namen-nennen",
+  "level": 5,
+  "title": "Verwaltungseinheiten beim Namen nennen"
+ },
+ {
+  "id": "keine-nennung-von-einheiten-unterhalb-der-amtsstufe",
+  "level": 5,
+  "title": "Keine Nennung von Einheiten unterhalb der Amtsstufe"
+ },
+ {
+  "id": "verwendung-der-abkürzungen",
+  "level": 5,
+  "title": "Verwendung der Abkürzungen"
+ },
+ {
+  "id": "verordnung-des-edi-über-speisepilze-und-hefe",
+  "level": 3,
+  "title": "Verordnung des EDI über Speisepilze und Hefe"
+ },
+ {
+  "id": "2-teil-erlassformen",
+  "level": 2,
+  "title": "2. Teil: Erlassformen"
+ },
+ {
+  "id": "1-titel-übersicht-über-die-erlassformen-der-bundesversammlun",
+  "level": 3,
+  "title": "1. Titel: Übersicht über die Erlassformen der Bundesversammlung"
+ },
+ {
+  "id": "obligatorisches-referendum-fakultatives-referendum-ohne-refe",
+  "level": 5,
+  "title": "obligatorisches Referendum fakultatives Referendum ohne Referendum"
+ },
+ {
+  "id": "2-titel-bundesgesetze-und-verordnungen-der-bundesver-sammlun",
+  "level": 3,
+  "title": "2. Titel: Bundesgesetze und Verordnungen der Bundesver- sammlung"
+ },
+ {
+  "id": "1-kapitel-titel",
+  "level": 3,
+  "title": "1. Kapitel: Titel"
+ },
+ {
+  "id": "2-kapitel-ingress-2",
+  "level": 3,
+  "title": "2. Kapitel: Ingress"
+ },
+ {
+  "id": "bundesgesetz-über-die-förderung-des-exports",
+  "level": 3,
+  "title": "Bundesgesetz über die Förderung des Exports"
+ },
+ {
+  "id": "exportförderungsgesetz",
+  "level": 5,
+  "title": "(Exportförderungsgesetz)"
+ },
+ {
+  "id": "bundesgesetz-über-die-mehrwertsteuer",
+  "level": 3,
+  "title": "Bundesgesetz über die Mehrwertsteuer"
+ },
+ {
+  "id": "mehrwertsteuergesetz-mwstg",
+  "level": 5,
+  "title": "(Mehrwertsteuergesetz, MWSTG)"
+ },
+ {
+  "id": "verordnung-der-bundesversammlung-über-sofortmassnahmen-zur-b",
+  "level": 3,
+  "title": "Verordnung der Bundesversammlung über Sofortmassnahmen zur Bewältigung der vom Orkan «Lothar» verursachten Waldschäden"
+ },
+ {
+  "id": "3-kapitel-schlussbestimmungen",
+  "level": 3,
+  "title": "3. Kapitel: Schlussbestimmungen"
+ },
+ {
+  "id": "16651-für-nicht-dringliche-bundesgesetze-die-einen-indirekte",
+  "level": 5,
+  "title": "16651 Für nicht dringliche Bundesgesetze, die einen indirekten Gegenvorschlag zu einer Volksinitiative darstellen"
+ },
+ {
+  "id": "16752-für-dringlich-erklärte-bundesgesetze-mit-verfassungsgr",
+  "level": 5,
+  "title": "16752 Für dringlich erklärte Bundesgesetze mit Verfassungsgrundlage und einer Geltungsdauer von mehr als einem Jahr (fakultatives Referendum)"
+ },
+ {
+  "id": "einer-geltungsdauer-von-mehr-als-einem-jahr-obligatorisches-",
+  "level": 5,
+  "title": "einer Geltungsdauer von mehr als einem Jahr (obligatorisches Referendum)"
+ },
+ {
+  "id": "tens-einem-jahr-kein-referendum",
+  "level": 5,
+  "title": "tens einem Jahr (kein Referendum)"
+ },
+ {
+  "id": "für-die-inkraftsetzung-zuständiges-organ-bundesrat-oder-parl",
+  "level": 5,
+  "title": "Für die Inkraftsetzung zuständiges Organ (Bundesrat oder Parlament)"
+ },
+ {
+  "id": "rückwirkende-inkraftsetzung",
+  "level": 5,
+  "title": "Rückwirkende Inkraftsetzung"
+ },
+ {
+  "id": "inkraftsetzung-dringlicher-bundesgesetze",
+  "level": 5,
+  "title": "Inkraftsetzung dringlicher Bundesgesetze"
+ },
+ {
+  "id": "gestaffeltes-inkrafttreten",
+  "level": 5,
+  "title": "Gestaffeltes Inkrafttreten"
+ },
+ {
+  "id": "teilinkraftsetzungsverordnungen-sonderfall-des-gestaffelten-",
+  "level": 5,
+  "title": "Teilinkraftsetzungsverordnungen (Sonderfall des gestaffelten Inkrafttre- tens)"
+ },
+ {
+  "id": "verordnung-über-eine-teilinkraftsetzung-des-gesetzes-der-änd",
+  "level": 3,
+  "title": "Verordnung über eine Teilinkraftsetzung des …gesetzes / der Änderung vom … des …gesetzes"
+ },
+ {
+  "id": "verordnung-über-die-abschliessende-inkraftsetzung-des-gesetz",
+  "level": 3,
+  "title": "Verordnung über die abschliessende Inkraftsetzung des …gesetzes / der Änderung vom … des …gesetzes"
+ },
+ {
+  "id": "verordnung-über-eine-teilinkraftsetzung-des-mehrwertsteuerge",
+  "level": 3,
+  "title": "Verordnung über eine Teilinkraftsetzung des Mehrwertsteuergesetzes"
+ },
+ {
+  "id": "verordnung-über-die-abschliessende-inkraftsetzung-der-änderu",
+  "level": 3,
+  "title": "Verordnung über die abschliessende Inkraftsetzung der Änderung vom 16. Dezember 2005 des Bundesgesetzes über die Krankenversi- cherung"
+ },
+ {
+  "id": "art-82a-des-asylgesetzes",
+  "level": 5,
+  "title": "(Art. 82a des Asylgesetzes)"
+ },
+ {
+  "id": "3-titel-bundesbeschlüsse",
+  "level": 3,
+  "title": "3. Titel: Bundesbeschlüsse"
+ },
+ {
+  "id": "1-kapitel-titel-2",
+  "level": 3,
+  "title": "1. Kapitel: Titel"
+ },
+ {
+  "id": "behördenvorlagen",
+  "level": 5,
+  "title": "Behördenvorlagen"
+ },
+ {
+  "id": "bundesbeschluss-über-die-neuordnung-der-verfassungsbestimmun",
+  "level": 3,
+  "title": "Bundesbeschluss über die Neuordnung der Verfassungsbestimmungen zur Bildung"
+ },
+ {
+  "id": "bundesbeschluss-zur-schaffung-einer-spezialfinanzierung-für-",
+  "level": 3,
+  "title": "Bundesbeschluss zur Schaffung einer Spezialfinanzierung für Aufgaben im Luftverkehr"
+ },
+ {
+  "id": "volksinitiativen",
+  "level": 5,
+  "title": "Volksinitiativen"
+ },
+ {
+  "id": "bundesbeschluss-über-die-volksinitiative-für-den-schutz-vor-",
+  "level": 3,
+  "title": "Bundesbeschluss über die Volksinitiative «Für den Schutz vor Waffengewalt»"
+ },
+ {
+  "id": "volksinitiativen-mit-direktem-gegenentwurf-oder-indirektem-g",
+  "level": 5,
+  "title": "Volksinitiativen mit direktem Gegenentwurf oder indirektem Gegenvorschlag"
+ },
+ {
+  "id": "bundesbeschluss",
+  "level": 3,
+  "title": "Bundesbeschluss"
+ },
+ {
+  "id": "über-die-aus-und-wegweisung-krimineller-ausländerinnen-und-a",
+  "level": 5,
+  "title": "über die Aus- und Wegweisung krimineller Ausländerinnen und Ausländer im Rahmen der Bundesverfassung (direkter Gegenentwurf zur Volksinitiative «Für die Ausschaffung krimineller Ausländer [Ausschaffungsinitiative]»)"
+ },
+ {
+  "id": "beschlüssen-internationaler-organisationen",
+  "level": 5,
+  "title": "Beschlüssen internationaler Organisationen"
+ },
+ {
+  "id": "bundesbeschluss-über-die-genehmigung-des-abkommens-zwischen-",
+  "level": 3,
+  "title": "Bundesbeschluss über die Genehmigung des Abkommens zwischen der Schweiz und Serbien über die polizeiliche Zusammenarbeit bei der Bekämpfung der Kriminalität"
+ },
+ {
+  "id": "bundesbeschluss-über-die-genehmigung-und-die-umsetzung-des-ü",
+  "level": 3,
+  "title": "Bundesbeschluss über die Genehmigung und die Umsetzung des Übereinkommens des Europarates über die Cyberkriminalität"
+ },
+ {
+  "id": "bundesbeschluss-2",
+  "level": 3,
+  "title": "Bundesbeschluss"
+ },
+ {
+  "id": "über-die-genehmigung-des-übereinkommens-des-europarates-zum-",
+  "level": 5,
+  "title": "über die Genehmigung des Übereinkommens des Europarates zum Schutz von Kindern vor sexueller Ausbeutung und sexuellem Missbrauch (Lanzarote- Konvention) und über seine Umsetzung (Änderung des Strafgesetzbuchs)"
+ },
+ {
+  "id": "bundesbeschluss-3",
+  "level": 3,
+  "title": "Bundesbeschluss"
+ },
+ {
+  "id": "über-die-genehmigung-des-zusatzprotokolls-vom-24-januar-2002",
+  "level": 5,
+  "title": "über die Genehmigung des Zusatzprotokolls vom 24. Januar 2002 über die Transplantation menschlicher Organe und Gewebe zum Übereinkommen vom 4. April 1997 über Menschenrechte und Biomedizin"
+ },
+ {
+  "id": "2-kapitel-ingress-3",
+  "level": 3,
+  "title": "2. Kapitel: Ingress"
+ },
+ {
+  "id": "bundesbeschluss-über-einen-verfassungsartikel-über-die-forsc",
+  "level": 3,
+  "title": "Bundesbeschluss über einen Verfassungsartikel über die Forschung am Menschen"
+ },
+ {
+  "id": "bundesbeschluss-über-die-volksinitiative-jugend-musik",
+  "level": 3,
+  "title": "Bundesbeschluss über die Volksinitiative «jugend + musik»"
+ },
+ {
+  "id": "bundesbeschluss-über-die-jugendmusikförderung-direkter-gegen",
+  "level": 3,
+  "title": "Bundesbeschluss über die Jugendmusikförderung (direkter Gegenentwurf zur Volksinitiative «jugend + musik»)"
+ },
+ {
+  "id": "bundesbeschluss-über-die-gewährleistung-der-verfassung-des-k",
+  "level": 3,
+  "title": "Bundesbeschluss über die Gewährleistung der Verfassung des Kantons Luzern"
+ },
+ {
+  "id": "bundesbeschluss-über-die-finanzierung-der-wirtschafts-und-ha",
+  "level": 3,
+  "title": "Bundesbeschluss über die Finanzierung der wirtschafts- und handelspolitischen Massnahmen im Rahmen der Entwicklungszusammenarbeit"
+ },
+ {
+  "id": "3-kapitel-formale-gliederung",
+  "level": 3,
+  "title": "3. Kapitel: Formale Gliederung"
+ },
+ {
+  "id": "4-kapitel-inhalt-und-typische-formulierungen",
+  "level": 3,
+  "title": "4. Kapitel: Inhalt und typische Formulierungen"
+ },
+ {
+  "id": "genehmigung-des-vertrags",
+  "level": 5,
+  "title": "Genehmigung des Vertrags"
+ },
+ {
+  "id": "bundesbeschluss-über-die-genehmigung-des-abkommens-zwischen--2",
+  "level": 3,
+  "title": "Bundesbeschluss über die Genehmigung des Abkommens zwischen der Schweiz und Serbien über die polizeiliche Zusammenarbeit bei der Bekämpfung der Kriminalität"
+ },
+ {
+  "id": "ratifikation-beitritt",
+  "level": 5,
+  "title": "Ratifikation – Beitritt"
+ },
+ {
+  "id": "vorbehalte-und-erklärungen",
+  "level": 5,
+  "title": "Vorbehalte und Erklärungen"
+ },
+ {
+  "id": "rückzug-von-vorbehalten",
+  "level": 5,
+  "title": "Rückzug von Vorbehalten"
+ },
+ {
+  "id": "umsetzung-art-141a-bv",
+  "level": 5,
+  "title": "Umsetzung (Art. 141a BV)"
+ },
+ {
+  "id": "5-kapitel-schlussbestimmungen-2",
+  "level": 3,
+  "title": "5. Kapitel: Schlussbestimmungen"
+ },
+ {
+  "id": "bundesbeschluss-über-eine-teilrevision-der-bundesverfassung",
+  "level": 5,
+  "title": "Bundesbeschluss über eine Teilrevision der Bundesverfassung"
+ },
+ {
+  "id": "bundesbeschluss-über-eine-volksinitiative",
+  "level": 5,
+  "title": "Bundesbeschluss über eine Volksinitiative"
+ },
+ {
+  "id": "bundesbeschluss-über-eine-volksinitiative-der-ein-direkter-g",
+  "level": 5,
+  "title": "Bundesbeschluss über eine Volksinitiative, der ein direkter Gegenentwurf gegenübergestellt wird"
+ },
+ {
+  "id": "bundesbeschluss-über-den-direkten-gegenentwurf",
+  "level": 5,
+  "title": "Bundesbeschluss über den direkten Gegenentwurf"
+ },
+ {
+  "id": "der-dem-obligatorischen-referendum-untersteht",
+  "level": 5,
+  "title": "der dem obligatorischen Referendum untersteht"
+ },
+ {
+  "id": "der-dem-fakultativen-referendum-untersteht",
+  "level": 5,
+  "title": "der dem fakultativen Referendum untersteht"
+ },
+ {
+  "id": "bundesbeschluss-über-die-genehmigung-völkerrechtlicher-vertr",
+  "level": 5,
+  "title": "Bundesbeschluss über die Genehmigung völkerrechtlicher Verträge mit gleichzeitiger Umsetzung (Art. 141a BV)"
+ },
+ {
+  "id": "einfacher-bundesbeschluss",
+  "level": 5,
+  "title": "Einfacher Bundesbeschluss"
+ },
+ {
+  "id": "4-titel-verordnungen-des-bundesrates-der-bundesverwal-tung-s",
+  "level": 3,
+  "title": "4. Titel: Verordnungen des Bundesrates, der Bundesverwal- tung sowie weiterer Stellen"
+ },
+ {
+  "id": "1-kapitel-titel-3",
+  "level": 3,
+  "title": "1. Kapitel: Titel"
+ },
+ {
+  "id": "2-kapitel-ingress-4",
+  "level": 3,
+  "title": "2. Kapitel: Ingress"
+ },
+ {
+  "id": "verordnung-über-die-produktesicherheit",
+  "level": 3,
+  "title": "Verordnung über die Produktesicherheit"
+ },
+ {
+  "id": "prsv",
+  "level": 5,
+  "title": "(PrSV)"
+ },
+ {
+  "id": "3-kapitel-gliederung-und-gestaltung",
+  "level": 3,
+  "title": "3. Kapitel: Gliederung und Gestaltung"
+ },
+ {
+  "id": "4-kapitel-schlussbestimmungen",
+  "level": 3,
+  "title": "4. Kapitel: Schlussbestimmungen"
+ },
+ {
+  "id": "allgemeine-bestimmungen",
+  "level": 5,
+  "title": "Allgemeine Bestimmungen"
+ },
+ {
+  "id": "gestaffeltes-inkrafttreten-2",
+  "level": 5,
+  "title": "Gestaffeltes Inkrafttreten"
+ },
+ {
+  "id": "5-titel-verwaltungsverordnungen-des-bundesrates-der-departem",
+  "level": 3,
+  "title": "5. Titel: Verwaltungsverordnungen des Bundesrates, der Departemente und der Ämter"
+ },
+ {
+  "id": "1-kapitel-allgemeine-bestimmungen-2",
+  "level": 3,
+  "title": "1. Kapitel: Allgemeine Bestimmungen"
+ },
+ {
+  "id": "2-kapitel-gesetzestechnische-gestaltung",
+  "level": 3,
+  "title": "2. Kapitel: Gesetzestechnische Gestaltung"
+ },
+ {
+  "id": "3-teil-änderungserlasse",
+  "level": 2,
+  "title": "3. Teil: Änderungserlasse"
+ },
+ {
+  "id": "1-titel-allgemeine-bestimmungen",
+  "level": 3,
+  "title": "1. Titel: Allgemeine Bestimmungen"
+ },
+ {
+  "id": "1-kapitel-begriff-der-änderung",
+  "level": 3,
+  "title": "1. Kapitel: Begriff der Änderung"
+ },
+ {
+  "id": "2-kapitel-parallelität-der-form",
+  "level": 3,
+  "title": "2. Kapitel: Parallelität der Form"
+ },
+ {
+  "id": "verordnung-über-die-transplantation-von-menschlichen-organen",
+  "level": 3,
+  "title": "Verordnung über die Transplantation von menschlichen Organen, Geweben und Zellen"
+ },
+ {
+  "id": "transplantationsverordnung",
+  "level": 5,
+  "title": "(Transplantationsverordnung)"
+ },
+ {
+  "id": "verordnung-über-die-anpassung-gesetzlicher-bestimmungen-info",
+  "level": 3,
+  "title": "Verordnung über die Anpassung gesetzlicher Bestimmungen infolge der Schaffung des Nachrichtendienstes des Bundes"
+ },
+ {
+  "id": "sicherheit",
+  "level": 5,
+  "title": "Sicherheit"
+ },
+ {
+  "id": "verordnung-über-die-transplantation-von-menschlichen-organen-2",
+  "level": 3,
+  "title": "Verordnung über die Transplantation von menschlichen Organen, Geweben und Zellen"
+ },
+ {
+  "id": "transplantationsverordnung-2",
+  "level": 5,
+  "title": "(Transplantationsverordnung)"
+ },
+ {
+  "id": "änderung-vom-12-januar-2010",
+  "level": 5,
+  "title": "Änderung vom 12. Januar 2010"
+ },
+ {
+  "id": "3-kapitel-teilrevision-oder-totalrevision",
+  "level": 3,
+  "title": "3. Kapitel: Teilrevision oder Totalrevision"
+ },
+ {
+  "id": "4-kapitel-änderung-mehrerer-erlasse",
+  "level": 3,
+  "title": "4. Kapitel: Änderung mehrerer Erlasse"
+ },
+ {
+  "id": "5-kapitel-mantelerlass",
+  "level": 3,
+  "title": "5. Kapitel: Mantelerlass"
+ },
+ {
+  "id": "bundesgesetz-über-die-steuerliche-entlastung-von-familien-mi",
+  "level": 3,
+  "title": "Bundesgesetz über die steuerliche Entlastung von Familien mit Kindern"
+ },
+ {
+  "id": "steuern-der-kantone-und-gemeinden",
+  "level": 5,
+  "title": "Steuern der Kantone und Gemeinden"
+ },
+ {
+  "id": "6-kapitel-suspendierung-und-vorübergehende-änderung",
+  "level": 3,
+  "title": "6. Kapitel: Suspendierung und vorübergehende Änderung"
+ },
+ {
+  "id": "2-titel-formale-gestaltung-von-änderungserlassen",
+  "level": 3,
+  "title": "2. Titel: Formale Gestaltung von Änderungserlassen"
+ },
+ {
+  "id": "1-kapitel-titel-4",
+  "level": 3,
+  "title": "1. Kapitel: Titel"
+ },
+ {
+  "id": "verordnung-über-die-anpassung-gesetzlicher-bestimmungen-info-2",
+  "level": 3,
+  "title": "Verordnung über die Anpassung gesetzlicher Bestimmungen infolge der Schaffung des Nachrichtendienstes des Bundes"
+ },
+ {
+  "id": "schweizerisches-zivilgesetzbuch",
+  "level": 3,
+  "title": "Schweizerisches Zivilgesetzbuch"
+ },
+ {
+  "id": "erwachsenenschutz-personenrecht-und-kindesrecht",
+  "level": 5,
+  "title": "(Erwachsenenschutz, Personenrecht und Kindesrecht)"
+ },
+ {
+  "id": "änderung-vom-19-dezember-2008",
+  "level": 5,
+  "title": "Änderung vom 19. Dezember 2008"
+ },
+ {
+  "id": "verordnung-über-die-krankenversicherung",
+  "level": 3,
+  "title": "Verordnung über die Krankenversicherung"
+ },
+ {
+  "id": "kvv-kosten-und-qualitätsziele",
+  "level": 5,
+  "title": "(KVV) (Kosten- und Qualitätsziele)"
+ },
+ {
+  "id": "änderung-vom-26-november-2025",
+  "level": 5,
+  "title": "Änderung vom 26. November 2025"
+ },
+ {
+  "id": "2-kapitel-ingress-5",
+  "level": 3,
+  "title": "2. Kapitel: Ingress"
+ },
+ {
+  "id": "3-kapitel-gliederung-und-gestaltung-2",
+  "level": 3,
+  "title": "3. Kapitel: Gliederung und Gestaltung"
+ },
+ {
+  "id": "bundesgesetz-über-die-forschung",
+  "level": 3,
+  "title": "Bundesgesetz über die Forschung"
+ },
+ {
+  "id": "forschungsgesetz-fg-änderung-vom-25-september-2009",
+  "level": 5,
+  "title": "(Forschungsgesetz, FG) Änderung vom 25. September 2009"
+ },
+ {
+  "id": "verordnungskompetenz",
+  "level": 5,
+  "title": "Verordnungskompetenz"
+ },
+ {
+  "id": "länderliste",
+  "level": 4,
+  "title": "Länderliste"
+ },
+ {
+  "id": "daten-des-fai-pis",
+  "level": 4,
+  "title": "Daten des FAI-PIS"
+ },
+ {
+  "id": "daten-des-medis-lw",
+  "level": 4,
+  "title": "Daten des MEDIS LW"
+ },
+ {
+  "id": "daten-des-pisa",
+  "level": 4,
+  "title": "Daten des PISA"
+ },
+ {
+  "id": "4-kapitel-gestaltung-und-kennzeichnung-neuer-bestimmun-gen",
+  "level": 3,
+  "title": "4. Kapitel: Gestaltung und Kennzeichnung neuer Bestimmun- gen"
+ },
+ {
+  "id": "5-kapitel-gestaltung-geänderter-bestimmungen",
+  "level": 3,
+  "title": "5. Kapitel: Gestaltung geänderter Bestimmungen"
+ },
+ {
+  "id": "6-kapitel-bezeichnung-aufgehobener-bestimmungen",
+  "level": 3,
+  "title": "6. Kapitel: Bezeichnung aufgehobener Bestimmungen"
+ },
+ {
+  "id": "7-kapitel-aufhebungserlasse",
+  "level": 3,
+  "title": "7. Kapitel: Aufhebungserlasse"
+ },
+ {
+  "id": "verordnung-über-den-ausgleich-der-folgen-der-kalten-progress",
+  "level": 3,
+  "title": "Verordnung über den Ausgleich der Folgen der kalten Progression für die natürlichen Personen bei der direkten Bundessteuer"
+ },
+ {
+  "id": "verordnung-über-die-kalte-progression-vkp",
+  "level": 5,
+  "title": "(Verordnung über die kalte Progression, VKP)"
+ },
+ {
+  "id": "aufhebung-vom-30-juni-2010",
+  "level": 5,
+  "title": "Aufhebung vom 30. Juni 2010"
+ },
+ {
+  "id": "verordnung-über-kopfsalat",
+  "level": 3,
+  "title": "Verordnung über Kopfsalat"
+ },
+ {
+  "id": "aufhebung-vom-2-mai-2012",
+  "level": 5,
+  "title": "Aufhebung vom 2. Mai 2012"
+ },
+ {
+  "id": "3-titel-anpassung-von-bundesgesetzen-die-im-ingress-noch-die",
+  "level": 3,
+  "title": "3. Titel: Anpassung von Bundesgesetzen, die im Ingress noch die Bundesverfassung von 1874 nennen"
+ },
+ {
+  "id": "4-titel-änderung-allgemeinverbindlicher-bundesbeschlüsse",
+  "level": 3,
+  "title": "4. Titel: Änderung allgemeinverbindlicher Bundesbeschlüsse"
+ },
+ {
+  "id": "1-kapitel-allgemeine-bestimmungen-3",
+  "level": 3,
+  "title": "1. Kapitel: Allgemeine Bestimmungen"
+ },
+ {
+  "id": "2-kapitel-totalrevision",
+  "level": 3,
+  "title": "2. Kapitel: Totalrevision"
+ },
+ {
+  "id": "3-kapitel-teilrevision",
+  "level": 3,
+  "title": "3. Kapitel: Teilrevision"
+ },
+ {
+  "id": "bundesgesetz-über-die-änderung-des-bundesbeschlusses-zugunst",
+  "level": 3,
+  "title": "Bundesgesetz über die Änderung des Bundesbeschlusses zugunsten wirtschaftli- cher Erneuerungsgebiete"
+ },
+ {
+  "id": "verordnung-der-bundesversammlung-über-die-änderung-des-bunde",
+  "level": 3,
+  "title": "Verordnung der Bundesversammlung über die Änderung des Bundesbeschlusses über das Reglement des Fonds für die Eisenbahngrossprojekte"
+ },
+ {
+  "id": "bundesgesetz-über-die-änderung-des-bundesbeschlusses-über-di",
+  "level": 3,
+  "title": "Bundesgesetz über die Änderung des Bundesbeschlusses über die Unterstützung des Strukturwandels im ländlichen Raum"
+ },
+ {
+  "id": "gestaltung-von-gebührenverordnungen-und-von-gebühren-bestimm-2",
+  "level": 3,
+  "title": "Gestaltung von Gebührenverordnungen und von Gebühren- bestimmungen in anderen Verordnungen"
+ },
+ {
+  "id": "1-titel",
+  "level": 3,
+  "title": "1. Titel"
+ },
+ {
+  "id": "2-kurztitel",
+  "level": 3,
+  "title": "2. Kurztitel"
+ },
+ {
+  "id": "3-abkürzungen-der-titel",
+  "level": 3,
+  "title": "3. Abkürzungen der Titel"
+ },
+ {
+  "id": "4-ingress",
+  "level": 3,
+  "title": "4. Ingress"
+ },
+ {
+  "id": "5-wie-soll-man-anfangen",
+  "level": 3,
+  "title": "5. Wie soll man anfangen?"
+ },
+ {
+  "id": "6-verweis-auf-die-allgemeine-gebührenverordnung-allggebv",
+  "level": 3,
+  "title": "6. Verweis auf die Allgemeine Gebührenverordnung (AllgGebV)"
+ },
+ {
+  "id": "7-typische-formulierungen",
+  "level": 3,
+  "title": "7. Typische Formulierungen"
+ },
+ {
+  "id": "gesetzestechnische-regeln-zu-schengen-dublin",
+  "level": 3,
+  "title": "Gesetzestechnische Regeln zu Schengen/Dublin"
+ },
+ {
+  "id": "1-zweck-und-gegenstand-dieses-anhangs",
+  "level": 3,
+  "title": "1. Zweck und Gegenstand dieses Anhangs"
+ },
+ {
+  "id": "2-einleitende-bemerkungen",
+  "level": 3,
+  "title": "2. Einleitende Bemerkungen"
+ },
+ {
+  "id": "3-zitierung-des-gesamtpakets-in-gesetzen",
+  "level": 3,
+  "title": "3. Zitierung des Gesamtpakets in Gesetzen"
+ },
+ {
+  "id": "4-zitierung-des-gesamtpakets-in-verordnungen",
+  "level": 3,
+  "title": "4. Zitierung des Gesamtpakets in Verordnungen"
+ },
+ {
+  "id": "5-zitierweise-der-einzelnen-abkommen",
+  "level": 3,
+  "title": "5. Zitierweise der einzelnen Abkommen"
+ },
+ {
+  "id": "6-weitere-zitierregeln",
+  "level": 3,
+  "title": "6. Weitere Zitierregeln"
+ },
+ {
+  "id": "7-gestaltung-des-anhangs",
+  "level": 3,
+  "title": "7. Gestaltung des Anhangs"
+ },
+ {
+  "id": "schengen-assoziierungsabkommen",
+  "level": 4,
+  "title": "Schengen-Assoziierungsabkommen"
+ },
+ {
+  "id": "dublin-assoziierungsabkommen",
+  "level": 4,
+  "title": "Dublin-Assoziierungsabkommen"
+ },
+ {
+  "id": "8-titel-der-notenaustausche",
+  "level": 3,
+  "title": "8. Titel der Notenaustausche"
+ },
+ {
+  "id": "notenaustausch-vom-25-august-2010",
+  "level": 3,
+  "title": "Notenaustausch vom 25. August 2010"
+ },
+ {
+  "id": "zwischen-der-schweiz-und-der-europäischen-union-betreffend-d",
+  "level": 5,
+  "title": "zwischen der Schweiz und der Europäischen Union betreffend die Übernahme des Beschlusses 2010/555/EU zur Änderung von Anlage 3 Teil I der Gemeinsamen Konsularischen Instruktion betreffend Drittstaatsangehörige, die ein Visum für den Flughafentransit benötigen (Weiterentwicklung des Schengen-Besitzstands)"
+ },
+ {
+  "id": "notenaustausch-vom-24-oktober-2008",
+  "level": 3,
+  "title": "Notenaustausch vom 24. Oktober 2008"
+ },
+ {
+  "id": "zwischen-der-schweiz-und-der-europäischen-union-betreffend-d-2",
+  "level": 5,
+  "title": "zwischen der Schweiz und der Europäischen Union betreffend die Übernahme des Beschlusses 2008/633/JI über den Zugang der benannten Behörden der Mit- gliedstaaten und von Europol zum Visa-Informationssystem (VIS) (Weiterentwicklung des Schengen-Besitzstands)"
+ },
+ {
+  "id": "notenaustausch-vom-21-august-2008",
+  "level": 3,
+  "title": "Notenaustausch vom 21. August 2008"
+ },
+ {
+  "id": "zwischen-der-schweiz-und-der-europäischen-gemeinschaft-betre",
+  "level": 5,
+  "title": "zwischen der Schweiz und der Europäischen Gemeinschaft betreffend die Über- nahme der VIS-Verordnung (Verordnung [EG] Nr. 767/2008) (Weiterentwicklung des Schengen-Besitzstands)"
+ },
+ {
+  "id": "notenaustausch-vom-16-mai-2011",
+  "level": 3,
+  "title": "Notenaustausch vom 16. Mai 2011"
+ },
+ {
+  "id": "zwischen-der-schweiz-und-der-europäischen-union-betreffend-d-3",
+  "level": 5,
+  "title": "zwischen der Schweiz und der Europäischen Union betreffend die Übernahme"
+ },
+ {
+  "id": "377-2004-zur-schaffung-eines-netzes-von-verbindungsbeamten-f",
+  "level": 5,
+  "title": "377/2004 zur Schaffung eines Netzes von Verbindungsbeamten für Einwande- rungsfragen (Weiterentwicklung des Schengen-Besitzstands)"
+ },
+ {
+  "id": "notenaustausch-vom-29-mai-2011",
+  "level": 3,
+  "title": "Notenaustausch vom 29. Mai 2011"
+ },
+ {
+  "id": "zwischen-der-schweiz-und-der-europäischen-union-betreffend-d-4",
+  "level": 5,
+  "title": "zwischen der Schweiz und der Europäischen Union betreffend die Übernahme der Verordnung (EU) Nr. 955/2011 zur Änderung des Schengener Grenzkodex (Weiterentwicklung des Schengen-Besitzstands)"
+ },
+ {
+  "id": "9-bundesbeschlüsse",
+  "level": 3,
+  "title": "9. Bundesbeschlüsse"
+ },
+ {
+  "id": "bundesbeschluss-4",
+  "level": 3,
+  "title": "Bundesbeschluss"
+ },
+ {
+  "id": "über-die-genehmigung-und-die-umsetzung-des-notenaustauschs-z",
+  "level": 5,
+  "title": "über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme des Rahmenbeschlusses 2006/960/JI über die Vereinfachung des Informationsaustauschs zwischen Strafverfolgungsbehörden (Weiterentwicklung des Schengen-Besitzstands)"
+ },
+ {
+  "id": "bundesbeschluss-5",
+  "level": 3,
+  "title": "Bundesbeschluss"
+ },
+ {
+  "id": "über-die-genehmigung-und-die-umsetzung-des-notenaustauschs-z-2",
+  "level": 5,
+  "title": "über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme des Zweiten Schengener Grenzkodex (Weiterentwicklung des Schengen-Besitzstands)"
+ },
+ {
+  "id": "bundesbeschluss-6",
+  "level": 3,
+  "title": "Bundesbeschluss"
+ },
+ {
+  "id": "über-die-genehmigung-des-notenaustauschs-zwischen-der-schwei",
+  "level": 5,
+  "title": "über die Genehmigung des Notenaustauschs zwischen der Schweiz und der EG betreffend die Übernahme der EU-Rückführungsrichtlinie (Richtlinie 2008/115/EG) und über dessen Umsetzung (Änderung des Ausländer- und des Asylgesetzes) (Weiterentwicklung des Schengen-Besitzstands)"
+ },
+ {
+  "id": "bundesbeschluss-7",
+  "level": 3,
+  "title": "Bundesbeschluss"
+ },
+ {
+  "id": "über-die-genehmigung-der-notenaustausche-zwischen-der-schwei",
+  "level": 5,
+  "title": "über die Genehmigung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen zur Anpassung des Schengener Informationssystems (Weiterentwicklung des Schengen-Besitzstands)"
+ },
+ {
+  "id": "anhang-2a",
+  "level": 3,
+  "title": "Anhang 2a"
+ },
+ {
+  "id": "gestaltung-von-bundesbeschlüssen-über-die-genehmigung-völker-2",
+  "level": 3,
+  "title": "Gestaltung von Bundesbeschlüssen über die Genehmigung völkerrechtlicher Verträge mit gleichzeitiger Umsetzung (Art. 141a BV)"
+ },
+ {
+  "id": "1-umsetzung-auf-gesetzesstufe",
+  "level": 3,
+  "title": "1. Umsetzung auf Gesetzesstufe"
+ },
+ {
+  "id": "bundesbeschluss-8",
+  "level": 3,
+  "title": "Bundesbeschluss"
+ },
+ {
+  "id": "über-die-genehmigung-und-die-umsetzung-des-abkommens",
+  "level": 5,
+  "title": "über die Genehmigung und die Umsetzung des Abkommens …"
+ },
+ {
+  "id": "bundesgesetz-über",
+  "level": 3,
+  "title": "Bundesgesetz über …"
+ },
+ {
+  "id": "änderung-eines-anderen-erlasses",
+  "level": 4,
+  "title": "Änderung eines anderen Erlasses"
+ },
+ {
+  "id": "änderung-anderer-erlasse",
+  "level": 4,
+  "title": "Änderung anderer Erlasse"
+ },
+ {
+  "id": "2-umsetzung-auf-verfassungsstufe",
+  "level": 3,
+  "title": "2. Umsetzung auf Verfassungsstufe"
+ },
+ {
+  "id": "bundesbeschluss-9",
+  "level": 3,
+  "title": "Bundesbeschluss"
+ },
+ {
+  "id": "über-die-genehmigung-und-die-umsetzung-des-abkommens-2",
+  "level": 5,
+  "title": "über die Genehmigung und die Umsetzung des Abkommens …"
+ },
+ {
+  "id": "änderung-der-bundesverfassung",
+  "level": 4,
+  "title": "Änderung der Bundesverfassung"
+ },
+ {
+  "id": "beispiel-für-einen-neuerlass",
+  "level": 3,
+  "title": "Beispiel für einen Neuerlass"
+ },
+ {
+  "id": "über-die-unterstützung-des-bienengesundheitsdienstes",
+  "level": 3,
+  "title": "über die Unterstützung des Bienengesundheitsdienstes"
+ },
+ {
+  "id": "beispiel-für-einen-änderungserlass",
+  "level": 3,
+  "title": "Beispiel für einen Änderungserlass"
+ },
+ {
+  "id": "über-explosionsgefährliche-stoffe",
+  "level": 3,
+  "title": "über explosionsgefährliche Stoffe"
+ },
+ {
+  "id": "kategorieneinteilung-der-pyrotechnischen-gegenstände",
+  "level": 4,
+  "title": "Kategorieneinteilung der pyrotechnischen Gegenstände"
+ },
+ {
+  "id": "1-1-kategorie-t1",
+  "level": 5,
+  "title": "1.1 Kategorie T1"
+ },
+ {
+  "id": "1-2-kategorie-t2",
+  "level": 5,
+  "title": "1.2 Kategorie T2"
+ },
+ {
+  "id": "1-3-kategorie-p1",
+  "level": 5,
+  "title": "1.3 Kategorie P1"
+ },
+ {
+  "id": "stichwortverzeichnis",
+  "level": 3,
+  "title": "Stichwortverzeichnis"
+ }
+]

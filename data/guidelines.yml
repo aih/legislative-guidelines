@@ -31,6 +31,13 @@
   source_url: https://eur-lex.europa.eu/content/techleg/KB0213228ENN.pdf
   landing_url: https://op.europa.eu/en/publication-detail/-/publication/3879747d-7a3c-411b-a3a0-55c14e2ba732
   license: "© European Union; reuse authorised under Commission Decision 2011/833/EU"
+  topics: [recitals, enacting_formula, multilingual_drafting, definitions, amending_acts]
+  key_principles:
+    - "Rule 1: Legislative acts must be drafted clearly, simply, and precisely to ensure equality before the law across all 24 official languages."
+    - "Rule 2 & ISG § 2.3: English operative articles of binding acts use 'shall' to impose obligations; French and German use the indicative present."
+    - "Rule 10: Recitals ('Whereas') must set out concise reasons for the chief provisions of the enacting terms and must NEVER contain normative rules or political appeals."
+    - "Rule 14: Definitions must never contain autonomous normative provisions."
+    - "Rule 16: Avoid cascading or imprecise cross-references; never modify an act substantively merely via a cross-reference."
 
 - id: eu-interinstitutional-style-guide
   title: Interinstitutional Style Guide
@@ -143,6 +150,13 @@
   source_url: https://assets.publishing.service.gov.uk/media/660407d091a320001a82b06b/2024.03.19.Drafting-guidance.pdf
   landing_url: https://www.gov.uk/government/publications/drafting-bills-for-parliament
   license: Open Government Licence v3.0
+  topics: [plain_language, gender_neutrality, modal_verbs, paragraphing, definitions]
+  key_principles:
+    - "§ 2.1 Gender neutrality: Draft gender-neutrally by repeating the noun, restructuring, or using 'they/their'; avoid 'he or she'."
+    - "§ 3.1 Plain language & active voice: Write short sentences in the active voice and identify the legal actor clearly."
+    - "§ 3.2 Avoid 'shall': Use 'must' for obligations and present tense ('is', 'applies') for legal states or declarations."
+    - "§ 3.4 Paragraphing: Split multiple conditions or elements into tabulated sub-paragraphs (a), (b), (c) with a single 'and' or 'or'."
+    - "§ 4.4 Definitions: Place definitions where most helpful to the reader and never embed substantive rules inside a definition."
 
 - id: uk-opc-amending-bills-style-manual
   title: "Amending bills: style manual"
@@ -159,10 +173,10 @@
     status: current
     checked_on: "2026-10-29"
   original_format: PDF
-  source_url: null
+  source_url: https://assets.publishing.service.gov.uk/media/65e5c53e3f694514a3036028/Style_Manual_for_Amendments_to_Bills.pdf
   landing_url: https://www.gov.uk/government/publications/amending-bills-style-manual
+  html_edition_url: https://www.gov.uk/government/publications/amending-bills-style-manual/style-manual-for-amendments-to-bills
   license: Open Government Licence v3.0
-  notes: Attachment URL to be resolved from the landing page by scripts/fetch.py.
 
 - id: uk-opc-common-legislative-solutions
   title: "Common legislative solutions: a guide to tackling recurring policy issues in legislation"
@@ -323,13 +337,14 @@
   languages: [en]
   document_type: drafting manual
   legal_status: Guidance
-  edition: "3.1"
+  edition: "3.2"
+  last_updated: "2019-07"
   currency:
-    status: unverified
-    note: Edition 3.1 linked by CALC; check opc.gov.au for the current edition and file URL.
+    status: current
+    note: Edition 3.2 (July 2019).
     checked_on: "2026-10-29"
   original_format: PDF
-  source_url: https://www.opc.gov.au/sites/g/files/net2056/f/drafting_manual_1.pdf
+  source_url: https://www.opc.gov.au/sites/default/files/2023-01/s05pq37.v27.pdf
   landing_url: https://www.opc.gov.au/drafting-resources
   license: CC BY 4.0 (Commonwealth of Australia)
 
@@ -805,4 +820,1338 @@
   original_format: PDF
   source_url: https://ial-online.org/wp-content/uploads/2018/05/Nauru-Drafting-Manual.pdf
   landing_url: https://calc.ngo/drafting-manuals-and-other-resources
+  license: Unspecified
+
+
+# ================================================================
+# SUPRANATIONAL & INTERNATIONAL (EXPANDED)
+# ================================================================
+
+- id: osce-odihr-democratic-lawmaking-2024
+  title: Guidelines on Democratic Lawmaking for Better Laws
+  jurisdiction: Organization for Security and Co-operation in Europe (OSCE)
+  jurisdiction_level: international
+  country_code: OSCE
+  region: International
+  issuing_body: OSCE Office for Democratic Institutions and Human Rights (ODIHR)
+  languages: [en]
+  document_type: drafting guidelines
+  legal_status: International standard and guidance
+  edition: 1st edition (ISBN 978-83-66690-92-9)
+  published: "2024-01-16"
+  last_updated: "2024-01-16"
+  currency:
+    status: current
+    note: Prepared by ODIHR in consultation with the Venice Commission; covers the full legislative cycle and drafting principles.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://cdn.osce.org/sites/default/files/f/documents/a/3/558321.pdf
+  landing_url: https://www.osce.org/odihr/558321
+  license: "© OSCE/ODIHR 2024; free reproduction for non-commercial educational/research purposes with attribution"
+  topics: [rule_of_law, plain_language, human_rights_compliance, gender_neutrality, impact_assessment]
+  key_principles:
+    - "Principle 12: Laws must be clear, foreseeable, and accessible to the public without obscure legalese."
+    - "§§ 52–56: Apply gender-sensitive legislative drafting alongside gender impact assessments."
+    - "§§ 85–95: Accompany every draft law with an evidence-based Explanatory Note and Regulatory Impact Assessment."
+    - "§§ 165–170: Clearly identify duty-bearers, separate mandatory obligations from discretionary powers, and avoid cascading cross-references."
+
+- id: coe-venice-rule-of-law-checklist
+  title: Rule of Law Checklist
+  jurisdiction: Council of Europe
+  jurisdiction_level: international
+  country_code: COE
+  region: Europe
+  issuing_body: European Commission for Democracy through Law (Venice Commission)
+  languages: [en, fr]
+  document_type: legislative quality checklist
+  legal_status: Adopted by the Venice Commission at its 106th Plenary Session (CDL-AD(2016)007)
+  edition: CDL-AD(2016)007
+  published: "2016-03-18"
+  last_updated: "2016-03-18"
+  currency:
+    status: current
+    note: Benchmarks legality, process of enactment of law, accessibility, foreseeability, and stability of legislation.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: http://catalog.liha-pres.eu/index.php/liha-pres/catalog/download/446/16301/39935-1?inline=1
+  landing_url: https://www.venice.coe.int/webforms/documents/?pdf=CDL-AD(2016)007-e
+  license: "© Council of Europe"
+  notes: Source URL is a direct mirror PDF because venice.coe.int blocks automated script requests (HTTP 403/502).
+
+- id: oecd-regulatory-policy-governance-2012
+  title: Recommendation of the Council on Regulatory Policy and Governance
+  jurisdiction: Organisation for Economic Co-operation and Development (OECD)
+  jurisdiction_level: international
+  country_code: OECD
+  region: International
+  issuing_body: OECD Council / Regulatory Policy Committee
+  languages: [en, fr]
+  document_type: regulatory policy guidelines
+  legal_status: OECD Legal Instrument (OECD/LEGAL/0390)
+  edition: OECD/LEGAL/0390
+  published: "2012-03-22"
+  last_updated: "2012-03-22"
+  currency:
+    status: current
+    checked_on: "2026-10-29"
+  original_format: HTML
+  source_url: https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0390
+  landing_url: https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0390
+  license: "© OECD"
+
+- id: un-uncitral-secured-transactions-guide
+  title: UNCITRAL Legislative Guide on Secured Transactions
+  jurisdiction: United Nations
+  jurisdiction_level: international
+  country_code: UN
+  region: International
+  issuing_body: United Nations Commission on International Trade Law (UNCITRAL)
+  languages: [en, fr, es, ar, zh, ru]
+  document_type: legislative guide
+  legal_status: Model legislative recommendations adopted by UNCITRAL (14 December 2007)
+  published: "2010"
+  last_updated: "2010"
+  currency:
+    status: current
+    note: Representative flagship UNCITRAL Legislative Guide setting out commentary and model legislative recommendations for national drafters.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://uncitral.un.org/sites/default/files/media-documents/uncitral/en/09-82670_ebook-guide_09-04-10english.pdf
+  landing_url: https://uncitral.un.org/en/texts/securityinterests/legislativeguides/secured_transactions
+  license: "© United Nations"
+
+- id: un-uncitral-business-registry-guide
+  title: UNCITRAL Legislative Guide on Key Principles of a Business Registry
+  jurisdiction: United Nations
+  jurisdiction_level: international
+  country_code: UN
+  region: International
+  issuing_body: United Nations Commission on International Trade Law (UNCITRAL)
+  languages: [en, fr, es, ar, zh, ru]
+  document_type: legislative guide
+  legal_status: Legislative recommendations adopted by UNCITRAL (2018)
+  published: "2019"
+  last_updated: "2019"
+  currency:
+    status: current
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://uncitral.un.org/sites/default/files/media-documents/uncitral/en/19-09951_e_ebook.pdf
+  landing_url: https://uncitral.un.org/en/texts/mses/legislativeguides/business_registry
+  license: "© United Nations"
+
+- id: eu-council-manual-of-precedents
+  title: Manual of precedents for acts established within the Council of the European Union
+  jurisdiction: European Union
+  jurisdiction_level: supranational
+  country_code: EU
+  region: Europe
+  issuing_body: General Secretariat of the Council of the European Union (Legal-Linguistic Services)
+  languages: [en, fr, de]
+  document_type: drafting manual
+  legal_status: Internal reference manual for Council legal-linguistic drafters
+  edition: SN 1250/10 (2010)
+  published: "2002"
+  last_updated: "2010"
+  currency:
+    status: current
+    note: Latest publicly released edition on EU Publications Office Cellar; sets out standard forms, citations, recitals, and final clauses for Council acts.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://publications.europa.eu/resource/cellar/431ccffd-00c2-491a-b423-ce709af0d6c3.0006.02/DOC_1
+  landing_url: https://op.europa.eu/en/publication-detail/-/publication/431ccffd-00c2-491a-b423-ce709af0d6c3
+  license: "© European Union"
+
+- id: eu-commission-better-regulation-guidelines
+  title: Better Regulation Guidelines
+  jurisdiction: European Union
+  jurisdiction_level: supranational
+  country_code: EU
+  region: Europe
+  issuing_body: European Commission (Secretariat-General)
+  languages: [en]
+  document_type: regulatory policy guidelines
+  legal_status: Commission Staff Working Document (SWD(2021) 305 final)
+  edition: SWD(2021) 305 final
+  published: "2021-11-03"
+  last_updated: "2021-11-03"
+  currency:
+    status: current
+    note: Accompanied by the Better Regulation Toolbox (updated December 2025).
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://commission.europa.eu/document/download/d0bbd77f-bee5-4ee5-b5c4-6110c7605476_en?filename=swd2021_305_en.pdf
+  landing_url: https://commission.europa.eu/law/law-making-process/better-regulation/better-regulation-guidelines-and-toolbox_en
+  license: "© European Union; reuse authorised under Commission Decision 2011/833/EU"
+
+- id: eu-commission-how-to-write-clearly
+  title: How to write clearly
+  jurisdiction: European Union
+  jurisdiction_level: supranational
+  country_code: EU
+  region: Europe
+  issuing_body: European Commission (Directorate-General for Translation)
+  languages: [en, multilingual]
+  document_type: style guide
+  legal_status: Guidance
+  edition: "2015"
+  published: "2011"
+  last_updated: "2015"
+  currency:
+    status: current
+    note: Clear writing guide for Commission drafters (including legislative proposals and explanatory memoranda) across all 24 official languages.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: http://publications.europa.eu/resource/cellar/725b7eb0-d92e-11e5-8fea-01aa75ed71a1.0004.03/DOC_1
+  landing_url: https://op.europa.eu/en/publication-detail/-/publication/725b7eb0-d92e-11e5-8fea-01aa75ed71a1/language-en
+  license: "© European Union; reuse authorised under Commission Decision 2011/833/EU"
+
+- id: asean-good-regulatory-practices-guidelines
+  title: ASEAN Guidelines on Good Regulatory Practices
+  jurisdiction: Association of Southeast Asian Nations (ASEAN)
+  jurisdiction_level: supranational
+  country_code: ASEAN
+  region: Asia
+  issuing_body: ASEAN Secretariat / ASEAN Consultative Committee for Standards and Quality (ACCSQ)
+  languages: [en]
+  document_type: regulatory policy guidelines
+  legal_status: Regional guidance endorsed by ASEAN Economic Ministers
+  published: "2009-02"
+  last_updated: "2017-09"
+  currency:
+    status: current
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://asean.org/wp-content/uploads/2017/09/ASEAN-Guidelines-on-Good-Regulatory-Practices2.pdf
+  landing_url: https://asean.org/
+  license: "© ASEAN Secretariat"
+
+# ================================================================
+# UNITED STATES (EXPANDED)
+# ================================================================
+
+- id: us-holc-guide-legislative-drafting
+  title: HOLC Guide to Legislative Drafting
+  jurisdiction: United States
+  jurisdiction_level: national
+  country_code: US
+  region: Americas
+  issuing_body: Office of the Legislative Counsel, U.S. House of Representatives
+  languages: [en]
+  document_type: drafting guide
+  legal_status: Office practice guide
+  last_updated: continuously updated online
+  currency:
+    status: current
+    note: Online guide maintained on legcounsel.house.gov alongside the downloadable Quick Guide PDF.
+    checked_on: "2026-10-29"
+  original_format: HTML
+  source_url: https://legcounsel.house.gov/holc-guide-legislative-drafting
+  landing_url: https://legcounsel.house.gov/holc-guide-legislative-drafting
+  license: U.S. Government work (public domain)
+  topics: [modal_verbs, statutory_hierarchy, definitions, cut_and_bite_amendments, gender_neutrality]
+  key_principles:
+    - "Use 'shall' only to impose a mandatory duty on an animate actor with legal capacity ('The Secretary shall...'); use 'must' for conditions on things."
+    - "Follow the 5-level subdivision hierarchy: (a) subsection, (1) paragraph, (A) subparagraph, (i) clause, (I) subclause."
+    - "Do not place substantive legal requirements inside definitions."
+    - "Draft in the active voice and repeat the noun to maintain gender-neutral language."
+
+- id: us-holc-quick-guide-legislative-drafting
+  title: Quick Guide to Legislative Drafting
+  jurisdiction: United States
+  jurisdiction_level: national
+  country_code: US
+  region: Americas
+  issuing_body: Office of the Legislative Counsel, U.S. House of Representatives
+  languages: [en]
+  document_type: drafting guide
+  legal_status: Office practice guide
+  edition: June 2026
+  last_updated: "2026-06-10"
+  currency:
+    status: current
+    note: Printable companion summary to the online HOLC Guide to Legislative Drafting.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://legcounsel.house.gov/sites/evo-subsites/legcounsel-evo.house.gov/files/evo-media-document/quick_guide_6_10_26.pdf
+  landing_url: https://legcounsel.house.gov/holc-guide-legislative-drafting
+  license: U.S. Government work (public domain)
+
+- id: us-ulc-drafting-rules-style-manual
+  title: Drafting Rules and Style Manual
+  jurisdiction: United States
+  jurisdiction_level: national
+  country_code: US
+  region: Americas
+  issuing_body: Uniform Law Commission (National Conference of Commissioners on Uniform State Laws)
+  languages: [en]
+  document_type: drafting rules
+  legal_status: Mandatory for drafting Uniform and Model Acts
+  edition: 2025 edition (17 April 2025)
+  published: "2025-04-17"
+  last_updated: "2025-04-17"
+  currency:
+    status: current
+    note: Revised April 2025; governs structure, style, and wording of uniform state laws across the United States.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://www.uniformlaws.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=1ef012f4-a31f-7ab2-b29c-15d9f622f98f&forceDialog=0
+  landing_url: https://www.uniformlaws.org/viewdocument/drafting-rules-and-style-manual-2025
+  license: "© Uniform Law Commission"
+
+# ================================================================
+# UK DEVOLVED, SECONDARY LEGISLATION, CROWN DEPENDENCIES & IRELAND
+# ================================================================
+
+- id: uk-statutory-instrument-practice
+  title: Statutory Instrument Practice
+  jurisdiction: United Kingdom
+  jurisdiction_level: national
+  country_code: GB
+  region: Europe
+  issuing_body: Statutory Instrument Hub (Cabinet Office) and National Archives (SI Registrar)
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Official practice manual for UK secondary legislation
+  edition: 5th edition (November 2017)
+  published: "2017-11"
+  last_updated: "2017-11"
+  currency:
+    status: current
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://www.legislation.gov.uk/pdfs/StatutoryInstrumentPractice_5th_Edition.pdf
+  landing_url: https://www.legislation.gov.uk/pdfs/StatutoryInstrumentPractice_5th_Edition.pdf
+  license: Open Government Licence v3.0
+
+- id: gb-sct-drafting-matters
+  title: "Drafting Matters!"
+  jurisdiction: Scotland (United Kingdom)
+  jurisdiction_level: national
+  country_code: GB
+  region: Europe
+  issuing_body: Parliamentary Counsel Office (Scottish Government)
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: 2nd edition (December 2018)
+  published: "2016-01"
+  last_updated: "2018-12-17"
+  currency:
+    status: current
+    note: Second edition published December 2018.
+    checked_on: "2026-10-29"
+  original_format: HTML
+  source_url: https://www.gov.scot/publications/drafting-matters/pages/1/
+  landing_url: https://www.gov.scot/publications/drafting-matters/
+  license: Open Government Licence v3.0
+
+- id: gb-wls-writing-laws-for-wales
+  title: "Writing laws for Wales: guidance on drafting legislation"
+  jurisdiction: Wales (United Kingdom)
+  jurisdiction_level: national
+  country_code: GB
+  region: Europe
+  issuing_body: Office of the Legislative Counsel (Welsh Government / Llywodraeth Cymru)
+  languages: [en, cy]
+  document_type: drafting guidance
+  legal_status: Guidance
+  edition: May 2026 revision
+  published: "2019-11"
+  last_updated: "2026-05"
+  currency:
+    status: current
+    note: Updated May 2026 on gov.wales; covers bilingual (English/Welsh) legislative drafting techniques and structure.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://www.gov.wales/sites/default/files/publications/2026-05/writing-laws-for-wales-guidance-on-drafting-legislation.pdf
+  landing_url: https://www.gov.wales/writing-laws-for-wales-guidance-on-drafting-legislation
+  license: Open Government Licence v3.0
+
+- id: je-ldo-current-drafting-practice
+  title: Current Drafting Practice
+  jurisdiction: Jersey
+  jurisdiction_level: national
+  country_code: JE
+  region: Europe
+  issuing_body: Legislative Drafting Office, States Greffe
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Published pursuant to Article 19 of the Legislation (Jersey) Law 2021
+  published: "2018-12-31"
+  last_updated: "2022"
+  currency:
+    status: current
+    note: Supersedes the 2018 Drafting Practice Manual (version 1).
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://www.gov.je/SiteCollectionDocuments/Crime%20and%20justice/Current%20Drafting%20Practice.pdf
+  landing_url: https://www.gov.je/Government/NonexecLegal/StatesGreffe/LegislativeDraftingOffice/Pages/index.aspx
+  license: Crown copyright (States of Jersey)
+
+- id: ie-lrc-statutory-drafting-plain-language
+  title: "Report on Statutory Drafting and Interpretation: Plain Language and the Law (LRC 61-2000)"
+  jurisdiction: Ireland
+  jurisdiction_level: national
+  country_code: IE
+  region: Europe
+  issuing_body: Law Reform Commission of Ireland
+  languages: [en]
+  document_type: drafting report
+  legal_status: Law Reform Commission report and drafting recommendations
+  edition: LRC 61-2000 (December 2000)
+  published: "2000-12"
+  last_updated: "2000-12"
+  currency:
+    status: dated
+    note: Ireland's Office of the Parliamentary Counsel does not publish its internal drafting manual; LRC 61-2000 remains the principal public Irish reference text on statutory drafting style.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://www.lawreform.ie/_fileupload/Reports/rPlainLanguage.pdf
+  landing_url: https://www.lawreform.ie/
+  license: "© Law Reform Commission of Ireland"
+
+# ================================================================
+# WESTERN, NORTHERN, CENTRAL & EASTERN EUROPE (EXPANDED)
+# ================================================================
+
+- id: be-principes-technique-legislative
+  title: Principes de technique législative – Guide de rédaction des textes législatifs et réglementaires
+  title_en: Principles of Legislative Technique – Guide to Drafting Legislative and Regulatory Texts
+  jurisdiction: Belgium
+  jurisdiction_level: national
+  country_code: BE
+  region: Europe
+  issuing_body: Conseil d'État / Raad van State (Section de législation)
+  languages: [fr, nl]
+  document_type: drafting guide
+  legal_status: Official guidance of the Council of State Legislation Section
+  published: "2008"
+  last_updated: continuously updated online
+  currency:
+    status: current
+    note: Maintained as an interactive online reference at raadvst-consetat.be.
+    checked_on: "2026-10-29"
+  original_format: HTML
+  source_url: https://www.raadvst-consetat.be/fr/?page=technique_legislative
+  landing_url: https://www.raadvst-consetat.be/fr/?page=technique_legislative
+  license: Official work (Belgian copyright law exclusion for official acts)
+
+- id: be-vademecum-procedure-avis
+  title: Vade-mecum de la procédure d'avis devant la section de législation du Conseil d'État
+  title_en: Vade-mecum of the Advisory Procedure before the Legislation Section of the Council of State
+  jurisdiction: Belgium
+  jurisdiction_level: national
+  country_code: BE
+  region: Europe
+  issuing_body: Conseil d'État / Raad van State
+  languages: [fr, nl]
+  document_type: procedural handbook
+  legal_status: Guidance
+  published: "2021"
+  last_updated: "2021"
+  currency:
+    status: current
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://ial-online.org/wp-content/uploads/2022/01/vademecum_avis.pdf
+  landing_url: https://www.raadvst-consetat.be/fr/?page=technique_legislative
+  license: Official work
+
+- id: pt-guia-pratico-redacao-legislativa-ar
+  title: Guia Prático de Redação Legislativa – Regras de Legística na elaboração de atos normativos na Assembleia da República
+  title_en: Practical Guide to Legislative Drafting – Legistics Rules in the Parliament of Portugal
+  jurisdiction: Portugal
+  jurisdiction_level: national
+  country_code: PT
+  region: Europe
+  issuing_body: Assembleia da República (Divisão de Apoio ao Plenário / Serviços de Apoio às Comissões)
+  languages: [pt]
+  document_type: drafting guide
+  legal_status: Parliamentary drafting guide
+  published: "2014"
+  last_updated: "2020"
+  currency:
+    status: current
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://www.parlamento.pt/ArquivoDocumentacao/Documents/AR_Regras_Legistica.pdf
+  landing_url: https://www.parlamento.pt/
+  license: Official work (Código do Direito de Autor art. 7.º)
+
+- id: pt-regras-legistica-conselho-ministros
+  title: Regras de legística a observar no processo legislativo do Governo (Anexo II à Resolução do Conselho de Ministros n.º 105/2025)
+  title_en: Legistics Rules to be Observed in the Government's Legislative Process
+  jurisdiction: Portugal
+  jurisdiction_level: national
+  country_code: PT
+  region: Europe
+  issuing_body: Presidência do Conselho de Ministros
+  languages: [pt]
+  document_type: drafting rules
+  legal_status: Binding Council of Ministers resolution (Resolução do Conselho de Ministros n.º 105/2025, de 19 de junho)
+  edition: RCM n.º 105/2025
+  published: "2025-06-19"
+  last_updated: "2025-06-19"
+  currency:
+    status: in-force
+    note: Annex II sets out the binding formal legistics rules for Government bills and decree-laws under the XXV Constitutional Government.
+    checked_on: "2026-10-29"
+  original_format: HTML
+  source_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/105-2025-923487049
+  landing_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/105-2025-923487049
+  license: Official work (Código do Direito de Autor art. 7.º)
+
+- id: se-grona-boken-ds-2014-1
+  title: Gröna boken – Riktlinjer för författningsskrivning (Ds 2014:1)
+  title_en: The Green Book – Guidelines for Legislative Drafting (Ds 2014:1)
+  jurisdiction: Sweden
+  jurisdiction_level: national
+  country_code: SE
+  region: Europe
+  issuing_body: Statsrådsberedningen, Regeringskansliet (Prime Minister's Office)
+  languages: [sv]
+  document_type: drafting guidelines
+  legal_status: Official Government Offices guidelines
+  edition: Ds 2014:1
+  published: "2014-03-04"
+  last_updated: "2014-03-04"
+  currency:
+    status: current
+    note: Replaces Ds 1998:66; primary manual for drafting laws and ordinances in the Swedish Government Offices.
+    superseded: Ds 1998:66
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://www.regeringen.se/contentassets/472b62746b8146cc936efdafdeaf9f98/ds-20141-grona-boken---riktlinjer-for-forfattningsskrivning/
+  landing_url: https://www.regeringen.se/rattsliga-dokument/departementsserien-och-promemorior/2014/03/ds-20141/
+  license: Public domain (Upphovsrättslagen § 9)
+
+- id: no-lovteknikk-og-lovforberedelse
+  title: Lovteknikk og lovforberedelse – Veiledning om lov- og forskriftsarbeid
+  title_en: Legislative Technique and Preparation of Laws – Guidance on Legislative and Regulatory Work
+  jurisdiction: Norway
+  jurisdiction_level: national
+  country_code: "NO"
+  region: Europe
+  issuing_body: Justis- og beredskapsdepartementet, Lovavdelingen (Ministry of Justice and Public Security, Legislation Department)
+  languages: ["no"]
+  document_type: drafting manual
+  legal_status: Official ministry guidance (G-0245 B)
+  published: "2000-02"
+  last_updated: "2019"
+  currency:
+    status: current
+    note: Core manual published 2000 with updated EEA chapter.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://www.regjeringen.no/globalassets/upload/kilde/jd/bro/2000/0002/ddd/pdfv/108138-lovteknikkboka.pdf
+  landing_url: https://www.regjeringen.no/no/dokumenter/veiledning-om-lov--og-forskriftsarbeid/id87536/
+  license: Public domain (Åndsverkloven § 14)
+
+- id: ee-hea-oigusloome-ja-normitehnika-eeskiri
+  title: Hea õigusloome ja normitehnika eeskiri (HÕNTE)
+  title_en: Rules for Good Legislative Practice and Legislative Drafting
+  jurisdiction: Estonia
+  jurisdiction_level: national
+  country_code: EE
+  region: Europe
+  issuing_body: Vabariigi Valitsus (Government of the Republic) / Justiits- ja Digiministeerium
+  languages: [et, en]
+  document_type: drafting rules
+  legal_status: Government Regulation No. 180 of 22 December 2011 (RT I, 29.12.2011, 228)
+  published: "2011-12-22"
+  last_updated: "2021-09"
+  currency:
+    status: in-force
+    note: PDF on justdigi.ee is the consolidated Estonian text; official English translation available on Riigi Teataja.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://www.justdigi.ee/sites/default/files/documents/2021-09/Hea%20%C3%B5igusloome%20ja%20normitehnika%20eeskiri.pdf
+  landing_url: https://www.riigiteataja.ee/akt/129122011228?leiaKehtiv
+  html_edition_url: https://www.riigiteataja.ee/en/akt/508012015003
+  license: Public domain (AutõS § 5)
+
+- id: si-nomotehnicne-smernice
+  title: Nomotehnične smernice
+  title_en: Legislative Drafting Guidelines
+  jurisdiction: Slovenia
+  jurisdiction_level: national
+  country_code: SI
+  region: Europe
+  issuing_body: Služba Vlade Republike Slovenije za zakonodajo (Government Office for Legislation)
+  languages: [sl]
+  document_type: drafting guidelines
+  legal_status: Government guidelines
+  edition: 3., spremenjena in dopolnjena izdaja (2018)
+  published: "2004"
+  last_updated: "2018"
+  currency:
+    status: current
+    note: 3rd revised and supplemented edition (2018); replaces the 2008 2nd edition.
+    superseded: 2. izdaja (2008)
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://www.gov.si/assets/vladne-sluzbe/SVZ/f50d0f6d15/Nomotehnicne_smernice-2018.pdf
+  landing_url: https://www.gov.si/drzavni-organi/vladne-sluzbe/sluzba-vlade-za-zakonodajo/zakonodajni-postopek/
+  license: Official work (ZASP art. 9)
+
+- id: sk-legislativne-pravidla-vlady
+  title: Legislatívne pravidlá vlády Slovenskej republiky
+  title_en: Legislative Rules of the Government of the Slovak Republic
+  jurisdiction: Slovakia
+  jurisdiction_level: national
+  country_code: SK
+  region: Europe
+  issuing_body: Vláda Slovenskej republiky (Legislatívna rada vlády SR)
+  languages: [sk]
+  document_type: drafting rules
+  legal_status: Government Resolution No. 241 of 8 April 1997 as amended (binding on ministries)
+  edition: Consolidated text as of 25 September 2024
+  published: "1997-04-08"
+  last_updated: "2024-09-25"
+  currency:
+    status: in-force
+    note: Consolidated text incorporating amendments up to Government Resolution No. 552 of 25 September 2024.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://www.vlada.gov.sk/site/assets/files/2169/lp_25092024.pdf
+  landing_url: https://www.vlada.gov.sk/vlada-sr/poradne-organy/legislativna-rada-vlady-sr/
+  license: Public domain (§ 5 Autorský zákon)
+
+- id: hr-jedinstvena-metodolosko-nomotehnicka-pravila
+  title: Jedinstvena metodološko-nomotehnička pravila za izradu akata koje donosi Hrvatski sabor
+  title_en: Unified Methodological and Nomotechnical Rules for Drafting Acts Enacted by the Croatian Parliament
+  jurisdiction: Croatia
+  jurisdiction_level: national
+  country_code: HR
+  region: Europe
+  issuing_body: Hrvatski sabor (Croatian Parliament)
+  languages: [hr]
+  document_type: drafting rules
+  legal_status: Parliamentary decision published in Narodne novine (NN 74/2015)
+  edition: NN 74/2015
+  published: "2015-06-19"
+  last_updated: "2015-07-03"
+  currency:
+    status: in-force
+    note: Entered into force 1 September 2015; replaces the 1988 rules.
+    checked_on: "2026-10-29"
+  original_format: HTML
+  source_url: https://narodne-novine.nn.hr/clanci/sluzbeni/2015_07_74_1410.html
+  landing_url: https://www.sabor.hr/hr/pristup-informacijama/vazniji-propisi
+  license: Official work (Zakon o autorskom pravu art. 8)
+
+- id: hu-jogszabalyszerkesztesrol-61-2009-irm
+  title: 61/2009. (XII. 14.) IRM rendelet a jogszabályszerkesztésről
+  title_en: Decree 61/2009 (XII. 14.) IRM of the Minister of Justice and Law Enforcement on Legislative Drafting
+  jurisdiction: Hungary
+  jurisdiction_level: national
+  country_code: HU
+  region: Europe
+  issuing_body: Igazságügyi és Rendészeti Minisztérium (Ministry of Justice)
+  languages: [hu]
+  document_type: drafting rules
+  legal_status: Ministerial decree (binding)
+  published: "2009-12-14"
+  last_updated: "2024"
+  currency:
+    status: in-force
+    note: Consolidated text hosted on Jogkódex.
+    checked_on: "2026-10-29"
+  original_format: HTML
+  source_url: https://jogkodex.hu/jsz/jszr_2009_61_irm_rendelet_8845347
+  landing_url: https://njt.hu/jogszabaly/2009-61-20-1X
+  license: Public domain (Szjt. § 1(4))
+
+- id: hu-act-cxxx-2010-lawmaking
+  title: 2010. évi CXXX. törvény a jogalkotásról
+  title_en: Act CXXX of 2010 on Law-making
+  jurisdiction: Hungary
+  jurisdiction_level: national
+  country_code: HU
+  region: Europe
+  issuing_body: Országgyűlés (National Assembly of Hungary) / Ministry of Justice
+  languages: [en, hu]
+  document_type: drafting law
+  legal_status: Statute (binding)
+  published: "2010"
+  last_updated: "2018-05-18"
+  currency:
+    status: in-force
+    note: Official English translation as of 18 May 2018 hosted by IAL.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://ial-online.org/wp-content/uploads/2019/09/J2010T0130P_20180518_FIN.pdf
+  landing_url: https://njt.hu/jogszabaly/2010-130-00-00
+  license: Public domain (Szjt. § 1(4))
+
+- id: bg-zakon-za-normativnite-aktove
+  title: Закон за нормативните актове
+  title_en: Law on Normative Acts
+  jurisdiction: Bulgaria
+  jurisdiction_level: national
+  country_code: BG
+  region: Europe
+  issuing_body: Народно събрание (National Assembly of the Republic of Bulgaria)
+  languages: [bg]
+  document_type: drafting law
+  legal_status: Statute (State Gazette No. 27 of 3 April 1973, as amended)
+  published: "1973-04-03"
+  last_updated: "2016-11-04"
+  currency:
+    status: in-force
+    note: Accompanied by Decree No. 883 of 24 April 1974 on the Application of the Law on Normative Acts.
+    checked_on: "2026-10-29"
+  original_format: HTML
+  source_url: https://parliament.bg/bg/laws/ID/15534
+  landing_url: https://parliament.bg/bg/laws/ID/15534
+  license: Public domain (ЗАПСП art. 4)
+
+- id: gr-egcheiridio-nomoparaskevastikis-methodologias
+  title: Εγχειρίδιο Νομοπαρασκευαστικής Μεθοδολογίας
+  title_en: Manual of Legislative Drafting Methodology
+  jurisdiction: Greece
+  jurisdiction_level: national
+  country_code: GR
+  region: Europe
+  issuing_body: Γενική Γραμματεία της Κυβέρνησης (General Secretariat of Legal and Parliamentary Affairs, Presidency of the Government)
+  languages: [el]
+  document_type: drafting manual
+  legal_status: Official government guidance
+  published: "2013-10"
+  last_updated: "2022-10"
+  currency:
+    status: current
+    note: Accompanied by the 2022 Manual of Codification Methodology.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://gslegal.gov.gr/wp-content/uploads/2013/10/versionB.pdf
+  landing_url: https://gslegal.gov.gr/arches-kai-ergaleia-gia-tin-kali-nomothetisi/
+  license: Official work (Law 2121/1993 art. 2(5))
+
+- id: gr-egcheiridio-methodologias-kodikopoiisis
+  title: Εγχειρίδιο Μεθοδολογίας Κωδικοποίησης
+  title_en: Manual of Codification Methodology
+  jurisdiction: Greece
+  jurisdiction_level: national
+  country_code: GR
+  region: Europe
+  issuing_body: Γενική Γραμματεία Νομικών και Κοινοβουλευτικών Θεμάτων (Presidency of the Government)
+  languages: [el]
+  document_type: drafting manual
+  legal_status: Official government guidance under Law 4622/2019
+  published: "2022-10"
+  last_updated: "2022-10"
+  currency:
+    status: current
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://gslegal.gov.gr/wp-content/uploads/2022/10/%CE%A4%CE%B5%CE%BB%CE%B9%CE%BA%CF%8C-%CE%B5%CE%B3%CF%87%CE%B5%CE%B9%CF%81%CE%AF%CE%B4%CE%B9%CE%BF-%CE%BC%CE%B5%CE%B8%CE%BF%CE%B4%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1%CF%82-%CE%BA%CF%89%CE%B4%CE%B9%CE%BA%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7%CF%82.pdf
+  landing_url: https://gslegal.gov.gr/arches-kai-ergaleia-gia-tin-kali-nomothetisi/
+  license: Official work (Law 2121/1993 art. 2(5))
+
+- id: cy-katefthyntiries-grammes-nomothesias
+  title: Κατευθυντήριες Γραμμές για τη Σύνταξη Εθνικής Εναρμονιστικής Νομοθεσίας
+  title_en: Guidelines for the Drafting of National Harmonising Legislation
+  jurisdiction: Cyprus
+  jurisdiction_level: national
+  country_code: CY
+  region: Europe
+  issuing_body: Νομική Υπηρεσία της Κυπριακής Δημοκρατίας (Law Office of the Republic of Cyprus)
+  languages: [el]
+  document_type: drafting guidelines
+  legal_status: Guidance
+  published: "2017-03-01"
+  last_updated: "2017-03-01"
+  currency:
+    status: current
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://ial-online.org/wp-content/uploads/2018/07/%CE%9A%CE%91%CE%A4%CE%95%CE%A5%CE%98%CE%A5%CE%9D%CE%A4%CE%97%CE%A1%CE%99%CE%95%CE%A3-%CE%93%CE%A1%CE%91%CE%9C%CE%9C%CE%95%CE%A3-%CE%93%CE%99%CE%91-%CE%A4%CE%97-%CE%A3%CE%A5%CE%9D%CE%A4%CE%91%CE%9E%CE%97-%CE%95%CE%98%CE%9D%CE%99%CE%9A%CE%97%CE%A3-%CE%95%CE%9D%CE%91%CE%A1%CE%9C%CE%9F%CE%9D%CE%99%CE%A3%CE%A4%CE%99%CE%9A%CE%97%CE%A3-%CE%9D%CE%9F%CE%9C%CE%9F%CE%98%CE%95%CE%A3%CE%99%CE%91%CE%A3-01032017-3.pdf
+  landing_url: https://ial-online.org/legislative-drafting-rules/
+  license: Official work
+
+- id: al-law-drafting-manual
+  title: Law Drafting Manual – A Guide to the Legislative Process in Albania
+  jurisdiction: Albania
+  jurisdiction_level: national
+  country_code: AL
+  region: Europe
+  issuing_body: Ministry of Justice / Council of Ministers of the Republic of Albania
+  languages: [en, sq]
+  document_type: drafting manual
+  legal_status: Official manual approved by Order of the Prime Minister
+  published: "2014"
+  last_updated: "2014"
+  currency:
+    status: current
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://ial-online.org/wp-content/uploads/2018/05/Rep.-Albania.pdf
+  landing_url: https://ial-online.org/legislative-drafting-rules/
+  license: Official work
+
+- id: rs-jedinstvena-metodoloska-pravila
+  title: Jedinstvena metodološka pravila za izradu propisa
+  title_en: Unified Methodological Rules for Drafting Regulations
+  jurisdiction: Serbia
+  jurisdiction_level: national
+  country_code: RS
+  region: Europe
+  issuing_body: Narodna skupština Republike Srbije (National Assembly of the Republic of Serbia)
+  languages: [sr]
+  document_type: drafting rules
+  legal_status: Parliamentary decision (Službeni glasnik RS, br. 21/2010)
+  published: "2010"
+  last_updated: "2010"
+  currency:
+    status: in-force
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://ial-online.org/wp-content/uploads/2018/05/S%C3%A9rvia-2.pdf
+  landing_url: https://ial-online.org/legislative-drafting-rules/
+  license: Official work
+
+- id: ge-law-on-normative-acts
+  title: Law of Georgia on Normative Acts
+  jurisdiction: Georgia
+  jurisdiction_level: national
+  country_code: GE
+  region: Europe
+  issuing_body: Parliament of Georgia / Legislative Herald of Georgia (Matsne)
+  languages: [en, ka]
+  document_type: drafting law
+  legal_status: Organic Law of Georgia No. 1876 of 22 October 2009
+  published: "2009-10-22"
+  last_updated: "2018"
+  currency:
+    status: in-force
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://ial-online.org/wp-content/uploads/2018/05/Ge%C3%B3rgia_ingl%C3%AAs.pdf
+  landing_url: https://matsne.gov.ge/
+  license: Public domain
+
+- id: ro-legea-24-2000-tehnica-legislativa
+  title: Legea nr. 24/2000 privind normele de tehnică legislativă pentru elaborarea actelor normative
+  title_en: Law No. 24/2000 on the Rules of Legislative Technique for the Drafting of Normative Acts
+  jurisdiction: Romania
+  jurisdiction_level: national
+  country_code: RO
+  region: Europe
+  issuing_body: Parlamentul României / Consiliul Legislativ
+  languages: [ro]
+  document_type: drafting law
+  legal_status: Statute (republished in Monitorul Oficial nr. 260 of 21 April 2010, as amended)
+  published: "2000-03-27"
+  last_updated: "2024"
+  currency:
+    status: in-force
+    checked_on: "2026-10-29"
+  original_format: HTML
+  source_url: null
+  landing_url: https://legislatie.just.ro/Public/DetaliiDocument/21698
+  license: Public domain (Legea nr. 8/1996 art. 9)
+
+- id: lt-teises-aktu-projektu-rengimo-rekomendacijos
+  title: Teisės aktų projektų rengimo rekomendacijos
+  title_en: Recommendations on the Drafting of Legal Acts
+  jurisdiction: Lithuania
+  jurisdiction_level: national
+  country_code: LT
+  region: Europe
+  issuing_body: Lietuvos Respublikos teisingumo ministras (Minister of Justice of the Republic of Lithuania)
+  languages: [lt]
+  document_type: drafting rules
+  legal_status: Order of the Minister of Justice No. 1R-298 of 23 December 2013 (implementing the Law on Legislative Framework No. XI-2220)
+  published: "2013-12-23"
+  last_updated: "2024"
+  currency:
+    status: in-force
+    checked_on: "2026-10-29"
+  original_format: HTML
+  source_url: null
+  landing_url: https://www.e-tar.lt/portal/lt/legalAct/9f8e8430723411e3a1f1b21417c4c75e/asr
+  license: Public domain
+
+- id: lv-normativo-aktu-projektu-izstrades-rokasgramata
+  title: Normatīvo aktu projektu izstrādes rokasgrāmata
+  title_en: Handbook on Drafting Normative Acts
+  jurisdiction: Latvia
+  jurisdiction_level: national
+  country_code: LV
+  region: Europe
+  issuing_body: Valsts kanceleja (State Chancellery of Latvia)
+  languages: [lv]
+  document_type: drafting handbook
+  legal_status: Guidance (accompanying Cabinet of Ministers Regulation No. 90 of 3 February 2009)
+  published: "2016"
+  last_updated: "2021"
+  currency:
+    status: current
+    checked_on: "2026-10-29"
+  original_format: HTML
+  source_url: null
+  landing_url: https://tai.mk.gov.lv/book/1/chapter/178
+  license: Public domain
+
+# ================================================================
+# LATIN AMERICA (EXPANDED)
+# ================================================================
+
+- id: br-decreto-12002-2024
+  title: Decreto nº 12.002, de 22 de abril de 2024
+  title_en: Decree No. 12,002 of 22 April 2024 establishing rules for drafting, wording, amending, and consolidating normative acts
+  jurisdiction: Brazil
+  jurisdiction_level: national
+  country_code: BR
+  region: Americas
+  issuing_body: Presidência da República (Casa Civil)
+  languages: [pt]
+  document_type: drafting rules
+  legal_status: Presidential decree regulating Complementary Law No. 95/1998 (binding on the Federal Executive)
+  published: "2024-04-22"
+  last_updated: "2024-04-22"
+  currency:
+    status: in-force
+    note: Entered into force 1 June 2024; repeals and replaces Decreto nº 9.191/2017.
+    superseded: Decreto nº 9.191, de 1º de novembro de 2017
+    checked_on: "2026-10-29"
+  original_format: HTML
+  source_url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12002.htm
+  landing_url: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12002.htm
+  license: Public domain (Lei 9.610/1998 art. 8)
+
+- id: br-manual-redacao-presidencia-republica
+  title: Manual de Redação da Presidência da República
+  title_en: Drafting Manual of the Presidency of the Republic
+  jurisdiction: Brazil
+  jurisdiction_level: national
+  country_code: BR
+  region: Americas
+  issuing_body: Presidência da República (Casa Civil, Subchefia para Assuntos Jurídicos)
+  languages: [pt]
+  document_type: drafting manual
+  legal_status: Official manual (approved by Portaria nº 1.369/2018)
+  edition: 3ª edição, revista, atualizada e ampliada (2018)
+  published: "1991"
+  last_updated: "2018-12-27"
+  currency:
+    status: current
+    note: Part II covers normative acts and legistics.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://juspodium.net/manual_redacao_oficial.pdf
+  landing_url: https://www4.planalto.gov.br/centrodeestudos/assuntos/manual-de-redacao-da-presidencia-da-republica
+  license: Public domain (Lei 9.610/1998 art. 8)
+
+- id: ar-decreto-333-1985-elaboracion-actos
+  title: Decreto 333/1985 – Normas para la elaboración, redacción y diligenciamiento de los proyectos de actos y documentación administrativos
+  title_en: Decree 333/1985 – Rules for the Preparation, Drafting and Processing of Draft Administrative and Normative Acts
+  jurisdiction: Argentina
+  jurisdiction_level: national
+  country_code: AR
+  region: Americas
+  issuing_body: Poder Ejecutivo Nacional (Presidencia de la Nación)
+  languages: [es]
+  document_type: drafting rules
+  legal_status: Presidential decree (binding on the National Public Administration)
+  published: "1985-02-19"
+  last_updated: "2017"
+  currency:
+    status: in-force
+    note: Governs the formal drafting of bills (proyectos de ley), decrees, and administrative decisions in Argentina.
+    checked_on: "2026-10-29"
+  original_format: HTML
+  source_url: https://www.argentina.gob.ar/normativa/nacional/decreto-333-1985-40882/actualizacion
+  landing_url: https://www.argentina.gob.ar/normativa/nacional/decreto-333-1985-40882/actualizacion
+  license: Public domain
+
+- id: mx-lineamientos-tecnica-legislativa-diputados
+  title: Lineamientos de Técnica Legislativa / Curso de Técnica Legislativa
+  title_en: Legislative Technique Guidelines
+  jurisdiction: Mexico
+  jurisdiction_level: national
+  country_code: MX
+  region: Americas
+  issuing_body: Cámara de Diputados del H. Congreso de la Unión (SEDIA / Centro de Estudios de Derecho e Investigaciones Parlamentarias)
+  languages: [es]
+  document_type: drafting guide
+  legal_status: Parliamentary reference guide
+  published: "2006"
+  last_updated: "2006"
+  currency:
+    status: dated
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://www.diputados.gob.mx/sedia/sia/dir/COORD-SP-06-02.pdf
+  landing_url: https://www.diputados.gob.mx/sedia/sia/dir/
+  license: Official work
+
+- id: co-manual-elaboracion-textos-normativos
+  title: Manual para la elaboración de textos normativos – Proyectos de decreto y resolución (Decreto 1345 de 2010 / Decreto 1081 de 2015)
+  title_en: Manual for Drafting Normative Texts – Draft Decrees and Resolutions
+  jurisdiction: Colombia
+  jurisdiction_level: national
+  country_code: CO
+  region: Americas
+  issuing_body: Presidencia de la República / Ministerio del Interior y de Justicia
+  languages: [es]
+  document_type: drafting manual
+  legal_status: Presidential Decree 1345 of 2010 (compiled in Annex 1 of Decree 1081 of 2015)
+  published: "2010-04-23"
+  last_updated: "2015-08-10"
+  currency:
+    status: in-force
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=39371
+  landing_url: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=39371
+  license: Public domain (Ley 23 de 1982 art. 41)
+
+- id: pe-manual-tecnica-legislativa-congreso
+  title: Manual de Técnica Legislativa
+  title_en: Manual of Legislative Technique
+  jurisdiction: Peru
+  jurisdiction_level: national
+  country_code: PE
+  region: Americas
+  issuing_body: Congreso de la República del Perú (Oficialía Mayor / Departamento de Investigación y Documentación Parlamentaria)
+  languages: [es]
+  document_type: drafting manual
+  legal_status: Approved by Mesa Directiva Agreement (Acuerdo de Mesa)
+  edition: 3ª edición
+  published: "2010"
+  last_updated: "2021"
+  currency:
+    status: current
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://ial-online.org/wp-content/uploads/2022/11/manual-tecnica-legislativa-CongressoPeru.pdf
+  landing_url: https://www.congreso.gob.pe/
+  license: Public domain (Ley sobre el Derecho de Autor art. 9)
+
+- id: pe-guia-calidad-normativa-minjus
+  title: Guía sobre la calidad normativa y publicación de proyectos normativos
+  title_en: Guide on Regulatory Quality and Publication of Draft Normative Acts
+  jurisdiction: Peru
+  jurisdiction_level: national
+  country_code: PE
+  region: Americas
+  issuing_body: Ministerio de Justicia y Derechos Humanos (Dirección General de Desarrollo Normativo y Calidad Regulatoria)
+  languages: [es]
+  document_type: drafting guide
+  legal_status: Official executive branch guidance
+  published: "2016"
+  last_updated: "2021"
+  currency:
+    status: current
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://cdn.www.gob.pe/uploads/document/file/1526157/Gu%C3%ADa%20calidad%20normativa%20publicaci%C3%B3n%20proyectos%20normativos.pdf
+  landing_url: https://www.gob.pe/minjus
+  license: Public domain (Ley sobre el Derecho de Autor art. 9)
+
+- id: uy-manual-redaccion-legislativa
+  title: Manual de Técnica Legislativa / Manual de Redacción Legislativa
+  title_en: Legislative Drafting Manual
+  jurisdiction: Uruguay
+  jurisdiction_level: national
+  country_code: UY
+  region: Americas
+  issuing_body: Parlamento del Uruguay / IMPO (Dirección Nacional de Impresiones y Publicaciones Oficiales)
+  languages: [es]
+  document_type: drafting manual
+  legal_status: Guidance
+  published: "2018"
+  last_updated: "2021"
+  currency:
+    status: current
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://ial-online.org/wp-content/uploads/2021/04/MANUAL-DE-REDACCIO%CC%81N-LEGISLATIVA-Uruguay.pdf
+  landing_url: https://ial-online.org/legislative-drafting-rules/
+  license: Official work
+
+- id: do-manual-tecnica-legislativa-senado
+  title: Manual de Técnica Legislativa
+  title_en: Manual of Legislative Technique
+  jurisdiction: Dominican Republic
+  jurisdiction_level: national
+  country_code: DO
+  region: Americas
+  issuing_body: Senado de la República Dominicana
+  languages: [es]
+  document_type: drafting manual
+  legal_status: Parliamentary drafting manual
+  published: "2016"
+  last_updated: "2022"
+  currency:
+    status: current
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://ial-online.org/wp-content/uploads/2022/11/MANUAL-TECNICA-LEGISLATIVA_RP_Senado.pdf
+  landing_url: https://ial-online.org/legislative-drafting-rules/
+  license: Official work
+
+# ================================================================
+# ASIA-PACIFIC (EXPANDED)
+# ================================================================
+
+- id: hk-doj-drafting-legislation
+  title: "Drafting Legislation in Hong Kong: A Guide to Styles and Practices"
+  jurisdiction: Hong Kong SAR (China)
+  jurisdiction_level: national
+  country_code: HK
+  region: Asia
+  issuing_body: Law Drafting Division, Department of Justice
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Official practice guide
+  edition: January 2012
+  published: "1998"
+  last_updated: "2012-01"
+  currency:
+    status: current
+    note: Comprehensive bilingual legislative drafting manual published by the Hong Kong Department of Justice.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://www.doj.gov.hk/en/publications/pdf/drafting_book_2012_e.pdf
+  landing_url: https://www.doj.gov.hk/en/publications/pub20030011.html
+  license: "© Government of the Hong Kong Special Administrative Region"
+
+- id: hk-doj-how-legislation-is-made
+  title: "How Legislation is Made in Hong Kong: A Drafter's View of the Process"
+  jurisdiction: Hong Kong SAR (China)
+  jurisdiction_level: national
+  country_code: HK
+  region: Asia
+  issuing_body: Law Drafting Division, Department of Justice
+  languages: [en]
+  document_type: process guide
+  legal_status: Guidance
+  edition: "2018"
+  published: "2012"
+  last_updated: "2018"
+  currency:
+    status: current
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://ial-online.org/wp-content/uploads/2019/01/Drafter_booke.pdf
+  landing_url: https://www.doj.gov.hk/en/publications/
+  license: "© Government of the Hong Kong Special Administrative Region"
+
+- id: sg-agc-plain-laws-plus
+  title: Plain Laws Understandable by Singaporeans (PLUS) Report and Drafting Guidelines
+  jurisdiction: Singapore
+  jurisdiction_level: national
+  country_code: SG
+  region: Asia
+  issuing_body: Legislation Division, Attorney-General's Chambers (AGC)
+  languages: [en]
+  document_type: style guide
+  legal_status: Official AGC plain language drafting framework
+  published: "2015"
+  last_updated: "2024"
+  currency:
+    status: current
+    note: Sets out Singapore's plain English legislative drafting reforms, modernised vocabulary, and structural conventions.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://isomer-user-content.by.gov.sg/109/54f98e25-7c32-4f70-8210-963041ee708e/plus-report-(full).pdf
+  landing_url: https://www.agc.gov.sg/resources/plain-laws-understandable-by-singaporeans/
+  license: "© Government of Singapore"
+
+- id: kr-moleg-beomnyeong-iban-simsa-gijun
+  title: 법령 입안·심사 기준
+  title_en: Standards for Legislative Drafting and Examination
+  jurisdiction: South Korea
+  jurisdiction_level: national
+  country_code: KR
+  region: Asia
+  issuing_body: 법제처 (Ministry of Government Legislation, MOLEG)
+  languages: [ko]
+  document_type: drafting manual
+  legal_status: Official government legislative drafting and review manual
+  edition: 2026 edition
+  published: "1996"
+  last_updated: "2026"
+  currency:
+    status: current
+    note: 2026 revised edition published on moleg.go.kr.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://www.moleg.go.kr/boardDownload.es?bid=ATT&list_no=147288&seq=1
+  landing_url: https://www.moleg.go.kr/menu.es?mid=a10105030000
+  license: Korea Open Government License (KOGL)
+
+- id: jp-clb-horitsu-an-sakusei
+  title: 法律案の審査・作成（内閣法制局）
+  title_en: Examination and Drafting of Cabinet Bills (Cabinet Legislation Bureau)
+  jurisdiction: Japan
+  jurisdiction_level: national
+  country_code: JP
+  region: Asia
+  issuing_body: 内閣法制局 (Cabinet Legislation Bureau)
+  languages: [ja]
+  document_type: process guide
+  legal_status: Official guidance
+  last_updated: continuously updated online
+  currency:
+    status: current
+    note: Official CLB overview of bill examination and legislative drafting practice (法制執務).
+    checked_on: "2026-10-29"
+  original_format: HTML
+  source_url: https://www.clb.go.jp/law/bill/
+  landing_url: https://www.clb.go.jp/law/
+  license: Government of Japan Standard Terms of Use (CC BY 4.0 compatible)
+
+- id: in-manual-parliamentary-procedures
+  title: Manual of Parliamentary Procedures in the Government of India
+  jurisdiction: India
+  jurisdiction_level: national
+  country_code: IN
+  region: Asia
+  issuing_body: Ministry of Parliamentary Affairs and Legislative Department (Ministry of Law and Justice)
+  languages: [en]
+  document_type: process guide
+  legal_status: Official government manual (Chapter 9 governs drafting and processing of legislation)
+  edition: Revised edition (2019/2025)
+  published: "1957"
+  last_updated: "2025-08"
+  currency:
+    status: current
+    note: Chapter 9 sets out the requirements for legislative proposals, drafting of Bills by the Legislative Department, Statements of Objects and Reasons, and subordinate legislation.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://www.mpa.gov.in/static/uploads/2025/08/da33cd4cd8299d8abb4e793fea36cff6.pdf
+  landing_url: https://www.mpa.gov.in/
+  license: Government of India Open Data License
+
+- id: qa-drafting-legislation-guide
+  title: "Drafting Legislation in the State of Qatar: Origins, Principles and Standards"
+  jurisdiction: Qatar
+  jurisdiction_level: national
+  country_code: QA
+  region: Asia
+  issuing_body: General Secretariat for the Council of Ministers
+  languages: [en, ar]
+  document_type: drafting manual
+  legal_status: Guidance
+  published: "2022"
+  last_updated: "2022"
+  currency:
+    status: current
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://ial-online.org/wp-content/uploads/2022/09/Drafting-legislation-in-the-State-of-Qatar.pdf
+  landing_url: https://ial-online.org/legislative-drafting-rules/
+  license: Unspecified
+
+# ================================================================
+# AFRICA (EXPANDED)
+# ================================================================
+
+- id: tz-ocpd-legislative-drafting-manual
+  title: Legislative Drafting Manual
+  jurisdiction: Tanzania
+  jurisdiction_level: national
+  country_code: TZ
+  region: Africa
+  issuing_body: Office of the Chief Parliamentary Draftsman, Office of the Attorney General
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Official manual issued under the Office of the Attorney General (Discharge of Duties) Act (Cap. 268)
+  published: "2024"
+  last_updated: "2024-09"
+  currency:
+    status: current
+    note: Hosted directly by the Office of the Chief Parliamentary Draftsman (ocpd.go.tz).
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://www.ocpd.go.tz/uploads/documents/sw-1726227821-ENGLISH%20MANUAL.pdf
+  landing_url: https://www.ocpd.go.tz/
+  license: "© Office of the Attorney General, United Republic of Tanzania"
+
+- id: rw-rlrc-legislative-drafting-guidelines
+  title: Imirongo Ngenderwaho y'Imyandikire y'Amategeko / Guidelines of Legislative Drafting / Lignes directrices de la légistique
+  title_en: Guidelines of Legislative Drafting
+  jurisdiction: Rwanda
+  jurisdiction_level: national
+  country_code: RW
+  region: Africa
+  issuing_body: Rwanda Law Reform Commission (RLRC) / Ministry of Justice (MINIJUST)
+  languages: [rw, en, fr]
+  document_type: drafting guidelines
+  legal_status: Official trilingual legislative drafting guidelines issued by the Rwanda Law Reform Commission
+  edition: "2022"
+  published: "2022"
+  last_updated: "2022"
+  currency:
+    status: current
+    note: Trilingual (Kinyarwanda, English, French) guidelines governing the structure, style, and multilingual drafting of laws in Rwanda.
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://www.rlrc.gov.rw/fileadmin/user_upload/RLRC/Publications/Other_documents/LEGISLATIVE_DRAFTING_GUIDELINES_RLRC_2022.pdf
+  landing_url: https://www.rlrc.gov.rw/
+  license: Official work (Republic of Rwanda)
+
+- id: ng-nilds-national-legislative-drafting-guide
+  title: National Legislative Drafting Guide
+  jurisdiction: Nigeria
+  jurisdiction_level: national
+  country_code: NG
+  region: Africa
+  issuing_body: National Institute for Legislative and Democratic Studies (NILDS), National Assembly
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Official parliamentary institute drafting manual for the National Assembly and State Houses of Assembly
+  published: "2022"
+  last_updated: "2022"
+  currency:
+    status: current
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://upload.wikimedia.org/wikipedia/commons/d/d2/Nigeria%27s_NATIONAL_LEGISLATIVE_DRAFTING_GUIDE.pdf
+  landing_url: https://nilds.gov.ng/
+  license: CC BY-SA 4.0
+
+- id: za-sals-lawmaking-practical-guide
+  title: Law-Making in South Africa – A Practical Guide for Members of Parliament, Provincial Legislatures and Executives
+  jurisdiction: South Africa
+  jurisdiction_level: national
+  country_code: ZA
+  region: Africa
+  issuing_body: South African Legislative Sector (Parliament of the Republic of South Africa)
+  languages: [en]
+  document_type: process guide
+  legal_status: Guidance
+  published: "2021-12"
+  last_updated: "2021-12"
+  currency:
+    status: current
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://sals.gov.za/wp-content/uploads/2021/12/practical-guide-for-mps-and-mpls.pdf
+  landing_url: https://sals.gov.za/
+  license: "© South African Legislative Sector"
+
+- id: lr-legislation-handbook
+  title: Liberia Legislation Handbook – A Technical Guide to Legislative Drafting
+  jurisdiction: Liberia
+  jurisdiction_level: national
+  country_code: LR
+  region: Africa
+  issuing_body: Legislature of Liberia / Law Reform Commission
+  languages: [en]
+  document_type: drafting handbook
+  legal_status: Guidance
+  published: "2016"
+  last_updated: "2016"
+  currency:
+    status: current
+    checked_on: "2026-10-29"
+  original_format: PDF
+  source_url: https://ial-online.org/wp-content/uploads/2018/05/Liberia-Legislation-Handbook.pdf
+  landing_url: https://ial-online.org/legislative-drafting-rules/
   license: Unspecified

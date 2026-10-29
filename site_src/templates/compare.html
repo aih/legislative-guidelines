@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+{% block title %}Compare Legislative Drafting Rules Across Jurisdictions | {{ site.title }}{% endblock %}
+{% block description %}Side-by-side comparison of how national and supranational legislative drafting manuals handle modal verbs ('shall' vs 'must'), definitions, recitals, gender neutrality, amending techniques, and digital-ready legislation.{% endblock %}
+{% block main %}
+<div class="wrap compare-page">
+  <p class="crumbs"><a href="index.html">Guidelines</a> › Comparative Rules Matrix</p>
+  <h1>Cross-Jurisdictional Legislative Drafting Matrix</h1>
+  <p class="lead">How do major national and supranational drafting manuals diverge on core questions of legistics? Explore side-by-side rules across <strong>{{ matrix.jurisdictions|length }} benchmark authorities</strong> and <strong>{{ matrix.dimensions|length }} drafting dimensions</strong>, with exact manual citations and one-click testing in the <a href="auditor.html">Bill Drafting Auditor</a>.</p>
+
+  <div class="filters compare-filters" aria-label="Filter comparative dimensions">
+    <label>Drafting Dimension
+      <select id="comp-dim-filter">
+        <option value="">All {{ matrix.dimensions|length }} dimensions</option>
+        {% for d in matrix.dimensions %}
+        <option value="{{ d.id }}">{{ d.title }}</option>
+        {% endfor %}
+      </select>
+    </label>
+    <label>Legal Tradition
+      <select id="comp-trad-filter">
+        <option value="">All traditions</option>
+        <option value="common_law">Common Law</option>
+        <option value="civil_law">Civil Law</option>
+        <option value="bijural">Bijural / Bilingual</option>
+        <option value="supranational">Supranational (EU)</option>
+        <option value="international">International</option>
+      </select>
+    </label>
+    <div style="margin-left:auto; display:flex; gap:.5rem; align-items:center;">
+      <a class="button" href="auditor.html">Test a Bill in the Auditor →</a>
+    </div>
+  </div>
+
+  {% for dim in matrix.dimensions %}
+  <section class="meta-card comp-dim-section" id="dim-{{ dim.id }}" data-dim="{{ dim.id }}">
+    <h2>{{ dim.title }}</h2>
+    <p class="muted" style="margin-top:0;">{{ dim.summary }}</p>
+    <div class="table-scroll">
+      <table class="catalog-table comp-matrix-table">
+        <thead>
+          <tr>
+            <th style="width:18%">Authority</th>
+            <th style="width:18%">Core Stance</th>
+            <th>Official Rule &amp; Citation</th>
+            <th style="width:12%">Audit</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for j in matrix.jurisdictions %}
+          {% set pos = dim.positions[j.id] %}
+          <tr data-tradition="{{ j.tradition }}">
+            <td>
+              <a class="g-title" href="guidelines/{{ j.id }}/index.html">{{ j.short }}</a>
+              <span class="g-type">{{ j.name }}</span>
+              <span class="level level-{{ j.tradition }}">{{ j.tradition|replace('_', ' ') }}</span>
+            </td>
+            <td>
+              <span class="badge badge-in-force">{{ pos.badge }}</span>
+              <div style="font-weight:600; font-size:.88rem; margin-top:.25rem;">{{ pos.stance }}</div>
+            </td>
+            <td>{{ pos.detail }}</td>
+            <td class="nowrap">
+              <a class="button button-outline" style="padding:.3rem .6rem; font-size:.8rem;" href="auditor.html?guideline={{ j.id }}">Audit with {{ j.short }}</a>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
+  {% endfor %}
+</div>
+{% endblock %}
+{% block scripts %}
+<script>
+  (function () {
+    var dimSel = document.getElementById('comp-dim-filter');
+    var tradSel = document.getElementById('comp-trad-filter');
+    var sections = Array.prototype.slice.call(document.querySelectorAll('.comp-dim-section'));
+    function apply() {
+      var dv = dimSel.value;
+      var tv = tradSel.value;
+      sections.forEach(function (sec) {
+        sec.hidden = Boolean(dv && sec.dataset.dim !== dv);
+        Array.prototype.slice.call(sec.querySelectorAll('tbody tr')).forEach(function (tr) {
+          tr.hidden = Boolean(tv && tr.dataset.tradition !== tv);
+        });
+      });
+    }
+    dimSel.addEventListener('change', apply);
+    tradSel.addEventListener('change', apply);
+  })();
+</script>
+{% endblock %}

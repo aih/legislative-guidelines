@@ -1,0 +1,2102 @@
+[
+ {
+  "id": "aanwijzingen-voor-de-regelgeving",
+  "level": 2,
+  "title": "Aanwijzingen voor de regelgeving"
+ },
+ {
+  "id": "hoofdstuk-1-toepassingsbereik",
+  "level": 3,
+  "title": "Hoofdstuk 1. Toepassingsbereik"
+ },
+ {
+  "id": "aanwijzing-1-1-reikwijdte",
+  "level": 4,
+  "title": "Aanwijzing 1.1. Reikwijdte"
+ },
+ {
+  "id": "aanwijzing-1-2-aanwijzingen-voor-de-rijksdienst",
+  "level": 4,
+  "title": "Aanwijzing 1.2. Aanwijzingen voor de rijksdienst"
+ },
+ {
+  "id": "aanwijzing-1-3-definities",
+  "level": 4,
+  "title": "Aanwijzing 1.3. Definities"
+ },
+ {
+  "id": "hoofdstuk-2-algemene-onderwerpen-van-regelgeving",
+  "level": 3,
+  "title": "Hoofdstuk 2. Algemene onderwerpen van regelgeving"
+ },
+ {
+  "id": "2-1-uitgangspunten-voor-het-gebruik-van-regelgeving-als-inst",
+  "level": 4,
+  "title": "§ 2.1. Uitgangspunten voor het gebruik van regelgeving als instrument"
+ },
+ {
+  "id": "aanwijzing-2-1-keuze-voor-regelgeving",
+  "level": 4,
+  "title": "Aanwijzing 2.1. Keuze voor regelgeving"
+ },
+ {
+  "id": "aanwijzing-2-2-noodzaak-van-regelgeving",
+  "level": 4,
+  "title": "Aanwijzing 2.2. Noodzaak van regelgeving"
+ },
+ {
+  "id": "aanwijzing-2-3-voorafgaand-onderzoek",
+  "level": 4,
+  "title": "Aanwijzing 2.3. Voorafgaand onderzoek"
+ },
+ {
+  "id": "aanwijzing-2-4-terughoudendheid-met-toezeggingen",
+  "level": 4,
+  "title": "Aanwijzing 2.4. Terughoudendheid met toezeggingen"
+ },
+ {
+  "id": "aanwijzing-2-5-zelfregulering",
+  "level": 4,
+  "title": "Aanwijzing 2.5. Zelfregulering"
+ },
+ {
+  "id": "aanwijzing-2-6-duidelijkheid-eenvoud-en-bestendigheid",
+  "level": 4,
+  "title": "Aanwijzing 2.6. Duidelijkheid, eenvoud en bestendigheid"
+ },
+ {
+  "id": "aanwijzing-2-7-handhaafbaarheid",
+  "level": 4,
+  "title": "Aanwijzing 2.7. Handhaafbaarheid"
+ },
+ {
+  "id": "aanwijzing-2-8-conflictbeperking",
+  "level": 4,
+  "title": "Aanwijzing 2.8. Conflictbeperking"
+ },
+ {
+  "id": "aanwijzing-2-9-neveneffecten",
+  "level": 4,
+  "title": "Aanwijzing 2.9. Neveneffecten"
+ },
+ {
+  "id": "aanwijzing-2-10-lasten-voor-de-maatschappij-en-de-overheid",
+  "level": 4,
+  "title": "Aanwijzing 2.10. Lasten voor de maatschappij en de overheid"
+ },
+ {
+  "id": "aanwijzing-2-11-evenredigheid",
+  "level": 4,
+  "title": "Aanwijzing 2.11. Evenredigheid"
+ },
+ {
+  "id": "aanwijzing-2-12-overige-kwaliteitseisen",
+  "level": 4,
+  "title": "Aanwijzing 2.12. Overige kwaliteitseisen"
+ },
+ {
+  "id": "aanwijzing-2-13-keuze-voor-decentralisatie",
+  "level": 4,
+  "title": "Aanwijzing 2.13. Keuze voor decentralisatie"
+ },
+ {
+  "id": "aanwijzing-2-14-normering-bestuursbevoegdheden",
+  "level": 4,
+  "title": "Aanwijzing 2.14. Normering bestuursbevoegdheden"
+ },
+ {
+  "id": "aanwijzing-2-15-verenigbaarheid-met-hoger-recht",
+  "level": 4,
+  "title": "Aanwijzing 2.15. Verenigbaarheid met hoger recht"
+ },
+ {
+  "id": "2-2-europees-en-caribisch-nederland",
+  "level": 4,
+  "title": "§ 2.2. Europees en Caribisch Nederland"
+ },
+ {
+  "id": "aanwijzing-2-16-territoriale-gelding-regelgeving-binnen-nede",
+  "level": 4,
+  "title": "Aanwijzing 2.16. Territoriale gelding regelgeving binnen Nederland"
+ },
+ {
+  "id": "2-3-algemeen-verbindende-voorschriften",
+  "level": 4,
+  "title": "§ 2.3. Algemeen verbindende voorschriften"
+ },
+ {
+  "id": "aanwijzing-2-17-begrip-algemeen-verbindend-voorschrift",
+  "level": 4,
+  "title": "Aanwijzing 2.17. Begrip algemeen verbindend voorschrift"
+ },
+ {
+  "id": "aanwijzing-2-18-vaststelling-algemeen-verbindende-voorschrif",
+  "level": 4,
+  "title": "Aanwijzing 2.18. Vaststelling algemeen verbindende voorschriften"
+ },
+ {
+  "id": "aanwijzing-2-19-primaat-van-de-wetgever",
+  "level": 4,
+  "title": "Aanwijzing 2.19. Primaat van de wetgever"
+ },
+ {
+  "id": "aanwijzing-2-20-grondwettelijke-delegatieverboden",
+  "level": 4,
+  "title": "Aanwijzing 2.20. Grondwettelijke delegatieverboden"
+ },
+ {
+  "id": "aanwijzing-2-21-bij-wet-vast-te-stellen-voorschriften",
+  "level": 4,
+  "title": "Aanwijzing 2.21. Bij wet vast te stellen voorschriften"
+ },
+ {
+  "id": "aanwijzing-2-22-zelfstandige-amvb",
+  "level": 4,
+  "title": "Aanwijzing 2.22. Zelfstandige amvb"
+ },
+ {
+  "id": "2-4-delegatie-en-mandaat-van-regelgevende-bevoegdheid",
+  "level": 4,
+  "title": "§ 2.4. Delegatie en mandaat van regelgevende bevoegdheid"
+ },
+ {
+  "id": "aanwijzing-2-23-begrenzing-delegatie",
+  "level": 4,
+  "title": "Aanwijzing 2.23. Begrenzing delegatie"
+ },
+ {
+  "id": "aanwijzing-2-24-toelaatbaarheid-delegatie-aan-minister",
+  "level": 4,
+  "title": "Aanwijzing 2.24. Toelaatbaarheid delegatie aan minister"
+ },
+ {
+  "id": "aanwijzing-2-25-rechtstreekse-delegatie-aan-minister",
+  "level": 4,
+  "title": "Aanwijzing 2.25. Rechtstreekse delegatie aan minister"
+ },
+ {
+  "id": "aanwijzing-2-26-terminologie-bij-delegatie-en-subdelegatie",
+  "level": 4,
+  "title": "Aanwijzing 2.26. Terminologie bij delegatie en subdelegatie"
+ },
+ {
+  "id": "aanwijzing-2-27-voorschriften-voordracht-en-ondertekening-am",
+  "level": 4,
+  "title": "Aanwijzing 2.27. Voorschriften voordracht en ondertekening amvb"
+ },
+ {
+  "id": "aanwijzing-2-28-terminologie-bij-delegatie-aan-minister",
+  "level": 4,
+  "title": "Aanwijzing 2.28. Terminologie bij delegatie aan minister"
+ },
+ {
+  "id": "aanwijzing-2-29-terminologie-regels-en-nadere-regels",
+  "level": 4,
+  "title": "Aanwijzing 2.29. Terminologie ‘regels’ en ‘nadere regels’"
+ },
+ {
+  "id": "aanwijzing-2-30-geen-mandaat-van-regelgevende-bevoegdheid",
+  "level": 4,
+  "title": "Aanwijzing 2.30. Geen mandaat van regelgevende bevoegdheid"
+ },
+ {
+  "id": "aanwijzing-2-31-afwijking-bij-lagere-regelgeving",
+  "level": 4,
+  "title": "Aanwijzing 2.31. Afwijking bij lagere regelgeving"
+ },
+ {
+  "id": "aanwijzing-2-32-wijziging-door-lagere-regeling",
+  "level": 4,
+  "title": "Aanwijzing 2.32. Wijziging door lagere regeling"
+ },
+ {
+  "id": "aanwijzing-2-33-tijdstip-vaststellen-amvb",
+  "level": 4,
+  "title": "Aanwijzing 2.33. Tijdstip vaststellen amvb"
+ },
+ {
+  "id": "aanwijzing-2-34-beperkt-aantal-uitvoeringsregelingen",
+  "level": 4,
+  "title": "Aanwijzing 2.34. Beperkt aantal uitvoeringsregelingen"
+ },
+ {
+  "id": "2-5-parlementaire-betrokkenheid-bij-gedelegeerde-regelgeving",
+  "level": 4,
+  "title": "§ 2.5. Parlementaire betrokkenheid bij gedelegeerde regelgeving"
+ },
+ {
+  "id": "aanwijzing-2-35-voorhangprocedures",
+  "level": 4,
+  "title": "Aanwijzing 2.35. Voorhangprocedures"
+ },
+ {
+  "id": "aanwijzing-2-36-gecontroleerde-delegatie",
+  "level": 4,
+  "title": "Aanwijzing 2.36. Gecontroleerde delegatie"
+ },
+ {
+  "id": "aanwijzing-2-37-voorwaardelijke-delegatie",
+  "level": 4,
+  "title": "Aanwijzing 2.37. Voorwaardelijke delegatie"
+ },
+ {
+  "id": "aanwijzing-2-38-voorhang-tijdens-recesperiode",
+  "level": 4,
+  "title": "Aanwijzing 2.38. Voorhang tijdens recesperiode"
+ },
+ {
+  "id": "aanwijzing-2-39-tijdelijke-delegatie",
+  "level": 4,
+  "title": "Aanwijzing 2.39. Tijdelijke delegatie"
+ },
+ {
+  "id": "aanwijzing-2-40-delegatie-onder-het-vereiste-van-goedkeuring",
+  "level": 4,
+  "title": "Aanwijzing 2.40. Delegatie onder het vereiste van goedkeuring bij wet"
+ },
+ {
+  "id": "2-6-experimentele-regelgeving",
+  "level": 4,
+  "title": "§ 2.6. Experimentele regelgeving"
+ },
+ {
+  "id": "aanwijzing-2-41-experimenteerregeling",
+  "level": 4,
+  "title": "Aanwijzing 2.41. Experimenteerregeling"
+ },
+ {
+  "id": "aanwijzing-2-42-evaluatie-experimenteerregeling",
+  "level": 4,
+  "title": "Aanwijzing 2.42. Evaluatie experimenteerregeling"
+ },
+ {
+  "id": "2-7-beleidsregels",
+  "level": 4,
+  "title": "§ 2.7. Beleidsregels"
+ },
+ {
+  "id": "aanwijzing-2-43-expliciete-aanduiding-beleidsregel",
+  "level": 4,
+  "title": "Aanwijzing 2.43. Expliciete aanduiding beleidsregel"
+ },
+ {
+  "id": "aanwijzing-2-44-beleidsregel-krachtens-mandaat",
+  "level": 4,
+  "title": "Aanwijzing 2.44. Beleidsregel krachtens mandaat"
+ },
+ {
+  "id": "2-8-harmonisatie",
+  "level": 4,
+  "title": "§ 2.8. Harmonisatie"
+ },
+ {
+  "id": "aanwijzing-2-45-harmonisatie-van-regelgeving",
+  "level": 4,
+  "title": "Aanwijzing 2.45. Harmonisatie van regelgeving"
+ },
+ {
+  "id": "aanwijzing-2-46-afwijking-van-algemene-wetten",
+  "level": 4,
+  "title": "Aanwijzing 2.46. Afwijking van algemene wetten"
+ },
+ {
+  "id": "aanwijzing-2-47-terminologie-algemene-wet-bestuursrecht",
+  "level": 4,
+  "title": "Aanwijzing 2.47. Terminologie Algemene wet bestuursrecht"
+ },
+ {
+  "id": "aanwijzing-2-48-bekendmaking-en-mededeling",
+  "level": 4,
+  "title": "Aanwijzing 2.48. Bekendmaking en mededeling"
+ },
+ {
+  "id": "hoofdstuk-3-aspecten-van-vormgeving",
+  "level": 3,
+  "title": "Hoofdstuk 3. Aspecten van vormgeving"
+ },
+ {
+  "id": "3-1-algemene-terminologische-punten",
+  "level": 4,
+  "title": "§ 3.1. Algemene terminologische punten"
+ },
+ {
+  "id": "aanwijzing-3-1-beknoptheid",
+  "level": 4,
+  "title": "Aanwijzing 3.1. Beknoptheid"
+ },
+ {
+  "id": "aanwijzing-3-2-terminologie-moeten-en-dienen",
+  "level": 4,
+  "title": "Aanwijzing 3.2. Terminologie ‘moeten’ en ‘dienen’"
+ },
+ {
+  "id": "aanwijzing-3-3-duidelijkheid",
+  "level": 4,
+  "title": "Aanwijzing 3.3. Duidelijkheid"
+ },
+ {
+  "id": "aanwijzing-3-4-terminologie-uitvoeringsregelingen",
+  "level": 4,
+  "title": "Aanwijzing 3.4. Terminologie uitvoeringsregelingen"
+ },
+ {
+  "id": "aanwijzing-3-5-aansluiten-bij-terminologie-internationale-re",
+  "level": 4,
+  "title": "Aanwijzing 3.5. Aansluiten bij terminologie internationale regelingen"
+ },
+ {
+  "id": "aanwijzing-3-6-woordenlijst-nederlandse-taal",
+  "level": 4,
+  "title": "Aanwijzing 3.6. Woordenlijst Nederlandse Taal"
+ },
+ {
+  "id": "aanwijzing-3-7-uniformiteit-van-begrippen",
+  "level": 4,
+  "title": "Aanwijzing 3.7. Uniformiteit van begrippen"
+ },
+ {
+  "id": "aanwijzing-3-8-sekseneutrale-persoonsaanduidingen",
+  "level": 4,
+  "title": "Aanwijzing 3.8. Sekseneutrale persoonsaanduidingen"
+ },
+ {
+  "id": "aanwijzing-3-9-afkortingen",
+  "level": 4,
+  "title": "Aanwijzing 3.9. Afkortingen"
+ },
+ {
+  "id": "aanwijzing-3-10-ficties-en-rechtsvermoedens",
+  "level": 4,
+  "title": "Aanwijzing 3.10. Ficties en rechtsvermoedens"
+ },
+ {
+  "id": "aanwijzing-3-11-uitdrukking-voor-zover",
+  "level": 4,
+  "title": "Aanwijzing 3.11. Uitdrukking ‘voor zover’"
+ },
+ {
+  "id": "aanwijzing-3-12-uitdrukking-en-of",
+  "level": 4,
+  "title": "Aanwijzing 3.12. Uitdrukking ‘en/of’"
+ },
+ {
+  "id": "aanwijzing-3-13-gebruik-van-haakjes",
+  "level": 4,
+  "title": "Aanwijzing 3.13. Gebruik van haakjes"
+ },
+ {
+  "id": "aanwijzing-3-14-uitdrukking-tot-en-met",
+  "level": 4,
+  "title": "Aanwijzing 3.14. Uitdrukking tot en met’"
+ },
+ {
+  "id": "aanwijzing-3-15-uitdrukkingen-onderscheidenlijk-en-c-q",
+  "level": 4,
+  "title": "Aanwijzing 3.15. Uitdrukkingen ‘onderscheidenlijk’ en ‘c.q.’"
+ },
+ {
+  "id": "aanwijzing-3-16-aanduiding-voorstel-van-wet",
+  "level": 4,
+  "title": "Aanwijzing 3.16. Aanduiding ‘voorstel van wet’"
+ },
+ {
+  "id": "aanwijzing-3-17-aanduiding-amvb-of-kb",
+  "level": 4,
+  "title": "Aanwijzing 3.17. Aanduiding ‘amvb’ of ‘kb’"
+ },
+ {
+  "id": "aanwijzing-3-18-aanduiding-ministeriële-regeling",
+  "level": 4,
+  "title": "Aanwijzing 3.18. Aanduiding ‘ministeriële regeling’"
+ },
+ {
+  "id": "aanwijzing-3-19-aanduiding-ministerie",
+  "level": 4,
+  "title": "Aanwijzing 3.19. Aanduiding ‘ministerie’"
+ },
+ {
+  "id": "aanwijzing-3-20-aanduidingen-nederland-en-koninkrijk",
+  "level": 4,
+  "title": "Aanwijzing 3.20. Aanduidingen ‘Nederland’ en ‘Koninkrijk’"
+ },
+ {
+  "id": "aanwijzing-3-21-aanduiding-bedragen",
+  "level": 4,
+  "title": "Aanwijzing 3.21. Aanduiding bedragen"
+ },
+ {
+  "id": "aanwijzing-3-22-aanduiding-meeteenheden",
+  "level": 4,
+  "title": "Aanwijzing 3.22. Aanduiding meeteenheden"
+ },
+ {
+  "id": "3-2-aanduiding-van-ministers-en-staatssecretarissen",
+  "level": 4,
+  "title": "§ 3.2. Aanduiding van ministers en staatssecretarissen"
+ },
+ {
+  "id": "aanwijzing-3-23-aanduiding-onze-minister",
+  "level": 4,
+  "title": "Aanwijzing 3.23. Aanduiding ‘Onze Minister’"
+ },
+ {
+  "id": "aanwijzing-3-24-aanduiding-medebetrokken-ministers",
+  "level": 4,
+  "title": "Aanwijzing 3.24. Aanduiding medebetrokken ministers"
+ },
+ {
+  "id": "aanwijzing-3-25-aanduiding-minister-voor-koninkrijksaangeleg",
+  "level": 4,
+  "title": "Aanwijzing 3.25. Aanduiding minister voor koninkrijksaangelegenheid"
+ },
+ {
+  "id": "aanwijzing-3-26-aanduiding-staatssecretarissen",
+  "level": 4,
+  "title": "Aanwijzing 3.26. Aanduiding staatssecretarissen"
+ },
+ {
+  "id": "3-3-aanhaling-en-verwijzing",
+  "level": 4,
+  "title": "§ 3.3. Aanhaling en verwijzing"
+ },
+ {
+  "id": "aanwijzing-3-27-verwijzingen",
+  "level": 4,
+  "title": "Aanwijzing 3.27. Verwijzingen"
+ },
+ {
+  "id": "aanwijzing-3-28-verbijzondering-verwijzing",
+  "level": 4,
+  "title": "Aanwijzing 3.28. Verbijzondering verwijzing"
+ },
+ {
+  "id": "aanwijzing-3-29-terminologie-verwijzing",
+  "level": 4,
+  "title": "Aanwijzing 3.29. Terminologie verwijzing"
+ },
+ {
+  "id": "aanwijzing-3-30-aanduidingen-zin-en-zinsnede",
+  "level": 4,
+  "title": "Aanwijzing 3.30. Aanduidingen ‘zin’ en ‘zinsnede’"
+ },
+ {
+  "id": "aanwijzing-3-31-terminologie-genoemd-bedoeld-en-als-bedoeld",
+  "level": 4,
+  "title": "Aanwijzing 3.31. Terminologie ‘genoemd’, ‘bedoeld’ en ‘als bedoeld’"
+ },
+ {
+  "id": "aanwijzing-3-32-terminologie-van-overeenkomstige-toepassing",
+  "level": 4,
+  "title": "Aanwijzing 3.32. Terminologie ‘van (overeenkomstige) toepassing’"
+ },
+ {
+  "id": "aanwijzing-3-33-aanduiding-deze-wet",
+  "level": 4,
+  "title": "Aanwijzing 3.33. Aanduiding ‘deze wet’"
+ },
+ {
+  "id": "aanwijzing-3-34-verwijzing-naar-het-bw",
+  "level": 4,
+  "title": "Aanwijzing 3.34. Verwijzing naar het BW"
+ },
+ {
+  "id": "aanwijzing-3-35-terminologie-onverminderd-en-in-afwijking-va",
+  "level": 4,
+  "title": "Aanwijzing 3.35. Terminologie ‘onverminderd’ en ‘in afwijking van’"
+ },
+ {
+  "id": "aanwijzing-3-36-niet-vermelden-vindplaats-regeling-met-citee",
+  "level": 4,
+  "title": "Aanwijzing 3.36. Niet vermelden vindplaats regeling met citeertitel"
+ },
+ {
+  "id": "aanwijzing-3-37-aanhalen-regelingen-zonder-citeertitel",
+  "level": 4,
+  "title": "Aanwijzing 3.37. Aanhalen regelingen zonder citeertitel"
+ },
+ {
+  "id": "aanwijzing-3-38-aanhalen-verdragen",
+  "level": 4,
+  "title": "Aanwijzing 3.38. Aanhalen verdragen"
+ },
+ {
+  "id": "aanwijzing-3-39-verkorte-aanhaling-verdragen",
+  "level": 4,
+  "title": "Aanwijzing 3.39. Verkorte aanhaling verdragen"
+ },
+ {
+  "id": "aanwijzing-3-40-aanhalen-europese-instellingen-e-d",
+  "level": 4,
+  "title": "Aanwijzing 3.40. Aanhalen Europese instellingen e.d."
+ },
+ {
+  "id": "aanwijzing-3-41-aanhalen-eer-en-zwitserland",
+  "level": 4,
+  "title": "Aanwijzing 3.41. Aanhalen EER en Zwitserland"
+ },
+ {
+  "id": "aanwijzing-3-42-aanhalen-bindende-eu-rechtshandelingen",
+  "level": 4,
+  "title": "Aanwijzing 3.42. Aanhalen bindende EU-rechtshandelingen"
+ },
+ {
+  "id": "aanwijzing-3-43-verwijzing-naar-parlementaire-stukken",
+  "level": 4,
+  "title": "Aanwijzing 3.43. Verwijzing naar parlementaire stukken"
+ },
+ {
+  "id": "aanwijzing-3-44-verwijzing-naar-jurisprudentie",
+  "level": 4,
+  "title": "Aanwijzing 3.44. Verwijzing naar jurisprudentie"
+ },
+ {
+  "id": "aanwijzing-3-45-vermelding-vindplaatsen-staatsblad-e-d",
+  "level": 4,
+  "title": "Aanwijzing 3.45. Vermelding vindplaatsen Staatsblad e.d."
+ },
+ {
+  "id": "aanwijzing-3-46-vermelding-vindplaats-pbeu",
+  "level": 4,
+  "title": "Aanwijzing 3.46. Vermelding vindplaats PbEU"
+ },
+ {
+  "id": "aanwijzing-3-47-dynamische-en-statische-verwijzing",
+  "level": 4,
+  "title": "Aanwijzing 3.47. Dynamische en statische verwijzing"
+ },
+ {
+  "id": "aanwijzing-3-48-verwijzing-naar-normalisatienormen",
+  "level": 4,
+  "title": "Aanwijzing 3.48. Verwijzing naar normalisatienormen"
+ },
+ {
+  "id": "aanwijzing-3-49-verwijzing-naar-ict-standaarden",
+  "level": 4,
+  "title": "Aanwijzing 3.49. Verwijzing naar ICT-standaarden"
+ },
+ {
+  "id": "aanwijzing-3-50-verwijzingen-naar-informatie-op-internet",
+  "level": 4,
+  "title": "Aanwijzing 3.50. Verwijzingen naar informatie op internet"
+ },
+ {
+  "id": "aanwijzing-3-51-vertaling-van-niet-nederlandstalige-normen",
+  "level": 4,
+  "title": "Aanwijzing 3.51. Vertaling van niet-Nederlandstalige normen"
+ },
+ {
+  "id": "3-4-gebruik-van-hoofdletters",
+  "level": 4,
+  "title": "§ 3.4. Gebruik van hoofdletters"
+ },
+ {
+  "id": "aanwijzing-3-52-gebruik-van-hoofdletters",
+  "level": 4,
+  "title": "Aanwijzing 3.52. Gebruik van hoofdletters"
+ },
+ {
+  "id": "3-5-indeling-van-regelingen",
+  "level": 4,
+  "title": "§ 3.5. Indeling van regelingen"
+ },
+ {
+  "id": "aanwijzing-3-53-opbouw-regeling",
+  "level": 4,
+  "title": "Aanwijzing 3.53. Opbouw regeling"
+ },
+ {
+  "id": "aanwijzing-3-54-artikelen-en-wijze-van-nummering",
+  "level": 4,
+  "title": "Aanwijzing 3.54. Artikelen en wijze van nummering"
+ },
+ {
+  "id": "aanwijzing-3-55-slotartikelen",
+  "level": 4,
+  "title": "Aanwijzing 3.55. Slotartikelen"
+ },
+ {
+  "id": "aanwijzing-3-56-onderverdeling-in-hoofdstukken-e-d",
+  "level": 4,
+  "title": "Aanwijzing 3.56. Onderverdeling in hoofdstukken e.d."
+ },
+ {
+  "id": "aanwijzing-3-57-opschriften-van-hoofdstukken-e-d",
+  "level": 4,
+  "title": "Aanwijzing 3.57. Opschriften van hoofdstukken e.d."
+ },
+ {
+  "id": "aanwijzing-3-58-verdeling-artikel-in-leden",
+  "level": 4,
+  "title": "Aanwijzing 3.58. Verdeling artikel in leden"
+ },
+ {
+  "id": "aanwijzing-3-59-opsommingen",
+  "level": 4,
+  "title": "Aanwijzing 3.59. Opsommingen"
+ },
+ {
+  "id": "aanwijzing-3-60-karakter-opsomming",
+  "level": 4,
+  "title": "Aanwijzing 3.60. Karakter opsomming"
+ },
+ {
+  "id": "aanwijzing-3-61-bijlagen",
+  "level": 4,
+  "title": "Aanwijzing 3.61. Bijlagen"
+ },
+ {
+  "id": "aanwijzing-3-62-opschrift-van-bijlagen",
+  "level": 4,
+  "title": "Aanwijzing 3.62. Opschrift van bijlagen"
+ },
+ {
+  "id": "aanwijzing-3-63-indeling-van-uitvoeringsregelingen",
+  "level": 4,
+  "title": "Aanwijzing 3.63. Indeling van uitvoeringsregelingen"
+ },
+ {
+  "id": "aanwijzing-3-64-herhaling-bepalingen-uit-andere-regelingen",
+  "level": 4,
+  "title": "Aanwijzing 3.64. Herhaling bepalingen uit andere regelingen"
+ },
+ {
+  "id": "hoofdstuk-4-algemene-bestanddelen-van-regelingen",
+  "level": 3,
+  "title": "Hoofdstuk 4. Algemene bestanddelen van regelingen"
+ },
+ {
+  "id": "4-1-opschrift",
+  "level": 4,
+  "title": "§ 4.1. Opschrift"
+ },
+ {
+  "id": "aanwijzing-4-1-opschrift",
+  "level": 4,
+  "title": "Aanwijzing 4.1. Opschrift"
+ },
+ {
+  "id": "aanwijzing-4-2-model-opschrift",
+  "level": 4,
+  "title": "Aanwijzing 4.2. Model opschrift"
+ },
+ {
+  "id": "aanwijzing-4-3-inhoud-opschrift",
+  "level": 4,
+  "title": "Aanwijzing 4.3. Inhoud opschrift"
+ },
+ {
+  "id": "aanwijzing-4-4-vermelding-citeertitel-in-opschrift",
+  "level": 4,
+  "title": "Aanwijzing 4.4. Vermelding citeertitel in opschrift"
+ },
+ {
+  "id": "aanwijzing-4-4a-vermelding-ketenid",
+  "level": 4,
+  "title": "Aanwijzing 4.4a. Vermelding KetenID"
+ },
+ {
+  "id": "4-2-aanhef",
+  "level": 4,
+  "title": "§ 4.2. Aanhef"
+ },
+ {
+  "id": "aanwijzing-4-5-aanhef-van-een-wet",
+  "level": 4,
+  "title": "Aanwijzing 4.5. Aanhef van een wet"
+ },
+ {
+  "id": "aanwijzing-4-6-aanhef-van-een-amvb-of-kb",
+  "level": 4,
+  "title": "Aanwijzing 4.6. Aanhef van een amvb of kb"
+ },
+ {
+  "id": "aanwijzing-4-7-voordracht-bij-medebetrokkenheid",
+  "level": 4,
+  "title": "Aanwijzing 4.7. Voordracht bij medebetrokkenheid"
+ },
+ {
+  "id": "aanwijzing-4-8-aanhef-van-een-ministeriële-regeling",
+  "level": 4,
+  "title": "Aanwijzing 4.8. Aanhef van een ministeriële regeling"
+ },
+ {
+  "id": "aanwijzing-4-9-aanhef-van-een-beleidsregel",
+  "level": 4,
+  "title": "Aanwijzing 4.9. Aanhef van een beleidsregel"
+ },
+ {
+  "id": "aanwijzing-4-10-gelet-op",
+  "level": 4,
+  "title": "Aanwijzing 4.10. ‘Gelet op’"
+ },
+ {
+  "id": "4-3-considerans",
+  "level": 4,
+  "title": "§ 4.3. Considerans"
+ },
+ {
+  "id": "aanwijzing-4-11-considerans",
+  "level": 4,
+  "title": "Aanwijzing 4.11. Considerans"
+ },
+ {
+  "id": "aanwijzing-4-12-inhoud-considerans",
+  "level": 4,
+  "title": "Aanwijzing 4.12. Inhoud considerans"
+ },
+ {
+  "id": "aanwijzing-4-13-vermelding-hogere-regeling-in-considerans",
+  "level": 4,
+  "title": "Aanwijzing 4.13. Vermelding hogere regeling in considerans"
+ },
+ {
+  "id": "4-4-inwerkingtreding",
+  "level": 4,
+  "title": "§ 4.4. Inwerkingtreding"
+ },
+ {
+  "id": "aanwijzing-4-14-inwerkingtredingsbepaling",
+  "level": 4,
+  "title": "Aanwijzing 4.14. Inwerkingtredingsbepaling"
+ },
+ {
+  "id": "aanwijzing-4-15-kenbaarheid-tijdstip-van-inwerkingtreding",
+  "level": 4,
+  "title": "Aanwijzing 4.15. Kenbaarheid tijdstip van inwerkingtreding"
+ },
+ {
+  "id": "aanwijzing-4-16-inwerkingtreding-na-bekendmaking",
+  "level": 4,
+  "title": "Aanwijzing 4.16. Inwerkingtreding na bekendmaking"
+ },
+ {
+  "id": "aanwijzing-4-17-vaste-verandermomenten-en-minimuminvoeringst",
+  "level": 4,
+  "title": "Aanwijzing 4.17. Vaste verandermomenten en minimuminvoeringstermijn"
+ },
+ {
+  "id": "aanwijzing-4-18-tijdstip-inwerkingtreding-referendabele-wet",
+  "level": 4,
+  "title": "Aanwijzing 4.18. Tijdstip inwerkingtreding referendabele wet"
+ },
+ {
+  "id": "aanwijzing-4-19-inwerkingtreding-hulpbepalingen",
+  "level": 4,
+  "title": "Aanwijzing 4.19. Inwerkingtreding hulpbepalingen"
+ },
+ {
+  "id": "aanwijzing-4-20-inwerkingtreding-inwerkingtredingsbesluit",
+  "level": 4,
+  "title": "Aanwijzing 4.20. Inwerkingtreding inwerkingtredingsbesluit"
+ },
+ {
+  "id": "aanwijzing-4-21-model-inwerkingtredingsbepaling",
+  "level": 4,
+  "title": "Aanwijzing 4.21. Model inwerkingtredingsbepaling"
+ },
+ {
+  "id": "aanwijzing-4-22-bijzondere-inwerkingtredingsbepalingen",
+  "level": 4,
+  "title": "Aanwijzing 4.22. Bijzondere inwerkingtredingsbepalingen"
+ },
+ {
+  "id": "aanwijzing-4-23-eerdere-inwerkingtreding-referendabele-wet",
+  "level": 4,
+  "title": "Aanwijzing 4.23. Eerdere inwerkingtreding referendabele wet"
+ },
+ {
+  "id": "4-5-citeertitel",
+  "level": 4,
+  "title": "§ 4.5. Citeertitel"
+ },
+ {
+  "id": "aanwijzing-4-24-noodzaak-citeertitel",
+  "level": 4,
+  "title": "Aanwijzing 4.24. Noodzaak citeertitel"
+ },
+ {
+  "id": "aanwijzing-4-25-formulering-citeertitel",
+  "level": 4,
+  "title": "Aanwijzing 4.25. Formulering citeertitel"
+ },
+ {
+  "id": "4-6-bekendmaking",
+  "level": 4,
+  "title": "§ 4.6. Bekendmaking"
+ },
+ {
+  "id": "aanwijzing-4-26-bepalingen-over-plaatsing-in-staatsblad-staa",
+  "level": 4,
+  "title": "Aanwijzing 4.26. Bepalingen over plaatsing in Staatsblad / Staatscourant"
+ },
+ {
+  "id": "aanwijzing-4-27-spoedige-bekendmaking",
+  "level": 4,
+  "title": "Aanwijzing 4.27. Spoedige bekendmaking"
+ },
+ {
+  "id": "aanwijzing-4-28-terinzagelegging-bijlagen",
+  "level": 4,
+  "title": "Aanwijzing 4.28. Terinzagelegging bijlagen"
+ },
+ {
+  "id": "aanwijzing-4-29-normen-van-niet-publiekrechtelijke-aard",
+  "level": 4,
+  "title": "Aanwijzing 4.29. Normen van niet-publiekrechtelijke aard"
+ },
+ {
+  "id": "aanwijzing-4-30-inhoudsopgave",
+  "level": 4,
+  "title": "Aanwijzing 4.30. Inhoudsopgave"
+ },
+ {
+  "id": "4-7-slotformulier",
+  "level": 4,
+  "title": "§ 4.7. Slotformulier"
+ },
+ {
+  "id": "aanwijzing-4-31-modellen-voor-slotformulieren",
+  "level": 4,
+  "title": "Aanwijzing 4.31. Modellen voor slotformulieren"
+ },
+ {
+  "id": "aanwijzing-4-32-slotformulier-bij-bekendmaking-bijlagen-via-",
+  "level": 4,
+  "title": "Aanwijzing 4.32. Slotformulier bij bekendmaking bijlagen via ander algemeen toegankelijk\n                                             elektronisch medium"
+ },
+ {
+  "id": "4-8-ondertekening",
+  "level": 4,
+  "title": "§ 4.8. Ondertekening"
+ },
+ {
+  "id": "aanwijzing-4-33-mede-ondertekening",
+  "level": 4,
+  "title": "Aanwijzing 4.33. (Mede)ondertekening"
+ },
+ {
+  "id": "aanwijzing-4-34-ondertekening-uitvoeringsregelingen",
+  "level": 4,
+  "title": "Aanwijzing 4.34. Ondertekening uitvoeringsregelingen"
+ },
+ {
+  "id": "aanwijzing-4-35-ondertekening-inwerkingtredingsbesluit",
+  "level": 4,
+  "title": "Aanwijzing 4.35. Ondertekening inwerkingtredingsbesluit"
+ },
+ {
+  "id": "aanwijzing-4-36-volgorde-ondertekening",
+  "level": 4,
+  "title": "Aanwijzing 4.36. Volgorde ondertekening"
+ },
+ {
+  "id": "aanwijzing-4-37-ondertekening-minister-president",
+  "level": 4,
+  "title": "Aanwijzing 4.37. Ondertekening Minister-President"
+ },
+ {
+  "id": "aanwijzing-4-38-ondertekening-minister-ad-interim",
+  "level": 4,
+  "title": "Aanwijzing 4.38. Ondertekening minister ad interim"
+ },
+ {
+  "id": "aanwijzing-4-39-wijzigingen-in-portefeuilleverdeling-e-d",
+  "level": 4,
+  "title": "Aanwijzing 4.39. Wijzigingen in portefeuilleverdeling e.d."
+ },
+ {
+  "id": "aanwijzing-4-40-ondertekening-kamerstukken",
+  "level": 4,
+  "title": "Aanwijzing 4.40. Ondertekening Kamerstukken"
+ },
+ {
+  "id": "aanwijzing-4-41-opnieuw-vaststellen-van-niet-uit-tekst-besta",
+  "level": 4,
+  "title": "Aanwijzing 4.41. Opnieuw vaststellen van niet uit tekst bestaande informatie of via\n                                             ander algemeen toegankelijk elektronisch medium bekendgemaakte bijlage bij wijziging\n                                             daarvan"
+ },
+ {
+  "id": "4-9-toelichting",
+  "level": 4,
+  "title": "§ 4.9. Toelichting"
+ },
+ {
+  "id": "aanwijzing-4-42-noodzaak-toelichting",
+  "level": 4,
+  "title": "Aanwijzing 4.42. Noodzaak toelichting"
+ },
+ {
+  "id": "aanwijzing-4-43-inhoud-toelichting",
+  "level": 4,
+  "title": "Aanwijzing 4.43. Inhoud toelichting"
+ },
+ {
+  "id": "aanwijzing-4-44-vermelding-inbreng-externe-partijen",
+  "level": 4,
+  "title": "Aanwijzing 4.44. Vermelding inbreng externe partijen"
+ },
+ {
+  "id": "aanwijzing-4-45-vermelding-financiële-gevolgen",
+  "level": 4,
+  "title": "Aanwijzing 4.45. Vermelding financiële gevolgen"
+ },
+ {
+  "id": "aanwijzing-4-46-financiële-gevolgen-decentrale-overheden",
+  "level": 4,
+  "title": "Aanwijzing 4.46. Financiële gevolgen decentrale overheden"
+ },
+ {
+  "id": "aanwijzing-4-47-geen-nadere-regels-in-toelichting",
+  "level": 4,
+  "title": "Aanwijzing 4.47. Geen nadere regels in toelichting"
+ },
+ {
+  "id": "aanwijzing-4-48-opbouw-toelichting",
+  "level": 4,
+  "title": "Aanwijzing 4.48. Opbouw toelichting"
+ },
+ {
+  "id": "aanwijzing-4-49-formulering-en-indeling",
+  "level": 4,
+  "title": "Aanwijzing 4.49. Formulering en indeling"
+ },
+ {
+  "id": "aanwijzing-4-50-verkorte-aanduiding-regelingen",
+  "level": 4,
+  "title": "Aanwijzing 4.50. Verkorte aanduiding regelingen"
+ },
+ {
+  "id": "aanwijzing-4-51-vermelding-vindplaatsen",
+  "level": 4,
+  "title": "Aanwijzing 4.51. Vermelding vindplaatsen"
+ },
+ {
+  "id": "aanwijzing-4-52-ondertekening-toelichting",
+  "level": 4,
+  "title": "Aanwijzing 4.52. Ondertekening toelichting"
+ },
+ {
+  "id": "aanwijzing-4-53-ondertekening-bij-voordracht-mede-namens",
+  "level": 4,
+  "title": "Aanwijzing 4.53. Ondertekening bij voordracht ‘mede namens’"
+ },
+ {
+  "id": "hoofdstuk-5-bijzondere-bestanddelen-van-regelingen",
+  "level": 3,
+  "title": "Hoofdstuk 5. Bijzondere bestanddelen van regelingen"
+ },
+ {
+  "id": "5-1-begripsbepalingen",
+  "level": 4,
+  "title": "§ 5.1. Begripsbepalingen"
+ },
+ {
+  "id": "aanwijzing-5-1-begripsbepalingen",
+  "level": 4,
+  "title": "Aanwijzing 5.1. Begripsbepalingen"
+ },
+ {
+  "id": "aanwijzing-5-2-verkorte-aanduidingen",
+  "level": 4,
+  "title": "Aanwijzing 5.2. Verkorte aanduidingen"
+ },
+ {
+  "id": "aanwijzing-5-3-formulering-begripsbepalingen",
+  "level": 4,
+  "title": "Aanwijzing 5.3. Formulering begripsbepalingen"
+ },
+ {
+  "id": "5-2-caribisch-nederland",
+  "level": 4,
+  "title": "§ 5.2. Caribisch Nederland"
+ },
+ {
+  "id": "aanwijzing-5-4-toepasselijkheid-in-bonaire-sint-eustatius-en",
+  "level": 4,
+  "title": "Aanwijzing 5.4. Toepasselijkheid in Bonaire, Sint Eustatius en Saba"
+ },
+ {
+  "id": "aanwijzing-5-5-hoofdstuk-caribisch-nederland-in-gemengde-reg",
+  "level": 4,
+  "title": "Aanwijzing 5.5. Hoofdstuk Caribisch Nederland in gemengde regeling"
+ },
+ {
+  "id": "5-3-adviescolleges",
+  "level": 4,
+  "title": "§ 5.3. Adviescolleges"
+ },
+ {
+  "id": "aanwijzing-5-6-motivering-instelling-adviescollege",
+  "level": 4,
+  "title": "Aanwijzing 5.6. Motivering instelling adviescollege"
+ },
+ {
+  "id": "aanwijzing-5-7-adviesverplichtingen",
+  "level": 4,
+  "title": "Aanwijzing 5.7. Adviesverplichtingen"
+ },
+ {
+  "id": "5-4-zelfstandige-bestuursorganen",
+  "level": 4,
+  "title": "§ 5.4. Zelfstandige bestuursorganen"
+ },
+ {
+  "id": "aanwijzing-5-8-motivering-instelling-zelfstandig-bestuursorg",
+  "level": 4,
+  "title": "Aanwijzing 5.8. Motivering instelling zelfstandig bestuursorgaan"
+ },
+ {
+  "id": "aanwijzing-5-9-instelling-bij-of-krachtens-de-wet",
+  "level": 4,
+  "title": "Aanwijzing 5.9. Instelling bij of krachtens de wet"
+ },
+ {
+  "id": "aanwijzing-5-10-regelgevende-bevoegdheid",
+  "level": 4,
+  "title": "Aanwijzing 5.10. Regelgevende bevoegdheid"
+ },
+ {
+  "id": "aanwijzing-5-11-rechtspersoonlijkheid",
+  "level": 4,
+  "title": "Aanwijzing 5.11. Rechtspersoonlijkheid"
+ },
+ {
+  "id": "aanwijzing-5-12-inrichting-zelfstandig-bestuursorgaan",
+  "level": 4,
+  "title": "Aanwijzing 5.12. Inrichting zelfstandig bestuursorgaan"
+ },
+ {
+  "id": "aanwijzing-5-13-verhouding-tot-andere-organen",
+  "level": 4,
+  "title": "Aanwijzing 5.13. Verhouding tot andere organen"
+ },
+ {
+  "id": "aanwijzing-5-14-bevoegdheid-minister",
+  "level": 4,
+  "title": "Aanwijzing 5.14. Bevoegdheid minister"
+ },
+ {
+  "id": "aanwijzing-5-15-overgang-personeel-rechten-bezittingen-en-ve",
+  "level": 4,
+  "title": "Aanwijzing 5.15. Overgang personeel, rechten, bezittingen en verplichtingen"
+ },
+ {
+  "id": "aanwijzing-5-16-afhandeling-lopende-procedures-bij-overgang",
+  "level": 4,
+  "title": "Aanwijzing 5.16. Afhandeling lopende procedures bij overgang"
+ },
+ {
+  "id": "5-5-toekenning-en-terminologie-van-bestuursbevoegdheden",
+  "level": 4,
+  "title": "§ 5.5. Toekenning en terminologie van bestuursbevoegdheden"
+ },
+ {
+  "id": "aanwijzing-5-17-vrijstelling-ontheffing-vergunning-en-erkenn",
+  "level": 4,
+  "title": "Aanwijzing 5.17. Vrijstelling, ontheffing, vergunning en erkenning"
+ },
+ {
+  "id": "aanwijzing-5-18-goedkeuring-en-verklaring-van-geen-bezwaar",
+  "level": 4,
+  "title": "Aanwijzing 5.18. Goedkeuring en verklaring van geen bezwaar"
+ },
+ {
+  "id": "aanwijzing-5-19-terminologie-beperking",
+  "level": 4,
+  "title": "Aanwijzing 5.19. Terminologie ‘beperking’"
+ },
+ {
+  "id": "aanwijzing-5-20-handhaving-beschikkingsvoorschriften",
+  "level": 4,
+  "title": "Aanwijzing 5.20. Handhaving beschikkingsvoorschriften"
+ },
+ {
+  "id": "aanwijzing-5-21-intrekking-of-wijziging-van-een-beschikking",
+  "level": 4,
+  "title": "Aanwijzing 5.21. Intrekking of wijziging van een beschikking"
+ },
+ {
+  "id": "aanwijzing-5-22-delegatie-aan-ondergeschikten",
+  "level": 4,
+  "title": "Aanwijzing 5.22. Delegatie aan ondergeschikten"
+ },
+ {
+  "id": "aanwijzing-5-23-toekenning-bevoegdheden-aan-decentrale-overh",
+  "level": 4,
+  "title": "Aanwijzing 5.23. Toekenning bevoegdheden aan decentrale overheden"
+ },
+ {
+  "id": "aanwijzing-5-24-interbestuurlijk-toezicht",
+  "level": 4,
+  "title": "Aanwijzing 5.24. Interbestuurlijk toezicht"
+ },
+ {
+  "id": "aanwijzing-5-25-hardheidsclausule",
+  "level": 4,
+  "title": "Aanwijzing 5.25. Hardheidsclausule"
+ },
+ {
+  "id": "aanwijzing-5-26-model-hardheidsclausule",
+  "level": 4,
+  "title": "Aanwijzing 5.26. Model hardheidsclausule"
+ },
+ {
+  "id": "5-6-overgang-van-rechten-krachtens-publiekrecht",
+  "level": 4,
+  "title": "§ 5.6. Overgang van rechten krachtens publiekrecht"
+ },
+ {
+  "id": "aanwijzing-5-27-overgang-van-rechten",
+  "level": 4,
+  "title": "Aanwijzing 5.27. Overgang van rechten"
+ },
+ {
+  "id": "5-7-regels-betreffende-goederen-keuringen-en-diensten",
+  "level": 4,
+  "title": "§ 5.7. Regels betreffende goederen, keuringen en diensten"
+ },
+ {
+  "id": "aanwijzing-5-28-wederzijdse-erkenningsclausules",
+  "level": 4,
+  "title": "Aanwijzing 5.28. Wederzijdse erkenningsclausules"
+ },
+ {
+  "id": "aanwijzing-5-29-vergunningstelsel-in-de-zin-van-de-dienstenw",
+  "level": 4,
+  "title": "Aanwijzing 5.29. Vergunningstelsel in de zin van de Dienstenwet"
+ },
+ {
+  "id": "aanwijzing-5-30-eisen-aan-dienstverrichting",
+  "level": 4,
+  "title": "Aanwijzing 5.30. Eisen aan dienstverrichting"
+ },
+ {
+  "id": "5-8-informatievoorziening-en-gegevensverwerking",
+  "level": 4,
+  "title": "§ 5.8. Informatievoorziening en gegevensverwerking"
+ },
+ {
+  "id": "aanwijzing-5-31-aansluiten-bij-definities-basisregistraties",
+  "level": 4,
+  "title": "Aanwijzing 5.31. Aansluiten bij definities basisregistraties"
+ },
+ {
+  "id": "aanwijzing-5-32-informatieparagraaf-in-toelichting",
+  "level": 4,
+  "title": "Aanwijzing 5.32. Informatieparagraaf in toelichting"
+ },
+ {
+  "id": "aanwijzing-5-33-verwerking-van-persoonsgegevens",
+  "level": 4,
+  "title": "Aanwijzing 5.33. Verwerking van persoonsgegevens"
+ },
+ {
+  "id": "aanwijzing-5-34-structurele-basis-verstrekking-persoonsgegev",
+  "level": 4,
+  "title": "Aanwijzing 5.34. Structurele basis verstrekking persoonsgegevens"
+ },
+ {
+  "id": "5-8a-openbaarheid-van-overheidsinformatie",
+  "level": 4,
+  "title": "§ 5.8a. Openbaarheid van overheidsinformatie"
+ },
+ {
+  "id": "aanwijzing-5-34a-afwijking-openbaarheidsregime-wet-open-over",
+  "level": 4,
+  "title": "Aanwijzing 5.34a. Afwijking openbaarheidsregime Wet open overheid"
+ },
+ {
+  "id": "5-9-toezicht-op-de-naleving-en-opsporing",
+  "level": 4,
+  "title": "§ 5.9. Toezicht op de naleving en opsporing"
+ },
+ {
+  "id": "aanwijzing-5-35-terminologie-toezicht-en-opsporing",
+  "level": 4,
+  "title": "Aanwijzing 5.35. Terminologie ‘toezicht’ en ‘opsporing’"
+ },
+ {
+  "id": "aanwijzing-5-36-aanwijzing-toezichthouders",
+  "level": 4,
+  "title": "Aanwijzing 5.36. Aanwijzing toezichthouders"
+ },
+ {
+  "id": "aanwijzing-5-37-uitsluiten-toezichtsbevoegdheden",
+  "level": 4,
+  "title": "Aanwijzing 5.37. Uitsluiten toezichtsbevoegdheden"
+ },
+ {
+  "id": "aanwijzing-5-38-buitengewoon-opsporingsambtenaren",
+  "level": 4,
+  "title": "Aanwijzing 5.38. Buitengewoon opsporingsambtenaren"
+ },
+ {
+  "id": "aanwijzing-5-39-assistentie-van-politie",
+  "level": 4,
+  "title": "Aanwijzing 5.39. Assistentie van politie"
+ },
+ {
+  "id": "5-10-sancties",
+  "level": 4,
+  "title": "§ 5.10. Sancties"
+ },
+ {
+  "id": "aanwijzing-5-40-bestuurlijke-sancties",
+  "level": 4,
+  "title": "Aanwijzing 5.40. Bestuurlijke sancties"
+ },
+ {
+  "id": "aanwijzing-5-41-intrekking-of-schorsing-beschikking",
+  "level": 4,
+  "title": "Aanwijzing 5.41. Intrekking of schorsing beschikking"
+ },
+ {
+  "id": "aanwijzing-5-42-bestuursdwang-en-dwangsom",
+  "level": 4,
+  "title": "Aanwijzing 5.42. Bestuursdwang en dwangsom"
+ },
+ {
+  "id": "aanwijzing-5-43-maximale-bestuurlijke-boetehoogte",
+  "level": 4,
+  "title": "Aanwijzing 5.43. Maximale bestuurlijke boetehoogte"
+ },
+ {
+  "id": "aanwijzing-5-44-omschrijving-met-sancties-bedreigde-feiten",
+  "level": 4,
+  "title": "Aanwijzing 5.44. Omschrijving met sancties bedreigde feiten"
+ },
+ {
+  "id": "aanwijzing-5-45-strafsancties",
+  "level": 4,
+  "title": "Aanwijzing 5.45. Strafsancties"
+ },
+ {
+  "id": "aanwijzing-5-46-misdrijven-en-overtredingen",
+  "level": 4,
+  "title": "Aanwijzing 5.46. Misdrijven en overtredingen"
+ },
+ {
+  "id": "aanwijzing-5-47-economische-delicten",
+  "level": 4,
+  "title": "Aanwijzing 5.47. Economische delicten"
+ },
+ {
+  "id": "5-11-bestuursrechtelijke-rechtsbescherming",
+  "level": 4,
+  "title": "§ 5.11. Bestuursrechtelijke rechtsbescherming"
+ },
+ {
+  "id": "aanwijzing-5-48-rechtsbescherming",
+  "level": 4,
+  "title": "Aanwijzing 5.48. Rechtsbescherming"
+ },
+ {
+  "id": "aanwijzing-5-49-afwijkende-rechtsbescherming-in-bijlagen-awb",
+  "level": 4,
+  "title": "Aanwijzing 5.49. Afwijkende rechtsbescherming in bijlagen Awb"
+ },
+ {
+  "id": "aanwijzing-5-50-rechterlijke-competentie",
+  "level": 4,
+  "title": "Aanwijzing 5.50. Rechterlijke competentie"
+ },
+ {
+  "id": "aanwijzing-5-51-eenheid-van-rechtsgang",
+  "level": 4,
+  "title": "Aanwijzing 5.51. Eenheid van rechtsgang"
+ },
+ {
+  "id": "aanwijzing-5-52-modelbepalingen-wijziging-awb-bijlagen",
+  "level": 4,
+  "title": "Aanwijzing 5.52. Modelbepalingen wijziging Awb-bijlagen"
+ },
+ {
+  "id": "aanwijzing-5-53-concentratie-van-rechtsbescherming",
+  "level": 4,
+  "title": "Aanwijzing 5.53. Concentratie van rechtsbescherming"
+ },
+ {
+  "id": "aanwijzing-5-54-administratief-beroep",
+  "level": 4,
+  "title": "Aanwijzing 5.54. Administratief beroep"
+ },
+ {
+  "id": "aanwijzing-5-55-opschortende-werking",
+  "level": 4,
+  "title": "Aanwijzing 5.55. Opschortende werking"
+ },
+ {
+  "id": "5-12-doorberekening-van-toelatings-en-handhavingskosten",
+  "level": 4,
+  "title": "§ 5.12. Doorberekening van toelatings- en handhavingskosten"
+ },
+ {
+  "id": "aanwijzing-5-56-toelaatbaarheid-doorberekening-kosten",
+  "level": 4,
+  "title": "Aanwijzing 5.56. Toelaatbaarheid doorberekening kosten"
+ },
+ {
+  "id": "aanwijzing-5-57-modelbepalingen-doorberekening-kosten",
+  "level": 4,
+  "title": "Aanwijzing 5.57. Modelbepalingen doorberekening kosten"
+ },
+ {
+  "id": "5-13-evaluatiebepaling",
+  "level": 4,
+  "title": "§ 5.13. Evaluatiebepaling"
+ },
+ {
+  "id": "aanwijzing-5-58-evaluatiebepaling",
+  "level": 4,
+  "title": "Aanwijzing 5.58. Evaluatiebepaling"
+ },
+ {
+  "id": "5-14-overgangsrecht",
+  "level": 4,
+  "title": "§ 5.14. Overgangsrecht"
+ },
+ {
+  "id": "aanwijzing-5-59-noodzaak-overgangsrecht",
+  "level": 4,
+  "title": "Aanwijzing 5.59. Noodzaak overgangsrecht"
+ },
+ {
+  "id": "aanwijzing-5-60-plaats-overgangsrecht",
+  "level": 4,
+  "title": "Aanwijzing 5.60. Plaats overgangsrecht"
+ },
+ {
+  "id": "aanwijzing-5-61-onmiddellijke-werking",
+  "level": 4,
+  "title": "Aanwijzing 5.61. Onmiddellijke werking"
+ },
+ {
+  "id": "aanwijzing-5-62-terugwerkende-kracht",
+  "level": 4,
+  "title": "Aanwijzing 5.62. Terugwerkende kracht"
+ },
+ {
+  "id": "aanwijzing-5-63-modelbepaling-terugwerkende-kracht",
+  "level": 4,
+  "title": "Aanwijzing 5.63. Modelbepaling terugwerkende kracht"
+ },
+ {
+  "id": "aanwijzing-5-64-eerbiedigende-en-uitgestelde-werking",
+  "level": 4,
+  "title": "Aanwijzing 5.64. Eerbiedigende en uitgestelde werking"
+ },
+ {
+  "id": "aanwijzing-5-65-overgangsrecht-bij-nieuwe-geschillenregels",
+  "level": 4,
+  "title": "Aanwijzing 5.65. Overgangsrecht bij nieuwe geschillenregels"
+ },
+ {
+  "id": "aanwijzing-5-66-overgangsrecht-archiefbescheiden",
+  "level": 4,
+  "title": "Aanwijzing 5.66. Overgangsrecht archiefbescheiden"
+ },
+ {
+  "id": "5-15-samenloop-van-wetsvoorstellen",
+  "level": 4,
+  "title": "§ 5.15. Samenloop van wetsvoorstellen"
+ },
+ {
+  "id": "aanwijzing-5-67-samenloop",
+  "level": 4,
+  "title": "Aanwijzing 5.67. Samenloop"
+ },
+ {
+  "id": "aanwijzing-5-68-model-samenloopbepaling",
+  "level": 4,
+  "title": "Aanwijzing 5.68. Model samenloopbepaling"
+ },
+ {
+  "id": "aanwijzing-5-69-nog-onbekende-nummering-bij-samenloop",
+  "level": 4,
+  "title": "Aanwijzing 5.69. Nog onbekende nummering bij samenloop"
+ },
+ {
+  "id": "aanwijzing-5-70-volgorde-van-inwerkingtreding",
+  "level": 4,
+  "title": "Aanwijzing 5.70. Volgorde van inwerkingtreding"
+ },
+ {
+  "id": "5-16-tijdelijke-regelingen",
+  "level": 4,
+  "title": "§ 5.16. Tijdelijke regelingen"
+ },
+ {
+  "id": "aanwijzing-5-71-werkingsduur-tijdelijke-regeling",
+  "level": 4,
+  "title": "Aanwijzing 5.71. Werkingsduur tijdelijke regeling"
+ },
+ {
+  "id": "aanwijzing-5-72-opschrift-en-citeertitel-tijdelijke-regeling",
+  "level": 4,
+  "title": "Aanwijzing 5.72. Opschrift en citeertitel tijdelijke regeling"
+ },
+ {
+  "id": "aanwijzing-5-73-tijdelijke-afwijking-van-bestaande-regeling",
+  "level": 4,
+  "title": "Aanwijzing 5.73. Tijdelijke afwijking van bestaande regeling"
+ },
+ {
+  "id": "5-17-bijzondere-vormen-van-geldingsmomenten-en-bekendmaking",
+  "level": 4,
+  "title": "§ 5.17. Bijzondere vormen van geldingsmomenten en bekendmaking"
+ },
+ {
+  "id": "aanwijzing-5-74-in-en-buitenwerkingstelling",
+  "level": 4,
+  "title": "Aanwijzing 5.74. In- en buitenwerkingstelling"
+ },
+ {
+  "id": "aanwijzing-5-74a-toepassingsmoment",
+  "level": 4,
+  "title": "Aanwijzing 5.74a. Toepassingsmoment"
+ },
+ {
+  "id": "aanwijzing-5-75-bijzondere-vormen-van-bekendmaking",
+  "level": 4,
+  "title": "Aanwijzing 5.75. Bijzondere vormen van bekendmaking"
+ },
+ {
+  "id": "aanwijzing-5-76-bekendmaking-bijlagen-via-ander-algemeen-toe",
+  "level": 4,
+  "title": "Aanwijzing 5.76. Bekendmaking bijlagen via ander algemeen toegankelijk elektronisch\n                                             medium"
+ },
+ {
+  "id": "hoofdstuk-6-wijziging-en-intrekking-van-regelingen",
+  "level": 3,
+  "title": "Hoofdstuk 6. Wijziging en intrekking van regelingen"
+ },
+ {
+  "id": "6-1-algemene-uitgangspunten",
+  "level": 4,
+  "title": "§ 6.1. Algemene uitgangspunten"
+ },
+ {
+  "id": "aanwijzing-6-1-regeling-van-gelijke-orde",
+  "level": 4,
+  "title": "Aanwijzing 6.1. Regeling van gelijke orde"
+ },
+ {
+  "id": "aanwijzing-6-2-wijziging-of-nieuwe-regeling",
+  "level": 4,
+  "title": "Aanwijzing 6.2. Wijziging of nieuwe regeling"
+ },
+ {
+  "id": "aanwijzing-6-3-aanpassings-en-invoeringsregelingen",
+  "level": 4,
+  "title": "Aanwijzing 6.3. Aanpassings- en invoeringsregelingen"
+ },
+ {
+  "id": "aanwijzing-6-4-toelaatbaarheid-verzamelwetten",
+  "level": 4,
+  "title": "Aanwijzing 6.4. Toelaatbaarheid verzamelwetten"
+ },
+ {
+  "id": "aanwijzing-6-5-volgorde-bij-wijziging-van-meerdere-regelinge",
+  "level": 4,
+  "title": "Aanwijzing 6.5. Volgorde bij wijziging van meerdere regelingen"
+ },
+ {
+  "id": "aanwijzing-6-6-wijze-van-nummering-van-artikelen",
+  "level": 4,
+  "title": "Aanwijzing 6.6. Wijze van nummering van artikelen"
+ },
+ {
+  "id": "6-2-wijziging-van-regelingen",
+  "level": 4,
+  "title": "§ 6.2. Wijziging van regelingen"
+ },
+ {
+  "id": "aanwijzing-6-7-wijziging-van-opschrift-en-aanhef",
+  "level": 4,
+  "title": "Aanwijzing 6.7. Wijziging van opschrift en aanhef"
+ },
+ {
+  "id": "aanwijzing-6-8-nieuwe-grondslag-uitvoeringsregeling",
+  "level": 4,
+  "title": "Aanwijzing 6.8. Nieuwe grondslag uitvoeringsregeling"
+ },
+ {
+  "id": "aanwijzing-6-9-terminologie-wordt-vervangen-door-en-komt-te-",
+  "level": 4,
+  "title": "Aanwijzing 6.9. Terminologie ‘wordt vervangen door’ en ‘komt te luiden’"
+ },
+ {
+  "id": "aanwijzing-6-10-vervanging-gehele-lees-of-begripseenheid",
+  "level": 4,
+  "title": "Aanwijzing 6.10. Vervanging gehele lees- of begripseenheid"
+ },
+ {
+  "id": "aanwijzing-6-11-terminologie-invoegen-en-toevoegen",
+  "level": 4,
+  "title": "Aanwijzing 6.11. Terminologie ‘invoegen’ en ‘toevoegen’"
+ },
+ {
+  "id": "aanwijzing-6-12-terminologie-vervallen-en-intrekken",
+  "level": 4,
+  "title": "Aanwijzing 6.12. Terminologie ‘vervallen’ en ‘intrekken’"
+ },
+ {
+  "id": "aanwijzing-6-13-vervallen-van-uitgewerkte-bepalingen",
+  "level": 4,
+  "title": "Aanwijzing 6.13. Vervallen van uitgewerkte bepalingen"
+ },
+ {
+  "id": "aanwijzing-6-14-vervallen-van-bijlage-bij-een-regeling",
+  "level": 4,
+  "title": "Aanwijzing 6.14. Vervallen van bijlage bij een regeling"
+ },
+ {
+  "id": "aanwijzing-6-15-indeling-wijzigingsbepalingen",
+  "level": 4,
+  "title": "Aanwijzing 6.15. Indeling wijzigingsbepalingen"
+ },
+ {
+  "id": "aanwijzing-6-16-nummering-van-ingevoegde-artikelen-e-d",
+  "level": 4,
+  "title": "Aanwijzing 6.16. Nummering van ingevoegde artikelen e.d."
+ },
+ {
+  "id": "aanwijzing-6-17-vernummering-en-verlettering",
+  "level": 4,
+  "title": "Aanwijzing 6.17. Vernummering en verlettering"
+ },
+ {
+  "id": "aanwijzing-6-18-wijziging-van-opsomming-of-indeling-artikel",
+  "level": 4,
+  "title": "Aanwijzing 6.18. Wijziging van opsomming of indeling artikel"
+ },
+ {
+  "id": "aanwijzing-6-19-aanduiding-nieuw",
+  "level": 4,
+  "title": "Aanwijzing 6.19. Aanduiding ‘(nieuw)’"
+ },
+ {
+  "id": "aanwijzing-6-20-verwijzingen-in-overgangsrecht",
+  "level": 4,
+  "title": "Aanwijzing 6.20. Verwijzingen in overgangsrecht"
+ },
+ {
+  "id": "aanwijzing-6-21-vergelijkend-overzicht-oude-en-nieuwe-bepali",
+  "level": 4,
+  "title": "Aanwijzing 6.21. Vergelijkend overzicht oude en nieuwe bepalingen"
+ },
+ {
+  "id": "aanwijzing-6-22-integrale-tekstpublicatie-gewijzigde-regelin",
+  "level": 4,
+  "title": "Aanwijzing 6.22. Integrale tekstpublicatie gewijzigde regeling"
+ },
+ {
+  "id": "6-3-intrekken-en-vervallen-van-regelingen",
+  "level": 4,
+  "title": "§ 6.3. Intrekken en vervallen van regelingen"
+ },
+ {
+  "id": "aanwijzing-6-23-formulering-intrekkingsbepaling",
+  "level": 4,
+  "title": "Aanwijzing 6.23. Formulering intrekkingsbepaling"
+ },
+ {
+  "id": "aanwijzing-6-24-vervallen-uitvoeringsregelingen",
+  "level": 4,
+  "title": "Aanwijzing 6.24. Vervallen uitvoeringsregelingen"
+ },
+ {
+  "id": "aanwijzing-6-25-uitgewerkte-regelingen",
+  "level": 4,
+  "title": "Aanwijzing 6.25. Uitgewerkte regelingen"
+ },
+ {
+  "id": "aanwijzing-6-26-gevolgen-intrekken-wijzigingsregeling",
+  "level": 4,
+  "title": "Aanwijzing 6.26. Gevolgen intrekken wijzigingsregeling"
+ },
+ {
+  "id": "6-4-wijziging-van-wetsvoorstellen",
+  "level": 4,
+  "title": "§ 6.4. Wijziging van wetsvoorstellen"
+ },
+ {
+  "id": "aanwijzing-6-27-nota-van-wijziging",
+  "level": 4,
+  "title": "Aanwijzing 6.27. Nota van wijziging"
+ },
+ {
+  "id": "aanwijzing-6-28-toelichting-nota-van-wijziging",
+  "level": 4,
+  "title": "Aanwijzing 6.28. Toelichting nota van wijziging"
+ },
+ {
+  "id": "aanwijzing-6-29-ondertekening-toelichting-nota-van-wijziging",
+  "level": 4,
+  "title": "Aanwijzing 6.29. Ondertekening toelichting nota van wijziging"
+ },
+ {
+  "id": "aanwijzing-6-30-wetgevingstoets-nota-van-wijziging",
+  "level": 4,
+  "title": "Aanwijzing 6.30. Wetgevingstoets nota van wijziging"
+ },
+ {
+  "id": "aanwijzing-6-31-overneming-amendement",
+  "level": 4,
+  "title": "Aanwijzing 6.31. Overneming amendement"
+ },
+ {
+  "id": "aanwijzing-6-32-vernummering-wetsvoorstel",
+  "level": 4,
+  "title": "Aanwijzing 6.32. Vernummering wetsvoorstel"
+ },
+ {
+  "id": "aanwijzing-6-33-aanbrengen-doorlopende-nummering",
+  "level": 4,
+  "title": "Aanwijzing 6.33. Aanbrengen doorlopende nummering"
+ },
+ {
+  "id": "aanwijzing-6-34-novelle",
+  "level": 4,
+  "title": "Aanwijzing 6.34. Novelle"
+ },
+ {
+  "id": "hoofdstuk-7-procedures",
+  "level": 3,
+  "title": "Hoofdstuk 7. Procedures"
+ },
+ {
+  "id": "7-1-interdepartementale-voorbereiding",
+  "level": 4,
+  "title": "§ 7.1. Interdepartementale voorbereiding"
+ },
+ {
+  "id": "aanwijzing-7-1-afstemming-met-andere-ministeries",
+  "level": 4,
+  "title": "Aanwijzing 7.1. Afstemming met andere ministeries"
+ },
+ {
+  "id": "aanwijzing-7-2-afstemming-i-v-m-gevolgen-voor-decentrale-ove",
+  "level": 4,
+  "title": "Aanwijzing 7.2. Afstemming i.v.m. gevolgen voor decentrale overheden"
+ },
+ {
+  "id": "aanwijzing-7-3-afstemming-met-koninkrijkspartners",
+  "level": 4,
+  "title": "Aanwijzing 7.3. Afstemming met koninkrijkspartners"
+ },
+ {
+  "id": "aanwijzing-7-4-wetgevingstoets",
+  "level": 4,
+  "title": "Aanwijzing 7.4. Wetgevingstoets"
+ },
+ {
+  "id": "aanwijzing-7-5-bedrijfseffectentoets-en-milieueffectentoets",
+  "level": 4,
+  "title": "Aanwijzing 7.5. Bedrijfseffectentoets en milieueffectentoets"
+ },
+ {
+  "id": "aanwijzing-7-5a-regeldruktoets",
+  "level": 4,
+  "title": "Aanwijzing 7.5a. Regeldruktoets"
+ },
+ {
+  "id": "aanwijzing-7-5b-toetsing-grote-ict-projecten",
+  "level": 4,
+  "title": "Aanwijzing 7.5b. Toetsing grote ICT-projecten"
+ },
+ {
+  "id": "aanwijzing-7-6-toetsing-gevolgen-voor-decentrale-overheden",
+  "level": 4,
+  "title": "Aanwijzing 7.6. Toetsing gevolgen voor decentrale overheden"
+ },
+ {
+  "id": "7-2-notificatie-van-ontwerpregelingen",
+  "level": 4,
+  "title": "§ 7.2. Notificatie van ontwerpregelingen"
+ },
+ {
+  "id": "aanwijzing-7-7-notificatieverplichtingen",
+  "level": 4,
+  "title": "Aanwijzing 7.7. Notificatieverplichtingen"
+ },
+ {
+  "id": "aanwijzing-7-8-vermelding-en-mededeling-van-notificatie",
+  "level": 4,
+  "title": "Aanwijzing 7.8. Vermelding en mededeling van notificatie"
+ },
+ {
+  "id": "7-3-advisering-door-de-afdeling-advisering-van-de-raad-van-s",
+  "level": 4,
+  "title": "§ 7.3. Advisering door de Afdeling advisering van de Raad van State"
+ },
+ {
+  "id": "aanwijzing-7-9-tijdstip-toezending-aan-afdeling-advisering",
+  "level": 4,
+  "title": "Aanwijzing 7.9. Tijdstip toezending aan Afdeling advisering"
+ },
+ {
+  "id": "aanwijzing-7-10-toezending-adviezen-aan-afdeling-advisering",
+  "level": 4,
+  "title": "Aanwijzing 7.10. Toezending adviezen aan Afdeling advisering"
+ },
+ {
+  "id": "aanwijzing-7-11-spoedadvies-afdeling-advisering",
+  "level": 4,
+  "title": "Aanwijzing 7.11. Spoedadvies Afdeling advisering"
+ },
+ {
+  "id": "aanwijzing-7-11a-uitgestelde-openbaarmaking",
+  "level": 4,
+  "title": "Aanwijzing  7.11a. Uitgestelde openbaarmaking"
+ },
+ {
+  "id": "aanwijzing-7-12-intrekking-adviesaanvraag-afdeling-adviserin",
+  "level": 4,
+  "title": "Aanwijzing 7.12. Intrekking adviesaanvraag Afdeling advisering"
+ },
+ {
+  "id": "aanwijzing-7-13-vormgeving-nader-rapport",
+  "level": 4,
+  "title": "Aanwijzing 7.13. Vormgeving nader rapport"
+ },
+ {
+  "id": "aanwijzing-7-14-ministerraadbehandeling-na-ingrijpende-kriti",
+  "level": 4,
+  "title": "Aanwijzing 7.14. Ministerraadbehandeling na ingrijpende kritiek"
+ },
+ {
+  "id": "aanwijzing-7-15-advies-afdeling-advisering-over-ingrijpende-",
+  "level": 4,
+  "title": "Aanwijzing 7.15. Advies Afdeling advisering over ingrijpende wijziging"
+ },
+ {
+  "id": "aanwijzing-7-16-advies-afdeling-advisering-over-amendement",
+  "level": 4,
+  "title": "Aanwijzing 7.16. Advies Afdeling advisering over amendement"
+ },
+ {
+  "id": "7-4-parlementaire-behandeling-van-regeringsvoorstellen-van-w",
+  "level": 4,
+  "title": "§ 7.4. Parlementaire behandeling van regeringsvoorstellen van wet"
+ },
+ {
+  "id": "aanwijzing-7-17-toezending-adviezen-aan-tweede-kamer",
+  "level": 4,
+  "title": "Aanwijzing 7.17. Toezending adviezen aan Tweede Kamer"
+ },
+ {
+  "id": "aanwijzing-7-18-vormgeving-nota-n-a-v-het-verslag",
+  "level": 4,
+  "title": "Aanwijzing 7.18. Vormgeving nota n.a.v. het verslag"
+ },
+ {
+  "id": "aanwijzing-7-19-beantwoording-verslag",
+  "level": 4,
+  "title": "Aanwijzing 7.19. Beantwoording verslag"
+ },
+ {
+  "id": "aanwijzing-7-20-departementale-bijstand-bij-amendementen",
+  "level": 4,
+  "title": "Aanwijzing 7.20. Departementale bijstand bij amendementen"
+ },
+ {
+  "id": "aanwijzing-7-21-termijn-indiening-memorie-van-antwoord-eerst",
+  "level": 4,
+  "title": "Aanwijzing 7.21. Termijn indiening memorie van antwoord Eerste Kamer"
+ },
+ {
+  "id": "aanwijzing-7-22-intrekking-wetsvoorstel",
+  "level": 4,
+  "title": "Aanwijzing 7.22. Intrekking wetsvoorstel"
+ },
+ {
+  "id": "7-5-behandeling-van-initiatiefvoorstellen-van-wet",
+  "level": 4,
+  "title": "§ 7.5. Behandeling van initiatiefvoorstellen van wet"
+ },
+ {
+  "id": "aanwijzing-7-23-departementale-bijstand-bij-initiatiefvoorst",
+  "level": 4,
+  "title": "Aanwijzing 7.23. Departementale bijstand bij initiatiefvoorstel"
+ },
+ {
+  "id": "aanwijzing-7-24-departementale-inbreng-bij-initiatiefvoorste",
+  "level": 4,
+  "title": "Aanwijzing 7.24. Departementale inbreng bij initiatiefvoorstel"
+ },
+ {
+  "id": "aanwijzing-7-25-ministerraadbehandeling-initiatiefvoorstel",
+  "level": 4,
+  "title": "Aanwijzing 7.25. Ministerraadbehandeling initiatiefvoorstel"
+ },
+ {
+  "id": "aanwijzing-7-26-mededeling-over-bekrachtiging-initiatiefvoor",
+  "level": 4,
+  "title": "Aanwijzing 7.26. Mededeling over bekrachtiging initiatiefvoorstel"
+ },
+ {
+  "id": "hoofdstuk-8-voorbereiding-goedkeuring-en-implementatie-van-v",
+  "level": 3,
+  "title": "Hoofdstuk 8. Voorbereiding, goedkeuring en implementatie van verdragen"
+ },
+ {
+  "id": "8-1-verdragen",
+  "level": 4,
+  "title": "§ 8.1. Verdragen"
+ },
+ {
+  "id": "aanwijzing-8-1-terminologie-verdragen",
+  "level": 4,
+  "title": "Aanwijzing 8.1. Terminologie verdragen"
+ },
+ {
+  "id": "aanwijzing-8-2-betrokkenheid-aruba-curaçao-en-sint-maarten",
+  "level": 4,
+  "title": "Aanwijzing 8.2. Betrokkenheid Aruba, Curaçao en Sint Maarten"
+ },
+ {
+  "id": "aanwijzing-8-3-interdepartementale-voorbereiding-verdragen",
+  "level": 4,
+  "title": "Aanwijzing 8.3. Interdepartementale voorbereiding verdragen"
+ },
+ {
+  "id": "aanwijzing-8-4-gevolgen-verdrag-voor-nationale-wet-en-regelg",
+  "level": 4,
+  "title": "Aanwijzing 8.4. Gevolgen verdrag voor nationale wet- en regelgeving"
+ },
+ {
+  "id": "aanwijzing-8-5-nederlandse-tekst-verdrag",
+  "level": 4,
+  "title": "Aanwijzing 8.5. Nederlandse tekst verdrag"
+ },
+ {
+  "id": "8-2-besluiten-van-volkenrechtelijke-organisaties",
+  "level": 4,
+  "title": "§ 8.2. Besluiten van volkenrechtelijke organisaties"
+ },
+ {
+  "id": "aanwijzing-8-6-interdepartementale-voorbereiding",
+  "level": 4,
+  "title": "Aanwijzing 8.6. Interdepartementale voorbereiding"
+ },
+ {
+  "id": "aanwijzing-8-7-gevolgen-voor-nationale-wetgeving",
+  "level": 4,
+  "title": "Aanwijzing 8.7. Gevolgen voor nationale wetgeving"
+ },
+ {
+  "id": "aanwijzing-8-8-goedkeuring-uitvoeringsbesluiten",
+  "level": 4,
+  "title": "Aanwijzing 8.8. Goedkeuring uitvoeringsbesluiten"
+ },
+ {
+  "id": "8-3-voorbereiding-van-wetgeving-inzake-goedkeuring-en-implem",
+  "level": 4,
+  "title": "§ 8.3. Voorbereiding van wetgeving inzake goedkeuring en implementatie"
+ },
+ {
+  "id": "aanwijzing-8-9-onderzoek-noodzaak-implementatie-verdrag",
+  "level": 4,
+  "title": "Aanwijzing 8.9. Onderzoek noodzaak implementatie verdrag"
+ },
+ {
+  "id": "aanwijzing-8-10-alleen-voor-nederland-geldende-verdragen",
+  "level": 4,
+  "title": "Aanwijzing 8.10. Alleen voor Nederland geldende verdragen"
+ },
+ {
+  "id": "aanwijzing-8-11-delegatiebepaling-voor-uitvoeringsregelingen",
+  "level": 4,
+  "title": "Aanwijzing 8.11. Delegatiebepaling voor uitvoeringsregelingen"
+ },
+ {
+  "id": "aanwijzing-8-12-wetsvoorstel-goedkeuring-verdrag",
+  "level": 4,
+  "title": "Aanwijzing 8.12. Wetsvoorstel goedkeuring verdrag"
+ },
+ {
+  "id": "aanwijzing-8-13-toelichting-inzake-verdragen",
+  "level": 4,
+  "title": "Aanwijzing 8.13. Toelichting inzake verdragen"
+ },
+ {
+  "id": "8-4-behandeling-in-de-rijks-ministerraad",
+  "level": 4,
+  "title": "§ 8.4. Behandeling in de (rijks)ministerraad"
+ },
+ {
+  "id": "aanwijzing-8-14-behandeling-verdrag-in-rijks-ministerraad",
+  "level": 4,
+  "title": "Aanwijzing 8.14. Behandeling verdrag in (rijks)ministerraad"
+ },
+ {
+  "id": "8-5-bewaring-en-bekendmaking",
+  "level": 4,
+  "title": "§ 8.5. Bewaring en bekendmaking"
+ },
+ {
+  "id": "aanwijzing-8-15-bewaring-van-verdragen",
+  "level": 4,
+  "title": "Aanwijzing 8.15. Bewaring van verdragen"
+ },
+ {
+  "id": "aanwijzing-8-16-bekendmaking-volkenrechtelijke-besluiten",
+  "level": 4,
+  "title": "Aanwijzing 8.16. Bekendmaking volkenrechtelijke besluiten"
+ },
+ {
+  "id": "aanwijzing-8-17-bekendmaking-verdragstekst",
+  "level": 4,
+  "title": "Aanwijzing 8.17. Bekendmaking verdragstekst"
+ },
+ {
+  "id": "8-6-stilzwijgende-en-uitdrukkelijke-goedkeuring",
+  "level": 4,
+  "title": "§ 8.6. Stilzwijgende en uitdrukkelijke goedkeuring"
+ },
+ {
+  "id": "aanwijzing-8-18-advisering-door-raad-van-state",
+  "level": 4,
+  "title": "Aanwijzing 8.18. Advisering door Raad van State"
+ },
+ {
+  "id": "aanwijzing-8-19-overlegging-verdrag-ter-stilzwijgende-goedke",
+  "level": 4,
+  "title": "Aanwijzing 8.19. Overlegging verdrag ter stilzwijgende goedkeuring"
+ },
+ {
+  "id": "aanwijzing-8-20-overlegging-tijdens-recesperioden",
+  "level": 4,
+  "title": "Aanwijzing 8.20. Overlegging tijdens recesperioden"
+ },
+ {
+  "id": "8-7-totstandbrenging-van-binding",
+  "level": 4,
+  "title": "§ 8.7. Totstandbrenging van binding"
+ },
+ {
+  "id": "aanwijzing-8-21-bezwaren-tegen-binding-verdrag",
+  "level": 4,
+  "title": "Aanwijzing 8.21. Bezwaren tegen binding verdrag"
+ },
+ {
+  "id": "hoofdstuk-9-voorbereiding-totstandkoming-en-implementatie-va",
+  "level": 3,
+  "title": "Hoofdstuk 9. Voorbereiding, totstandkoming en implementatie van bindende EU-rechtshandelingen"
+ },
+ {
+  "id": "9-1-begripsbepaling-en-toepassingsbereik",
+  "level": 4,
+  "title": "§ 9.1. Begripsbepaling en toepassingsbereik"
+ },
+ {
+  "id": "aanwijzing-9-1-implementatie",
+  "level": 4,
+  "title": "Aanwijzing 9.1. Implementatie"
+ },
+ {
+  "id": "aanwijzing-9-2-toepassingsbereik",
+  "level": 4,
+  "title": "Aanwijzing 9.2. Toepassingsbereik"
+ },
+ {
+  "id": "9-2-algemene-uitgangspunten-bij-implementatie",
+  "level": 4,
+  "title": "§ 9.2. Algemene uitgangspunten bij implementatie"
+ },
+ {
+  "id": "aanwijzing-9-3-europese-economische-ruimte-en-zwitserland",
+  "level": 4,
+  "title": "Aanwijzing 9.3. Europese Economische Ruimte en Zwitserland"
+ },
+ {
+  "id": "aanwijzing-9-4-zuivere-implementatie",
+  "level": 4,
+  "title": "Aanwijzing 9.4. Zuivere implementatie"
+ },
+ {
+  "id": "aanwijzing-9-5-lastenluwe-implementatie",
+  "level": 4,
+  "title": "Aanwijzing 9.5. Lastenluwe implementatie"
+ },
+ {
+  "id": "aanwijzing-9-6-verplichting-tot-feitelijk-handelen",
+  "level": 4,
+  "title": "Aanwijzing 9.6. Verplichting tot feitelijk handelen"
+ },
+ {
+  "id": "aanwijzing-9-7-aansluiting-bij-bestaande-instrumenten",
+  "level": 4,
+  "title": "Aanwijzing 9.7. Aansluiting bij bestaande instrumenten"
+ },
+ {
+  "id": "aanwijzing-9-8-delegatie-bij-eu-implementatie",
+  "level": 4,
+  "title": "Aanwijzing 9.8. Delegatie bij EU-implementatie"
+ },
+ {
+  "id": "aanwijzing-9-9-implementatie-eu-verordeningen",
+  "level": 4,
+  "title": "Aanwijzing 9.9. Implementatie EU-verordeningen"
+ },
+ {
+  "id": "aanwijzing-9-10-dynamische-en-statische-verwijzing",
+  "level": 4,
+  "title": "Aanwijzing 9.10. Dynamische en statische verwijzing"
+ },
+ {
+  "id": "aanwijzing-9-11-toelichting-eu-implementatieregeling",
+  "level": 4,
+  "title": "Aanwijzing 9.11. Toelichting EU-implementatieregeling"
+ },
+ {
+  "id": "aanwijzing-9-12-transponeringstabel-eu-implementatieregeling",
+  "level": 4,
+  "title": "Aanwijzing 9.12. Transponeringstabel EU-implementatieregeling"
+ },
+ {
+  "id": "aanwijzing-9-13-implementatie-door-middel-van-bestaand-recht",
+  "level": 4,
+  "title": "Aanwijzing 9.13. Implementatie door middel van bestaand recht"
+ },
+ {
+  "id": "9-3-voorbereiding-van-procedures-bij-implementatie",
+  "level": 4,
+  "title": "§ 9.3. Voorbereiding van procedures bij implementatie"
+ },
+ {
+  "id": "aanwijzing-9-14-inschakeling-wetgevingsafdelingen",
+  "level": 4,
+  "title": "Aanwijzing 9.14. Inschakeling wetgevingsafdelingen"
+ },
+ {
+  "id": "aanwijzing-9-15-bnc-fiches",
+  "level": 4,
+  "title": "Aanwijzing 9.15. BNC-fiches"
+ },
+ {
+  "id": "aanwijzing-9-16-advisering-over-nieuwe-voorstellen",
+  "level": 4,
+  "title": "Aanwijzing 9.16. Advisering over nieuwe voorstellen"
+ },
+ {
+  "id": "aanwijzing-9-17-implementatieplan",
+  "level": 4,
+  "title": "Aanwijzing 9.17. Implementatieplan"
+ },
+ {
+  "id": "aanwijzing-9-18-tijdstip-aanhangigmaking-bij-ministerraad",
+  "level": 4,
+  "title": "Aanwijzing 9.18. Tijdstip aanhangigmaking bij ministerraad"
+ },
+ {
+  "id": "aanwijzing-9-19-notificatie-van-ontwerp-implementatieregelin",
+  "level": 4,
+  "title": "Aanwijzing 9.19. Notificatie van (ontwerp)implementatieregeling"
+ },
+ {
+  "id": "afkortingen",
+  "level": 4,
+  "title": "Afkortingen"
+ }
+]

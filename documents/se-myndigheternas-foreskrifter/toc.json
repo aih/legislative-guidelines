@@ -1,0 +1,637 @@
+[
+ {
+  "id": "myndigheternas-föreskrifter",
+  "level": 2,
+  "title": "Myndigheternas föreskrifter"
+ },
+ {
+  "id": "sb-pm-2025-4",
+  "level": 2,
+  "title": "SB PM 2025:4"
+ },
+ {
+  "id": "exempel-1",
+  "level": 3,
+  "title": "Exempel 1"
+ },
+ {
+  "id": "exempel-2",
+  "level": 3,
+  "title": "Exempel 2"
+ },
+ {
+  "id": "exempel-3",
+  "level": 3,
+  "title": "Exempel 3"
+ },
+ {
+  "id": "exempel-4",
+  "level": 3,
+  "title": "Exempel 4"
+ },
+ {
+  "id": "exempel-1-2",
+  "level": 3,
+  "title": "Exempel 1"
+ },
+ {
+  "id": "exempel-2-2",
+  "level": 3,
+  "title": "Exempel 2"
+ },
+ {
+  "id": "exempel-1-rubriken-till-en-grundförfattning",
+  "level": 3,
+  "title": "Exempel 1 Rubriken till en grundförfattning"
+ },
+ {
+  "id": "exempel-2-ändring-av-innehåll-eller-rubrik-i-föreskrifter",
+  "level": 3,
+  "title": "Exempel 2 Ändring av innehåll eller rubrik i föreskrifter"
+ },
+ {
+  "id": "exempel-3-ändring-av-innehåll-eller-rubrik-i-föreskrifter-so",
+  "level": 3,
+  "title": "Exempel 3 Ändring av innehåll eller rubrik i föreskrifter som beslutats av en annan myndighet"
+ },
+ {
+  "id": "exempel-4-fortsatt-giltighet-av-föreskrifter",
+  "level": 3,
+  "title": "Exempel 4 Fortsatt giltighet av föreskrifter"
+ },
+ {
+  "id": "exempel-5-fortsatt-giltighet-och-ändring-i-föreskrifter",
+  "level": 3,
+  "title": "Exempel 5 Fortsatt giltighet och ändring i föreskrifter"
+ },
+ {
+  "id": "exempel-6-upphävande-av-föreskrifter",
+  "level": 3,
+  "title": "Exempel 6 Upphävande av föreskrifter"
+ },
+ {
+  "id": "exempel-7-upphävande-av-föreskrifter-med-ett-gammalt-namn",
+  "level": 3,
+  "title": "Exempel 7 Upphävande av föreskrifter med ett gammalt namn"
+ },
+ {
+  "id": "exempel-8-upphävande-av-föreskrifter-som-beslutats-av-en-ann",
+  "level": 3,
+  "title": "Exempel 8 Upphävande av föreskrifter som beslutats av en annan myndighet"
+ },
+ {
+  "id": "exempel-9-ändring-i-ändringsföreskrifter",
+  "level": 3,
+  "title": "Exempel 9 Ändring i ändringsföreskrifter"
+ },
+ {
+  "id": "exempel-10-inledning-till-en-grundförfattning",
+  "level": 3,
+  "title": "Exempel 10 Inledning till en grundförfattning"
+ },
+ {
+  "id": "exempel-11-inledning-till-en-ändringsförfattning",
+  "level": 3,
+  "title": "Exempel 11 Inledning till en ändringsförfattning"
+ },
+ {
+  "id": "exempel-12-fortsatt-giltighet-av-tidsbegränsade-föreskrifter",
+  "level": 3,
+  "title": "Exempel 12 Fortsatt giltighet av tidsbegränsade föreskrifter"
+ },
+ {
+  "id": "exempel-13-fortsatt-giltighet-och-ändring-i-tidsbegränsade-f",
+  "level": 3,
+  "title": "Exempel 13 Fortsatt giltighet och ändring i tidsbegränsade föreskrifter"
+ },
+ {
+  "id": "exempel-14-upphävande-av-ett-kapitel",
+  "level": 3,
+  "title": "Exempel 14 Upphävande av ett kapitel"
+ },
+ {
+  "id": "exempel-15-upphävande-av-en-paragraf",
+  "level": 3,
+  "title": "Exempel 15 Upphävande av en paragraf"
+ },
+ {
+  "id": "exempel-16-upphävande-av-en-paragraf-när-en-tidigare-ändring",
+  "level": 3,
+  "title": "Exempel 16 Upphävande av en paragraf när en tidigare ändring ännu inte har trätt i kraft"
+ },
+ {
+  "id": "exempel-17-upphävande-av-en-bilaga",
+  "level": 3,
+  "title": "Exempel 17 Upphävande av en bilaga"
+ },
+ {
+  "id": "exempel-18-upphävande-av-en-övergångsbestämmelse",
+  "level": 3,
+  "title": "Exempel 18 Upphävande av en övergångsbestämmelse"
+ },
+ {
+  "id": "exempel-19-mellanrubrik-som-utgår",
+  "level": 3,
+  "title": "Exempel 19 Mellanrubrik som utgår"
+ },
+ {
+  "id": "exempel-20-upphävande-av-ett-kapitel-och-införande-av-ett-ny",
+  "level": 3,
+  "title": "Exempel 20 Upphävande av ett kapitel och införande av ett nytt kapitel"
+ },
+ {
+  "id": "exempel-21-ändrad-beteckning-på-paragrafer",
+  "level": 3,
+  "title": "Exempel 21 Ändrad beteckning på paragrafer"
+ },
+ {
+  "id": "exempel-22-ändring-av-paragrafer",
+  "level": 3,
+  "title": "Exempel 22 Ändring av paragrafer"
+ },
+ {
+  "id": "exempel-23-ändring-av-en-paragraf-när-en-tidigare-ändring-än",
+  "level": 3,
+  "title": "Exempel 23 Ändring av en paragraf när en tidigare ändring ännu inte har trätt i kraft"
+ },
+ {
+  "id": "exempel-24-samtidig-ändring-av-paragrafers-beteckning-och-ly",
+  "level": 3,
+  "title": "Exempel 24 Samtidig ändring av paragrafers beteckning och lydelse"
+ },
+ {
+  "id": "exempel-25-ändring-av-en-författningsrubrik-och-paragrafer",
+  "level": 3,
+  "title": "Exempel 25 Ändring av en författningsrubrik och paragrafer"
+ },
+ {
+  "id": "exempel-26-ändring-av-en-bilaga",
+  "level": 3,
+  "title": "Exempel 26 Ändring av en bilaga"
+ },
+ {
+  "id": "exempel-27-ändring-av-en-paragraf-och-en-bilaga",
+  "level": 3,
+  "title": "Exempel 27 Ändring av en paragraf och en bilaga"
+ },
+ {
+  "id": "exempel-28-ändring-av-en-paragraf-och-flera-bilagor",
+  "level": 3,
+  "title": "Exempel 28 Ändring av en paragraf och flera bilagor"
+ },
+ {
+  "id": "exempel-29-ändring-av-paragrafer-och-kapitel-eller-mellanrub",
+  "level": 3,
+  "title": "Exempel 29 Ändring av paragrafer och kapitel- eller mellanrubriker"
+ },
+ {
+  "id": "exempel-30-ändring-av-paragrafer-och-ikraftträdande-och-över",
+  "level": 3,
+  "title": "Exempel 30 Ändring av paragrafer och ikraftträdande- och övergångsbestämmelser"
+ },
+ {
+  "id": "exempel-31-ändring-av-ikraftträdande-och-övergångsbestämmels",
+  "level": 3,
+  "title": "Exempel 31 Ändring av ikraftträdande- och övergångsbestämmelser"
+ },
+ {
+  "id": "exempel-32-ändring-av-en-paragraf-och-ikraftträdande-och-öve",
+  "level": 3,
+  "title": "Exempel 32 Ändring av en paragraf och ikraftträdande- och övergångsbestämmelser när en tidigare ändring ännu inte har trätt i kraft"
+ },
+ {
+  "id": "exempel-33-ändrad-plats-för-mellanrubriker",
+  "level": 3,
+  "title": "Exempel 33 Ändrad plats för mellanrubriker"
+ },
+ {
+  "id": "exempel-34-införande-av-nya-kapitel",
+  "level": 3,
+  "title": "Exempel 34 Införande av nya kapitel"
+ },
+ {
+  "id": "exempel-35-införande-av-nya-paragrafer",
+  "level": 3,
+  "title": "Exempel 35 Införande av nya paragrafer"
+ },
+ {
+  "id": "exempel-36-införande-av-en-ny-paragraf-på-platsen-för-en-tid",
+  "level": 3,
+  "title": "Exempel 36 Införande av en ny paragraf på platsen för en tidigare upphävd paragraf"
+ },
+ {
+  "id": "exempel-37-införande-av-nya-paragrafer-och-mellanrubriker",
+  "level": 3,
+  "title": "Exempel 37 Införande av nya paragrafer och mellanrubriker"
+ },
+ {
+  "id": "exempel-38-införande-av-nya-bilagor",
+  "level": 3,
+  "title": "Exempel 38 Införande av nya bilagor"
+ },
+ {
+  "id": "exempel-39-olika-slag-av-ändringar-i-samma-ingress",
+  "level": 3,
+  "title": "Exempel 39 Olika slag av ändringar i samma ingress"
+ },
+ {
+  "id": "exempel-40-normalfallet",
+  "level": 3,
+  "title": "Exempel 40 Normalfallet"
+ },
+ {
+  "id": "exempel-41-olika-ikraftträdandedagar",
+  "level": 3,
+  "title": "Exempel 41 Olika ikraftträdandedagar"
+ },
+ {
+  "id": "exempel-42-ikraftträdande-och-uppgift-om-tillämpning-första-",
+  "level": 3,
+  "title": "Exempel 42 Ikraftträdande och uppgift om tillämpning första gången"
+ },
+ {
+  "id": "exempel-43-ikraftträdande-och-uppgift-om-tillämplighet-innan",
+  "level": 3,
+  "title": "Exempel 43 Ikraftträdande och uppgift om tillämplighet innan dess"
+ },
+ {
+  "id": "exempel-44-ikraftträdande-och-inskränkning-i-tillämpningen",
+  "level": 3,
+  "title": "Exempel 44 Ikraftträdande och inskränkning i tillämpningen"
+ },
+ {
+  "id": "exempel-45-ikraftträdande-och-tidsbegränsad-giltighet",
+  "level": 3,
+  "title": "Exempel 45 Ikraftträdande och tidsbegränsad giltighet"
+ },
+ {
+  "id": "exempel-46-upphävande-av-författningar-i-anslutning-till-ikr",
+  "level": 3,
+  "title": "Exempel 46 Upphävande av författningar i anslutning till ikraftträdandebestämmelsen till en ny grundförfattning"
+ },
+ {
+  "id": "exempel-47-upphävande-av-föreskrifter",
+  "level": 3,
+  "title": "Exempel 47 Upphävande av föreskrifter"
+ },
+ {
+  "id": "exempel-48-upphävande-av-föreskrifter-som-beslutats-av-en-an",
+  "level": 3,
+  "title": "Exempel 48 Upphävande av föreskrifter som beslutats av en annan myndighet"
+ },
+ {
+  "id": "exempel-49-upphävande-av-ändringsföreskrifter-som-ännu-inte-",
+  "level": 3,
+  "title": "Exempel 49 Upphävande av ändringsföreskrifter som ännu inte har trätt i kraft"
+ },
+ {
+  "id": "exempel-50-fortsatt-giltighet-av-äldre-föreskrifter",
+  "level": 3,
+  "title": "Exempel 50 Fortsatt giltighet av äldre föreskrifter"
+ },
+ {
+  "id": "exempel-51-tillstånd-och-behörighet",
+  "level": 3,
+  "title": "Exempel 51 Tillstånd och behörighet"
+ },
+ {
+  "id": "exempel-52-dispens",
+  "level": 3,
+  "title": "Exempel 52 Dispens"
+ },
+ {
+  "id": "exempel-53-fortsatt-ledamotskap",
+  "level": 3,
+  "title": "Exempel 53 Fortsatt ledamotskap"
+ },
+ {
+  "id": "exempel-54",
+  "level": 3,
+  "title": "Exempel 54"
+ },
+ {
+  "id": "exempel-55",
+  "level": 3,
+  "title": "Exempel 55"
+ },
+ {
+  "id": "exempel-56",
+  "level": 3,
+  "title": "Exempel 56"
+ },
+ {
+  "id": "exempel-57-omtryck-i-samband-med-en-författningsändring",
+  "level": 3,
+  "title": "Exempel 57 Omtryck i samband med en författningsändring"
+ },
+ {
+  "id": "föreskrifter-om-ändring-i-x-myndighetens-föreskrifter-xfs-20",
+  "level": 3,
+  "title": "Föreskrifter om ändring i X-myndighetens föreskrifter (XFS 2012:000) om …"
+ },
+ {
+  "id": "exempel-58-fristående-omtryck",
+  "level": 3,
+  "title": "Exempel 58 Fristående omtryck"
+ },
+ {
+  "id": "x-myndighetens-föreskrifter-xfs-2012-000",
+  "level": 3,
+  "title": "X-myndighetens föreskrifter (XFS 2012:000)"
+ },
+ {
+  "id": "1-kap-tillämpningsområde-och-definitioner",
+  "level": 3,
+  "title": "1 kap. Tillämpningsområde och definitioner"
+ },
+ {
+  "id": "1",
+  "level": 3,
+  "title": "1 § …"
+ },
+ {
+  "id": "exempel-59",
+  "level": 3,
+  "title": "Exempel 59"
+ },
+ {
+  "id": "exempel-60",
+  "level": 3,
+  "title": "Exempel 60"
+ },
+ {
+  "id": "exempel-61",
+  "level": 3,
+  "title": "Exempel 61"
+ },
+ {
+  "id": "exempel-62",
+  "level": 3,
+  "title": "Exempel 62"
+ },
+ {
+  "id": "exempel-63-när-direktivet-inte-är-ändrat",
+  "level": 3,
+  "title": "Exempel 63 När direktivet inte är ändrat"
+ },
+ {
+  "id": "exempel-64-när-direktivet-har-ändrats-en-eller-flera-gånger",
+  "level": 3,
+  "title": "Exempel 64 När direktivet har ändrats en eller flera gånger"
+ },
+ {
+  "id": "exempel-65-när-tekniska-regler-kungörs",
+  "level": 3,
+  "title": "Exempel 65 När tekniska regler kungörs"
+ },
+ {
+  "id": "exempel-66-när-tekniska-regler-kungörs-och-man-samtidigt-gen",
+  "level": 3,
+  "title": "Exempel 66 När tekniska regler kungörs och man samtidigt genomför ett direktiv"
+ },
+ {
+  "id": "exempel-67-noter-som-anger-senaste-lydelse",
+  "level": 3,
+  "title": "Exempel 67 Noter som anger senaste lydelse"
+ },
+ {
+  "id": "exempel-68",
+  "level": 3,
+  "title": "Exempel 68"
+ },
+ {
+  "id": "exempel-69",
+  "level": 3,
+  "title": "Exempel 69"
+ },
+ {
+  "id": "exempel-70",
+  "level": 3,
+  "title": "Exempel 70"
+ },
+ {
+  "id": "exempel-71",
+  "level": 3,
+  "title": "Exempel 71"
+ },
+ {
+  "id": "exempel-72",
+  "level": 3,
+  "title": "Exempel 72"
+ },
+ {
+  "id": "exempel-73",
+  "level": 3,
+  "title": "Exempel 73"
+ },
+ {
+  "id": "exempel-74",
+  "level": 3,
+  "title": "Exempel 74"
+ },
+ {
+  "id": "exempel-75",
+  "level": 3,
+  "title": "Exempel 75"
+ },
+ {
+  "id": "exempel-76",
+  "level": 3,
+  "title": "Exempel 76"
+ },
+ {
+  "id": "exempel-77",
+  "level": 3,
+  "title": "Exempel 77"
+ },
+ {
+  "id": "exempel-78-inledning-till-tillkännagivanden",
+  "level": 3,
+  "title": "Exempel 78 Inledning till tillkännagivanden"
+ },
+ {
+  "id": "exempel-79-tillkännagivande-som-ska-ersättas",
+  "level": 3,
+  "title": "Exempel 79 Tillkännagivande som ska ersättas"
+ },
+ {
+  "id": "exempel-80-tillkännagivande-som-ska-utgå",
+  "level": 3,
+  "title": "Exempel 80 Tillkännagivande som ska utgå"
+ },
+ {
+  "id": "exempel-1-inledande-bestämmelser-i-föreskrifterna",
+  "level": 3,
+  "title": "Exempel 1 Inledande bestämmelser i föreskrifterna"
+ },
+ {
+  "id": "tillämpningsområde-och-ordförklaringar",
+  "level": 3,
+  "title": "Tillämpningsområde och ordförklaringar"
+ },
+ {
+  "id": "exempel-2-placering-av-och-stil-på-siffror-och-paragraftecke",
+  "level": 3,
+  "title": "Exempel 2 Placering av och stil på siffror och paragraftecken"
+ },
+ {
+  "id": "exempel-3-punktuppställning-med-en-enda-mening",
+  "level": 3,
+  "title": "Exempel 3 Punktuppställning med en enda mening"
+ },
+ {
+  "id": "exempel-4-punktuppställning-med-flera-meningar",
+  "level": 3,
+  "title": "Exempel 4 Punktuppställning med flera meningar"
+ },
+ {
+  "id": "exempel-5-punktuppställning-med-utbrutet-led-i-ett-nytt-styc",
+  "level": 3,
+  "title": "Exempel 5 Punktuppställning med utbrutet led i ett nytt stycke"
+ },
+ {
+  "id": "exempel-6-skriv-ut-vad-som-ska-gälla-i-stället-för-att-hänvi",
+  "level": 3,
+  "title": "Exempel 6 Skriv ut vad som ska gälla i stället för att hänvisa"
+ },
+ {
+  "id": "exempel-7-upplysningsbestämmelse",
+  "level": 3,
+  "title": "Exempel 7 Upplysningsbestämmelse"
+ },
+ {
+  "id": "exempel-8-upplysning-om-att-föreskrifterna-kompletterar-en-e",
+  "level": 3,
+  "title": "Exempel 8 Upplysning om att föreskrifterna kompletterar en EU-förordning"
+ },
+ {
+  "id": "exempel-9-hänvisningsbestämmelser-som-ger-information",
+  "level": 3,
+  "title": "Exempel 9 Hänvisningsbestämmelser som ger information"
+ },
+ {
+  "id": "exempel-10-hänvisning-till-en-lag-som-kungjorts-i-sfs",
+  "level": 3,
+  "title": "Exempel 10 Hänvisning till en lag som kungjorts i SFS"
+ },
+ {
+  "id": "exempel-11-hänvisning-till-en-förordning-som-kungjorts-i-sfs",
+  "level": 3,
+  "title": "Exempel 11 Hänvisning till en förordning som kungjorts i SFS"
+ },
+ {
+  "id": "exempel-12-hänvisning-till-föreskrifter-som-kungjorts-i-en-a",
+  "level": 3,
+  "title": "Exempel 12 Hänvisning till föreskrifter som kungjorts i en annan författningssamling än SFS"
+ },
+ {
+  "id": "exempel-13-statisk-hänvisning-till-eu-direktiv",
+  "level": 3,
+  "title": "Exempel 13 Statisk hänvisning till EU-direktiv"
+ },
+ {
+  "id": "exempel-14-dynamisk-hänvisning-till-eu-direktiv",
+  "level": 3,
+  "title": "Exempel 14 Dynamisk hänvisning till EU-direktiv"
+ },
+ {
+  "id": "exempel-15-statisk-hänvisning-till-eu-förordning",
+  "level": 3,
+  "title": "Exempel 15 Statisk hänvisning till EU-förordning"
+ },
+ {
+  "id": "exempel-16-dynamisk-hänvisning-till-eu-förordning",
+  "level": 3,
+  "title": "Exempel 16 Dynamisk hänvisning till EU-förordning"
+ },
+ {
+  "id": "exempel-17-förkortade-namn-på-eu-rättsakter",
+  "level": 3,
+  "title": "Exempel 17 Förkortade namn på EU-rättsakter"
+ },
+ {
+  "id": "exempel-18-användningen-av-prepositionen-i-vid-hänvisning-ti",
+  "level": 3,
+  "title": "Exempel 18 Användningen av prepositionen i vid hänvisning till EU-rättsakter"
+ },
+ {
+  "id": "exempel-19-att-syfta-tillbaka-i-samma-paragraf-genom-att-anv",
+  "level": 3,
+  "title": "Exempel 19 Att syfta tillbaka i samma paragraf genom att använda bestämd form"
+ },
+ {
+  "id": "exempel-20-att-syfta-tillbaka-genom-att-använda-då",
+  "level": 3,
+  "title": "Exempel 20 Att syfta tillbaka genom att använda då"
+ },
+ {
+  "id": "exempel-21-att-syfta-tillbaka-till-en-tidigare-paragraf-geno",
+  "level": 3,
+  "title": "Exempel 21 Att syfta tillbaka till en tidigare paragraf genom att använda bestämd form"
+ },
+ {
+  "id": "exempel-22-paragraf-som-avgränsar-ämnesområdet-i-ett-avsnitt",
+  "level": 3,
+  "title": "Exempel 22 Paragraf som avgränsar ämnesområdet i ett avsnitt"
+ },
+ {
+  "id": "exempel-23-att-använda-detsamma-i-stället-för-att-räkna-upp-",
+  "level": 3,
+  "title": "Exempel 23 Att använda detsamma i stället för att räkna upp alla fall i samma mening"
+ },
+ {
+  "id": "exempel-24-att-dela-upp-förutsättningarna-på-flera-meningar",
+  "level": 3,
+  "title": "Exempel 24 Att dela upp förutsättningarna på flera meningar"
+ },
+ {
+  "id": "exempel-25-att-hålla-ihop-ord-som-hör-ihop",
+  "level": 3,
+  "title": "Exempel 25 Att hålla ihop ord som hör ihop"
+ },
+ {
+  "id": "exempel-26-undvik-långa-bestämningar-före-huvudordet",
+  "level": 3,
+  "title": "Exempel 26 Undvik långa bestämningar före huvudordet"
+ },
+ {
+  "id": "exempel-27-undvik-långa-som-satser-mitt-i-meningen",
+  "level": 3,
+  "title": "Exempel 27 Undvik långa som-satser mitt i meningen"
+ },
+ {
+  "id": "exempel-28-sätt-in-ett-formellt-subjekt",
+  "level": 3,
+  "title": "Exempel 28 Sätt in ett formellt subjekt"
+ },
+ {
+  "id": "exempel-29-sätt-in-det-egentliga-subjektet-på-dess-rätta-pla",
+  "level": 3,
+  "title": "Exempel 29 Sätt in det egentliga subjektet på dess rätta plats i meningen"
+ },
+ {
+  "id": "exempel-30-att-använda-man",
+  "level": 3,
+  "title": "Exempel 30 Att använda man"
+ },
+ {
+  "id": "exempel-31-undvik-nakna-substantiv",
+  "level": 3,
+  "title": "Exempel 31 Undvik nakna substantiv"
+ },
+ {
+  "id": "exempel-32-att-skriva-könsneutralt-utan-personliga-pronomen",
+  "level": 3,
+  "title": "Exempel 32 Att skriva könsneutralt utan personliga pronomen"
+ },
+ {
+  "id": "exempel-33-att-använda-ska-i-stället-för-presensformer-av-ve",
+  "level": 3,
+  "title": "Exempel 33 Att använda ska i stället för presensformer av verbet"
+ },
+ {
+  "id": "exempel-rättelseanmärkningar",
+  "level": 3,
+  "title": "Exempel Rättelseanmärkningar"
+ }
+]

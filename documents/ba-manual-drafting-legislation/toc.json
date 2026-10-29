@@ -1,0 +1,602 @@
+[
+ {
+  "id": "bosnia-and-herzegovina",
+  "level": 3,
+  "title": "Bosnia and Herzegovina"
+ },
+ {
+  "id": "advisory-board-for-legislative-reform",
+  "level": 3,
+  "title": "Advisory Board for Legislative Reform"
+ },
+ {
+  "id": "m-a-n-u-a-l",
+  "level": 2,
+  "title": "M A N U A L"
+ },
+ {
+  "id": "for-drafting-legislation",
+  "level": 3,
+  "title": "FOR DRAFTING LEGISLATION"
+ },
+ {
+  "id": "preface",
+  "level": 3,
+  "title": "PREFACE"
+ },
+ {
+  "id": "introductory-note",
+  "level": 3,
+  "title": "INTRODUCTORY NOTE"
+ },
+ {
+  "id": "unified-rules-for-legislative-drafting-in-the-institutions-o",
+  "level": 3,
+  "title": "UNIFIED RULES FOR LEGISLATIVE DRAFTING IN THE INSTITUTIONS OF BOSNIA AND HERZEGOVINA"
+ },
+ {
+  "id": "unified-rules-for-legislative-drafting-in-the-institutions-o-2",
+  "level": 3,
+  "title": "UNIFIED RULES FOR LEGISLATIVE DRAFTING IN THE INSTITUTIONS OF BOSNIA AND HERZEGOVINA"
+ },
+ {
+  "id": "section-one-introductory-notes",
+  "level": 3,
+  "title": "SECTION ONE - INTRODUCTORY NOTES"
+ },
+ {
+  "id": "article-1-scope-of-application-with-regards-to-subjects",
+  "level": 3,
+  "title": "Article 1 (Scope of application with regards to subjects)"
+ },
+ {
+  "id": "article-2-scope-of-application-regarding-a-subject",
+  "level": 3,
+  "title": "Article 2 (Scope of application regarding a subject)"
+ },
+ {
+  "id": "section-two-unified-technique-of-legislative-drafting",
+  "level": 3,
+  "title": "SECTION TWO - UNIFIED TECHNIQUE OF LEGISLATIVE DRAFTING"
+ },
+ {
+  "id": "chapter-i-content-of-regulation",
+  "level": 3,
+  "title": "CHAPTER I - CONTENT OF REGULATION"
+ },
+ {
+  "id": "article-3-structure-of-regulation",
+  "level": 3,
+  "title": "Article 3 (Structure of regulation)"
+ },
+ {
+  "id": "part-a-content-of-introductory-part-of-regulation",
+  "level": 3,
+  "title": "Part A. Content of introductory part of regulation"
+ },
+ {
+  "id": "article-4-introductory-part",
+  "level": 3,
+  "title": "Article 4 (Introductory part)"
+ },
+ {
+  "id": "article-5-preamble",
+  "level": 3,
+  "title": "Article 5 (Preamble)"
+ },
+ {
+  "id": "article-6-title-of-regulation",
+  "level": 3,
+  "title": "Article 6 (Title of regulation)"
+ },
+ {
+  "id": "article-7-overview-of-the-content",
+  "level": 3,
+  "title": "Article 7 (Overview of the content)"
+ },
+ {
+  "id": "article-8-subject",
+  "level": 3,
+  "title": "Article 8 (Subject)"
+ },
+ {
+  "id": "article-9-definition",
+  "level": 3,
+  "title": "Article 9 (Definition)"
+ },
+ {
+  "id": "part-b-content-of-the-main-body-of-regulation",
+  "level": 3,
+  "title": "Part B. Content of the main body of regulation"
+ },
+ {
+  "id": "article-10-main-body",
+  "level": 3,
+  "title": "Article 10 (Main body)"
+ },
+ {
+  "id": "article-11-general-principles",
+  "level": 3,
+  "title": "Article 11 (General principles)"
+ },
+ {
+  "id": "article-12-rights-and-obligations",
+  "level": 3,
+  "title": "Article 12 (Rights and obligations)"
+ },
+ {
+  "id": "article-13-competencies",
+  "level": 3,
+  "title": "Article 13 (Competencies)"
+ },
+ {
+  "id": "article-14-application-of-provisions",
+  "level": 3,
+  "title": "Article 14 (Application of provisions)"
+ },
+ {
+  "id": "article-15-penal-provisions",
+  "level": 3,
+  "title": "Article 15 (Penal provisions)"
+ },
+ {
+  "id": "part-c-content-of-the-final-part-of-regulation",
+  "level": 3,
+  "title": "Part C. Content of the final part of regulation"
+ },
+ {
+  "id": "article-16-final-part",
+  "level": 3,
+  "title": "Article 16 (Final part)"
+ },
+ {
+  "id": "article-17-transitional-provisions",
+  "level": 3,
+  "title": "Article 17 (Transitional provisions)"
+ },
+ {
+  "id": "article-18-cases-i-e-proceedings-pending-before-legally-vali",
+  "level": 3,
+  "title": "Article 18 (Cases, i.e. proceedings pending before legally valid decision)"
+ },
+ {
+  "id": "article-19-limiting-provisions",
+  "level": 3,
+  "title": "Article 19 (Limiting provisions)"
+ },
+ {
+  "id": "article-20-provisions-on-putting-regulation-out-of-force",
+  "level": 3,
+  "title": "Article 20 (Provisions on putting regulation out of force)"
+ },
+ {
+  "id": "article-21-final-provisions",
+  "level": 3,
+  "title": "Article 21 (Final provisions)"
+ },
+ {
+  "id": "article-22-dating",
+  "level": 3,
+  "title": "Article 22 (Dating)"
+ },
+ {
+  "id": "part-d-content-of-annex-to-regulation",
+  "level": 3,
+  "title": "Part D. Content of annex to regulation"
+ },
+ {
+  "id": "article-23-purpose-and-validity-of-annexes",
+  "level": 3,
+  "title": "Article 23 (Purpose and validity of annexes)"
+ },
+ {
+  "id": "article-24-structure-of-annexes",
+  "level": 3,
+  "title": "Article 24 (Structure of annexes)"
+ },
+ {
+  "id": "chapter-ii-form-of-regulation",
+  "level": 3,
+  "title": "CHAPTER II - FORM OF REGULATION"
+ },
+ {
+  "id": "part-a-internal-division-of-regulation",
+  "level": 3,
+  "title": "Part A. Internal division of regulation"
+ },
+ {
+  "id": "article-25-types-of-internal-division",
+  "level": 3,
+  "title": "Article 25 (Types of internal division)"
+ },
+ {
+  "id": "article-26-section",
+  "level": 3,
+  "title": "Article 26 (Section)"
+ },
+ {
+  "id": "article-27-chapter",
+  "level": 3,
+  "title": "Article 27 (Chapter)"
+ },
+ {
+  "id": "article-28-part",
+  "level": 3,
+  "title": "Article 28 (Part)"
+ },
+ {
+  "id": "part-b-article-and-internal-division",
+  "level": 3,
+  "title": "Part B. Article and internal division"
+ },
+ {
+  "id": "article-29-article",
+  "level": 3,
+  "title": "Article 29 (Article)"
+ },
+ {
+  "id": "article-30-internal-division-of-article",
+  "level": 3,
+  "title": "Article 30 (Internal division of article)"
+ },
+ {
+  "id": "article-31-paragraph",
+  "level": 3,
+  "title": "Article 31 (Paragraph)"
+ },
+ {
+  "id": "article-32-point",
+  "level": 3,
+  "title": "Article 32 (Point)"
+ },
+ {
+  "id": "article-33-line",
+  "level": 3,
+  "title": "Article 33 (Line)"
+ },
+ {
+  "id": "chapter-iii-style-of-regulation",
+  "level": 3,
+  "title": "CHAPTER III - STYLE OF REGULATION"
+ },
+ {
+  "id": "part-a-terminology",
+  "level": 3,
+  "title": "Part A. Terminology"
+ },
+ {
+  "id": "article-34-general-principles-of-terminology",
+  "level": 3,
+  "title": "Article 34 (General principles of terminology)"
+ },
+ {
+  "id": "article-35-clear-terminology",
+  "level": 3,
+  "title": "Article 35 (Clear terminology)"
+ },
+ {
+  "id": "article-36-consistent-terminology",
+  "level": 3,
+  "title": "Article 36 (Consistent terminology)"
+ },
+ {
+  "id": "article-37-precise-terminology",
+  "level": 3,
+  "title": "Article 37 (Precise terminology)"
+ },
+ {
+  "id": "article-38-terminology",
+  "level": 3,
+  "title": "Article 38 (Terminology)"
+ },
+ {
+  "id": "part-b-references-quotations-and-abbreviations",
+  "level": 3,
+  "title": "Part B. References, quotations and abbreviations"
+ },
+ {
+  "id": "article-39-references",
+  "level": 3,
+  "title": "Article 39 (References)"
+ },
+ {
+  "id": "article-40-quotations",
+  "level": 3,
+  "title": "Article 40 (Quotations)"
+ },
+ {
+  "id": "article-41-abbreviations",
+  "level": 3,
+  "title": "Article 41 (Abbreviations)"
+ },
+ {
+  "id": "part-c-grammar",
+  "level": 3,
+  "title": "Part C. Grammar"
+ },
+ {
+  "id": "article-42-usage-of-verbs",
+  "level": 3,
+  "title": "Article 42 (Usage of verbs)"
+ },
+ {
+  "id": "article-43-usage-of-singular",
+  "level": 3,
+  "title": "Article 43 (Usage of singular)"
+ },
+ {
+  "id": "article-44-usage-of-masculine-and-feminine-genders",
+  "level": 3,
+  "title": "Article 44 (Usage of masculine and feminine genders)"
+ },
+ {
+  "id": "article-45-writing-numbers",
+  "level": 3,
+  "title": "Article 45 (Writing numbers)"
+ },
+ {
+  "id": "chapter-iv-modification-and-confirmation-of-regulation",
+  "level": 3,
+  "title": "CHAPTER IV - MODIFICATION AND CONFIRMATION OF REGULATION"
+ },
+ {
+  "id": "part-a-modifications-and-amendments",
+  "level": 3,
+  "title": "Part A. Modifications and amendments"
+ },
+ {
+  "id": "article-46-purpose-and-scope-of-modifications-and-amendments",
+  "level": 3,
+  "title": "Article 46 (Purpose and scope of modifications and amendments)"
+ },
+ {
+  "id": "article-47-manner-of-introducing-modifications-and-amendment",
+  "level": 3,
+  "title": "Article 47 (Manner of introducing modifications and amendments)"
+ },
+ {
+  "id": "title-of-modifications-and-amendments",
+  "level": 3,
+  "title": "(Title of modifications and amendments)"
+ },
+ {
+  "id": "article-49-reference-to-original-regulation",
+  "level": 3,
+  "title": "Article 49 (Reference to original regulation)"
+ },
+ {
+  "id": "article-50-formulation-of-modification-of-regulation",
+  "level": 3,
+  "title": "Article 50 (Formulation of modification of regulation)"
+ },
+ {
+  "id": "article-x",
+  "level": 3,
+  "title": "´Article x"
+ },
+ {
+  "id": "article-51-formulation-of-amendment-to-a-part-of-regulation",
+  "level": 3,
+  "title": "Article 51 (Formulation of amendment to a part of regulation)"
+ },
+ {
+  "id": "article-52-formulation-of-amended-articles",
+  "level": 3,
+  "title": "Article 52 (Formulation of amended Articles)"
+ },
+ {
+  "id": "article-xa",
+  "level": 3,
+  "title": "´Article xa"
+ },
+ {
+  "id": "article-53-formulation-of-amendments-to-parts-of-articles",
+  "level": 3,
+  "title": "Article 53 (Formulation of amendments to parts of articles)"
+ },
+ {
+  "id": "part-b-refined-text-and-rectification-of-regulation",
+  "level": 3,
+  "title": "Part B. Refined text and rectification of regulation"
+ },
+ {
+  "id": "article-54-refined-text",
+  "level": 3,
+  "title": "Article 54 (Refined text)"
+ },
+ {
+  "id": "article-55-correction",
+  "level": 3,
+  "title": "Article 55 (Correction)"
+ },
+ {
+  "id": "part-c-confirmation-of-decisions-made-by-the-high-representa",
+  "level": 3,
+  "title": "Part C. Confirmation of decisions made by the High Representative in Bosnia and Herzegovina"
+ },
+ {
+  "id": "article-56-law-on-adoption-of-laws",
+  "level": 3,
+  "title": "Article 56 (Law on adoption of laws)"
+ },
+ {
+  "id": "article-57-content-of-law",
+  "level": 3,
+  "title": "Article 57 (Content of law)"
+ },
+ {
+  "id": "section-three-unified-technique-of-drafting-explanation",
+  "level": 3,
+  "title": "SECTION THREE - UNIFIED TECHNIQUE OF DRAFTING EXPLANATION"
+ },
+ {
+  "id": "chapter-i-form-of-explanation",
+  "level": 3,
+  "title": "CHAPTER I - FORM OF EXPLANATION"
+ },
+ {
+  "id": "article-58-obligation-of-submitting-explanation",
+  "level": 3,
+  "title": "Article 58 (Obligation of submitting explanation)"
+ },
+ {
+  "id": "article-59-structure-of-explanation",
+  "level": 3,
+  "title": "Article 59 (Structure of explanation)"
+ },
+ {
+  "id": "chapter-ii-structure-and-content-of-explanation",
+  "level": 3,
+  "title": "CHAPTER II - STRUCTURE AND CONTENT OF EXPLANATION"
+ },
+ {
+  "id": "article-60-content-of-explanation",
+  "level": 3,
+  "title": "Article 60 (Content of explanation)"
+ },
+ {
+  "id": "article-61-constitutional-and-legal-examination",
+  "level": 3,
+  "title": "Article 61 (Constitutional and legal examination)"
+ },
+ {
+  "id": "article-62-reason-for-introduction-of-regulation",
+  "level": 3,
+  "title": "Article 62 (Reason for introduction of regulation)"
+ },
+ {
+  "id": "article-63-harmonization-with-the-eu-legislation",
+  "level": 3,
+  "title": "Article 63 (Harmonization with the EU legislation)"
+ },
+ {
+  "id": "article-64-verification-of-implementation",
+  "level": 3,
+  "title": "Article 64 (Verification of implementation)"
+ },
+ {
+  "id": "article-65-assessment-of-financial-resources-and-benefits",
+  "level": 3,
+  "title": "Article 65 (Assessment of financial resources and benefits)"
+ },
+ {
+  "id": "article-66-consultations-among-institutions",
+  "level": 3,
+  "title": "Article 66 (Consultations among institutions)"
+ },
+ {
+  "id": "article-67-revision-of-existing-regulations",
+  "level": 3,
+  "title": "Article 67 (Revision of existing regulations)"
+ },
+ {
+  "id": "section-four-organization-of-tasks-arising-from-normative-ac",
+  "level": 3,
+  "title": "SECTION FOUR- ORGANIZATION OF TASKS ARISING FROM NORMATIVE ACTIVITIES"
+ },
+ {
+  "id": "chapter-i-competent-units-or-specialized-staff",
+  "level": 3,
+  "title": "CHAPTER I - COMPETENT UNITS OR SPECIALIZED STAFF"
+ },
+ {
+  "id": "article-68-establishment-of-units-or-specialized-workplace",
+  "level": 3,
+  "title": "Article 68 (Establishment of units or specialized workplace)"
+ },
+ {
+  "id": "article-69-expert-tasks",
+  "level": 3,
+  "title": "Article 69 (Expert tasks)"
+ },
+ {
+  "id": "chapter-ii-procedure-of-drafting-regulation",
+  "level": 3,
+  "title": "CHAPTER II - PROCEDURE OF DRAFTING REGULATION"
+ },
+ {
+  "id": "article-70-competence-for-preparation-of-regulation",
+  "level": 3,
+  "title": "Article 70 (Competence for preparation of regulation)"
+ },
+ {
+  "id": "article-71-composition-of-the-regulation-drafters-team",
+  "level": 3,
+  "title": "Article 71 (Composition of the regulation drafters´ team)"
+ },
+ {
+  "id": "article-72-preparation-of-theses",
+  "level": 3,
+  "title": "Article 72 (Preparation of theses)"
+ },
+ {
+  "id": "article-73-approval-of-theses",
+  "level": 3,
+  "title": "Article 73 (Approval of theses)"
+ },
+ {
+  "id": "article-74-preparation-of-preliminary-draft",
+  "level": 3,
+  "title": "Article 74 (Preparation of preliminary draft)"
+ },
+ {
+  "id": "article-75-process-of-consultation",
+  "level": 3,
+  "title": "Article 75 (Process of consultation)"
+ },
+ {
+  "id": "article-76-preparation-of-draft",
+  "level": 3,
+  "title": "Article 76 (Preparation of draft)"
+ },
+ {
+  "id": "article-77-approval-of-draft",
+  "level": 3,
+  "title": "Article 77 (Approval of draft)"
+ },
+ {
+  "id": "chapter-iii-ensuring-identical-versions-of-regulation-in-the",
+  "level": 3,
+  "title": "CHAPTER III - ENSURING IDENTICAL VERSIONS OF REGULATION IN THE OFFICIAL LANGUAGES"
+ },
+ {
+  "id": "article-78-identical-wording-of-regulations-in-the-three-off",
+  "level": 3,
+  "title": "Article 78 (Identical wording of regulations in the three official BiH languages)"
+ },
+ {
+  "id": "article-79-internal-proofreading",
+  "level": 3,
+  "title": "Article 79 (Internal proofreading)"
+ },
+ {
+  "id": "article-80-final-proofreading",
+  "level": 3,
+  "title": "Article 80 (Final proofreading)"
+ },
+ {
+  "id": "article-81-commission-for-linguistic-policy-in-the-legislati",
+  "level": 3,
+  "title": "Article 81 (Commission for Linguistic Policy in the Legislation of BiH)"
+ },
+ {
+  "id": "section-five-final-provisions",
+  "level": 3,
+  "title": "SECTION FIVE - FINAL PROVISIONS"
+ },
+ {
+  "id": "article-82-control-of-the-rules",
+  "level": 3,
+  "title": "Article 82 (Control of the Rules)"
+ },
+ {
+  "id": "article-83-entry-into-force",
+  "level": 3,
+  "title": "Article 83 (Entry into force)"
+ },
+ {
+  "id": "efik-d-aferovi-velimir-juki",
+  "level": 3,
+  "title": "[efik D`aferovi} Velimir Juki}"
+ }
+]

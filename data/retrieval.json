@@ -1,0 +1,1314 @@
+{
+  "at-legistische-richtlinien-1990": {
+    "bytes": 249773,
+    "content_type": "application/pdf;charset=UTF-8",
+    "file": "documents/at-legistische-richtlinien-1990/original.pdf",
+    "final_url": "https://www.bundeskanzleramt.gv.at/dam/jcr:f4301575-c575-403b-9300-a7dc01ec1a51/legrl1990.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Fri, 07 Feb 2020 13:06:40 GMT",
+    "requested_url": "https://www.bundeskanzleramt.gv.at/dam/jcr:f4301575-c575-403b-9300-a7dc01ec1a51/legrl1990.pdf",
+    "retrieved_at": "2026-10-29T15:54:15+00:00",
+    "sha256": "9b68377927db62625c716ece440c0721a500c57ef4e49a91bbc00708d20715ba"
+  },
+  "au-opc-drafting-directions": {
+    "error": "no source_url in catalog",
+    "retrieved_at": "2026-10-29T15:53:23+00:00"
+  },
+  "au-opc-drafting-manual": {
+    "error": "ReadTimeout: HTTPSConnectionPool(host='www.opc.gov.au', port=443): Read timed out. (read timeout=90)",
+    "retrieved_at": "2026-10-29T15:48:38+00:00"
+  },
+  "au-opc-plain-english-manual": {
+    "error": "ReadTimeout: HTTPSConnectionPool(host='www.opc.gov.au', port=443): Read timed out. (read timeout=90)",
+    "retrieved_at": "2026-10-29T15:43:53+00:00"
+  },
+  "ba-manual-drafting-legislation": {
+    "bytes": 383610,
+    "content_type": "application/pdf",
+    "file": "documents/ba-manual-drafting-legislation/original.pdf",
+    "final_url": "http://legislativeconsulting.com/resources/manuals/Bosnia-Herzogovina_DraftingManual_2006.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Wed, 11 Apr 2018 04:50:08 GMT",
+    "requested_url": "http://legislativeconsulting.com/resources/manuals/Bosnia-Herzogovina_DraftingManual_2006.pdf",
+    "retrieved_at": "2026-10-29T15:54:49+00:00",
+    "sha256": "e2f155b77b8d60a84e70c5f65e41ab43899fcf314252724787bbf7c057ed1532"
+  },
+  "br-decreto-12002-2024": {
+    "bytes": 814,
+    "content_type": "text/html; charset=windows-1252",
+    "file": "documents/br-decreto-12002-2024/original.html",
+    "final_url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12002.htm",
+    "format": "HTML",
+    "http_status": 200,
+    "last_modified_header": null,
+    "requested_url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12002.htm",
+    "retrieved_at": "2026-10-29T16:03:48+00:00",
+    "sha256": "180e0153fc7aad9c54522c1f10d60d408d25eafb2cce339a20ae54e10a2e3fd8"
+  },
+  "br-lei-complementar-95-1998": {
+    "bytes": 814,
+    "content_type": "text/html; charset=windows-1252",
+    "file": "documents/br-lei-complementar-95-1998/original.html",
+    "final_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm",
+    "format": "HTML",
+    "http_status": 200,
+    "last_modified_header": null,
+    "requested_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm",
+    "retrieved_at": "2026-10-29T15:54:50+00:00",
+    "sha256": "fc052f77e5eb8c3f9f1a825f2c79d7a392a66c7ad34a14d02b1b364cbce85362"
+  },
+  "ca-jurilinguistique-legislative-francaise": {
+    "bytes": 26736,
+    "content_type": "text/html",
+    "file": "documents/ca-jurilinguistique-legislative-francaise/original.html",
+    "final_url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/toc-tdm.html",
+    "format": "HTML",
+    "http_status": 200,
+    "last_modified_header": null,
+    "pages": [
+      {
+        "file": "pages/001.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/toc-tdm.html?wbdisable=true"
+      },
+      {
+        "file": "pages/002.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/index.html"
+      },
+      {
+        "file": "pages/003.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no1.html"
+      },
+      {
+        "file": "pages/004.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no2.html"
+      },
+      {
+        "file": "pages/005.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no3.html"
+      },
+      {
+        "file": "pages/006.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no89.html"
+      },
+      {
+        "file": "pages/007.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no6.html"
+      },
+      {
+        "file": "pages/008.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no7.html"
+      },
+      {
+        "file": "pages/009.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no26.html"
+      },
+      {
+        "file": "pages/010.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no140.html"
+      },
+      {
+        "file": "pages/011.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no8.html"
+      },
+      {
+        "file": "pages/012.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no9.html"
+      },
+      {
+        "file": "pages/013.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no10.html"
+      },
+      {
+        "file": "pages/014.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no11.html"
+      },
+      {
+        "file": "pages/015.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no12.html"
+      },
+      {
+        "file": "pages/016.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no14.html"
+      },
+      {
+        "file": "pages/017.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no15.html"
+      },
+      {
+        "file": "pages/018.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no17.html"
+      },
+      {
+        "file": "pages/019.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no18.html"
+      },
+      {
+        "file": "pages/020.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no19.html"
+      },
+      {
+        "file": "pages/021.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no20.html"
+      },
+      {
+        "file": "pages/022.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no22.html"
+      },
+      {
+        "file": "pages/023.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no23.html"
+      },
+      {
+        "file": "pages/024.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no24.html"
+      },
+      {
+        "file": "pages/025.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no27.html"
+      },
+      {
+        "file": "pages/026.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no29.html"
+      },
+      {
+        "file": "pages/027.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no30.html"
+      },
+      {
+        "file": "pages/028.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no31.html"
+      },
+      {
+        "file": "pages/029.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no32.html"
+      },
+      {
+        "file": "pages/030.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no33.html"
+      },
+      {
+        "file": "pages/031.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no34.html"
+      },
+      {
+        "file": "pages/032.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no35.html"
+      },
+      {
+        "file": "pages/033.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no137.html"
+      },
+      {
+        "file": "pages/034.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no38.html"
+      },
+      {
+        "file": "pages/035.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no40.html"
+      },
+      {
+        "file": "pages/036.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no41.html"
+      },
+      {
+        "file": "pages/037.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no42.html"
+      },
+      {
+        "file": "pages/038.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no44.html"
+      },
+      {
+        "file": "pages/039.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no46.html"
+      },
+      {
+        "file": "pages/040.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no47.html"
+      },
+      {
+        "file": "pages/041.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no48.html"
+      },
+      {
+        "file": "pages/042.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no49.html"
+      },
+      {
+        "file": "pages/043.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no50.html"
+      },
+      {
+        "file": "pages/044.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no51.html"
+      },
+      {
+        "file": "pages/045.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no52.html"
+      },
+      {
+        "file": "pages/046.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no53.html"
+      },
+      {
+        "file": "pages/047.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no54.html"
+      },
+      {
+        "file": "pages/048.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no55.html"
+      },
+      {
+        "file": "pages/049.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no56.html"
+      },
+      {
+        "file": "pages/050.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no57.html"
+      },
+      {
+        "file": "pages/051.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no58.html"
+      },
+      {
+        "file": "pages/052.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no60.html"
+      },
+      {
+        "file": "pages/053.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no61.html"
+      },
+      {
+        "file": "pages/054.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no62.html"
+      },
+      {
+        "file": "pages/055.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no139.html"
+      },
+      {
+        "file": "pages/056.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no63.html"
+      },
+      {
+        "file": "pages/057.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no64.html"
+      },
+      {
+        "file": "pages/058.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no65.html"
+      },
+      {
+        "file": "pages/059.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no66.html"
+      },
+      {
+        "file": "pages/060.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no67.html"
+      },
+      {
+        "file": "pages/061.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no68.html"
+      },
+      {
+        "file": "pages/062.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no69.html"
+      },
+      {
+        "file": "pages/063.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no70.html"
+      },
+      {
+        "file": "pages/064.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no71.html"
+      },
+      {
+        "file": "pages/065.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no73.html"
+      },
+      {
+        "file": "pages/066.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no75.html"
+      },
+      {
+        "file": "pages/067.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no76.html"
+      },
+      {
+        "file": "pages/068.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no138.html"
+      },
+      {
+        "file": "pages/069.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no78.html"
+      },
+      {
+        "file": "pages/070.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no79.html"
+      },
+      {
+        "file": "pages/071.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no81.html"
+      },
+      {
+        "file": "pages/072.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no82.html"
+      },
+      {
+        "file": "pages/073.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no83.html"
+      },
+      {
+        "file": "pages/074.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no84.html"
+      },
+      {
+        "file": "pages/075.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no85.html"
+      },
+      {
+        "file": "pages/076.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no86.html"
+      },
+      {
+        "file": "pages/077.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no87.html"
+      },
+      {
+        "file": "pages/078.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no88.html"
+      },
+      {
+        "file": "pages/079.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no90.html"
+      },
+      {
+        "file": "pages/080.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no93.html"
+      },
+      {
+        "file": "pages/081.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no94.html"
+      },
+      {
+        "file": "pages/082.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no95.html"
+      },
+      {
+        "file": "pages/083.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no96.html"
+      },
+      {
+        "file": "pages/084.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no97.html"
+      },
+      {
+        "file": "pages/085.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no98.html"
+      },
+      {
+        "file": "pages/086.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no99.html"
+      },
+      {
+        "file": "pages/087.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no100.html"
+      },
+      {
+        "file": "pages/088.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no101.html"
+      },
+      {
+        "file": "pages/089.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no102.html"
+      },
+      {
+        "file": "pages/090.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no104.html"
+      },
+      {
+        "file": "pages/091.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no105.html"
+      },
+      {
+        "file": "pages/092.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no106.html"
+      },
+      {
+        "file": "pages/093.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no107.html"
+      },
+      {
+        "file": "pages/094.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no143.html"
+      },
+      {
+        "file": "pages/095.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no112.html"
+      },
+      {
+        "file": "pages/096.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no109.html"
+      },
+      {
+        "file": "pages/097.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no110.html"
+      },
+      {
+        "file": "pages/098.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no111.html"
+      },
+      {
+        "file": "pages/099.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no113.html"
+      },
+      {
+        "file": "pages/100.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no115.html"
+      },
+      {
+        "file": "pages/101.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no141.html"
+      },
+      {
+        "file": "pages/102.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no116.html"
+      },
+      {
+        "file": "pages/103.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no117.html"
+      },
+      {
+        "file": "pages/104.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no118.html"
+      },
+      {
+        "file": "pages/105.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no13.html"
+      },
+      {
+        "file": "pages/106.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no119.html"
+      },
+      {
+        "file": "pages/107.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no120.html"
+      },
+      {
+        "file": "pages/108.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no121.html"
+      },
+      {
+        "file": "pages/109.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no122.html"
+      },
+      {
+        "file": "pages/110.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no125.html"
+      },
+      {
+        "file": "pages/111.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no126.html"
+      },
+      {
+        "file": "pages/112.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no127.html"
+      },
+      {
+        "file": "pages/113.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no129.html"
+      },
+      {
+        "file": "pages/114.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no130.html"
+      },
+      {
+        "file": "pages/115.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no131.html"
+      },
+      {
+        "file": "pages/116.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no132.html"
+      },
+      {
+        "file": "pages/117.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no134.html"
+      },
+      {
+        "file": "pages/118.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no135.html"
+      },
+      {
+        "file": "pages/119.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no142.html"
+      }
+    ],
+    "requested_url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/toc-tdm.html",
+    "retrieved_at": "2026-10-29T15:42:39+00:00",
+    "sha256": "0d80e880b1849a6d87c854b2ccde36c6495d29e92470d08243be5f8c168b112c"
+  },
+  "ca-legistics": {
+    "bytes": 17612,
+    "content_type": "text/html",
+    "file": "documents/ca-legistics/original.html",
+    "final_url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/toc-tdm.html",
+    "format": "HTML",
+    "http_status": 200,
+    "last_modified_header": null,
+    "pages": [
+      {
+        "file": "pages/001.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/toc-tdm.html?wbdisable=true"
+      },
+      {
+        "file": "pages/002.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p1.html"
+      },
+      {
+        "file": "pages/003.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p2.html"
+      },
+      {
+        "file": "pages/004.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p3.html"
+      },
+      {
+        "file": "pages/005.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p4.html"
+      },
+      {
+        "file": "pages/006.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p5c.html"
+      },
+      {
+        "file": "pages/007.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p5.html"
+      },
+      {
+        "file": "pages/008.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p5b.html"
+      },
+      {
+        "file": "pages/009.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p6.html"
+      },
+      {
+        "file": "pages/010.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p7.html"
+      },
+      {
+        "file": "pages/011.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p8.html"
+      },
+      {
+        "file": "pages/012.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p9.html"
+      },
+      {
+        "file": "pages/013.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p10.html"
+      },
+      {
+        "file": "pages/014.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p11.html"
+      },
+      {
+        "file": "pages/015.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p12.html"
+      },
+      {
+        "file": "pages/016.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p13.html"
+      },
+      {
+        "file": "pages/017.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p14.html"
+      },
+      {
+        "file": "pages/018.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p15.html"
+      },
+      {
+        "file": "pages/019.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p16.html"
+      },
+      {
+        "file": "pages/020.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p17.html"
+      },
+      {
+        "file": "pages/021.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p18.html"
+      },
+      {
+        "file": "pages/022.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p19.html"
+      },
+      {
+        "file": "pages/023.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p20.html"
+      },
+      {
+        "file": "pages/024.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p22.html"
+      },
+      {
+        "file": "pages/025.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p23.html"
+      },
+      {
+        "file": "pages/026.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p24.html"
+      },
+      {
+        "file": "pages/027.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p25.html"
+      },
+      {
+        "file": "pages/028.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p26.html"
+      },
+      {
+        "file": "pages/029.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p27.html"
+      },
+      {
+        "file": "pages/030.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p28.html"
+      },
+      {
+        "file": "pages/031.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p29.html"
+      },
+      {
+        "file": "pages/032.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p31.html"
+      },
+      {
+        "file": "pages/033.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p33.html"
+      },
+      {
+        "file": "pages/034.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p1p34.html"
+      },
+      {
+        "file": "pages/035.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p2p1.html"
+      },
+      {
+        "file": "pages/036.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p2p2.html"
+      },
+      {
+        "file": "pages/037.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p2p3.html"
+      },
+      {
+        "file": "pages/038.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p2p4.html"
+      },
+      {
+        "file": "pages/039.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p3p1.html"
+      },
+      {
+        "file": "pages/040.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p3p2.html"
+      },
+      {
+        "file": "pages/041.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p3p3.html"
+      },
+      {
+        "file": "pages/042.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p4p1.html"
+      },
+      {
+        "file": "pages/043.html",
+        "status": 200,
+        "url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/p4p2.html"
+      }
+    ],
+    "requested_url": "https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/toc-tdm.html",
+    "retrieved_at": "2026-10-29T15:42:12+00:00",
+    "sha256": "33613ed9eda90b9672e11a1a3cef20479cf9d97f957cd3947cc8a5c57a501542"
+  },
+  "ch-gesetzestechnische-richtlinien": {
+    "bytes": 1317478,
+    "content_type": "application/pdf",
+    "file": "documents/ch-gesetzestechnische-richtlinien/original.pdf",
+    "final_url": "https://www.bk.admin.ch/dam/de/sd-web/q96zQo4nmf7w/GTR_DE_20260605.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Mon, 08 Jun 2026 13:22:03 GMT",
+    "requested_url": "https://www.bk.admin.ch/dam/de/sd-web/q96zQo4nmf7w/GTR_DE_20260605.pdf",
+    "retrieved_at": "2026-10-29T15:54:12+00:00",
+    "sha256": "b932b436652e49a8b4b16069efe6173e3496f256bf1a3f284f601ed2d78e5b98"
+  },
+  "commonwealth-legislative-drafting-manual": {
+    "bytes": 59036,
+    "content_type": "text/html; charset=UTF-8",
+    "file": "documents/commonwealth-legislative-drafting-manual/original.html",
+    "final_url": "https://thecommonwealth.org/publications",
+    "format": "HTML",
+    "http_status": 200,
+    "last_modified_header": "Thu, 29 Oct 2026 15:39:12 GMT",
+    "requested_url": "https://www.thecommonwealth-ilibrary.org/index.php/comsec/catalog/book/873",
+    "retrieved_at": "2026-10-29T15:41:59+00:00",
+    "sha256": "9d8506c3a9d9b22156893b846c308c854d32a42cbf5b7a20bf0849fde72af483"
+  },
+  "cz-legislativni-pravidla-vlady": {
+    "bytes": 722799,
+    "content_type": "application/pdf",
+    "file": "documents/cz-legislativni-pravidla-vlady/original.pdf",
+    "final_url": "https://vlada.gov.cz/assets/vlada/jednani-vlady/legislativni-pravidla/LPV_uplne-zneni-20260701.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Thu, 02 Jul 2026 10:34:55 GMT",
+    "requested_url": "https://vlada.gov.cz/assets/vlada/jednani-vlady/legislativni-pravidla/LPV_uplne-zneni-20260701.pdf",
+    "retrieved_at": "2026-10-29T15:54:45+00:00",
+    "sha256": "3b7c4a5bbab4e15c8fd0d5399ebb9bc41c1a971b28c1a2e323cbd4ba11c4ea26"
+  },
+  "de-handbuch-der-rechtsfoermlichkeit": {
+    "bytes": 33261916,
+    "content_type": "application/pdf",
+    "file": "documents/de-handbuch-der-rechtsfoermlichkeit/original.pdf",
+    "final_url": "https://www.bundesanzeiger.de/pub/publication/E65nEInC0DOv7NpXRZh/content/240911001484M001/BAnzAT31102024B400.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Thu, 29 Oct 2026 15:53:32 GMT",
+    "requested_url": "https://www.bundesanzeiger.de/pub/publication/E65nEInC0DOv7NpXRZh/content/240911001484M001/BAnzAT31102024B400.pdf",
+    "retrieved_at": "2026-10-29T15:53:30+00:00",
+    "sha256": "0098249df87e2ee9db75c31853b90cd8721a1e9febd7c9fa60fb45252eb818f9"
+  },
+  "dk-vejledning-om-lovkvalitet": {
+    "bytes": 3112246,
+    "content_type": "application/pdf",
+    "file": "documents/dk-vejledning-om-lovkvalitet/original.pdf",
+    "final_url": "https://www.retsinformation.dk/eli/retsinfo/2023/9964/pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": null,
+    "requested_url": "https://www.retsinformation.dk/eli/retsinfo/2023/9964/pdf",
+    "retrieved_at": "2026-10-29T15:54:33+00:00",
+    "sha256": "5cf5c98e3645846d265e865e17ec0be5330a01aa4b44f1bc7345f680e75e8f92"
+  },
+  "es-directrices-tecnica-normativa": {
+    "content_type": "text/html; charset=utf-8",
+    "error": "HTTP 403",
+    "final_url": "https://www.mpr.gob.es/servicios/publicaciones/Documents/Directrices_2reimpr_linea.pdf",
+    "http_status": 403,
+    "last_modified_header": null,
+    "requested_url": "https://www.mpr.gob.es/servicios/publicaciones/Documents/Directrices_2reimpr_linea.pdf",
+    "retrieved_at": "2026-10-29T15:54:29+00:00"
+  },
+  "eu-interinstitutional-style-guide": {
+    "content_type": "text/html",
+    "error": "HTTP 403",
+    "final_url": "https://style-guide.europa.eu/en/",
+    "http_status": 403,
+    "last_modified_header": null,
+    "requested_url": "https://style-guide.europa.eu/en/",
+    "retrieved_at": "2026-10-29T15:41:58+00:00"
+  },
+  "eu-joint-handbook-olp": {
+    "content_type": "text/html; charset=UTF-8",
+    "error": "HTTP 403",
+    "final_url": "https://www.consilium.europa.eu/media/ch2b24su/joint_handbook_en_28-november-2025_def_final.pdf",
+    "http_status": 403,
+    "last_modified_header": null,
+    "requested_url": "https://www.consilium.europa.eu/media/ch2b24su/joint_handbook_en_28-november-2025_def_final.pdf",
+    "retrieved_at": "2026-10-29T15:41:58+00:00"
+  },
+  "eu-joint-practical-guide": {
+    "bytes": 0,
+    "content_type": "text/html; charset=UTF-8",
+    "file": "documents/eu-joint-practical-guide/original.html",
+    "final_url": "https://eur-lex.europa.eu/content/techleg/KB0213228ENN.pdf",
+    "format": "HTML",
+    "http_status": 202,
+    "last_modified_header": null,
+    "requested_url": "https://eur-lex.europa.eu/content/techleg/KB0213228ENN.pdf",
+    "retrieved_at": "2026-10-29T15:41:56+00:00",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "fi-lainkirjoittajan-opas": {
+    "bytes": 709208,
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "file": "documents/fi-lainkirjoittajan-opas/original.docx",
+    "final_url": "https://lainkirjoittaja.finlex.fi/wp-content/uploads/2024/12/LAKO-2013-1.3.docx",
+    "format": "DOCX",
+    "http_status": 200,
+    "last_modified_header": "Wed, 04 Dec 2024 06:25:08 GMT",
+    "requested_url": "https://lainkirjoittaja.finlex.fi/wp-content/uploads/2024/12/LAKO-2013-1.3.docx",
+    "retrieved_at": "2026-10-29T15:54:31+00:00",
+    "sha256": "bf3191a52dec8a91feb12214509b1bd8d8571160375152585e6698e336cbe2b8"
+  },
+  "fr-guide-de-legistique": {
+    "content_type": "text/html; charset=UTF-8",
+    "error": "HTTP 403",
+    "final_url": "https://www.legifrance.gouv.fr/contenu/Media/files/autour-de-la-loi/guide-de-legistique/guide_legistique_2026.pdf",
+    "http_status": 403,
+    "last_modified_header": null,
+    "requested_url": "https://www.legifrance.gouv.fr/contenu/Media/files/autour-de-la-loi/guide-de-legistique/guide_legistique_2026.pdf",
+    "retrieved_at": "2026-10-29T15:54:17+00:00"
+  },
+  "it-regole-raccomandazioni-2001": {
+    "bytes": 63904,
+    "content_type": "text/html; charset=utf-8",
+    "file": "documents/it-regole-raccomandazioni-2001/original.html",
+    "final_url": "https://moodle2.units.it/pluginfile.php/210470/mod_resource/content/1/Presidenza%20del%20Consiglio%20dei%20ministri%2C%20Circolare%2020%20aprile%202001.pdf",
+    "format": "HTML",
+    "http_status": 200,
+    "last_modified_header": null,
+    "requested_url": "https://moodle2.units.it/pluginfile.php/210470/mod_resource/content/1/Presidenza%20del%20Consiglio%20dei%20ministri%2C%20Circolare%2020%20aprile%202001.pdf",
+    "retrieved_at": "2026-10-29T15:54:30+00:00",
+    "sha256": "49c4158744d6f5d9b38fcdd3e075bded56ce24dbfb8d5f3634ac6f6c0d1d1e7f"
+  },
+  "ke-guide-legislative-process": {
+    "bytes": 1925238,
+    "content_type": "application/pdf",
+    "file": "documents/ke-guide-legislative-process/original.pdf",
+    "final_url": "https://ial-online.org/wp-content/uploads/2018/05/klrc-a-guide-to-the-legislative-process-in-kenya.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Sat, 13 Jun 2026 02:53:53 GMT",
+    "requested_url": "https://ial-online.org/wp-content/uploads/2018/05/klrc-a-guide-to-the-legislative-process-in-kenya.pdf",
+    "retrieved_at": "2026-10-29T15:54:55+00:00",
+    "sha256": "f0e98775b9310f399e79c89707a6d93177169fe91fcbe21e2d6d2a2b29291291"
+  },
+  "lu-guide-pratique-legistique": {
+    "bytes": 572810,
+    "content_type": "application/pdf",
+    "file": "documents/lu-guide-pratique-legistique/original.pdf",
+    "final_url": "https://www.chd.lu/sites/default/files/2024-07/Guide%20pratique%20l%C3%A9gistique%20juillet%202024.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Tue, 23 Jul 2024 07:45:10 GMT",
+    "requested_url": "https://chd.lu/sites/default/files/2024-07/Guide%20pratique%20l%C3%A9gistique%20juillet%202024.pdf",
+    "retrieved_at": "2026-10-29T15:54:21+00:00",
+    "sha256": "2783eddb0f26556b25a04a5c7700a04f89b9e6b036ebba50a44fb81d0947e8b7"
+  },
+  "nl-aanwijzingen-voor-de-regelgeving": {
+    "bytes": 3202794,
+    "content_type": "text/html;charset=UTF-8",
+    "file": "documents/nl-aanwijzingen-voor-de-regelgeving/original.html",
+    "final_url": "https://wetten.overheid.nl/BWBR0005730/2024-07-01",
+    "format": "HTML",
+    "http_status": 200,
+    "last_modified_header": null,
+    "requested_url": "https://wetten.overheid.nl/BWBR0005730/",
+    "retrieved_at": "2026-10-29T15:54:18+00:00",
+    "sha256": "1b025e6ee1d95866369bf1fd77ead02892b5e096e6181123dfaf42a1585abc93"
+  },
+  "no-lovteknikk-og-lovforberedelse": {
+    "content_type": "text/html; charset=UTF-8",
+    "error": "HTTP 403",
+    "final_url": "https://www.regjeringen.no/globalassets/upload/kilde/jd/bro/2000/0002/ddd/pdfv/108138-lovteknikkboka.pdf",
+    "http_status": 403,
+    "last_modified_header": null,
+    "requested_url": "https://www.regjeringen.no/globalassets/upload/kilde/jd/bro/2000/0002/ddd/pdfv/108138-lovteknikkboka.pdf",
+    "retrieved_at": "2026-10-29T16:04:12+00:00"
+  },
+  "nr-legislative-drafting-manual": {
+    "bytes": 1528855,
+    "content_type": "application/pdf",
+    "file": "documents/nr-legislative-drafting-manual/original.pdf",
+    "final_url": "https://ial-online.org/wp-content/uploads/2018/05/Nauru-Drafting-Manual.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Sat, 13 Jun 2026 02:53:48 GMT",
+    "requested_url": "https://ial-online.org/wp-content/uploads/2018/05/Nauru-Drafting-Manual.pdf",
+    "retrieved_at": "2026-10-29T15:54:58+00:00",
+    "sha256": "67d4b01d945637dc805094cc0d6a2f07786fdeef65166b91c218ec7d8cfe7896"
+  },
+  "nz-lawcom-legislation-manual": {
+    "bytes": 266521,
+    "content_type": "application/pdf",
+    "file": "documents/nz-lawcom-legislation-manual/original.pdf",
+    "final_url": "https://lawcom.govt.nz/assets/Publications/Reports/NZLC-R35.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Wed, 07 Jun 2023 04:11:19 GMT",
+    "requested_url": "https://lawcom.govt.nz/assets/Publications/Reports/NZLC-R35.pdf",
+    "retrieved_at": "2026-10-29T15:53:29+00:00",
+    "sha256": "7c5330c6eaaf0e75a6bebbba149fa6df2f3d68f0412127b77724ff65ea21d2b4"
+  },
+  "nz-legislation-guidelines-2021": {
+    "content_type": "text/html; charset=utf-8",
+    "error": "HTTP 404",
+    "final_url": "https://www.regulation.govt.nz:443/assets/Ministry-for-Regulation-files/Regulatory-System-Capability/Legislation-Guidelines.pdf",
+    "http_status": 404,
+    "last_modified_header": null,
+    "requested_url": "https://regulation.govt.nz/assets/Ministry-for-Regulation-files/Regulatory-System-Capability/Legislation-Guidelines.pdf",
+    "retrieved_at": "2026-10-29T15:53:23+00:00"
+  },
+  "oecd-regulatory-policy-governance-2012": {
+    "bytes": 4035,
+    "content_type": "text/html",
+    "file": "documents/oecd-regulatory-policy-governance-2012/original.html",
+    "final_url": "https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0390",
+    "format": "HTML",
+    "http_status": 200,
+    "last_modified_header": "Thu, 07 May 2026 06:54:11 GMT",
+    "requested_url": "https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0390",
+    "retrieved_at": "2026-10-29T16:03:45+00:00",
+    "sha256": "2d7447c98e31677dab7c7e4d619f5222ec47160cf1ea91b6b20245efb9b4d3e3"
+  },
+  "osce-odihr-democratic-lawmaking-2024": {
+    "bytes": 3470023,
+    "content_type": "application/pdf",
+    "file": "documents/osce-odihr-democratic-lawmaking-2024/original.pdf",
+    "final_url": "https://cdn.osce.org/sites/default/files/f/documents/a/3/558321.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Mon, 16 Feb 2026 20:11:40 GMT",
+    "requested_url": "https://cdn.osce.org/sites/default/files/f/documents/a/3/558321.pdf",
+    "retrieved_at": "2026-10-29T16:03:43+00:00",
+    "sha256": "6601dedc220f21b950127124f4ff09f8a1413f64b8ec0fb48533153224c84e7c"
+  },
+  "pk-legislative-drafting-manual-2019": {
+    "bytes": 2334986,
+    "content_type": "application/pdf",
+    "file": "documents/pk-legislative-drafting-manual-2019/original.pdf",
+    "final_url": "https://calc.ngo/sites/default/files/Pakistan%20--%20Legislative-Drafting-Manual-2019.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Sun, 19 May 2024 22:53:17 GMT",
+    "requested_url": "https://calc.ngo/sites/default/files/Pakistan%20--%20Legislative-Drafting-Manual-2019.pdf",
+    "retrieved_at": "2026-10-29T15:54:52+00:00",
+    "sha256": "d41f4b428b8550910a84b3c795fc40c7172410dbf7bf0ffa3c00fe20521f2c33"
+  },
+  "pl-zasady-techniki-prawodawczej": {
+    "bytes": 464388,
+    "content_type": "application/pdf",
+    "file": "documents/pl-zasady-techniki-prawodawczej/original.pdf",
+    "final_url": "https://api.sejm.gov.pl/eli/acts/DU/2026/300/text.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": null,
+    "requested_url": "https://api.sejm.gov.pl/eli/acts/DU/2026/300/text.pdf",
+    "retrieved_at": "2026-10-29T15:54:40+00:00",
+    "sha256": "4ff76ae50a445efcbb79df8bac2e168962475987a7b384eac9b827e9eaa9b565"
+  },
+  "pt-guia-pratico-redacao-legislativa-ar": {
+    "bytes": 1031606,
+    "content_type": "application/pdf",
+    "file": "documents/pt-guia-pratico-redacao-legislativa-ar/original.pdf",
+    "final_url": "https://www.parlamento.pt/ArquivoDocumentacao/Documents/AR_Regras_Legistica.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Tue, 19 May 2020 14:52:33 GMT",
+    "requested_url": "https://www.parlamento.pt/ArquivoDocumentacao/Documents/AR_Regras_Legistica.pdf",
+    "retrieved_at": "2026-10-29T16:04:08+00:00",
+    "sha256": "930a57d79ab03e9d4dfc788da1c8a443d7f04fbc97aa38b85d4c539217e3a6db"
+  },
+  "se-grona-boken-ds-2014-1": {
+    "bytes": 4366042,
+    "content_type": "application/pdf",
+    "file": "documents/se-grona-boken-ds-2014-1/original.pdf",
+    "final_url": "https://www.regeringen.se/contentassets/472b62746b8146cc936efdafdeaf9f98/ds-20141-grona-boken---riktlinjer-for-forfattningsskrivning/",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Mon, 01 Jun 2015 08:02:54 GMT",
+    "requested_url": "https://www.regeringen.se/contentassets/472b62746b8146cc936efdafdeaf9f98/ds-20141-grona-boken---riktlinjer-for-forfattningsskrivning/",
+    "retrieved_at": "2026-10-29T16:04:10+00:00",
+    "sha256": "02258ab2ea2daabdba2b9b573da1aade5db83b877841b516f5aea5e5bf763851"
+  },
+  "se-myndigheternas-foreskrifter": {
+    "bytes": 1505094,
+    "content_type": "application/pdf",
+    "file": "documents/se-myndigheternas-foreskrifter/original.pdf",
+    "final_url": "https://www.regeringen.se/contentassets/4a78b51adf5a41b09dc93f2bc2fe2846/myndigheternas-foreskrifter-pm-20254.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Thu, 11 Dec 2025 15:08:45 GMT",
+    "requested_url": "https://www.regeringen.se/contentassets/4a78b51adf5a41b09dc93f2bc2fe2846/myndigheternas-foreskrifter-pm-20254.pdf",
+    "retrieved_at": "2026-10-29T15:54:39+00:00",
+    "sha256": "a405911157626a325290800f9720f71cca5162611da95229a80be3a95f4798ea"
+  },
+  "ug-manual-legislative-draftspersons": {
+    "bytes": 245248,
+    "content_type": "application/msword",
+    "file": "documents/ug-manual-legislative-draftspersons/original.doc",
+    "final_url": "http://ialorg.wpengine.com/wp-content/uploads/2018/02/Uganda-drafting-manual-1996.doc",
+    "format": "DOC",
+    "http_status": 200,
+    "last_modified_header": "Sat, 13 Jun 2026 02:53:52 GMT",
+    "requested_url": "http://ialorg.wpengine.com/wp-content/uploads/2018/02/Uganda-drafting-manual-1996.doc",
+    "retrieved_at": "2026-10-29T15:54:57+00:00",
+    "sha256": "09190af9edc0eb651a18974c6554200d08ca9cf649ae8c30157325781bc7b721"
+  },
+  "uk-guide-to-making-legislation": {
+    "bytes": 4448345,
+    "content_type": "application/pdf",
+    "file": "documents/uk-guide-to-making-legislation/original.pdf",
+    "final_url": "https://assets.publishing.service.gov.uk/media/68c14f2b7596dbfa052bfde2/2025_Guide_to_Making_Legislation_-_September.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Wed, 10 Sep 2025 10:12:59 GMT",
+    "requested_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1048567/guide-to-making-legislation-2022.pdf",
+    "retrieved_at": "2026-10-29T15:42:06+00:00",
+    "sha256": "e44cc9fb9f0ab956c504500f978de60163b7eaa9da319446f3d1dce84ae3c670"
+  },
+  "uk-opc-amending-bills-style-manual": {
+    "bytes": 155476,
+    "content_type": "application/pdf",
+    "file": "documents/uk-opc-amending-bills-style-manual/original.pdf",
+    "final_url": "https://assets.publishing.service.gov.uk/media/65e5c53e3f694514a3036028/Style_Manual_for_Amendments_to_Bills.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Mon, 04 Mar 2024 12:57:34 GMT",
+    "requested_url": "https://assets.publishing.service.gov.uk/media/65e5c53e3f694514a3036028/Style_Manual_for_Amendments_to_Bills.pdf",
+    "retrieved_at": "2026-10-29T16:03:42+00:00",
+    "sha256": "fd9602000d600bfd86ff6096abca7982c94c87e9a59f2c9ef2ecc00061a8ebcb"
+  },
+  "uk-opc-common-legislative-solutions": {
+    "bytes": 71895,
+    "content_type": "text/html; charset=utf-8",
+    "file": "documents/uk-opc-common-legislative-solutions/original.html",
+    "final_url": "https://www.gov.uk/government/publications/common-legislative-solutions-a-guide-to-tackling-recurring-policy-issues-in-legislation",
+    "format": "HTML",
+    "http_status": 200,
+    "last_modified_header": null,
+    "requested_url": "https://assets.publishing.service.gov.uk/media/68fa45ad30c331c88be6f048/23-10-2025_-_CLS_Guidance.pdf",
+    "retrieved_at": "2026-10-29T15:42:02+00:00",
+    "sha256": "15d704cbae11b9a0a84ba905c4ff891d660b7d47b40588d95239073a861cee1f"
+  },
+  "uk-opc-drafting-guidance": {
+    "bytes": 827632,
+    "content_type": "application/pdf",
+    "file": "documents/uk-opc-drafting-guidance/original.pdf",
+    "final_url": "https://assets.publishing.service.gov.uk/media/660407d091a320001a82b06b/2024.03.19.Drafting-guidance.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Wed, 27 Mar 2024 11:49:36 GMT",
+    "requested_url": "https://assets.publishing.service.gov.uk/media/660407d091a320001a82b06b/2024.03.19.Drafting-guidance.pdf",
+    "retrieved_at": "2026-10-29T15:42:01+00:00",
+    "sha256": "5e195e3b6dbd66a72d82a26a28ed7928b0b0349205824e6283c437c7e082df45"
+  },
+  "un-final-clauses-handbook": {
+    "bytes": 459042,
+    "content_type": "application/pdf",
+    "file": "documents/un-final-clauses-handbook/original.pdf",
+    "final_url": "https://treaties.un.org/doc/source/publications/FC/English.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": null,
+    "requested_url": "https://treaties.un.org/doc/source/publications/FC/English.pdf",
+    "retrieved_at": "2026-10-29T15:41:58+00:00",
+    "sha256": "66bf5c6f01828eb3fdeb4a760ef995ca54633589c6788c42c22f9a8eb45c5b3a"
+  },
+  "us-holc-guide-legislative-drafting": {
+    "bytes": 55462,
+    "content_type": "text/html; charset=utf-8",
+    "file": "documents/us-holc-guide-legislative-drafting/original.html",
+    "final_url": "https://legcounsel.house.gov/holc-guide-legislative-drafting",
+    "format": "HTML",
+    "http_status": 200,
+    "last_modified_header": null,
+    "requested_url": "https://legcounsel.house.gov/holc-guide-legislative-drafting",
+    "retrieved_at": "2026-10-29T16:03:45+00:00",
+    "sha256": "78f34dac3bf3c3bf503fa4d7a7acd0362794c9144478aabf806a978a83ab882d"
+  },
+  "us-house-manual-drafting-style": {
+    "bytes": 217515,
+    "content_type": "application/pdf",
+    "file": "documents/us-house-manual-drafting-style/original.pdf",
+    "final_url": "https://agora-parl.org/sites/default/files/agora-documents/US%20House%20of%20Representatives%20-%20Manual%20on%20drafting%20style%20-%2011.1995%20-%20EN%20-%20IP.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Wed, 24 Mar 2021 20:43:09 GMT",
+    "requested_url": "https://agora-parl.org/sites/default/files/agora-documents/US%20House%20of%20Representatives%20-%20Manual%20on%20drafting%20style%20-%2011.1995%20-%20EN%20-%20IP.pdf",
+    "retrieved_at": "2026-10-29T15:42:09+00:00",
+    "sha256": "6368011ce397ca0534d542062451a911029ed7f4cbd69123fd77cbdcdedb049f"
+  },
+  "us-senate-legislative-drafting-manual": {
+    "bytes": 2160109,
+    "content_type": "application/pdf",
+    "file": "documents/us-senate-legislative-drafting-manual/original.pdf",
+    "final_url": "http://legislativeconsulting.com/resources/manuals/US-Senate_DraftingManual_1997.pdf",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Wed, 11 Apr 2018 04:50:08 GMT",
+    "requested_url": "http://legislativeconsulting.com/resources/manuals/US-Senate_DraftingManual_1997.pdf",
+    "retrieved_at": "2026-10-29T15:42:10+00:00",
+    "sha256": "7d984bbdb946b7eb1474c997d3f33540e81034eabc1a9ab06ac8da489590fdf8"
+  },
+  "us-ulc-drafting-rules-style-manual": {
+    "bytes": 1424726,
+    "content_type": "application/pdf",
+    "file": "documents/us-ulc-drafting-rules-style-manual/original.pdf",
+    "final_url": "https://higherlogicdownload.s3.amazonaws.com/UNIFORMLAWS/1ef012f4-a31f-7ab2-b29c-15d9f622f98f_file.pdf?X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFgaCXVzLWVhc3QtMSJHMEUCIQC7YmX4gWTHB%2FFileDvLwkfp9cBKeirY7soaUl6yCUtuQIgJalTgu3%2BA8Rfmxfnlc15J%2Bj3zoNIBL6ESuO6oaw9zMwqsAUIIRAAGgwzODAzMzczNDA3MDYiDLPy9%2BU9sipAa9UPpSqNBQhEUYjvBtUU14eRUDCDs306gIwd3uj469dfujV1G%2Fkbb0O97q%2Bcvki4dsAN8VvSMnvqVStF1qrXgDQLiAsKOv%2BPLbnhyJbXmnkfcbQeDR42aV1O2kX6wF8EsEW1pPMnGKI%2BJe9apNBgq3d5zX17iPm%2B1vT0ltugKefQ%2BrBgl26UV%2Fpg2XbmKvTmY8gMvnvPpCDCEjxbpeNBipyYRel6SIbOJ6J3254%2BUGPzMQe3En1NWZ6kbzfM%2BG%2BUFV4%2BT2fTHhzor816GU%2FHBXyI6uvJlbwbsTVjZ%2BNdzPTcgeOkIb3DjO9NRfYlvmq9uCnrCk95mFq7wIqSsrJuhs5xecK3PDZsyVYUuAO%2BX3RlpJ6AG2mjj%2FTXGGnXVNl7ugxMYaqAwfI4ChVCDNMvKBOyTHGR4aoAnv4P0dVMMNp1vOJwOsy%2FKgNRdGj9I4NiqLb%2BY2hFz5wG07vQ36L7i3OEbC70Qz9TIje9u8febrpReeHZaoLrWVdMwYVcbes5zF4ojni%2FrayMXP9s58QGgLIgMk%2B1iDqFivS8hUJusPbZT55pJHF%2BC4HBuj56Q%2FWNJp5AFUJNl5CbdfvywFkTn03%2BvcJJjMiYIm1d54n9B9sJ3u1sU36BZyBPrsnQ8c8Gy3oTGpDEx9xpF%2F%2FpBnV5FIYG4TmtC3DTCKmsXQvUx8c73f73EzeNX0anAHbeD7pVUxvLeBfJZiFULgcASkTyhwvPkeLQMTAo20pZGJZJ48LMhbvMbe2mScHY0qCV3hUmnlLa%2FSK6f%2Bw4WV2WmeKbw7gT2YaFLFAy3DrbS6qIvcREs9U52E8DybF2dy4m9mHLhc9DeoVHYv3PNbDoMEiPwUrz6zIsMzym3hJ8pyeanRJB49QLMOXXjdcGOrEB7d%2BeJZfwLodlz%2BdDzylpM7bi9ANgQ0IslFVKEl8gXdf932WMLXTR1qyIBpuUmKLXv4DrL9F1MBMeWTswim1CkYhSIFwyHK8Xrl%2FM7P5kSUPfgNBOCfdJfHKNT%2FNrOc4Bgwt4KtZT4DjiD%2BnvmIVug3nktqGfcIS5FbioDey19GOkhT2OhcD59OS6OYsxd%2Bmtb%2BlyiuwkiDyAAUh%2BCV6vRQdmuQoPFrFuICgLl07SnU8G&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAVRDO7IERHPRCW7V3%2F20261029%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261029T160347Z&X-Amz-SignedHeaders=host&X-Amz-Signature=07fb1fb56e9ca9ed649da0d1453907b17e09d723c4ad69b12a2b9ba80b82b3c5",
+    "format": "PDF",
+    "http_status": 200,
+    "last_modified_header": "Wed, 08 Apr 2026 19:28:47 GMT",
+    "requested_url": "https://www.uniformlaws.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=1ef012f4-a31f-7ab2-b29c-15d9f622f98f&forceDialog=0",
+    "retrieved_at": "2026-10-29T16:03:46+00:00",
+    "sha256": "0410dc8a5510788e3cc4ad6607044d256ceef36cfddc17b2c8a57e51ccee1b41"
+  }
+}

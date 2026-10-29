@@ -1,0 +1,437 @@
+[
+ {
+  "id": "legislative-drafting-manual",
+  "level": 2,
+  "title": "LEGISLATIVE DRAFTING MANUAL"
+ },
+ {
+  "id": "message-from-the-minister-i-acknowledgement-ii-glossary-iii",
+  "level": 4,
+  "title": "MESSAGE FROM THE MINISTER I ACKNOWLEDGEMENT II GLOSSARY III"
+ },
+ {
+  "id": "part-1",
+  "level": 2,
+  "title": "PART 1"
+ },
+ {
+  "id": "introduction-to-legislative-drafting-1",
+  "level": 4,
+  "title": "INTRODUCTION TO LEGISLATIVE DRAFTING 1"
+ },
+ {
+  "id": "1-an-overview-of-nauru-legislation-2",
+  "level": 4,
+  "title": "1 AN OVERVIEW OF NAURU LEGISLATION 2"
+ },
+ {
+  "id": "2-legislative-processes-4",
+  "level": 4,
+  "title": "2 LEGISLATIVE PROCESSES 4"
+ },
+ {
+  "id": "3-roles-in-the-legislative-process-7",
+  "level": 4,
+  "title": "3 ROLES IN THE LEGISLATIVE PROCESS 7"
+ },
+ {
+  "id": "4-pre-legislative-reform-steps-11",
+  "level": 4,
+  "title": "4 PRE-LEGISLATIVE REFORM STEPS 11"
+ },
+ {
+  "id": "5-the-drafting-stage-13",
+  "level": 4,
+  "title": "5 THE DRAFTING STAGE 13"
+ },
+ {
+  "id": "6-requirements-for-drafters-15",
+  "level": 4,
+  "title": "6 REQUIREMENTS FOR DRAFTERS 15"
+ },
+ {
+  "id": "part-2",
+  "level": 2,
+  "title": "PART 2"
+ },
+ {
+  "id": "technical-drafting-requirements-18-7-formal-requirements-for",
+  "level": 4,
+  "title": "TECHNICAL DRAFTING REQUIREMENTS 18 7 FORMAL REQUIREMENTS FOR BILLS 19"
+ },
+ {
+  "id": "8-requirements-for-subsidiary-legislation-22",
+  "level": 4,
+  "title": "8 REQUIREMENTS FOR SUBSIDIARY LEGISLATION 22"
+ },
+ {
+  "id": "9-observance-of-fundamental-rights-23-10-plain-language-24",
+  "level": 4,
+  "title": "9 OBSERVANCE OF FUNDAMENTAL RIGHTS 23 10 PLAIN LANGUAGE 24"
+ },
+ {
+  "id": "11-use-of-gender-neutral-terms-28-12-indemnity-provisions-28",
+  "level": 4,
+  "title": "11 USE OF GENDER NEUTRAL TERMS 28 12 INDEMNITY PROVISIONS 28 13 REVERSING THE BURDEN OF PROOF 28 14 EXPLANATORY MEMORANDUM 29"
+ },
+ {
+  "id": "15-spelling-and-terminology-29",
+  "level": 4,
+  "title": "15 SPELLING AND TERMINOLOGY 29"
+ },
+ {
+  "id": "16-references-to-enactments-and-provisions-32",
+  "level": 4,
+  "title": "16 REFERENCES TO ENACTMENTS AND PROVISIONS 32"
+ },
+ {
+  "id": "17-amending-enactments-33",
+  "level": 4,
+  "title": "17 AMENDING ENACTMENTS 33"
+ },
+ {
+  "id": "18-format-font-and-other-style-requirements-36-annex-1-draft",
+  "level": 4,
+  "title": "18 FORMAT, FONT AND OTHER STYLE REQUIREMENTS 36 ANNEX 1 – DRAFTING INSTRUCTIONS TEMPLATE 37 ANNEX 2 – LIST OF GOVERNMENT DEPARTMENTS AND SOEs 40 ANNEX 3 – CHECKLIST FOR PRE-REFORM STEPS 41 ANNEX 4 – SAMPLE AMENDMENT/REPEALING BILL 42 ANNEX 5 – CERTIFICATE OF ENDORSEMENT 46"
+ },
+ {
+  "id": "message-from-the-minister",
+  "level": 2,
+  "title": "MESSAGE FROM THE MINISTER"
+ },
+ {
+  "id": "minister-for-justice-and-border-control",
+  "level": 4,
+  "title": "Minister for Justice and Border Control"
+ },
+ {
+  "id": "acknowledgement",
+  "level": 2,
+  "title": "ACKNOWLEDGEMENT"
+ },
+ {
+  "id": "secretary-department-of-justice-and-border-control",
+  "level": 4,
+  "title": "Secretary Department of Justice and Border Control"
+ },
+ {
+  "id": "glossary",
+  "level": 2,
+  "title": "GLOSSARY"
+ },
+ {
+  "id": "part-1-2",
+  "level": 2,
+  "title": "PART 1"
+ },
+ {
+  "id": "introduction-to-legislative-drafting",
+  "level": 2,
+  "title": "INTRODUCTION TO LEGISLATIVE DRAFTING"
+ },
+ {
+  "id": "1-an-overview-of-nauru-legislation",
+  "level": 4,
+  "title": "1 AN OVERVIEW OF NAURU LEGISLATION"
+ },
+ {
+  "id": "you-can-find-the-laws-of-nauru-at-www-ronlaw-gov-nr",
+  "level": 3,
+  "title": "You can find the laws of Nauru at www.ronlaw.gov.nr"
+ },
+ {
+  "id": "did-you-know",
+  "level": 4,
+  "title": "Did you know?"
+ },
+ {
+  "id": "2-legislative-processes",
+  "level": 4,
+  "title": "2 LEGISLATIVE PROCESSES"
+ },
+ {
+  "id": "3-roles-in-the-legislative-process",
+  "level": 4,
+  "title": "3 ROLES IN THE LEGISLATIVE PROCESS"
+ },
+ {
+  "id": "you-can-contact-the-djbc-if-you-have-any-doubts-or-general-q",
+  "level": 3,
+  "title": "You can contact the DJBC if you have any doubts or general queries."
+ },
+ {
+  "id": "did-you-know-2",
+  "level": 4,
+  "title": "Did you know?"
+ },
+ {
+  "id": "4-pre-legislative-reform-steps",
+  "level": 4,
+  "title": "4 PRE-LEGISLATIVE REFORM STEPS"
+ },
+ {
+  "id": "5-the-drafting-stage",
+  "level": 4,
+  "title": "5 THE DRAFTING STAGE"
+ },
+ {
+  "id": "6-requirements-for-drafters",
+  "level": 4,
+  "title": "6 REQUIREMENTS FOR DRAFTERS"
+ },
+ {
+  "id": "drafters-must-take-extra-care-when-using-model-laws",
+  "level": 3,
+  "title": "Drafters must take extra care when using ‘‘model’’ laws."
+ },
+ {
+  "id": "important",
+  "level": 4,
+  "title": "Important!"
+ },
+ {
+  "id": "part-2-2",
+  "level": 2,
+  "title": "PART 2"
+ },
+ {
+  "id": "technical-drafting-requirements",
+  "level": 2,
+  "title": "TECHNICAL DRAFTING REQUIREMENTS"
+ },
+ {
+  "id": "7-formal-requirements-for-bills",
+  "level": 4,
+  "title": "7 FORMAL REQUIREMENTS FOR BILLS"
+ },
+ {
+  "id": "if-in-doubt-regarding-the-formal-requirements-of-a-bill-cont",
+  "level": 3,
+  "title": "If in doubt regarding the formal requirements of a Bill, contact the DJBC."
+ },
+ {
+  "id": "important-2",
+  "level": 4,
+  "title": "Important!"
+ },
+ {
+  "id": "8-requirements-for-subsidiary-legislation",
+  "level": 4,
+  "title": "8 REQUIREMENTS FOR SUBSIDIARY LEGISLATION"
+ },
+ {
+  "id": "9-observance-of-fundamental-rights",
+  "level": 4,
+  "title": "9 OBSERVANCE OF FUNDAMENTAL RIGHTS"
+ },
+ {
+  "id": "10-plain-language",
+  "level": 4,
+  "title": "10 PLAIN LANGUAGE"
+ },
+ {
+  "id": "1-heading",
+  "level": 4,
+  "title": "1 Heading"
+ },
+ {
+  "id": "avoid-nominalisation-plus-weak-verb-use-strong-verb",
+  "level": 4,
+  "title": "Avoid (Nominalisation plus weak verb) Use (Strong verb)"
+ },
+ {
+  "id": "avoid-use",
+  "level": 4,
+  "title": "Avoid Use"
+ },
+ {
+  "id": "use-plain-and-gender-neutral-language",
+  "level": 3,
+  "title": "Use plain and gender neutral language."
+ },
+ {
+  "id": "important-3",
+  "level": 4,
+  "title": "Important!"
+ },
+ {
+  "id": "11-use-of-gender-neutral-terms",
+  "level": 4,
+  "title": "11 USE OF GENDER NEUTRAL TERMS"
+ },
+ {
+  "id": "12-indemnity-provisions",
+  "level": 4,
+  "title": "12 INDEMNITY PROVISIONS"
+ },
+ {
+  "id": "13-reversing-the-burden-of-proof",
+  "level": 4,
+  "title": "13 REVERSING THE BURDEN OF PROOF"
+ },
+ {
+  "id": "14-explanatory-memorandum",
+  "level": 4,
+  "title": "14 EXPLANATORY MEMORANDUM"
+ },
+ {
+  "id": "15-spelling-and-terminology",
+  "level": 4,
+  "title": "15 SPELLING AND TERMINOLOGY"
+ },
+ {
+  "id": "16-references-to-enactments-and-provisions",
+  "level": 4,
+  "title": "16 REFERENCES TO ENACTMENTS AND PROVISIONS"
+ },
+ {
+  "id": "17-amending-enactments",
+  "level": 4,
+  "title": "17 AMENDING ENACTMENTS"
+ },
+ {
+  "id": "18-format-font-and-other-style-requirements",
+  "level": 4,
+  "title": "18 FORMAT, FONT AND OTHER STYLE REQUIREMENTS"
+ },
+ {
+  "id": "annex-1-drafting-instructions-template",
+  "level": 2,
+  "title": "ANNEX 1 DRAFTING INSTRUCTIONS TEMPLATE"
+ },
+ {
+  "id": "republic-of-nauru-department-of-justice-and-border-control",
+  "level": 4,
+  "title": "REPUBLIC OF NAURU DEPARTMENT OF JUSTICE AND BORDER CONTROL"
+ },
+ {
+  "id": "drafting-instructions",
+  "level": 4,
+  "title": "DRAFTING INSTRUCTIONS"
+ },
+ {
+  "id": "proposed-short-title-of-bill-if-known",
+  "level": 4,
+  "title": "Proposed short title of Bill (if known):"
+ },
+ {
+  "id": "item-number-and-possibly-brief-title",
+  "level": 4,
+  "title": "Item number and possibly brief title"
+ },
+ {
+  "id": "1-authority",
+  "level": 4,
+  "title": "1 Authority"
+ },
+ {
+  "id": "2-legislative-priority",
+  "level": 4,
+  "title": "2 Legislative priority"
+ },
+ {
+  "id": "3-timetable",
+  "level": 4,
+  "title": "3 Timetable"
+ },
+ {
+  "id": "5-instructions",
+  "level": 4,
+  "title": "5 Instructions"
+ },
+ {
+  "id": "6-related-proposals",
+  "level": 4,
+  "title": "6 Related proposals"
+ },
+ {
+  "id": "item-number-and-possibly-brief-title-2",
+  "level": 4,
+  "title": "Item number and possibly brief title"
+ },
+ {
+  "id": "7-affected-provisions-and-consequential-amendments",
+  "level": 4,
+  "title": "7 Affected provisions and consequential amendments"
+ },
+ {
+  "id": "8-application-savings-and-transitional-provisions",
+  "level": 4,
+  "title": "8 Application, savings and transitional provisions"
+ },
+ {
+  "id": "9-legal-opinions",
+  "level": 4,
+  "title": "9 Legal opinions"
+ },
+ {
+  "id": "10-administrative-or-judicial-review",
+  "level": 4,
+  "title": "10 Administrative or judicial review"
+ },
+ {
+  "id": "11-issues-relating-to-legislative-instruments",
+  "level": 4,
+  "title": "11 Issues relating to legislative instruments"
+ },
+ {
+  "id": "12-consultations-with-other-departments",
+  "level": 4,
+  "title": "12 Consultations with other Departments"
+ },
+ {
+  "id": "13-commencement",
+  "level": 4,
+  "title": "13 Commencement"
+ },
+ {
+  "id": "14-instructors",
+  "level": 4,
+  "title": "14 Instructors"
+ },
+ {
+  "id": "15-other-matters",
+  "level": 4,
+  "title": "15 Other matters"
+ },
+ {
+  "id": "annex-2-list-of-government-departments-and-soes",
+  "level": 2,
+  "title": "ANNEX 2 LIST OF GOVERNMENT DEPARTMENTS AND SOEs"
+ },
+ {
+  "id": "annex-3-checklist-for-pre-reform-steps",
+  "level": 2,
+  "title": "ANNEX 3 CHECKLIST FOR PRE-REFORM STEPS"
+ },
+ {
+  "id": "annex-4-sample-amendment-repealing-bill",
+  "level": 2,
+  "title": "ANNEX 4 SAMPLE AMENDMENT/REPEALING BILL"
+ },
+ {
+  "id": "republic-of-nauru",
+  "level": 4,
+  "title": "REPUBLIC OF NAURU"
+ },
+ {
+  "id": "sample-amendment-bill-2015",
+  "level": 2,
+  "title": "SAMPLE (AMENDMENT) BILL 2015"
+ },
+ {
+  "id": "no-2-of-2015",
+  "level": 4,
+  "title": "No. 2 of 2015"
+ },
+ {
+  "id": "annex-5-certificate-of-endorsement",
+  "level": 2,
+  "title": "ANNEX 5 CERTIFICATE OF ENDORSEMENT"
+ },
+ {
+  "id": "annex-5-certificate-of-endorsement-2",
+  "level": 3,
+  "title": "ANNEX 5 – CERTIFICATE OF ENDORSEMENT"
+ }
+]

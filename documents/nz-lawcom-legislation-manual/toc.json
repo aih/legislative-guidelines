@@ -1,0 +1,702 @@
+[
+ {
+  "id": "l-e-g-i-s-l-a-t-i-o-n-m-a-n-u-a-l-s-t-r-u-c-t-u-r-e-a-n-d-s-",
+  "level": 2,
+  "title": "L e g i s l a t i o n M a n u a l S t r u c t u r e a n d S t y l e"
+ },
+ {
+  "id": "may-1996-wellington-new-zealand",
+  "level": 3,
+  "title": "May 1996 Wellington, New Zealand"
+ },
+ {
+  "id": "the-structure-of-legislation",
+  "level": 3,
+  "title": "THE STRUCTURE OF LEGISLATION"
+ },
+ {
+  "id": "matters-of-style",
+  "level": 3,
+  "title": "MATTERS OF STYLE"
+ },
+ {
+  "id": "c-o-n-t-e-n-t-s",
+  "level": 2,
+  "title": "C o n t e n t s"
+ },
+ {
+  "id": "appendices",
+  "level": 3,
+  "title": "APPENDICES"
+ },
+ {
+  "id": "r",
+  "level": 2,
+  "title": "R"
+ },
+ {
+  "id": "i-n-t-r-o-d-u-c-t-i-o-n",
+  "level": 2,
+  "title": "I n t r o d u c t i o n"
+ },
+ {
+  "id": "a-legislation-manual-for-new-zealand",
+  "level": 3,
+  "title": "A Legislation Manual for New Zealand"
+ },
+ {
+  "id": "users-of-the-manual",
+  "level": 3,
+  "title": "Users of the Manual"
+ },
+ {
+  "id": "use-of-interpretation-legislation",
+  "level": 3,
+  "title": "Use of interpretation legislation"
+ },
+ {
+  "id": "format",
+  "level": 3,
+  "title": "Format"
+ },
+ {
+  "id": "departures-from-current-new-zealand-drafting-practice",
+  "level": 3,
+  "title": "Departures from current New Zealand drafting practice"
+ },
+ {
+  "id": "note-on-examples",
+  "level": 3,
+  "title": "Note on examples"
+ },
+ {
+  "id": "order-of-arrangement",
+  "level": 3,
+  "title": "ORDER OF ARRANGEMENT"
+ },
+ {
+  "id": "16-a",
+  "level": 2,
+  "title": "16 A"
+ },
+ {
+  "id": "t-h-e-s-t-r-u-c-t-u-r-e-o-f-l-e-g-i-s-l-at-i-o-n",
+  "level": 2,
+  "title": "T H E S T R U C T U R E O F L E G I S L AT I O N"
+ },
+ {
+  "id": "the-division-of-material",
+  "level": 3,
+  "title": "THE DIVISION OF MATERIAL"
+ },
+ {
+  "id": "parts",
+  "level": 3,
+  "title": "Parts"
+ },
+ {
+  "id": "subparts",
+  "level": 3,
+  "title": "Subparts"
+ },
+ {
+  "id": "sections-and-subsections",
+  "level": 3,
+  "title": "Sections and subsections"
+ },
+ {
+  "id": "schedules",
+  "level": 3,
+  "title": "Schedules"
+ },
+ {
+  "id": "the-standard-components-of-acts",
+  "level": 3,
+  "title": "THE STANDARD COMPONENTS OF ACTS"
+ },
+ {
+  "id": "preambles",
+  "level": 3,
+  "title": "Preambles"
+ },
+ {
+  "id": "enacting-statement",
+  "level": 3,
+  "title": "Enacting statement"
+ },
+ {
+  "id": "title",
+  "level": 3,
+  "title": "Title"
+ },
+ {
+  "id": "purpose-provisions",
+  "level": 3,
+  "title": "Purpose provisions"
+ },
+ {
+  "id": "commencement-and-duration-provisions",
+  "level": 3,
+  "title": "Commencement and duration provisions"
+ },
+ {
+  "id": "commencement",
+  "level": 3,
+  "title": "Commencement"
+ },
+ {
+  "id": "multiple-commencement-dates",
+  "level": 3,
+  "title": "Multiple commencement dates"
+ },
+ {
+  "id": "expiry",
+  "level": 3,
+  "title": "Expiry"
+ },
+ {
+  "id": "application-provisions",
+  "level": 3,
+  "title": "Application provisions"
+ },
+ {
+  "id": "temporal-application-including-savings-and-transitional-prov",
+  "level": 3,
+  "title": "Temporal application, including savings and transitional provisions"
+ },
+ {
+  "id": "personal-application",
+  "level": 3,
+  "title": "Personal application"
+ },
+ {
+  "id": "territorial-application",
+  "level": 3,
+  "title": "Territorial application"
+ },
+ {
+  "id": "interpretation",
+  "level": 3,
+  "title": "Interpretation"
+ },
+ {
+  "id": "the-draft-interpretation-act",
+  "level": 3,
+  "title": "The draft Interpretation Act"
+ },
+ {
+  "id": "general-interpretation-provisions",
+  "level": 3,
+  "title": "General interpretation provisions"
+ },
+ {
+  "id": "specific-interpretation-provisions",
+  "level": 3,
+  "title": "Specific interpretation provisions"
+ },
+ {
+  "id": "definitions",
+  "level": 3,
+  "title": "Definitions"
+ },
+ {
+  "id": "delimiting-definition",
+  "level": 3,
+  "title": "Delimiting definition"
+ },
+ {
+  "id": "extending-definition",
+  "level": 3,
+  "title": "Extending definition"
+ },
+ {
+  "id": "restricting-definition",
+  "level": 3,
+  "title": "Restricting definition"
+ },
+ {
+  "id": "definition-by-reference-to-other-statutes",
+  "level": 3,
+  "title": "Definition by reference to other statutes"
+ },
+ {
+  "id": "location-of-definitions",
+  "level": 3,
+  "title": "Location of definitions"
+ },
+ {
+  "id": "repeals-and-amendments",
+  "level": 3,
+  "title": "Repeals and amendments"
+ },
+ {
+  "id": "schedules-2",
+  "level": 3,
+  "title": "Schedules"
+ },
+ {
+  "id": "the-use-of-explanatory-material",
+  "level": 3,
+  "title": "THE USE OF EXPLANATORY MATERIAL"
+ },
+ {
+  "id": "notes",
+  "level": 3,
+  "title": "Notes"
+ },
+ {
+  "id": "tables",
+  "level": 3,
+  "title": "Tables"
+ },
+ {
+  "id": "flowcharts",
+  "level": 3,
+  "title": "Flowcharts"
+ },
+ {
+  "id": "other-explanatory-material",
+  "level": 3,
+  "title": "Other explanatory material"
+ },
+ {
+  "id": "making-law-for-niue-tokelau-or-the-ross-dependency",
+  "level": 3,
+  "title": "MAKING LAW FOR NIUE, TOKELAU OR THE ROSS DEPENDENCY"
+ },
+ {
+  "id": "plain-language",
+  "level": 3,
+  "title": "PLAIN LANGUAGE"
+ },
+ {
+  "id": "the-users-of-legislation",
+  "level": 3,
+  "title": "The users of legislation"
+ },
+ {
+  "id": "131-t",
+  "level": 2,
+  "title": "131 T"
+ },
+ {
+  "id": "m-at-t-e-r-s-o-f-s-t-y-l-e",
+  "level": 2,
+  "title": "M AT T E R S O F S T Y L E"
+ },
+ {
+  "id": "the-principles-of-plain-language",
+  "level": 3,
+  "title": "The principles of plain language"
+ },
+ {
+  "id": "the-barriers-to-communication",
+  "level": 3,
+  "title": "The barriers to communication"
+ },
+ {
+  "id": "the-advantages-of-plain-language-drafting",
+  "level": 3,
+  "title": "The advantages of plain language drafting"
+ },
+ {
+  "id": "drafting-in-plain-language",
+  "level": 3,
+  "title": "DRAFTING IN PLAIN LANGUAGE"
+ },
+ {
+  "id": "organisation-of-material",
+  "level": 3,
+  "title": "Organisation of material"
+ },
+ {
+  "id": "sentence-structure",
+  "level": 3,
+  "title": "Sentence structure"
+ },
+ {
+  "id": "eliminate-unnecessary-words",
+  "level": 3,
+  "title": "Eliminate unnecessary words"
+ },
+ {
+  "id": "use-verbs-whenever-possible",
+  "level": 3,
+  "title": "Use verbs whenever possible"
+ },
+ {
+  "id": "active-instead-of-passive",
+  "level": 3,
+  "title": "Active instead of passive"
+ },
+ {
+  "id": "present-tense-and-indicative-mood",
+  "level": 3,
+  "title": "Present tense and indicative mood"
+ },
+ {
+  "id": "affirmative-statements",
+  "level": 3,
+  "title": "Affirmative statements"
+ },
+ {
+  "id": "modifying-elements",
+  "level": 3,
+  "title": "Modifying elements"
+ },
+ {
+  "id": "pronouns",
+  "level": 3,
+  "title": "Pronouns"
+ },
+ {
+  "id": "word-choice",
+  "level": 3,
+  "title": "Word choice"
+ },
+ {
+  "id": "words-and-phrases-to-avoid",
+  "level": 3,
+  "title": "Words and phrases to avoid"
+ },
+ {
+  "id": "words-and-phrases-to-use-with-care",
+  "level": 3,
+  "title": "Words and phrases to use with care"
+ },
+ {
+  "id": "paragraphing",
+  "level": 3,
+  "title": "PARAGRAPHING"
+ },
+ {
+  "id": "form-of-proviso",
+  "level": 3,
+  "title": "Form of proviso"
+ },
+ {
+  "id": "gender-neutral-expression",
+  "level": 3,
+  "title": "GENDER-NEUTRAL EXPRESSION"
+ },
+ {
+  "id": "the-use-of-te-reo-mäori",
+  "level": 3,
+  "title": "THE USE OF TE REO MÄORI"
+ },
+ {
+  "id": "macrons",
+  "level": 3,
+  "title": "Macrons"
+ },
+ {
+  "id": "table-of-provisions",
+  "level": 3,
+  "title": "TABLE OF PROVISIONS"
+ },
+ {
+  "id": "headings",
+  "level": 3,
+  "title": "HEADINGS"
+ },
+ {
+  "id": "section-headings",
+  "level": 3,
+  "title": "Section headings"
+ },
+ {
+  "id": "other-headings",
+  "level": 3,
+  "title": "Other headings"
+ },
+ {
+  "id": "definitions-2",
+  "level": 3,
+  "title": "DEFINITIONS"
+ },
+ {
+  "id": "highlighting-of-definitions",
+  "level": 3,
+  "title": "Highlighting of definitions"
+ },
+ {
+  "id": "punctuation",
+  "level": 3,
+  "title": "PUNCTUATION"
+ },
+ {
+  "id": "full-stop",
+  "level": 3,
+  "title": "Full stop"
+ },
+ {
+  "id": "comma",
+  "level": 3,
+  "title": "Comma"
+ },
+ {
+  "id": "colon",
+  "level": 3,
+  "title": "Colon"
+ },
+ {
+  "id": "semi-colon",
+  "level": 3,
+  "title": "Semi-colon"
+ },
+ {
+  "id": "parentheses",
+  "level": 3,
+  "title": "Parentheses"
+ },
+ {
+  "id": "spelling",
+  "level": 3,
+  "title": "SPELLING"
+ },
+ {
+  "id": "capitals",
+  "level": 3,
+  "title": "CAPITALS"
+ },
+ {
+  "id": "symbols-formulas-abbreviations-and-acronyms",
+  "level": 3,
+  "title": "SYMBOLS, FORMULAS, ABBREVIATIONS AND ACRONYMS"
+ },
+ {
+  "id": "numbering-and-lettering-practice-and-terminology",
+  "level": 3,
+  "title": "NUMBERING AND LETTERING PRACTICE AND TERMINOLOGY"
+ },
+ {
+  "id": "acts-and-regulations",
+  "level": 3,
+  "title": "Acts and regulations"
+ },
+ {
+  "id": "schedules-3",
+  "level": 3,
+  "title": "Schedules"
+ },
+ {
+  "id": "amendments",
+  "level": 3,
+  "title": "Amendments"
+ },
+ {
+  "id": "alphanumeric-system",
+  "level": 3,
+  "title": "Alphanumeric system"
+ },
+ {
+  "id": "references-to-legislative-provisions",
+  "level": 3,
+  "title": "REFERENCES TO LEGISLATIVE PROVISIONS"
+ },
+ {
+  "id": "references-to-numbers-and-dates",
+  "level": 3,
+  "title": "REFERENCES TO NUMBERS AND DATES"
+ },
+ {
+  "id": "references-to-age-and-periods-of-time",
+  "level": 3,
+  "title": "REFERENCES TO AGE AND PERIODS OF TIME"
+ },
+ {
+  "id": "general-comments",
+  "level": 3,
+  "title": "GENERAL COMMENTS"
+ },
+ {
+  "id": "appendix-a",
+  "level": 3,
+  "title": "APPENDIX A"
+ },
+ {
+  "id": "d-r-a-f-t-i-n-g-s-u-b-o-r-d-i-n-a-t-e-l-e-g-i-s-l-a-t-i-o-n",
+  "level": 2,
+  "title": "D r a f t i n g S u b o r d i n a t e L e g i s l a t i o n"
+ },
+ {
+  "id": "drafting-empowering-provisions-in-the-act-regulations",
+  "level": 3,
+  "title": "DRAFTING EMPOWERING PROVISIONS IN THE ACT Regulations"
+ },
+ {
+  "id": "other-instruments",
+  "level": 3,
+  "title": "Other instruments"
+ },
+ {
+  "id": "legal-effect",
+  "level": 3,
+  "title": "Legal effect"
+ },
+ {
+  "id": "enforcement",
+  "level": 3,
+  "title": "Enforcement"
+ },
+ {
+  "id": "the-content-of-empowering-provisions",
+  "level": 3,
+  "title": "The content of empowering provisions"
+ },
+ {
+  "id": "drafting-subordinate-legislation",
+  "level": 3,
+  "title": "DRAFTING SUBORDINATE LEGISLATION"
+ },
+ {
+  "id": "failure-to-comply-with-the-empowering-provisions",
+  "level": 3,
+  "title": "Failure to comply with the empowering provisions"
+ },
+ {
+  "id": "ultra-vires-subordinate-legislation",
+  "level": 3,
+  "title": "Ultra vires subordinate legislation"
+ },
+ {
+  "id": "inconsistency-with-principal-legislation-and-other-existing-",
+  "level": 3,
+  "title": "Inconsistency with principal legislation and other existing statute law"
+ },
+ {
+  "id": "regulations",
+  "level": 3,
+  "title": "Regulations"
+ },
+ {
+  "id": "compatibility-of-structure",
+  "level": 3,
+  "title": "Compatibility of structure"
+ },
+ {
+  "id": "consistency-of-language",
+  "level": 3,
+  "title": "Consistency of language"
+ },
+ {
+  "id": "other-instruments-2",
+  "level": 3,
+  "title": "Other instruments"
+ },
+ {
+  "id": "the-standard-components-of-regulations-title-and-commencemen",
+  "level": 3,
+  "title": "THE STANDARD COMPONENTS OF REGULATIONS Title and commencement"
+ },
+ {
+  "id": "titles-of-amending-regulations",
+  "level": 3,
+  "title": "Titles of amending regulations"
+ },
+ {
+  "id": "purpose-clauses",
+  "level": 3,
+  "title": "Purpose clauses"
+ },
+ {
+  "id": "penal-provisions",
+  "level": 3,
+  "title": "Penal provisions"
+ },
+ {
+  "id": "repeal-by-implication",
+  "level": 3,
+  "title": "REPEAL BY IMPLICATION"
+ },
+ {
+  "id": "textual-amendment",
+  "level": 3,
+  "title": "TEXTUAL AMENDMENT"
+ },
+ {
+  "id": "appendix-b",
+  "level": 3,
+  "title": "APPENDIX B"
+ },
+ {
+  "id": "d-r-a-f-t-i-n-g-a-m-e-n-d-i-n-g-l-a-w-s",
+  "level": 2,
+  "title": "D r a f t i n g A m e n d i n g L a w s"
+ },
+ {
+  "id": "consistency-of-structure-and-language",
+  "level": 3,
+  "title": "CONSISTENCY OF STRUCTURE AND LANGUAGE"
+ },
+ {
+  "id": "the-title",
+  "level": 3,
+  "title": "THE TITLE"
+ },
+ {
+  "id": "references-in-amending-laws",
+  "level": 3,
+  "title": "REFERENCES IN AMENDING LAWS"
+ },
+ {
+  "id": "the-principal-act",
+  "level": 3,
+  "title": "The principal Act"
+ },
+ {
+  "id": "specific-provisions",
+  "level": 3,
+  "title": "Specific provisions"
+ },
+ {
+  "id": "specific-words",
+  "level": 3,
+  "title": "Specific words"
+ },
+ {
+  "id": "prior-amendments",
+  "level": 3,
+  "title": "Prior amendments"
+ },
+ {
+  "id": "terminology",
+  "level": 3,
+  "title": "TERMINOLOGY"
+ },
+ {
+  "id": "repeal-omit",
+  "level": 3,
+  "title": "Repeal/omit"
+ },
+ {
+  "id": "repeal-omit-and-substitute",
+  "level": 3,
+  "title": "Repeal/omit and substitute"
+ },
+ {
+  "id": "insert-or-add",
+  "level": 3,
+  "title": "Insert or add"
+ },
+ {
+  "id": "scheduling-amendments",
+  "level": 3,
+  "title": "SCHEDULING AMENDMENTS"
+ },
+ {
+  "id": "s-e-l-e-c-t-b-i-b-l-i-o-g-r-a-p-h-y",
+  "level": 2,
+  "title": "S e l e c t B i b l i o g r a p h y"
+ },
+ {
+  "id": "a-c-k-n-o-w-l-e-d-g-m-e-n-t-s",
+  "level": 2,
+  "title": "A c k n o w l e d g m e n t s"
+ },
+ {
+  "id": "i-n-d-e-x",
+  "level": 2,
+  "title": "I n d e x"
+ }
+]

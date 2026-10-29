@@ -15,6 +15,8 @@
 | `languages` | yes | ISO 639-1 codes of the language versions held or linked. |
 | `document_type` | yes | e.g. `drafting manual`, `drafting guidelines`, `style guide`, `drafting rules`, `process guide`. |
 | `legal_status` | no | Binding instrument (with its citation) or guidance. |
+| `legal_tradition` | no | `common_law`, `civil_law`, `bijural`, `hybrid`, `supranational`, or `international` (inferred automatically at build time if omitted). |
+| `normative_status` | no | `mandatory`, `advisory`, `interinstitutional`, or `statute`. |
 | `edition` | no | Edition or version as stated by the issuer. |
 | `published` | no | First publication date (`YYYY`, `YYYY-MM` or `YYYY-MM-DD`). |
 | `last_updated` | no | Date of the edition or last revision, or `continuously updated …` for online guides. |
@@ -28,7 +30,13 @@
 | `html_edition_url` | no | An existing HTML edition maintained elsewhere. |
 | `crawl.prefix` / `crawl.limit` | no | For multi-page HTML guides: fetch pages linked from `source_url` under this URL prefix. |
 | `license` | no | Reuse terms stated by the issuer. |
+| `topics` | no | List of thematic tags (e.g. `plain_language`, `gender_neutrality`, `recitals`, `definitions`, `amending_formulas`, `digital_ready`). |
+| `key_principles` | no | Core actionable drafting rules extracted from the guideline. |
 | `notes` | no | Anything else. |
+
+## Schema Validation
+
+`data/guidelines.schema.json` defines the formal JSON Schema (Draft 2020-12) for `data/guidelines.yml`. Run `python scripts/validate_catalog.py` to validate all catalog entries.
 
 ## `retrieval.json`
 

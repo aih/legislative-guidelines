@@ -1,0 +1,2087 @@
+[
+ {
+  "id": "guide-fédéral-de-jurilinguistique-législative-française-jlf",
+  "level": 2,
+  "title": "Guide fédéral de jurilinguistique législative française (JLF)"
+ },
+ {
+  "id": "guide-fédéral-de-jurilinguistique-législative-française-jlf-2",
+  "level": 2,
+  "title": "Guide fédéral de jurilinguistique législative française (JLF)"
+ },
+ {
+  "id": "guide-fédéral-de-jurilinguistique-législative-française-jlf-3",
+  "level": 2,
+  "title": "Guide fédéral de jurilinguistique législative française (JLF)"
+ },
+ {
+  "id": "groupe-de-jurilinguistique-française",
+  "level": 2,
+  "title": "Groupe de jurilinguistique française"
+ },
+ {
+  "id": "symboles-et-conventions-typographiques",
+  "level": 2,
+  "title": "SYMBOLES ET CONVENTIONS TYPOGRAPHIQUES"
+ },
+ {
+  "id": "liste-des-codes-des-sources",
+  "level": 2,
+  "title": "LISTE DES CODES DES SOURCES"
+ },
+ {
+  "id": "abréviations",
+  "level": 2,
+  "title": "ABRÉVIATIONS"
+ },
+ {
+  "id": "chapitre",
+  "level": 2,
+  "title": "Chapitre"
+ },
+ {
+  "id": "supplément",
+  "level": 2,
+  "title": "Supplément"
+ },
+ {
+  "id": "éléments-des-textes-législatifs",
+  "level": 2,
+  "title": "Éléments des textes législatifs"
+ },
+ {
+  "id": "absence-empêchement-vacance-de-poste",
+  "level": 2,
+  "title": "ABSENCE, EMPÊCHEMENT, VACANCE DE POSTE"
+ },
+ {
+  "id": "modèle-i",
+  "level": 2,
+  "title": "MODÈLE I"
+ },
+ {
+  "id": "remarques",
+  "level": 3,
+  "title": "Remarques"
+ },
+ {
+  "id": "modèle-ii",
+  "level": 2,
+  "title": "MODÈLE II"
+ },
+ {
+  "id": "remarque",
+  "level": 3,
+  "title": "Remarque"
+ },
+ {
+  "id": "modèle-iii",
+  "level": 2,
+  "title": "MODÈLE III"
+ },
+ {
+  "id": "remarques-2",
+  "level": 3,
+  "title": "Remarques"
+ },
+ {
+  "id": "modèle-iv",
+  "level": 2,
+  "title": "MODÈLE IV"
+ },
+ {
+  "id": "modèle-v",
+  "level": 2,
+  "title": "MODÈLE V"
+ },
+ {
+  "id": "remarques-3",
+  "level": 3,
+  "title": "Remarques"
+ },
+ {
+  "id": "accord-ou-entente",
+  "level": 2,
+  "title": "ACCORD OU ENTENTE?"
+ },
+ {
+  "id": "à-être-participe-passé",
+  "level": 2,
+  "title": "À ÊTRE + PARTICIPE PASSÉ"
+ },
+ {
+  "id": "affiche-et-termes-apparentés",
+  "level": 2,
+  "title": "« AFFICHE » ET TERMES APPARENTÉS"
+ },
+ {
+  "id": "sources",
+  "level": 2,
+  "title": "Sources"
+ },
+ {
+  "id": "alléguer",
+  "level": 2,
+  "title": "ALLÉGUER"
+ },
+ {
+  "id": "à-ma-connaissance-et-de-mon-mieux",
+  "level": 2,
+  "title": "À MA CONNAISSANCE… ET DE MON MIEUX"
+ },
+ {
+  "id": "to-the-best-of-one-s-knowledge-and-belief",
+  "level": 2,
+  "title": "To the best of one’s knowledge (and belief)"
+ },
+ {
+  "id": "to-the-best-of-one-s-skill-and-knowledge-judgment-skill-and-",
+  "level": 2,
+  "title": "To the best of one’s skill and knowledge (judgment, skill and ability)"
+ },
+ {
+  "id": "amovibilité-et-inamovibilité",
+  "level": 2,
+  "title": "AMOVIBILITÉ  ET INAMOVIBILITÉ"
+ },
+ {
+  "id": "anacoluthe-infinitifs-et-participes",
+  "level": 2,
+  "title": "ANACOLUTHE : INFINITIFS ET PARTICIPES"
+ },
+ {
+  "id": "sources-2",
+  "level": 2,
+  "title": "Sources"
+ },
+ {
+  "id": "arrêtés-décrets-ordonnances-etc",
+  "level": 2,
+  "title": "ARRÊTÉS, DÉCRETS, ORDONNANCES, ETC."
+ },
+ {
+  "id": "arrondissement-des-nombres",
+  "level": 2,
+  "title": "ARRONDISSEMENT DES NOMBRES"
+ },
+ {
+  "id": "sommes",
+  "level": 2,
+  "title": "Sommes"
+ },
+ {
+  "id": "décimales",
+  "level": 2,
+  "title": "Décimales"
+ },
+ {
+  "id": "unités-de-temps-ou-de-mesure",
+  "level": 2,
+  "title": "Unités de temps ou de mesure"
+ },
+ {
+  "id": "sources-3",
+  "level": 2,
+  "title": "Sources"
+ },
+ {
+  "id": "article-défini-devant-une-appellation-officielle-règles-d-em",
+  "level": 2,
+  "title": "ARTICLE DÉFINI DEVANT UNE APPELLATION OFFICIELLE : RÈGLES D’EMPLOI"
+ },
+ {
+  "id": "assimilation-à-personne-physique",
+  "level": 2,
+  "title": "ASSIMILATION À PERSONNE PHYSIQUE"
+ },
+ {
+  "id": "attributions",
+  "level": 2,
+  "title": "ATTRIBUTIONS"
+ },
+ {
+  "id": "emploi-groupé",
+  "level": 2,
+  "title": "Emploi groupé"
+ },
+ {
+  "id": "emploi-isolé",
+  "level": 2,
+  "title": "Emploi isolé"
+ },
+ {
+  "id": "remarques-4",
+  "level": 2,
+  "title": "Remarques"
+ },
+ {
+  "id": "audience-et-audition",
+  "level": 2,
+  "title": "AUDIENCE ET AUDITION"
+ },
+ {
+  "id": "remarque-2",
+  "level": 2,
+  "title": "Remarque"
+ },
+ {
+  "id": "autorité-des-décisions-administratives",
+  "level": 2,
+  "title": "AUTORITÉ DES DÉCISIONS ADMINISTRATIVES"
+ },
+ {
+  "id": "sources-4",
+  "level": 2,
+  "title": "Sources"
+ },
+ {
+  "id": "autres-dispositions",
+  "level": 2,
+  "title": "AUTRES DISPOSITIONS"
+ },
+ {
+  "id": "avec-les-adaptations-nécessaires",
+  "level": 2,
+  "title": "AVEC LES ADAPTATIONS NÉCESSAIRES"
+ },
+ {
+  "id": "historique",
+  "level": 2,
+  "title": "Historique"
+ },
+ {
+  "id": "censé-emploi-dans-les-présomptions",
+  "level": 2,
+  "title": "CENSÉ : EMPLOI DANS LES PRÉSOMPTIONS"
+ },
+ {
+  "id": "compenser-ou-indemniser",
+  "level": 2,
+  "title": "COMPENSER OU INDEMNISER?"
+ },
+ {
+  "id": "composant-ou-composante",
+  "level": 2,
+  "title": "COMPOSANT OU COMPOSANTE ?"
+ },
+ {
+  "id": "composant",
+  "level": 2,
+  "title": "Composant"
+ },
+ {
+  "id": "composante",
+  "level": 2,
+  "title": "Composante"
+ },
+ {
+  "id": "concilier-et-réconcilier",
+  "level": 2,
+  "title": "CONCILIER ET RÉCONCILIER"
+ },
+ {
+  "id": "remarque-3",
+  "level": 2,
+  "title": "Remarque"
+ },
+ {
+  "id": "consister-à-dans-ou-en-in-french-only",
+  "level": 2,
+  "title": "Consister… à, dans ou en ? (in French only)"
+ },
+ {
+  "id": "sources-5",
+  "level": 2,
+  "title": "Sources"
+ },
+ {
+  "id": "contrainte-mesures-diverses",
+  "level": 2,
+  "title": "CONTRAINTE (MESURES DIVERSES)"
+ },
+ {
+  "id": "série-i",
+  "level": 2,
+  "title": "SÉRIE I"
+ },
+ {
+  "id": "série-ii",
+  "level": 2,
+  "title": "SÉRIE II"
+ },
+ {
+  "id": "exemple-1",
+  "level": 3,
+  "title": "Exemple 1"
+ },
+ {
+  "id": "exemple-2",
+  "level": 3,
+  "title": "Exemple 2"
+ },
+ {
+  "id": "coordination-fautive-le-piège-des-prépositions",
+  "level": 2,
+  "title": "COORDINATION FAUTIVE : LE PIÈGE DES PRÉPOSITIONS"
+ },
+ {
+  "id": "1-coordination-fautive-de-verbes",
+  "level": 2,
+  "title": "1) Coordination fautive de verbes"
+ },
+ {
+  "id": "2-coordination-fautive-d-adjectifs",
+  "level": 2,
+  "title": "2) Coordination fautive d’adjectifs"
+ },
+ {
+  "id": "3-coordination-fautive-de-noms",
+  "level": 2,
+  "title": "3) Coordination fautive de noms"
+ },
+ {
+  "id": "4-coordination-fautive-de-prépositions-et-de-locutions-prépo",
+  "level": 2,
+  "title": "4) Coordination fautive de prépositions et de locutions prépositives"
+ },
+ {
+  "id": "sources-6",
+  "level": 2,
+  "title": "Sources"
+ },
+ {
+  "id": "coût-prix-et-frais-affaire-de-perspective",
+  "level": 2,
+  "title": "COÛT, PRIX ET FRAIS : AFFAIRE DE PERSPECTIVE"
+ },
+ {
+  "id": "sources-7",
+  "level": 2,
+  "title": "Sources"
+ },
+ {
+  "id": "créances",
+  "level": 2,
+  "title": "CRÉANCES"
+ },
+ {
+  "id": "modèle-isolé",
+  "level": 2,
+  "title": "MODÈLE ISOLÉ"
+ },
+ {
+  "id": "modèle-en-contexte",
+  "level": 2,
+  "title": "MODÈLE EN CONTEXTE"
+ },
+ {
+  "id": "remarque-4",
+  "level": 2,
+  "title": "Remarque"
+ },
+ {
+  "id": "datation-des-lois",
+  "level": 2,
+  "title": "DATATION DES LOIS"
+ },
+ {
+  "id": "décisions-des-assemblées-délibérantes",
+  "level": 2,
+  "title": "DÉCISIONS DES ASSEMBLÉES DÉLIBÉRANTES"
+ },
+ {
+  "id": "remarques-5",
+  "level": 2,
+  "title": "Remarques"
+ },
+ {
+  "id": "définitions",
+  "level": 2,
+  "title": "DÉFINITIONS"
+ },
+ {
+  "id": "types-de-définitions",
+  "level": 2,
+  "title": "TYPES DE DÉFINITIONS"
+ },
+ {
+  "id": "principes",
+  "level": 2,
+  "title": "PRINCIPES"
+ },
+ {
+  "id": "le-sens-courant-des-mots",
+  "level": 3,
+  "title": "Le sens courant des mots"
+ },
+ {
+  "id": "le-rôle-des-définitions",
+  "level": 3,
+  "title": "Le rôle des définitions"
+ },
+ {
+  "id": "les-risques",
+  "level": 3,
+  "title": "Les risques"
+ },
+ {
+  "id": "le-contenu-de-la-définition",
+  "level": 3,
+  "title": "Le contenu de la définition"
+ },
+ {
+  "id": "l-emploi-des-termes-définis",
+  "level": 3,
+  "title": "L’emploi des termes définis"
+ },
+ {
+  "id": "rédaction-des-définitions",
+  "level": 2,
+  "title": "RÉDACTION DES DÉFINITIONS"
+ },
+ {
+  "id": "1-o-l-emplacement",
+  "level": 3,
+  "title": "1 o L’emplacement"
+ },
+ {
+  "id": "2-o-la-formule-introductive",
+  "level": 3,
+  "title": "2 o La formule introductive"
+ },
+ {
+  "id": "3-o-le-terme-défini",
+  "level": 3,
+  "title": "3 o Le terme défini"
+ },
+ {
+  "id": "4-o-la-définition-proprement-dite",
+  "level": 3,
+  "title": "4 o La définition proprement dite"
+ },
+ {
+  "id": "a-définition-véritable-et-non-réelle",
+  "level": 4,
+  "title": "a) Définition « véritable » – et  non réelle!"
+ },
+ {
+  "id": "b-précision-terminologique",
+  "level": 4,
+  "title": "b ) Précision terminologique"
+ },
+ {
+  "id": "conclusion",
+  "level": 2,
+  "title": "CONCLUSION"
+ },
+ {
+  "id": "délivrer-ou-émettre",
+  "level": 2,
+  "title": "DÉLIVRER OU ÉMETTRE"
+ },
+ {
+  "id": "tableau-synthétique",
+  "level": 2,
+  "title": "TABLEAU SYNTHÉTIQUE"
+ },
+ {
+  "id": "dérogation",
+  "level": 2,
+  "title": "DÉROGATION"
+ },
+ {
+  "id": "déterminer-particularités-d-emploi",
+  "level": 2,
+  "title": "DÉTERMINER : PARTICULARITÉS D’EMPLOI"
+ },
+ {
+  "id": "disposer-dispose-of-to-et-ses-dérivés-to-deal-with-et-to-dea",
+  "level": 2,
+  "title": "DISPOSER : DISPOSE OF (TO) ET SES DÉRIVÉS; TO DEAL WITH ET TO DEAL IN"
+ },
+ {
+  "id": "i-to-dispose-of-et-ses-dérivés",
+  "level": 2,
+  "title": "I - to dispose of et ses dérivés"
+ },
+ {
+  "id": "ii-to-deal-with-to-deal-in-dealing",
+  "level": 2,
+  "title": "II - to deal with, to deal in, dealing"
+ },
+ {
+  "id": "divulgation-particularités-d-emploi",
+  "level": 2,
+  "title": "DIVULGATION : PARTICULARITÉS D’EMPLOI"
+ },
+ {
+  "id": "droits-et-redevances",
+  "level": 2,
+  "title": "DROITS ET REDEVANCES"
+ },
+ {
+  "id": "effet-emploi-dans-les-locutions",
+  "level": 2,
+  "title": "« EFFET » : EMPLOI DANS LES LOCUTIONS"
+ },
+ {
+  "id": "remarque-5",
+  "level": 2,
+  "title": "Remarque"
+ },
+ {
+  "id": "élection-s",
+  "level": 2,
+  "title": "ÉLECTION(S)"
+ },
+ {
+  "id": "1-o-emploi-avec-un-complément-de-nom",
+  "level": 2,
+  "title": "1 o Emploi avec un complément de nom"
+ },
+ {
+  "id": "2-o-emploi-sans-complément-de-nom-et-généralement-avec-un-ad",
+  "level": 2,
+  "title": "2 o Emploi sans complément de nom et généralement avec un adjectif qualificatif"
+ },
+ {
+  "id": "éléments-des-lois",
+  "level": 2,
+  "title": "ÉLÉMENTS DES LOIS"
+ },
+ {
+  "id": "le-texte-proprement-dit",
+  "level": 2,
+  "title": "LE TEXTE PROPREMENT DIT"
+ },
+ {
+  "id": "remarques-6",
+  "level": 3,
+  "title": "Remarques"
+ },
+ {
+  "id": "les-annexes",
+  "level": 2,
+  "title": "LES ANNEXES"
+ },
+ {
+  "id": "1-intitulé",
+  "level": 3,
+  "title": "1 - Intitulé"
+ },
+ {
+  "id": "2-teneur",
+  "level": 3,
+  "title": "2 - Teneur"
+ },
+ {
+  "id": "élision-et-virgule",
+  "level": 2,
+  "title": "ÉLISION ET VIRGULE"
+ },
+ {
+  "id": "encourir-particularités-d-emploi",
+  "level": 2,
+  "title": "ENCOURIR : PARTICULARITÉS D’EMPLOI"
+ },
+ {
+  "id": "entrée-en-vigueur-ou-prise-d-effet",
+  "level": 2,
+  "title": "ENTRÉE EN VIGUEUR OU PRISE D’EFFET?"
+ },
+ {
+  "id": "énumération-verticale",
+  "level": 2,
+  "title": "ÉNUMÉRATION VERTICALE"
+ },
+ {
+  "id": "présentation",
+  "level": 2,
+  "title": "PRÉSENTATION"
+ },
+ {
+  "id": "rapports-logiques",
+  "level": 2,
+  "title": "RAPPORTS  LOGIQUES"
+ },
+ {
+  "id": "moyens-d-expression-des-rapports-logiques",
+  "level": 2,
+  "title": "MOYENS D’EXPRESSION DES RAPPORTS LOGIQUES"
+ },
+ {
+  "id": "rapport-implicite",
+  "level": 3,
+  "title": "Rapport implicite"
+ },
+ {
+  "id": "conjonction-et-disjonction",
+  "level": 3,
+  "title": "Conjonction et disjonction"
+ },
+ {
+  "id": "mise-en-facteur-commun",
+  "level": 3,
+  "title": "Mise en facteur commun"
+ },
+ {
+  "id": "pièges",
+  "level": 2,
+  "title": "PIÈGES"
+ },
+ {
+  "id": "subdivisions-trop-longues",
+  "level": 3,
+  "title": "Subdivisions trop longues"
+ },
+ {
+  "id": "découpage-asymétrique",
+  "level": 3,
+  "title": "Découpage asymétrique"
+ },
+ {
+  "id": "rupture-grammaticale",
+  "level": 3,
+  "title": "Rupture grammaticale"
+ },
+ {
+  "id": "enjambement",
+  "level": 3,
+  "title": "Enjambement"
+ },
+ {
+  "id": "autres-cas-d-enjambement",
+  "level": 3,
+  "title": "Autres cas d’enjambement"
+ },
+ {
+  "id": "conclusion-2",
+  "level": 2,
+  "title": "CONCLUSION"
+ },
+ {
+  "id": "source",
+  "level": 2,
+  "title": "Source"
+ },
+ {
+  "id": "et-ce-ceci-cela-ponctuation",
+  "level": 2,
+  "title": "« ET CE (CECI/CELA) » : PONCTUATION"
+ },
+ {
+  "id": "sources-8",
+  "level": 2,
+  "title": "Sources:"
+ },
+ {
+  "id": "exercice-domaine-financier",
+  "level": 2,
+  "title": "EXERCICE (DOMAINE FINANCIER)"
+ },
+ {
+  "id": "expression-de-la-généralité",
+  "level": 2,
+  "title": "EXPRESSION DE LA GÉNÉRALITÉ"
+ },
+ {
+  "id": "i-emploi-de-l-article-défini-pluriel",
+  "level": 2,
+  "title": "I – EMPLOI DE L’ARTICLE DÉFINI PLURIEL"
+ },
+ {
+  "id": "a-équivalence-de-a-an-any-every-each-all-no",
+  "level": 3,
+  "title": "a) Équivalence de a, an, any, every, each, all, no"
+ },
+ {
+  "id": "remarque-6",
+  "level": 4,
+  "title": "Remarque"
+ },
+ {
+  "id": "b-équivalence-de-such-dans-such-as",
+  "level": 3,
+  "title": "b) Équivalence de such dans … such … as …"
+ },
+ {
+  "id": "remarque-7",
+  "level": 4,
+  "title": "Remarque"
+ },
+ {
+  "id": "c-démarche-en-deux-temps-démarche-synthétique",
+  "level": 3,
+  "title": "c) Démarche en deux temps – démarche synthétique"
+ },
+ {
+  "id": "ii-emploi-de-l-article-défini-singulier",
+  "level": 2,
+  "title": "II – EMPLOI DE L’ARTICLE DÉFINI SINGULIER"
+ },
+ {
+  "id": "a-équivalences-diverses",
+  "level": 3,
+  "title": "a) Équivalences diverses"
+ },
+ {
+  "id": "b-équivalence-de-such",
+  "level": 3,
+  "title": "b) Équivalence de such"
+ },
+ {
+  "id": "c-deux-temps-synthèse",
+  "level": 3,
+  "title": "c) Deux temps – synthèse"
+ },
+ {
+  "id": "remarques-7",
+  "level": 4,
+  "title": "Remarques"
+ },
+ {
+  "id": "d-cas-particulier-de-la-constitution-de-ministères-ou-d-orga",
+  "level": 3,
+  "title": "d) Cas particulier de la constitution de ministères ou d’organismes"
+ },
+ {
+  "id": "iii-autres-moyens",
+  "level": 2,
+  "title": "III – AUTRES MOYENS"
+ },
+ {
+  "id": "a-tout",
+  "level": 3,
+  "title": "a) « Tout »"
+ },
+ {
+  "id": "remarques-8",
+  "level": 4,
+  "title": "Remarques"
+ },
+ {
+  "id": "remarque-8",
+  "level": 4,
+  "title": "Remarque"
+ },
+ {
+  "id": "b-chaque-chacun",
+  "level": 3,
+  "title": "b) « Chaque; chacun »"
+ },
+ {
+  "id": "remarque-9",
+  "level": 4,
+  "title": "Remarque"
+ },
+ {
+  "id": "c-quiconque",
+  "level": 3,
+  "title": "c) « Quiconque »"
+ },
+ {
+  "id": "remarque-10",
+  "level": 4,
+  "title": "Remarque"
+ },
+ {
+  "id": "d-nul",
+  "level": 3,
+  "title": "d) « Nul »"
+ },
+ {
+  "id": "remarque-11",
+  "level": 4,
+  "title": "Remarque"
+ },
+ {
+  "id": "e-aucun",
+  "level": 3,
+  "title": "e) « Aucun »"
+ },
+ {
+  "id": "f-celui-ceux",
+  "level": 3,
+  "title": "f) « Celui », « ceux »"
+ },
+ {
+  "id": "g-on",
+  "level": 3,
+  "title": "g) « On »"
+ },
+ {
+  "id": "iv-complément",
+  "level": 2,
+  "title": "IV – COMPLÉMENT"
+ },
+ {
+  "id": "a-l-article-indéfini",
+  "level": 3,
+  "title": "a) L’article indéfini"
+ },
+ {
+  "id": "remarque-12",
+  "level": 4,
+  "title": "Remarque"
+ },
+ {
+  "id": "b-degré-zéro-de-l-article",
+  "level": 3,
+  "title": "b) Degré zéro de l’article"
+ },
+ {
+  "id": "c-personne",
+  "level": 3,
+  "title": "c) « Personne »"
+ },
+ {
+  "id": "remarques-9",
+  "level": 4,
+  "title": "Remarques"
+ },
+ {
+  "id": "expression-de-la-règle-impérative",
+  "level": 2,
+  "title": "EXPRESSION DE LA RÈGLE IMPÉRATIVE"
+ },
+ {
+  "id": "expression-de-la-restriction-interdiction-et-obligation",
+  "level": 2,
+  "title": "EXPRESSION DE LA RESTRICTION (INTERDICTION ET OBLIGATION)"
+ },
+ {
+  "id": "i-interdiction-assortie-d-une-exception",
+  "level": 2,
+  "title": "I – INTERDICTION ASSORTIE D’UNE EXCEPTION"
+ },
+ {
+  "id": "exemple-1-2",
+  "level": 3,
+  "title": "Exemple 1"
+ },
+ {
+  "id": "variantes",
+  "level": 4,
+  "title": "Variantes"
+ },
+ {
+  "id": "exemple-2-2",
+  "level": 3,
+  "title": "Exemple 2"
+ },
+ {
+  "id": "remarque-13",
+  "level": 3,
+  "title": "Remarque"
+ },
+ {
+  "id": "ii-obligation-assortie-d-une-exception",
+  "level": 2,
+  "title": "II – OBLIGATION ASSORTIE D’UNE EXCEPTION"
+ },
+ {
+  "id": "exemple-1-3",
+  "level": 3,
+  "title": "Exemple 1"
+ },
+ {
+  "id": "exemple-2-3",
+  "level": 3,
+  "title": "Exemple 2"
+ },
+ {
+  "id": "exemple-3",
+  "level": 3,
+  "title": "Exemple 3"
+ },
+ {
+  "id": "exemple-4",
+  "level": 3,
+  "title": "Exemple 4"
+ },
+ {
+  "id": "variantes-2",
+  "level": 4,
+  "title": "Variantes"
+ },
+ {
+  "id": "iii-condition",
+  "level": 2,
+  "title": "III – CONDITION"
+ },
+ {
+  "id": "exemple-1-4",
+  "level": 3,
+  "title": "Exemple 1"
+ },
+ {
+  "id": "exemple-2-4",
+  "level": 3,
+  "title": "Exemple 2"
+ },
+ {
+  "id": "exemple-3-2",
+  "level": 3,
+  "title": "Exemple 3"
+ },
+ {
+  "id": "variante",
+  "level": 4,
+  "title": "Variante"
+ },
+ {
+  "id": "exemple-4-2",
+  "level": 3,
+  "title": "Exemple 4"
+ },
+ {
+  "id": "iv-récapitulation-des-principaux-tours-possibles",
+  "level": 2,
+  "title": "IV – RÉCAPITULATION DES PRINCIPAUX TOURS POSSIBLES"
+ },
+ {
+  "id": "conclusion-3",
+  "level": 3,
+  "title": "CONCLUSION"
+ },
+ {
+  "id": "fait-générateur-ou-fait-incriminé",
+  "level": 2,
+  "title": "FAIT GÉNÉRATEUR OU FAIT INCRIMINÉ ?"
+ },
+ {
+  "id": "remarque-14",
+  "level": 2,
+  "title": "Remarque"
+ },
+ {
+  "id": "fins-particularités-d-emploi",
+  "level": 2,
+  "title": "FINS : PARTICULARITÉS D’EMPLOI"
+ },
+ {
+  "id": "fonction-publique",
+  "level": 2,
+  "title": "FONCTION PUBLIQUE"
+ },
+ {
+  "id": "fraction-de-pourcentage",
+  "level": 2,
+  "title": "FRACTION DE POURCENTAGE"
+ },
+ {
+  "id": "frontière-ou-limite",
+  "level": 2,
+  "title": "FRONTIÈRE OU LIMITE"
+ },
+ {
+  "id": "géopolitique",
+  "level": 2,
+  "title": "GÉOPOLITIQUE"
+ },
+ {
+  "id": "i-modèle-isolé",
+  "level": 2,
+  "title": "I – MODÈLE ISOLÉ"
+ },
+ {
+  "id": "remarques-10",
+  "level": 3,
+  "title": "Remarques"
+ },
+ {
+  "id": "ii-modèles-en-contexte",
+  "level": 2,
+  "title": "II – MODÈLES EN CONTEXTE"
+ },
+ {
+  "id": "série-a",
+  "level": 3,
+  "title": "Série A"
+ },
+ {
+  "id": "série-b",
+  "level": 3,
+  "title": "Série B"
+ },
+ {
+  "id": "remarque-15",
+  "level": 4,
+  "title": "Remarque"
+ },
+ {
+  "id": "série-c",
+  "level": 3,
+  "title": "Série C"
+ },
+ {
+  "id": "série-d",
+  "level": 3,
+  "title": "Série D"
+ },
+ {
+  "id": "gouvernement-et-administration",
+  "level": 2,
+  "title": "GOUVERNEMENT ET ADMINISTRATION"
+ },
+ {
+  "id": "gouverneure-générale-règles-d-écriture",
+  "level": 2,
+  "title": "GOUVERNEURE GÉNÉRALE : RÈGLES D’ÉCRITURE"
+ },
+ {
+  "id": "graphie-nombres-et-numérotation",
+  "level": 2,
+  "title": "GRAPHIE : NOMBRES ET NUMÉROTATION"
+ },
+ {
+  "id": "dollar-cents-virgule-décimale-et-milliers",
+  "level": 2,
+  "title": "Dollar, cents, virgule décimale et milliers"
+ },
+ {
+  "id": "dollar",
+  "level": 3,
+  "title": "DOLLAR"
+ },
+ {
+  "id": "cents",
+  "level": 3,
+  "title": "CENTS"
+ },
+ {
+  "id": "virgule-décimale",
+  "level": 3,
+  "title": "VIRGULE DÉCIMALE"
+ },
+ {
+  "id": "milliers",
+  "level": 3,
+  "title": "MILLIERS"
+ },
+ {
+  "id": "élision-devant-un-numéral",
+  "level": 2,
+  "title": "Élision devant « un » numéral"
+ },
+ {
+  "id": "exceptions",
+  "level": 2,
+  "title": "Exceptions"
+ },
+ {
+  "id": "homologation",
+  "level": 2,
+  "title": "HOMOLOGATION"
+ },
+ {
+  "id": "variante-2",
+  "level": 2,
+  "title": "Variante"
+ },
+ {
+  "id": "homologation-obligatoire",
+  "level": 2,
+  "title": "Homologation obligatoire"
+ },
+ {
+  "id": "homologation-facultative",
+  "level": 2,
+  "title": "Homologation facultative"
+ },
+ {
+  "id": "variante-3",
+  "level": 2,
+  "title": "Variante"
+ },
+ {
+  "id": "remarques-11",
+  "level": 2,
+  "title": "Remarques"
+ },
+ {
+  "id": "immunité",
+  "level": 2,
+  "title": "IMMUNITÉ"
+ },
+ {
+  "id": "exemple-1-5",
+  "level": 2,
+  "title": "Exemple 1"
+ },
+ {
+  "id": "exemple-2-5",
+  "level": 2,
+  "title": "Exemple 2"
+ },
+ {
+  "id": "exemple-3-3",
+  "level": 2,
+  "title": "Exemple 3"
+ },
+ {
+  "id": "texte-anglais-correspondant",
+  "level": 2,
+  "title": "Texte anglais correspondant"
+ },
+ {
+  "id": "imputabilité-particularités-d-emploi",
+  "level": 2,
+  "title": "IMPUTABILITÉ : PARTICULARITÉS D’EMPLOI"
+ },
+ {
+  "id": "incluant-et-excluant",
+  "level": 2,
+  "title": "INCLUANT ET EXCLUANT"
+ },
+ {
+  "id": "remarque-16",
+  "level": 2,
+  "title": "Remarque"
+ },
+ {
+  "id": "remarque-17",
+  "level": 2,
+  "title": "Remarque"
+ },
+ {
+  "id": "incompatibilité-de-textes",
+  "level": 2,
+  "title": "INCOMPATIBILITÉ DE TEXTES"
+ },
+ {
+  "id": "infractions-et-peines",
+  "level": 2,
+  "title": "INFRACTIONS ET PEINES"
+ },
+ {
+  "id": "1-o-infractions",
+  "level": 2,
+  "title": "1 o Infractions"
+ },
+ {
+  "id": "remarques-12",
+  "level": 3,
+  "title": "Remarques"
+ },
+ {
+  "id": "2-o-preuve",
+  "level": 2,
+  "title": "2 o Preuve"
+ },
+ {
+  "id": "3-o-infractions-continues",
+  "level": 2,
+  "title": "3 o Infractions continues"
+ },
+ {
+  "id": "4-o-amendes-en-cas-de-récidive",
+  "level": 2,
+  "title": "4 o Amendes en cas de\n        récidive"
+ },
+ {
+  "id": "5-o-prescription",
+  "level": 2,
+  "title": "5 o Prescription"
+ },
+ {
+  "id": "6-o-consentement-du-procureur-général-du-canada",
+  "level": 2,
+  "title": "6 o Consentement du\n        procureur général du Canada"
+ },
+ {
+  "id": "remarques-13",
+  "level": 3,
+  "title": "Remarques"
+ },
+ {
+  "id": "inventaire-ou-stock",
+  "level": 2,
+  "title": "INVENTAIRE OU STOCK ?"
+ },
+ {
+  "id": "justiciable",
+  "level": 2,
+  "title": "JUSTICIABLE"
+ },
+ {
+  "id": "lorsque-quand-et-si",
+  "level": 2,
+  "title": "LORSQUE, QUAND ET SI"
+ },
+ {
+  "id": "a-lorsque-et-quand",
+  "level": 2,
+  "title": "A) Lorsque  et quand"
+ },
+ {
+  "id": "b-lorsque-et-si",
+  "level": 2,
+  "title": "B) Lorsque et  si"
+ },
+ {
+  "id": "c-formulations-de-rechange",
+  "level": 2,
+  "title": "C) Formulations  de rechange"
+ },
+ {
+  "id": "d-élision",
+  "level": 2,
+  "title": "D) Élision"
+ },
+ {
+  "id": "majuscule-et-dénominations-composées",
+  "level": 2,
+  "title": "MAJUSCULE ET DÉNOMINATIONS COMPOSÉES"
+ },
+ {
+  "id": "marin-ou-maritime",
+  "level": 2,
+  "title": "MARIN OU MARITIME ?"
+ },
+ {
+  "id": "montant-ou-somme",
+  "level": 2,
+  "title": "MONTANT OU SOMME?"
+ },
+ {
+  "id": "municipalité-ou-administration-municipale",
+  "level": 2,
+  "title": "MUNICIPALITÉ OU ADMINISTRATION MUNICIPALE"
+ },
+ {
+  "id": "n-était-n-eût-été",
+  "level": 2,
+  "title": "N’ÉTAIT, N’EÛT ÉTÉ"
+ },
+ {
+  "id": "ne-explétif-ou-quand-ne-n-exprime-pas-la-négation",
+  "level": 2,
+  "title": "NE EXPLÉTIF (OU QUAND NE N’EXPRIME\nPAS LA NÉGATION)"
+ },
+ {
+  "id": "noms-géographiques-et-bilinguisme",
+  "level": 2,
+  "title": "NOMS GÉOGRAPHIQUES ET BILINGUISME"
+ },
+ {
+  "id": "opposabilité-des-lois-à-l-état",
+  "level": 2,
+  "title": "OPPOSABILITÉ DES LOIS À L’ÉTAT"
+ },
+ {
+  "id": "pallier",
+  "level": 2,
+  "title": "PALLIER"
+ },
+ {
+  "id": "par-le-biais-de-mise-en-garde",
+  "level": 2,
+  "title": "PAR LE BIAIS DE : MISE EN GARDE"
+ },
+ {
+  "id": "payable-ou-à-payer",
+  "level": 2,
+  "title": "PAYABLE OU À PAYER ?"
+ },
+ {
+  "id": "pertinent",
+  "level": 2,
+  "title": "PERTINENT"
+ },
+ {
+  "id": "ponctuation-non-doublement-et-enchaînements",
+  "level": 2,
+  "title": "PONCTUATION : NON-DOUBLEMENT ET ENCHAÎNEMENTS"
+ },
+ {
+  "id": "guillemets-non-doublement",
+  "level": 2,
+  "title": "Guillemets (non-doublement)"
+ },
+ {
+  "id": "parenthèses-non-doublement",
+  "level": 2,
+  "title": "Parenthèses (non-doublement)"
+ },
+ {
+  "id": "enchaînements-termes-ou-groupes-à-ne-pas-séparer",
+  "level": 2,
+  "title": "Enchaînements (Termes ou groupes à ne pas séparer)"
+ },
+ {
+  "id": "remarque-18",
+  "level": 3,
+  "title": "Remarque"
+ },
+ {
+  "id": "préambule",
+  "level": 2,
+  "title": "PRÉAMBULE"
+ },
+ {
+  "id": "i-terme-introductif-en-tête",
+  "level": 2,
+  "title": "I – TERME INTRODUCTIF EN TÊTE"
+ },
+ {
+  "id": "1-o-un-seul-élément",
+  "level": 3,
+  "title": "1 o Un seul élément"
+ },
+ {
+  "id": "points-à-noter",
+  "level": 4,
+  "title": "Points à noter :"
+ },
+ {
+  "id": "2-o-plusieurs-éléments",
+  "level": 3,
+  "title": "2 o Plusieurs éléments"
+ },
+ {
+  "id": "points-à-noter-2",
+  "level": 4,
+  "title": "Points à noter :"
+ },
+ {
+  "id": "ii-terme-introductif-non-en-tête",
+  "level": 2,
+  "title": "II – TERME INTRODUCTIF NON EN TÊTE"
+ },
+ {
+  "id": "1-o-un-seul-élément-2",
+  "level": 3,
+  "title": "1 o Un seul élément"
+ },
+ {
+  "id": "points-à-noter-3",
+  "level": 4,
+  "title": "Points à noter :"
+ },
+ {
+  "id": "2-o-plusieurs-éléments-2",
+  "level": 3,
+  "title": "2 o Plusieurs éléments"
+ },
+ {
+  "id": "points-à-noter-4",
+  "level": 4,
+  "title": "Points à noter :"
+ },
+ {
+  "id": "remarque-19",
+  "level": 3,
+  "title": "Remarque"
+ },
+ {
+  "id": "mise-en-garde",
+  "level": 2,
+  "title": "Mise en garde"
+ },
+ {
+  "id": "précisions-interprétatives",
+  "level": 2,
+  "title": "PRÉCISIONS INTERPRÉTATIVES"
+ },
+ {
+  "id": "il-est-entendu-for-greater-certainty",
+  "level": 2,
+  "title": "Il est entendu ( For greater certainty )"
+ },
+ {
+  "id": "n-a-n-ont-pas-pour-effet",
+  "level": 2,
+  "title": "N’a (n’ont) pas pour effet"
+ },
+ {
+  "id": "remarque-20",
+  "level": 3,
+  "title": "Remarque"
+ },
+ {
+  "id": "without-limiting-restricting-the-generality-of",
+  "level": 2,
+  "title": "Without limiting [restricting] the generality of"
+ },
+ {
+  "id": "premier-dirigeant-et-administrateur-général",
+  "level": 2,
+  "title": "PREMIER DIRIGEANT ET ADMINISTRATEUR GÉNÉRAL"
+ },
+ {
+  "id": "premier-dirigeant-chief-executive-officer",
+  "level": 2,
+  "title": "« premier dirigeant » — chief executive officer"
+ },
+ {
+  "id": "administrateur-général-deputy-head",
+  "level": 2,
+  "title": "« administrateur général » — deputy head"
+ },
+ {
+  "id": "remarque-21",
+  "level": 3,
+  "title": "Remarque"
+ },
+ {
+  "id": "première-nation-emploi-des-majuscules",
+  "level": 2,
+  "title": "PREMIÈRE NATION : EMPLOI DES MAJUSCULES"
+ },
+ {
+  "id": "prendre",
+  "level": 2,
+  "title": "PRENDRE"
+ },
+ {
+  "id": "présumé-réputé-ou-considéré",
+  "level": 2,
+  "title": "PRÉSUMÉ, RÉPUTÉ OU CONSIDÉRÉ?"
+ },
+ {
+  "id": "prévoir-ou-prévoir-de",
+  "level": 2,
+  "title": "PRÉVOIR, OU PRÉVOIR DE ?"
+ },
+ {
+  "id": "proclamation",
+  "level": 2,
+  "title": "PROCLAMATION"
+ },
+ {
+  "id": "sans-cooccurrent",
+  "level": 2,
+  "title": "Sans cooccurrent"
+ },
+ {
+  "id": "avec-cooccurrent",
+  "level": 2,
+  "title": "Avec cooccurrent"
+ },
+ {
+  "id": "provinces-et-territoires",
+  "level": 2,
+  "title": "Provinces et territoires"
+ },
+ {
+  "id": "graphie-et-genre",
+  "level": 2,
+  "title": "Graphie et genre"
+ },
+ {
+  "id": "emploi",
+  "level": 2,
+  "title": "Emploi"
+ },
+ {
+  "id": "mention-après-le-nom-d-une-agglomération",
+  "level": 2,
+  "title": "Mention après le nom d’une agglomération"
+ },
+ {
+  "id": "exemples",
+  "level": 3,
+  "title": "Exemples"
+ },
+ {
+  "id": "remarques-14",
+  "level": 3,
+  "title": "Remarques"
+ },
+ {
+  "id": "raisonnable",
+  "level": 2,
+  "title": "RAISONNABLE"
+ },
+ {
+  "id": "1-o-contraintes",
+  "level": 2,
+  "title": "1 o Contraintes"
+ },
+ {
+  "id": "a-utilisation-personnelle",
+  "level": 3,
+  "title": "a)\n                  Utilisation personnelle"
+ },
+ {
+  "id": "b-utilisation-impersonnelle",
+  "level": 3,
+  "title": "b)\n                  Utilisation impersonnelle"
+ },
+ {
+  "id": "2-o-équivalences-libres",
+  "level": 2,
+  "title": "2 o Équivalences libres"
+ },
+ {
+  "id": "exemples-tirés-de-la-charte-canadienne-des-droits-et-liberté",
+  "level": 3,
+  "title": "Exemples tirés de la Charte canadienne des droits et libertés"
+ },
+ {
+  "id": "exemples-tirés-d-autres-textes",
+  "level": 3,
+  "title": "Exemples tirés d’autres textes"
+ },
+ {
+  "id": "remarque-dernier-exemple",
+  "level": 4,
+  "title": "Remarque\n          (dernier exemple)"
+ },
+ {
+  "id": "raisons-sociales-et-titres-d-usage-accord-en-genre",
+  "level": 2,
+  "title": "RAISONS SOCIALES ET TITRES D’USAGE : ACCORD EN GENRE"
+ },
+ {
+  "id": "rapports",
+  "level": 2,
+  "title": "RAPPORTS"
+ },
+ {
+  "id": "mise-en-garde-2",
+  "level": 2,
+  "title": "Mise en garde"
+ },
+ {
+  "id": "modèles-isolés",
+  "level": 2,
+  "title": "MODÈLES ISOLÉS"
+ },
+ {
+  "id": "modèles-en-contexte",
+  "level": 2,
+  "title": "MODÈLES EN CONTEXTE"
+ },
+ {
+  "id": "rédaction-législative-inclusive",
+  "level": 2,
+  "title": "RÉDACTION LÉGISLATIVE INCLUSIVE"
+ },
+ {
+  "id": "introduction",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "techniques-recommandées",
+  "level": 2,
+  "title": "Techniques recommandées"
+ },
+ {
+  "id": "1-féminiser-les-dénominations-lorsque-le-référent-est-une-fe",
+  "level": 3,
+  "title": "1. Féminiser les dénominations lorsque le référent est une femme"
+ },
+ {
+  "id": "2-employer-des-termes-neutres-inclusifs",
+  "level": 3,
+  "title": "2. Employer des termes neutres inclusifs"
+ },
+ {
+  "id": "3-employer-des-termes-épicènes",
+  "level": 3,
+  "title": "3. Employer des termes épicènes"
+ },
+ {
+  "id": "4-employer-des-noms-collectifs",
+  "level": 3,
+  "title": "4. Employer des noms collectifs"
+ },
+ {
+  "id": "5-employer-des-formes-ou-des-formulations-non-personnalisées",
+  "level": 3,
+  "title": "5. Employer des formes ou des formulations non personnalisées"
+ },
+ {
+  "id": "6-reformuler-des-énoncés-ou-des-phrases-entières",
+  "level": 3,
+  "title": "6. Reformuler des énoncés ou des phrases entières"
+ },
+ {
+  "id": "autres-recommandations",
+  "level": 2,
+  "title": "Autres recommandations"
+ },
+ {
+  "id": "techniques-déconseillées",
+  "level": 2,
+  "title": "Techniques déconseillées"
+ },
+ {
+  "id": "doublets-intégraux",
+  "level": 3,
+  "title": "Doublets intégraux"
+ },
+ {
+  "id": "doublets-abrégés-au-moyen-de-signes-typographiques",
+  "level": 3,
+  "title": "Doublets abrégés au moyen de signes typographiques"
+ },
+ {
+  "id": "autres-techniques",
+  "level": 3,
+  "title": "Autres techniques"
+ },
+ {
+  "id": "si-aucune-des-techniques-ne-trouve-application",
+  "level": 2,
+  "title": "Si aucune des techniques ne trouve application"
+ },
+ {
+  "id": "ressources-complémentaires",
+  "level": 2,
+  "title": "Ressources complémentaires"
+ },
+ {
+  "id": "réglementaire-particularités-d-emploi",
+  "level": 2,
+  "title": "RÉGLEMENTAIRE : PARTICULARITÉS D’EMPLOI"
+ },
+ {
+  "id": "règlement-administratif",
+  "level": 2,
+  "title": "RÈGLEMENT ADMINISTRATIF"
+ },
+ {
+  "id": "remarque-22",
+  "level": 2,
+  "title": "Remarque"
+ },
+ {
+  "id": "règlement-d-application",
+  "level": 2,
+  "title": "RÈGLEMENT D’APPLICATION"
+ },
+ {
+  "id": "règlement-projet-de-règlement",
+  "level": 2,
+  "title": "RÈGLEMENT; PROJET DE RÈGLEMENT"
+ },
+ {
+  "id": "i-règlement-habilitation-et-attribution",
+  "level": 2,
+  "title": "I – RÈGLEMENT: HABILITATION ET ATTRIBUTION"
+ },
+ {
+  "id": "a-l-annonce-définitoire-prescribed",
+  "level": 3,
+  "title": "A – L’annonce définitoire ( prescribed )"
+ },
+ {
+  "id": "1-o-version-anglaise",
+  "level": 4,
+  "title": "1 o Version anglaise"
+ },
+ {
+  "id": "2-o-version-française",
+  "level": 4,
+  "title": "2 o Version française"
+ },
+ {
+  "id": "3-o-définition-anglaise-complexe",
+  "level": 4,
+  "title": "3 o Définition anglaise complexe"
+ },
+ {
+  "id": "b-l-attribution-implicite",
+  "level": 3,
+  "title": "B – L’attribution implicite"
+ },
+ {
+  "id": "remarque-23",
+  "level": 4,
+  "title": "Remarque"
+ },
+ {
+  "id": "c-l-attribution-explicite",
+  "level": 3,
+  "title": "C – L’attribution explicite"
+ },
+ {
+  "id": "remarques-15",
+  "level": 4,
+  "title": "Remarques"
+ },
+ {
+  "id": "1-o-les-dispositions-particulières",
+  "level": 4,
+  "title": "1 o Les dispositions particulières"
+ },
+ {
+  "id": "remarque-24",
+  "level": 5,
+  "title": "Remarque"
+ },
+ {
+  "id": "2-o-les-dispositions-générales",
+  "level": 4,
+  "title": "2 o Les dispositions générales"
+ },
+ {
+  "id": "3-o-les-dispositions-récapitulatives",
+  "level": 4,
+  "title": "3 o Les dispositions récapitulatives"
+ },
+ {
+  "id": "remarque-25",
+  "level": 4,
+  "title": "Remarque"
+ },
+ {
+  "id": "ii-règlement-divers",
+  "level": 2,
+  "title": "II – RÈGLEMENT : DIVERS"
+ },
+ {
+  "id": "a-dépôt-devant-le-parlement",
+  "level": 3,
+  "title": "A – Dépôt devant le Parlement"
+ },
+ {
+  "id": "b-prise-d-effet-et-rétroactivité",
+  "level": 3,
+  "title": "B – Prise d’effet et rétroactivité"
+ },
+ {
+  "id": "iii-projet-de-règlement-publication",
+  "level": 2,
+  "title": "III – PROJET DE RÈGLEMENT : PUBLICATION"
+ },
+ {
+  "id": "modèle-a",
+  "level": 3,
+  "title": "Modèle A"
+ },
+ {
+  "id": "remarques-16",
+  "level": 4,
+  "title": "Remarques"
+ },
+ {
+  "id": "modèle-b",
+  "level": 3,
+  "title": "Modèle B"
+ },
+ {
+  "id": "remarque-26",
+  "level": 4,
+  "title": "Remarque"
+ },
+ {
+  "id": "modèle-c",
+  "level": 3,
+  "title": "Modèle C"
+ },
+ {
+  "id": "remarque-27",
+  "level": 4,
+  "title": "Remarque"
+ },
+ {
+  "id": "remplacer-et-substituer",
+  "level": 2,
+  "title": "REMPLACER ET SUBSTITUER"
+ },
+ {
+  "id": "renvoi-à-un-texte-abrogé-ou-modifié",
+  "level": 2,
+  "title": "RENVOI À UN TEXTE ABROGÉ OU MODIFIÉ"
+ },
+ {
+  "id": "renvois-moyens-d-expression",
+  "level": 2,
+  "title": "RENVOIS : MOYENS D’EXPRESSION"
+ },
+ {
+  "id": "introduction-2",
+  "level": 2,
+  "title": "INTRODUCTION"
+ },
+ {
+  "id": "i-rapport",
+  "level": 2,
+  "title": "I. RAPPORT"
+ },
+ {
+  "id": "ii-trois-types-de-moyens-de-renvoi",
+  "level": 2,
+  "title": "II. TROIS TYPES DE MOYENS DE RENVOI"
+ },
+ {
+  "id": "a-participes-et-adjectifs",
+  "level": 3,
+  "title": "A. PARTICIPES ET ADJECTIFS"
+ },
+ {
+  "id": "prévu-à-par-et-visé-à-par",
+  "level": 4,
+  "title": "Prévu  (à/par) et visé (à/par)"
+ },
+ {
+  "id": "remarque-28",
+  "level": 5,
+  "title": "Remarque"
+ },
+ {
+  "id": "b-prépositions-et-locutions-prépositives",
+  "level": 3,
+  "title": "B. PRÉPOSITIONS ET LOCUTIONS  PRÉPOSITIVES"
+ },
+ {
+  "id": "1-en-vertu-de",
+  "level": 4,
+  "title": "1. EN VERTU DE"
+ },
+ {
+  "id": "remarques-17",
+  "level": 5,
+  "title": "Remarques"
+ },
+ {
+  "id": "2-au-titre-de",
+  "level": 4,
+  "title": "2. AU TITRE DE"
+ },
+ {
+  "id": "3-sous-le-régime-de",
+  "level": 4,
+  "title": "3. SOUS LE RÉGIME DE"
+ },
+ {
+  "id": "4-dans-le-cadre-de",
+  "level": 4,
+  "title": "4. DANS LE CADRE DE"
+ },
+ {
+  "id": "5-en-application-de",
+  "level": 4,
+  "title": "5. EN APPLICATION DE"
+ },
+ {
+  "id": "6-par-application-de",
+  "level": 4,
+  "title": "6. PAR APPLICATION DE"
+ },
+ {
+  "id": "7-pour-l-application-de",
+  "level": 4,
+  "title": "7. POUR L’APPLICATION DE"
+ },
+ {
+  "id": "8-conformément-à-en-conformité-avec",
+  "level": 4,
+  "title": "8. CONFORMÉMENT À, EN CONFORMITÉ  AVEC"
+ },
+ {
+  "id": "remarque-29",
+  "level": 5,
+  "title": "Remarque"
+ },
+ {
+  "id": "9-au-sens-de",
+  "level": 4,
+  "title": "9. AU SENS DE"
+ },
+ {
+  "id": "10-aux-termes-de",
+  "level": 4,
+  "title": "10. AUX TERMES DE"
+ },
+ {
+  "id": "c-transposition",
+  "level": 3,
+  "title": "C. TRANSPOSITION"
+ },
+ {
+  "id": "conclusion-4",
+  "level": 3,
+  "title": "CONCLUSION"
+ },
+ {
+  "id": "tableau-récapitulatif",
+  "level": 3,
+  "title": "TABLEAU  RÉCAPITULATIF"
+ },
+ {
+  "id": "représentation-des-nombres",
+  "level": 2,
+  "title": "REPRÉSENTATION DES NOMBRES"
+ },
+ {
+  "id": "chiffres-arabes",
+  "level": 2,
+  "title": "Chiffres arabes"
+ },
+ {
+  "id": "chiffres-romains",
+  "level": 2,
+  "title": "Chiffres romains"
+ },
+ {
+  "id": "lettres",
+  "level": 2,
+  "title": "Lettres"
+ },
+ {
+  "id": "remarques-18",
+  "level": 3,
+  "title": "Remarques"
+ },
+ {
+  "id": "bibliographie",
+  "level": 2,
+  "title": "BIBLIOGRAPHIE"
+ },
+ {
+  "id": "réputation-moralité-bonnes-mœurs",
+  "level": 2,
+  "title": "RÉPUTATION, MORALITÉ, BONNES MŒURS"
+ },
+ {
+  "id": "rive-ou-rivage",
+  "level": 2,
+  "title": "RIVE OU RIVAGE?"
+ },
+ {
+  "id": "s-assurer-que-particularités-d-emploi",
+  "level": 2,
+  "title": "S’ASSURER QUE : PARTICULARITÉS D’EMPLOI"
+ },
+ {
+  "id": "se-lire-et-comme-suit-double-difficulté",
+  "level": 2,
+  "title": "« Se lire » et « comme suit » : double difficulté"
+ },
+ {
+  "id": "semblable-ou-similaire",
+  "level": 2,
+  "title": "SEMBLABLE OU SIMILAIRE ?"
+ },
+ {
+  "id": "serment",
+  "level": 2,
+  "title": "SERMENT"
+ },
+ {
+  "id": "moi-camille-tremblay-je-jure",
+  "level": 2,
+  "title": "Moi, Camille Tremblay, je jure …"
+ },
+ {
+  "id": "remarque-30",
+  "level": 3,
+  "title": "Remarque"
+ },
+ {
+  "id": "siéger",
+  "level": 2,
+  "title": "SIÉGER"
+ },
+ {
+  "id": "statuer-particularités-d-emploi",
+  "level": 2,
+  "title": "STATUER : PARTICULARITÉS D’EMPLOI"
+ },
+ {
+  "id": "sur-à-même",
+  "level": 2,
+  "title": "SUR (À MÊME)"
+ },
+ {
+  "id": "sûreté-et-sécurité-question-d-usage",
+  "level": 2,
+  "title": "« SÛRETÉ » ET « SÉCURITÉ » : QUESTION D’USAGE"
+ },
+ {
+  "id": "tel-que-suivi-d-un-participe-passé",
+  "level": 2,
+  "title": "« TEL QUE » SUIVI D’UN PARTICIPE PASSÉ"
+ },
+ {
+  "id": "temporarisation",
+  "level": 2,
+  "title": "TEMPORARISATION"
+ },
+ {
+  "id": "terminologie-mentions",
+  "level": 2,
+  "title": "TERMINOLOGIE; MENTIONS"
+ },
+ {
+  "id": "remarque-31",
+  "level": 2,
+  "title": "Remarque"
+ },
+ {
+  "id": "remarque-32",
+  "level": 2,
+  "title": "Remarque"
+ },
+ {
+  "id": "remarque-33",
+  "level": 2,
+  "title": "Remarque"
+ },
+ {
+  "id": "tirets",
+  "level": 2,
+  "title": "TIRETS"
+ },
+ {
+  "id": "rôle-des-tirets",
+  "level": 2,
+  "title": "RÔLE DES TIRETS"
+ },
+ {
+  "id": "exemple-1-6",
+  "level": 3,
+  "title": "EXEMPLE 1"
+ },
+ {
+  "id": "exemple-2-6",
+  "level": 3,
+  "title": "EXEMPLE 2"
+ },
+ {
+  "id": "remarque-34",
+  "level": 4,
+  "title": "Remarque"
+ },
+ {
+  "id": "exemple-3-4",
+  "level": 3,
+  "title": "EXEMPLE 3"
+ },
+ {
+  "id": "remarque-35",
+  "level": 4,
+  "title": "Remarque"
+ },
+ {
+  "id": "règles-de-graphie",
+  "level": 2,
+  "title": "RÈGLES DE GRAPHIE"
+ },
+ {
+  "id": "source-partielle",
+  "level": 2,
+  "title": "Source partielle"
+ },
+ {
+  "id": "titulaire-détenteur-ou-porteur",
+  "level": 2,
+  "title": "TITULAIRE, DÉTENTEUR OU PORTEUR ?"
+ },
+ {
+  "id": "tive-suffixe",
+  "level": 2,
+  "title": "-TIVE (SUFFIXE)"
+ },
+ {
+  "id": "toponymes-commençant-par-le-ou-les-règles-d-écriture",
+  "level": 2,
+  "title": "TOPONYMES COMMENÇANT PAR « LE » OU « LES » : RÈGLES D’ÉCRITURE"
+ }
+]

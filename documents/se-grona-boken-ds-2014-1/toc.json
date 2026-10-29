@@ -1,0 +1,1262 @@
+[
+ {
+  "id": "statsrådsberedningen",
+  "level": 4,
+  "title": "Statsrådsberedningen"
+ },
+ {
+  "id": "gröna-boken-riktlinjer-för-författningsskrivning-ds-2014-1",
+  "level": 2,
+  "title": "Gröna boken Riktlinjer för författningsskrivning Ds 2014:1"
+ },
+ {
+  "id": "ds-2014-1",
+  "level": 3,
+  "title": "Ds 2014:1"
+ },
+ {
+  "id": "gröna-boken-riktlinjer-för-författningsskrivning",
+  "level": 2,
+  "title": "Gröna boken Riktlinjer för författningsskrivning"
+ },
+ {
+  "id": "förord",
+  "level": 2,
+  "title": "Förord"
+ },
+ {
+  "id": "innehåll",
+  "level": 2,
+  "title": "Innehåll"
+ },
+ {
+  "id": "1-regeringsformens-bestämmelser-om-normgivning-9",
+  "level": 4,
+  "title": "1 Regeringsformens bestämmelser om normgivning ......... 9"
+ },
+ {
+  "id": "2-författningens-beteckning-13",
+  "level": 4,
+  "title": "2 Författningens beteckning ........................................ 13"
+ },
+ {
+  "id": "3-författningens-rubrik-17",
+  "level": 4,
+  "title": "3 Författningens rubrik ............................................... 17"
+ },
+ {
+  "id": "4-författningens-ingress-23",
+  "level": 4,
+  "title": "4 Författningens ingress ..............................................23"
+ },
+ {
+  "id": "5-språk-och-redigering-37",
+  "level": 4,
+  "title": "5 Språk och redigering ................................................37"
+ },
+ {
+  "id": "6-bestämmelser-om-straff-förverkande-vite-och-tystnadsplikt-",
+  "level": 4,
+  "title": "6 Bestämmelser om straff, förverkande, vite och tystnadsplikt ........................................................... 61"
+ },
+ {
+  "id": "7-överklagandebestämmelser-75",
+  "level": 4,
+  "title": "7 Överklagandebestämmelser ......................................75"
+ },
+ {
+  "id": "upplysningsbestämmelser-och-förvaltningsbeslut-85",
+  "level": 4,
+  "title": "upplysningsbestämmelser och förvaltningsbeslut ........ 85"
+ },
+ {
+  "id": "9-transumering-95",
+  "level": 4,
+  "title": "9 Transumering ......................................................... 95"
+ },
+ {
+  "id": "10-ikraftträdandebestämmelser-99",
+  "level": 4,
+  "title": "10 Ikraftträdandebestämmelser ..................................... 99"
+ },
+ {
+  "id": "11-hur-författningar-upphävs-107",
+  "level": 4,
+  "title": "11 Hur författningar upphävs ......................................107"
+ },
+ {
+  "id": "12-övergångsbestämmelser-111",
+  "level": 4,
+  "title": "12 Övergångsbestämmelser .........................................111"
+ },
+ {
+  "id": "13-omtryck-av-författningar-115",
+  "level": 4,
+  "title": "13 Omtryck av författningar .........................................115"
+ },
+ {
+  "id": "14-noter-121",
+  "level": 4,
+  "title": "14 Noter ...................................................................121"
+ },
+ {
+  "id": "15-bilagor-135",
+  "level": 4,
+  "title": "15 Bilagor ................................................................. 135"
+ },
+ {
+  "id": "16-underskrifter-137",
+  "level": 4,
+  "title": "16 Underskrifter ........................................................ 137"
+ },
+ {
+  "id": "register-141",
+  "level": 4,
+  "title": "Register .......................................................................141"
+ },
+ {
+  "id": "1-regeringsformens-bestämmelser-om-normgivning",
+  "level": 2,
+  "title": "1 Regeringsformens bestämmelser om normgivning"
+ },
+ {
+  "id": "1-1-normgivningsmaktens-fördelning",
+  "level": 3,
+  "title": "1.1 Normgivningsmaktens fördelning"
+ },
+ {
+  "id": "1-2-riksdagens-normgivningsområde",
+  "level": 3,
+  "title": "1.2 Riksdagens normgivningsområde"
+ },
+ {
+  "id": "1-3-regeringens-normgivningsområde",
+  "level": 3,
+  "title": "1.3 Regeringens normgivningsområde"
+ },
+ {
+  "id": "1-4-utfärdande",
+  "level": 3,
+  "title": "1.4 Utfärdande"
+ },
+ {
+  "id": "1-5-kungörande",
+  "level": 3,
+  "title": "1.5 Kungörande"
+ },
+ {
+  "id": "exempel-1-kungörande-i-någon-annan-författningssamling-än-sf",
+  "level": 4,
+  "title": "Exempel 1 Kungörande i någon annan författningssamling än SFS"
+ },
+ {
+  "id": "2-författningens-beteckning",
+  "level": 2,
+  "title": "2 Författningens beteckning"
+ },
+ {
+  "id": "2-1-skilj-mellan-grundförfattningar-och-ändringsförfattninga",
+  "level": 3,
+  "title": "2.1 Skilj mellan grundförfattningar och ändringsförfattningar"
+ },
+ {
+  "id": "2-2-tillkännagivanden",
+  "level": 3,
+  "title": "2.2 Tillkännagivanden"
+ },
+ {
+  "id": "2-3-äldre-författningar",
+  "level": 3,
+  "title": "2.3 Äldre författningar"
+ },
+ {
+  "id": "3-författningens-rubrik",
+  "level": 2,
+  "title": "3 Författningens rubrik"
+ },
+ {
+  "id": "3-1-nya-grundförfattningar",
+  "level": 3,
+  "title": "3.1 Nya grundförfattningar"
+ },
+ {
+  "id": "exempel-1",
+  "level": 4,
+  "title": "Exempel 1"
+ },
+ {
+  "id": "exempel-2",
+  "level": 4,
+  "title": "Exempel 2"
+ },
+ {
+  "id": "exempel-3",
+  "level": 4,
+  "title": "Exempel 3"
+ },
+ {
+  "id": "3-2-ändringsförfattningar",
+  "level": 3,
+  "title": "3.2 Ändringsförfattningar"
+ },
+ {
+  "id": "exempel-4",
+  "level": 4,
+  "title": "Exempel 4"
+ },
+ {
+  "id": "exempel-5",
+  "level": 4,
+  "title": "Exempel 5"
+ },
+ {
+  "id": "exempel-6",
+  "level": 4,
+  "title": "Exempel 6"
+ },
+ {
+  "id": "exempel-7",
+  "level": 4,
+  "title": "Exempel 7"
+ },
+ {
+  "id": "exempel-8",
+  "level": 4,
+  "title": "Exempel 8"
+ },
+ {
+  "id": "exempel-9",
+  "level": 4,
+  "title": "Exempel 9"
+ },
+ {
+  "id": "exempel-10",
+  "level": 4,
+  "title": "Exempel 10"
+ },
+ {
+  "id": "exempel-11",
+  "level": 4,
+  "title": "Exempel 11"
+ },
+ {
+  "id": "4-författningens-ingress",
+  "level": 2,
+  "title": "4 Författningens ingress"
+ },
+ {
+  "id": "4-1-huvudregel-ingressen-för-sig",
+  "level": 3,
+  "title": "4.1 Huvudregel – ingressen för sig"
+ },
+ {
+  "id": "4-2-undantag-ingressen-och-författningstexten-tillsammans",
+  "level": 3,
+  "title": "4.2 Undantag – ingressen och författningstexten tillsammans"
+ },
+ {
+  "id": "4-3-rubriker",
+  "level": 3,
+  "title": "4.3 Rubriker"
+ },
+ {
+  "id": "4-4-vem-har-beslutat-författningen",
+  "level": 3,
+  "title": "4.4 Vem har beslutat författningen?"
+ },
+ {
+  "id": "4-5-ändring-av-flera-paragrafer",
+  "level": 3,
+  "title": "4.5 Ändring av flera paragrafer"
+ },
+ {
+  "id": "4-6-punkter-i-ikraftträdande-och-övergångsbestämmelser",
+  "level": 3,
+  "title": "4.6 Punkter i ikraftträdande- och övergångsbestämmelser"
+ },
+ {
+  "id": "4-7-olika-slag-av-ändringar-i-samma-ingress",
+  "level": 3,
+  "title": "4.7 Olika slag av ändringar i samma ingress"
+ },
+ {
+  "id": "4-8-exempel-på-ingresser",
+  "level": 3,
+  "title": "4.8 Exempel på ingresser"
+ },
+ {
+  "id": "exempel-1-inledning-till-lagar",
+  "level": 4,
+  "title": "Exempel 1 Inledning till lagar"
+ },
+ {
+  "id": "exempel-2-inledning-till-förordningar",
+  "level": 4,
+  "title": "Exempel 2 Inledning till förordningar"
+ },
+ {
+  "id": "exempel-3-inledning-till-tillkännagivanden",
+  "level": 4,
+  "title": "Exempel 3 Inledning till tillkännagivanden"
+ },
+ {
+  "id": "exempel-4-upphävande-av-en-författning",
+  "level": 4,
+  "title": "Exempel 4 Upphävande av en författning"
+ },
+ {
+  "id": "exempel-5-fortsatt-giltighet-av-en-tidsbegränsad-författning",
+  "level": 4,
+  "title": "Exempel 5 Fortsatt giltighet av en tidsbegränsad författning"
+ },
+ {
+  "id": "exempel-6-ikraftträdande-av-en-författning",
+  "level": 4,
+  "title": "Exempel 6 Ikraftträdande av en författning"
+ },
+ {
+  "id": "exempel-7-upphävande-av-ett-kapitel",
+  "level": 4,
+  "title": "Exempel 7 Upphävande av ett kapitel"
+ },
+ {
+  "id": "exempel-8-upphävande-av-ett-kapitel-och-införande-av-ett-nyt",
+  "level": 4,
+  "title": "Exempel 8 Upphävande av ett kapitel och införande av ett nytt kapitel"
+ },
+ {
+  "id": "exempel-9-upphävande-av-en-paragraf",
+  "level": 4,
+  "title": "Exempel 9 Upphävande av en paragraf"
+ },
+ {
+  "id": "exempel-10-upphävande-av-en-paragraf-när-en-tidigare-ändring",
+  "level": 4,
+  "title": "Exempel 10 Upphävande av en paragraf när en tidigare ändring ännu inte har trätt i kraft"
+ },
+ {
+  "id": "exempel-11-upphävande-av-en-bilaga",
+  "level": 4,
+  "title": "Exempel 11 Upphävande av en bilaga"
+ },
+ {
+  "id": "exempel-12-upphävande-av-en-övergångsbestämmelse",
+  "level": 4,
+  "title": "Exempel 12 Upphävande av en övergångsbestämmelse"
+ },
+ {
+  "id": "exempel-13-mellanrubrik-som-utgår",
+  "level": 4,
+  "title": "Exempel 13 Mellanrubrik som utgår"
+ },
+ {
+  "id": "exempel-14-ändrad-beteckning-på-paragrafer",
+  "level": 4,
+  "title": "Exempel 14 Ändrad beteckning på paragrafer"
+ },
+ {
+  "id": "exempel-15-ändring-av-paragrafer",
+  "level": 4,
+  "title": "Exempel 15 Ändring av paragrafer"
+ },
+ {
+  "id": "exempel-16-samtidig-ändring-av-paragrafers-beteckning-och-ly",
+  "level": 4,
+  "title": "Exempel 16 Samtidig ändring av paragrafers beteckning och lydelse"
+ },
+ {
+  "id": "exempel-17-ändring-av-ett-helt-kapitel-och-paragrafer",
+  "level": 4,
+  "title": "Exempel 17 Ändring av ett helt kapitel och paragrafer"
+ },
+ {
+  "id": "exempel-18-ändring-av-en-författningsrubrik-och-paragrafer",
+  "level": 4,
+  "title": "Exempel 18 Ändring av en författningsrubrik och paragrafer"
+ },
+ {
+  "id": "exempel-19-ändring-av-paragrafer-när-en-tidigare-ändring-änn",
+  "level": 4,
+  "title": "Exempel 19 Ändring av paragrafer när en tidigare ändring ännu inte har trätt i kraft"
+ },
+ {
+  "id": "exempel-20-ändring-av-paragrafer-och-kapitel-eller-mellanrub",
+  "level": 4,
+  "title": "Exempel 20 Ändring av paragrafer och kapitel- eller mellanrubriker"
+ },
+ {
+  "id": "exempel-21-ändring-av-en-bilaga",
+  "level": 4,
+  "title": "Exempel 21 Ändring av en bilaga"
+ },
+ {
+  "id": "exempel-22-ändring-av-en-paragraf-och-en-bilaga",
+  "level": 4,
+  "title": "Exempel 22 Ändring av en paragraf och en bilaga"
+ },
+ {
+  "id": "exempel-23-ändring-av-ikraftträdande-och-övergångsbestämmels",
+  "level": 4,
+  "title": "Exempel 23 Ändring av ikraftträdande- och övergångsbestämmelser"
+ },
+ {
+  "id": "exempel-24-ändring-av-paragrafer-och-ikraftträdande-och-över",
+  "level": 4,
+  "title": "Exempel 24 Ändring av paragrafer och ikraftträdande- och övergångsbestämmelser"
+ },
+ {
+  "id": "exempel-25-ändring-av-en-paragraf-och-ikraftträdande-och-öve",
+  "level": 4,
+  "title": "Exempel 25 Ändring av en paragraf och ikraftträdande- och övergångsbestämmelser när en tidigare ändring ännu inte har trätt i kraft"
+ },
+ {
+  "id": "exempel-26-ändrad-plats-för-mellanrubriker",
+  "level": 4,
+  "title": "Exempel 26 Ändrad plats för mellanrubriker"
+ },
+ {
+  "id": "exempel-27-införande-av-nya-kapitel",
+  "level": 4,
+  "title": "Exempel 27 Införande av nya kapitel"
+ },
+ {
+  "id": "exempel-28-införande-av-nya-paragrafer",
+  "level": 4,
+  "title": "Exempel 28 Införande av nya paragrafer"
+ },
+ {
+  "id": "exempel-29-införande-av-nya-paragrafer-och-mellanrubriker",
+  "level": 4,
+  "title": "Exempel 29 Införande av nya paragrafer och mellanrubriker"
+ },
+ {
+  "id": "exempel-30-införande-av-en-ny-paragraf-på-platsen-för-en-tid",
+  "level": 4,
+  "title": "Exempel 30 Införande av en ny paragraf på platsen för en tidigare upphävd paragraf"
+ },
+ {
+  "id": "exempel-31-införande-av-nya-bilagor",
+  "level": 4,
+  "title": "Exempel 31 Införande av nya bilagor"
+ },
+ {
+  "id": "exempel-32-införande-av-en-ny-punkt-i-ikraftträdande-och-öve",
+  "level": 4,
+  "title": "Exempel 32 Införande av en ny punkt i ikraftträdande- och övergångsbestämmelser"
+ },
+ {
+  "id": "exempel-33-olika-slag-av-ändringar-i-samma-ingress",
+  "level": 4,
+  "title": "Exempel 33 Olika slag av ändringar i samma ingress"
+ },
+ {
+  "id": "5-språk-och-redigering",
+  "level": 2,
+  "title": "5 Språk och redigering"
+ },
+ {
+  "id": "5-1-riktlinjer-för-författningsspråket",
+  "level": 3,
+  "title": "5.1 Riktlinjer för författningsspråket"
+ },
+ {
+  "id": "5-2-hur-författningar-bör-utformas-redaktionellt",
+  "level": 3,
+  "title": "5.2 Hur författningar bör utformas redaktionellt"
+ },
+ {
+  "id": "exempel-1-2",
+  "level": 4,
+  "title": "Exempel 1"
+ },
+ {
+  "id": "exempel-2-2",
+  "level": 4,
+  "title": "Exempel 2"
+ },
+ {
+  "id": "exempel-3-2",
+  "level": 4,
+  "title": "Exempel 3"
+ },
+ {
+  "id": "5-3-hänvisningar",
+  "level": 3,
+  "title": "5.3 Hänvisningar"
+ },
+ {
+  "id": "exempel-4-2",
+  "level": 4,
+  "title": "Exempel 4"
+ },
+ {
+  "id": "exempel-5-eu-direktiv",
+  "level": 4,
+  "title": "Exempel 5 EU-direktiv"
+ },
+ {
+  "id": "exempel-6-eu-förordningar",
+  "level": 4,
+  "title": "Exempel 6 EU-förordningar"
+ },
+ {
+  "id": "exempel-7-eu-direktiv",
+  "level": 4,
+  "title": "Exempel 7 EU-direktiv"
+ },
+ {
+  "id": "exempel-8-eu-förordningar",
+  "level": 4,
+  "title": "Exempel 8 EU-förordningar"
+ },
+ {
+  "id": "5-4-hur-ändringar-markeras",
+  "level": 3,
+  "title": "5.4 Hur ändringar markeras"
+ },
+ {
+  "id": "eller-bilagor-som-förs-in-eller-ändras",
+  "level": 4,
+  "title": "eller bilagor som förs in eller ändras"
+ },
+ {
+  "id": "som-ändras",
+  "level": 4,
+  "title": "som ändras"
+ },
+ {
+  "id": "som-ändras-2",
+  "level": 4,
+  "title": "som ändras"
+ },
+ {
+  "id": "5-5-hur-författningar-bör-utformas-språkligt",
+  "level": 3,
+  "title": "5.5 Hur författningar bör utformas språkligt"
+ },
+ {
+  "id": "exempel-9-2",
+  "level": 4,
+  "title": "Exempel 9"
+ },
+ {
+  "id": "exempel-10-2",
+  "level": 4,
+  "title": "Exempel 10"
+ },
+ {
+  "id": "exempel-11-2",
+  "level": 4,
+  "title": "Exempel 11"
+ },
+ {
+  "id": "exempel-12",
+  "level": 4,
+  "title": "Exempel 12"
+ },
+ {
+  "id": "exempel-13",
+  "level": 4,
+  "title": "Exempel 13"
+ },
+ {
+  "id": "exempel-14",
+  "level": 4,
+  "title": "Exempel 14"
+ },
+ {
+  "id": "exempel-15",
+  "level": 4,
+  "title": "Exempel 15"
+ },
+ {
+  "id": "5-6-språkliga-ändringar",
+  "level": 3,
+  "title": "5.6 Språkliga ändringar"
+ },
+ {
+  "id": "6-bestämmelser-om-straff-förverkande-vite-och-tystnadsplikt",
+  "level": 2,
+  "title": "6 Bestämmelser om straff, förverkande, vite och tystnadsplikt"
+ },
+ {
+  "id": "6-1-normgivningsmakten-för-dessa-bestämmelser",
+  "level": 3,
+  "title": "6.1 Normgivningsmakten för dessa bestämmelser"
+ },
+ {
+  "id": "6-2-straffbestämmelser",
+  "level": 3,
+  "title": "6.2 Straffbestämmelser"
+ },
+ {
+  "id": "6-3-exempel-på-straffbestämmelser",
+  "level": 3,
+  "title": "6.3 Exempel på straffbestämmelser"
+ },
+ {
+  "id": "exempel-1-uppsåt-eller-oaktsamhet",
+  "level": 4,
+  "title": "Exempel 1 Uppsåt eller oaktsamhet"
+ },
+ {
+  "id": "exempel-2-ansvar-i-andra-hand",
+  "level": 4,
+  "title": "Exempel 2 Ansvar i andra hand"
+ },
+ {
+  "id": "exempel-3-krav-på-åtalsmedgivande",
+  "level": 4,
+  "title": "Exempel 3 Krav på åtalsmedgivande"
+ },
+ {
+  "id": "exempel-4-ringa-fall",
+  "level": 4,
+  "title": "Exempel 4 Ringa fall"
+ },
+ {
+  "id": "exempel-5-upplysning-om-ansvar",
+  "level": 4,
+  "title": "Exempel 5 Upplysning om ansvar"
+ },
+ {
+  "id": "exempel-6-försök",
+  "level": 4,
+  "title": "Exempel 6 Försök"
+ },
+ {
+  "id": "exempel-7-medverkan",
+  "level": 4,
+  "title": "Exempel 7 Medverkan"
+ },
+ {
+  "id": "6-4-förverkandebestämmelser",
+  "level": 3,
+  "title": "6.4 Förverkandebestämmelser"
+ },
+ {
+  "id": "exempel-8-2",
+  "level": 4,
+  "title": "Exempel 8"
+ },
+ {
+  "id": "6-5-vitesbestämmelser",
+  "level": 3,
+  "title": "6.5 Vitesbestämmelser"
+ },
+ {
+  "id": "exempel-9-3",
+  "level": 4,
+  "title": "Exempel 9"
+ },
+ {
+  "id": "exempel-10-3",
+  "level": 4,
+  "title": "Exempel 10"
+ },
+ {
+  "id": "exempel-11-3",
+  "level": 4,
+  "title": "Exempel 11"
+ },
+ {
+  "id": "6-6-bestämmelser-om-tystnadsplikt",
+  "level": 3,
+  "title": "6.6 Bestämmelser om tystnadsplikt"
+ },
+ {
+  "id": "exempel-12-2",
+  "level": 4,
+  "title": "Exempel 12"
+ },
+ {
+  "id": "exempel-13-2",
+  "level": 4,
+  "title": "Exempel 13"
+ },
+ {
+  "id": "7-överklagandebestämmelser",
+  "level": 2,
+  "title": "7 Överklagandebestämmelser"
+ },
+ {
+  "id": "7-1-allmänt-om-överklagande",
+  "level": 3,
+  "title": "7.1 Allmänt om överklagande"
+ },
+ {
+  "id": "7-2-överklagandebestämmelser",
+  "level": 3,
+  "title": "7.2 Överklagandebestämmelser"
+ },
+ {
+  "id": "exempel-1-överklagande-till-domstol",
+  "level": 4,
+  "title": "Exempel 1 Överklagande till domstol"
+ },
+ {
+  "id": "exempel-2-förbud-mot-att-överklaga",
+  "level": 4,
+  "title": "Exempel 2 Förbud mot att överklaga"
+ },
+ {
+  "id": "exempel-3-utvidgning-av-den-krets-som-får-överklaga",
+  "level": 4,
+  "title": "Exempel 3 Utvidgning av den krets som får överklaga"
+ },
+ {
+  "id": "exempel-4-hänvisning-i-förordning-till-förvaltningslagen",
+  "level": 4,
+  "title": "Exempel 4 Hänvisning i förordning till förvaltningslagen"
+ },
+ {
+  "id": "exempel-5-överklagande-till-en-annan-myndighet-än-domstol",
+  "level": 4,
+  "title": "Exempel 5 Överklagande till en annan myndighet än domstol"
+ },
+ {
+  "id": "7-3-när-blir-beslut-gällande",
+  "level": 3,
+  "title": "7.3 När blir beslut gällande?"
+ },
+ {
+  "id": "exempel-6-besluts-giltighet",
+  "level": 4,
+  "title": "Exempel 6 Besluts giltighet"
+ },
+ {
+  "id": "8-normgivningsbemyndiganden-upplysningsbestämmelser-och-förv",
+  "level": 2,
+  "title": "8 Normgivningsbemyndiganden, upplysningsbestämmelser och förvaltningsbeslut"
+ },
+ {
+  "id": "8-1-tydliga-och-enhetliga-formuleringar-klargör-skillnaden",
+  "level": 3,
+  "title": "8.1 Tydliga och enhetliga formuleringar klargör skillnaden"
+ },
+ {
+  "id": "8-2-normgivningsbemyndiganden",
+  "level": 3,
+  "title": "8.2 Normgivningsbemyndiganden"
+ },
+ {
+  "id": "exempel-1-bemyndiganden-i-lag",
+  "level": 4,
+  "title": "Exempel 1 Bemyndiganden i lag"
+ },
+ {
+  "id": "exempel-2-bemyndiganden-i-förordning",
+  "level": 4,
+  "title": "Exempel 2 Bemyndiganden i förordning"
+ },
+ {
+  "id": "exempel-3-3",
+  "level": 4,
+  "title": "Exempel 3"
+ },
+ {
+  "id": "med-stöd-av-lagen",
+  "level": 4,
+  "title": "”med stöd av lagen”"
+ },
+ {
+  "id": "8-3-upplysningsbestämmelser",
+  "level": 3,
+  "title": "8.3 Upplysningsbestämmelser"
+ },
+ {
+  "id": "exempel-4-3",
+  "level": 4,
+  "title": "Exempel 4"
+ },
+ {
+  "id": "8-4-förvaltningsbeslut",
+  "level": 3,
+  "title": "8.4 Förvaltningsbeslut"
+ },
+ {
+  "id": "exempel-5-befogenheter-som-ges-i-lag",
+  "level": 4,
+  "title": "Exempel 5 Befogenheter som ges i lag"
+ },
+ {
+  "id": "exempel-6-befogenheter-som-ges-i-förordning",
+  "level": 4,
+  "title": "Exempel 6 Befogenheter som ges i förordning"
+ },
+ {
+  "id": "9-transumering",
+  "level": 2,
+  "title": "9 Transumering"
+ },
+ {
+  "id": "exempel-1-förordning",
+  "level": 4,
+  "title": "Exempel 1 Förordning"
+ },
+ {
+  "id": "författningssamlingar-för-centrala-myndigheter",
+  "level": 4,
+  "title": "Författningssamlingar för centrala myndigheter"
+ },
+ {
+  "id": "10-ikraftträdandebestämmelser",
+  "level": 2,
+  "title": "10 Ikraftträdandebestämmelser"
+ },
+ {
+  "id": "10-1-en-särskild-ikraftträdandebestämmelse",
+  "level": 3,
+  "title": "10.1 En särskild ikraftträdandebestämmelse"
+ },
+ {
+  "id": "10-2-ikraftträdande-som-framgår-av-författningstexten",
+  "level": 3,
+  "title": "10.2 Ikraftträdande som framgår av författningstexten"
+ },
+ {
+  "id": "10-3-författningar-om-upphävande",
+  "level": 3,
+  "title": "10.3 Författningar om upphävande"
+ },
+ {
+  "id": "10-4-ändring-i-en-ändringsförfattning",
+  "level": 3,
+  "title": "10.4 Ändring i en ändringsförfattning"
+ },
+ {
+  "id": "10-5-promulgationslag",
+  "level": 3,
+  "title": "10.5 Promulgationslag"
+ },
+ {
+  "id": "10-6-ikraftträdandedag",
+  "level": 3,
+  "title": "10.6 Ikraftträdandedag"
+ },
+ {
+  "id": "10-7-ikraftträdande-efter-regeringens-bestämmande",
+  "level": 3,
+  "title": "10.7 Ikraftträdande efter regeringens bestämmande"
+ },
+ {
+  "id": "10-8-åtgärder-före-ikraftträdandet",
+  "level": 3,
+  "title": "10.8 Åtgärder före ikraftträdandet"
+ },
+ {
+  "id": "10-9-exempel-på-ikraftträdandebestämmelser",
+  "level": 3,
+  "title": "10.9 Exempel på ikraftträdandebestämmelser"
+ },
+ {
+  "id": "exempel-1-normalfall",
+  "level": 4,
+  "title": "Exempel 1 Normalfall"
+ },
+ {
+  "id": "exempel-2-ikraftträdande-genom-en-särskild-promulgationslag",
+  "level": 4,
+  "title": "Exempel 2 Ikraftträdande genom en särskild promulgationslag"
+ },
+ {
+  "id": "exempel-3-olika-ikraftträdandedagar",
+  "level": 4,
+  "title": "Exempel 3 Olika ikraftträdandedagar"
+ },
+ {
+  "id": "exempel-4-ikraftträdande-och-uppgift-om-tillämpning-första-g",
+  "level": 4,
+  "title": "Exempel 4 Ikraftträdande och uppgift om tillämpning första gången"
+ },
+ {
+  "id": "exempel-5-ikraftträdande-och-uppgift-om-tillämplighet-innan-",
+  "level": 4,
+  "title": "Exempel 5 Ikraftträdande och uppgift om tillämplighet innan dess"
+ },
+ {
+  "id": "exempel-6-ikraftträdande-och-inskränkning-i-tillämpningen",
+  "level": 4,
+  "title": "Exempel 6 Ikraftträdande och inskränkning i tillämpningen"
+ },
+ {
+  "id": "exempel-7-ikraftträdande-efter-regeringens-bestämmande",
+  "level": 4,
+  "title": "Exempel 7 Ikraftträdande efter regeringens bestämmande"
+ },
+ {
+  "id": "exempel-8-ikraftträdandeförordning",
+  "level": 4,
+  "title": "Exempel 8 Ikraftträdandeförordning"
+ },
+ {
+  "id": "exempel-9-ikraftträdande-och-tidsbegränsad-giltighet",
+  "level": 4,
+  "title": "Exempel 9 Ikraftträdande och tidsbegränsad giltighet"
+ },
+ {
+  "id": "11-hur-författningar-upphävs",
+  "level": 2,
+  "title": "11 Hur författningar upphävs"
+ },
+ {
+  "id": "11-1-en-författning-som-inte-längre-ska-gälla-måste-normalt-",
+  "level": 3,
+  "title": "11.1 En författning som inte längre ska gälla måste normalt upphävas"
+ },
+ {
+  "id": "11-2-olika-metoder-att-upphäva-en-författning",
+  "level": 3,
+  "title": "11.2 Olika metoder att upphäva en författning"
+ },
+ {
+  "id": "11-3-exempel-på-hur-man-upphäver-författningar",
+  "level": 3,
+  "title": "11.3 Exempel på hur man upphäver författningar"
+ },
+ {
+  "id": "exempel-1-upphävande-av-författningar",
+  "level": 4,
+  "title": "Exempel 1 Upphävande av författningar"
+ },
+ {
+  "id": "11-4-tillkännagivanden",
+  "level": 3,
+  "title": "11.4 Tillkännagivanden"
+ },
+ {
+  "id": "exempel-2-tillkännagivande-som-ska-ersättas",
+  "level": 4,
+  "title": "Exempel 2 Tillkännagivande som ska ersättas"
+ },
+ {
+  "id": "exempel-3-tillkännagivande-som-ska-utgå",
+  "level": 4,
+  "title": "Exempel 3 Tillkännagivande som ska utgå"
+ },
+ {
+  "id": "12-övergångsbestämmelser",
+  "level": 2,
+  "title": "12 Övergångsbestämmelser"
+ },
+ {
+  "id": "12-1-övergångsbestämmelsers-placering-och-struktur",
+  "level": 3,
+  "title": "12.1 Övergångsbestämmelsers placering och struktur"
+ },
+ {
+  "id": "12-2-trolleribestämmelser-och-andra-delvis-liknande-bestämme",
+  "level": 3,
+  "title": "12.2 Trolleribestämmelser och andra delvis liknande bestämmelser"
+ },
+ {
+  "id": "12-3-handläggningsordning-för-vissa-ärenden",
+  "level": 3,
+  "title": "12.3 Handläggningsordning för vissa ärenden"
+ },
+ {
+  "id": "12-4-exempel-på-övergångsbestämmelser",
+  "level": 3,
+  "title": "12.4 Exempel på övergångsbestämmelser"
+ },
+ {
+  "id": "exempel-1-fortsatt-giltighet-av-äldre-föreskrifter",
+  "level": 4,
+  "title": "Exempel 1 Fortsatt giltighet av äldre föreskrifter"
+ },
+ {
+  "id": "exempel-2-tillstånd-och-behörighet",
+  "level": 4,
+  "title": "Exempel 2 Tillstånd och behörighet"
+ },
+ {
+  "id": "exempel-3-dispens",
+  "level": 4,
+  "title": "Exempel 3 Dispens"
+ },
+ {
+  "id": "exempel-4-handläggningsordning-för-vissa-ärenden",
+  "level": 4,
+  "title": "Exempel 4 Handläggningsordning för vissa ärenden"
+ },
+ {
+  "id": "exempel-5-fortsatt-ledamotskap",
+  "level": 4,
+  "title": "Exempel 5 Fortsatt ledamotskap"
+ },
+ {
+  "id": "exempel-6-avvikelse-från-en-författning-under-ett-övergångss",
+  "level": 4,
+  "title": "Exempel 6 Avvikelse från en författning under ett övergångsskede"
+ },
+ {
+  "id": "13-omtryck-av-författningar",
+  "level": 2,
+  "title": "13 Omtryck av författningar"
+ },
+ {
+  "id": "13-1-att-tänka-på-vid-omtryck",
+  "level": 3,
+  "title": "13.1 Att tänka på vid omtryck"
+ },
+ {
+  "id": "13-2-omtryck-i-samband-med-ändringsförfattningar",
+  "level": 3,
+  "title": "13.2 Omtryck i samband med ändringsförfattningar"
+ },
+ {
+  "id": "exempel-1-3",
+  "level": 4,
+  "title": "Exempel 1"
+ },
+ {
+  "id": "exempel-2-3",
+  "level": 4,
+  "title": "Exempel 2"
+ },
+ {
+  "id": "exempel-3-4",
+  "level": 4,
+  "title": "Exempel 3"
+ },
+ {
+  "id": "13-3-fristående-omtryck",
+  "level": 3,
+  "title": "13.3 Fristående omtryck"
+ },
+ {
+  "id": "13-4-den-typografiska-utformningen",
+  "level": 3,
+  "title": "13.4 Den typografiska utformningen"
+ },
+ {
+  "id": "exempel-4-omtryck-i-samband-med-en-författningsändring-föror",
+  "level": 4,
+  "title": "Exempel 4 Omtryck i samband med en författningsändring Förordning SFS 2012:000"
+ },
+ {
+  "id": "exempel-5-fristående-omtryck-kommunallag-1991-900-1-sfs-2004",
+  "level": 4,
+  "title": "Exempel 5 Fristående omtryck Kommunallag (1991:900)1; SFS 2004:93"
+ },
+ {
+  "id": "1-kap-indelning-medlemskap",
+  "level": 4,
+  "title": "1 kap. Indelning, medlemskap"
+ },
+ {
+  "id": "14-noter",
+  "level": 2,
+  "title": "14 Noter"
+ },
+ {
+  "id": "14-1-noter-när-en-författning-inte-trycks-om",
+  "level": 3,
+  "title": "14.1 Noter när en författning inte trycks om"
+ },
+ {
+  "id": "exempel-1-förordning-2",
+  "level": 4,
+  "title": "Exempel 1 Förordning"
+ },
+ {
+  "id": "exempel-2-4",
+  "level": 4,
+  "title": "Exempel 2"
+ },
+ {
+  "id": "exempel-3-5",
+  "level": 4,
+  "title": "Exempel 3"
+ },
+ {
+  "id": "exempel-4-4",
+  "level": 4,
+  "title": "Exempel 4"
+ },
+ {
+  "id": "exempel-5-2",
+  "level": 4,
+  "title": "Exempel 5"
+ },
+ {
+  "id": "exempel-6-när-direktivet-inte-är-ändrat",
+  "level": 4,
+  "title": "Exempel 6 När direktivet inte är ändrat"
+ },
+ {
+  "id": "exempel-7-när-direktivet-har-ändrats-en-eller-flera-gånger",
+  "level": 4,
+  "title": "Exempel 7 När direktivet har ändrats en eller flera gånger"
+ },
+ {
+  "id": "exempel-8-när-tekniska-regler-kungörs",
+  "level": 4,
+  "title": "Exempel 8 När tekniska regler kungörs"
+ },
+ {
+  "id": "exempel-9-när-tekniska-regler-kungörs-och-man-samtidigt-geno",
+  "level": 4,
+  "title": "Exempel 9 När tekniska regler kungörs och man samtidigt genomför ett direktiv"
+ },
+ {
+  "id": "exempel-10-4",
+  "level": 4,
+  "title": "Exempel 10"
+ },
+ {
+  "id": "tidsbegränsad-författning",
+  "level": 4,
+  "title": "tidsbegränsad författning"
+ },
+ {
+  "id": "exempel-11-4",
+  "level": 4,
+  "title": "Exempel 11"
+ },
+ {
+  "id": "exempel-12-3",
+  "level": 4,
+  "title": "Exempel 12"
+ },
+ {
+  "id": "exempel-13-3",
+  "level": 4,
+  "title": "Exempel 13"
+ },
+ {
+  "id": "exempel-14-2",
+  "level": 4,
+  "title": "Exempel 14"
+ },
+ {
+  "id": "exempel-15-2",
+  "level": 4,
+  "title": "Exempel 15"
+ },
+ {
+  "id": "exempel-16",
+  "level": 4,
+  "title": "Exempel 16"
+ },
+ {
+  "id": "exempel-17",
+  "level": 4,
+  "title": "Exempel 17"
+ },
+ {
+  "id": "exempel-18",
+  "level": 4,
+  "title": "Exempel 18"
+ },
+ {
+  "id": "exempel-19",
+  "level": 4,
+  "title": "Exempel 19"
+ },
+ {
+  "id": "exempel-20",
+  "level": 4,
+  "title": "Exempel 20"
+ },
+ {
+  "id": "exempel-21",
+  "level": 4,
+  "title": "Exempel 21"
+ },
+ {
+  "id": "exempel-22",
+  "level": 4,
+  "title": "Exempel 22"
+ },
+ {
+  "id": "exempel-23",
+  "level": 4,
+  "title": "Exempel 23"
+ },
+ {
+  "id": "exempel-24",
+  "level": 4,
+  "title": "Exempel 24"
+ },
+ {
+  "id": "exempel-25",
+  "level": 4,
+  "title": "Exempel 25"
+ },
+ {
+  "id": "14-2-noter-när-en-författning-trycks-om",
+  "level": 3,
+  "title": "14.2 Noter när en författning trycks om"
+ },
+ {
+  "id": "och-övergångsbestämmelser",
+  "level": 4,
+  "title": "och övergångsbestämmelser"
+ },
+ {
+  "id": "exempel-26",
+  "level": 4,
+  "title": "Exempel 26"
+ },
+ {
+  "id": "15-bilagor",
+  "level": 2,
+  "title": "15 Bilagor"
+ },
+ {
+  "id": "16-underskrifter",
+  "level": 2,
+  "title": "16 Underskrifter"
+ },
+ {
+  "id": "16-1-huvudregler-om-vem-som-skriver-under-författningar",
+  "level": 3,
+  "title": "16.1 Huvudregler om vem som skriver under författningar"
+ },
+ {
+  "id": "16-2-vem-som-skriver-under-när-ordföranden-har-förhinder",
+  "level": 3,
+  "title": "16.2 Vem som skriver under när ordföranden har förhinder"
+ },
+ {
+  "id": "16-3-vem-som-skriver-under-när-ordföranden-är-föredragande",
+  "level": 3,
+  "title": "16.3 Vem som skriver under när ordföranden är föredragande"
+ },
+ {
+  "id": "16-4-vem-som-skriver-under-när-den-som-varit-föredragande-ha",
+  "level": 3,
+  "title": "16.4 Vem som skriver under när den som varit föredragande har förhinder"
+ },
+ {
+  "id": "16-5-underskrifternas-placering",
+  "level": 3,
+  "title": "16.5 Underskrifternas placering"
+ },
+ {
+  "id": "16-6-framställning-av-underskriftsexemplar",
+  "level": 3,
+  "title": "16.6 Framställning av underskriftsexemplar"
+ },
+ {
+  "id": "16-7-exempel-på-underskrifter",
+  "level": 3,
+  "title": "16.7 Exempel på underskrifter"
+ },
+ {
+  "id": "exempel-1-ny-lag-grundförfattning",
+  "level": 4,
+  "title": "Exempel 1 Ny lag (grundförfattning)"
+ },
+ {
+  "id": "exempel-2-lag-om-ändring-i-lag",
+  "level": 4,
+  "title": "Exempel 2 Lag om ändring i lag"
+ },
+ {
+  "id": "g",
+  "level": 2,
+  "title": "G"
+ }
+]

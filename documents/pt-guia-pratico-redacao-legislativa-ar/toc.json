@@ -1,0 +1,522 @@
+[
+ {
+  "id": "guia-de-legística-para-a-elaboração-de-atos-normativos",
+  "level": 2,
+  "title": "GUIA DE LEGÍSTICA PARA A ELABORAÇÃO DE ATOS NORMATIVOS"
+ },
+ {
+  "id": "lisboa-2020",
+  "level": 3,
+  "title": "LISBOA 2020"
+ },
+ {
+  "id": "guia-de-legística-para-a-elaboração-de-atos-normativos-2",
+  "level": 2,
+  "title": "GUIA DE LEGÍSTICA PARA A ELABORAÇÃO DE ATOS NORMATIVOS"
+ },
+ {
+  "id": "lisboa-2020-2",
+  "level": 3,
+  "title": "LISBOA 2020"
+ },
+ {
+  "id": "da-assembleia-da-república",
+  "level": 5,
+  "title": "da Assembleia da República"
+ },
+ {
+  "id": "índice-geral",
+  "level": 3,
+  "title": "ÍNDICE GERAL"
+ },
+ {
+  "id": "enquadramento-geral",
+  "level": 2,
+  "title": "ENQUADRAMENTO GERAL"
+ },
+ {
+  "id": "a-competência-legislativa",
+  "level": 3,
+  "title": "A COMPETÊNCIA LEGISLATIVA"
+ },
+ {
+  "id": "âmbito-da-legística-material",
+  "level": 3,
+  "title": "ÂMBITO DA LEGÍSTICA MATERIAL"
+ },
+ {
+  "id": "situação-atual",
+  "level": 2,
+  "title": "SITUAÇÃO ATUAL"
+ },
+ {
+  "id": "legística-material",
+  "level": 3,
+  "title": "LEGÍSTICA MATERIAL"
+ },
+ {
+  "id": "legística-formal",
+  "level": 3,
+  "title": "LEGÍSTICA FORMAL"
+ },
+ {
+  "id": "redação-de-atos-normativos",
+  "level": 3,
+  "title": "Redação de atos normativos"
+ },
+ {
+  "id": "republicações",
+  "level": 3,
+  "title": "Republicações"
+ },
+ {
+  "id": "guia-prático-para-a-elaboração-de-atos-normativos-da-assembl",
+  "level": 2,
+  "title": "GUIA PRÁTICO PARA A ELABORAÇÃO DE ATOS NORMATIVOS DA ASSEMBLEIA DA REPÚBLICA"
+ },
+ {
+  "id": "3-1-legística-material",
+  "level": 3,
+  "title": "3.1. LEGÍSTICA MATERIAL"
+ },
+ {
+  "id": "3-1-1-regras-aplicáveis-à-elaboração-de-projetos-de-lei",
+  "level": 3,
+  "title": "3.1.1. Regras aplicáveis à elaboração de projetos de lei"
+ },
+ {
+  "id": "definição-do-problema-e-avaliação-do-seu-âmbito-material",
+  "level": 4,
+  "title": "Definição do problema e avaliação do seu âmbito material"
+ },
+ {
+  "id": "verificação-do-quadro-normativo-superior",
+  "level": 4,
+  "title": "Verificação do quadro normativo superior"
+ },
+ {
+  "id": "determinação-de-objetivos-a-atingir",
+  "level": 4,
+  "title": "Determinação de objetivos a atingir"
+ },
+ {
+  "id": "alternativas-à-intervenção-normativa",
+  "level": 4,
+  "title": "Alternativas à intervenção normativa"
+ },
+ {
+  "id": "recolha-e-análise-de-informação",
+  "level": 4,
+  "title": "Recolha e análise de informação"
+ },
+ {
+  "id": "ponderação-de-alternativas-legislativas-e-adoção-da-solução-",
+  "level": 4,
+  "title": "Ponderação de alternativas legislativas e adoção da solução que melhor se adeque ao problema"
+ },
+ {
+  "id": "organização-dos-meios-humanos-envolvidos",
+  "level": 4,
+  "title": "Organização dos meios humanos envolvidos"
+ },
+ {
+  "id": "realização-de-estudos-de-impacto-normativo-nomeadamente-de-i",
+  "level": 4,
+  "title": "Realização de estudos de impacto normativo (nomeadamente de impacto de género)"
+ },
+ {
+  "id": "redação-do-texto-normativo",
+  "level": 4,
+  "title": "Redação do texto normativo"
+ },
+ {
+  "id": "realização-de-audições",
+  "level": 4,
+  "title": "Realização de audições"
+ },
+ {
+  "id": "redação-dos-textos-não-normativos",
+  "level": 4,
+  "title": "Redação dos textos não normativos"
+ },
+ {
+  "id": "realização-do-autocontrolo-da-constitucionalidade",
+  "level": 4,
+  "title": "Realização do autocontrolo da constitucionalidade"
+ },
+ {
+  "id": "realização-do-autocontrolo-da-legalidade",
+  "level": 4,
+  "title": "Realização do autocontrolo da legalidade"
+ },
+ {
+  "id": "3-1-2-regras-aplicáveis-à-elaboração-de-atos-normativos",
+  "level": 3,
+  "title": "3.1.2. Regras aplicáveis à elaboração de atos normativos"
+ },
+ {
+  "id": "definição-do-problema-e-avaliação-do-seu-âmbito-material-2",
+  "level": 4,
+  "title": "Definição do problema e avaliação do seu âmbito material"
+ },
+ {
+  "id": "verificação-do-quadro-normativo-superior-2",
+  "level": 4,
+  "title": "Verificação do quadro normativo superior"
+ },
+ {
+  "id": "determinação-de-objetivos-a-atingir-2",
+  "level": 4,
+  "title": "Determinação de objetivos a atingir"
+ },
+ {
+  "id": "alternativas-à-intervenção-normativa-2",
+  "level": 4,
+  "title": "Alternativas à intervenção normativa"
+ },
+ {
+  "id": "recolha-e-análise-de-informação-2",
+  "level": 4,
+  "title": "Recolha e análise de informação"
+ },
+ {
+  "id": "ponderação-de-alternativas-legislativas-e-adoção-da-solução--2",
+  "level": 4,
+  "title": "Ponderação de alternativas legislativas e adoção da solução que melhor se adeque ao problema"
+ },
+ {
+  "id": "organização-dos-meios-humanos-envolvidos-2",
+  "level": 4,
+  "title": "Organização dos meios humanos envolvidos"
+ },
+ {
+  "id": "realização-de-estudos-de-impacto-normativo",
+  "level": 4,
+  "title": "Realização de estudos de impacto normativo"
+ },
+ {
+  "id": "redação-do-texto-normativo-2",
+  "level": 4,
+  "title": "Redação do texto normativo"
+ },
+ {
+  "id": "realização-de-audições-2",
+  "level": 4,
+  "title": "Realização de audições"
+ },
+ {
+  "id": "redação-dos-textos-não-normativos-do-ato",
+  "level": 4,
+  "title": "Redação dos textos não normativos do ato"
+ },
+ {
+  "id": "realização-do-autocontrolo-da-constitucionalidade-2",
+  "level": 4,
+  "title": "Realização do autocontrolo da constitucionalidade"
+ },
+ {
+  "id": "realização-do-autocontrolo-da-legalidade-2",
+  "level": 4,
+  "title": "Realização do autocontrolo da legalidade"
+ },
+ {
+  "id": "3-2-legística-formal",
+  "level": 3,
+  "title": "3.2. LEGÍSTICA FORMAL"
+ },
+ {
+  "id": "3-2-1-regras-do-discurso-e-da-linguagem-na-elaboração-de-tex",
+  "level": 3,
+  "title": "3.2.1. Regras do discurso e da linguagem na elaboração de textos normativos"
+ },
+ {
+  "id": "questões-prévias-a-observar-na-redação-de-textos-normativos",
+  "level": 5,
+  "title": "QUESTÕES PRÉVIAS A OBSERVAR NA REDAÇÃO DE TEXTOS NORMATIVOS"
+ },
+ {
+  "id": "clareza-no-discurso",
+  "level": 4,
+  "title": "Clareza no discurso"
+ },
+ {
+  "id": "padrão-da-língua",
+  "level": 4,
+  "title": "Padrão da língua"
+ },
+ {
+  "id": "uniformidade-de-conceitos",
+  "level": 4,
+  "title": "Uniformidade de conceitos"
+ },
+ {
+  "id": "conceitos-técnicos-e-científicos",
+  "level": 4,
+  "title": "Conceitos técnicos e científicos"
+ },
+ {
+  "id": "expressões-em-idiomas-estrangeiros",
+  "level": 4,
+  "title": "Expressões em idiomas estrangeiros"
+ },
+ {
+  "id": "construção-sintática-de-textos-normativos",
+  "level": 5,
+  "title": "CONSTRUÇÃO SINTÁTICA DE TEXTOS NORMATIVOS"
+ },
+ {
+  "id": "linguagem-não-discriminatória",
+  "level": 4,
+  "title": "Linguagem não discriminatória"
+ },
+ {
+  "id": "orações-e-períodos",
+  "level": 4,
+  "title": "Orações e períodos"
+ },
+ {
+  "id": "tempos-verbais",
+  "level": 4,
+  "title": "Tempos verbais"
+ },
+ {
+  "id": "utilização-de-substantivos",
+  "level": 4,
+  "title": "Utilização de substantivos"
+ },
+ {
+  "id": "utilização-de-adjetivos",
+  "level": 4,
+  "title": "Utilização de adjetivos"
+ },
+ {
+  "id": "utilização-de-advérbios",
+  "level": 4,
+  "title": "Utilização de advérbios"
+ },
+ {
+  "id": "figuras-de-sintaxe",
+  "level": 4,
+  "title": "Figuras de sintaxe"
+ },
+ {
+  "id": "formas-de-redação-e-casos-especiais-de-símbolos-linguísticos",
+  "level": 5,
+  "title": "FORMAS DE REDAÇÃO E CASOS ESPECIAIS DE SÍMBOLOS LINGUÍSTICOS"
+ },
+ {
+  "id": "maiúsculas-e-minúsculas",
+  "level": 4,
+  "title": "Maiúsculas e minúsculas"
+ },
+ {
+  "id": "abreviaturas",
+  "level": 4,
+  "title": "Abreviaturas"
+ },
+ {
+  "id": "siglas-e-acrónimos",
+  "level": 4,
+  "title": "Siglas e acrónimos"
+ },
+ {
+  "id": "numerais-cardinais-ordinais-e-numeração-romana",
+  "level": 4,
+  "title": "Numerais (cardinais, ordinais e numeração romana)"
+ },
+ {
+  "id": "fórmulas-científicas",
+  "level": 4,
+  "title": "Fórmulas científicas"
+ },
+ {
+  "id": "pontuação-e-organização-da-redação-de-textos-normativos",
+  "level": 5,
+  "title": "PONTUAÇÃO E ORGANIZAÇÃO DA REDAÇÃO DE TEXTOS NORMATIVOS"
+ },
+ {
+  "id": "vírgula",
+  "level": 4,
+  "title": "Vírgula"
+ },
+ {
+  "id": "ponto-e-vírgula",
+  "level": 4,
+  "title": "Ponto e vírgula"
+ },
+ {
+  "id": "outros-sinais-de-pontuação-dois-pontos-ponto-de-interrogação",
+  "level": 4,
+  "title": "Outros sinais de pontuação (dois pontos, ponto de interrogação, ponto de exclamação e reticências)"
+ },
+ {
+  "id": "negritos-itálicos-e-aspas",
+  "level": 4,
+  "title": "Negritos, itálicos e aspas"
+ },
+ {
+  "id": "parênteses-curvos-e-retos-e-travessões",
+  "level": 4,
+  "title": "Parênteses (curvos e retos) e travessões"
+ },
+ {
+  "id": "barra",
+  "level": 4,
+  "title": "Barra (/)"
+ },
+ {
+  "id": "hífen",
+  "level": 4,
+  "title": "Hífen"
+ },
+ {
+  "id": "3-2-2-redação-do-ato-normativo",
+  "level": 3,
+  "title": "3.2.2. REDAÇÃO DO ATO NORMATIVO"
+ },
+ {
+  "id": "organização-sistemática",
+  "level": 5,
+  "title": "ORGANIZAÇÃO SISTEMÁTICA"
+ },
+ {
+  "id": "divisões-sistemáticas",
+  "level": 4,
+  "title": "Divisões sistemáticas"
+ },
+ {
+  "id": "denominações-das-divisões-sistemáticas",
+  "level": 4,
+  "title": "Denominações das divisões sistemáticas"
+ },
+ {
+  "id": "anexos",
+  "level": 4,
+  "title": "Anexos"
+ },
+ {
+  "id": "republicações-2",
+  "level": 4,
+  "title": "Republicações"
+ },
+ {
+  "id": "redação-de-textos-não-normativos-do-ato",
+  "level": 5,
+  "title": "REDAÇÃO DE TEXTOS NÃO NORMATIVOS DO ATO"
+ },
+ {
+  "id": "títulos",
+  "level": 4,
+  "title": "Títulos"
+ },
+ {
+  "id": "preâmbulos-e-justificações-ou-exposições-de-motivos",
+  "level": 4,
+  "title": "Preâmbulos e justificações ou exposições de motivos"
+ },
+ {
+  "id": "menções-formulárias-iniciais-e-finais",
+  "level": 4,
+  "title": "Menções formulárias iniciais e finais"
+ },
+ {
+  "id": "epígrafes",
+  "level": 4,
+  "title": "Epígrafes"
+ },
+ {
+  "id": "formulação-e-redação-de-artigos",
+  "level": 5,
+  "title": "FORMULAÇÃO E REDAÇÃO DE ARTIGOS"
+ },
+ {
+  "id": "organização-do-ato-normativo-em-artigos",
+  "level": 4,
+  "title": "Organização do ato normativo em artigos"
+ },
+ {
+  "id": "divisão-em-números",
+  "level": 4,
+  "title": "Divisão em números"
+ },
+ {
+  "id": "proémios-e-alíneas",
+  "level": 4,
+  "title": "Proémios e alíneas"
+ },
+ {
+  "id": "subdivisão-de-alíneas",
+  "level": 4,
+  "title": "Subdivisão de alíneas"
+ },
+ {
+  "id": "ordenação-e-sequência-de-artigos",
+  "level": 4,
+  "title": "Ordenação e sequência de artigos"
+ },
+ {
+  "id": "casos-especiais-de-textos-não-redigidos-de-forma-articulada",
+  "level": 4,
+  "title": "Casos especiais de textos não redigidos de forma articulada"
+ },
+ {
+  "id": "redação-de-enunciados-com-características-específicas",
+  "level": 5,
+  "title": "REDAÇÃO DE ENUNCIADOS COM CARACTERÍSTICAS ESPECÍFICAS"
+ },
+ {
+  "id": "princípios",
+  "level": 4,
+  "title": "Princípios"
+ },
+ {
+  "id": "alterações-aditamentos-suspensões-e-revogações",
+  "level": 4,
+  "title": "Alterações, aditamentos, suspensões e revogações"
+ },
+ {
+  "id": "section",
+  "level": 4,
+  "title": ""
+ },
+ {
+  "id": "definições",
+  "level": 4,
+  "title": "Definições"
+ },
+ {
+  "id": "remissões",
+  "level": 4,
+  "title": "Remissões"
+ },
+ {
+  "id": "textos-de-normas-de-regulação-posterior",
+  "level": 4,
+  "title": "Textos de normas de regulação posterior"
+ },
+ {
+  "id": "disposições-complementares-transitórias-e-finais",
+  "level": 4,
+  "title": "Disposições complementares, transitórias e finais"
+ },
+ {
+  "id": "no-que-se-refere-às-disposições-complementares",
+  "level": 5,
+  "title": "No que se refere às disposições complementares:"
+ },
+ {
+  "id": "no-que-se-refere-às-disposições-transitórias",
+  "level": 5,
+  "title": "No que se refere às disposições transitórias:"
+ },
+ {
+  "id": "no-que-se-refere-às-disposições-finais",
+  "level": 5,
+  "title": "No que se refere às disposições finais:"
+ },
+ {
+  "id": "retificações",
+  "level": 4,
+  "title": "Retificações"
+ }
+]

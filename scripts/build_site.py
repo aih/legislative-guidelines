@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 """Build the static site into dist/.
 
-Reads data/guidelines.yml, data/retrieval.json and the converted documents in
-documents/<id>/ and writes:
+Reads data/guidelines.yml, data/retrieval.json, data/comparative_matrix.yml and
+the converted documents in documents/<id>/ and writes:
 
-    dist/index.html                    catalog with filters
+    dist/index.html                    landing page: search box and A-Z filterable list
+    dist/compare.html                  cross-jurisdictional comparative matrix
+    dist/auditor.html                  interactive bill drafting compliance auditor (1-10 score)
     dist/guidelines/<id>/index.html    one page per guideline: metadata, contents, full text
     dist/guidelines/<id>/original.*    stored copy of the original document
     dist/search.html                   full-text search (Pagefind index built afterwards)
@@ -23,6 +25,7 @@ import json
 import os
 import shutil
 import sys
+import unicodedata
 from pathlib import Path
 
 import yaml
@@ -53,9 +56,35 @@ STATUS_LABELS = {
 
 LANGUAGE_NAMES = {
     "en": "English", "fr": "French", "de": "German", "it": "Italian", "es": "Spanish", "pt": "Portuguese",
-    "nl": "Dutch", "da": "Danish", "sv": "Swedish", "fi": "Finnish", "pl": "Polish", "cs": "Czech",
+    "nl": "Dutch", "da": "Danish", "sv": "Swedish", "no": "Norwegian", "nb": "Norwegian", "fi": "Finnish",
+    "et": "Estonian", "lv": "Latvian", "lt": "Lithuanian", "pl": "Polish", "cs": "Czech", "sk": "Slovak",
+    "sl": "Slovenian", "hr": "Croatian", "hu": "Hungarian", "ro": "Romanian", "bg": "Bulgarian", "el": "Greek",
+    "ja": "Japanese", "ko": "Korean", "zh": "Chinese", "ms": "Malay", "cy": "Welsh", "ga": "Irish",
+    "ar": "Arabic", "ru": "Russian", "sq": "Albanian", "sr": "Serbian", "ka": "Georgian", "rw": "Kinyarwanda",
     "multilingual": "Multilingual",
 }
+
+COMMON_LAW_CODES = {
+    "GB", "GB-SCT", "GB-WLS", "GB-NIR", "JE", "US", "AU", "NZ", "IE", "PK", "KE", "UG", "NR",
+    "IN", "SG", "HK", "MY", "PH", "NG", "GH", "ZA", "TZ", "RW", "LR", "COMSEC", "CARICOM",
+}
+BIJURAL_CODES = {"CA", "ZA", "PH", "RW", "GB-SCT", "JE"}
+
+
+def infer_tradition(g: dict) -> str:
+    if g.get("legal_tradition"):
+        return g["legal_tradition"]
+    level = g.get("jurisdiction_level", "national")
+    code = g.get("country_code", "")
+    if level == "supranational":
+        return "supranational"
+    if level == "international":
+        return "international"
+    if code == "CA":
+        return "bijural"
+    if code in COMMON_LAW_CODES:
+        return "common_law"
+    return "civil_law"
 
 
 def load() -> list[dict]:
@@ -73,9 +102,22 @@ def load() -> list[dict]:
         g["stored_original"] = originals[0] if originals else None
         g["status_label"] = STATUS_LABELS.get(g.get("currency", {}).get("status", "unverified"), "Unverified")
         g["language_names"] = [LANGUAGE_NAMES.get(code, code) for code in g.get("languages", [])]
-    level_order = {"supranational": 0, "international": 1, "national": 2}
+        g["legal_tradition"] = infer_tradition(g)
+    level_order = {"supranational": 0, "international": 1, "national": 2, "subnational": 3}
     catalog.sort(key=lambda g: (level_order.get(g["jurisdiction_level"], 9), g["jurisdiction"], g["title"]))
     return catalog
+
+
+def load_matrix() -> dict:
+    matrix_path = ROOT / "data" / "comparative_matrix.yml"
+    if matrix_path.exists():
+        return yaml.safe_load(matrix_path.read_text(encoding="utf-8"))
+    return {"jurisdictions": [], "dimensions": []}
+
+
+def sort_key(text: str) -> str:
+    """Accent- and case-insensitive key for alphabetical ordering."""
+    return "".join(c for c in unicodedata.normalize("NFD", text) if not unicodedata.combining(c)).casefold()
 
 
 def write(path: Path, text: str) -> None:
@@ -85,10 +127,10 @@ def write(path: Path, text: str) -> None:
 
 def export_catalog(catalog: list[dict]) -> None:
     fields = [
-        "id", "title", "title_en", "jurisdiction", "jurisdiction_level", "country_code", "region", "issuing_body",
-        "languages", "document_type", "legal_status", "edition", "published", "last_updated", "currency_status",
-        "currency_note", "checked_on", "original_format", "source_url", "landing_url", "license",
-        "retrieved_at", "stored_format", "sha256",
+        "id", "title", "title_en", "jurisdiction", "jurisdiction_level", "legal_tradition", "country_code",
+        "region", "issuing_body", "languages", "document_type", "legal_status", "edition", "published",
+        "last_updated", "currency_status", "currency_note", "checked_on", "original_format", "source_url",
+        "landing_url", "license", "retrieved_at", "stored_format", "sha256",
     ]
     rows = []
     for g in catalog:
@@ -116,6 +158,7 @@ def export_catalog(catalog: list[dict]) -> None:
 
 def main() -> int:
     catalog = load()
+    matrix = load_matrix()
     if DIST.exists():
         shutil.rmtree(DIST)
     DIST.mkdir()
@@ -126,12 +169,14 @@ def main() -> int:
         "site": SITE,
         "built": dt.date.today().isoformat(),
         "catalog": catalog,
+        "matrix": matrix,
         "status_labels": STATUS_LABELS,
     }
 
     facets = {
         "regions": sorted({g["region"] for g in catalog}),
         "levels": sorted({g["jurisdiction_level"] for g in catalog}),
+        "traditions": sorted({g["legal_tradition"] for g in catalog}),
         "statuses": [s for s in STATUS_LABELS if any(g.get("currency", {}).get("status") == s for g in catalog)],
         "languages": sorted({name for g in catalog for name in g["language_names"]}),
     }
@@ -141,9 +186,10 @@ def main() -> int:
         "converted": sum(1 for g in catalog if g["content"]),
         "stored": sum(1 for g in catalog if g["stored_original"]),
     }
-    for name in ["index.html", "search.html", "contribute.html", "about.html", "opensearch.xml"]:
+    catalog_az = sorted(catalog, key=lambda g: (sort_key(g["jurisdiction"]), sort_key(g["title"])))
+    for name in ["index.html", "compare.html", "auditor.html", "search.html", "contribute.html", "about.html", "opensearch.xml"]:
         tpl = env.get_template(name)
-        write(DIST / name, tpl.render(**common, base="", facets=facets, stats=stats, page=name))
+        write(DIST / name, tpl.render(**common, base="", facets=facets, stats=stats, catalog_az=catalog_az, page=name))
 
     tpl = env.get_template("guideline.html")
     for g in catalog:

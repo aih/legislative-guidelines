@@ -37,12 +37,13 @@
     <section id="about-document" class="meta-card" data-pagefind-ignore="all">
       <h2>About this document</h2>
       <div class="actions">
-        {% if stored %}<a class="button" href="{{ stored }}">Download stored original ({{ g.retrieval.format }})</a>{% endif %}
+        <a class="button" href="../../auditor.html?guideline={{ g.id }}">Audit a Bill Against This Guideline</a>
+        {% if stored %}<a class="button button-outline" href="{{ stored }}">Download stored original ({{ g.retrieval.format }})</a>{% endif %}
         {% if g.source_url %}<a class="button button-outline" href="{{ g.source_url }}">Official source</a>{% endif %}
         {% if g.html_edition_url %}<a class="button button-outline" href="{{ g.html_edition_url }}">HTML edition</a>{% endif %}
       </div>
       <dl class="meta">
-        <dt>Jurisdiction</dt><dd>{{ g.jurisdiction }} ({{ g.jurisdiction_level }})</dd>
+        <dt>Jurisdiction</dt><dd>{{ g.jurisdiction }} ({{ g.jurisdiction_level }} · {{ g.legal_tradition|replace('_', ' ') }})</dd>
         <dt>Issuing body</dt><dd>{{ g.issuing_body }}</dd>
         <dt>Document type</dt><dd>{{ g.document_type|capitalize }}</dd>
         <dt>Legal status</dt><dd>{{ g.legal_status or '—' }}</dd>
@@ -62,6 +63,15 @@
           <span class="mono" title="SHA-256">{{ g.retrieval.sha256[:16] }}…</span>
           {% else %}Not yet retrieved{% endif %}</dd>
         <dt>Licence / reuse</dt><dd>{{ g.license or 'Unspecified' }}</dd>
+        {% if g.topics %}<dt>Topics</dt><dd>{{ g.topics|join(', ') }}</dd>{% endif %}
+        {% if g.key_principles %}
+        <dt>Key drafting rules</dt>
+        <dd>
+          <ul class="principles-list">
+            {% for p in g.key_principles %}<li>{{ p }}</li>{% endfor %}
+          </ul>
+        </dd>
+        {% endif %}
         {% if g.notes %}<dt>Notes</dt><dd>{{ g.notes }}</dd>{% endif %}
       </dl>
     </section>
