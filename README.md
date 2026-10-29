@@ -79,7 +79,8 @@ git add data/retrieval.json documents/<id>/content.html documents/<id>/toc.json
 `fetch.py` records an error instead of saving the response when the server returns anything other than HTTP 200,
 a body under 2 KB, or an HTML page where the catalog's `original_format` is PDF or Word. These are usually block
 pages, bot challenges, login pages or landing pages that a moved document redirects to. When a site blocks automated
-downloads, save the document by hand as `documents/<id>/original.<ext>` and run `convert.py <id>`.
+downloads, save the document in a browser and import it with `fetch.py <id> --file <path>`; see
+[`research/manual-downloads.md`](research/manual-downloads.md) for the current list and procedure.
 
 `tests/test_documents.py` fails for any converted document under 1,000 words or whose opening text matches a block
 or login page.
