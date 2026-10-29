@@ -4,7 +4,7 @@
 Reads data/guidelines.yml, data/retrieval.json and the converted documents in
 documents/<id>/ and writes:
 
-    dist/index.html                    catalog with filters
+    dist/index.html                    landing page: search box and A-Z filterable list
     dist/guidelines/<id>/index.html    one page per guideline: metadata, contents, full text
     dist/guidelines/<id>/original.*    stored copy of the original document
     dist/search.html                   full-text search (Pagefind index built afterwards)
@@ -23,6 +23,7 @@ import json
 import os
 import shutil
 import sys
+import unicodedata
 from pathlib import Path
 
 import yaml
@@ -76,6 +77,11 @@ def load() -> list[dict]:
     level_order = {"supranational": 0, "international": 1, "national": 2}
     catalog.sort(key=lambda g: (level_order.get(g["jurisdiction_level"], 9), g["jurisdiction"], g["title"]))
     return catalog
+
+
+def sort_key(text: str) -> str:
+    """Accent- and case-insensitive key for alphabetical ordering."""
+    return "".join(c for c in unicodedata.normalize("NFD", text) if not unicodedata.combining(c)).casefold()
 
 
 def write(path: Path, text: str) -> None:
@@ -141,9 +147,10 @@ def main() -> int:
         "converted": sum(1 for g in catalog if g["content"]),
         "stored": sum(1 for g in catalog if g["stored_original"]),
     }
+    catalog_az = sorted(catalog, key=lambda g: (sort_key(g["jurisdiction"]), sort_key(g["title"])))
     for name in ["index.html", "search.html", "contribute.html", "about.html", "opensearch.xml"]:
         tpl = env.get_template(name)
-        write(DIST / name, tpl.render(**common, base="", facets=facets, stats=stats, page=name))
+        write(DIST / name, tpl.render(**common, base="", facets=facets, stats=stats, catalog_az=catalog_az, page=name))
 
     tpl = env.get_template("guideline.html")
     for g in catalog:
