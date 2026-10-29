@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Submit a guideline | Legislative Drafting Guidelines</title>
+  <meta name="description" content="National and supranational drafting manuals, collected and converted to HTML">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="search" type="application/opensearchdescription+xml" title="Drafting Guidelines" href="opensearch.xml">
+  
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <div class="banner" role="note">
+    <div class="wrap">
+      <strong>Experimental collection.</strong>
+      Converted HTML is generated automatically from the official documents and may contain conversion errors.
+      Always cite the original document linked on each page.
+    </div>
+  </div>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-main">Legislative Drafting Guidelines</span>
+        <span class="brand-sub">National &amp; supranational legislatures</span>
+      </a>
+      <nav aria-label="Main">
+        <ul class="nav">
+          <li><a href="index.html" >Guidelines</a></li>
+          <li><a href="search.html" >Search</a></li>
+          <li><a href="about.html" >About</a></li>
+          <li><a class="nav-cta" href="contribute.html" aria-current="page">Submit a guideline</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main id="main">
+    
+<div class="wrap narrow">
+  <h1>Submit a guideline</h1>
+  <p>Do you know of a legislative drafting manual, style guide or set of drafting rules that is missing here, or a newer
+    edition of one we list? Tell us about it. National, supranational and international bodies are the current focus;
+    sub-national guidelines are welcome too.</p>
+
+  <form id="contribute" class="contribute-form" data-endpoint="" data-repo="aih/legislative-guidelines">
+    <div class="field"><label for="c-juris">Jurisdiction or organisation <span class="req">*</span></label>
+      <input id="c-juris" name="jurisdiction" required placeholder="e.g. Ireland, ECOWAS, Council of Europe"></div>
+    <div class="field"><label for="c-title">Title of the guideline <span class="req">*</span></label>
+      <input id="c-title" name="title" required></div>
+    <div class="field"><label for="c-body">Issuing body</label>
+      <input id="c-body" name="issuing_body" placeholder="e.g. Office of the Parliamentary Counsel"></div>
+    <div class="field"><label for="c-url">Link to the document or publisher page <span class="req">*</span></label>
+      <input id="c-url" name="url" type="url" required placeholder="https://"></div>
+    <div class="field-row">
+      <div class="field"><label for="c-edition">Edition or date</label><input id="c-edition" name="edition"></div>
+      <div class="field"><label for="c-lang">Language(s)</label><input id="c-lang" name="language"></div>
+    </div>
+    <div class="field"><label for="c-kind">This is</label>
+      <select id="c-kind" name="kind">
+        <option>A guideline missing from the collection</option>
+        <option>A newer edition of a listed guideline</option>
+        <option>A correction to listed metadata</option>
+      </select></div>
+    <div class="field"><label for="c-notes">Notes</label>
+      <textarea id="c-notes" name="notes" rows="4" placeholder="Is it current? Is it binding? Anything else we should know."></textarea></div>
+    <div class="field-row">
+      <div class="field"><label for="c-name">Your name (optional)</label><input id="c-name" name="name" autocomplete="name"></div>
+      <div class="field"><label for="c-email">Email (optional)</label><input id="c-email" name="email" type="email" autocomplete="email"></div>
+    </div>
+    <button type="submit" class="button">Send submission</button>
+    <p class="form-help" id="c-help">
+      Submitting opens a pre-filled issue on GitHub (a free GitHub account is needed). Your email is not included in the public issue.
+    </p>
+    <p class="form-status" id="c-status" role="status" aria-live="polite"></p>
+  </form>
+</div>
+
+  </main>
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Documents remain the work of their issuing bodies; see each page for source, licence and retrieval details.
+        Catalog data: <a href="catalog.json">JSON</a> · <a href="catalog.csv">CSV</a> ·
+        <a href="https://github.com/aih/legislative-guidelines">GitHub</a>. Built 2026-10-29.</p>
+      <p>Know of a guideline we are missing? <a href="contribute.html">Send it to us</a>.</p>
+    </div>
+  </footer>
+  <script src="assets/contribute.js"></script>
+</body>
+</html>

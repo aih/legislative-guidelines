@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Search | Legislative Drafting Guidelines</title>
+  <meta name="description" content="National and supranational drafting manuals, collected and converted to HTML">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="search" type="application/opensearchdescription+xml" title="Drafting Guidelines" href="opensearch.xml">
+  <link href="pagefind/pagefind-ui.css" rel="stylesheet">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <div class="banner" role="note">
+    <div class="wrap">
+      <strong>Experimental collection.</strong>
+      Converted HTML is generated automatically from the official documents and may contain conversion errors.
+      Always cite the original document linked on each page.
+    </div>
+  </div>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-main">Legislative Drafting Guidelines</span>
+        <span class="brand-sub">National &amp; supranational legislatures</span>
+      </a>
+      <nav aria-label="Main">
+        <ul class="nav">
+          <li><a href="index.html" >Guidelines</a></li>
+          <li><a href="search.html" aria-current="page">Search</a></li>
+          <li><a href="about.html" >About</a></li>
+          <li><a class="nav-cta" href="contribute.html" >Submit a guideline</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main id="main">
+    
+<div class="wrap narrow">
+  <h1>Search the guidelines</h1>
+  <p>Full-text search across every converted guideline. Filter by jurisdiction, region, language or currency.</p>
+  <div id="search"></div>
+  <noscript>Search needs JavaScript. The <a href="index.html">catalog</a> lists every guideline.</noscript>
+</div>
+
+  </main>
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Documents remain the work of their issuing bodies; see each page for source, licence and retrieval details.
+        Catalog data: <a href="catalog.json">JSON</a> · <a href="catalog.csv">CSV</a> ·
+        <a href="https://github.com/aih/legislative-guidelines">GitHub</a>. Built 2026-10-29.</p>
+      <p>Know of a guideline we are missing? <a href="contribute.html">Send it to us</a>.</p>
+    </div>
+  </footer>
+  
+<script src="pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', function () {
+    var ui = new PagefindUI({ element: '#search', showSubResults: true, showImages: false, excerptLength: 30,
+      translations: { placeholder: 'Search all guidelines' } });
+    var q = new URLSearchParams(window.location.search).get('q');
+    if (q) ui.triggerSearch(q);
+  });
+</script>
+
+</body>
+</html>
