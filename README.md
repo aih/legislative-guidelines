@@ -4,7 +4,7 @@ A comprehensive collection of the legislative drafting guidelines of national le
 
 It follows and extends the approach of the [Commonwealth Legislative Drafting Manual](https://github.com/aih/commonwealth-leg-drafting-manual) web edition across 80+ national and international instruments.
 
-Site: <https://aih.github.io/legislative-guidelines/> (deployed from `main` by GitHub Actions; see [Deployment](#deployment)).
+Site: <https://legdraft.linkedlegislation.org/> (deployed from `main` by GitHub Actions; see [Deployment](#deployment)).
 
 ## Key Features
 
@@ -25,9 +25,9 @@ Site: <https://aih.github.io/legislative-guidelines/> (deployed from `main` by G
 | `data/guidelines.yml` | The catalog: one entry per guideline. Fields are documented in [`data/SCHEMA.md`](data/SCHEMA.md). |
 | `data/guidelines.schema.json` | Formal JSON Schema (Draft 2020-12) validating `data/guidelines.yml`. |
 | `data/comparative_matrix.yml` | Cross-jurisdictional comparative matrix data across 10 benchmark drafting manuals. |
-| `data/retrieval.json` | Download record per document: date, final URL, HTTP status, size, SHA-256. |
-| `documents/<id>/original.*` | Stored copy of the original document as published. |
-| `documents/<id>/content.html`, `toc.json`, `text.txt` | Converted HTML, table of contents and plain text. |
+| `data/retrieval.json` | Download record per document: date, final URL, HTTP status, size, SHA-256, or the error. |
+| `documents/<id>/original.*` | Downloaded original. Kept locally; not committed. |
+| `documents/<id>/content.html`, `toc.json` | Converted HTML and table of contents. Committed. `text.txt` is kept locally. |
 | `scripts/validate_catalog.py` | Validates `data/guidelines.yml` against `data/guidelines.schema.json`. |
 | `scripts/evaluate_bill.py` | CLI and local HTTP API engine for evaluating draft bills against guidelines (1–10 score). |
 | `scripts/fetch.py` | Downloads originals listed in the catalog. |
@@ -65,34 +65,46 @@ python3 -m http.server -d dist 8000
 .venv/bin/python scripts/evaluate_bill.py --serve --port 8001
 ```
 
+## Converting documents
+
+Originals are downloaded and converted locally; only the converted `content.html` and `toc.json` are committed.
+
+```sh
+.venv/bin/python scripts/fetch.py <id>      # documents/<id>/original.*, record in data/retrieval.json
+.venv/bin/python scripts/convert.py <id>    # documents/<id>/content.html, toc.json, text.txt
+.venv/bin/pytest tests/test_documents.py    # converted text is substantial and not a block page
+git add data/retrieval.json documents/<id>/content.html documents/<id>/toc.json
+```
+
+`fetch.py` records an error instead of saving the response when the server returns anything other than HTTP 200,
+a body under 2 KB, or an HTML page where the catalog's `original_format` is PDF or Word. These are usually block
+pages, bot challenges, login pages or landing pages that a moved document redirects to. When a site blocks automated
+downloads, save the document by hand as `documents/<id>/original.<ext>` and run `convert.py <id>`.
+
+`tests/test_documents.py` fails for any converted document under 1,000 words or whose opening text matches a block
+or login page.
+
 ## Deployment
 
 `.github/workflows/deploy.yml` builds the site on every push to `main` and publishes `dist/` to GitHub Pages with
-`actions/deploy-pages`. Pull requests run the build without deploying. The build fetches any catalogued document not
-already stored under `documents/`, converts it, builds the site and runs Pagefind. The repository's Pages source is
-set to **GitHub Actions** (Settings → Pages).
+`actions/deploy-pages`. Pull requests run the build and tests without deploying. The build uses the committed
+`documents/<id>/content.html` files; it does not download documents. The repository's Pages source is set to
+**GitHub Actions** (Settings → Pages).
+
+The site is served at `legdraft.linkedlegislation.org`:
+
+- DNS: `legdraft  CNAME  aih.github.io.` in the Route 53 hosted zone for `linkedlegislation.org`.
+- Pages custom domain: `legdraft.linkedlegislation.org`, with HTTPS enforced. `https://aih.github.io/legislative-guidelines/`
+  redirects to it.
 
 Repository variables (Settings → Secrets and variables → Actions → Variables):
 
 | Variable | Purpose |
 |---|---|
-| `SITE_URL` | Absolute site URL used in `opensearch.xml`. Defaults to `https://<owner>.github.io/<repo>/`. |
+| `SITE_URL` | Absolute site URL used in `opensearch.xml`. Defaults to `https://legdraft.linkedlegislation.org/`. |
 | `FORM_ENDPOINT` | Formspree-compatible endpoint for the submission form. |
 
-### Custom domain
-
-To serve the site at `legdraft.linkedlegislation.org`:
-
-1. At the DNS provider for `linkedlegislation.org`, add a record `legdraft  CNAME  aih.github.io.`
-2. Set the domain on the Pages site:
-   `gh api -X PUT repos/aih/legislative-guidelines/pages -f cname=legdraft.linkedlegislation.org`
-3. Set the `SITE_URL` variable: `gh variable set SITE_URL --body https://legdraft.linkedlegislation.org/`
-4. Once GitHub has issued the certificate (Settings → Pages shows the domain as verified), enforce HTTPS:
-   `gh api -X PUT repos/aih/legislative-guidelines/pages -F https_enforced=true`
-5. Re-run the workflow (`gh workflow run deploy.yml`).
-
-All links in the site are relative, so the same build works at both addresses. Verifying `linkedlegislation.org`
-under the account's Settings → Pages → Verified domains prevents other accounts from claiming its subdomains.
+All links in the site are relative, so a build works at any address.
 
 ## Search
 
@@ -107,7 +119,7 @@ docker compose -f opensearch/docker-compose.yml up -d
 
 ## Submissions
 
-The site's [Submit a guideline](https://aih.github.io/legislative-guidelines/contribute.html) form opens a pre-filled GitHub issue using `.github/ISSUE_TEMPLATE/submit-guideline.yml`. Setting the `FORM_ENDPOINT` environment variable at build time to a Formspree-compatible endpoint sends submissions there instead.
+The site's [Submit a guideline](https://legdraft.linkedlegislation.org/contribute.html) form opens a pre-filled GitHub issue using `.github/ISSUE_TEMPLATE/submit-guideline.yml`. Setting the `FORM_ENDPOINT` environment variable at build time to a Formspree-compatible endpoint sends submissions there instead.
 
 ## Rights
 

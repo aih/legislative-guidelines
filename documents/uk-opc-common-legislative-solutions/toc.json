@@ -1,37 +1,707 @@
 [
  {
-  "id": "common-legislative-solutions-a-guide-to-tackling-recurring-p",
-  "level": 2,
-  "title": "Common legislative solutions: a guide to tackling recurring policy issues in legislation"
- },
- {
-  "id": "updates-to-this-page",
-  "level": 2,
-  "title": "Updates to this page"
- },
- {
-  "id": "documents",
-  "level": 2,
-  "title": "Documents"
- },
- {
-  "id": "common-legislative-solutions-a-guide-to-tackling-recurring-p-2",
+  "id": "october-2025",
   "level": 3,
-  "title": "Common Legislative Solutions: a guide to tackling recurring policy issues in legislation"
+  "title": "October 2025"
  },
  {
-  "id": "common-legislative-solutions-a-guide-to-tackling-recurring-p-3",
+  "id": "contents",
+  "level": 2,
+  "title": "Contents"
+ },
+ {
+  "id": "foreword-by-jessica-demounteney-first-parliamentary-counsel",
+  "level": 2,
+  "title": "Foreword by Jessica DeMounteney, First Parliamentary Counsel"
+ },
+ {
+  "id": "introduction",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "developing-policy-for-legislation",
+  "level": 4,
+  "title": "Developing policy for legislation"
+ },
+ {
+  "id": "format-of-following-chapters",
+  "level": 4,
+  "title": "Format of following Chapters"
+ },
+ {
+  "id": "additional-solutions-to-be-added-in-future",
+  "level": 4,
+  "title": "Additional solutions to be added in future"
+ },
+ {
+  "id": "establishing-a-statutory-corporation",
+  "level": 2,
+  "title": "Establishing a statutory corporation"
+ },
+ {
+  "id": "contents-of-this-chapter",
+  "level": 4,
+  "title": "Contents of this Chapter"
+ },
+ {
+  "id": "description-of-the-legislative-solution",
+  "level": 4,
+  "title": "Description of the legislative solution"
+ },
+ {
+  "id": "related-legislative-solutions",
+  "level": 4,
+  "title": "Related legislative solutions"
+ },
+ {
+  "id": "elements-of-the-legislative-solution",
+  "level": 4,
+  "title": "Elements of the legislative solution"
+ },
+ {
+  "id": "examples-of-the-legislative-solution",
+  "level": 4,
+  "title": "Examples of the legislative solution"
+ },
+ {
+  "id": "annex-other-legislation-about-public-bodies",
+  "level": 4,
+  "title": "Annex: other legislation about public bodies"
+ },
+ {
+  "id": "oversight-of-appointments",
+  "level": 4,
+  "title": "Oversight of appointments"
+ },
+ {
+  "id": "disqualification-from-membership-of-legislature",
+  "level": 4,
+  "title": "Disqualification from membership of legislature"
+ },
+ {
+  "id": "civil-service-pensions",
+  "level": 4,
+  "title": "Civil service pensions"
+ },
+ {
+  "id": "freedom-of-information",
+  "level": 4,
+  "title": "Freedom of information"
+ },
+ {
+  "id": "public-records",
+  "level": 4,
+  "title": "Public records"
+ },
+ {
+  "id": "ombudsmen",
+  "level": 4,
+  "title": "Ombudsmen"
+ },
+ {
+  "id": "public-sector-equality-legislation",
+  "level": 4,
+  "title": "Public sector equality legislation"
+ },
+ {
+  "id": "reviews-and-investigations-by-other-commissioners",
+  "level": 4,
+  "title": "Reviews and investigations by other Commissioners"
+ },
+ {
+  "id": "strategies",
+  "level": 2,
+  "title": "Strategies"
+ },
+ {
+  "id": "description-of-legislative-solution",
+  "level": 4,
+  "title": "Description of legislative solution"
+ },
+ {
+  "id": "why-have-a-strategy",
+  "level": 4,
+  "title": "Why have a strategy?"
+ },
+ {
+  "id": "elements-of-the-legislative-solution-2",
+  "level": 4,
+  "title": "Elements of the legislative solution"
+ },
+ {
+  "id": "related-issues",
+  "level": 4,
+  "title": "Related issues"
+ },
+ {
+  "id": "examples-of-the-legislative-solution-2",
+  "level": 4,
+  "title": "Examples of the legislative solution"
+ },
+ {
+  "id": "collaboration",
+  "level": 2,
+  "title": "Collaboration"
+ },
+ {
+  "id": "description-of-the-legislative-solution-2",
+  "level": 4,
+  "title": "Description of the legislative solution"
+ },
+ {
+  "id": "related-legislative-solutions-2",
+  "level": 4,
+  "title": "Related legislative solutions"
+ },
+ {
+  "id": "elements-of-the-legislative-solution-3",
+  "level": 4,
+  "title": "Elements of the legislative solution"
+ },
+ {
+  "id": "examples-of-the-legislative-solution-3",
+  "level": 4,
+  "title": "Examples of the legislative solution"
+ },
+ {
+  "id": "designation-of-bodies",
+  "level": 2,
+  "title": "Designation of bodies"
+ },
+ {
+  "id": "description-of-legislative-solution-2",
+  "level": 4,
+  "title": "Description of legislative solution"
+ },
+ {
+  "id": "related-legislative-solutions-3",
+  "level": 4,
+  "title": "Related legislative solutions"
+ },
+ {
+  "id": "elements-of-the-legislative-solution-4",
+  "level": 4,
+  "title": "Elements of the legislative solution"
+ },
+ {
+  "id": "examples-of-the-legislative-solution-4",
+  "level": 4,
+  "title": "Examples of the legislative solution"
+ },
+ {
+  "id": "licensing",
+  "level": 2,
+  "title": "Licensing"
+ },
+ {
+  "id": "description-of-legislative-solution-3",
+  "level": 4,
+  "title": "Description of legislative solution"
+ },
+ {
+  "id": "related-legislative-solutions-4",
+  "level": 4,
+  "title": "Related legislative solutions"
+ },
+ {
+  "id": "elements-of-the-legislative-solution-5",
+  "level": 4,
+  "title": "Elements of the legislative solution"
+ },
+ {
+  "id": "examples-of-the-legislative-solution-5",
+  "level": 4,
+  "title": "Examples of the legislative solution"
+ },
+ {
+  "id": "powers-of-entry-inspection-search-and-seizure",
+  "level": 2,
+  "title": "Powers of entry, inspection, search and seizure"
+ },
+ {
+  "id": "description-of-the-legislative-solution-3",
+  "level": 4,
+  "title": "Description of the legislative solution"
+ },
+ {
+  "id": "elements-of-the-legislative-solution-6",
+  "level": 4,
+  "title": "Elements of the legislative solution"
+ },
+ {
+  "id": "or-without-one",
+  "level": 4,
+  "title": "or without one?"
+ },
+ {
+  "id": "whether-the-power-is-to-be-exercisable-with-or-without-a-war",
+  "level": 4,
+  "title": "Whether the power is to be exercisable with or without a warrant, what conditions (substantive and procedural) will need to be fulfilled before exercising the power?"
+ },
+ {
+  "id": "one-occasion",
+  "level": 4,
+  "title": "one occasion?"
+ },
+ {
+  "id": "persons",
+  "level": 4,
+  "title": "persons?"
+ },
+ {
+  "id": "for-exercising-the-power",
+  "level": 4,
+  "title": "for exercising the power?"
+ },
+ {
+  "id": "premises",
+  "level": 4,
+  "title": "premises?"
+ },
+ {
+  "id": "occupier-to-produce-documents-or-other-items-or-to-require-a",
+  "level": 4,
+  "title": "occupier to produce documents or other items, or to require an explanation of matters, or to permit the seizure of property?"
+ },
+ {
+  "id": "material-be-excluded-from-the-exercise-of-that-power",
+  "level": 4,
+  "title": "material be excluded from the exercise of that power?"
+ },
+ {
+  "id": "associated-powers",
+  "level": 4,
+  "title": "associated powers)?"
+ },
+ {
+  "id": "power-to-comply-with-any-requirements-concerning-its-exercis",
+  "level": 4,
+  "title": "power to comply with any requirements concerning its exercise?"
+ },
+ {
+  "id": "examples-of-the-legislative-solution-6",
+  "level": 4,
+  "title": "Examples of the legislative solution"
+ },
+ {
+  "id": "fixed-penalty-notices",
+  "level": 2,
+  "title": "Fixed penalty notices"
+ },
+ {
+  "id": "description-of-the-legislative-solution-4",
+  "level": 4,
+  "title": "Description of the legislative solution"
+ },
+ {
+  "id": "related-legislative-solutions-5",
+  "level": 4,
+  "title": "Related legislative solutions"
+ },
+ {
+  "id": "elements-of-the-legislative-solution-7",
+  "level": 4,
+  "title": "Elements of the legislative solution"
+ },
+ {
+  "id": "12-evidential-matters",
+  "level": 4,
+  "title": "12 Evidential matters"
+ },
+ {
+  "id": "13-duty-to-give-name-and-address",
+  "level": 4,
+  "title": "13 Duty to give name and address?"
+ },
+ {
+  "id": "14-guidance-on-giving-of-fpns",
+  "level": 4,
+  "title": "14 Guidance on giving of FPNs"
+ },
+ {
+  "id": "15-report-on-fpns-that-have-been-given",
+  "level": 4,
+  "title": "15 Report on FPNs that have been given?"
+ },
+ {
+  "id": "16-use-of-fixed-penalty-receipts",
+  "level": 4,
+  "title": "16 Use of fixed penalty receipts"
+ },
+ {
+  "id": "17-notices-and-payments-sent-electronically",
+  "level": 4,
+  "title": "17 Notices and payments sent electronically"
+ },
+ {
+  "id": "examples-of-the-legislative-solution-7",
+  "level": 4,
+  "title": "Examples of the legislative solution"
+ },
+ {
+  "id": "preventative-orders",
+  "level": 2,
+  "title": "Preventative Orders"
+ },
+ {
+  "id": "description-of-legislative-solution-4",
+  "level": 4,
+  "title": "Description of legislative solution"
+ },
+ {
+  "id": "related-legislative-solutions-6",
+  "level": 4,
+  "title": "Related legislative solutions"
+ },
+ {
+  "id": "elements-of-the-legislative-solution-8",
+  "level": 4,
+  "title": "Elements of the legislative solution"
+ },
+ {
+  "id": "examples-of-the-legislative-solution-8",
+  "level": 4,
+  "title": "Examples of the legislative solution"
+ },
+ {
+  "id": "note-regarding-instructing-for-scotland",
+  "level": 4,
+  "title": "Note regarding instructing for Scotland"
+ },
+ {
+  "id": "criminal-offences",
   "level": 3,
-  "title": "Common Legislative Solutions: a guide to tackling recurring policy issues in legislation"
+  "title": "Criminal Offences"
  },
  {
-  "id": "details",
-  "level": 2,
-  "title": "Details"
+  "id": "description-of-legislative-solution-5",
+  "level": 4,
+  "title": "Description of legislative solution"
  },
  {
-  "id": "sign-up-for-emails-or-print-this-page",
-  "level": 2,
-  "title": "Sign up for emails or print this page"
+  "id": "different-united-kingdom-jurisdictions",
+  "level": 4,
+  "title": "Different United Kingdom jurisdictions"
+ },
+ {
+  "id": "the-sentencing-code-england-and-wales",
+  "level": 4,
+  "title": "The Sentencing Code (England and Wales)"
+ },
+ {
+  "id": "european-convention-on-human-rights",
+  "level": 4,
+  "title": "European Convention on Human Rights"
+ },
+ {
+  "id": "general-policy-and-guidance-on-the-creation-of-criminal-offe",
+  "level": 4,
+  "title": "General policy and guidance on the creation of criminal offences"
+ },
+ {
+  "id": "related-legislative-solutions-7",
+  "level": 4,
+  "title": "Related legislative solutions"
+ },
+ {
+  "id": "elements-of-the-legislative-solution-9",
+  "level": 4,
+  "title": "Elements of the legislative solution"
+ },
+ {
+  "id": "conviction",
+  "level": 4,
+  "title": "conviction"
+ },
+ {
+  "id": "examples-of-legislative-provisions",
+  "level": 4,
+  "title": "Examples of legislative provisions"
+ },
+ {
+  "id": "aspects-of-drafting-of-offences-defences-presumptions",
+  "level": 4,
+  "title": "Aspects of drafting of offences, defences, presumptions:"
+ },
+ {
+  "id": "mode-of-trial-and-penalties",
+  "level": 4,
+  "title": "Mode of trial and penalties"
+ },
+ {
+  "id": "extra-territorial-application-of-offences",
+  "level": 4,
+  "title": "Extra-territorial application of offences:"
+ },
+ {
+  "id": "liability-of-directors-partners-etc",
+  "level": 4,
+  "title": "Liability of directors, partners etc:"
+ },
+ {
+  "id": "prosecuting-an-offence",
+  "level": 4,
+  "title": "Prosecuting an offence:"
+ },
+ {
+  "id": "power-to-create-offences-by-regulations",
+  "level": 4,
+  "title": "Power to create offences by regulations:"
+ },
+ {
+  "id": "examples-of-other-points",
+  "level": 4,
+  "title": "Examples of other points:"
+ },
+ {
+  "id": "civil-sanctions",
+  "level": 3,
+  "title": "Civil Sanctions"
+ },
+ {
+  "id": "description-of-legislative-solution-6",
+  "level": 4,
+  "title": "Description of legislative solution"
+ },
+ {
+  "id": "relationship-with-criminal-offences",
+  "level": 4,
+  "title": "Relationship with criminal offences"
+ },
+ {
+  "id": "other-kinds-of-civil-sanctions-and-related-legislative-solut",
+  "level": 4,
+  "title": "Other kinds of civil sanctions, and related legislative solutions"
+ },
+ {
+  "id": "impact-on-justice-system",
+  "level": 4,
+  "title": "Impact on justice system"
+ },
+ {
+  "id": "elements-of-the-legislative-solution-10",
+  "level": 4,
+  "title": "Elements of the legislative solution"
+ },
+ {
+  "id": "agree-undertakings",
+  "level": 4,
+  "title": "agree undertakings"
+ },
+ {
+  "id": "examples-of-the-legislative-solution-9",
+  "level": 4,
+  "title": "Examples of the legislative solution"
+ },
+ {
+  "id": "enforcement-notices-stop-notices-enforcement-undertakings-et",
+  "level": 4,
+  "title": "Enforcement notices, stop notices, enforcement undertakings etc"
+ },
+ {
+  "id": "monetary-penalties",
+  "level": 4,
+  "title": "Monetary penalties"
+ },
+ {
+  "id": "examples-relating-to-some-particular-points-on-civil-sanctio",
+  "level": 4,
+  "title": "Examples relating to some particular points on civil sanctions"
+ },
+ {
+  "id": "powers-to-make-regulations-about-civil-sanctions",
+  "level": 4,
+  "title": "Powers to make regulations about civil sanctions"
+ },
+ {
+  "id": "giving-notice",
+  "level": 3,
+  "title": "Giving Notice"
+ },
+ {
+  "id": "description-of-the-legislative-solution-5",
+  "level": 4,
+  "title": "Description of the legislative solution"
+ },
+ {
+  "id": "related-legislative-solutions-8",
+  "level": 4,
+  "title": "Related legislative solutions"
+ },
+ {
+  "id": "elements-of-the-legislative-solution-11",
+  "level": 4,
+  "title": "Elements of the legislative solution"
+ },
+ {
+  "id": "examples-of-the-legislative-solution-10",
+  "level": 4,
+  "title": "Examples of the legislative solution"
+ },
+ {
+  "id": "appeals-against-administrative-decisions",
+  "level": 3,
+  "title": "Appeals against administrative decisions"
+ },
+ {
+  "id": "description-of-the-legislative-solution-6",
+  "level": 4,
+  "title": "Description of the legislative solution"
+ },
+ {
+  "id": "elements-of-the-legislative-solution-12",
+  "level": 4,
+  "title": "Elements of the legislative solution"
+ },
+ {
+  "id": "7-2-should-the-decision-only-take-effect-once-the-period-for",
+  "level": 3,
+  "title": "7.2. Should the decision only take effect once the period for appealing has expired without"
+ },
+ {
+  "id": "7-3-if-the-original-decision-can-take-effect-despite-the-fac",
+  "level": 3,
+  "title": "7.3. If the original decision can take effect despite the fact that an appeal is pending or"
+ },
+ {
+  "id": "examples-of-the-legislative-solution-11",
+  "level": 4,
+  "title": "Examples of the legislative solution"
+ },
+ {
+  "id": "provisions-conferring-rights-of-appeal",
+  "level": 4,
+  "title": "Provisions conferring rights of appeal"
+ },
+ {
+  "id": "provisions-establishing-tribunals-or-other-appellate-bodies",
+  "level": 4,
+  "title": "Provisions establishing tribunals or other appellate bodies"
+ },
+ {
+  "id": "provisions-about-the-conduct-of-appeals",
+  "level": 4,
+  "title": "Provisions about the conduct of appeals"
+ },
+ {
+  "id": "appeals-to-traffic-commissioners-procedure-england-regulatio",
+  "level": 3,
+  "title": "• Appeals to Traffic Commissioners (Procedure) (England) Regulations 2019"
+ },
+ {
+  "id": "fees-and-charges",
+  "level": 3,
+  "title": "Fees and charges"
+ },
+ {
+  "id": "description-of-legislative-solution-7",
+  "level": 4,
+  "title": "Description of legislative solution"
+ },
+ {
+  "id": "related-legislative-solutions-9",
+  "level": 4,
+  "title": "Related legislative solutions"
+ },
+ {
+  "id": "elements-of-the-solution",
+  "level": 4,
+  "title": "Elements of the solution"
+ },
+ {
+  "id": "examples-of-the-solution",
+  "level": 4,
+  "title": "Examples of the solution"
+ },
+ {
+  "id": "providing-information",
+  "level": 3,
+  "title": "Providing Information"
+ },
+ {
+  "id": "description-of-legislative-solution-8",
+  "level": 4,
+  "title": "Description of legislative solution"
+ },
+ {
+  "id": "related-legislative-solutions-10",
+  "level": 4,
+  "title": "Related legislative solutions"
+ },
+ {
+  "id": "elements-of-the-solution-2",
+  "level": 4,
+  "title": "Elements of the solution"
+ },
+ {
+  "id": "examples-of-the-legislative-solution-12",
+  "level": 4,
+  "title": "Examples of the legislative solution"
+ },
+ {
+  "id": "identifying-the-information-to-be-provided",
+  "level": 4,
+  "title": "Identifying the information to be provided"
+ },
+ {
+  "id": "power-to-provide-information",
+  "level": 4,
+  "title": "Power to provide information"
+ },
+ {
+  "id": "duty-to-provide-information-when-requested",
+  "level": 4,
+  "title": "Duty to provide information when requested"
+ },
+ {
+  "id": "duty-to-provide-information-by-preparing-and-publishing-a-re",
+  "level": 4,
+  "title": "Duty to provide information by preparing and publishing a report"
+ },
+ {
+  "id": "exemptions-from-duty-to-provide-information",
+  "level": 4,
+  "title": "Exemptions from duty to provide information"
+ },
+ {
+  "id": "provision-about-how-information-provided-can-or-cannot-be-us",
+  "level": 4,
+  "title": "Provision about how information provided can, or cannot, be used (eg. limiting onward disclosure)"
+ },
+ {
+  "id": "access-to-electronic-records",
+  "level": 4,
+  "title": "Access to electronic records"
+ },
+ {
+  "id": "requiring-compliance-with-data-standards",
+  "level": 4,
+  "title": "Requiring compliance with data standards"
+ },
+ {
+  "id": "language-requirement",
+  "level": 4,
+  "title": "Language requirement"
+ },
+ {
+  "id": "linking-to-other-information",
+  "level": 4,
+  "title": "Linking to other information"
+ },
+ {
+  "id": "open-licensing-of-information-right-to-use-information-free-",
+  "level": 4,
+  "title": "Open licensing of information/right to use information free of charge"
+ },
+ {
+  "id": "enforcement-of-duty-to-provide-information",
+  "level": 4,
+  "title": "Enforcement of duty to provide information"
+ },
+ {
+  "id": "registers-of-information",
+  "level": 4,
+  "title": "Registers of information"
  }
 ]

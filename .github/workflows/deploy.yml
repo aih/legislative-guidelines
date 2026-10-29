@@ -16,9 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  # Set the SITE_URL repository variable when serving from a custom domain,
-  # e.g. https://legdraft.linkedlegislation.org/
-  SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}/', github.repository_owner, github.event.repository.name) }}
+  # Overridden by the SITE_URL repository variable when set.
+  SITE_URL: ${{ vars.SITE_URL || 'https://legdraft.linkedlegislation.org/' }}
   FORM_ENDPOINT: ${{ vars.FORM_ENDPOINT }}
 
 jobs:
