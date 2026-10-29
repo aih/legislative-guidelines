@@ -22,6 +22,7 @@ from __future__ import annotations
 import csv
 import datetime as dt
 import json
+import re
 import os
 import shutil
 import sys
@@ -87,6 +88,17 @@ def infer_tradition(g: dict) -> str:
     return "civil_law"
 
 
+def recency_key(last_updated) -> str:
+    """Sortable form of last_updated: "YYYY-MM-DD" (missing parts as 00),
+    "9999" for online texts maintained without dated editions, "" when unknown."""
+    if last_updated is None:
+        return ""
+    m = re.match(r"^(\d{4})(?:-(\d{2}))?(?:-(\d{2}))?$", str(last_updated).strip())
+    if m:
+        return f"{m.group(1)}-{m.group(2) or '00'}-{m.group(3) or '00'}"
+    return "9999"
+
+
 def load() -> list[dict]:
     catalog = yaml.safe_load((ROOT / "data" / "guidelines.yml").read_text(encoding="utf-8"))
     retrieval_path = ROOT / "data" / "retrieval.json"
@@ -103,6 +115,7 @@ def load() -> list[dict]:
         g["status_label"] = STATUS_LABELS.get(g.get("currency", {}).get("status", "unverified"), "Unverified")
         g["language_names"] = [LANGUAGE_NAMES.get(code, code) for code in g.get("languages", [])]
         g["legal_tradition"] = infer_tradition(g)
+        g["recency"] = recency_key(g.get("last_updated"))
     level_order = {"supranational": 0, "international": 1, "national": 2, "subnational": 3}
     catalog.sort(key=lambda g: (level_order.get(g["jurisdiction_level"], 9), g["jurisdiction"], g["title"]))
     return catalog
