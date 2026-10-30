@@ -11,6 +11,47 @@
     </div>
   </div>
 
+  <details class="auditor-info" id="howItWorks">
+    <summary>How the auditor works</summary>
+    <div class="auditor-info-body">
+      <p>The auditor is a rule engine that runs entirely in your browser (<code>assets/auditor.js</code>). Your text is not uploaded anywhere unless you add an AI provider key below. The same engine is available offline as <code>scripts/evaluate_bill.py</code>.</p>
+
+      <h3>Steps</h3>
+      <ol>
+        <li><strong>Read the text.</strong> XML or HTML tags (Akoma Ntoso, USLM) are stripped, the text is split into sentences, and any recitals (lines from <em>Whereas</em> or <em>Having regard to</em> up to the enacting formula or the first section) are separated from the operative provisions.</li>
+        <li><strong>Load a rule profile.</strong> The ten featured guidelines have hand-written profiles: legal tradition, policy on <em>shall</em>, target average sentence length (26–32 words), recitals policy, and the manual sections cited in results. Every other catalogued guideline gets a profile derived from its country code and jurisdiction level (common law, civil law, bijural, supranational or international).</li>
+        <li><strong>Run the checks.</strong> Each check produces <code>PASS</code>, <code>WARN</code> or <code>FAIL</code> and deducts points from one or more sub-scores, each starting at 10.</li>
+        <li><strong>Score.</strong> Sub-scores are clamped to 1–10 and combined into the overall score.</li>
+      </ol>
+
+      <h3>Checks</h3>
+      <div class="table-scroll">
+        <table class="catalog-table auditor-info-table">
+          <thead><tr><th>Check</th><th>What it looks for</th><th>Sub-score</th></tr></thead>
+          <tbody>
+            <tr><td>Normative verbs</td><td>Depends on the profile. UK, Commonwealth, Australia, NZ and similar: any <em>shall</em> (use <em>must</em> or the present tense). EU: <em>shall</em> in operative articles, and no <em>shall</em>/<em>must</em> in recitals. US HOLC: <em>shall</em> with an inanimate subject, or declarative <em>shall mean</em> / <em>shall be deemed</em>. Civil law: <em>shall</em> instead of the normative present tense.</td><td>Normative verbs</td></tr>
+            <tr><td>Definitions hygiene</td><td>Definitions that impose duties (a <em>shall</em> or <em>must</em> inside a definition) and the phrase <em>means and includes</em>.</td><td>Definitions</td></tr>
+            <tr><td>Plain language</td><td>A list of archaic terms and doublets such as <em>herein</em>, <em>thereof</em>, <em>aforesaid</em>, <em>forthwith</em>, <em>whosoever</em>, <em>null and void</em>, <em>and/or</em>, <em>deemed to be</em>.</td><td>Clarity</td></tr>
+            <tr><td>Sentence length</td><td>Average sentence length against the profile's target, and any sentence over 42 words not broken into (a), (b), (c) paragraphs.</td><td>Clarity</td></tr>
+            <tr><td>Active voice</td><td>Passive constructions with no named actor (<em>shall be imposed</em>, <em>must be paid</em> without <em>by …</em>).</td><td>Clarity, Normative verbs</td></tr>
+            <tr><td>Gender-neutral drafting</td><td>Masculine-generic pronouns, paired <em>he or she</em>, and gendered titles such as <em>Chairman</em>.</td><td>Conventions</td></tr>
+            <tr><td>Structure</td><td>Numbered sections or articles, a commencement provision in longer texts, the EU citations–recitals–enacting formula sequence, and no recitals inside a civil law statute.</td><td>Structure, Conventions</td></tr>
+            <tr><td>Cross-references</td><td>Positional references such as <em>above</em>, <em>below</em>, <em>the preceding section</em>, <em>hereinbefore</em>.</td><td>Definitions, Structure</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>Scoring</h3>
+      <p>Overall score = Clarity × 25% + Normative verbs × 25% + Definitions × 20% + Conventions × 15% + Structure × 15%. The exact index is shown to one decimal place and rounded for the headline score. Bands: 8.0 and above is high compliance, 5.5–7.9 moderate, below 5.5 low. Each flagged provision comes with a suggested redraft generated from the same rule (for example, <em>shall</em> rewritten as <em>must</em>).</p>
+
+      <h3>Comparison and AI critique</h3>
+      <p>Ticking guidelines under <em>Multi-Jurisdiction Comparison</em> runs the same text through each profile, so the same draft can score differently under the UK OPC (which discourages <em>shall</em>) and the EU Joint Practical Guide (which expects it in articles). The optional AI critique sends the first 12,000 characters of the text and the guideline name to Gemini (gemini-2.5-flash) or OpenAI (gpt-4o-mini) with your key and shows the response separately; it does not change the score.</p>
+
+      <h3>Limitations</h3>
+      <p>The checks are pattern matches on English text. They do not assess legal substance, policy or constitutional validity, and they can miss problems or flag acceptable usage. Drafts in other languages are scored, but most checks look for English wording. Treat the score as a drafting-style indicator for review by counsel.</p>
+    </div>
+  </details>
+
   <div class="auditor-grid">
     <section class="auditor-input-card meta-card" aria-label="Bill input and guideline selection">
       <h2>1. Select Target Guideline &amp; Input Bill</h2>

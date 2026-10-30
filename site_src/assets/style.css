@@ -231,3 +231,12 @@ dl.meta dd { margin: 0; overflow-wrap: anywhere; }
 .text-flag { display: inline-block; font-size: .75rem; font-weight: 700; padding: .1rem .45rem; border-radius: 3px; white-space: nowrap; }
 .text-flag-yes { background: #e7f2f5; color: var(--primary); box-shadow: inset 0 0 0 1px #9bc3d4; }
 .text-flag-no { background: #fff; color: var(--muted); box-shadow: inset 0 0 0 1px var(--line); }
+
+.auditor-info { border: 1px solid var(--line); border-left: 4px solid var(--primary); border-radius: 6px; background: #f7fbfc; padding: .7rem 1rem; margin: .5rem 0 0; }
+.auditor-info summary { font-weight: 700; cursor: pointer; color: var(--primary); font-size: 1.02rem; }
+.auditor-info-body { margin-top: .75rem; font-size: .95rem; }
+.auditor-info-body h3 { font-size: 1.02rem; color: var(--primary-dark); margin: 1.1rem 0 .4rem; }
+.auditor-info-body ol { padding-left: 1.3rem; margin: 0; }
+.auditor-info-body li { margin-bottom: .35rem; }
+.auditor-info-table td:first-child { font-weight: 600; white-space: nowrap; }
+@media (max-width: 640px) { .auditor-info-table td:first-child { white-space: normal; } }
