@@ -73,7 +73,7 @@
           </optgroup>
           <optgroup label="All Catalogued Guidelines ({{ catalog|length }} instruments)">
             {% for g in catalog %}
-            <option value="{{ g.id }}" data-jurisdiction="{{ g.jurisdiction }}" data-level="{{ g.jurisdiction_level }}" data-code="{{ g.country_code }}">{{ g.jurisdiction }} — {{ g.title_en or g.title }}</option>
+            <option value="{{ g.id }}" data-jurisdiction="{{ g.display_jurisdiction }}" data-level="{{ g.jurisdiction_level }}" data-code="{{ g.country_code }}">{{ g.display_jurisdiction }} — {{ g.title_en or g.title }}</option>
             {% endfor %}
           </optgroup>
         </select>

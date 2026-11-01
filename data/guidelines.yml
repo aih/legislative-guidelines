@@ -38,6 +38,9 @@
     - "Rule 10: Recitals ('Whereas') must set out concise reasons for the chief provisions of the enacting terms and must NEVER contain normative rules or political appeals."
     - "Rule 14: Definitions must never contain autonomous normative provisions."
     - "Rule 16: Avoid cascading or imprecise cross-references; never modify an act substantively merely via a cross-reference."
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 - id: eu-interinstitutional-style-guide
   title: Interinstitutional Style Guide
@@ -127,6 +130,9 @@
   html_edition_url: https://aih.github.io/commonwealth-leg-drafting-manual/
   license: CC BY-NC-ND 4.0
   notes: Full HTML conversion maintained separately in aih/commonwealth-leg-drafting-manual.
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 # ---------------------------------------------------------------- United Kingdom
 - id: uk-opc-drafting-guidance
@@ -157,6 +163,9 @@
     - "§ 3.2 Avoid 'shall': Use 'must' for obligations and present tense ('is', 'applies') for legal states or declarations."
     - "§ 3.4 Paragraphing: Split multiple conditions or elements into tabulated sub-paragraphs (a), (b), (c) with a single 'and' or 'or'."
     - "§ 4.4 Definitions: Place definitions where most helpful to the reader and never embed substantive rules inside a definition."
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 - id: uk-opc-amending-bills-style-manual
   title: "Amending bills: style manual"
@@ -197,6 +206,9 @@
   source_url: https://assets.publishing.service.gov.uk/media/694a8a96033693d5d50eb8fe/CLS_Guidance_23_October_2025_as_published.pdf
   landing_url: https://www.gov.uk/government/publications/common-legislative-solutions-a-guide-to-tackling-recurring-policy-issues-in-legislation
   license: Open Government Licence v3.0
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 - id: uk-guide-to-making-legislation
   title: Guide to Making Legislation
@@ -218,6 +230,9 @@
   source_url: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1048567/guide-to-making-legislation-2022.pdf
   landing_url: https://www.gov.uk/government/publications/guide-to-making-legislation
   license: Open Government Licence v3.0
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 # ---------------------------------------------------------------- United States
 - id: us-house-manual-drafting-style
@@ -242,6 +257,9 @@
   landing_url: https://legcounsel.house.gov/
   license: U.S. Government work (public domain)
   notes: Source URL is the AGORA mirror; official copy previously at legcounsel.house.gov/HOLC/Drafting_Legislation/draftstyle.pdf.
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 - id: us-senate-legislative-drafting-manual
   title: Legislative Drafting Manual
@@ -263,6 +281,9 @@
   source_url: http://legislativeconsulting.com/resources/manuals/US-Senate_DraftingManual_1997.pdf
   landing_url: https://www.slc.senate.gov/
   license: U.S. Government work (public domain)
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 # ---------------------------------------------------------------- Canada
 - id: ca-legistics
@@ -286,6 +307,9 @@
     prefix: https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/legistics/
   landing_url: https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/index.html
   license: "© His Majesty the King in Right of Canada; non-commercial reproduction permitted"
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 - id: ca-jurilinguistique-legislative-francaise
   title: Guide fédéral de jurilinguistique législative française
@@ -306,6 +330,9 @@
     prefix: https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/
   landing_url: https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/index.html
   license: "© His Majesty the King in Right of Canada; non-commercial reproduction permitted"
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 # ---------------------------------------------------------------- Australia
 - id: au-opc-plain-english-manual
@@ -326,6 +353,9 @@
   source_url: https://www.opc.gov.au/sites/default/files/2023-01/plain_english_0.pdf
   landing_url: https://www.opc.gov.au/node/145
   license: CC BY 4.0 (Commonwealth of Australia)
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 - id: au-opc-drafting-manual
   title: OPC Drafting Manual
@@ -347,6 +377,10 @@
   source_url: https://www.opc.gov.au/sites/default/files/2023-01/s05pq37.v27.pdf
   landing_url: https://www.opc.gov.au/drafting-resources
   license: CC BY 4.0 (Commonwealth of Australia)
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
+      note: "CALC lists edition 3.1 (February 2016)."
 
 - id: au-opc-drafting-directions
   title: OPC Drafting Directions
@@ -366,6 +400,9 @@
   source_url: null
   landing_url: https://www.opc.gov.au/drafting-resources/drafting-directions
   license: CC BY 4.0 (Commonwealth of Australia)
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 # ---------------------------------------------------------------- New Zealand
 - id: nz-legislation-guidelines-2021
@@ -389,6 +426,10 @@
   source_url: https://regulation.govt.nz/assets/Ministry-for-Regulation-files/Regulatory-System-Capability/Legislation-Guidelines.pdf
   landing_url: https://www.lac.org.nz/guidelines/legislation-guidelines-2021-edition/
   license: CC BY 4.0 (Crown copyright)
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
+      note: "CALC lists the 2018 edition of the Legislation Guidelines."
 
 - id: nz-lawcom-legislation-manual
   title: "Legislation Manual: Structure and Style (NZLC R35)"
@@ -410,6 +451,9 @@
   source_url: https://lawcom.govt.nz/assets/Publications/Reports/NZLC-R35.pdf
   landing_url: https://www.lawcom.govt.nz/our-work/legislation-manual
   license: Crown copyright
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 # ---------------------------------------------------------------- Germany / Austria / Switzerland
 - id: de-handbuch-der-rechtsfoermlichkeit
@@ -719,6 +763,9 @@
   source_url: http://legislativeconsulting.com/resources/manuals/Bosnia-Herzogovina_DraftingManual_2006.pdf
   landing_url: https://calc.ngo/drafting-manuals-and-other-resources
   license: Unspecified
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 # ---------------------------------------------------------------- Latin America
 - id: br-lei-complementar-95-1998
@@ -764,6 +811,10 @@
   source_url: https://calc.ngo/sites/default/files/Pakistan%20--%20Legislative-Drafting-Manual-2019.pdf
   landing_url: https://pips.gov.pk/resources/legislative-drafting-manual-january-2019/
   license: Unspecified
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
+      note: "CALC hosts the PDF."
 
 - id: ke-guide-legislative-process
   title: A Guide to the Legislative Process in Kenya
@@ -783,6 +834,9 @@
   source_url: https://ial-online.org/wp-content/uploads/2018/05/klrc-a-guide-to-the-legislative-process-in-kenya.pdf
   landing_url: https://www.klrc.go.ke/
   license: Unspecified
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 - id: ug-manual-legislative-draftspersons
   title: Manual for Guidance of Legislative Draftspersons in Uganda
@@ -803,6 +857,9 @@
   source_url: http://ialorg.wpengine.com/wp-content/uploads/2018/02/Uganda-drafting-manual-1996.doc
   landing_url: https://calc.ngo/drafting-manuals-and-other-resources
   license: Unspecified
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 - id: nr-legislative-drafting-manual
   title: Legislative Drafting Manual
@@ -821,6 +878,9 @@
   source_url: https://ial-online.org/wp-content/uploads/2018/05/Nauru-Drafting-Manual.pdf
   landing_url: https://calc.ngo/drafting-manuals-and-other-resources
   license: Unspecified
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 
 # ================================================================
@@ -1055,6 +1115,9 @@
     - "Follow the 5-level subdivision hierarchy: (a) subsection, (1) paragraph, (A) subparagraph, (i) clause, (I) subclause."
     - "Do not place substantive legal requirements inside definitions."
     - "Draft in the active voice and repeat the noun to maintain gender-neutral language."
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 - id: us-holc-quick-guide-legislative-drafting
   title: Quick Guide to Legislative Drafting
@@ -1123,12 +1186,17 @@
   source_url: https://www.legislation.gov.uk/pdfs/StatutoryInstrumentPractice_5th_Edition.pdf
   landing_url: https://www.legislation.gov.uk/pdfs/StatutoryInstrumentPractice_5th_Edition.pdf
   license: Open Government Licence v3.0
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 - id: gb-sct-drafting-matters
   title: "Drafting Matters!"
-  jurisdiction: Scotland (United Kingdom)
-  jurisdiction_level: national
+  jurisdiction: Scotland
+  jurisdiction_level: subnational
   country_code: GB
+  subdivision_code: GB-SCT
+  subdivision_type: devolved nation
   region: Europe
   issuing_body: Parliamentary Counsel Office (Scottish Government)
   languages: [en]
@@ -1145,12 +1213,17 @@
   source_url: https://www.gov.scot/publications/drafting-matters/pages/1/
   landing_url: https://www.gov.scot/publications/drafting-matters/
   license: Open Government Licence v3.0
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 - id: gb-wls-writing-laws-for-wales
   title: "Writing laws for Wales: guidance on drafting legislation"
-  jurisdiction: Wales (United Kingdom)
-  jurisdiction_level: national
+  jurisdiction: Wales
+  jurisdiction_level: subnational
   country_code: GB
+  subdivision_code: GB-WLS
+  subdivision_type: devolved nation
   region: Europe
   issuing_body: Office of the Legislative Counsel (Welsh Government / Llywodraeth Cymru)
   languages: [en, cy]
@@ -1167,6 +1240,10 @@
   source_url: https://www.gov.wales/sites/default/files/publications/2026-05/writing-laws-for-wales-guidance-on-drafting-legislation.pdf
   landing_url: https://www.gov.wales/writing-laws-for-wales-guidance-on-drafting-legislation
   license: Open Government Licence v3.0
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
+      note: "CALC lists the predecessor, the Legislative Drafting Guidelines (January 2012)."
 
 - id: je-ldo-current-drafting-practice
   title: Current Drafting Practice
@@ -1188,6 +1265,10 @@
   source_url: https://www.gov.je/SiteCollectionDocuments/Crime%20and%20justice/Current%20Drafting%20Practice.pdf
   landing_url: https://www.gov.je/Government/NonexecLegal/StatesGreffe/LegislativeDraftingOffice/Pages/index.aspx
   license: Crown copyright (States of Jersey)
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
+      note: "CALC lists the predecessor, the 2018 Drafting Practice Manual (version 1)."
 
 - id: ie-lrc-statutory-drafting-plain-language
   title: "Report on Statutory Drafting and Interpretation: Plain Language and the Law (LRC 61-2000)"
@@ -1919,6 +2000,9 @@
   source_url: https://www.doj.gov.hk/en/publications/pdf/drafting_book_2012_e.pdf
   landing_url: https://www.doj.gov.hk/en/publications/pub20030011.html
   license: "© Government of the Hong Kong Special Administrative Region"
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
 
 - id: hk-doj-how-legislation-is-made
   title: "How Legislation is Made in Hong Kong: A Drafter's View of the Process"
@@ -2155,3 +2239,155 @@
   source_url: https://ial-online.org/wp-content/uploads/2018/05/Liberia-Legislation-Handbook.pdf
   landing_url: https://ial-online.org/legislative-drafting-rules/
   license: Unspecified
+
+# ---------------------------------------------------------------- Added from the CALC list of drafting manuals
+# https://www.calc.ngo/drafting-manuals-and-other-resources (Commonwealth Association of Legislative Counsel)
+
+- id: au-opc-drafting-services-guide
+  title: "OPC's drafting services: a guide for clients"
+  jurisdiction: Australia
+  jurisdiction_level: national
+  country_code: AU
+  region: Oceania
+  issuing_body: Office of Parliamentary Counsel
+  languages: [en]
+  document_type: client guide
+  legal_status: Guidance
+  edition: 7th edition (July 2022)
+  published: "2015-12"
+  last_updated: "2022-07"
+  currency:
+    status: unverified
+    note: CALC lists the 5th edition (December 2015). A 7th edition (July 2022) is indexed on opc.gov.au; the OPC site returned errors on 2026-11-01, so the edition was not confirmed.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: null
+  landing_url: https://www.opc.gov.au/node/148
+  license: "© Commonwealth of Australia"
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
+
+- id: au-opc-amending-forms-manual
+  title: Amending Forms Manual
+  jurisdiction: Australia
+  jurisdiction_level: national
+  country_code: AU
+  region: Oceania
+  issuing_body: Office of Parliamentary Counsel
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: 15th edition (May 2025)
+  last_updated: "2025-05-06"
+  currency:
+    status: unverified
+    note: CALC lists the 13th edition (December 2017). A 15th edition dated 6 May 2025 is indexed on opc.gov.au; the OPC site returned errors on 2026-11-01, so the edition was not confirmed.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: null
+  landing_url: https://www.opc.gov.au/drafting-resources/publications
+  license: "© Commonwealth of Australia"
+  topics: [amending_formulas]
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
+
+- id: au-opc-reducing-complexity
+  title: Reducing complexity in legislation
+  jurisdiction: Australia
+  jurisdiction_level: national
+  country_code: AU
+  region: Oceania
+  issuing_body: Office of Parliamentary Counsel
+  languages: [en]
+  document_type: drafting guidance
+  legal_status: Guidance
+  edition: Document release 2.1 (June 2016)
+  published: "2016-06"
+  last_updated: "2016-06"
+  currency:
+    status: unverified
+    note: Edition as listed by CALC; the opc.gov.au copy returned errors on 2026-11-01.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.opc.gov.au/sites/default/files/2023-01/reducingcomplexity.pdf
+  landing_url: https://www.opc.gov.au/drafting-resources/publications
+  license: "© Commonwealth of Australia"
+  topics: [plain_language]
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
+
+- id: nz-pco-plain-language
+  title: Plain language
+  jurisdiction: New Zealand
+  jurisdiction_level: national
+  country_code: NZ
+  region: Oceania
+  issuing_body: Parliamentary Counsel Office
+  languages: [en]
+  document_type: drafting guidance
+  legal_status: Guidance
+  last_updated: continuously updated online
+  currency:
+    status: unverified
+    note: Web page as listed by CALC; the link returned HTTP 403 to an automated check on 2026-11-01.
+    checked_on: "2026-11-01"
+  original_format: HTML
+  source_url: http://www.pco.govt.nz/plain-language/
+  landing_url: https://www.pco.govt.nz/
+  license: Crown copyright (New Zealand)
+  topics: [plain_language]
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
+
+- id: pilon-pacific-toolkit
+  title: "Pacific Toolkit: From policy to legislation"
+  jurisdiction: Pacific Islands Law Officers' Network
+  jurisdiction_level: international
+  country_code: PILON
+  region: Oceania
+  issuing_body: Pacific Islands Law Officers' Network (PILON) and Australian Attorney-General's Department
+  languages: [en]
+  document_type: drafting toolkit
+  legal_status: Guidance
+  published: "2020"
+  last_updated: "2020"
+  currency:
+    status: unverified
+    note: Online toolkit on pilonsec.org (HTTP 200 on 2026-11-01); edition not checked further.
+    checked_on: "2026-11-01"
+  original_format: HTML
+  source_url: https://pilonsec.org/digital-library/pacific-toolkit/foreword/
+  landing_url: https://pilonsec.org/digital-library/pacific-toolkit/foreword/
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources
+
+- id: uk-guide-gender-neutral-drafting
+  title: Guide to Gender-Neutral Drafting
+  jurisdiction: United Kingdom
+  jurisdiction_level: national
+  country_code: GB
+  region: Europe
+  issuing_body: Office of the Parliamentary Counsel and Government Legal Department
+  languages: [en]
+  document_type: drafting guidance
+  legal_status: Guidance
+  published: "2019-11"
+  last_updated: "2019-11"
+  currency:
+    status: unverified
+    note: The PDF linked by CALC is hosted by the InterLaw Diversity Forum (HTTP 200 on 2026-11-01); no copy on gov.uk was found.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://5bf0cd3a-5473-4313-b467-45d59f70140a.filesusr.com/ugd/5aa06e_455f1fc65087475fb85782a97d72dccf.pdf
+  landing_url: https://www.interlawdiversityforum.org/guide-to-gender-neutral-drafting
+  license: Crown copyright
+  topics: [gender_neutrality]
+  notes: Copy hosted by the InterLaw Diversity Forum.
+  credits:
+    - name: Commonwealth Association of Legislative Counsel (CALC)
+      url: https://www.calc.ngo/drafting-manuals-and-other-resources

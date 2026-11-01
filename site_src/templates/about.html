@@ -7,12 +7,14 @@
     Its catalog, converted texts, comparison matrix and bill auditor are experimental and may be incomplete or contain errors.</p>
   <p>This site collects the legislative drafting guidelines of national legislatures and governments and of supranational and
     international bodies, and presents each one with structured metadata and, where possible, its full text in HTML.
-    The first phase covers {{ stats.documents }} documents from {{ stats.jurisdictions }} jurisdictions; sub-national
-    guidelines (states, provinces, devolved legislatures) are queued for a later phase.</p>
+    It covers {{ stats.documents }} documents from {{ stats.groups }} countries and organisations, including guidelines of
+    {{ stats.subdivisions }} states, provinces, territories and devolved governments. The home page lists guidelines by
+    country or organisation; each country's page links to its sub-national guidelines.</p>
 
   <h2>Metadata recorded for each guideline</h2>
   <dl class="meta">
-    <dt>Jurisdiction and level</dt><dd>Country or organisation, and whether it is national, supranational (e.g. the EU) or international (e.g. the UN).</dd>
+    <dt>Jurisdiction and level</dt><dd>Country or organisation, and whether it is national, supranational (e.g. the EU), international (e.g. the UN)
+      or sub-national (a state, province, territory or devolved government, identified by its ISO 3166-2 code).</dd>
     <dt>Issuing body</dt><dd>The office that publishes the guideline, such as a parliamentary counsel office or ministry of justice.</dd>
     <dt>Legal status</dt><dd>Whether the text is binding (a regulation, statute or government resolution) or guidance.</dd>
     <dt>Edition, first published, last updated</dt><dd>As stated by the issuer. “Continuously updated” marks online guides without editions.</dd>
@@ -26,6 +28,7 @@
     <dt>Original format and source</dt><dd>The format the issuer publishes (PDF, HTML, DOCX), the direct source URL and the publisher's page.</dd>
     <dt>Retrieval</dt><dd>Date the stored copy was downloaded, its size and SHA-256 checksum, so changes to the official file can be detected.</dd>
     <dt>Licence</dt><dd>The reuse terms stated by the issuer, where known.</dd>
+    <dt>Hosted at and found via</dt><dd>The site serving the copy linked from the entry, and the collection or directory through which the document was found.</dd>
   </dl>
 
   <h2>Conversion to HTML</h2>
@@ -40,7 +43,8 @@
 
   <h2>Sources</h2>
   <p>Documents were located through the issuers' own websites and the drafting-manual list maintained by the
-    <a href="https://calc.ngo/drafting-manuals-and-other-resources">Commonwealth Association of Legislative Counsel</a>.
+    <a href="https://www.calc.ngo/drafting-manuals-and-other-resources">Commonwealth Association of Legislative Counsel</a> (CALC).
+    Entries drawn from the CALC list name CALC under “Found via”, alongside the issuing body and the site hosting the copy.
     A companion HTML edition of the <a href="https://aih.github.io/commonwealth-leg-drafting-manual/">Commonwealth Legislative Drafting Manual</a> is maintained separately.</p>
 
   <h2>Contribute</h2>

@@ -2,15 +2,18 @@
 from __future__ import annotations
 
 import re
+import sys
 from pathlib import Path
 
 import pytest
-import yaml
 from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parent.parent
 CONVERTED = sorted(ROOT.glob("documents/*/content.html"))
-CATALOG_IDS = {g["id"] for g in yaml.safe_load((ROOT / "data" / "guidelines.yml").read_text(encoding="utf-8"))}
+sys.path.insert(0, str(ROOT / "scripts"))
+from catalog import load_catalog  # noqa: E402
+
+CATALOG_IDS = {g["id"] for g in load_catalog()}
 
 # Shortest genuine guideline in the collection is a few thousand words; block and login pages are under a few hundred.
 MIN_WORDS = 1000

@@ -16,6 +16,35 @@ def test_catalog_schema_valid():
     assert errors == [], f"Catalog schema validation failed: {errors}"
 
 
+def test_subnational_entries_grouped_under_country(tmp_path):
+    import build_site
+    entry = {
+        "id": "zz-test-guide", "title": "Test guide", "jurisdiction": "Texas", "jurisdiction_level": "subnational",
+        "country_code": "US", "subdivision_code": "US-TX", "subdivision_type": "state", "region": "Americas",
+        "issuing_body": "Texas Legislative Council", "languages": ["en"], "document_type": "drafting manual",
+        "currency": {"status": "unverified", "checked_on": "2026-11-01"}, "original_format": "PDF",
+        "source_url": "https://example.org/x.pdf",
+        "credits": [{"name": "CALC", "url": "https://www.calc.ngo/drafting-manuals-and-other-resources"}],
+    }
+    import yaml
+    path = tmp_path / "subnational.yml"
+    path.write_text(yaml.safe_dump([entry]), encoding="utf-8")
+    assert validate_catalog.validate_catalog([validate_catalog.CATALOG_FILES[0], path]) == []
+
+    bad = dict(entry, id="zz-bad", subdivision_code="CA-ON")
+    path.write_text(yaml.safe_dump([bad]), encoding="utf-8")
+    assert any("does not belong" in e for e in validate_catalog.validate_catalog([validate_catalog.CATALOG_FILES[0], path]))
+
+    catalog = build_site.load()
+    catalog.append(dict(entry, country_name="United States", display_jurisdiction="Texas (United States)"))
+    groups = {g["code"]: g for g in build_site.build_groups(catalog)}
+    us = groups["US"]
+    assert any(s["code"] == "US-TX" for s in us["subs"])
+    assert all(g["jurisdiction_level"] != "subnational" for g in us["national"])
+    assert [s["code"] for s in groups["GB"]["subs"]][:2] == ["GB-SCT", "GB-WLS"]
+    assert groups["EU"]["kind"] == "organisation"
+
+
 def test_flawed_bill_scores_low_under_uk_opc():
     flawed = """
     A BILL ENTITLED AN ACT TO REGULATE ALGORITHMS.

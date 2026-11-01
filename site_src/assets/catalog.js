@@ -106,7 +106,7 @@
       if (f[k].value && !(k === 'sort' && f[k].value === 'jurisdiction')) params.set(k, f[k].value);
     });
     var qs = params.toString();
-    history.replaceState(null, '', qs ? '?' + qs : location.pathname);
+    history.replaceState(null, '', (qs ? '?' + qs : location.pathname) + location.hash);
   }
 
   var initial = new URLSearchParams(location.search);

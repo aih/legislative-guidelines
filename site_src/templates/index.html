@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% from "_macros.html" import guideline_item %}
 {% block main %}
 <section class="hero">
   <div class="wrap">
@@ -9,12 +10,20 @@
       <input id="hero-q" name="q" type="search" placeholder="Search the full text, e.g. “shall” or “definitions”">
       <button type="submit">Search</button>
     </form>
-    <p class="hero-stats">{{ stats.documents }} guidelines · {{ stats.jurisdictions }} jurisdictions ·
+    <p class="hero-stats">{{ stats.documents }} guidelines · {{ stats.groups }} countries and organisations ·
+      {{ stats.subdivisions }} states, provinces and other sub-national jurisdictions ·
       {{ stats.converted }} with full text in HTML</p>
   </div>
 </section>
 
-<section class="wrap catalog">
+<div class="wrap view-switch" id="view-switch" role="tablist" aria-label="Browse guidelines" hidden>
+  <button type="button" role="tab" id="tab-countries" aria-controls="view-countries" aria-selected="true">By country &amp; organisation</button>
+  <button type="button" role="tab" id="tab-az" aria-controls="view-az" aria-selected="false" tabindex="-1">All guidelines A–Z</button>
+</div>
+
+{% include "_countries.html" %}
+
+<section class="wrap catalog" id="view-az" role="tabpanel" aria-labelledby="tab-az">
   <div class="catalog-head">
     <h2>Guidelines A–Z</h2>
     <p class="count" id="f-count" aria-live="polite">{{ catalog_az|length }} guidelines</p>
@@ -67,30 +76,11 @@
 
   <ol class="g-list" id="catalog">
   {% for g in catalog_az %}
-    <li class="g-item" data-level="{{ g.jurisdiction_level }}" data-tradition="{{ g.legal_tradition }}" data-region="{{ g.region }}"
-        data-status="{{ g.currency.status }}" data-langs="{{ g.language_names|join('|') }}"
-        data-jurisdiction="{{ g.jurisdiction }}" data-title="{{ g.title }}"
-        data-html="{{ 'yes' if g.content else 'no' }}" data-recency="{{ g.recency }}"
-        data-lang="{{ g.language_names[0] if g.language_names else '' }}"
-        data-text="{{ (g.title ~ ' ' ~ (g.title_en or '') ~ ' ' ~ g.jurisdiction ~ ' ' ~ g.issuing_body ~ ' ' ~ g.document_type ~ ' ' ~ (g.topics|default([])|join(' ')))|lower }}">
-      <div class="g-main">
-        <span class="juris">{{ g.jurisdiction }}</span>
-        <a class="g-title" href="guidelines/{{ g.id }}/index.html">{{ g.title }}</a>
-        {% if g.title_en %}<span class="g-en">{{ g.title_en }}</span>{% endif %}
-        <span class="g-type">{{ g.issuing_body }} · {{ g.document_type }}{% if g.edition %} · {{ g.edition }}{% endif %}</span>
-      </div>
-      <div class="g-side">
-        <span class="badge badge-{{ g.currency.status }}">{{ g.status_label }}</span>
-        <span class="g-updated">{{ g.last_updated or '—' }}</span>
-        {% if g.content %}<span class="text-flag text-flag-yes" title="The full text can be read on this site">Full text in HTML</span>
-        {% else %}<span class="text-flag text-flag-no" title="Only the catalog entry is on this site; follow the official source for the text">Source link only</span>{% endif %}
-        <span class="g-format">Original: {{ g.original_format }}
-          · <a href="auditor.html?guideline={{ g.id }}" title="Benchmark a draft bill against this guideline">Audit</a></span>
-      </div>
-    </li>
+    {{ guideline_item(g) }}
   {% endfor %}
   </ol>
   <p class="g-empty" id="f-empty" hidden>No guidelines match these filters.</p>
 </section>
 {% endblock %}
-{% block scripts %}<script src="assets/catalog.js"></script>{% endblock %}
+{% block scripts %}<script src="assets/catalog.js"></script>
+<script src="assets/countries.js"></script>{% endblock %}

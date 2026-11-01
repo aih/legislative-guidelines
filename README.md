@@ -8,7 +8,8 @@ Site: <https://legdraft.linkedlegislation.org/> (deployed from `main` by GitHub 
 
 ## Key Features
 
-- **Global Catalog (`index.html`)**: Filter by jurisdiction, governance level (`supranational`, `international`, `national`, `subnational`), legal tradition (`common_law`, `civil_law`, `bijural`, `supranational`, `international`), region, language, and currency status.
+- **Browse by country (`index.html`)**: One page per country or organisation, chosen from a filterable index grouped by region. Each country page lists its national guidelines and a row of its states, provinces or territories with guideline counts; choosing one lists that jurisdiction's guidelines. Links take the form `index.html#US`, `index.html#US/US-TX` and `index.html#US/all`.
+- **Global Catalog (`index.html#all`)**: Filter by jurisdiction, governance level (`supranational`, `international`, `national`, `subnational`), legal tradition (`common_law`, `civil_law`, `bijural`, `supranational`, `international`), region, language, and currency status.
 - **Bill & Act Drafting Compliance Auditor (`auditor.html` & `scripts/evaluate_bill.py`)**: Upload a drafted bill or statutory clauses (`.txt`, `.md`, `.xml` Akoma Ntoso / USLM, `.html`) or load sample bills, select one or more target guidelines, and receive:
   - A **1–10 overall compliance score** and 5 dimensional sub-scores (*Clarity & Plain Language*, *Normative Verbs & Precision*, *Definitions & Cross-References*, *Guideline Conventions*, *Structural Organization*).
   - A **rule-by-rule checklist (`PASS` / `WARN` / `FAIL`)** with citations to the official drafting manual.
@@ -22,13 +23,15 @@ Site: <https://legdraft.linkedlegislation.org/> (deployed from `main` by GitHub 
 
 | Path | Contents |
 |---|---|
-| `data/guidelines.yml` | The catalog: one entry per guideline. Fields are documented in [`data/SCHEMA.md`](data/SCHEMA.md). |
+| `data/guidelines.yml` | The catalog of national, supranational and international guidelines: one entry per guideline. Fields are documented in [`data/SCHEMA.md`](data/SCHEMA.md). |
+| `data/subnational.yml` | Guidelines of states, provinces, territories and devolved governments, in the same format. |
 | `data/guidelines.schema.json` | Formal JSON Schema (Draft 2020-12) validating `data/guidelines.yml`. |
 | `data/comparative_matrix.yml` | Cross-jurisdictional comparative matrix data across 10 benchmark drafting manuals. |
 | `data/retrieval.json` | Download record per document: date, final URL, HTTP status, size, SHA-256, or the error. |
 | `documents/<id>/original.*` | Downloaded original. Kept locally; not committed. |
 | `documents/<id>/content.html`, `toc.json` | Converted HTML and table of contents. Committed. `text.txt` is kept locally. |
-| `scripts/validate_catalog.py` | Validates `data/guidelines.yml` against `data/guidelines.schema.json`. |
+| `scripts/catalog.py` | Loads and merges the catalog files. |
+| `scripts/validate_catalog.py` | Validates the catalog files against `data/guidelines.schema.json`. |
 | `scripts/evaluate_bill.py` | CLI and local HTTP API engine for evaluating draft bills against guidelines (1–10 score). |
 | `scripts/fetch.py` | Downloads originals listed in the catalog. |
 | `scripts/convert.py` | Converts PDF, HTML and Word originals to structured HTML. |

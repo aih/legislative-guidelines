@@ -287,7 +287,8 @@ INANIMATE_SHALL_SUBJECTS = {
 def load_catalog_lookup() -> dict[str, dict[str, Any]]:
     if not CATALOG_PATH.exists():
         return {}
-    entries = yaml.safe_load(CATALOG_PATH.read_text(encoding="utf-8")) or []
+    from catalog import load_catalog
+    entries = load_catalog()
     return {e["id"]: e for e in entries if isinstance(e, dict) and "id" in e}
 
 

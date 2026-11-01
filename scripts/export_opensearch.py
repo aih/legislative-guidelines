@@ -50,7 +50,8 @@ def sections(content_html: str):
 
 
 def documents(page_base: str):
-    catalog = yaml.safe_load((ROOT / "data" / "guidelines.yml").read_text(encoding="utf-8"))
+    from catalog import load_catalog
+    catalog = load_catalog()
     for g in catalog:
         meta = {
             "guideline_id": g["id"],
