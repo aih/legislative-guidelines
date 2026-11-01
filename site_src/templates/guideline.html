@@ -1,6 +1,6 @@
 {% extends "base.html" %}
-{% block title %}{{ g.title }} — {{ g.jurisdiction }} | {{ site.title }}{% endblock %}
-{% block description %}{{ g.document_type|capitalize }} issued by {{ g.issuing_body }} ({{ g.jurisdiction }}).{% endblock %}
+{% block title %}{{ g.title }} — {{ g.display_jurisdiction }} | {{ site.title }}{% endblock %}
+{% block description %}{{ g.document_type|capitalize }} issued by {{ g.issuing_body }} ({{ g.display_jurisdiction }}).{% endblock %}
 {% block main %}
 <div class="wrap doc-layout">
   <aside class="doc-toc" aria-label="Contents">
@@ -22,11 +22,14 @@
   </aside>
 
   <article class="doc" data-pagefind-body>
-    <p class="crumbs" data-pagefind-ignore><a href="../../index.html">Guidelines</a> › {{ g.jurisdiction }}</p>
+    <p class="crumbs" data-pagefind-ignore><a href="../../index.html">Guidelines</a> ›
+      <a href="../../index.html#{{ g.country_code }}">{{ g.country_name }}</a>
+      {% if g.subdivision_code %}› <a href="../../index.html#{{ g.country_code }}/{{ g.subdivision_code }}">{{ g.jurisdiction }}</a>{% endif %}</p>
     <h1 data-pagefind-meta="title">{{ g.title }}</h1>
     {% if g.title_en %}<p class="g-en-lg">{{ g.title_en }}</p>{% endif %}
     <p class="doc-sub">
-      <span data-pagefind-filter="Jurisdiction">{{ g.jurisdiction }}</span> ·
+      <span data-pagefind-filter="Jurisdiction">{{ g.display_jurisdiction }}</span> ·
+      <span hidden data-pagefind-filter="Country">{{ g.country_name }}</span>
       <span>{{ g.issuing_body }}</span>
       <span hidden data-pagefind-filter="Level">{{ g.jurisdiction_level }}</span>
       <span hidden data-pagefind-filter="Region">{{ g.region }}</span>
@@ -43,7 +46,7 @@
         {% if g.html_edition_url %}<a class="button button-outline" href="{{ g.html_edition_url }}">HTML edition</a>{% endif %}
       </div>
       <dl class="meta">
-        <dt>Jurisdiction</dt><dd>{{ g.jurisdiction }} ({{ g.jurisdiction_level }} · {{ g.legal_tradition|replace('_', ' ') }})</dd>
+        <dt>Jurisdiction</dt><dd>{{ g.display_jurisdiction }} · {% if g.subdivision_type %}{{ g.subdivision_type }} ({{ g.subdivision_code }}) · {% endif %}{{ g.jurisdiction_level }} · {{ g.legal_tradition|replace('_', ' ') }}</dd>
         <dt>Issuing body</dt><dd>{{ g.issuing_body }}</dd>
         <dt>Document type</dt><dd>{{ g.document_type|capitalize }}</dd>
         <dt>Legal status</dt><dd>{{ g.legal_status or '—' }}</dd>
@@ -57,6 +60,7 @@
         <dt>Language(s)</dt><dd>{{ g.language_names|join(', ') }}</dd>
         <dt>Original format</dt><dd>{{ g.original_format }}</dd>
         <dt>Source URL</dt><dd>{% if g.source_url %}<a href="{{ g.source_url }}">{{ g.source_url|truncate(80) }}</a>{% else %}—{% endif %}</dd>
+        {% if g.host %}<dt>Hosted at</dt><dd>{{ g.host }}</dd>{% endif %}
         {% if g.landing_url and g.landing_url != g.source_url %}<dt>Publisher page</dt><dd><a href="{{ g.landing_url }}">{{ g.landing_url|truncate(80) }}</a></dd>{% endif %}
         <dt>Retrieved</dt>
         <dd>{% if g.retrieval.sha256 %}{{ g.retrieval.retrieved_at[:10] }} · {{ '{:,}'.format(g.retrieval.bytes) }} bytes ·
@@ -73,6 +77,8 @@
         </dd>
         {% endif %}
         {% if g.notes %}<dt>Notes</dt><dd>{{ g.notes }}</dd>{% endif %}
+        {% if g.credits %}<dt>Found via</dt>
+        <dd>{% for c in g.credits %}<a href="{{ c.url }}">{{ c.name }}</a>{% if c.note %} ({{ c.note }}){% endif %}{% if not loop.last %}; {% endif %}{% endfor %}</dd>{% endif %}
       </dl>
     </section>
 

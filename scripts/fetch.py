@@ -57,7 +57,8 @@ EXT_BY_TYPE = {
 
 
 def load_catalog() -> list[dict]:
-    return yaml.safe_load(CATALOG.read_text(encoding="utf-8"))
+    from catalog import load_catalog as load_all
+    return load_all()
 
 
 def load_retrieval() -> dict:

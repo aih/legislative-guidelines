@@ -4,7 +4,8 @@
 Reads data/guidelines.yml, data/retrieval.json, data/comparative_matrix.yml and
 the converted documents in documents/<id>/ and writes:
 
-    dist/index.html                    landing page: search box and A-Z filterable list
+    dist/index.html                    landing page: search box, guidelines by country (with sub-national
+                                       navigation) and A-Z filterable list
     dist/compare.html                  cross-jurisdictional comparative matrix
     dist/auditor.html                  interactive bill drafting compliance auditor (1-10 score)
     dist/guidelines/<id>/index.html    one page per guideline: metadata, contents, full text
@@ -28,9 +29,13 @@ import os
 import shutil
 import sys
 import unicodedata
+from urllib.parse import urlparse
 from pathlib import Path
 
 import yaml
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from catalog import load_catalog  # noqa: E402
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -40,7 +45,7 @@ DOCS = ROOT / "documents"
 
 SITE = {
     "title": "Legislative Drafting Guidelines",
-    "subtitle": "National and supranational drafting manuals, collected and converted to HTML",
+    "subtitle": "National, sub-national and supranational drafting manuals, collected and converted to HTML",
     "repo": os.environ.get("SITE_REPO", "aih/legislative-guidelines"),
     "url": os.environ.get("SITE_URL", "https://legdraft.linkedlegislation.org/"),
     # Optional: a Formspree-compatible endpoint. When empty, the contribute form
@@ -72,19 +77,51 @@ COMMON_LAW_CODES = {
 }
 BIJURAL_CODES = {"CA", "ZA", "PH", "RW", "GB-SCT", "JE"}
 
+# Country names for countries that have sub-national entries but no national entry
+# (otherwise the name is taken from the national entry's `jurisdiction`).
+COUNTRY_NAMES = {
+    "US": "United States", "CA": "Canada", "AU": "Australia", "GB": "United Kingdom", "IN": "India",
+    "DE": "Germany", "AT": "Austria", "CH": "Switzerland", "BE": "Belgium", "ES": "Spain", "IT": "Italy",
+    "BR": "Brazil", "AR": "Argentina", "MX": "Mexico", "NG": "Nigeria", "ZA": "South Africa", "MY": "Malaysia",
+    "PK": "Pakistan", "CN": "China", "RU": "Russia", "KE": "Kenya", "ET": "Ethiopia", "NZ": "New Zealand",
+    "FR": "France", "PT": "Portugal", "FI": "Finland", "DK": "Denmark", "BA": "Bosnia and Herzegovina",
+}
+
+SECTION_ORDER = ["International & supranational", "Africa", "Americas", "Asia", "Europe", "Oceania"]
+
+PLURALS = {"land": "Länder", "devolved nation": "devolved nations"}
+
+
+def plural(noun: str) -> str:
+    if noun in PLURALS:
+        return PLURALS[noun]
+    if noun.endswith("y") and not noun.endswith(("ay", "ey", "oy")):
+        return noun[:-1] + "ies"
+    return noun + "s"
+
+
+def subdivision_label(types: list[str]) -> str:
+    """Navigation label from the subdivision types present, e.g. "States & territories"."""
+    names = []
+    for t in types:
+        if plural(t) not in names:
+            names.append(plural(t))
+    label = " & ".join(names[:2]) + (" & other" if len(names) > 2 else "")
+    return label[:1].upper() + label[1:]
+
 
 def infer_tradition(g: dict) -> str:
     if g.get("legal_tradition"):
         return g["legal_tradition"]
     level = g.get("jurisdiction_level", "national")
-    code = g.get("country_code", "")
+    code = g.get("subdivision_code") or g.get("country_code", "")
     if level == "supranational":
         return "supranational"
     if level == "international":
         return "international"
     if code == "CA":
         return "bijural"
-    if code in COMMON_LAW_CODES:
+    if code in COMMON_LAW_CODES or g.get("country_code") in COMMON_LAW_CODES:
         return "common_law"
     return "civil_law"
 
@@ -101,7 +138,7 @@ def recency_key(last_updated) -> str:
 
 
 def load() -> list[dict]:
-    catalog = yaml.safe_load((ROOT / "data" / "guidelines.yml").read_text(encoding="utf-8"))
+    catalog = load_catalog()
     retrieval_path = ROOT / "data" / "retrieval.json"
     retrieval = json.loads(retrieval_path.read_text(encoding="utf-8")) if retrieval_path.exists() else {}
     for g in catalog:
@@ -117,9 +154,65 @@ def load() -> list[dict]:
         g["language_names"] = [LANGUAGE_NAMES.get(code, code) for code in g.get("languages", [])]
         g["legal_tradition"] = infer_tradition(g)
         g["recency"] = recency_key(g.get("last_updated"))
+    names = {g["country_code"]: g["jurisdiction"] for g in catalog if g["jurisdiction_level"] != "subnational"}
+    for g in catalog:
+        g["country_name"] = names.get(g["country_code"]) or COUNTRY_NAMES.get(g["country_code"], g["country_code"])
+        g["display_jurisdiction"] = (f"{g['jurisdiction']} ({g['country_name']})"
+                                     if g["jurisdiction_level"] == "subnational" else g["jurisdiction"])
+        url = g.get("source_url") or g.get("landing_url") or ""
+        host = urlparse(url).netloc.lower()
+        g["host"] = host[4:] if host.startswith("www.") else host
     level_order = {"supranational": 0, "international": 1, "national": 2, "subnational": 3}
     catalog.sort(key=lambda g: (level_order.get(g["jurisdiction_level"], 9), g["jurisdiction"], g["title"]))
     return catalog
+
+
+def build_groups(catalog: list[dict]) -> list[dict]:
+    """One group per country or organisation (keyed by country_code), with its
+    national entries and its sub-national entries grouped by subdivision."""
+    groups: dict[str, dict] = {}
+    for g in catalog:
+        code = g["country_code"]
+        grp = groups.setdefault(code, {"code": code, "name": g["country_name"], "kind": "country",
+                                       "region": g["region"], "national": [], "subs": {}})
+        if g["jurisdiction_level"] in ("supranational", "international"):
+            grp["kind"] = "organisation"
+        if g["jurisdiction_level"] == "subnational":
+            sub = grp["subs"].setdefault(g["subdivision_code"], {
+                "code": g["subdivision_code"], "name": g["jurisdiction"],
+                "type": g.get("subdivision_type", "subdivision"), "entries": []})
+            sub["entries"].append(g)
+        else:
+            grp["national"].append(g)
+            grp["region"] = g["region"]
+    out = []
+    for grp in groups.values():
+        grp["section"] = "International & supranational" if grp["kind"] == "organisation" else grp["region"]
+        grp["national"].sort(key=lambda g: sort_key(g["title"]))
+        subs = sorted(grp["subs"].values(), key=lambda s: sort_key(s["name"]))
+        for s in subs:
+            s["entries"].sort(key=lambda g: sort_key(g["title"]))
+        grp["subs"] = subs
+        grp["sub_count"] = sum(len(s["entries"]) for s in subs)
+        type_counts: dict[str, int] = {}
+        for s in subs:
+            type_counts[s["type"]] = type_counts.get(s["type"], 0) + 1
+        types = sorted(type_counts, key=lambda t: -type_counts[t])
+        grp["sub_label"] = subdivision_label(types) if types else ""
+        grp["total"] = len(grp["national"]) + grp["sub_count"]
+        out.append(grp)
+    out.sort(key=lambda grp: (SECTION_ORDER.index(grp["section"]) if grp["section"] in SECTION_ORDER else 99,
+                              sort_key(grp["name"])))
+    return out
+
+
+def group_sections(groups: list[dict]) -> list[dict]:
+    sections: list[dict] = []
+    for grp in groups:
+        if not sections or sections[-1]["name"] != grp["section"]:
+            sections.append({"name": grp["section"], "groups": []})
+        sections[-1]["groups"].append(grp)
+    return sections
 
 
 def load_matrix() -> dict:
@@ -142,9 +235,10 @@ def write(path: Path, text: str) -> None:
 def export_catalog(catalog: list[dict]) -> None:
     fields = [
         "id", "title", "title_en", "jurisdiction", "jurisdiction_level", "legal_tradition", "country_code",
+        "subdivision_code", "subdivision_type",
         "region", "issuing_body", "languages", "document_type", "legal_status", "edition", "published",
         "last_updated", "currency_status", "currency_note", "checked_on", "original_format", "source_url",
-        "landing_url", "license", "retrieved_at", "stored_format", "sha256",
+        "landing_url", "license", "credits", "retrieved_at", "stored_format", "sha256",
     ]
     rows = []
     for g in catalog:
@@ -154,6 +248,7 @@ def export_catalog(catalog: list[dict]) -> None:
             {
                 **{k: g.get(k) for k in fields if k in g},
                 "languages": ", ".join(g.get("languages", [])),
+                "credits": "; ".join(c["name"] for c in g.get("credits", [])),
                 "currency_status": cur.get("status"),
                 "currency_note": cur.get("note"),
                 "checked_on": cur.get("checked_on"),
@@ -197,13 +292,18 @@ def main() -> int:
     stats = {
         "documents": len(catalog),
         "jurisdictions": len({g["jurisdiction"] for g in catalog}),
+        "groups": len({g["country_code"] for g in catalog}),
+        "subdivisions": len({g["subdivision_code"] for g in catalog if g.get("subdivision_code")}),
         "converted": sum(1 for g in catalog if g["content"]),
         "stored": sum(1 for g in catalog if g["stored_original"]),
     }
-    catalog_az = sorted(catalog, key=lambda g: (sort_key(g["jurisdiction"]), sort_key(g["title"])))
+    catalog_az = sorted(catalog, key=lambda g: (sort_key(g["display_jurisdiction"]), sort_key(g["title"])))
+    groups = build_groups(catalog)
+    sections = group_sections(groups)
     for name in ["index.html", "compare.html", "auditor.html", "search.html", "contribute.html", "about.html", "opensearch.xml"]:
         tpl = env.get_template(name)
-        write(DIST / name, tpl.render(**common, base="", facets=facets, stats=stats, catalog_az=catalog_az, page=name))
+        write(DIST / name, tpl.render(**common, base="", facets=facets, stats=stats, catalog_az=catalog_az,
+                                           groups=groups, sections=sections, page=name))
 
     tpl = env.get_template("guideline.html")
     for g in catalog:

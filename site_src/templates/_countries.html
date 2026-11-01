@@ -1,0 +1,104 @@
+{% from "_macros.html" import guideline_item %}
+<section class="wrap countries" id="view-countries" role="tabpanel" aria-labelledby="tab-countries">
+  <div class="c-layout">
+    <aside class="c-index">
+      <details class="c-index-box" id="c-index-box" open>
+        <summary>Countries &amp; organisations <span class="c-count">{{ groups|length }}</span></summary>
+        <label class="c-find">Find a country, state or organisation
+          <input type="search" id="c-filter" placeholder="e.g. Canada, Texas, EU" autocomplete="off"></label>
+        <nav aria-label="Countries and organisations" id="c-nav">
+          {% for sec in sections %}
+          <details class="c-region" open>
+            <summary>{{ sec.name }} <span class="c-count">{{ sec.groups|length }}</span></summary>
+            <ul>
+              {% for grp in sec.groups %}
+              <li data-find="{{ (grp.name ~ ' ' ~ grp.code ~ ' ' ~ (grp.subs|map(attribute='name')|join(' ')))|lower }}">
+                <a href="#{{ grp.code }}" data-code="{{ grp.code }}">
+                  <span class="c-name">{{ grp.name }}</span>
+                  <span class="c-nums">
+                    <span class="c-n" title="{{ grp.national|length }} national guideline{{ '' if grp.national|length == 1 else 's' }}">{{ grp.national|length }}</span>
+                    {% if grp.sub_count %}<span class="c-s" title="{{ grp.sub_count }} guideline{{ '' if grp.sub_count == 1 else 's' }} from {{ grp.subs|length }} {{ grp.sub_label|lower }}">+{{ grp.sub_count }}</span>{% endif %}
+                  </span>
+                </a>
+              </li>
+              {% endfor %}
+            </ul>
+          </details>
+          {% endfor %}
+          <p class="c-none" id="c-none" hidden>No match.</p>
+        </nav>
+      </details>
+    </aside>
+
+    <div class="c-panels">
+      <section class="c-panel c-overview" id="c-overview" aria-labelledby="h-overview">
+        <h2 id="h-overview">Guidelines by country and organisation</h2>
+        <p>Choose a country or organisation from the list to see its guidelines. In the list, the first number counts
+          national (or organisation) guidelines; <span class="c-s">+N</span> counts guidelines of its states, provinces,
+          territories or devolved governments, which open from the country's page.</p>
+        {% set with_subs = groups|selectattr('sub_count')|list %}
+        {% if with_subs %}
+        <h3>Countries with sub-national guidelines</h3>
+        <ul class="c-quick">
+          {% for grp in with_subs %}
+          <li><a href="#{{ grp.code }}">{{ grp.name }}</a> <span class="muted">{{ grp.subs|length }} {{ grp.sub_label|lower }} · {{ grp.sub_count }} guideline{{ '' if grp.sub_count == 1 else 's' }}</span></li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </section>
+
+      {% for grp in groups %}
+      <section class="c-panel" id="c-{{ grp.code }}" data-code="{{ grp.code }}" aria-labelledby="h-{{ grp.code }}">
+        <p class="crumbs">{{ grp.section }}</p>
+        <h2 id="h-{{ grp.code }}">{{ grp.name }}</h2>
+        <p class="c-summary">
+          {{ grp.national|length }} {{ 'organisation' if grp.kind == 'organisation' else 'national' }} guideline{{ '' if grp.national|length == 1 else 's' }}
+          {% if grp.subs %} · {{ grp.sub_count }} from {{ grp.subs|length }} {{ grp.sub_label|lower }}{% endif %}
+        </p>
+
+        {% if grp.subs %}
+        <nav class="c-jump" aria-label="Sections for {{ grp.name }}">
+          <a href="#{{ grp.code }}">{{ 'Organisation' if grp.kind == 'organisation' else 'National' }}</a>
+          <a href="#{{ grp.code }}/all" class="c-jump-sub">{{ grp.sub_label }} <span class="c-count">{{ grp.subs|length }}</span></a>
+        </nav>
+        {% endif %}
+
+        <h3 class="c-h3">{{ 'Guidelines' if grp.kind == 'organisation' else 'National guidelines' }}</h3>
+        {% if grp.national %}
+        <ol class="g-list">
+          {% for g in grp.national %}{{ guideline_item(g, show_juris=(grp.national|map(attribute='jurisdiction')|unique|list|length > 1)) }}{% endfor %}
+        </ol>
+        {% else %}
+        <p class="muted">No national guideline is in the collection yet. <a href="contribute.html">Suggest one</a>.</p>
+        {% endif %}
+
+        {% if grp.subs %}
+        <section class="subnat" id="sub-{{ grp.code }}" aria-labelledby="hs-{{ grp.code }}">
+          <h3 class="c-h3" id="hs-{{ grp.code }}">{{ grp.sub_label }}</h3>
+          {% if grp.subs|length > 8 %}
+          <label class="sub-find">Find {{ 'a' if grp.subs[0].type[0] not in 'aeiou' else 'an' }} {{ grp.subs[0].type }}
+            <input type="search" class="sub-filter" data-for="{{ grp.code }}" placeholder="Name or code" autocomplete="off"></label>
+          {% endif %}
+          <ul class="sub-chips" aria-label="{{ grp.sub_label }} of {{ grp.name }}">
+            {% for s in grp.subs %}
+            <li data-find="{{ (s.name ~ ' ' ~ s.code)|lower }}"><a class="chip" href="#{{ grp.code }}/{{ s.code }}" data-sub="{{ s.code }}">{{ s.name }}
+              <span class="chip-n" title="{{ s.entries|length }} guideline{{ '' if s.entries|length == 1 else 's' }}">{{ s.entries|length }}</span></a></li>
+            {% endfor %}
+            {% if grp.subs|length > 1 %}<li class="chip-all"><a class="chip chip-outline" href="#{{ grp.code }}/all" data-sub="all">Show all</a></li>{% endif %}
+          </ul>
+          <p class="sub-hint muted" hidden>Choose one of the {{ grp.sub_label|lower }} above to list its guidelines.</p>
+          {% for s in grp.subs %}
+          <div class="sub-panel" id="s-{{ s.code }}" data-sub="{{ s.code }}">
+            <h4>{{ s.name }} <span class="sub-type">{{ s.type }} · {{ s.code }}</span></h4>
+            <ol class="g-list">
+              {% for g in s.entries %}{{ guideline_item(g, show_juris=False) }}{% endfor %}
+            </ol>
+          </div>
+          {% endfor %}
+        </section>
+        {% endif %}
+      </section>
+      {% endfor %}
+    </div>
+  </div>
+</section>
