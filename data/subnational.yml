@@ -1,0 +1,3610 @@
+# Sub-national legislative drafting guidelines (states, provinces, territories, Länder, cantons, regions).
+# Same fields as data/guidelines.yml plus subdivision_code, subdivision_type and credits. See data/SCHEMA.md.
+# Entries listed on https://www.calc.ngo/drafting-manuals-and-other-resources carry a CALC credit.
+
+- id: ar-n-manual-de-tecnica-legislativa
+  title: Manual de Técnica Legislativa
+  title_en: Legislative Drafting Manual
+  jurisdiction: Misiones
+  jurisdiction_level: subnational
+  country_code: AR
+  subdivision_code: AR-N
+  subdivision_type: province
+  region: Americas
+  issuing_body: Cámara de Representantes de la Provincia de Misiones, Secretaría Legislativa
+  languages: [es]
+  document_type: drafting manual
+  legal_status: Guidance
+  published: "1994"
+  currency:
+    status: current
+    note: Prepared by the Comisión Especial de Ordenamiento Normativo y Técnica Legislativa (created by Resolución 02/94 of
+      the Secretaría Legislativa); 42-page PDF currently on the Chamber's site (file dated 2022).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://diputadosmisiones.gov.ar/nuevo/archivos/5%20-%20Manual%20de%20T%C3%A9cnica%20Legislativa.pdf
+  notes: A copy in the Peruvian Congress library is mislabelled 'Buenos_Aires_manual_tecnica_legislativa.pdf' but contains
+    this Misiones text.
+
+- id: at-3-noe-legistische-richtlinien-2015
+  title: NÖ Legistische Richtlinien 2015
+  title_en: Lower Austria Legislative Drafting Guidelines 2015
+  jurisdiction: Lower Austria
+  jurisdiction_level: subnational
+  country_code: AT
+  subdivision_code: AT-3
+  subdivision_type: land
+  region: Europe
+  issuing_body: Amt der NÖ Landesregierung, Abteilung Landesamtsdirektion/Verfassungsdienst
+  languages: [de]
+  document_type: drafting guidelines
+  legal_status: Guidelines of the Lower Austrian state government (internal binding instruction for the state administration)
+  edition: 2015 (Stand 1. Februar 2021)
+  published: "2015"
+  last_updated: "2021-02"
+  currency:
+    status: current
+    note: PDF on noe.gv.at is the 2015 guidelines as at 1 February 2021; covers planning, language, formal/technical design
+      and procedure for Landtag and government submissions.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.noe.gv.at/noe/Rechtsinformationen/legistische_richtlinien_2015.pdf
+
+- id: at-4-ooe-legistische-richtlinien
+  title: Legistische Richtlinien (Schriftenreihe des Landes Oberösterreich, Band 2)
+  title_en: Upper Austria Legislative Drafting Guidelines
+  jurisdiction: Upper Austria
+  jurisdiction_level: subnational
+  country_code: AT
+  subdivision_code: AT-4
+  subdivision_type: land
+  region: Europe
+  issuing_body: Amt der Oö. Landesregierung, Direktion Verfassungsdienst
+  languages: [de]
+  document_type: drafting guidelines
+  legal_status: Guidance (working basis for drafting state laws and ordinances)
+  edition: 1st edition, November 1997
+  published: "1997-11"
+  last_updated: "1997-11"
+  currency:
+    status: dated
+    note: The Land Oberösterreich Legistik page still links the 1997 edition and notes that later updates (especially to the
+      annexes) are not reflected in it. The page also offers procedural checklists (Gesetzgebungsverfahren, Verordnungserlassung).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.land-oberoesterreich.gv.at/Mediendateien/Formulare/Dokumente%20VerfD/verfD_LTD_Legistische_Richtlinien_1997.pdf
+  landing_url: https://www.land-oberoesterreich.gv.at/legistik.htm
+
+- id: at-6-stmk-legistisches-handbuch
+  title: Legistisches Handbuch des Landes Steiermark
+  title_en: Legislative Drafting Handbook of the Province of Styria
+  jurisdiction: Styria
+  jurisdiction_level: subnational
+  country_code: AT
+  subdivision_code: AT-6
+  subdivision_type: land
+  region: Europe
+  issuing_body: Amt der Steiermärkischen Landesregierung, Verfassungsdienst
+  languages: [de]
+  document_type: drafting manual
+  legal_status: Guidance issued by the Verfassungsdienst for the state administration
+  edition: Inhalt V2.5 (03/2026); sections carry their own versions
+  last_updated: "2026-03"
+  currency:
+    status: current
+    note: Combined PDF (LegHB_GESAMT) with sections A–M (procedure, layout, content, comprehensibility, gender-sensitive drafting,
+      explanatory notes, impact assessment, promulgation, re-publication, Art. 15a agreements); table of contents version
+      2.5 dated 03/2026.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.verwaltung.steiermark.at/cms/dokumente/11682114_74838392/96c8d116/LegHB_GESAMT.pdf
+
+- id: at-8-vbg-legistische-richtlinien-2022
+  title: Legistische Richtlinien 2022
+  title_en: Vorarlberg Legislative Drafting Guidelines 2022
+  jurisdiction: Vorarlberg
+  jurisdiction_level: subnational
+  country_code: AT
+  subdivision_code: AT-8
+  subdivision_type: land
+  region: Europe
+  issuing_body: Amt der Vorarlberger Landesregierung, Abteilung Gesetzgebung (PrsG)
+  languages: [de]
+  document_type: drafting guidelines
+  legal_status: Guidelines of the Legislation Department of the Office of the State Government
+  edition: "2022"
+  published: "2022"
+  last_updated: "2022"
+  currency:
+    status: unverified
+    note: Cited in a 2024 Landtag motion (NEOS) with a vorarlberg.at URL that now returns 404; an older edition was at http://www.vorarlberg.at/pdf/legistischerichtlinien.pdf.
+      No working copy found.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: null
+  landing_url: https://vorarlberg.at/-/legislation-tasks-and-services
+  notes: Dead URL - https://vorarlberg.at/documents/302033/472308/Legistische+Richtlinien+2022.pdf/5793e2ce-a8d4-21ef-9115-674ec42d1df0
+    (404 on 2026-11-01). Contact gesetzgebung@vorarlberg.at.
+
+- id: au-act-amending-guide
+  title: Amending Guide
+  jurisdiction: Australian Capital Territory
+  jurisdiction_level: subnational
+  country_code: AU
+  subdivision_code: AU-ACT
+  subdivision_type: territory
+  region: Oceania
+  issuing_body: ACT Parliamentary Counsel's Office
+  languages: [en]
+  document_type: amending guide
+  legal_status: Guidance
+  edition: Version 2026-1
+  published: "2018-08"
+  last_updated: "2026-02"
+  currency:
+    status: unverified
+    note: CALC lists the August 2018 edition (dead pco.act.gov.au/library/ URL). Search index shows Version 2026-1 (February
+      2026) on the current PCO site; host returns HTTP 403 to automated requests.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.pco.act.gov.au/__data/assets/pdf_file/0015/2216022/Amending-Guide.pdf
+  landing_url: https://www.pco.act.gov.au/drafting-and-publishing
+  credits:
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
+  notes: 'Word version: https://www.pco.act.gov.au/__data/assets/word_doc/0014/2216021/Amending-Guide.docx'
+
+- id: au-act-developing-legislation-working-with-pco
+  title: Developing Legislation and Working with PCO
+  jurisdiction: Australian Capital Territory
+  jurisdiction_level: subnational
+  country_code: AU
+  subdivision_code: AU-ACT
+  subdivision_type: territory
+  region: Oceania
+  issuing_body: ACT Parliamentary Counsel's Office
+  languages: [en]
+  document_type: process guide
+  legal_status: Guidance
+  currency:
+    status: unverified
+    note: Guide for instructing officers; found in search index (an earlier 'Working with PCO to Draft Legislation', June
+      2023, also indexed). Host returns HTTP 403 to automated requests.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.pco.act.gov.au/__data/assets/pdf_file/0003/2216037/Developing-Legislation-and-Working-with-PCO.pdf
+  landing_url: https://www.pco.act.gov.au/drafting-and-publishing
+
+- id: au-act-drafting-practice-guide
+  title: Drafting Practice Guide
+  jurisdiction: Australian Capital Territory
+  jurisdiction_level: subnational
+  country_code: AU
+  subdivision_code: AU-ACT
+  subdivision_type: territory
+  region: Oceania
+  issuing_body: ACT Parliamentary Counsel's Office
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: Version 2024-1
+  published: "2018-08"
+  last_updated: "2024-02"
+  currency:
+    status: unverified
+    note: CALC lists the August 2018 edition at pco.act.gov.au/library/ (old path, dead). Search index shows Version 2024-1
+      (February 2024) on the PCO's current site; the host returns HTTP 403 to automated requests, so the file could not be
+      fetched directly.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.pco.act.gov.au/__data/assets/pdf_file/0017/2216042/Drafting-Practice-Guide-V2024-1.pdf
+  landing_url: https://www.pco.act.gov.au/drafting-and-publishing
+  credits:
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
+  notes: CALC-listed URL http://www.pco.act.gov.au/library/Drafting%20Practice%20Guide.pdf is obsolete. Current URL taken
+    from search index; host blocks bots (403). A Word version is also offered on the landing page.
+
+- id: au-act-spelling-abbreviations-symbols-guide
+  title: Spelling, Abbreviations and Symbols Guide
+  jurisdiction: Australian Capital Territory
+  jurisdiction_level: subnational
+  country_code: AU
+  subdivision_code: AU-ACT
+  subdivision_type: territory
+  region: Oceania
+  issuing_body: ACT Parliamentary Counsel's Office
+  languages: [en]
+  document_type: style guide
+  legal_status: Guidance
+  edition: Version 2024-1
+  last_updated: "2024"
+  currency:
+    status: unverified
+    note: Not on CALC. PDF V2024-1 found in search index; a Word version labelled February 2026 may be newer. Host returns
+      HTTP 403 to automated requests.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.pco.act.gov.au/__data/assets/pdf_file/0007/2216077/Spelling,-Abbreviations-and-Symbols-Guide-V2024-1.pdf
+  landing_url: https://www.pco.act.gov.au/drafting-and-publishing
+  notes: 'Word version (possibly Feb 2026): https://www.pco.act.gov.au/__data/assets/word_doc/0005/2216075/Spelling-Guide.doc'
+
+- id: au-act-words-and-phrases-guide
+  title: 'Words and Phrases Guide: A Guide to Plain Legal Language'
+  jurisdiction: Australian Capital Territory
+  jurisdiction_level: subnational
+  country_code: AU
+  subdivision_code: AU-ACT
+  subdivision_type: territory
+  region: Oceania
+  issuing_body: ACT Parliamentary Counsel's Office
+  languages: [en]
+  document_type: style guide
+  legal_status: Guidance
+  published: "2006-10"
+  last_updated: "2023-02"
+  currency:
+    status: unverified
+    note: CALC lists the December 2016 edition (dead pco.act.gov.au/library/ URL, also mistyped as http://ttp://). Search
+      index shows a February 2023 edition on the current PCO site; host returns HTTP 403 to automated requests.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.pco.act.gov.au/__data/assets/pdf_file/0020/2216081/Words-and-Phrases.pdf
+  landing_url: https://www.pco.act.gov.au/drafting-and-publishing
+  credits:
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
+  notes: 'Plain-language word-choice guide. The National Library of Australia holds the 2016 edition: https://nla.gov.au/nla.obj-573779168/view'
+
+- id: au-nsw-drafting-practice-documents
+  title: PCO drafting practice documents (DP series)
+  jurisdiction: New South Wales
+  jurisdiction_level: subnational
+  country_code: AU
+  subdivision_code: AU-NSW
+  subdivision_type: state
+  region: Oceania
+  issuing_body: NSW Parliamentary Counsel's Office
+  languages: [en]
+  document_type: drafting guidelines
+  legal_status: Guidance (official view of PCO on the practices covered)
+  published: "2017-05"
+  last_updated: Various
+  currency:
+    status: unverified
+    note: Collection of individual PDF documents (DP1 'Using PCO drafting practice documents', DP2 'PCO plain language policy',
+      etc.) under 'PCO drafting practices' on the NSW legislation website's Information page. legislation.nsw.gov.au returns
+      HTTP 403 to automated requests and the legacy.legislation.nsw.gov.au copies were unreachable, so the current list could
+      not be checked.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: null
+  landing_url: https://legislation.nsw.gov.au/information
+  credits:
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
+  notes: CALC-listed URL https://www.legislation.nsw.gov.au/#/help/legislation is the old single-page-app route; the PCO's
+    resources page now links to https://www.legislation.nsw.gov.au/information ('Learn more about drafting practices').
+
+- id: au-nsw-pco-standard
+  title: 'PCO Standard: A guide to drafting principles for NSW legislation'
+  jurisdiction: New South Wales
+  jurisdiction_level: subnational
+  country_code: AU
+  subdivision_code: AU-NSW
+  subdivision_type: state
+  region: Oceania
+  issuing_body: NSW Parliamentary Counsel's Office
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance (stated to have no legal effect)
+  edition: Version 2.0
+  published: "2023-05"
+  last_updated: "2026-07"
+  currency:
+    status: current
+    note: CALC links Version 1 (9 May 2023) on legislation.nsw.gov.au (now 403 to automated requests). PCO site hosts Version
+      2.0, current as at 31 July 2026 (verified, PDF opened).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://pco.nsw.gov.au/download/PCO_Standard_v02.pdf
+  landing_url: https://pco.nsw.gov.au/resources.html
+  credits:
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
+  notes: 'CALC-listed URL: https://legislation.nsw.gov.au/file/PCO%20Standard%20-%209%20May%202023%20-%20v01.pdf. Version
+    1 also at https://pco.nsw.gov.au/download/PCO_Standard-9May2023.pdf'
+
+- id: au-qld-fundamental-legislative-principles-notebook
+  title: 'Fundamental Legislative Principles: The OQPC Notebook'
+  jurisdiction: Queensland
+  jurisdiction_level: subnational
+  country_code: AU
+  subdivision_code: AU-QLD
+  subdivision_type: state
+  region: Oceania
+  issuing_body: Office of the Queensland Parliamentary Counsel
+  languages: [en]
+  document_type: drafting guidelines
+  legal_status: Guidance on applying the fundamental legislative principles in Legislative Standards Act 1992 (Qld) s 4
+  published: "2008-01"
+  last_updated: "2008-01"
+  currency:
+    status: dated
+    note: Verified PDF (189 pp.), text dated January 2008.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.legislation.qld.gov.au/file/Leg_Info_publications_FLPNotebook.pdf
+
+- id: au-qld-guidelines-drafting-local-laws
+  title: Guidelines for Drafting Local Laws
+  jurisdiction: Queensland
+  jurisdiction_level: subnational
+  country_code: AU
+  subdivision_code: AU-QLD
+  subdivision_type: state
+  region: Oceania
+  issuing_body: Office of the Queensland Parliamentary Counsel
+  languages: [en]
+  document_type: drafting guidelines
+  legal_status: Guidelines issued under Legislative Standards Act 1992 (Qld) s 9; apply to local laws made on or after 4 April
+    2016
+  published: "2010-07"
+  last_updated: "2016-04"
+  currency:
+    status: in-force
+    note: CALC-listed URL still resolves to the 4 April 2016 guidelines (verified). Oddly, the OQPC publications page links
+      a different file (Leg_Info_publications_Guidelines_Local_Laws.pdf) that is the older 1 July 2010 edition.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.legislation.qld.gov.au/file/Guidelines_Local_Laws.pdf
+  landing_url: https://www.legislation.qld.gov.au/information/publications
+  credits:
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
+
+- id: au-qld-guidelines-drafting-university-statutes
+  title: Guidelines for Drafting University Statutes
+  jurisdiction: Queensland
+  jurisdiction_level: subnational
+  country_code: AU
+  subdivision_code: AU-QLD
+  subdivision_type: state
+  region: Oceania
+  issuing_body: Office of the Queensland Parliamentary Counsel
+  languages: [en]
+  document_type: drafting guidelines
+  legal_status: Guidance
+  currency:
+    status: dated
+    note: Linked from OQPC publications page as 'Drafting University Statutes'; PDF resolves (file created 2013, image-only,
+      edition date not extractable).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.legislation.qld.gov.au/file/Leg_Info_publications_Guidelines_Uni_Statutes.pdf
+  landing_url: https://www.legislation.qld.gov.au/information/publications
+
+- id: au-qld-queensland-legislation-handbook
+  title: The Queensland Legislation Handbook
+  jurisdiction: Queensland
+  jurisdiction_level: subnational
+  country_code: AU
+  subdivision_code: AU-QLD
+  subdivision_type: state
+  region: Oceania
+  issuing_body: Queensland Department of the Premier and Cabinet
+  languages: [en]
+  document_type: process guide
+  legal_status: Guidance
+  last_updated: "2024-11"
+  currency:
+    status: current
+    note: HTML handbook on the Premier's department site (landing page verified 200); search snippet shows last updated 18
+      November 2024. Covers drafting instructions and FLPs.
+    checked_on: "2026-11-01"
+  original_format: HTML
+  source_url: https://www.premiers.qld.gov.au/publications/categories/policies-and-codes/handbooks/legislation-handbook.aspx
+
+- id: au-qld-working-with-oqpc
+  title: Working with OQPC on Queensland legislation
+  jurisdiction: Queensland
+  jurisdiction_level: subnational
+  country_code: AU
+  subdivision_code: AU-QLD
+  subdivision_type: state
+  region: Oceania
+  issuing_body: Office of the Queensland Parliamentary Counsel
+  languages: [en]
+  document_type: process guide
+  legal_status: Guidance
+  published: "2012"
+  last_updated: "2012"
+  currency:
+    status: dated
+    note: Verified PDF (copyright 2012) linked from OQPC publications page.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.legislation.qld.gov.au/file/Leg_Info_publications_WorkingOQPCQLDLeg.pdf
+  landing_url: https://www.legislation.qld.gov.au/information/publications
+
+- id: au-tas-guidelines-preparation-statutory-rules
+  title: Guidelines for the preparation of statutory rules
+  jurisdiction: Tasmania
+  jurisdiction_level: subnational
+  country_code: AU
+  subdivision_code: AU-TAS
+  subdivision_type: state
+  region: Oceania
+  issuing_body: Office of Parliamentary Counsel (Tasmania); digitised copy held by National Library of Australia
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance
+  edition: 2nd ed.
+  published: "2008"
+  last_updated: "2008"
+  currency:
+    status: dated
+    note: 'Only Tasmanian drafting guidance found: NLA catalogue/digitised record of the 2008 2nd edition (viewer page verified
+      200). No current edition located on Tasmanian government sites.'
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://nla.gov.au/nla.obj-1382146190/view
+
+- id: au-vic-legislative-process-handbook
+  title: The Legislative Process Handbook
+  jurisdiction: Victoria
+  jurisdiction_level: subnational
+  country_code: AU
+  subdivision_code: AU-VIC
+  subdivision_type: state
+  region: Oceania
+  issuing_body: Office of the Chief Parliamentary Counsel (Victoria)
+  languages: [en]
+  document_type: process guide
+  legal_status: Guidance
+  published: "2020-06"
+  last_updated: "2025-06"
+  currency:
+    status: current
+    note: Verified PDF 'Last saved on June 6, 2025'; includes general comments on drafting and features of Acts. Earlier June
+      2020 edition also online.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.vic.gov.au/sites/default/files/2025-06/Updated-Legislative-Process-Handbook-FINAL.pdf
+  landing_url: https://www.vic.gov.au/developing-legislation-chief-parliamentary-counsel
+  notes: Same page also links a 'Guide to preparing an explanatory memorandum' (https://www.vic.gov.au/sites/default/files/2019-12/Guide-to-preparing-an-explanatory-memorandum-Office-the-Chief-Parliamentary-Counsel.pdf).
+
+- id: au-vic-notes-for-guidance-statutory-rules
+  title: Notes for Guidance on the Preparation of Statutory Rules
+  jurisdiction: Victoria
+  jurisdiction_level: subnational
+  country_code: AU
+  subdivision_code: AU-VIC
+  subdivision_type: state
+  region: Oceania
+  issuing_body: Office of the Chief Parliamentary Counsel (Victoria)
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance
+  last_updated: "2026-08"
+  currency:
+    status: current
+    note: Verified PDF 'Last updated on August 24, 2026' linked from OCPC page; supersedes the May 2017 edition at /sites/default/files/2019-12/Notes-for-guidance-on-the-preparation-of-statutory-rules-...pdf
+      (still online).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.vic.gov.au/sites/default/files/2026-09/Notes-for-Guidance-%2824-August-2026%29.pdf
+  landing_url: https://www.vic.gov.au/developing-legislation-chief-parliamentary-counsel
+
+- id: au-wa-getting-government-legislation-drafted
+  title: 'Getting Government Legislation Drafted and Enacted: Guidelines and Procedures'
+  jurisdiction: Western Australia
+  jurisdiction_level: subnational
+  country_code: AU
+  subdivision_code: AU-WA
+  subdivision_type: state
+  region: Oceania
+  issuing_body: Parliamentary Counsel's Office, Department of Justice (WA)
+  languages: [en]
+  document_type: process guide
+  legal_status: Guidance
+  last_updated: "2026-05"
+  currency:
+    status: current
+    note: Verified PDF (22 pp., file dated May 2026) linked from the WA legislation site's Drafting Guidance page.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.legislation.wa.gov.au/legislation/prod/filestore.nsf/FileURL/gettinggovernmentlegislationdraftedandenacted.pdf/$FILE/Getting%20Government%20Legislation%20Drafted%20and%20Enacted.pdf
+  landing_url: https://www.legislation.wa.gov.au/legislation/statutes.nsf/guidance.html
+
+- id: au-wa-guidelines-drafting-proclamations-orders-in-council
+  title: Guidelines for drafting proclamations and Orders in Council
+  jurisdiction: Western Australia
+  jurisdiction_level: subnational
+  country_code: AU
+  subdivision_code: AU-WA
+  subdivision_type: state
+  region: Oceania
+  issuing_body: Parliamentary Counsel's Office, Department of Justice (WA)
+  languages: [en]
+  document_type: drafting guidelines
+  legal_status: Guidance
+  last_updated: "2023-07"
+  currency:
+    status: current
+    note: Verified PDF (14 pp., dated July 2023) for agencies drafting their own proclamations and Orders in Council; Word
+      templates on same page.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.legislation.wa.gov.au/legislation/prod/filestore.nsf/FileURL/guidelinesfordraftingproclamationsandordersincouncil.pdf/$FILE/Guidelines%20for%20drafting%20proclamations%20and%20Orders%20in%20Council.pdf?OpenElement
+  landing_url: https://www.legislation.wa.gov.au/legislation/statutes.nsf/guidance.html
+
+- id: be-vlg-legistieke-en-taalkundige-aanwijzingen
+  title: Legistieke en taalkundige aanwijzingen (Omzendbrief VR 2019/4 Wetgevingstechniek)
+  title_en: Legislative and Linguistic Instructions (Flemish Government Circular VR 2019/4 on Legislative Technique)
+  jurisdiction: Flanders
+  jurisdiction_level: subnational
+  country_code: BE
+  subdivision_code: BE-VLG
+  subdivision_type: region
+  region: Europe
+  issuing_body: Vlaamse Regering / Departement Kanselarij en Buitenlandse Zaken (Wetgevingstechnische dienstverlening)
+  languages: [nl]
+  document_type: drafting manual
+  legal_status: Circular of the Flemish Government VR 2019/4 of 25 October 2019 (replaces VR 2014/4); legislative-technical
+    and linguistic advice of the Department is mandatory for draft decrees and orders submitted to the Flemish Government
+  published: "2019-10"
+  last_updated: "2024-09"
+  currency:
+    status: current
+    note: vlaanderen.be links the current consolidated version of 23 September 2024 plus a list of the 2024 changes; the original
+      2019 circular PDF and DOCX remain online.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://assets.vlaanderen.be/image/upload/v1751630108/LEGISTIEKE_EN_TAALKUNDIGE_AANWIJZINGEN_OMZ_VR_4-HUIDGE_VERSIE.23SEPTEMBER.2024_wkzqso.pdf
+  landing_url: https://www.vlaanderen.be/intern/beleid-en-regelgeving/regelgeving/legistieke-en-taalkundige-aanwijzingen
+  notes: Original circular - https://assets.vlaanderen.be/image/upload/v1645443501/OMZENDBRIEF_VR_2019.4_ylnvg3.pdf; 2024
+    changes - https://assets.vlaanderen.be/image/upload/v1751630467/Aanpassingen_Omzendbrief_Wetgevingstechniek_VR_4.23_september_2024_jxy4wz.pdf
+
+- id: br-go-manual-de-redacao-do-governo
+  title: Manual de Redação do Governo do Estado de Goiás
+  title_en: Drafting Manual of the Government of the State of Goiás
+  jurisdiction: Goiás
+  jurisdiction_level: subnational
+  country_code: BR
+  subdivision_code: BR-GO
+  subdivision_type: state
+  region: Americas
+  issuing_body: Secretaria de Estado da Casa Civil de Goiás, Subsecretaria de Legislação e Atos Oficiais
+  languages: [pt]
+  document_type: style guide
+  legal_status: Guidance
+  edition: 2ª edição, revista, atualizada e ampliada
+  last_updated: "2026-02"
+  currency:
+    status: current
+    note: 2nd edition Feb 2026 (155 pp.); covers normative acts (bills, decrees) as well as official correspondence.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://goias.gov.br/casacivil/wp-content/uploads/sites/47/2020/04/Nova-Edicao-do-Manual-de-Redacao-do-Governo-do-Estado-de-Goias-2026.pdf
+  landing_url: https://goias.gov.br/casacivil/redacao-oficial-manuais/
+
+- id: br-ma-manual-de-elaboracao-de-proposicoes-legislativas
+  title: Manual de Elaboração de Proposições Legislativas
+  title_en: Manual for Drafting Legislative Proposals
+  jurisdiction: Maranhão
+  jurisdiction_level: subnational
+  country_code: BR
+  subdivision_code: BR-MA
+  subdivision_type: state
+  region: Americas
+  issuing_body: Assembleia Legislativa do Estado do Maranhão (ALEMA)
+  languages: [pt]
+  document_type: drafting manual
+  legal_status: Guidance
+  last_updated: "2024"
+  currency:
+    status: unverified
+    note: Indexed PDF (uploaded 2025-02, with ISBN) covering structure, formatting and each normative type; host reset every
+      connection and returned 503 to fetch, so not verified.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: null
+  landing_url: https://www.al.ma.leg.br/
+  notes: 'Indexed URL (unconfirmed): https://www.al.ma.leg.br/sitealema/wp-content/uploads/2025/02/MANUAL-DE-ELABORACAO-DE-PROPOSICOES-LEGISLATIVAS-com-ISBNs.pdf'
+
+- id: br-mg-manual-de-redacao-e-tecnica-legislativa-executivo
+  title: Manual de Redação e Técnica Legislativa do Poder Executivo
+  title_en: Drafting and Legislative Technique Manual of the Executive
+  jurisdiction: Minas Gerais
+  jurisdiction_level: subnational
+  country_code: BR
+  subdivision_code: BR-MG
+  subdivision_type: state
+  region: Americas
+  issuing_body: Secretaria de Estado de Governo de Minas Gerais (Segov), Consultoria Técnico-Legislativa
+  languages: [pt]
+  document_type: drafting manual
+  legal_status: Guidance given normative force by Decreto nº 48.936/2024 (acts must follow LC 78/2004 and the Manual)
+  last_updated: "2022"
+  currency:
+    status: unverified
+    note: 2022 CTL edition indexed by search engines; governo.mg.gov.br is a single-page app that returns its HTML shell to
+      curl, so the PDF could not be confirmed.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: null
+  landing_url: https://www.governo.mg.gov.br/
+  notes: 'Indexed URL (unconfirmed): https://www.governo.mg.gov.br/Downloads/4ddcipld.etwManual%20de%20Reda%C3%A7%C3%A3o%20e%20T%C3%A9cncia%20Legislativa%20-%20CTL%202022%20-%20FINAL.pdf'
+
+- id: br-mg-manual-de-redacao-parlamentar
+  title: Manual de Redação Parlamentar
+  title_en: Parliamentary Drafting Manual
+  jurisdiction: Minas Gerais
+  jurisdiction_level: subnational
+  country_code: BR
+  subdivision_code: BR-MG
+  subdivision_type: state
+  region: Americas
+  issuing_body: Assembleia Legislativa do Estado de Minas Gerais (ALMG)
+  languages: [pt]
+  document_type: drafting manual
+  legal_status: Guidance (implements Minas Gerais Lei Complementar nº 78/2004 on drafting state laws)
+  edition: 3ª edição
+  published: "2005"
+  last_updated: "2013"
+  currency:
+    status: unverified
+    note: 1st ed. launched May 2005; 3rd ed. (2013) is in the ALMG DSpace repository. The repository serves an anti-bot challenge
+      page to curl, so the PDF could not be fetched; URL comes from search-engine index.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://dspace.almg.gov.br/bitstream/11037/5229/5/Manual%20de%20reda%C3%A7%C3%A3o%20parlamentar%20-%203%C2%AA%20Edi%C3%A7%C3%A3o.pdf
+  landing_url: https://dspace.almg.gov.br/handle/11037/5229
+  notes: Widely regarded as the reference state-level manual in Brazil (ALMG news, 2005).
+
+- id: br-pr-manual-de-proposicoes
+  title: Manual de Proposições (Padronização e Redação Legislativa)
+  title_en: Manual of Bills and Motions (Standardisation and Legislative Drafting)
+  jurisdiction: Paraná
+  jurisdiction_level: subnational
+  country_code: BR
+  subdivision_code: BR-PR
+  subdivision_type: state
+  region: Americas
+  issuing_body: Assembleia Legislativa do Estado do Paraná (ALEP), Coordenadoria de Autografia / Diretoria de Assistência
+    ao Plenário
+  languages: [pt]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: 11ª edição
+  last_updated: "2024-05"
+  currency:
+    status: current
+    note: 11th edition, May 2024 (72 pp.) linked from ALEP 'Técnica Legislativa' page; states it is constantly updated.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://storage2.assembleia.pr.leg.br/file/public-media/documentos//tecnica_legislativa/11%C2%AA%20EDI%C3%87%C3%83O%20-%20MANUAL%20PROPOSI%C3%87%C3%95ES%202024.1.2.pdf
+  landing_url: https://www.assembleia.pr.leg.br/legislacao/tecnica-legislativa
+  notes: Host occasionally resets connections; succeeded on retry.
+
+- id: br-pr-tecnica-legislativa
+  title: Técnica Legislativa
+  title_en: Legislative Drafting Technique
+  jurisdiction: Paraná
+  jurisdiction_level: subnational
+  country_code: BR
+  subdivision_code: BR-PR
+  subdivision_type: state
+  region: Americas
+  issuing_body: Assembleia Legislativa do Estado do Paraná (ALEP), Coordenadoria de Autografia / Diretoria de Assistência
+    ao Plenário
+  languages: [pt]
+  document_type: drafting guidelines
+  legal_status: Guidance (applies federal LC 95/1998 and Paraná Lei Complementar nº 176/2014)
+  edition: Edição maio/2024
+  last_updated: "2024-05"
+  currency:
+    status: current
+    note: May 2024 edition (45 pp.) on how to construct the text of a law; companion to the Manual de Proposições.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://storage2.assembleia.pr.leg.br/file/public-media/documentos/tecnica_legislativa/A%20T%C3%89CNICA%20LEGISLATIVA%20-%20ed.%20maio2024.pdf
+  landing_url: https://www.assembleia.pr.leg.br/legislacao/tecnica-legislativa
+
+- id: br-rs-manual-de-boas-praticas-atos-normativos
+  title: Manual de Boas Práticas de Padronização dos Atos Administrativos Normativos e Ordinatórios na Administração Pública
+    Estadual
+  title_en: Good Practice Manual for Standardising Normative and Administrative Acts in the State Public Administration
+  jurisdiction: Rio Grande do Sul
+  jurisdiction_level: subnational
+  country_code: BR
+  subdivision_code: BR-RS
+  subdivision_type: state
+  region: Americas
+  issuing_body: Secretaria da Casa Civil do Estado do Rio Grande do Sul, Subchefia Jurídica
+  languages: [pt]
+  document_type: drafting guidelines
+  legal_status: Guidance
+  edition: 3ª edição
+  last_updated: "2025"
+  currency:
+    status: current
+    note: 3rd edition 2025 (72 pp.) on Casa Civil site; 2nd ed. 2020 hosted by Secretaria de Planejamento.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://casacivil.rs.gov.br/upload/arquivos/202508/26111321-manual-de-boas-praticas-de-atos-administrativos-3a-ed-2025.pdf
+  notes: Executive-side guide for decrees and other normative acts, not bills.
+
+- id: br-sp-city-manual-de-elaboracao-legislativa
+  title: Manual de Elaboração Legislativa
+  title_en: Legislative Drafting Manual
+  jurisdiction: São Paulo (city)
+  jurisdiction_level: subnational
+  country_code: BR
+  subdivision_code: BR-SP
+  subdivision_type: city
+  region: Americas
+  issuing_body: Câmara Municipal de São Paulo, Procuradoria / Centro de Estudos Legislativos (CELEG)
+  languages: [pt]
+  document_type: drafting manual
+  legal_status: Guidance
+  last_updated: "2021-03"
+  currency:
+    status: current
+    note: March 2021 update (32 pp.), latest found.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.saopaulo.sp.leg.br/wp-content/uploads/2021/03/MANUAL_DE_ELABORACAO_LEGISLATIVA_2021.pdf
+  notes: Municipal chamber, included because it is a notable city drafting manual; subdivision_code is that of the state.
+
+- id: br-sp-manual-de-elaboracao-legislativa
+  title: 'Manual de Elaboração Legislativa: Proposições e Pareceres'
+  title_en: 'Legislative Drafting Manual: Bills and Committee Reports'
+  jurisdiction: São Paulo
+  jurisdiction_level: subnational
+  country_code: BR
+  subdivision_code: BR-SP
+  subdivision_type: state
+  region: Americas
+  issuing_body: Assembleia Legislativa do Estado de São Paulo (ALESP), Departamento de Comissões
+  languages: [pt]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: 2ª edição ampliada e revista
+  published: "2019"
+  last_updated: "2023"
+  currency:
+    status: current
+    note: 2nd enlarged edition (2023, 246 pp., 20th Legislature) found in ALESP digital library; the 2019 1st edition is still
+      hosted at the 'estudos-e-manuais' path.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.al.sp.gov.br/repositorio/bibliotecaDigital/25248_arquivo.pdf
+  landing_url: https://www.al.sp.gov.br/documentacao/estudos-e-manuais/manual-elaboracao-legislativa/
+  notes: '1st edition (2019): https://www.al.sp.gov.br/arquivos/documentacao/estudos-e-manuais/manual-elaboracao-legislativa/manual_de_elaboracao_legislativa_proposicoes_e_pareceres.pdf'
+
+- id: ca-bc-guide-preparing-drafting-instructions
+  title: 'A Guide to Legislation and Legislative Process in British Columbia, Part 3: Drafting Instructions'
+  jurisdiction: British Columbia
+  jurisdiction_level: subnational
+  country_code: CA
+  subdivision_code: CA-BC
+  subdivision_type: province
+  region: Americas
+  issuing_body: Office of Legislative Counsel, BC Ministry of Justice (hosted by Crown Publications, King's Printer)
+  languages: [en]
+  document_type: process guide
+  legal_status: Guidance
+  published: "2013-08"
+  last_updated: "2013-08"
+  currency:
+    status: dated
+    note: Verified PDF (August 2013 series).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.crownpub.bc.ca/Content/documents/3-DraftingInstructions_August2013.pdf
+  landing_url: https://crownpub.bc.ca/Product/Details/7665005851_S
+
+- id: ca-bc-principles-of-legislative-drafting
+  title: 'A Guide to Legislation and Legislative Process in British Columbia, Part 2: Principles of Legislative Drafting'
+  jurisdiction: British Columbia
+  jurisdiction_level: subnational
+  country_code: CA
+  subdivision_code: CA-BC
+  subdivision_type: province
+  region: Americas
+  issuing_body: Office of Legislative Counsel, BC Ministry of Justice (hosted by Crown Publications, King's Printer)
+  languages: [en]
+  document_type: drafting guidelines
+  legal_status: Guidance
+  published: "2013-08"
+  last_updated: "2013-08"
+  currency:
+    status: dated
+    note: Verified PDF dated August 2013; part of a 5-part guide (0 Introduction, 1 Legislative Process, 2 Drafting Principles,
+      3 Drafting Instructions, 4 Statute Revision, 5 Statute Publication) linked from the Crown Publications product page.
+      No newer edition found.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.crownpub.bc.ca/Content/documents/2-DraftingPrinciples_August2013.pdf
+  landing_url: https://crownpub.bc.ca/Product/Details/7665005851_S
+  notes: 'Companion Part 3 ''Guide to Preparing Drafting Instructions'': https://www.crownpub.bc.ca/Content/documents/3-DraftingInstructions_August2013.pdf'
+
+- id: ca-ns-checklist-plain-language-regulations
+  title: Checklist for Plain Language NS Regulations
+  jurisdiction: Nova Scotia
+  jurisdiction_level: subnational
+  country_code: CA
+  subdivision_code: CA-NS
+  subdivision_type: province
+  region: Americas
+  issuing_body: Office of the Registrar of Regulations, Nova Scotia Department of Justice
+  languages: [en]
+  document_type: drafting guidelines
+  legal_status: Guidance
+  published: "2014"
+  last_updated: "2014"
+  currency:
+    status: in-force
+    note: Verified PDF linked from the Registrar's publications page as a supplemental resource.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://novascotia.ca/just/Regulations/publications/Checklist_for_plain_language_NS_regulations-2014.pdf
+  landing_url: https://novascotia.ca/just/Regulations/publicat.htm
+
+- id: ca-ns-regulations-style-procedures-manual
+  title: 'Style and Procedures Manual: A guide to drafting regulations in plain language'
+  jurisdiction: Nova Scotia
+  jurisdiction_level: subnational
+  country_code: CA
+  subdivision_code: CA-NS
+  subdivision_type: province
+  region: Americas
+  issuing_body: Office of the Registrar of Regulations, Nova Scotia Department of Justice
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance
+  published: "2005-01"
+  last_updated: "2005-01"
+  currency:
+    status: in-force
+    note: 'Verified PDF; still offered as the current manual on the Registrar''s ''Other Publications'' page. Old /styleman/
+      URLs are dead (404). Supplements: SOT schedules supplement (updated Aug 2015) and Checklist for Plain Language NS Regulations
+      (2014).'
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://novascotia.ca/just/Regulations/publications/Style_Manual_2005.pdf
+  landing_url: https://novascotia.ca/just/Regulations/publicat.htm
+  notes: 'Supplement: https://novascotia.ca/just/Regulations/publications/Style_Manual-SOTS-supplement-2011_(updated_2015).pdf
+    ; Checklist: https://novascotia.ca/just/Regulations/publications/Checklist_for_plain_language_NS_regulations-2014.pdf
+    ; Formatting guide: https://novascotia.ca/just/Regulations/publications/Guide_to_Formatting_NS_Regulations.pdf . Covers
+    regulations only; Office of the Legislative Counsel (statutes) publishes no manual.'
+
+- id: ca-nt-users-guide-to-legislation
+  title: A User's Guide to Legislation in the Northwest Territories
+  jurisdiction: Northwest Territories
+  jurisdiction_level: subnational
+  country_code: CA
+  subdivision_code: CA-NT
+  subdivision_type: territory
+  region: Americas
+  issuing_body: Legislation and House Planning, Department of Executive and Indigenous Affairs (GNWT)
+  languages: [en]
+  document_type: process guide
+  legal_status: Guidance (internal reference tool for GNWT employees)
+  published: "2016-01"
+  last_updated: "2016-01"
+  currency:
+    status: dated
+    note: Verified PDF (31 pp., January 2016). Covers policy development, legislative proposals and drafting instructions;
+      not a style manual. A new NWT Legislation Act (Bill 22, 2025) may make it partly out of date.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.eia.gov.nt.ca/sites/eia/files/users-guide-to-legislation-in-the-nwt-01feb16.pdf
+  landing_url: https://www.eia.gov.nt.ca/en/files/users-guide-legislation-nwt
+
+- id: ch-ag-richtlinien-rechtssetzung
+  title: Richtlinien der Rechtssetzung (RLRS)
+  title_en: Guidelines on Law-making (Canton of Aargau)
+  jurisdiction: Aargau
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-AG
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Regierungsrat des Kantons Aargau / Staatskanzlei
+  languages: [de]
+  document_type: drafting rules
+  legal_status: Binding instructions for departments, the Staatskanzlei and state institutions; Regierungsrat decision of
+    15 August 2001 under § 5 Organisationsgesetz
+  published: "2001-08"
+  last_updated: "2018-07"
+  currency:
+    status: current
+    note: Stand 1 July 2018 on ag.ch.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.ag.ch/media/kanton-aargau/sk/recht/rechtsetzung/downloads/18-07-01richtlinienderrechtssetzung.pdf
+
+- id: ch-ai-richtlinie-rechtsetzung
+  title: Richtlinie für die Rechtsetzung
+  title_en: Guideline on Law-making (Canton of Appenzell Innerrhoden)
+  jurisdiction: Appenzell Innerrhoden
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-AI
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Standeskommission des Kantons Appenzell Innerrhoden
+  languages: [de]
+  document_type: drafting guidelines
+  legal_status: Issued by the Standeskommission on 26 May 2015
+  published: "2015-05"
+  last_updated: "2015-05"
+  currency:
+    status: current
+    note: Copy hosted by the Zentrum für Rechtsetzungslehre (ZfR), University of Zurich, in its collection of cantonal drafting
+      guidelines; no copy found on the cantonal website.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.zfr.uzh.ch/dam/jcr:bf135c93-6ff9-4cdd-899c-985eb41edd1c/Appenzell_Innerrhoden.pdf
+  landing_url: https://www.zfr.uzh.ch/de/dienstleistungen/richtlinien.html
+
+- id: ch-ar-gesetzestechnische-richtlinien
+  title: Gesetzestechnische Richtlinien
+  title_en: Legislative Technique Guidelines (Canton of Appenzell Ausserrhoden)
+  jurisdiction: Appenzell Ausserrhoden
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-AR
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Kanton Appenzell Ausserrhoden (Kantonskanzlei / Büro des Kantonsrates)
+  languages: [de]
+  document_type: drafting rules
+  legal_status: Binding for all cantonal enactments included in the bereinigte Gesetzessammlung (bGS)
+  currency:
+    status: unverified
+    note: Edition date not stated in the document (PDF created 2010). Copy hosted by the Zentrum für Rechtsetzungslehre (ZfR),
+      University of Zurich, in its collection of cantonal drafting guidelines; no copy found on the cantonal website.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.zfr.uzh.ch/dam/jcr:ff97a095-24c0-4c0e-824c-1a2b6a95e842/Appenzell_Ausserrhoden.pdf
+  landing_url: https://www.zfr.uzh.ch/de/dienstleistungen/richtlinien.html
+
+- id: ch-be-rechtsetzungsrichtlinien
+  title: Rechtsetzungsrichtlinien des Kantons Bern (RSR) – Modul 3 Rechtsetzungstechnische Richtlinien (RTR)
+  title_en: Law-making Guidelines of the Canton of Bern – Module 3 Legislative Drafting Technique Guidelines
+  jurisdiction: Bern
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-BE
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Staatskanzlei des Kantons Bern
+  languages: [de, fr]
+  document_type: drafting guidelines
+  legal_status: Modular guidelines; Module 3 (RTR) is designated binding (verbindlich). Other modules - 1 Introduction, 2
+    Selected topics (2014), 4 Language, 5 Procedure (2014), 7 NEF law-making, 8 Reports to the Regierungsrat, 9 Consultation,
+    10 Drafting Committee, 11 Referendum/entry into force
+  published: "2000-03"
+  last_updated: "2014-08"
+  currency:
+    status: current
+    note: Modules on sta.be.ch carry dates from 2000 (Modules 1, 3, 4) to 2014 (Modules 2, 5). French version (modules) also
+      on sta.be.ch. ZfR hosts a merged compilation.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.sta.be.ch/content/dam/sta/dokumente/de/themen/gesetzgebung/asr-rsr-modul-3-rechtsetzungsrechnische-richtlinien.pdf
+  notes: Merged compilation of all modules at https://www.zfr.uzh.ch/dam/jcr:557c368a-af40-4266-9415-6da4e4ca4a3b/Bern_zusammengef%C3%BChrt_2und5neu.pdf
+
+- id: ch-bl-weisungen-gesetzestechnik
+  title: Weisungen zur Gesetzestechnik
+  title_en: Instructions on Legislative Technique (Canton of Basel-Landschaft)
+  jurisdiction: Basel-Landschaft
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-BL
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Landeskanzlei des Kantons Basel-Landschaft
+  languages: [de]
+  document_type: drafting guidelines
+  legal_status: Internal instructions for the cantonal law collections
+  currency:
+    status: unverified
+    note: ZfR copy is a printout of the Landeskanzlei's HTML instructions (examples dated c. 2004-2005); edition date not
+      stated. Copy hosted by the Zentrum für Rechtsetzungslehre (ZfR), University of Zurich, in its collection of cantonal
+      drafting guidelines; no copy found on the cantonal website.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.zfr.uzh.ch/dam/jcr:f2ce03ec-a235-4fc0-b385-a0eaabf28768/BL_Weisungen%20zur%20Gesetzestechnik.pdf
+  landing_url: https://www.zfr.uzh.ch/de/dienstleistungen/richtlinien.html
+
+- id: ch-bs-richtlinien-bs
+  title: Redaktionelle und gesetzestechnische Richtlinien des Kantons Basel-Stadt (Richtlinien BS)
+  title_en: Editorial and Legislative Technique Guidelines of the Canton of Basel-Stadt
+  jurisdiction: Basel-Stadt
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-BS
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Justiz- und Sicherheitsdepartement, Zentraler Rechtsdienst (Redaktion Gesetzessammlung)
+  languages: [de]
+  document_type: drafting guidelines
+  legal_status: Binding for the formal design of enactments under § 15 Publikationsverordnung; noted by the Regierungsrat
+    (RRB 10 May 2022 Nr. 22/15/11); replaces the 1982 guidelines. A non-binding Rechtsetzungsleitfaden (Leitfaden BS) accompanies
+    it.
+  edition: Ausgabe April 2022
+  published: "2022-04"
+  last_updated: "2022-04"
+  currency:
+    status: current
+    note: Copy hosted by the Zentrum für Rechtsetzungslehre (ZfR), University of Zurich, in its collection of cantonal drafting
+      guidelines; no copy found on the cantonal website.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.zfr.uzh.ch/dam/jcr:43f555b5-3831-4e4e-9153-50d71dd68f9f/Richtlinien%20BS.pdf
+  landing_url: https://www.bs.ch/jsd/zentraler-rechtsdienst/zentraler-rechtsdienst-zrd/redaktion-gesetzessammlung-rgs
+
+- id: ch-fr-directives-technique-legislative
+  title: Directives de technique législative (DTL) / Gesetzestechnische Richtlinien (GTR)
+  title_en: Legislative Technique Guidelines (Canton of Fribourg)
+  jurisdiction: Fribourg
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-FR
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Service de législation / Amt für Gesetzgebung, Chancellerie d'Etat du canton de Fribourg
+  languages: [fr, de]
+  document_type: drafting guidelines
+  legal_status: Guidelines based on the Règlement sur l'élaboration des actes législatifs (REAL, RSF 122.0.21) of 24 May 2005
+  edition: 2015 (German GTR edition December 2014)
+  last_updated: "2015"
+  currency:
+    status: current
+    note: fr.ch states the DTL on the page date from 2015 and remain largely applicable; a complete revision was announced
+      for 2023 but not found. Also offers Guide de rédaction (DTL A 01) at https://www.fr.ch/document/64916.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.fr.ch/document/64911
+  landing_url: https://www.fr.ch/etat-et-droit/legislation/redaction-et-technique-legislatives
+  notes: DTL issued since the 1990s. German version (GTR, Dezember 2014) in the ZfR collection - https://www.zfr.uzh.ch/dam/jcr:66d67261-2f6f-4ae4-b83c-c464664a5fa0/Freiburg.pdf
+
+- id: ch-ge-guide-redaction-legislative
+  title: Guide de rédaction législative
+  title_en: Legislative Drafting Guide (Canton of Geneva)
+  jurisdiction: Geneva
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-GE
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Chancellerie d'Etat, Service de la législation, République et canton de Genève
+  languages: [fr]
+  document_type: drafting manual
+  legal_status: Guidance of the Chancellerie; compliance is checked in the visa législatif of draft laws and regulations
+  edition: Version du 20 juin 2018
+  last_updated: "2018-06"
+  currency:
+    status: current
+    note: Copy hosted by the Zentrum für Rechtsetzungslehre (ZfR), University of Zurich, in its collection of cantonal drafting
+      guidelines; no copy found on the cantonal website.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.zfr.uzh.ch/dam/jcr:c9380472-f6c7-485e-9c5c-62816a34f9ff/Genf.pdf
+  landing_url: https://www.zfr.uzh.ch/de/dienstleistungen/richtlinien.html
+
+- id: ch-gl-richtlinien-rechtsetzung
+  title: Richtlinien für die Rechtsetzung
+  title_en: Guidelines on Law-making (Canton of Glarus)
+  jurisdiction: Glarus
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-GL
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Staatskanzlei des Kantons Glarus, Rechtsdienst
+  languages: [de]
+  document_type: drafting guidelines
+  legal_status: Issued by the Staatskanzlei under Art. 6 Regierungs- und Verwaltungsorganisationsverordnung (RVOV)
+  last_updated: "2016-03"
+  currency:
+    status: current
+    note: Stand 29 March 2016. Copy hosted by the Zentrum für Rechtsetzungslehre (ZfR), University of Zurich, in its collection
+      of cantonal drafting guidelines; no copy found on the cantonal website.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.zfr.uzh.ch/dam/jcr:663401fb-a08d-41ae-a023-254ac2262f8a/Glarus.pdf
+  landing_url: https://www.zfr.uzh.ch/de/dienstleistungen/richtlinien.html
+
+- id: ch-gr-richtlinien-rechtsetzung
+  title: Richtlinien für die Rechtsetzung
+  title_en: Guidelines on Law-making (Canton of Graubünden)
+  jurisdiction: Graubünden
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-GR
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Regierung des Kantons Graubünden / Standeskanzlei
+  languages: [de]
+  document_type: drafting guidelines
+  legal_status: Approved by the Regierung on 16 November 2010 (Prot. Nr. 1070)
+  published: "2010-11"
+  last_updated: "2016-10"
+  currency:
+    status: current
+    note: Stand 1 October 2016. Copy hosted by the Zentrum für Rechtsetzungslehre (ZfR), University of Zurich, in its collection
+      of cantonal drafting guidelines; no copy found on the cantonal website.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.zfr.uzh.ch/dam/jcr:8334bcb5-4844-447a-b79e-d2ae1b1a470e/Graub%C3%BCnden.pdf
+  landing_url: https://www.zfr.uzh.ch/de/dienstleistungen/richtlinien.html
+
+- id: ch-lu-richtlinien-gesetzestechnik
+  title: Richtlinien über die Gesetzestechnik
+  title_en: Guidelines on Legislative Technique (Canton of Lucerne)
+  jurisdiction: Lucerne
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-LU
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Regierungsrat des Kantons Luzern / Staatskanzlei (in agreement with the Redaktionskommission of the Kantonsrat)
+  languages: [de]
+  document_type: drafting guidelines
+  legal_status: Guidelines issued by the Regierungsrat under § 59 Kantonsratsgesetz and § 22 Geschäftsordnung des Regierungsrates,
+    approved by the Redaktionskommission (December 2022)
+  edition: Ausgabe 2023
+  published: "2016-10"
+  last_updated: "2023"
+  currency:
+    status: current
+    note: lu.ch hosts the 2023 edition; ZfR collection still holds the 2016 edition.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.lu.ch/downloads/lu/sk/richtlinien_gesetzestechnik.pdf
+
+- id: ch-ne-instructions-elaboration-textes-legaux
+  title: Instructions du service juridique de l'Etat concernant l'élaboration et la rédaction des textes légaux et réglementaires
+  title_en: Instructions of the State Legal Service on the Preparation and Drafting of Legal and Regulatory Texts (Canton
+    of Neuchâtel)
+  jurisdiction: Neuchâtel
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-NE
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Service juridique de l'Etat, Département des finances et des affaires sociales, République et Canton de Neuchâtel
+  languages: [fr]
+  document_type: drafting guidelines
+  legal_status: Instructions of the State Legal Service
+  published: "2003-01"
+  last_updated: "2003-01"
+  currency:
+    status: dated
+    note: Dated 1 January 2003; ZfR labels its copy as old (alt). Copy hosted by the Zentrum für Rechtsetzungslehre (ZfR),
+      University of Zurich, in its collection of cantonal drafting guidelines; no copy found on the cantonal website.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.zfr.uzh.ch/dam/jcr:7e14d942-1e6f-45a1-b69e-002c1b943195/NE_zusammengef%C3%BChrt_alt.pdf
+  landing_url: https://www.zfr.uzh.ch/de/dienstleistungen/richtlinien.html
+
+- id: ch-ow-richtlinien-gesetzestechnik
+  title: Richtlinien über die Erarbeitung und Gestaltung kantonaler Erlasse (Richtlinien zur Gesetzestechnik)
+  title_en: Guidelines on the Preparation and Design of Cantonal Enactments (Obwalden)
+  jurisdiction: Obwalden
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-OW
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Regierungsrat des Kantons Obwalden / Staatskanzlei
+  languages: [de]
+  document_type: drafting guidelines
+  legal_status: Guidelines of 22 December 2015 (first issued 1995, revised 2008)
+  published: "1995"
+  last_updated: "2015-12"
+  currency:
+    status: current
+    note: Copy hosted by the Zentrum für Rechtsetzungslehre (ZfR), University of Zurich, in its collection of cantonal drafting
+      guidelines; no copy found on the cantonal website.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.zfr.uzh.ch/dam/jcr:5d650dc2-f3c8-498e-9f14-6be309d3df23/Obwalden.pdf
+  landing_url: https://www.zfr.uzh.ch/de/dienstleistungen/richtlinien.html
+
+- id: ch-sg-rechtsetzungsleitfaden
+  title: Rechtsetzungsleitfaden
+  title_en: Law-making Guide (Canton of St. Gallen)
+  jurisdiction: St. Gallen
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-SG
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Regierung des Kantons St.Gallen / Staatskanzlei
+  languages: [de]
+  document_type: drafting manual
+  legal_status: Issued by the Regierung on 24 May 2016; applies to enactments of the Regierung and the Kantonsrat; replaces
+    the guide of 3 July 2012
+  edition: Juni 2016
+  published: "2012-07"
+  last_updated: "2016-06"
+  currency:
+    status: current
+    note: The official copy is intranet-only; Copy hosted by the Zentrum für Rechtsetzungslehre (ZfR), University of Zurich,
+      in its collection of cantonal drafting guidelines; no copy found on the cantonal website.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.zfr.uzh.ch/dam/jcr:82bfc4d0-f6f3-47c8-a76d-2ccc615fba7e/St.Gallen.pdf
+  landing_url: https://www.zfr.uzh.ch/de/dienstleistungen/richtlinien.html
+
+- id: ch-sh-richtlinien-gestaltung-erlasse
+  title: Richtlinien für die Gestaltung kantonaler Erlasse
+  title_en: Guidelines on the Design of Cantonal Enactments (Canton of Schaffhausen)
+  jurisdiction: Schaffhausen
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-SH
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Staatskanzlei Schaffhausen
+  languages: [de]
+  document_type: drafting guidelines
+  legal_status: Guidance issued by the Staatskanzlei
+  published: "1987-12"
+  last_updated: "1987-12"
+  currency:
+    status: dated
+    note: Scanned typescript dated December 1987. Copy hosted by the Zentrum für Rechtsetzungslehre (ZfR), University of Zurich,
+      in its collection of cantonal drafting guidelines; no copy found on the cantonal website.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.zfr.uzh.ch/dam/jcr:96bd6e4c-b447-4eed-a719-e2a2219c6ada/Schaffhausen.pdf
+  landing_url: https://www.zfr.uzh.ch/de/dienstleistungen/richtlinien.html
+
+- id: ch-so-richtlinien-gesetzestechnik
+  title: Richtlinien zur Gesetzestechnik
+  title_en: Guidelines on Legislative Technique (Canton of Solothurn)
+  jurisdiction: Solothurn
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-SO
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Staatskanzlei des Kantons Solothurn
+  languages: [de]
+  document_type: drafting guidelines
+  legal_status: Guidance issued by the Staatskanzlei
+  last_updated: "2019-01"
+  currency:
+    status: current
+    note: Stand 1 January 2019. Copy hosted by the Zentrum für Rechtsetzungslehre (ZfR), University of Zurich, in its collection
+      of cantonal drafting guidelines; no copy found on the cantonal website.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.zfr.uzh.ch/dam/jcr:f9ee5da2-915f-4a7c-98fb-b3f4b348d68c/Solothurn.pdf
+  landing_url: https://www.zfr.uzh.ch/de/dienstleistungen/richtlinien.html
+
+- id: ch-sz-richtlinien-rechtsetzung
+  title: Richtlinien für die Rechtsetzung
+  title_en: Guidelines on Law-making (Canton of Schwyz)
+  jurisdiction: Schwyz
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-SZ
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Regierungsrat des Kantons Schwyz (Sicherheitsdepartement, Rechts- und Beschwerdedienst)
+  languages: [de]
+  document_type: drafting guidelines
+  legal_status: Guidelines of the Regierungsrat of 19 June 2018 (as amended by RRB)
+  published: "2018-06"
+  last_updated: "2018-06"
+  currency:
+    status: current
+    note: Copy hosted by the Zentrum für Rechtsetzungslehre (ZfR), University of Zurich, in its collection of cantonal drafting
+      guidelines; no copy found on the cantonal website.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.zfr.uzh.ch/dam/jcr:97b25635-9123-434f-9e18-5f1ae9390481/Schwyz.pdf
+  landing_url: https://www.zfr.uzh.ch/de/dienstleistungen/richtlinien.html
+
+- id: ch-tg-richtlinien-gesetzgebung
+  title: Richtlinien des Kantons Thurgau für die Gesetzgebung
+  title_en: Guidelines of the Canton of Thurgau on Legislation
+  jurisdiction: Thurgau
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-TG
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Staatskanzlei des Kantons Thurgau
+  languages: [de]
+  document_type: drafting guidelines
+  legal_status: Guidance issued by the Staatskanzlei
+  edition: Ausgabe 2004
+  published: "2004"
+  last_updated: "2004"
+  currency:
+    status: dated
+    note: Copy hosted by the Zentrum für Rechtsetzungslehre (ZfR), University of Zurich, in its collection of cantonal drafting
+      guidelines; no copy found on the cantonal website.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.zfr.uzh.ch/dam/jcr:108f557e-ebbd-409c-afdc-479f7d5b59d3/Thurgau_Rechtsetzung.pdf
+  landing_url: https://www.zfr.uzh.ch/de/dienstleistungen/richtlinien.html
+
+- id: ch-ti-direttive-atto-normativo
+  title: Direttive per la preparazione di un atto normativo
+  title_en: Directives for the Preparation of a Normative Act (Canton of Ticino)
+  jurisdiction: Ticino
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-TI
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Dipartimento delle istituzioni, Divisione della giustizia, Repubblica e Cantone Ticino
+  languages: [it]
+  document_type: drafting guidelines
+  legal_status: Departmental guidance
+  published: "2007-10"
+  last_updated: "2007-10"
+  currency:
+    status: dated
+    note: Dated Bellinzona, 8 October 2007. Copy hosted by the Zentrum für Rechtsetzungslehre (ZfR), University of Zurich,
+      in its collection of cantonal drafting guidelines; no copy found on the cantonal website.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.zfr.uzh.ch/dam/jcr:0f7ac0d9-df7c-4d8d-ba34-ca7b5b8f1a96/Tessin.pdf
+  landing_url: https://www.zfr.uzh.ch/de/dienstleistungen/richtlinien.html
+
+- id: ch-ur-gesetzestechnische-richtlinien
+  title: Gesetzestechnische Richtlinien des Kantons Uri
+  title_en: Legislative Technique Guidelines of the Canton of Uri
+  jurisdiction: Uri
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-UR
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Kanton Uri (Standeskanzlei)
+  languages: [de]
+  document_type: drafting guidelines
+  legal_status: Guidance; supplements/modifies the federal Gesetzestechnische Richtlinien (GTR 2003) for cantonal practice
+  last_updated: "2008-12"
+  currency:
+    status: dated
+    note: Stand 4 December 2008. Copy hosted by the Zentrum für Rechtsetzungslehre (ZfR), University of Zurich, in its collection
+      of cantonal drafting guidelines; no copy found on the cantonal website.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.zfr.uzh.ch/dam/jcr:6bbf88af-8489-4047-ae13-53fad3772f78/Uri.pdf
+  landing_url: https://www.zfr.uzh.ch/de/dienstleistungen/richtlinien.html
+
+- id: ch-vd-druide-technique-legislative
+  title: DRUIDE 6.1.1 – Technique législative
+  title_en: DRUIDE 6.1.1 – Legislative Technique (Canton of Vaud internal directives)
+  jurisdiction: Vaud
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-VD
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Etat de Vaud (DRUIDE – Directives et règles à usage interne de l'Etat)
+  languages: [fr]
+  document_type: drafting rules
+  legal_status: Internal state directive (DRUIDE No 6.1.1) on presentation and drafting of laws, decrees, regulations and
+    administrative acts
+  currency:
+    status: unverified
+    note: Edition date not stated in the copy. Copy hosted by the Zentrum für Rechtsetzungslehre (ZfR), University of Zurich,
+      in its collection of cantonal drafting guidelines; no copy found on the cantonal website.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.zfr.uzh.ch/dam/jcr:9371b356-1812-4e1f-96f2-5bf9ec82799c/VD_directives.pdf
+  landing_url: https://www.zfr.uzh.ch/de/dienstleistungen/richtlinien.html
+
+- id: ch-vs-directives-elaboration-legislation
+  title: Directives sur l'élaboration de la législation / Gesetzestechnische Richtlinien
+  title_en: Directives on the Preparation of Legislation (Canton of Valais)
+  jurisdiction: Valais
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-VS
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Conseil d'Etat du canton du Valais
+  languages: [fr, de]
+  document_type: drafting guidelines
+  legal_status: Directives of the Conseil d'Etat based on Art. 141 of the law on the organisation of the councils and Art.
+    1(3) of the administration organisation regulation
+  published: "2005"
+  last_updated: "2005"
+  currency:
+    status: current
+    note: French version hosted on vs.ch dated 2005; German version in ZfR collection.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.vs.ch/documents/529400/1593936/A.Directives%20sur%20l'%EF%BF%BDlaboration%20de%20la%20l%EF%BF%BDgislation%202005.pdf/cc73faa6-bcdd-4665-a868-b67ca763ce0a
+  notes: German version - https://www.zfr.uzh.ch/dam/jcr:12cf603e-0fe4-493b-9c65-0e192285934d/Wallis.pdf
+
+- id: ch-zg-leitfaden-erlasstechnik
+  title: Leitfaden zur Erlasstechnik des Kantons Zug
+  title_en: Guide to Enactment Technique of the Canton of Zug
+  jurisdiction: Zug
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-ZG
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Regierungsrat des Kantons Zug / Staatskanzlei
+  languages: [de]
+  document_type: drafting manual
+  legal_status: Adopted by the Regierungsrat on 10 December 2013
+  published: "2013-12"
+  last_updated: "2013-12"
+  currency:
+    status: current
+    note: Copy hosted by the Zentrum für Rechtsetzungslehre (ZfR), University of Zurich, in its collection of cantonal drafting
+      guidelines; no copy found on the cantonal website.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.zfr.uzh.ch/dam/jcr:f21daac8-643d-4167-bed7-6bd973397637/Zug.pdf
+  landing_url: https://www.zfr.uzh.ch/de/dienstleistungen/richtlinien.html
+
+- id: ch-zh-richtlinien-der-rechtsetzung
+  title: Richtlinien der Rechtsetzung
+  title_en: Guidelines on Law-making (Canton of Zurich)
+  jurisdiction: Zurich
+  jurisdiction_level: subnational
+  country_code: CH
+  subdivision_code: CH-ZH
+  subdivision_type: canton
+  region: Europe
+  issuing_body: Regierungsrat des Kantons Zürich (published by the Gesetzgebungsdienst, Direktion der Justiz und des Innern)
+  languages: [de]
+  document_type: drafting guidelines
+  legal_status: Guidelines adopted by the Regierungsrat on 21 December 2005 (in force 1 January 2006) under the Rechtsetzungsverordnung
+    (LS 172.16)
+  published: "2005-12"
+  last_updated: "2005-12"
+  currency:
+    status: current
+    note: 101-page PDF linked from the Gesetzgebungsdienst page on zh.ch; the file was last modified in 2021 but carries the
+      2005 date. Separate RRB-level guidelines exist on regulatory impact assessment (amended 2022).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.zh.ch/content/dam/zhweb/bilder-dokumente/organisation/direktion-der-justiz-und-des-innern/generalsekretariat/dienstleistungen-des-generalsekretariats/Richtlinien%20der%20Rechtsetzung.pdf.pdf
+  landing_url: https://www.zh.ch/de/direktion-der-justiz-und-des-innern/generalsekretariat/gesetzgebungsdienst.html
+
+- id: co-dc-manual-distrital-de-tecnica-normativa
+  title: Manual Distrital de Técnica Normativa
+  title_en: District Manual of Normative Drafting Technique
+  jurisdiction: Bogotá, Distrito Capital
+  jurisdiction_level: subnational
+  country_code: CO
+  subdivision_code: CO-DC
+  subdivision_type: federal district
+  region: Americas
+  issuing_body: Alcaldía Mayor de Bogotá, Secretaría Jurídica Distrital
+  languages: [es]
+  document_type: drafting manual
+  legal_status: Binding on all District administrative acts; adopted by decree amending art. 80 and adding art. 80.1 of Decreto
+    Único Distrital 479 de 2024 (published Registro Distrital no. 8459, 25 Nov 2025; file name indicates Decreto 582 de 2025)
+  last_updated: "2025-11"
+  currency:
+    status: in-force
+    note: Draft put to public consultation July 2025; final text published in Registro Distrital 8459 (Nov 2025). Copy verified
+      on redjurista.com (59 pp., image-based). Official SisJur/LegalBog record not located directly.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.redjurista.com/Compilaciones2018/tablas_GacetasBogota/2025/11/8459/d_alcabog_0582_2025.pdf
+  landing_url: https://bogota.gov.co/mi-ciudad/gestion-juridica/comenta-el-proyecto-de-modificacion-manual-de-tecnica-normativa-bogota
+  notes: source_url is a third-party compilation of the official Registro Distrital; decree number inferred from file name.
+    Covers decrees and resolutions of the District, not Concejo agreements (acuerdos).
+
+- id: de-bb-ggo-anlage-10-rechtsfoermliche-gestaltung
+  title: Richtlinie zur einheitlichen rechtsförmlichen Gestaltung von Gesetzen und Rechtsverordnungen (Anlage 10 zur GGO)
+  title_en: Guideline on the Uniform Legal Form of Laws and Ordinances (Annex 10 to the Joint Rules of Procedure)
+  jurisdiction: Brandenburg
+  jurisdiction_level: subnational
+  country_code: DE
+  subdivision_code: DE-BB
+  subdivision_type: land
+  region: Europe
+  issuing_body: Landesregierung Brandenburg (published on BRAVORS, Brandenburgisches Vorschriftensystem)
+  languages: [de]
+  document_type: drafting rules
+  legal_status: Annex 10 (zu § 21 Absatz 4) to the Gemeinsame Geschäftsordnung für die Ministerien des Landes Brandenburg
+    (GGO 2016)
+  published: "2016"
+  currency:
+    status: in-force
+    note: Listed as an annex of the current GGO 2016 on BRAVORS. Related annexes - Anlage 9 (Zentrale Normprüfung), Anlage
+      11 (electronic drafting), Anlage 11a.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://bravors.brandenburg.de/sixcms/media.php/66/Anlage10.pdf
+  landing_url: https://bravors.brandenburg.de/verwaltungsvorschriften/ggo2016/attachments
+
+- id: de-be-ggo-ii-hinweise-rechtsfoermlichkeit
+  title: Gemeinsame Geschäftsordnung für die Berliner Verwaltung, Besonderer Teil (GGO II) – Anhang 1 Hinweise zur Rechtsförmlichkeit
+  title_en: Joint Rules of Procedure for the Berlin Administration, Special Part (GGO II) – Annex 1 Notes on Legal Form
+  jurisdiction: Berlin
+  jurisdiction_level: subnational
+  country_code: DE
+  subdivision_code: DE-BE
+  subdivision_type: land
+  region: Europe
+  issuing_body: Senat von Berlin / Senatsverwaltung für Inneres und Sport
+  languages: [de]
+  document_type: drafting rules
+  legal_status: Administrative regulation of 8 September 2015, amended 2020 and 2021; Anhang 1 amended by SenInnSport with
+    SenJustV on 30 December 2024; § 59 GGO II applies the federal Handbuch der Rechtsförmlichkeit (4th ed.) correspondingly
+  published: "2015-09"
+  last_updated: "2024-12"
+  currency:
+    status: in-force
+    note: Berlin.de publication file dated 2025-03-11; a replacement GGO II was announced for 2026 but not found.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.berlin.de/sen/inneres/buerger-und-staat/verfassungs-und-verwaltungsrecht/geschaeftsordnung-der-berliner-verwaltung/ggo-ii/250311-internetveroeffentlichung-ggo-ii.pdf
+  landing_url: https://www.berlin.de/sen/inneres/buerger-und-staat/verfassungs-und-verwaltungsrecht/geschaeftsordnung-der-berliner-verwaltung/ggo-ii/artikel.30096.php
+  notes: Berlin is a city-state (Land); subdivision_type set to city.
+
+- id: de-bw-vwv-regelungen
+  title: Verwaltungsvorschrift der Landesregierung und der Ministerien zur Erarbeitung von Regelungen (VwV Regelungen)
+  title_en: Administrative Regulation of the State Government and Ministries on the Preparation of Rules
+  jurisdiction: Baden-Württemberg
+  jurisdiction_level: subnational
+  country_code: DE
+  subdivision_code: DE-BW
+  subdivision_type: land
+  region: Europe
+  issuing_body: Landesregierung Baden-Württemberg (copy hosted by Gewerbeaufsicht Baden-Württemberg)
+  languages: [de]
+  document_type: drafting rules
+  legal_status: Binding administrative regulation – VwV vom 26. September 2023 (GABl. Nr. 10, S. 444), in force 2023-10-01;
+    replaces VwV Regelungen of 9 June 2015 (GABl. S. 370)
+  published: "2015-06"
+  last_updated: "2023-09"
+  currency:
+    status: in-force
+    note: Copy found is the 2023 version in the Gewerbeaufsicht BW rules collection (VerwR 4.08). Covers substantive and formal
+      requirements for laws, ordinances and administrative rules; no copy located on landesrecht-bw.de.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://gewerbeaufsicht.baden-wuerttemberg.de/documents/20121/67096/4_08.pdf
+  notes: Secondary official host (state agency rules collection), not the State Ministry.
+
+- id: de-by-redaktionsrichtlinien
+  title: Richtlinien für die Redaktion von Rechtsvorschriften (Redaktionsrichtlinien – RedR)
+  title_en: Guidelines for the Drafting of Legal Provisions (Drafting Guidelines – RedR)
+  jurisdiction: Bavaria
+  jurisdiction_level: subnational
+  country_code: DE
+  subdivision_code: DE-BY
+  subdivision_type: land
+  region: Europe
+  issuing_body: Bayerische Staatsregierung (published on BAYERN.RECHT, gesetze-bayern.de)
+  languages: [de]
+  document_type: drafting guidelines
+  legal_status: Binding administrative regulation for the Bavarian state administration – Bekanntmachung der Bayerischen Staatsregierung
+    vom 16. Juni 2015 (AllMBl. S. 319, BayVwV 312180), last amended by Bekanntmachung vom 16. Dezember 2025 (BayMBl. Nr. 587)
+  published: "2015-06"
+  last_updated: "2025-12"
+  currency:
+    status: in-force
+    note: gesetze-bayern.de shows the consolidated version in force from 2026-01-01. Supplements the federal Handbuch der
+      Rechtsförmlichkeit (4th ed.), which applies where RedR is silent.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.gesetze-bayern.de/Content/Pdf/BayVwV312180?all=True
+  landing_url: https://www.gesetze-bayern.de/Content/Document/BayVwV312180/true
+
+- id: de-nw-leitfaden-rechtsetzung
+  title: Leitfaden „Rechtsetzung in Nordrhein-Westfalen“ (Anlage 6 GGO)
+  title_en: Guide "Law-making in North Rhine-Westphalia" (Annex 6 to the Joint Rules of Procedure)
+  jurisdiction: North Rhine-Westphalia
+  jurisdiction_level: subnational
+  country_code: DE
+  subdivision_code: DE-NW
+  subdivision_type: land
+  region: Europe
+  issuing_body: Landesregierung Nordrhein-Westfalen (copy hosted on nachhaltigkeit.nrw.de)
+  languages: [de]
+  document_type: process guide
+  legal_status: Annex 6 to the Gemeinsame Geschäftsordnung für die Ministerien des Landes NRW (GGO)
+  last_updated: "2021-03"
+  currency:
+    status: current
+    note: PDF states "Stand 23.03.2021"; no newer edition located.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://nachhaltigkeit.nrw.de/fileadmin/user_upload/210323_Anlage_6_GGO_Leitfaden_Rechtsetzung_NRW.pdf
+
+- id: de-nw-veroeffentlichungsrichtlinien
+  title: Richtlinien für die Gestaltung, den Erlass und die Veröffentlichung von Rechts- und Verwaltungsvorschriften sowie
+    Bekanntmachungen (Veröffentlichungsrichtlinien – VeröffRL)
+  title_en: Guidelines on the Form, Enactment and Publication of Legal and Administrative Provisions and Notices (Publication
+    Guidelines)
+  jurisdiction: North Rhine-Westphalia
+  jurisdiction_level: subnational
+  country_code: DE
+  subdivision_code: DE-NW
+  subdivision_type: land
+  region: Europe
+  issuing_body: Landesregierung Nordrhein-Westfalen (published on RECHT.NRW.DE)
+  languages: [de]
+  document_type: drafting rules
+  legal_status: Binding administrative regulation for NRW ministries; applies the federal Handbuch der Rechtsförmlichkeit
+    correspondingly unless otherwise provided
+  published: "2015-10"
+  last_updated: "2025-12"
+  currency:
+    status: in-force
+    note: Version dated 01.12.2025 on recht.nrw.de (earlier versions 01.07.2025 and 28.10.2015 "Richtlinien für den Erlass
+      von Rechts- und Verwaltungsvorschriften").
+    checked_on: "2026-11-01"
+  original_format: HTML
+  source_url: https://recht.nrw.de/lrmb/verwaltungsvorschrift/01122025-richtlinien-fuer-die-gestaltung-den-erlass-und-die/
+
+- id: de-sh-richtlinien-gesetz-verordnungsentwuerfe
+  title: Richtlinien über Gesetz- und Verordnungsentwürfe
+  title_en: Guidelines on Draft Laws and Ordinances
+  jurisdiction: Schleswig-Holstein
+  jurisdiction_level: subnational
+  country_code: DE
+  subdivision_code: DE-SH
+  subdivision_type: land
+  region: Europe
+  issuing_body: Landesregierung Schleswig-Holstein (published on the Transparenzportal Schleswig-Holstein)
+  languages: [de]
+  document_type: drafting rules
+  legal_status: Government guidelines of 29 November 2013, amended 9 February 2015 and 28 June 2018
+  published: "2013-11"
+  last_updated: "2018-06"
+  currency:
+    status: current
+    note: 2018 consolidated text on the state transparency portal; annexes (e.g. Anlage 3 2018) published separately.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://transparenz.schleswig-holstein.de/dataset/168ae689-6dac-4a6c-a66b-3a78453894fc/resource/2197a1d9-6b3e-4326-9827-04af18245ab6/download/_richtlinien-ber-gesetz-und-verordnungsentwrfe.pdf
+
+- id: de-sn-landtag-richtlinien-formale-gestaltung
+  title: Richtlinien des Sächsischen Landtages für die formale Gestaltung von Gesetzen
+  title_en: Guidelines of the Saxon State Parliament on the Formal Design of Laws
+  jurisdiction: Saxony
+  jurisdiction_level: subnational
+  country_code: DE
+  subdivision_code: DE-SN
+  subdivision_type: land
+  region: Europe
+  issuing_body: Sächsischer Landtag (published on REVOSax)
+  languages: [de]
+  document_type: drafting guidelines
+  legal_status: Guidelines adopted by the Landtag, 22 January 2020 (SächsABl. S. 123), amended 27 May 2020 (SächsABl. S. 655);
+    apply to bills of parliamentary groups and members
+  published: "2020-01"
+  last_updated: "2020-05"
+  currency:
+    status: in-force
+    note: In force per REVOSax; content corresponds to Part I of Annex 2 of the former VwV Normerlass 2014.
+    checked_on: "2026-11-01"
+  original_format: HTML
+  source_url: https://www.revosax.sachsen.de/vorschrift/18588
+
+- id: de-sn-vwv-normerlass
+  title: Verwaltungsvorschrift der Sächsischen Staatsregierung über den Erlass von Rechts- und Verwaltungsvorschriften (VwV
+    Normerlass – VwVNE)
+  title_en: Administrative Regulation of the Saxon State Government on the Enactment of Legal and Administrative Provisions
+  jurisdiction: Saxony
+  jurisdiction_level: subnational
+  country_code: DE
+  subdivision_code: DE-SN
+  subdivision_type: land
+  region: Europe
+  issuing_body: Sächsische Staatsregierung (published on REVOSax)
+  languages: [de]
+  document_type: drafting rules
+  legal_status: Binding administrative regulation – VwV vom 5. März 2025 (SächsABl. 2025 Nr. 11, S. 282); includes supplements
+    to the federal Handbuch der Rechtsförmlichkeit
+  published: "2004"
+  last_updated: "2025-03"
+  currency:
+    status: in-force
+    note: 2025 VwVNE replaces the VwV Normerlass of 5 July 2014 (amended 2022). REVOSax lists it as included in a VwV of 2
+      December 2025 (SächsABl. SDr. S. S 206).
+    checked_on: "2026-11-01"
+  original_format: HTML
+  source_url: https://revosax.sachsen.de/vorschrift/21164
+  notes: PDF of the 2025 version also at https://recht.sachsen.de/vorschrift_gesamt/21164/48567.pdf (verified 200).
+
+- id: de-st-grundsaetze-rechtsfoermlichkeit
+  title: Grundsätze der Rechtsförmlichkeit
+  title_en: Principles of Legal Form (Saxony-Anhalt)
+  jurisdiction: Saxony-Anhalt
+  jurisdiction_level: subnational
+  country_code: DE
+  subdivision_code: DE-ST
+  subdivision_type: land
+  region: Europe
+  issuing_body: Landesregierung Sachsen-Anhalt (copy hosted by Landtag von Sachsen-Anhalt)
+  languages: [de]
+  document_type: drafting guidelines
+  legal_status: Cabinet decision published in MBl. LSA Grundausgabe Nr. 59a of 13 December 2002; parallel version adopted
+    by the Landtag's Ältestenrat for parliamentary bills
+  published: "2002-12"
+  last_updated: "2002-12"
+  currency:
+    status: dated
+    note: 2002 special issue of the Ministerialblatt; still offered on the Landtag's legal-basis downloads page. No newer
+      edition located.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.landtag.sachsen-anhalt.de/fileadmin/Downloads/Rechtsgrundlagen/Grundsaetze_Rechtsfoermlichkeit_LSA.pdf
+
+- id: es-an-manual-practico-tecnica-normativa
+  title: Manual práctico de técnica normativa
+  title_en: Practical Manual of Legislative Drafting (Andalusia)
+  jurisdiction: Andalusia
+  jurisdiction_level: subnational
+  country_code: ES
+  subdivision_code: ES-AN
+  subdivision_type: autonomous community
+  region: Europe
+  issuing_body: Instituto Andaluz de Administración Pública, Consejería de Hacienda y Administración Pública, Junta de Andalucía
+    (author Manuel Andrés Navarro Atienza)
+  languages: [es]
+  document_type: drafting manual
+  legal_status: Guidance (official training manual); Andalusia applies the State Directrices de técnica normativa (2005) pending
+    its own instrucciones under Ley 1/2014 de Transparencia, disp. adic. 2ª
+  published: "2015"
+  last_updated: "2015"
+  currency:
+    status: current
+    note: IAAP publication, Sevilla 2015 (ISBN 978-84-8333-643-4); no regional instrucciones de técnica normativa located.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://ws168.juntadeandalucia.es/publicaciones/portal/catalog/download/92/292/594?inline=1
+
+- id: es-ar-directrices-tecnica-normativa
+  title: Directrices de Técnica Normativa del Gobierno de Aragón
+  title_en: Legislative Drafting Guidelines of the Government of Aragon
+  jurisdiction: Aragon
+  jurisdiction_level: subnational
+  country_code: ES
+  subdivision_code: ES-AR
+  subdivision_type: autonomous community
+  region: Europe
+  issuing_body: Gobierno de Aragón (Departamento de Presidencia y Justicia)
+  languages: [es]
+  document_type: drafting guidelines
+  legal_status: Acuerdo del Gobierno de Aragón of 28 May 2013, published by Orden of 31 May 2013 (BOA, 19 June 2013); referenced
+    by Aragonese procedural legislation
+  published: "2013-06"
+  last_updated: "2013-06"
+  currency:
+    status: in-force
+    note: Full text reproduced by INAP (La Administración al Día, 20/06/2013); official BOA PDF not located. A 2015 amendment
+      was reported in one secondary source but not confirmed.
+    checked_on: "2026-11-01"
+  original_format: HTML
+  source_url: https://laadministracionaldia.inap.es/noticia.asp?id=1114785
+  notes: Secondary official host (INAP, Spanish National Institute of Public Administration); PDF version at https://laadministracionaldia.inap.es/noticia_pdf.asp?id=1114785
+    (not separately verified).
+
+- id: es-cn-decreto-15-2016-directrices-forma-estructura
+  title: Decreto 15/2016, de 11 de marzo, del Presidente, por el que se establecen las normas internas para la elaboración
+    y tramitación de las iniciativas normativas del Gobierno y se aprueban las directrices sobre su forma y estructura
+  title_en: Decree 15/2016 establishing internal rules for preparing government regulatory initiatives and approving guidelines
+    on their form and structure (Canary Islands)
+  jurisdiction: Canary Islands
+  jurisdiction_level: subnational
+  country_code: ES
+  subdivision_code: ES-CN
+  subdivision_type: autonomous community
+  region: Europe
+  issuing_body: Presidencia del Gobierno de Canarias
+  languages: [es]
+  document_type: drafting rules
+  legal_status: Decree of the President, BOC No. 55, 21 March 2016; replaces Decreto 20/2012
+  published: "2016-03"
+  last_updated: "2016-03"
+  currency:
+    status: in-force
+    note: Still applied by the Consejo Consultivo in 2021-2022 to the extent not contrary to later laws (e.g. citizen participation
+      law).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://sede.gobiernodecanarias.org/boc/boc-a-2016-055-1054.pdf
+  landing_url: https://www.gobiernodecanarias.org/boc/2016/055/
+
+- id: es-ct-manual-elaboracio-normes
+  title: Manual d'elaboració de normes de la Generalitat de Catalunya
+  title_en: Manual for Drafting Rules of the Government of Catalonia
+  jurisdiction: Catalonia
+  jurisdiction_level: subnational
+  country_code: ES
+  subdivision_code: ES-CT
+  subdivision_type: autonomous community
+  region: Europe
+  issuing_body: Departament de la Presidència, Generalitat de Catalunya (published by the Entitat Autònoma del Diari Oficial
+    i de Publicacions)
+  languages: [ca]
+  document_type: drafting manual
+  legal_status: Guidance for those drafting Generalitat norms
+  edition: 2nd edition
+  published: "1992"
+  last_updated: "2024"
+  currency:
+    status: unverified
+    note: Second edition (2024, 134 pp.) listed in the Presidència digital library and announced by the EAPC in March 2025;
+      the repository is behind a bot challenge so the PDF could not be fetched. First edition 1992.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: null
+  landing_url: https://presidencia.bibliotecadigital.gencat.cat/handle/20.500.14623/1298
+  notes: EAPC announcement - https://eapc.bibliotecadigital.gencat.cat/handle/20.500.14227/5706 (verified 200).
+
+- id: es-ga-directrices-tecnica-normativa
+  title: Directrices de técnica normativa / Directrices de técnica normativa (Xunta de Galicia)
+  title_en: Legislative Drafting Guidelines (Galicia)
+  jurisdiction: Galicia
+  jurisdiction_level: subnational
+  country_code: ES
+  subdivision_code: ES-GA
+  subdivision_type: autonomous community
+  region: Europe
+  issuing_body: Consello da Xunta de Galicia (published by the Dirección General de la Asesoría Jurídica General)
+  languages: [es, gl]
+  document_type: drafting guidelines
+  legal_status: Acuerdo del Consello de la Xunta of 30 October 2014, published by Resolución of 5 November 2014 (DOG No. 219,
+    14 November 2014)
+  published: "2014-11"
+  last_updated: "2014-11"
+  currency:
+    status: in-force
+    note: No later replacement found; still taught as the core drafting reference in EGAP courses.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.xunta.gal/dog/Publicados/2014/20141114/AnuncioG0244-061114-0010_es.pdf
+  landing_url: https://www.xunta.gal/dog/Publicados/2014/20141114/AnuncioG0244-061114-0010_es.html
+  notes: Galician text - https://www.xunta.gal/dog/Publicados/2014/20141114/AnuncioG0244-061114-0010_gl.pdf
+
+- id: es-md-directrices-tecnica-normativa
+  title: Directrices de técnica normativa de la Comunidad de Madrid
+  title_en: Legislative Drafting Guidelines of the Community of Madrid
+  jurisdiction: Community of Madrid
+  jurisdiction_level: subnational
+  country_code: ES
+  subdivision_code: ES-MD
+  subdivision_type: autonomous community
+  region: Europe
+  issuing_body: Consejo de Gobierno de la Comunidad de Madrid (Consejería de Presidencia, Justicia y Administración Local)
+  languages: [es]
+  document_type: drafting guidelines
+  legal_status: Acuerdo de 18 de febrero de 2026, del Consejo de Gobierno (BOCM No. 49, 27 February 2026); effective the day
+    after publication
+  published: "2026-02"
+  last_updated: "2026-02"
+  currency:
+    status: in-force
+    note: Replaces reliance on the State Directrices de técnica normativa (Consejo de Ministros, 22 July 2005) for Madrid
+      regional norms.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.bocm.es/boletin/CM_Orden_BOCM/2026/02/27/BOCM-20260227-17.PDF
+
+- id: es-pv-directrices-elaboracion-proyectos
+  title: Directrices para la elaboración de proyectos de Ley, Decretos, Órdenes y Resoluciones
+  title_en: Guidelines for Drafting Bills, Decrees, Orders and Resolutions (Basque Country)
+  jurisdiction: Basque Country
+  jurisdiction_level: subnational
+  country_code: ES
+  subdivision_code: ES-PV
+  subdivision_type: autonomous community
+  region: Europe
+  issuing_body: Gobierno Vasco – Consejo de Gobierno (published by the Secretaría del Gobierno y de Relaciones con el Parlamento)
+  languages: [es, eu]
+  document_type: drafting guidelines
+  legal_status: Acuerdo del Consejo de Gobierno of 11 July 2023, published by Resolución 78/2023 of 28 July (BOPV No. 149,
+    7 August 2023); replaces the directrices of 23 March 1993 (BOPV No. 71, 19 April 1993) referred to in Ley 6/2022 art.
+    14.6
+  published: "1993-03"
+  last_updated: "2023-07"
+  currency:
+    status: in-force
+    note: 2023 guidelines in BOPV; supersede the 1993 directrices.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.euskadi.eus/bopv2/datos/2023/08/2303839a.pdf
+  landing_url: https://www.euskadi.eus/web01-bopv/es/bopv2/datos/2023/08/2303839a.shtml
+
+- id: es-vc-guia-metodologica-tramitacion-disposiciones-normativas
+  title: Guía metodológica para la tramitación de disposiciones normativas
+  title_en: Methodological Guide to Processing Regulatory Provisions (Valencian Community)
+  jurisdiction: Valencian Community
+  jurisdiction_level: subnational
+  country_code: ES
+  subdivision_code: ES-VC
+  subdivision_type: autonomous community
+  region: Europe
+  issuing_body: Dirección General de Simplificación Administrativa, Generalitat Valenciana
+  languages: [es]
+  document_type: process guide
+  legal_status: Guidance; the technical-drafting part refers to Title II of Decreto 24/2009, de 13 de febrero, del Consell
+    (form, structure and procedure of normative projects) and the DOGV style manual
+  last_updated: "2026-02"
+  currency:
+    status: current
+    note: PDF created February 2026; cites Decreto 54/2025 and Ley 6/2024. Decreto 24/2009 itself (binding form/structure
+      rules) not located as a verified URL.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://hisenda.gva.es/documents/90590963/402296683/2.+Gu%C3%ADa+de+elaboraci%C3%B3n+normativa.pdf/3d630f39-b877-0e87-d210-9616dcfb68fd
+
+- id: id-jk-pergub-112-2012-pembentukan-produk-hukum-daerah
+  title: Peraturan Gubernur Nomor 112 Tahun 2012 tentang Tata Cara Pembentukan Produk Hukum Daerah
+  title_en: Governor Regulation No. 112 of 2012 on Procedures for Making Regional Legal Instruments
+  jurisdiction: DKI Jakarta
+  jurisdiction_level: subnational
+  country_code: ID
+  subdivision_code: ID-JK
+  subdivision_type: province
+  region: Asia
+  issuing_body: Gubernur Provinsi DKI Jakarta (via JDIH Jakarta)
+  languages: [id]
+  document_type: process guide
+  legal_status: 'Binding instrument: Pergub DKI Jakarta No. 112/2012'
+  published: "2012"
+  last_updated: "2012"
+  currency:
+    status: unverified
+    note: Text verified on JDIH Jakarta; whether it has since been replaced was not confirmed. Drafting technique proper follows
+      national Law 12/2011 (Annex II) and Permendagri 80/2015.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://jdih.jakarta.go.id/dokumenPeraturanDirectory/0031/2012PERGUB0031112.pdf
+  notes: Many provinces issue similar Perda/Pergub on 'pedoman pembentukan produk hukum daerah' (e.g., DIY Perda 1/2011, Jawa
+    Tengah Pergub 48/2015, Kalimantan Timur Pergub 39/2024); their peraturan.bpk.go.id copies returned 403 to automated checks,
+    so they are not listed.
+
+- id: in-kl-kerala-law-department-manual
+  title: The Kerala Law Department Manual
+  jurisdiction: Kerala
+  jurisdiction_level: subnational
+  country_code: IN
+  subdivision_code: IN-KL
+  subdivision_type: state
+  region: Asia
+  issuing_body: Law Department, Government of Kerala
+  languages: [en]
+  document_type: process guide
+  legal_status: Guidance (departmental manual)
+  edition: 34/853/2004/DPT
+  published: "2004"
+  currency:
+    status: dated
+    note: 2004 printing (19 pp.); Chapter III 'Drafting of Legislation' sets the procedure for preparing Bills, Ordinances
+      and subordinate legislation. No newer edition found.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://lawsect.kerala.gov.in/images/law_dept_manu_eng.pdf
+  landing_url: https://lawsect.kerala.gov.in/
+  notes: Mainly procedural rather than a style manual; included because no dedicated Kerala drafting manual is published.
+
+- id: in-mh-manual-for-handling-legislation
+  title: Manual for Handling Legislation and Subordinate Legislations
+  jurisdiction: Maharashtra
+  jurisdiction_level: subnational
+  country_code: IN
+  subdivision_code: IN-MH
+  subdivision_type: state
+  region: Asia
+  issuing_body: Law and Judiciary Department, Government of Maharashtra (Legislation Branch)
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: M 32
+  published: "2025"
+  last_updated: "2025"
+  currency:
+    status: current
+    note: 2025 manual prepared by the Secretary (Legislation), Law and Judiciary Department, Mantralaya; describes itself
+      as the Department's Legislative Drafting Manual. Hosted on the state's S3WaaS (NIC) CDN, uploaded Sept 2025.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://cdnbbsr.s3waas.gov.in/s36a4cbdaedcbda0fa8ddc7ea32073c475/uploads/2025/09/202509121336308655.pdf
+  notes: Department website (law.maharashtra.gov.in) was unreachable from the checking environment, so no landing page recorded.
+
+- id: iq-kr-krg-guide-to-legislative-drafting
+  title: Guide to Legislative Drafting in the Kurdistan Regional Government (KRG)
+  jurisdiction: Kurdistan Region
+  jurisdiction_level: subnational
+  country_code: IQ
+  subdivision_code: IQ-KR
+  subdivision_type: region
+  region: Asia
+  issuing_body: KRG Shura Council, with World Bank technical assistance
+  languages: [en]
+  document_type: drafting guidelines
+  legal_status: Guidance
+  published: "2015-02"
+  currency:
+    status: unverified
+    note: Only the World Bank MENA Knowledge & Learning Quick Note no. 142 (Feb 2015, 4 pp.) describing preparation of the
+      guide with the Shura Council is public; a 'KRG Legislative Drafting Guide' was presented at a May 2022 workshop. The
+      guide's own text was not found online.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://documents1.worldbank.org/curated/en/867201468049203768/pdf/942120BRI00PUBLIC00Box385402B0QN142.pdf
+  landing_url: http://documents.worldbank.org/curated/en/867201468049203768
+  notes: 'source_url is the World Bank note about the guide (Cuvillier, Almaroof, Diab), not the guide itself. 2022 workshop
+    page: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099041624095536700. IQ-KR is the
+    ISO 3166-2 region code for the Kurdistan Region.'
+
+- id: it-regional-councils-regole-suggerimenti-redazione-testi-normativi
+  title: Regole e suggerimenti per la redazione dei testi normativi – manuale per le Regioni
+  title_en: Rules and Suggestions for Drafting Normative Texts – Manual for the Regions (OLI interregional drafting manual)
+  jurisdiction: Italian regional councils (interregional)
+  jurisdiction_level: national
+  country_code: IT
+  region: Europe
+  issuing_body: Conferenza dei Presidenti delle Assemblee legislative delle Regioni e delle Province autonome, with the Osservatorio
+    legislativo interregionale (OLI) (published on parlamentiregionali.it)
+  languages: [it]
+  document_type: drafting manual
+  legal_status: Interregional manual; binding in a region once adopted by its regional council/Ufficio di presidenza or Giunta
+    (e.g. Abruzzo 2025, Piemonte 2025, Sardinia 2006)
+  edition: Quarta edizione, marzo 2024 (third edition December 2007)
+  published: "1992"
+  last_updated: "2024-03"
+  currency:
+    status: current
+    note: Fourth edition (March 2024) on parlamentiregionali.it supersedes the third edition (December 2007, the "OLI manual");
+      first edition 1992, second 2004. The 2007 third edition remains online, e.g. on regione.calabria.it.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.parlamentiregionali.it/wp-content/uploads/2024/03/Manuale-di-tecnica-legislativa-per-le-Regioni_11.03.2024.pdf
+  notes: Third edition (2007) copy - https://www.regione.calabria.it/wp-content/uploads/2023/07/manuale-redazione-testi.pdf
+    (verified 200). Applies to the regional councils collectively, so it is recorded at national level under Italy rather
+    than under one region.
+
+- id: it-57-marche-formulario-redazione-testi-normativi
+  title: Formulario per la redazione dei testi normativi
+  title_en: Formulary for Drafting Normative Texts (Marche Regional Council)
+  jurisdiction: Marche
+  jurisdiction_level: subnational
+  country_code: IT
+  subdivision_code: IT-57
+  subdivision_type: region
+  region: Europe
+  issuing_body: Consiglio regionale delle Marche, Area processi normativi – Struttura consulenza per la normazione
+  languages: [it]
+  document_type: style guide
+  legal_status: Guidance (drafting formulary complementing the OLI manual)
+  published: "2006-10"
+  last_updated: "2006-10"
+  currency:
+    status: dated
+    note: 71-page formulary dated October 2006, still offered on the Council publications page.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.consiglio.marche.it/informazione_e_comunicazione/pubblicazioni/altre_pubblicazioni/manuali_e_formulari/pdf/formulario.pdf
+
+- id: it-65-abruzzo-adozione-regole-suggerimenti-quarta-edizione
+  title: Adozione dell’aggiornamento del Manuale contenente "Regole e suggerimenti per la redazione dei testi normativi".
+    Quarta Edizione 2024/2025
+  title_en: Adoption of the updated manual "Rules and Suggestions for Drafting Normative Texts", 4th edition 2024/2025 (Abruzzo
+    Regional Council)
+  jurisdiction: Abruzzo
+  jurisdiction_level: subnational
+  country_code: IT
+  subdivision_code: IT-65
+  subdivision_type: region
+  region: Europe
+  issuing_body: Consiglio regionale dell'Abruzzo (published in BURA)
+  languages: [it]
+  document_type: drafting manual
+  legal_status: Regional Council resolution Verbale n. 31/5 of 25 November 2025 (following Ufficio di Presidenza deliberation
+    n. 129 of 21 October 2025), with the manual annexed; earlier editions adopted 2004
+  published: "2004-06"
+  last_updated: "2025-11"
+  currency:
+    status: in-force
+    note: BURA of 17 December 2025 publishes the resolution with the manual as annex.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://bura.regione.abruzzo.it/sites/bura.regione.abruzzo.it/files/bollettini/2025-12-17/verb-031-05-con-allegato-signed-signed.pdf
+
+- id: it-88-sardegna-manuale-testi-normativi-giunta
+  title: Qualità e semplificazione della normativa regionale – Adozione del manuale per la predisposizione dei testi normativi
+    di iniziativa della Giunta regionale (Deliberazione n. 30/8 del 11.7.2006)
+  title_en: Quality and simplification of regional legislation – adoption of the drafting manual for Regional Executive bills
+    (Sardinia)
+  jurisdiction: Sardinia
+  jurisdiction_level: subnational
+  country_code: IT
+  subdivision_code: IT-88
+  subdivision_type: region
+  region: Europe
+  issuing_body: Giunta regionale, Regione Autonoma della Sardegna
+  languages: [it]
+  document_type: drafting rules
+  legal_status: Giunta resolution n. 30/8 of 11 July 2006 adopting the OLI manual "Regole e suggerimenti per la redazione
+    dei testi normativi" for all Giunta offices
+  published: "2006-07"
+  last_updated: "2006-07"
+  currency:
+    status: dated
+    note: 3-page adoption resolution; the manual itself is the interregional OLI manual (now 4th ed. 2024). No newer Sardinian
+      adoption found.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://dati.regione.sardegna.it/documenti/1_73_20060719192127.pdf
+
+- id: it-tn-direttive-redazione-testi-normativi
+  title: Direttive sulla redazione dei testi normativi
+  title_en: Directives on Drafting Normative Texts (Provincial Council of Trento)
+  jurisdiction: Autonomous Province of Trento
+  jurisdiction_level: subnational
+  country_code: IT
+  subdivision_code: IT-TN
+  subdivision_type: province
+  region: Europe
+  issuing_body: Consiglio della Provincia autonoma di Trento, Servizio legislativo (ufficio documentazione)
+  languages: [it]
+  document_type: drafting manual
+  legal_status: Adopted by deliberation of the Ufficio di presidenza of the Provincial Council n. 66 of 3 November 2009 (based
+    on the OLI 3rd edition), with later notes on legislative technique
+  published: "2009-11"
+  last_updated: "2021-02"
+  currency:
+    status: current
+    note: Compilation edition dated 10 February 2021 (138 pp.).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.consiglio.provincia.tn.it/leggi-e-archivi/codice-provinciale/Documents/regole%20e%20suggerimenti%20per%20la%20redazione%20dei%20testi%20normativi.pdf
+
+- id: jp-47-bunsho-hoki-jimu-no-tebiki
+  title: 文書・法規事務の手引き
+  title_en: Handbook of Document and Legal-Drafting Practice
+  jurisdiction: Okinawa Prefecture
+  jurisdiction_level: subnational
+  country_code: JP
+  subdivision_code: JP-47
+  subdivision_type: province
+  region: Asia
+  issuing_body: 沖縄県総務部総務私学課 (Okinawa Prefectural Government, General Affairs Department); published by Daiichi Hoki
+  languages: [ja]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: 改訂版
+  last_updated: "2007"
+  currency:
+    status: dated
+    note: Print-only (563 pp., 2007 revised ed.) catalogued in CiNii; no online copy. Japanese prefectures generally do not
+      publish their internal 例規/法制執務 manuals online.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: null
+  landing_url: https://ci.nii.ac.jp/ncid/BA89887246
+  notes: 'original_format is nominal: the work is a printed book. Japanese prefectures are ''to/dō/fu/ken''; mapped to subdivision_type
+    province.'
+
+- id: mx-gua-tecnica-legislativa-nociones-generales
+  title: 'Técnica legislativa: nociones generales (Apuntes Legislativos 7)'
+  title_en: 'Legislative Drafting: General Notions (Legislative Notes no. 7)'
+  jurisdiction: Guanajuato
+  jurisdiction_level: subnational
+  country_code: MX
+  subdivision_code: MX-GUA
+  subdivision_type: state
+  region: Americas
+  issuing_body: H. Congreso del Estado de Guanajuato, Instituto de Investigaciones Legislativas
+  languages: [es]
+  document_type: drafting guidelines
+  legal_status: Guidance
+  edition: Primera edición
+  published: "2006-01"
+  last_updated: "2006-01"
+  currency:
+    status: dated
+    note: 2006 first edition (LIX Legislature, 49 pp.); no later edition found.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://congreso-gto.s3.amazonaws.com/uploads/contenido_estudio/archivo/11/7tecnica.pdf
+
+- id: mx-oax-manual-de-tecnica-legislativa
+  title: Manual de Técnica Legislativa
+  title_en: Legislative Drafting Manual
+  jurisdiction: Oaxaca
+  jurisdiction_level: subnational
+  country_code: MX
+  subdivision_code: MX-OAX
+  subdivision_type: state
+  region: Americas
+  issuing_body: H. Congreso del Estado de Oaxaca, Centro de Estudios Jurídicos y de Investigación Parlamentaria (CEJIP)
+  languages: [es]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: LXIV Legislatura
+  currency:
+    status: unverified
+    note: Indexed by search engines as a CEJIP PDF of the LXIV Legislature (2018-2021), but the indexed URL now returns 404;
+      no replacement located on the current site.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: null
+  landing_url: https://www.congresooaxaca.gob.mx/
+  notes: 'Dead indexed URL: https://docs64.congresooaxaca.gob.mx/centros-estudios/CEJIP/estudiosCEJIP/MANUAL+CEJIP.pdf.'
+
+- id: mx-zac-elaboracion-de-leyes
+  title: 'Elaboración de leyes: proyectos e iniciativas legislativas'
+  title_en: 'Law-Making: Legislative Bills and Initiatives'
+  jurisdiction: Zacatecas
+  jurisdiction_level: subnational
+  country_code: MX
+  subdivision_code: MX-ZAC
+  subdivision_type: state
+  region: Americas
+  issuing_body: Poder Legislativo del Estado de Zacatecas (LXI Legislatura)
+  languages: [es]
+  document_type: drafting manual
+  legal_status: Guidance
+  published: "2014"
+  last_updated: "2014"
+  currency:
+    status: dated
+    note: 330-page 2014 publication of the LXI Legislature on drafting bills and initiatives; no newer edition found.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.congresozac.gob.mx/coz/images/uploads/20140530151704.pdf
+
+- id: my-sarawak-legislative-drafting-manual
+  title: Sarawak Legislative Drafting Manual
+  jurisdiction: Sarawak
+  jurisdiction_level: subnational
+  country_code: MY
+  subdivision_code: MY-13
+  subdivision_type: state
+  region: Asia
+  issuing_body: State Attorney-General's Chambers, Sarawak (SAGC)
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  published: "2026-09"
+  last_updated: "2026-09"
+  currency:
+    status: unverified
+    note: Launch reported by the Borneo Post on 19 Sept 2026 (State AG Saferi Ali; guide for ministries, departments and agencies
+      preparing new laws and amendments). No online copy found; SAGC site unreachable from this environment. Language assumed
+      English, not confirmed.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: null
+  notes: 'News source (403 to automated requests): https://www.theborneopost.com/2026/09/19/sarawak-launches-legislative-drafting-manual/
+    . Format not confirmed.'
+
+- id: us-ak-drafting-manual-administrative-regulations
+  title: Drafting Manual for Administrative Regulations
+  jurisdiction: Alaska
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-AK
+  subdivision_type: state
+  region: Americas
+  issuing_body: Alaska Department of Law
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance; prepared under 1 AAC 05.030 / AS 44.62.050
+  edition: 24th edition
+  last_updated: "2025"
+  currency:
+    status: current
+    note: 2025 (24th edition), 171 pp., verified on law.alaska.gov.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.law.alaska.gov/pdf/manuals/DraftingManual-AdminRegs.pdf
+
+- id: us-ak-manual-of-legislative-drafting
+  title: Manual of Legislative Drafting
+  jurisdiction: Alaska
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-AK
+  subdivision_type: state
+  region: Americas
+  issuing_body: Alaska Legislative Affairs Agency (Legal Services / Revisor of Statutes)
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance; adopted under Alaska Legislature Uniform Rule 10
+  edition: "2025"
+  last_updated: "2025-01"
+  currency:
+    status: current
+    note: CALC lists the 2017 edition at w3.legis.state.ak.us (host unreachable). akleg.gov now hosts the 2025 edition (243
+      pp.).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.akleg.gov/basis/get_documents.asp?docid=826
+  credits:
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
+  notes: CALC-listed URL http://w3.legis.state.ak.us/docs/pdf/DraftingManual.pdf no longer resolves.
+
+- id: us-al-drafting-style-manual
+  title: Drafting Style Manual
+  jurisdiction: Alabama
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-AL
+  subdivision_type: state
+  region: Americas
+  issuing_body: Alabama Legislative Services Agency, Legal Division
+  languages: [en]
+  document_type: style guide
+  legal_status: Guidance
+  currency:
+    status: current
+    note: CALC lists the 2017 manual at lsa.alabama.gov (now 404). The manual is now published as a web page on the Legislature's
+      ALISON site (JavaScript-rendered, so no edition date could be read); it is also reproduced in the Alabama Law Institute's
+      'Alabama Legislation' (10th ed.).
+    checked_on: "2026-11-01"
+  original_format: HTML
+  source_url: https://alison.legislature.state.al.us/lsa/legal-division/manual
+  landing_url: https://alison.legislature.state.al.us/legal-division-manual
+  credits:
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
+  notes: CALC-listed URL http://lsa.alabama.gov/lrs/style_manual.aspx is dead (404); replaced with the current ALISON page
+    (HTTP 200). A PDF rendering of the same 12-page manual (file dated 2006) is at https://alison.legislature.state.al.us/files/pdf/eopa/guides/DraftingStyleManual.pdf.
+
+- id: us-ar-legislative-drafting-manual
+  title: Legislative Drafting Manual
+  jurisdiction: Arkansas
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-AR
+  subdivision_type: state
+  region: Americas
+  issuing_body: Arkansas Bureau of Legislative Research, Legal Services Division
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: December 2020 (updated)
+  last_updated: "2020-12"
+  currency:
+    status: current
+    note: CALC lists the November 2010 edition (old URL now redirects to a non-PDF). The BLR Legal Services publications page
+      now hosts the December 2020 updated edition (263 pp.).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://arkleg.state.ar.us/Home/FTPDocument?path=%2FBLR+Publications%2FLegal+Services+Division%2FLEGISLATIVE+DRAFTING+MANUAL--DECEMBER+2020_Updated.pdf
+  landing_url: https://arkleg.state.ar.us/Bureau/Legal/Publications
+  credits:
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
+  notes: CALC-listed URL http://www.arkleg.state.ar.us/bureau/legal/Publications/2010%20Legislative%20Drafting%20Manual.pdf
+    no longer returns the PDF.
+
+- id: us-az-bill-drafting-manual
+  title: The Arizona Legislative Bill Drafting Manual
+  jurisdiction: Arizona
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-AZ
+  subdivision_type: state
+  region: Americas
+  issuing_body: Arizona Legislative Council
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance (Council prepares it under A.R.S. § 41-1304)
+  edition: 2025-2026
+  last_updated: "2026-01"
+  currency:
+    status: current
+    note: CALC lists the 2017-2018 edition (still online). Legislative Council now hosts the 2025-2026 edition (193 pp.),
+      which adds a chapter on in-context amendments.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://azleg.gov/alisPDFs/council/2025-2026_bill_drafting_manual.pdf
+  landing_url: https://www.azleg.gov/legislative-council/
+  credits:
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
+  notes: CALC-listed URL http://www.azleg.gov/alisPDFs/council/2017-2018_bill_drafting_manual.pdf still resolves but is superseded.
+
+- id: us-co-legislative-drafting-manual
+  title: Colorado Legislative Drafting Manual
+  jurisdiction: Colorado
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-CO
+  subdivision_type: state
+  region: Americas
+  issuing_body: Colorado Office of Legislative Legal Services
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  published: "1977"
+  last_updated: "2024-11-04"
+  currency:
+    status: current
+    note: CALC lists the December 2017 version at leg.colorado.gov/publications/legislative-drafting-manual (now 404). The
+      Legislature's publications page now hosts the version dated November 4, 2024 (714 pp., accessible PDF); updated electronically
+      since 2009.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://content.leg.colorado.gov/sites/default/files/colorado-legislative-drafting-manual-accessible.pdf
+  landing_url: https://leg.colorado.gov/publications/colorado-legislative-drafting-manual
+  credits:
+  - &id001 {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
+  notes: CALC-listed URL https://leg.colorado.gov/publications/legislative-drafting-manual returns 404.
+
+- id: us-ct-basic-considerations-drafting-legislation
+  title: Basic Considerations in Drafting Legislation
+  jurisdiction: Connecticut
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-CT
+  subdivision_type: state
+  region: Americas
+  issuing_body: Connecticut General Assembly, Legislative Commissioners' Office
+  languages: [en]
+  document_type: drafting guidelines
+  legal_status: Guidance
+  edition: Revised October 2015
+  last_updated: "2015-10"
+  currency:
+    status: current
+    note: Same October 2015 revision as listed by CALC; still linked from the LCO resources page. No newer edition found.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://prdext3.cga.ct.gov/lco/pdfs/Basic%20Considerations%20in%20Drafting%20Legislation.pdf
+  landing_url: https://prdext3.cga.ct.gov/LCO/resources.asp
+  credits:
+  - *id001
+  notes: CALC lists the same path on www.cga.ct.gov, which could not be reached from the checking environment; the identical
+    file resolves on the CGA's prdext3.cga.ct.gov host. Short guide (14 pp.) for occasional drafters.
+
+- id: us-ct-manual-for-drafting-regulations
+  title: Manual for Drafting Regulations
+  jurisdiction: Connecticut
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-CT
+  subdivision_type: state
+  region: Americas
+  issuing_body: Connecticut General Assembly, Legislative Commissioners' Office
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance
+  edition: Revised January 2024
+  last_updated: "2024-01"
+  currency:
+    status: current
+    note: CALC lists the January 2015 version; the same URL now serves the revision of January 2024 (57 pp.).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://prdext3.cga.ct.gov/lco/pdfs/Regulations_Drafting_Manual.pdf
+  landing_url: https://prdext3.cga.ct.gov/LCO/resources.asp
+  credits:
+  - *id001
+  notes: CALC lists http://www.cga.ct.gov/lco/pdfs/Regulations_Drafting_Manual.pdf (www host unreachable from checking environment);
+    verified on prdext3.cga.ct.gov.
+
+- id: us-dc-legislative-drafting-manual
+  title: Legislative Drafting Manual
+  jurisdiction: District of Columbia
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-DC
+  subdivision_type: federal district
+  region: Americas
+  issuing_body: Council of the District of Columbia, Office of the General Counsel
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: 2019 Edition
+  last_updated: "2019-02"
+  currency:
+    status: current
+    note: 2019 edition (118 pp.) is the newest found on dccouncil.gov (2015 edition also still hosted).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://dccouncil.gov/wp-content/uploads/2019/02/Legislative-Drafting-Manual-2019-Edition-FINAL.pdf
+
+- id: us-de-administrative-code-drafting-style-manual
+  title: Delaware Administrative Code Drafting and Style Manual
+  jurisdiction: Delaware
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-DE
+  subdivision_type: state
+  region: Americas
+  issuing_body: Delaware Division of Research / Registrar of Regulations
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance
+  edition: May 2025 Edition
+  last_updated: "2025-05"
+  currency:
+    status: current
+    note: May 2025 edition (29 pp.) verified on the Registrar of Regulations archive host.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://archive.regulations.delaware.gov/agency/docs/Delaware%20Administrative%20Code%20Drafting%20and%20Styling%20Manual%20May%202025.pdf
+
+- id: us-de-legislative-drafting-manual
+  title: Delaware Legislative Drafting Manual
+  jurisdiction: Delaware
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-DE
+  subdivision_type: state
+  region: Americas
+  issuing_body: Delaware General Assembly, Division of Legislative Services
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: 2024 Edition
+  last_updated: "2024-11"
+  currency:
+    status: current
+    note: CALC lists the January 2017 edition at legis.delaware.gov/LawsOfDE/BillDraftingManual. The Division now publishes
+      the 2024 edition (282 pp., PDF and Word) plus a 2024 Legislative Drafting Quick Guide.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://legis.delaware.gov/docs/default-source/publications/legislative-drafting-manual.pdf?sfvrsn=74bcb138_7
+  landing_url: https://legis.delaware.gov/draftingmanual
+  credits:
+  - *id001
+  notes: 'Word version: https://legis.delaware.gov/docs/default-source/publications/2024draftingmanual.docx?sfvrsn=ae8c8838_1'
+
+- id: us-fl-guidelines-for-drafting-legislation
+  title: Guidelines for Drafting Legislation
+  jurisdiction: Florida
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-FL
+  subdivision_type: state
+  region: Americas
+  issuing_body: Florida House of Representatives, House Bill Drafting Service
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: "2014"
+  last_updated: "2014-11"
+  currency:
+    status: dated
+    note: Same 2014 edition as listed by CALC; still the version the House serves (166 pp.). No newer public edition found.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.flhouse.gov/api/document/house?listName=FP_Reference%20Materials&itemId=9&section=
+  credits:
+  - *id001
+  notes: CALC-listed URL on myfloridahouse.gov (LeagisDocumentRetriever.ashx) now redirects to the House home page; replaced
+    with the House document API URL (HTTP 200, PDF).
+
+- id: us-hi-administrative-rules-drafting-manual
+  title: Hawaii Administrative Rules Drafting Manual
+  jurisdiction: Hawaii
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-HI
+  subdivision_type: state
+  region: Americas
+  issuing_body: Hawaii Legislative Reference Bureau
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance
+  edition: Third edition
+  last_updated: "2016-06"
+  currency:
+    status: current
+    note: Third edition, June 2016 (352 pp.), still listed on LRB's drafting manuals page.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://lrb.hawaii.gov/wp-content/uploads/2016_HawaiiAdministrativeRulesDraftingManual.pdf
+  landing_url: https://lrb.hawaii.gov/drafting-manuals-guides/
+
+- id: us-hi-legislative-drafting-manual
+  title: Hawaii Legislative Drafting Manual
+  jurisdiction: Hawaii
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-HI
+  subdivision_type: state
+  region: Americas
+  issuing_body: Hawaii Legislative Reference Bureau
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: Eleventh edition
+  last_updated: "2022-12"
+  currency:
+    status: current
+    note: CALC lists the 10th edition (2012) at lrbhawaii.info (now 404). LRB now hosts the 11th edition, December 2022 (432
+      pp.).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://lrb.hawaii.gov/wp-content/uploads/2022_HawaiiLegislativeDraftingManual.pdf
+  landing_url: https://lrb.hawaii.gov/drafting-manuals-guides/
+  credits:
+  - *id001
+  notes: CALC-listed URL http://lrbhawaii.info/reports/legrpts/lrb/2012/legdftman12.pdf is dead; the 2012 edition remains
+    at https://lrb.hawaii.gov/wp-content/uploads/2012_HawaiiLegislativeDraftingManual.pdf.
+
+- id: us-ia-bill-drafting-guide-style-manual
+  title: Iowa Bill Drafting Guide and Style Manual
+  jurisdiction: Iowa
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-IA
+  subdivision_type: state
+  region: Americas
+  issuing_body: Iowa Legislative Services Agency (Legal Services Division), in consultation with the Code Editor
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Rules and instructions adopted by the Legislative Council under Iowa Code §§ 2.42(10) and 3.2
+  edition: 2018 (partially updated March 2017)
+  last_updated: "2017-03"
+  currency:
+    status: dated
+    note: Latest edition found is the 2018 posting (text partially updated March 2017) in the State Library's Iowa Publications
+      Online archive; editions back to 1973 are archived there. No copy found on legis.iowa.gov.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://publications.iowa.gov/28290/1/2018%20Iowa%20Bill%20Drafting%20Guide.pdf
+  landing_url: https://publications.iowa.gov/28290/
+
+- id: us-id-legislation-drafting-manual
+  title: Legislation Drafting Manual (Concise Version)
+  jurisdiction: Idaho
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-ID
+  subdivision_type: state
+  region: Americas
+  issuing_body: Idaho Legislative Services Office, Research & Legislation
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  last_updated: "2017-05"
+  currency:
+    status: dated
+    note: Same URL as CALC lists; the PDF is dated May 2017 (60 pp., 'Concise Version'). No newer edition found on the LSO
+      site.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://legislature.idaho.gov/wp-content/uploads/research/draftingmanual.pdf
+  credits:
+  - *id001
+
+- id: us-id-rule-writers-manual
+  title: 'The Idaho Rule Writer''s Manual: A Guide for Drafting and Promulgating Administrative Rules in the State of Idaho'
+  jurisdiction: Idaho
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-ID
+  subdivision_type: state
+  region: Americas
+  issuing_body: Idaho Office of the Administrative Rules Coordinator (Division of Financial Management)
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance
+  last_updated: "2020"
+  currency:
+    status: unverified
+    note: Copy found (2020, 58 pp.) is hosted by the Idaho Industrial Commission; could not locate the manual's link on adminrules.idaho.gov,
+      so it may have been revised. Minimum style rules are in IDAPA 44.01.01.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://iic.idaho.gov/wp-content/uploads/2022/July/RuleWriterManual.pdf
+  landing_url: https://adminrules.idaho.gov/
+
+- id: us-il-bill-drafting-manual
+  title: Illinois Bill Drafting Manual
+  jurisdiction: Illinois
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-IL
+  subdivision_type: state
+  region: Americas
+  issuing_body: Illinois Legislative Reference Bureau
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: December 2012 Edition
+  last_updated: "2012-12"
+  currency:
+    status: unverified
+    note: CALC lists the December 2012 edition at www.ilga.gov/commission/lrb/manual.pdf. Search indexes show the same edition
+      now at lrb.ilga.gov; neither ilga.gov host could be reached from the checking environment (connection reset), so the
+      URL and edition were not confirmed.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: null
+  landing_url: https://lrb.ilga.gov/
+  credits:
+  - *id001
+  notes: 'Indexed (unverified) file: https://lrb.ilga.gov/commission/lrb/Manual.pdf. CALC-listed URL: http://www.ilga.gov/commission/lrb/manual.pdf.'
+
+- id: us-in-administrative-rules-drafting-manual
+  title: Administrative Rules Drafting Manual
+  jurisdiction: Indiana
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-IN
+  subdivision_type: state
+  region: Americas
+  issuing_body: Indiana Legislative Services Agency (for the Legislative Council)
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Approved by the Indiana Legislative Council
+  last_updated: "2024-05"
+  currency:
+    status: unverified
+    note: CALC lists the May 2008 edition. Search results show a revision approved by the Legislative Council on 14 May 2024
+      at iar.iga.in.gov/IACDrftMan.pdf, but that host returns an app shell instead of the PDF to automated requests.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: null
+  landing_url: https://iar.iga.in.gov/
+  credits:
+  - *id001
+  notes: 'CALC-listed URL http://iga.in.gov/legislative/2018/publications/rules/drafting_manual/ returns only the app shell.
+    Indexed (unverified) file: https://iar.iga.in.gov/IACDrftMan.pdf'
+
+- id: us-in-drafting-manual-general-assembly
+  title: Drafting Manual for the Indiana General Assembly
+  jurisdiction: Indiana
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-IN
+  subdivision_type: state
+  region: Americas
+  issuing_body: Indiana Legislative Services Agency (for the Legislative Council)
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Approved by the Indiana Legislative Council
+  last_updated: "2024-05"
+  currency:
+    status: unverified
+    note: CALC lists the December 2012 edition. Search results show a '2024 Complete Drafting Manual' (approved by the Legislative
+      Council 14 May 2024) under iga.in.gov/publications/bill_drafting_manual/, but iga.in.gov now serves a JavaScript app
+      shell for every path, so the PDF could not be retrieved or confirmed.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: null
+  landing_url: https://iga.in.gov/publications/bill_drafting_manual
+  credits:
+  - *id001
+  notes: 'CALC-listed URL http://iga.in.gov/legislative/2014/publications/bill_drafting_manual/ returns only the site''s app
+    shell. Indexed (unverified) file: https://iga.in.gov/publications/bill_drafting_manual/2024%20Complete%20Drafting%20Manual.pdf'
+
+- id: us-ks-policy-procedure-manual-filing-regulations
+  title: Policy and Procedure Manual for the Filing of Kansas Administrative Regulations
+  jurisdiction: Kansas
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-KS
+  subdivision_type: state
+  region: Americas
+  issuing_body: Kansas Department of Administration
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance under the Rules and Regulations Filing Act (K.S.A. 77-415 et seq.)
+  edition: Revised May 2023
+  last_updated: "2023-05"
+  currency:
+    status: current
+    note: Revised May 2023 (101 pp.); covers format, style and filing of Kansas Administrative Regulations. No public bill
+      drafting manual found for the Kansas Office of Revisor of Statutes.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://admin.ks.gov/media/cms/Policy_and_Procedure_Manual_e7a759b160238.pdf
+
+- id: us-ky-bill-drafting-manual
+  title: Bill Drafting Manual (Informational Bulletin No. 117)
+  jurisdiction: Kentucky
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-KY
+  subdivision_type: state
+  region: Americas
+  issuing_body: Kentucky Legislative Research Commission
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: Revised November 2023
+  last_updated: "2023-11"
+  currency:
+    status: current
+    note: CALC lists the December 2011 edition at www.lrc.ky.gov (host unreachable). LRC now hosts the November 2023 revision
+      (186 pp.).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://legislature.ky.gov/LRC/Publications/Informational%20Bulletins/IB117.pdf
+  credits:
+  - *id001
+  notes: CALC-listed URL http://www.lrc.ky.gov/lrcpubs/ib117.pdf could not be reached; replaced with the current legislature.ky.gov
+    URL.
+
+- id: us-la-administrative-code-style-manual
+  title: Louisiana Administrative Code Style Manual
+  jurisdiction: Louisiana
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-LA
+  subdivision_type: state
+  region: Americas
+  issuing_body: Louisiana Division of Administration, Office of the State Register
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance
+  last_updated: "2026-03"
+  currency:
+    status: current
+    note: Word file last modified March 2026; the PDF copy formerly linked from the OSR site now returns 404.
+    checked_on: "2026-11-01"
+  original_format: DOCX
+  source_url: https://www.doa.la.gov/media/j02f0mu2/lac-style-manual.docx
+  landing_url: https://doa.la.gov/doa/osr/training/document-preparation/
+  notes: Stylebook for agency rule writers; published under R.S. 43:31.
+
+- id: us-la-house-drafting-style-usage-manual
+  title: Drafting Style and Usage Manual
+  jurisdiction: Louisiana
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-LA
+  subdivision_type: state
+  region: Americas
+  issuing_body: Louisiana House of Representatives, House Legislative Services
+  languages: [en]
+  document_type: style guide
+  legal_status: Guidance
+  edition: November 2015
+  last_updated: "2015-11"
+  currency:
+    status: unverified
+    note: CALC lists the November 2015 manual via an NCSL-hosted copy that now returns HTTP 410 Gone. No current copy found
+      on the Louisiana Legislature's sites.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: null
+  credits:
+  - *id001
+  notes: CALC-listed URL http://www.ncsl.org/Portals/1/Documents/relacs/manuals/2016LAHouseDraftingManual.pdf is gone (410).
+
+- id: us-ma-legislative-research-drafting-manual
+  title: Legislative Research and Drafting Manual
+  jurisdiction: Massachusetts
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-MA
+  subdivision_type: state
+  region: Americas
+  issuing_body: Massachusetts General Court, Offices of the House and Senate Counsel
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: Fifth edition
+  last_updated: "2010"
+  currency:
+    status: dated
+    note: CALC lists the 5th edition (2010) at malegislature.gov (now 404). No newer edition found; the 2010 edition is preserved
+      by the Massachusetts State Library's digital archive.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://archives.lib.state.ma.us/server/api/core/bitstreams/d45fae23-fdf5-4c21-ab1f-8079943133d3/content
+  landing_url: https://archives.lib.state.ma.us/entities/publication/d633f8be-d51d-49c0-ab71-d356671ee8d7
+  credits:
+  - *id001
+  notes: CALC-listed URL https://malegislature.gov/Content/Documents/General/LegislativeDraftingManual.pdf returns 404; replaced
+    with the State Library archival copy.
+
+- id: us-md-legislative-drafting-manual
+  title: Legislative Drafting Manual
+  jurisdiction: Maryland
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-MD
+  subdivision_type: state
+  region: Americas
+  issuing_body: Maryland Department of Legislative Services
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: "2027"
+  last_updated: "2026-10"
+  currency:
+    status: current
+    note: CALC lists the 2017 edition at .../Drafting-Manual.pdf (now 404). DLS publishes the manual annually; the current
+      file is the 2027 edition (390 pp., issued October 2026).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://dls.maryland.gov/pubs/prod/LegisBillDrafting/Legislative_Drafting_Manual.pdf
+  credits:
+  - *id001
+  notes: CALC-listed URL http://dls.maryland.gov/pubs/prod/LegisBillDrafting/Drafting-Manual.pdf returns 404. DLS recommends
+    using it with the Maryland Style Manual for Statutory Law (no public copy found).
+
+- id: us-md-style-manual-maryland-regulations
+  title: Style Manual for Maryland Regulations
+  jurisdiction: Maryland
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-MD
+  subdivision_type: state
+  region: Americas
+  issuing_body: Maryland Division of State Documents, Office of the Secretary of State
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance
+  edition: "2009"
+  last_updated: "2009"
+  currency:
+    status: unverified
+    note: Only copy found (2009, 54 pp.) is hosted by the Baltimore City Department of Legislative Reference, not by the Division
+      of State Documents; currency not confirmed.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://s3.amazonaws.com/baltimorecity.gov.if-us-east-1/s3fs-public/2024-03/dsd_comar_style_manual.pdf
+  notes: Third-party (municipal) host. Linked from https://legislativereference.baltimorecity.gov/sites/default/files/DSD%20COMAR%20Style%20Manual.pdf,
+    which redirects to the S3 file.
+
+- id: us-me-legislative-drafting-manual
+  title: Maine Legislative Drafting Manual
+  jurisdiction: Maine
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-ME
+  subdivision_type: state
+  region: Americas
+  issuing_body: Maine Office of the Revisor of Statutes (for the Legislative Council)
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: 1st ed. 1990, revised through November 2022
+  published: "1990-10"
+  last_updated: "2022-11"
+  currency:
+    status: current
+    note: CALC lists the October 2016 revision (publications page 9173). The Legislature now hosts the revision through November
+      2022 (228 pp.).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://legislature.maine.gov/doc/9564
+  landing_url: https://legislature.maine.gov/ros/publications/9173
+  credits:
+  - *id001
+
+- id: us-mn-revisors-manual
+  title: Minnesota Revisor's Manual with Styles and Forms
+  jurisdiction: Minnesota
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-MN
+  subdivision_type: state
+  region: Americas
+  issuing_body: Minnesota Office of the Revisor of Statutes
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance; required by Minn. Stat. § 3C.03, subd. 4
+  edition: 2013 Edition
+  last_updated: "2013"
+  currency:
+    status: current
+    note: Same 2013 edition as listed by CALC; still the edition linked from the Revisor's publications page.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.revisor.mn.gov/static/office/2013-Revisor-Manual.pdf
+  landing_url: https://www.revisor.mn.gov/office/publications
+  credits:
+  - *id001
+
+- id: us-mn-rules-drafting-manual
+  title: Minnesota Rules Drafting Manual with Styles and Forms
+  jurisdiction: Minnesota
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-MN
+  subdivision_type: state
+  region: Americas
+  issuing_body: Minnesota Office of the Revisor of Statutes
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance; required by Minn. Stat. § 14.07, subd. 1
+  edition: "1997"
+  last_updated: "1997"
+  currency:
+    status: current
+    note: Same 1997 edition as listed by CALC; still the edition linked from the Revisor's publications page.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.revisor.mn.gov/static/office/1997_RuleDraftManual.pdf
+  landing_url: https://www.revisor.mn.gov/office/publications
+  credits:
+  - *id001
+
+- id: us-mo-essentials-of-bill-drafting
+  title: The Essentials of Bill Drafting in the Missouri General Assembly
+  jurisdiction: Missouri
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-MO
+  subdivision_type: state
+  region: Americas
+  issuing_body: Missouri Joint Committee on Legislative Research
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: October 2011
+  last_updated: "2011-10"
+  currency:
+    status: unverified
+    note: CALC lists the October 2011 edition at moga.mo.gov, which could not be reached from the checking environment. No
+      copy or newer edition found on lr.mo.gov or revisor.mo.gov.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: null
+  landing_url: https://lr.mo.gov/
+  credits:
+  - *id001
+  notes: 'CALC-listed URL: http://www.moga.mo.gov/rsmopdfs/BillDraftManual2011.pdf (unreachable).'
+
+- id: us-mt-bill-drafting-manual
+  title: Bill Drafting Manual
+  jurisdiction: Montana
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-MT
+  subdivision_type: state
+  region: Americas
+  issuing_body: Montana Legislative Services Division
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: "2026"
+  last_updated: "2026-09"
+  currency:
+    status: current
+    note: CALC lists the 2016 manual (under the heading 'New Mexico'). The manual is revised each interim; the current edition
+      is 2026 (275 pp.), linked from the Legislature's drafting education page.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://static.legmt.gov/Sessions/70th/2026-Bill-Drafting-Manual-WEB.pdf
+  landing_url: https://www.legmt.gov/education/drafting/
+  credits:
+  - *id001
+  notes: CALC's 'New Mexico / Legislative Council Service' row actually links Montana's 2016 manual (http://leg.mt.gov/content/Publications/2016_Bill_Drafting_Manual.pdf,
+    now redirecting to archive.legmt.gov); recorded here under Montana.
+
+- id: us-nc-legislative-drafting-process
+  title: The Bill Drafting Process (Legislative Drafting Division)
+  jurisdiction: North Carolina
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-NC
+  subdivision_type: state
+  region: Americas
+  issuing_body: North Carolina General Assembly, Legislative Drafting Division
+  languages: [en]
+  document_type: process guide
+  legal_status: Guidance
+  currency:
+    status: current
+    note: Web pages describing how bills, amendments and conference reports are drafted and introduced. No public bill drafting
+      manual found.
+    checked_on: "2026-11-01"
+  original_format: HTML
+  source_url: https://sites.ncleg.gov/legislativedrafting/the-drafting-process/
+  landing_url: https://sites.ncleg.gov/legislativedrafting/
+  notes: Included because no published drafting manual could be found for North Carolina.
+
+- id: us-nd-administrative-rules-drafting-manual
+  title: Administrative Rules Drafting Manual
+  jurisdiction: North Dakota
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-ND
+  subdivision_type: state
+  region: Americas
+  issuing_body: North Dakota Legislative Council
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance
+  edition: "2008"
+  last_updated: "2008"
+  currency:
+    status: current
+    note: 2008 edition (18 pp.), still linked from the Legislative Council site.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://ndlegis.gov/files/resource/miscellaneous/adminrulesdraftingmanual.pdf
+
+- id: us-nd-legislative-drafting-manual
+  title: North Dakota Legislative Drafting Manual
+  jurisdiction: North Dakota
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-ND
+  subdivision_type: state
+  region: Americas
+  issuing_body: North Dakota Legislative Council
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: "2027"
+  last_updated: "2026-10"
+  currency:
+    status: current
+    note: CALC lists the 2017 manual (landing page). The Legislative Council now hosts the 2027 edition (114 pp.), with companion
+      materials (amendment drafting techniques, checklist, constitutional considerations).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://ndlegis.gov/sites/default/files/pdf/legislative-bill-drafting-manual/legislativedraftingmanual.pdf
+  landing_url: https://ndlegis.gov/legislative-drafting-manual
+  credits:
+  - *id001
+  notes: CALC-listed URL http://www.legis.nd.gov/legislative-drafting-manual redirects to the current ndlegis.gov page.
+
+- id: us-ne-working-with-bill-drafting-office
+  title: Working with the Bill Drafting/Revisor of Statutes Office
+  jurisdiction: Nebraska
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-NE
+  subdivision_type: state
+  region: Americas
+  issuing_body: Nebraska Legislature, Office of Revisor of Statutes
+  languages: [en]
+  document_type: drafting guidelines
+  legal_status: Guidance
+  last_updated: "2025-12"
+  currency:
+    status: current
+    note: December 2025 edition (29 pp.).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://nebraskalegislature.gov/pdf/revisor/draftingmanual.pdf
+
+- id: us-nh-drafting-procedure-manual-administrative-rules
+  title: Drafting and Procedure Manual for Administrative Rules
+  jurisdiction: New Hampshire
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-NH
+  subdivision_type: state
+  region: Americas
+  issuing_body: New Hampshire Office of Legislative Services, Administrative Rules (approved by JLCAR)
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Agencies must conform to it under RSA 541-A:8
+  edition: Effective 5/1/16, as amended effective 8/1/19
+  last_updated: "2019-08"
+  currency:
+    status: unverified
+    note: Edition details from search snippets of the OLS Administrative Rules page; gc.nh.gov could not be reached from the
+      checking environment, so neither the page nor the PDF was opened.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: null
+  landing_url: https://www.gc.nh.gov/rules
+  notes: No public bill drafting manual found for the NH Office of Legislative Services.
+
+- id: us-nj-bill-drafting-manual
+  title: Bill Drafting Manual
+  jurisdiction: New Jersey
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-NJ
+  subdivision_type: state
+  region: Americas
+  issuing_body: New Jersey Legislature, Office of Legislative Services
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance prepared under N.J.S.A. 52:11-61
+  edition: "2013"
+  last_updated: "2013"
+  currency:
+    status: dated
+    note: Latest edition found is the 2013 manual (651 pp.), preserved in the New Jersey State Library's digital repository
+      (earlier editions 1973-1994 also archived). Not posted on njleg.gov.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://dspace.njstatelib.org/server/api/core/bitstreams/699712ac-fd1e-4b57-9b36-e8665eeab66b/content
+  landing_url: https://dspace.njstatelib.org/items/d55f45c9-b1f6-48b6-94ee-20f13f8a69e7
+
+- id: us-nm-legislative-drafting-manual
+  title: Legislative Drafting Manual
+  jurisdiction: New Mexico
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-NM
+  subdivision_type: state
+  region: Americas
+  issuing_body: New Mexico Legislative Council Service
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  last_updated: "2015-09-22"
+  currency:
+    status: dated
+    note: CALC's 'New Mexico' row (dated September 2015) links Montana's 2016 manual by mistake. The actual New Mexico manual,
+      dated 22 September 2015 (261 pp.), is on nmlegis.gov.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.nmlegis.gov/Publications/RFP/LCS%20Drafting%20Manual.pdf
+  credits:
+  - *id001
+  notes: CALC lists this item (title, publisher and date match) but links the wrong state's document; credit kept for the
+    listing.
+
+- id: us-nv-administrative-rulemaking-procedural-guide
+  title: 'Administrative Rulemaking: A Procedural Guide'
+  jurisdiction: Nevada
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-NV
+  subdivision_type: state
+  region: Americas
+  issuing_body: Office of the Nevada Attorney General
+  languages: [en]
+  document_type: process guide
+  legal_status: Guidance
+  edition: Tenth Edition
+  last_updated: "2023"
+  currency:
+    status: current
+    note: 10th edition (2023, 28 pp.). Mainly procedural; covers agency drafting of regulations, which the Legislative Counsel
+      Bureau then revises to Nevada drafting form. No public bill drafting manual found for the LCB Legal Division.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://ag.nv.gov/uploadedFiles/agnvgov/Content/Publications/Administrative%20Rulemaking%20Manual%202023.pdf
+  notes: Included because no published LCB drafting manual could be found for Nevada.
+
+- id: us-oh-rule-drafting-manual
+  title: Rule Drafting Manual
+  jurisdiction: Ohio
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-OH
+  subdivision_type: state
+  region: Americas
+  issuing_body: Ohio Legislative Service Commission, Register of Ohio and Administrative Rules Unit
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance
+  last_updated: "2025-08"
+  currency:
+    status: current
+    note: CALC lists the 4th edition (May 2006) via an old LSC reference page (now redirects to the publications index). LSC
+      now hosts the August 2025 version (66 pp.), linked from JCARR's quick links.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.lsc.ohio.gov/assets/organizations/legislative-service-commission/files/subject-legislative-information-administrative-rule-drafting-manual.pdf
+  credits:
+  - *id001
+  notes: CALC-listed URL https://www.lsc.ohio.gov/pages/reference/current/generalreference.aspx?active=idLegInform now redirects
+    to https://www.lsc.ohio.gov/publications. No public bill drafting manual found for Ohio.
+
+- id: us-or-bill-drafting-manual
+  title: Bill Drafting Manual
+  jurisdiction: Oregon
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-OR
+  subdivision_type: state
+  region: Americas
+  issuing_body: Oregon Legislative Counsel Committee / Office of Legislative Counsel
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: Nineteenth Edition (2024)
+  published: "1958"
+  last_updated: "2024"
+  currency:
+    status: current
+    note: CALC lists the 17th edition (2014); the same URL now serves the 19th edition (2024, 317 pp.).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.oregonlegislature.gov/lc/PDFs/draftingmanual.pdf
+  credits:
+  - *id001
+
+- id: us-or-form-style-manual-legislative-measures
+  title: Form and Style Manual for Legislative Measures
+  jurisdiction: Oregon
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-OR
+  subdivision_type: state
+  region: Americas
+  issuing_body: Oregon Legislative Counsel Committee / Office of Legislative Counsel
+  languages: [en]
+  document_type: style guide
+  legal_status: Guidance
+  edition: 2025-2026 Edition
+  last_updated: "2025-01"
+  currency:
+    status: current
+    note: CALC lists the 2017-2018 edition; the same URL now serves the 2025-2026 edition (174 pp.).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.oregonlegislature.gov/lc/PDFs/form-stylemanual.pdf
+  credits:
+  - *id001
+
+- id: us-pa-code-bulletin-style-manual
+  title: Pennsylvania Code & Bulletin Style Manual
+  jurisdiction: Pennsylvania
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-PA
+  subdivision_type: state
+  region: Americas
+  issuing_body: Pennsylvania Legislative Reference Bureau
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance
+  edition: Sixth Edition (edited 3/3/25)
+  last_updated: "2025-03"
+  currency:
+    status: current
+    note: CALC lists the 5th edition (2014); the Code & Bulletin site now hosts the 6th edition (74 pp.).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.pacodeandbulletin.gov/downloads/StyleManual_6thEdition.pdf
+  landing_url: https://www.pacodeandbulletin.gov/
+  credits:
+  - *id001
+  notes: Governs documents (agency regulations, notices) published in the Pennsylvania Code and Pennsylvania Bulletin. CALC-listed
+    URL https://www.pacode.com/secure/StyleManual_5thEdition.pdf redirects to the site home page.
+
+- id: us-pa-legislative-drafting-manual
+  title: Legislative Drafting Manual (101 Pa. Code, Part I, Subpart C)
+  jurisdiction: Pennsylvania
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-PA
+  subdivision_type: state
+  region: Americas
+  issuing_body: Pennsylvania Legislative Reference Bureau
+  languages: [en]
+  document_type: drafting rules
+  legal_status: Formerly codified at 101 Pa. Code Subpart C
+  currency:
+    status: superseded
+    note: CALC links the manual as codified in 101 Pa. Code Subpart C. That subpart is now marked {Reserved}; Chapter 13 notes
+      its provisions were deleted 1 May 2026. The LRB 'About' page still links to the reserved chapter. No replacement publication
+      found.
+    checked_on: "2026-11-01"
+  original_format: HTML
+  source_url: null
+  landing_url: https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/101/subpartICtoc.html
+  credits:
+  - *id001
+  notes: CALC-listed URL https://www.pacode.com/secure/data/101/subpartICtoc.html now redirects to the Pennsylvania Code &
+    Bulletin home page.
+
+- id: us-sd-guide-to-legislative-drafting
+  title: Guide to Legislative Drafting
+  jurisdiction: South Dakota
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-SD
+  subdivision_type: state
+  region: Americas
+  issuing_body: South Dakota Legislative Research Council
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: Revised December 2025
+  last_updated: "2025-12"
+  currency:
+    status: current
+    note: CALC lists the 2016 guide; the CALC URL now redirects to the December 2025 revision (132 pp.).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://mylrc.sdlegislature.gov/api/Documents/289757.pdf
+  credits:
+  - *id001
+  notes: CALC-listed URL http://sdlegislature.gov/docs/referencematerials/draftingmanual.pdf redirects to the current document.
+
+- id: us-tn-legislative-drafting-guide
+  title: Legislative Drafting Guide
+  jurisdiction: Tennessee
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-TN
+  subdivision_type: state
+  region: Americas
+  issuing_body: Tennessee General Assembly, Office of Legal Services
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: 114th General Assembly (2025)
+  last_updated: "2026-03"
+  currency:
+    status: current
+    note: CALC lists the 2018 guide (URL now returns an HTML page). The Office of Legal Services now links the 2025 guide
+      for the 114th General Assembly (79 pp., file updated March 2026).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://capitol.tn.gov/Archives/Joint/staff/legal/Drafting%20Guide%202025.pdf
+  landing_url: https://wapp.capitol.tn.gov/apps/Directories/JointStaff#ols
+  credits:
+  - *id001
+  notes: CALC-listed URL http://www.capitol.tn.gov/joint/staff/legal/2018%20Drafting%20Guide.pdf no longer returns the PDF.
+
+- id: us-tx-drafting-manual
+  title: Texas Legislative Council Drafting Manual
+  jurisdiction: Texas
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-TX
+  subdivision_type: state
+  region: Americas
+  issuing_body: Texas Legislative Council
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: September 2026
+  last_updated: "2026-09"
+  currency:
+    status: current
+    note: CALC lists the 86th Legislature edition (September 2018), now 404. TLC's current manual is dated September 2026
+      (316 pp.).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://tlc.texas.gov/docs/legref/draftingmanual.pdf
+  credits:
+  - *id001
+  notes: CALC-listed URL https://tlc.texas.gov/docs/legref/draftingmanual-86.pdf returns 404.
+
+- id: us-ut-legislative-drafting-manual-style-guide
+  title: Utah Legislative Drafting Manual and Style Guide
+  jurisdiction: Utah
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-UT
+  subdivision_type: state
+  region: Americas
+  issuing_body: Utah Office of Legislative Research and General Counsel
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: "2025"
+  last_updated: "2025-08"
+  currency:
+    status: current
+    note: CALC lists the December 2014 HTML manual (still online as 'Legislative Drafting Style Manual'). OLRGC now publishes
+      the 2025 Drafting Manual and Style Guide (169 pp.).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://le.utah.gov/lrgc/2025_DRAFTING_MANUAL.pdf
+  credits:
+  - *id001
+  notes: CALC-listed URL https://le.utah.gov/documents/LDM/draftingManual.html still resolves but appears to be the older
+    edition.
+
+- id: us-va-form-style-requirements-register-regulations
+  title: Form and Style Requirements for the Virginia Register of Regulations and Virginia Administrative Code
+  jurisdiction: Virginia
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-VA
+  subdivision_type: state
+  region: Americas
+  issuing_body: Virginia Division of Legislative Services, Registrar of Regulations
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance
+  last_updated: "2026-10"
+  currency:
+    status: current
+    note: Part I of the Registrar's Form, Style and Procedure Manual; file dated October 2026 (43 pp.). No public bill drafting
+      manual found for Virginia DLS (only short bill-request guides).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://register.dls.virginia.gov/documents/agency_resources/part-i-form-and-style-manual.pdf
+  landing_url: https://register.dls.virginia.gov/
+
+- id: us-wa-bill-drafting-guide
+  title: Bill Drafting Guide
+  jurisdiction: Washington
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-WA
+  subdivision_type: state
+  region: Americas
+  issuing_body: Washington Statute Law Committee, Office of the Code Reviser
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  edition: "2025"
+  last_updated: "2024-12"
+  currency:
+    status: current
+    note: CALC lists the 2017 guide; the Code Reviser now publishes the 2025 guide (87 pp.) as PDF and HTML.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://leg.wa.gov/media/b2gdjkne/2025-bill-drafting-guide.pdf
+  landing_url: https://leg.wa.gov/bills-meetings-and-session/bills/bill-drafting-guide
+  credits:
+  - *id001
+  notes: CALC-listed URL http://www.leg.wa.gov/CodeReviser/Pages/bill_drafting_guide.aspx still resolves (redirect within
+    leg.wa.gov).
+
+- id: us-wa-instructions-on-style-wac
+  title: Instructions on Style for the Washington Administrative Code
+  jurisdiction: Washington
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-WA
+  subdivision_type: state
+  region: Americas
+  issuing_body: Washington Office of the Code Reviser
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance
+  last_updated: "2023-01"
+  currency:
+    status: current
+    note: 10-page style instructions for agency rule drafters, linked from the Code Reviser's rule-making help page (file
+      dated January 2023).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://leg.wa.gov/media/yupjqev0/instructions-on-style.pdf
+  landing_url: https://leg.wa.gov/state-laws-and-rules/washington-state-register/rule-making-help/
+
+- id: us-wi-bill-drafting-manual
+  title: Wisconsin Bill Drafting Manual
+  jurisdiction: Wisconsin
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-WI
+  subdivision_type: state
+  region: Americas
+  issuing_body: Wisconsin Legislative Reference Bureau
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  currency:
+    status: unverified
+    note: CALC lists the 2017-2018 edition. The LRB publishes a new edition each biennium, but docs.legis.wisconsin.gov and
+      legis.wisconsin.gov could not be reached from the checking environment, so the current edition was not confirmed.
+    checked_on: "2026-11-01"
+  original_format: HTML
+  source_url: null
+  landing_url: https://docs.legis.wisconsin.gov/statutes/drafting_manual/
+  credits:
+  - *id001
+  notes: CALC-listed URL http://docs.legis.wisconsin.gov/statutes/drafting_manual/ not verifiable from checker.
+
+- id: us-wv-bill-drafting-manual
+  title: Bill Drafting Manual
+  jurisdiction: West Virginia
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-WV
+  subdivision_type: state
+  region: Americas
+  issuing_body: West Virginia Legislature (House Clerk's Office, Legislative Services, Senate Clerk's Office)
+  languages: [en]
+  document_type: drafting manual
+  legal_status: Guidance
+  last_updated: "2023-12"
+  currency:
+    status: unverified
+    note: CALC lists the December 2017 manual at wvlegislature.gov/legisdocs/code/Drafting_Manual.pdf (now 404). The Legislative
+      Services page links a newer file uploaded December 2023, but its host (php.wvlegislature.gov) could not be reached from
+      the checking environment.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: null
+  landing_url: https://home.wvlegislature.gov/?p=135
+  credits:
+  - *id001
+  notes: 'Linked (unverified) file: https://php.wvlegislature.gov/wp-content/uploads/2023/12/Drafting_Manual.pdf'
