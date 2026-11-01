@@ -85,6 +85,13 @@ COUNTRY_NAMES = {
     "BR": "Brazil", "AR": "Argentina", "MX": "Mexico", "NG": "Nigeria", "ZA": "South Africa", "MY": "Malaysia",
     "PK": "Pakistan", "CN": "China", "RU": "Russia", "KE": "Kenya", "ET": "Ethiopia", "NZ": "New Zealand",
     "FR": "France", "PT": "Portugal", "FI": "Finland", "DK": "Denmark", "BA": "Bosnia and Herzegovina",
+    "ID": "Indonesia", "IQ": "Iraq", "JP": "Japan", "KR": "South Korea", "PH": "Philippines", "TH": "Thailand",
+    "VN": "Vietnam", "LK": "Sri Lanka", "BD": "Bangladesh", "NP": "Nepal", "AE": "United Arab Emirates",
+    "SA": "Saudi Arabia", "CO": "Colombia", "PE": "Peru", "CL": "Chile", "VE": "Venezuela", "BO": "Bolivia",
+    "EC": "Ecuador", "UY": "Uruguay", "NL": "Netherlands", "SE": "Sweden", "NO": "Norway", "PL": "Poland",
+    "CZ": "Czechia", "HR": "Croatia", "RS": "Serbia", "UA": "Ukraine", "GH": "Ghana", "TZ": "Tanzania",
+    "UG": "Uganda", "SO": "Somalia", "SD": "Sudan", "SS": "South Sudan", "CM": "Cameroon", "PG": "Papua New Guinea",
+    "SB": "Solomon Islands", "FM": "Micronesia", "HK": "Hong Kong", "MO": "Macao", "TW": "Taiwan",
 }
 
 SECTION_ORDER = ["International & supranational", "Africa", "Americas", "Asia", "Europe", "Oceania"]
@@ -154,7 +161,10 @@ def load() -> list[dict]:
         g["language_names"] = [LANGUAGE_NAMES.get(code, code) for code in g.get("languages", [])]
         g["legal_tradition"] = infer_tradition(g)
         g["recency"] = recency_key(g.get("last_updated"))
-    names = {g["country_code"]: g["jurisdiction"] for g in catalog if g["jurisdiction_level"] != "subnational"}
+    names: dict[str, str] = {}
+    for g in catalog:  # first national/organisation entry wins (data/guidelines.yml is read first)
+        if g["jurisdiction_level"] != "subnational":
+            names.setdefault(g["country_code"], g["jurisdiction"])
     for g in catalog:
         g["country_name"] = names.get(g["country_code"]) or COUNTRY_NAMES.get(g["country_code"], g["country_code"])
         g["display_jurisdiction"] = (f"{g['jurisdiction']} ({g['country_name']})"
