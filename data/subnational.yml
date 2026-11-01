@@ -253,6 +253,28 @@
   - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: 'Plain-language word-choice guide. The National Library of Australia holds the 2016 edition: https://nla.gov.au/nla.obj-573779168/view'
 
+- id: au-nsw-drafting-instructions-template
+  title: Drafting instructions for the Parliamentary Counsel - Template
+  jurisdiction: New South Wales
+  jurisdiction_level: subnational
+  country_code: AU
+  subdivision_code: AU-NSW
+  subdivision_type: state
+  region: Oceania
+  issuing_body: NSW Cabinet Office (with the Parliamentary Counsel's Office)
+  languages: [en]
+  document_type: process guide
+  legal_status: Mandatory template for Cabinet submissions seeking approval to draft a Bill
+  last_updated: "2023-12"
+  currency:
+    status: current
+    note: Template agencies must use to give drafting instructions to the Parliamentary Counsel, who must approve them before
+      the Cabinet submission is finalised in eCabinet. Structured form with guidance on content of instructions; short.
+    checked_on: "2026-11-01"
+  original_format: DOCX
+  source_url: https://www.nsw.gov.au/sites/default/files/noindex/2023-12/Drafting%20instructions%20for%20the%20Parliamentary%20Counsel%20-%20Template.docx
+  landing_url: https://www.nsw.gov.au/departments-and-agencies/cabinet-office/resources/templates-and-resources
+
 - id: au-nsw-drafting-practice-documents
   title: PCO drafting practice documents (DP series)
   jurisdiction: New South Wales
@@ -281,6 +303,29 @@
   - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC-listed URL https://www.legislation.nsw.gov.au/#/help/legislation is the old single-page-app route; the PCO's
     resources page now links to https://www.legislation.nsw.gov.au/information ('Learn more about drafting practices').
+
+- id: au-nsw-manual-drafting-non-government-legislation
+  title: Manual for the Drafting of Non-Government Legislation
+  jurisdiction: New South Wales
+  jurisdiction_level: subnational
+  country_code: AU
+  subdivision_code: AU-NSW
+  subdivision_type: state
+  region: Oceania
+  issuing_body: Parliamentary Counsel's Office (NSW)
+  languages: [en]
+  document_type: process guide
+  legal_status: Guidance (arrangements agreed by the Government; guidelines issued by the Parliamentary Counsel)
+  edition: 12th edition
+  last_updated: "2019-05"
+  currency:
+    status: current
+    note: 12th edition (May 2019) is the version hosted by PCO; covers arrangements and guidelines for drafting private members'
+      Bills and amendments to Bills before Parliament. Short (10 pages).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://pco.nsw.gov.au/download/ManualforNonGovernmentDrafting2019_12thEdition.pdf
+  landing_url: https://pco.nsw.gov.au/
 
 - id: au-nsw-pco-standard
   title: 'PCO Standard: A guide to drafting principles for NSW legislation'
@@ -533,6 +578,60 @@
   source_url: https://www.legislation.wa.gov.au/legislation/prod/filestore.nsf/FileURL/guidelinesfordraftingproclamationsandordersincouncil.pdf/$FILE/Guidelines%20for%20drafting%20proclamations%20and%20Orders%20in%20Council.pdf?OpenElement
   landing_url: https://www.legislation.wa.gov.au/legislation/statutes.nsf/guidance.html
 
+- id: ba-bih-pravila-i-postupci-izrada-zakona
+  title: Pravila i postupci za izradu zakona i drugih propisa Federacije Bosne i Hercegovine
+  title_en: Rules and Procedures for Drafting Laws and Other Regulations of the Federation of Bosnia and Herzegovina
+  jurisdiction: Federation of Bosnia and Herzegovina
+  jurisdiction_level: subnational
+  country_code: BA
+  subdivision_code: BA-BIH
+  subdivision_type: entity
+  region: Europe
+  issuing_body: Parlament Federacije Bosne i Hercegovine (Dom naroda / Predstavnički dom)
+  languages: [bs, hr]
+  document_type: drafting rules
+  legal_status: Binding on drafters in Federation institutions; recommended for cantons, municipalities and cities – adopted
+    by the FBiH Parliament (House of Representatives 4 June 2014, House of Peoples 10 July 2014), Službene novine FBiH 71/14
+  published: "2014-07"
+  last_updated: "2014-07"
+  currency:
+    status: in-force
+    note: Bosnian-language PDF on the House of Peoples site and Croatian-language DOCX on the House of Representatives site
+      both resolve. Covers unified drafting technique (structure, language, amendments, entry into force) and procedure. No
+      later consolidated version found.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://parlamentfbih.gov.ba/dom_naroda/bos/parlament/propisi/usvojeni_p/Pravila%20i%20postupci%20.pdf
+  notes: Croatian-language version (DOCX) at https://predstavnickidom-pfbih.gov.ba/files/Izdrada%20propisa%20FBIH%20HR/Pravila%20i%20postupci%20za%20izradu-%20hrvatski.docx.
+    The title requested in research ("Jedinstvena pravila za izradu propisa u institucijama FBiH") corresponds to this instrument;
+    the similarly named "Jedinstvena pravila za izradu pravnih propisa u institucijama Bosne i Hercegovine" are state-level.
+
+- id: ba-srp-pravila-za-izradu-zakona-i-drugih-propisa
+  title: Правила за израду закона и других прописа Републике Српске
+  title_en: Rules for Drafting Laws and Other Regulations of Republika Srpska
+  jurisdiction: Republika Srpska
+  jurisdiction_level: subnational
+  country_code: BA
+  subdivision_code: BA-SRP
+  subdivision_type: entity
+  region: Europe
+  issuing_body: Народна скупштина Републике Српске (National Assembly of Republika Srpska)
+  languages: [sr]
+  document_type: drafting rules
+  legal_status: Binding on authorised proposers of laws, the Government, republic administrative bodies and local self-government
+    units – Službeni glasnik Republike Srpske 24/14
+  published: "2014"
+  last_updated: "2014"
+  currency:
+    status: in-force
+    note: Cyrillic DOCX linked from the National Assembly's "Законодавни поступак" page; text covers principles and legal
+      technique, structure, amendments, consolidated texts, corrections, language and style, with model forms. Still cited
+      in 2025 government bills.
+    checked_on: "2026-11-01"
+  original_format: DOCX
+  source_url: https://www.narodnaskupstinars.net/sites/default/files/upload/dokumenti/pravila%20za%20izradu%20zakona%20i%20dr.%20propisa_cir.docx
+  landing_url: https://www.narodnaskupstinars.net/ci/narodna-skupstina/zakonodavni-postupak
+
 - id: be-vlg-legistieke-en-taalkundige-aanwijzingen
   title: Legistieke en taalkundige aanwijzingen (Omzendbrief VR 2019/4 Wetgevingstechniek)
   title_en: Legislative and Linguistic Instructions (Flemish Government Circular VR 2019/4 on Legislative Technique)
@@ -656,6 +755,30 @@
   source_url: https://dspace.almg.gov.br/bitstream/11037/5229/5/Manual%20de%20reda%C3%A7%C3%A3o%20parlamentar%20-%203%C2%AA%20Edi%C3%A7%C3%A3o.pdf
   landing_url: https://dspace.almg.gov.br/handle/11037/5229
   notes: Widely regarded as the reference state-level manual in Brazil (ALMG news, 2005).
+
+- id: br-mt-introducao-ao-processo-legislativo
+  title: Introdução ao Processo Legislativo
+  title_en: Introduction to the Legislative Process (includes a chapter on legislative drafting technique)
+  jurisdiction: Mato Grosso
+  jurisdiction_level: subnational
+  country_code: BR
+  subdivision_code: BR-MT
+  subdivision_type: state
+  region: Americas
+  issuing_body: Assembleia Legislativa do Estado de Mato Grosso, Secretaria de Serviços Legislativos
+  languages: [pt]
+  document_type: process guide
+  legal_status: Guidance (chapter 6 applies Lei Complementar estadual nº 06/1990 on the drafting of laws)
+  edition: 4ª edição
+  last_updated: "2023"
+  currency:
+    status: current
+    note: 4th edition (2023). Chapters 1-5 cover the legislative process; chapter 6 covers técnica legislativa - structure
+      and form of propositions (preliminary, normative, complementary parts; epígrafe, ementa, articulation) and rules for
+      amending legal provisions, based on state LC 06/1990.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://storage.al.mt.gov.br/api/v1/download/default/561139
 
 - id: br-pr-manual-de-proposicoes
   title: Manual de Proposições (Padronização e Redação Legislativa)
@@ -2069,7 +2192,32 @@
   source_url: https://www.parlamentiregionali.it/wp-content/uploads/2024/03/Manuale-di-tecnica-legislativa-per-le-Regioni_11.03.2024.pdf
   notes: Third edition (2007) copy - https://www.regione.calabria.it/wp-content/uploads/2023/07/manuale-redazione-testi.pdf
     (verified 200). Applies to the regional councils collectively, so it is recorded at national level under Italy rather
-    than under one region.
+    than under one region. Applies to the regional councils collectively, so it is recorded at national level under Italy
+    rather than under one region.
+
+- id: it-57-marche-form-at-formule-atti-normativi
+  title: FORM.AT – Formule di atti normativi
+  title_en: FORM.AT – Standard Formulas for Legislative Acts
+  jurisdiction: Marche
+  jurisdiction_level: subnational
+  country_code: IT
+  subdivision_code: IT-57
+  subdivision_type: region
+  region: Europe
+  issuing_body: Consiglio-Assemblea legislativa regionale delle Marche – Ufficio coordinamento testi
+  languages: [it]
+  document_type: drafting manual
+  legal_status: Guidance (formulary supplementing the interregional manual adopted by the Council's Ufficio di Presidenza)
+  edition: Nona edizione (9th edition)
+  published: "2002"
+  last_updated: "2024-12"
+  currency:
+    status: current
+    note: 127-page 9th edition dated December 2024 resolves on the Council site; contains standard formulas, article templates
+      and model laws. Distinct from the 2006 "Formulario per la redazione dei testi normativi" already catalogued.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.consiglio.marche.it/informazione_e_comunicazione/pubblicazioni/altre_pubblicazioni/manuali_e_formulari/Format.pdf
 
 - id: it-57-marche-formulario-redazione-testi-normativi
   title: Formulario per la redazione dei testi normativi
@@ -2117,6 +2265,32 @@
     checked_on: "2026-11-01"
   original_format: PDF
   source_url: https://bura.regione.abruzzo.it/sites/bura.regione.abruzzo.it/files/bollettini/2025-12-17/verb-031-05-con-allegato-signed-signed.pdf
+
+- id: it-78-calabria-breve-compendio-tecnica-redazione-normativa
+  title: Breve compendio di tecnica di redazione normativa
+  title_en: Short Compendium of Legislative Drafting Technique
+  jurisdiction: Calabria
+  jurisdiction_level: subnational
+  country_code: IT
+  subdivision_code: IT-78
+  subdivision_type: region
+  region: Europe
+  issuing_body: Consiglio regionale della Calabria – Settore assistenza giuridica
+  languages: [it]
+  document_type: drafting guidelines
+  legal_status: Guidance (operational companion to the interregional manual "Regole e suggerimenti per la redazione dei testi
+    normativi", 4th ed.)
+  published: "2025-12"
+  last_updated: "2025-12"
+  currency:
+    status: current
+    note: 26-page compendium dated 2025, published 17 Dec 2025 in the Council's transparency section; turns the interregional
+      manual's rules into practical drafting principles (language, structure, references, amendments, clauses).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.consiglioregionale.calabria.it/amministrazione_trasparente/documenti/Performance/2025/SAG/2025-12-17_Compendio-tecnica-redazione-normativa.pdf
+  notes: The Giunta regionale hosts only a copy of the 3rd (2007) edition of the interregional manual (https://www.regione.calabria.it/wp-content/uploads/2023/07/manuale-redazione-testi.pdf),
+    not recorded separately.
 
 - id: it-88-sardegna-manuale-testi-normativi-giunta
   title: Qualità e semplificazione della normativa regionale – Adozione del manuale per la predisposizione dei testi normativi
@@ -2284,8 +2458,36 @@
     checked_on: "2026-11-01"
   original_format: PDF
   source_url: null
+  landing_url: https://www.theborneopost.com/2026/09/19/sarawak-launches-legislative-drafting-manual/
   notes: 'News source (403 to automated requests): https://www.theborneopost.com/2026/09/19/sarawak-launches-legislative-drafting-manual/
     . Format not confirmed.'
+
+- id: pt-20-acores-regime-publicacao-identificacao-formulario-diplomas-regionais
+  title: Regime jurídico da publicação, identificação e formulário dos diplomas regionais (Decreto Legislativo Regional n.º
+    25/2003/A, republicado pelo Decreto Legislativo Regional n.º 2/2022/A)
+  title_en: Legal Regime for the Publication, Identification and Standard Form of Regional Enactments (Azores)
+  jurisdiction: Azores
+  jurisdiction_level: subnational
+  country_code: PT
+  subdivision_code: PT-20
+  subdivision_type: autonomous region
+  region: Europe
+  issuing_body: Assembleia Legislativa da Região Autónoma dos Açores (published in Diário da República, 1.ª série)
+  languages: [pt]
+  document_type: drafting rules
+  legal_status: Binding – Decreto Legislativo Regional n.º 25/2003/A, de 27 de maio, third amendment and full republication
+    by Decreto Legislativo Regional n.º 2/2022/A (approved 14 Dec 2021, DR 1.ª série n.º 22, Feb 2022)
+  published: "2003-05"
+  last_updated: "2022-02"
+  currency:
+    status: in-force
+    note: Diário da República PDF of DLR 2/2022/A resolves and contains the full republished text, setting the mandatory formulário
+      (preamble, numbering, structure, amendment and republication rules) for regional legislative decrees, regulatory decrees,
+      resolutions and government proposals. Regional counterpart of national Lei n.º 74/98 (lei formulário).
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://files.dre.pt/1s/2022/02/02200/0003100043.pdf
+  notes: Binding form-of-acts law rather than a narrative drafting manual; no separate Azorean legística guide was found.
 
 - id: us-ak-drafting-manual-administrative-regulations
   title: Drafting Manual for Administrative Regulations
@@ -2436,7 +2638,7 @@
   source_url: https://content.leg.colorado.gov/sites/default/files/colorado-legislative-drafting-manual-accessible.pdf
   landing_url: https://leg.colorado.gov/publications/colorado-legislative-drafting-manual
   credits:
-  - &id001 {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC-listed URL https://leg.colorado.gov/publications/legislative-drafting-manual returns 404.
 
 - id: us-ct-basic-considerations-drafting-legislation
@@ -2461,7 +2663,7 @@
   source_url: https://prdext3.cga.ct.gov/lco/pdfs/Basic%20Considerations%20in%20Drafting%20Legislation.pdf
   landing_url: https://prdext3.cga.ct.gov/LCO/resources.asp
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC lists the same path on www.cga.ct.gov, which could not be reached from the checking environment; the identical
     file resolves on the CGA's prdext3.cga.ct.gov host. Short guide (14 pp.) for occasional drafters.
 
@@ -2487,7 +2689,7 @@
   source_url: https://prdext3.cga.ct.gov/lco/pdfs/Regulations_Drafting_Manual.pdf
   landing_url: https://prdext3.cga.ct.gov/LCO/resources.asp
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC lists http://www.cga.ct.gov/lco/pdfs/Regulations_Drafting_Manual.pdf (www host unreachable from checking environment);
     verified on prdext3.cga.ct.gov.
 
@@ -2556,7 +2758,7 @@
   source_url: https://legis.delaware.gov/docs/default-source/publications/legislative-drafting-manual.pdf?sfvrsn=74bcb138_7
   landing_url: https://legis.delaware.gov/draftingmanual
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: 'Word version: https://legis.delaware.gov/docs/default-source/publications/2024draftingmanual.docx?sfvrsn=ae8c8838_1'
 
 - id: us-fl-guidelines-for-drafting-legislation
@@ -2580,7 +2782,7 @@
   original_format: PDF
   source_url: https://www.flhouse.gov/api/document/house?listName=FP_Reference%20Materials&itemId=9&section=
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC-listed URL on myfloridahouse.gov (LeagisDocumentRetriever.ashx) now redirects to the House home page; replaced
     with the House document API URL (HTTP 200, PDF).
 
@@ -2629,7 +2831,7 @@
   source_url: https://lrb.hawaii.gov/wp-content/uploads/2022_HawaiiLegislativeDraftingManual.pdf
   landing_url: https://lrb.hawaii.gov/drafting-manuals-guides/
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC-listed URL http://lrbhawaii.info/reports/legrpts/lrb/2012/legdftman12.pdf is dead; the 2012 edition remains
     at https://lrb.hawaii.gov/wp-content/uploads/2012_HawaiiLegislativeDraftingManual.pdf.
 
@@ -2656,6 +2858,28 @@
   source_url: https://publications.iowa.gov/28290/1/2018%20Iowa%20Bill%20Drafting%20Guide.pdf
   landing_url: https://publications.iowa.gov/28290/
 
+- id: us-ia-rule-writing-style-guide
+  title: Rule-Writing Style Guide
+  jurisdiction: Iowa
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-IA
+  subdivision_type: state
+  region: Americas
+  issuing_body: Iowa Administrative Code Office (Legislative Services Agency)
+  languages: [en]
+  document_type: style guide
+  legal_status: Guidance (uniform style and form prescribed under Iowa Code 2B.5A and 17A; agencies must follow under 31.12)
+  last_updated: "2016-02"
+  currency:
+    status: current
+    note: Hosted under /docs/Rules/Current/ on the legislature's site; file dated 2016. Covers planning and preparing rule-making
+      documents, examples, numbering and style of rules for the Iowa Administrative Bulletin and Code. A later "Rule Writer
+      Handbook" (Part C, 2022) is referenced in search results but was not retrieved.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.legis.iowa.gov/docs/Rules/Current/StyleGuide.pdf
+
 - id: us-id-legislation-drafting-manual
   title: Legislation Drafting Manual (Concise Version)
   jurisdiction: Idaho
@@ -2677,7 +2901,7 @@
   original_format: PDF
   source_url: https://legislature.idaho.gov/wp-content/uploads/research/draftingmanual.pdf
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
 
 - id: us-id-rule-writers-manual
   title: 'The Idaho Rule Writer''s Manual: A Guide for Drafting and Promulgating Administrative Rules in the State of Idaho'
@@ -2725,7 +2949,7 @@
   source_url: null
   landing_url: https://lrb.ilga.gov/
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: 'Indexed (unverified) file: https://lrb.ilga.gov/commission/lrb/Manual.pdf. CALC-listed URL: http://www.ilga.gov/commission/lrb/manual.pdf.'
 
 - id: us-in-administrative-rules-drafting-manual
@@ -2750,7 +2974,7 @@
   source_url: null
   landing_url: https://iar.iga.in.gov/
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: 'CALC-listed URL http://iga.in.gov/legislative/2018/publications/rules/drafting_manual/ returns only the app shell.
     Indexed (unverified) file: https://iar.iga.in.gov/IACDrftMan.pdf'
 
@@ -2777,7 +3001,7 @@
   source_url: null
   landing_url: https://iga.in.gov/publications/bill_drafting_manual
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: 'CALC-listed URL http://iga.in.gov/legislative/2014/publications/bill_drafting_manual/ returns only the site''s app
     shell. Indexed (unverified) file: https://iga.in.gov/publications/bill_drafting_manual/2024%20Complete%20Drafting%20Manual.pdf'
 
@@ -2825,9 +3049,34 @@
   original_format: PDF
   source_url: https://legislature.ky.gov/LRC/Publications/Informational%20Bulletins/IB117.pdf
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC-listed URL http://www.lrc.ky.gov/lrcpubs/ib117.pdf could not be reached; replaced with the current legislature.ky.gov
     URL.
+
+- id: us-ky-krs-13a-222-drafting-rules
+  title: KRS 13A.222 Drafting rules (with KRS Chapter 13A requirements for administrative regulations)
+  jurisdiction: Kentucky
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-KY
+  subdivision_type: state
+  region: Americas
+  issuing_body: Kentucky General Assembly (published by the Legislative Research Commission)
+  languages: [en]
+  document_type: drafting rules
+  legal_status: Binding statute (Kentucky Revised Statutes 13A.222; see also 13A.221 division of subject matter and 13A.224
+    incorporation by reference)
+  published: "1988"
+  last_updated: "2016-07"
+  currency:
+    status: in-force
+    note: Statutory drafting rules for administrative regulations - plain language, shall/may usage, amendment marking (underline/bracket
+      and strike-through), section structure, definitions. The regulations compiler may refuse regulations that do not comply
+      (2021 Ky. Acts ch. 125). No separate LRC regulation drafting manual found.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://apps.legislature.ky.gov/Law/statutes/statute.aspx?id=45161
+  landing_url: https://apps.legislature.ky.gov/Law/statutes/chapter.aspx?id=37084
 
 - id: us-la-administrative-code-style-manual
   title: Louisiana Administrative Code Style Manual
@@ -2872,8 +3121,9 @@
     checked_on: "2026-11-01"
   original_format: PDF
   source_url: null
+  landing_url: https://house.louisiana.gov/
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC-listed URL http://www.ncsl.org/Portals/1/Documents/relacs/manuals/2016LAHouseDraftingManual.pdf is gone (410).
 
 - id: us-ma-legislative-research-drafting-manual
@@ -2899,7 +3149,7 @@
   source_url: https://archives.lib.state.ma.us/server/api/core/bitstreams/d45fae23-fdf5-4c21-ab1f-8079943133d3/content
   landing_url: https://archives.lib.state.ma.us/entities/publication/d633f8be-d51d-49c0-ab71-d356671ee8d7
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC-listed URL https://malegislature.gov/Content/Documents/General/LegislativeDraftingManual.pdf returns 404; replaced
     with the State Library archival copy.
 
@@ -2925,7 +3175,7 @@
   original_format: PDF
   source_url: https://dls.maryland.gov/pubs/prod/LegisBillDrafting/Legislative_Drafting_Manual.pdf
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC-listed URL http://dls.maryland.gov/pubs/prod/LegisBillDrafting/Drafting-Manual.pdf returns 404. DLS recommends
     using it with the Maryland Style Manual for Statutory Law (no public copy found).
 
@@ -2977,7 +3227,7 @@
   source_url: https://legislature.maine.gov/doc/9564
   landing_url: https://legislature.maine.gov/ros/publications/9173
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
 
 - id: us-mn-revisors-manual
   title: Minnesota Revisor's Manual with Styles and Forms
@@ -3001,7 +3251,7 @@
   source_url: https://www.revisor.mn.gov/static/office/2013-Revisor-Manual.pdf
   landing_url: https://www.revisor.mn.gov/office/publications
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
 
 - id: us-mn-rules-drafting-manual
   title: Minnesota Rules Drafting Manual with Styles and Forms
@@ -3025,7 +3275,7 @@
   source_url: https://www.revisor.mn.gov/static/office/1997_RuleDraftManual.pdf
   landing_url: https://www.revisor.mn.gov/office/publications
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
 
 - id: us-mo-essentials-of-bill-drafting
   title: The Essentials of Bill Drafting in the Missouri General Assembly
@@ -3050,8 +3300,54 @@
   source_url: null
   landing_url: https://lr.mo.gov/
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: 'CALC-listed URL: http://www.moga.mo.gov/rsmopdfs/BillDraftManual2011.pdf (unreachable).'
+
+- id: us-mo-rulemaking-manual
+  title: Rulemaking Manual
+  jurisdiction: Missouri
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-MO
+  subdivision_type: state
+  region: Americas
+  issuing_body: Missouri Secretary of State, Administrative Rules Division
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance (issued under section 536.023 RSMo)
+  edition: "2026"
+  last_updated: "2026-07"
+  currency:
+    status: current
+    note: 2026 edition hosted by the Secretary of State (2024 and 2025 editions remain at the same path with the year changed).
+      Covers format of proposed rules, amendments, rescissions and orders of rulemaking with annotated samples. Server returns
+      403 to curl but document retrieved with a browser-type fetch.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.sos.mo.gov/CMSImages/AdRules/main/manual/2026RulemakingManual.pdf
+  landing_url: https://www.sos.mo.gov/adrules/manual
+
+- id: us-ms-administrative-procedures-act-rules
+  title: 'Administrative Procedures Act Rules (Title 1: Secretary of State, Part 1: Administrative Law)'
+  jurisdiction: Mississippi
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-MS
+  subdivision_type: state
+  region: Americas
+  issuing_body: Mississippi Secretary of State, Regulations and Enforcement Division
+  languages: [en]
+  document_type: drafting rules
+  legal_status: Binding rules (1 Miss. Admin. Code Pt. 1), adopted under Miss. Code Ann. § 25-43-2.101 et seq.
+  last_updated: "2020-01"
+  currency:
+    status: in-force
+    note: Prescribes the organisation, numbering and citation format of the Mississippi Administrative Code, margins and font
+      of rule text, and submission formats; the Secretary of State may reject non-conforming filings. Format-focused; no separate
+      Mississippi rules drafting style manual found.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.sos.ms.gov/content/documents/reg_enf/admin/APA%20RulesRegulations.pdf
 
 - id: us-mt-bill-drafting-manual
   title: Bill Drafting Manual
@@ -3076,7 +3372,7 @@
   source_url: https://static.legmt.gov/Sessions/70th/2026-Bill-Drafting-Manual-WEB.pdf
   landing_url: https://www.legmt.gov/education/drafting/
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC's 'New Mexico / Legislative Council Service' row actually links Montana's 2016 manual (http://leg.mt.gov/content/Publications/2016_Bill_Drafting_Manual.pdf,
     now redirecting to archive.legmt.gov); recorded here under Montana.
 
@@ -3146,7 +3442,7 @@
   source_url: https://ndlegis.gov/sites/default/files/pdf/legislative-bill-drafting-manual/legislativedraftingmanual.pdf
   landing_url: https://ndlegis.gov/legislative-drafting-manual
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC-listed URL http://www.legis.nd.gov/legislative-drafting-manual redirects to the current ndlegis.gov page.
 
 - id: us-ne-working-with-bill-drafting-office
@@ -3237,7 +3533,7 @@
   original_format: PDF
   source_url: https://www.nmlegis.gov/Publications/RFP/LCS%20Drafting%20Manual.pdf
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC lists this item (title, publisher and date match) but links the wrong state's document; credit kept for the
     listing.
 
@@ -3285,7 +3581,7 @@
   original_format: PDF
   source_url: https://www.lsc.ohio.gov/assets/organizations/legislative-service-commission/files/subject-legislative-information-administrative-rule-drafting-manual.pdf
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC-listed URL https://www.lsc.ohio.gov/pages/reference/current/generalreference.aspx?active=idLegInform now redirects
     to https://www.lsc.ohio.gov/publications. No public bill drafting manual found for Ohio.
 
@@ -3311,7 +3607,7 @@
   original_format: PDF
   source_url: https://www.oregonlegislature.gov/lc/PDFs/draftingmanual.pdf
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
 
 - id: us-or-form-style-manual-legislative-measures
   title: Form and Style Manual for Legislative Measures
@@ -3334,7 +3630,7 @@
   original_format: PDF
   source_url: https://www.oregonlegislature.gov/lc/PDFs/form-stylemanual.pdf
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
 
 - id: us-pa-code-bulletin-style-manual
   title: Pennsylvania Code & Bulletin Style Manual
@@ -3358,7 +3654,7 @@
   source_url: https://www.pacodeandbulletin.gov/downloads/StyleManual_6thEdition.pdf
   landing_url: https://www.pacodeandbulletin.gov/
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: Governs documents (agency regulations, notices) published in the Pennsylvania Code and Pennsylvania Bulletin. CALC-listed
     URL https://www.pacode.com/secure/StyleManual_5thEdition.pdf redirects to the site home page.
 
@@ -3384,9 +3680,78 @@
   source_url: null
   landing_url: https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/101/subpartICtoc.html
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC-listed URL https://www.pacode.com/secure/data/101/subpartICtoc.html now redirects to the Pennsylvania Code &
     Bulletin home page.
+
+- id: us-ri-agency-guide-rule-writers
+  title: 'Agency Guide: Rule Writers (Rhode Island Rules and Regulations)'
+  jurisdiction: Rhode Island
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-RI
+  subdivision_type: state
+  region: Americas
+  issuing_body: Rhode Island Department of State, Administrative Records Office
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance
+  last_updated: "2026-06"
+  currency:
+    status: current
+    note: Current guide for drafters of RICR regulations; includes "Regulation Drafting Guidance", required RICR styles and
+      style exceptions. Companion guides for filers, rules coordinators and agency heads are on the Filing Resources page.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://docs.sos.ri.gov/documents/StateArchives/ARO_AgencyGuide_RuleWriters.pdf
+  landing_url: https://www.sos.ri.gov/divisions/open-government-center/rules-and-regulations/filing-resources
+
+- id: us-ri-ricr-formatting-filing-manual
+  title: Rules and Regulations Formatting and Filing Manual (Rhode Island Administrative Procedures Act)
+  jurisdiction: Rhode Island
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-RI
+  subdivision_type: state
+  region: Americas
+  issuing_body: Rhode Island Department of State, Administrative Records Office
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance
+  edition: Filing Manual v. 5.0
+  published: "2016-09"
+  last_updated: "2022-02"
+  currency:
+    status: dated
+    note: Adopted September 2016, last revised 1 February 2022; formatting rules for the RICR (text styling, tables, numbering).
+      Appears to be partly superseded by the 2026 Agency Guides (rule writers / filers), but still hosted.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://docs.sos.ri.gov/documents/StateArchives/RICRFormattingandFilingManual.pdf
+  landing_url: https://www.sos.ri.gov/divisions/open-government-center/rules-and-regulations/filing-resources
+
+- id: us-sc-standards-manual-drafting-filing-regulations
+  title: Standards Manual for Drafting and Filing Regulations
+  jurisdiction: South Carolina
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-SC
+  subdivision_type: state
+  region: Americas
+  issuing_body: South Carolina Legislative Council, State Register
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance
+  edition: Amended 2025
+  last_updated: "2025-07"
+  currency:
+    status: current
+    note: 2025 revision (earlier 2006, 2014 and 2019 versions also hosted on scstatehouse.gov). Includes word-processing standards,
+      codification, "Guidelines for Drafting Text" (language style, citations, incorporation by reference) and model formats.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://www.scstatehouse.gov/register/2025%20Revised%20Standards%20Manual%20for%20Regulations.pdf
+  landing_url: https://www.scstatehouse.gov/registerandregs.php
 
 - id: us-sd-guide-to-legislative-drafting
   title: Guide to Legislative Drafting
@@ -3409,7 +3774,7 @@
   original_format: PDF
   source_url: https://mylrc.sdlegislature.gov/api/Documents/289757.pdf
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC-listed URL http://sdlegislature.gov/docs/referencematerials/draftingmanual.pdf redirects to the current document.
 
 - id: us-tn-legislative-drafting-guide
@@ -3435,7 +3800,7 @@
   source_url: https://capitol.tn.gov/Archives/Joint/staff/legal/Drafting%20Guide%202025.pdf
   landing_url: https://wapp.capitol.tn.gov/apps/Directories/JointStaff#ols
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC-listed URL http://www.capitol.tn.gov/joint/staff/legal/2018%20Drafting%20Guide.pdf no longer returns the PDF.
 
 - id: us-tx-drafting-manual
@@ -3460,7 +3825,7 @@
   original_format: PDF
   source_url: https://tlc.texas.gov/docs/legref/draftingmanual.pdf
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC-listed URL https://tlc.texas.gov/docs/legref/draftingmanual-86.pdf returns 404.
 
 - id: us-ut-legislative-drafting-manual-style-guide
@@ -3485,9 +3850,34 @@
   original_format: PDF
   source_url: https://le.utah.gov/lrgc/2025_DRAFTING_MANUAL.pdf
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC-listed URL https://le.utah.gov/documents/LDM/draftingManual.html still resolves but appears to be the older
     edition.
+
+- id: us-ut-rulewriting-manual
+  title: 'Rulewriting Manual for Utah: Rulewriters'
+  jurisdiction: Utah
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-UT
+  subdivision_type: state
+  region: Americas
+  issuing_body: Utah Office of Administrative Rules (formerly Division of Administrative Rules)
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance (agencies directed to follow it by executive orders, e.g. EO 2021-12)
+  edition: 12th edition, version 1.1.0
+  published: "2006"
+  last_updated: "2006-03"
+  currency:
+    status: dated
+    note: PDF is the 12th edition (2006) covering rulewriting style, punctuation, capitalization, structure, citations, incorporation
+      by reference and organization of rules; an HTML version is published at rules.utah.gov/rulewriting-manual/ (bot-protected,
+      403 to curl). No newer edition found.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://rules.utah.gov/wp-content/uploads/manual-rulewriter.pdf
+  landing_url: https://rules.utah.gov/help/agency-resources
 
 - id: us-va-form-style-requirements-register-regulations
   title: Form and Style Requirements for the Virginia Register of Regulations and Virginia Administrative Code
@@ -3511,6 +3901,28 @@
   source_url: https://register.dls.virginia.gov/documents/agency_resources/part-i-form-and-style-manual.pdf
   landing_url: https://register.dls.virginia.gov/
 
+- id: us-va-legislators-guide-division-legislative-services
+  title: A Legislator's Guide to the Division of Legislative Services
+  jurisdiction: Virginia
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-VA
+  subdivision_type: state
+  region: Americas
+  issuing_body: Virginia Division of Legislative Services
+  languages: [en]
+  document_type: process guide
+  legal_status: Guidance
+  last_updated: "2023-11"
+  currency:
+    status: current
+    note: Part II "The Division as Drafters" covers bill requests, drafting rules and conventions, parts of a bill and sample
+      bill types; Part III covers amendments and substitutes. Virginia DLS does not publish a standalone bill drafting manual
+      online; this is the closest public document.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://dls.virginia.gov/pubs/LegisGuideToDLS.pdf
+
 - id: us-wa-bill-drafting-guide
   title: Bill Drafting Guide
   jurisdiction: Washington
@@ -3533,7 +3945,7 @@
   source_url: https://leg.wa.gov/media/b2gdjkne/2025-bill-drafting-guide.pdf
   landing_url: https://leg.wa.gov/bills-meetings-and-session/bills/bill-drafting-guide
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC-listed URL http://www.leg.wa.gov/CodeReviser/Pages/bill_drafting_guide.aspx still resolves (redirect within
     leg.wa.gov).
 
@@ -3559,6 +3971,31 @@
   source_url: https://leg.wa.gov/media/yupjqev0/instructions-on-style.pdf
   landing_url: https://leg.wa.gov/state-laws-and-rules/washington-state-register/rule-making-help/
 
+- id: us-wi-administrative-rules-procedures-manual
+  title: Administrative Rules Procedures Manual
+  jurisdiction: Wisconsin
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-WI
+  subdivision_type: state
+  region: Americas
+  issuing_body: Wisconsin Legislative Council (Rules Clearinghouse) and Legislative Reference Bureau
+  languages: [en]
+  document_type: rules drafting manual
+  legal_status: Guidance
+  published: "2014-12"
+  last_updated: "2020-11"
+  currency:
+    status: unverified
+    note: Search results show the November 2020 edition at https://legis.wisconsin.gov/lc/media/1597/20adminrules_manual.pdf
+      (also lc.legis.wisconsin.gov/media/1538/20adminrules_manual.pdf and media/1819/2020_chr_manual.pdf); earlier 2014 edition
+      (updated 2016) at media/1221/14adminrules_manual.pdf. Covers drafting style and format, promulgation procedure and rules
+      review. The legis.wisconsin.gov host reset connections from this environment, so the URL could not be verified.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: null
+  landing_url: https://legis.wisconsin.gov/lc/rules-clearinghouse/rules-clearinghouse/
+
 - id: us-wi-bill-drafting-manual
   title: Wisconsin Bill Drafting Manual
   jurisdiction: Wisconsin
@@ -3580,7 +4017,7 @@
   source_url: null
   landing_url: https://docs.legis.wisconsin.gov/statutes/drafting_manual/
   credits:
-  - *id001
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
   notes: CALC-listed URL http://docs.legis.wisconsin.gov/statutes/drafting_manual/ not verifiable from checker.
 
 - id: us-wv-bill-drafting-manual
@@ -3595,16 +4032,37 @@
   languages: [en]
   document_type: drafting manual
   legal_status: Guidance
-  last_updated: "2023-12"
+  edition: Revised December 2022
+  last_updated: "2022-12"
   currency:
-    status: unverified
-    note: CALC lists the December 2017 manual at wvlegislature.gov/legisdocs/code/Drafting_Manual.pdf (now 404). The Legislative
-      Services page links a newer file uploaded December 2023, but its host (php.wvlegislature.gov) could not be reached from
-      the checking environment.
+    status: current
+    note: CALC lists the December 2017 manual at wvlegislature.gov/legisdocs/code/Drafting_Manual.pdf (now 404). The Legislature
+      hosts the edition revised December 2022 at legisdocs/misc/pub/.
     checked_on: "2026-11-01"
   original_format: PDF
-  source_url: null
+  source_url: https://www.wvlegislature.gov/legisdocs/misc/pub/Drafting_Manual.pdf
   landing_url: https://home.wvlegislature.gov/?p=135
   credits:
-  - *id001
-  notes: 'Linked (unverified) file: https://php.wvlegislature.gov/wp-content/uploads/2023/12/Drafting_Manual.pdf'
+  - {name: Commonwealth Association of Legislative Counsel (CALC), url: 'https://www.calc.ngo/drafting-manuals-and-other-resources'}
+
+- id: us-wy-rules-on-rules
+  title: Rules on Rules (Secretary of State Rules, Chapter 1)
+  jurisdiction: Wyoming
+  jurisdiction_level: subnational
+  country_code: US
+  subdivision_code: US-WY
+  subdivision_type: state
+  region: Americas
+  issuing_body: Wyoming Secretary of State
+  languages: [en]
+  document_type: drafting rules
+  legal_status: Binding rule adopted by the Secretary of State as registrar of rules under W.S. 16-3-103(f)-(g) and 16-3-104(c)
+  last_updated: "2025-06"
+  currency:
+    status: in-force
+    note: Prescribes the mandatory format for notices of intended rulemaking, proposed amendments (strike and underscore)
+      and final rules. Short (9 pages); format-focused rather than a full style manual.
+    checked_on: "2026-11-01"
+  original_format: PDF
+  source_url: https://sos.wyo.gov/Services/Docs/RulesOnRules.pdf
+  landing_url: https://sos.wyo.gov/Services/RulesInformation.aspx
