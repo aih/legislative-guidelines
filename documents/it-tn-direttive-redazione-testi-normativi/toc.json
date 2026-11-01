@@ -1,0 +1,917 @@
+[
+ {
+  "id": "direttive-sulla-redazione-dei-testi-normativi",
+  "level": 2,
+  "title": "DIRETTIVE SULLA REDAZIONE DEI TESTI NORMATIVI"
+ },
+ {
+  "id": "indice-generale",
+  "level": 4,
+  "title": "INDICE GENERALE"
+ },
+ {
+  "id": "regole-e-suggerimenti-per-la-redazione-dei-testi-normativi",
+  "level": 2,
+  "title": "Regole e suggerimenti per la redazione dei testi normativi"
+ },
+ {
+  "id": "adottate-dall-ufficio-di-presidenza",
+  "level": 4,
+  "title": "ADOTTATE DALL'UFFICIO DI PRESIDENZA"
+ },
+ {
+  "id": "con-deliberazione-3-novembre-2009-n-66",
+  "level": 3,
+  "title": "CON DELIBERAZIONE 3 NOVEMBRE 2009, N. 66"
+ },
+ {
+  "id": "terza-edizione",
+  "level": 3,
+  "title": "Terza edizione"
+ },
+ {
+  "id": "indice",
+  "level": 5,
+  "title": "INDICE"
+ },
+ {
+  "id": "preambolo",
+  "level": 5,
+  "title": "Preambolo"
+ },
+ {
+  "id": "parte-i-linguaggio-normativo",
+  "level": 5,
+  "title": "Parte I - Linguaggio normativo"
+ },
+ {
+  "id": "parte-ii-scrittura-dei-testi-normativi",
+  "level": 5,
+  "title": "Parte II - Scrittura dei testi normativi"
+ },
+ {
+  "id": "parte-iii-struttura-dell-atto-normativo",
+  "level": 5,
+  "title": "Parte III - Struttura dell'atto normativo"
+ },
+ {
+  "id": "parte-iv-riferimenti-o-rinvii",
+  "level": 5,
+  "title": "Parte IV - Riferimenti (o rinvii)"
+ },
+ {
+  "id": "parte-v-modifiche",
+  "level": 5,
+  "title": "Parte V - Modifiche"
+ },
+ {
+  "id": "presentazione",
+  "level": 5,
+  "title": "Presentazione"
+ },
+ {
+  "id": "i-il-manuale-di-tecnica-legislativa-drafting-origine-ed-evol",
+  "level": 5,
+  "title": "I. Il manuale di tecnica legislativa (drafting): origine ed evoluzione"
+ },
+ {
+  "id": "ii-i-seminari-sul-linguaggio-linguistica-e-diritto",
+  "level": 5,
+  "title": "II. I seminari sul linguaggio: linguistica e diritto"
+ },
+ {
+  "id": "iii-modifiche-apportate-dal-gruppo-di-lavoro-2006-2007-alla-",
+  "level": 5,
+  "title": "III. Modifiche apportate dal gruppo di lavoro 2006 - 2007 alla parte prima del manuale"
+ },
+ {
+  "id": "iv-modifiche-apportate-alle-altre-parti-del-manuale",
+  "level": 5,
+  "title": "IV. Modifiche apportate alle altre parti del manuale"
+ },
+ {
+  "id": "v-composizione-del-manuale",
+  "level": 5,
+  "title": "V. Composizione del manuale"
+ },
+ {
+  "id": "vi-considerazioni-conclusive",
+  "level": 5,
+  "title": "VI. Considerazioni conclusive"
+ },
+ {
+  "id": "le-parti-in-neretto-integrano-a-livello-provinciale-gli-esem",
+  "level": 5,
+  "title": "Le parti in neretto integrano, a livello provinciale, gli esempi e le spiegazioni del"
+ },
+ {
+  "id": "le-disposizioni-da-cui-sono-ricavate-regole-applicabili-d-uf",
+  "level": 5,
+  "title": "Le disposizioni da cui sono ricavate regole applicabili d'ufficio ai sensi dell'allegato C"
+ },
+ {
+  "id": "nella-redazione-dei-testi-si-rispettano-anche-gli-standard-g",
+  "level": 5,
+  "title": "Nella redazione dei testi si rispettano anche gli standard grafici contenuti nelle \"Regole per la formattazione dei disegni di legge e delle leggi provinciali\" e i \"Criteri orientativi per"
+ },
+ {
+  "id": "inoltre-sottintendono-il-soggetto-e-dunque-possono-generare-",
+  "level": 5,
+  "title": "inoltre sottintendono il soggetto, e dunque possono generare ambiguità. Per questo è bene"
+ },
+ {
+  "id": "comma-4-si-può-ricorrere-alle-elencazioni-in-particolare-qua",
+  "level": 5,
+  "title": "Comma 4: si può ricorrere alle elencazioni, in particolare, quando il significato della"
+ },
+ {
+  "id": "gli-eufemismi-es-diversamente-abile-vanno-usati-con-cautela-",
+  "level": 5,
+  "title": "Gli eufemismi (es.: diversamente abile) vanno usati con cautela, tenendo conto della volontà politica o dell'uso più accreditato, ma anche del fatto che spesso sono soggetti a consunzione e sostituzione con un nuovo eufemismo: quindi vanno soppesate le difficoltà"
+ },
+ {
+  "id": "in-altri-casi-la-mancata-definizione-di-un-termine-può-pregi",
+  "level": 5,
+  "title": "In altri casi la mancata definizione di un termine può pregiudicare l'applicazione dell'atto normativo. Ad esempio, non può mancare una definizione per termini generici come \"anziano\", \"montagna\" ecc. Talora le definizioni possono mutare nel tempo (ad"
+ },
+ {
+  "id": "in-generale-bisogna-stare-attenti-a-non-dare-per-scontata-l-",
+  "level": 5,
+  "title": "In generale bisogna stare attenti a non dare per scontata l'univocità dei termini, specie"
+ },
+ {
+  "id": "non-confondere-le-definizioni-con-le-denominazioni-abbreviat",
+  "level": 5,
+  "title": "Non confondere le definizioni con le denominazioni abbreviate (trattate nel paragrafo"
+ },
+ {
+  "id": "evitare-le-definizioni-quando-rischiano-di-produrre-un-illeg",
+  "level": 5,
+  "title": "Evitare le definizioni quando rischiano di produrre un'illegittima novazione della"
+ },
+ {
+  "id": "la-necessità-di-definire-un-termine-va-soppesata-con-attenzi",
+  "level": 5,
+  "title": "La necessità di definire un termine va soppesata con attenzione, senza imitare passivamente esempi di diritto comunitario, che nascono dall'influenza di una tradizione"
+ },
+ {
+  "id": "all-interno-di-un-comma-quest-ultimo-problema-non-dovrebbe-p",
+  "level": 5,
+  "title": "All'interno di un comma quest'ultimo problema non dovrebbe porsi in maniera così evidente: la ripetizione o meno del soggetto, quindi, va valutata volta per volta, tenendo"
+ },
+ {
+  "id": "se-le-sigle-non-sono-già-d-uso-comune-si-ricorre-ad-esse-sol",
+  "level": 5,
+  "title": "Se le sigle non sono già d'uso comune si ricorre ad esse solo quando sostituiscono espressioni piuttosto lunghe, che si ripetono più volte nel testo. Per alleggerire effettivamente la lettura, inoltre, ogni atto può comprendere solo un numero ridotto di sigle (indicativamente: non più di tre o quattro). Ad esempio, è pregiudicata la leggibilità di una"
+ },
+ {
+  "id": "l-univocità-della-sigla-è-valutata-in-base-alla-presenza-di-",
+  "level": 5,
+  "title": "L'univocità della sigla è valutata in base alla presenza di sigle analoghe nella stessa"
+ },
+ {
+  "id": "altri-esempi-bollettino-ufficiale-della-regione-giunta-provi",
+  "level": 5,
+  "title": "Altri esempi: Bollettino ufficiale della Regione Giunta (provinciale) Azienda provinciale per i servizi sanitari Ente provinciale per lo sviluppo dell'agricoltura trentina Università degli studi di Trento Sindaco del Comune di Rovereto sindaco del comune competente difensore civico dipartimento affari istituzionali servizio organi collegiali ordine dei medici fondazione De Gasperi Associazione artigiani e piccole imprese della provincia di Trento lago di Garda il ministro Borg monte Bondone In genere i dubbi nascono in relazione al comma 2, lettera d), che tratta di nomi comuni intesi come nomi propri perché compongono una denominazione (come il titolo di un romanzo, racchiuso fra virgolette). In questi casi si usa la maiuscola per la prima parola della denominazione: ma se nel seguito del testo si ripete questa sola parola non bisogna usare la maiuscola, come non la si usa per io (intendendo il signor Tale), mare (intendendo il Mare Adriatico) ecc. Per esempio, mentre una prima volta si scrive \"Azienda provinciale"
+ },
+ {
+  "id": "in-ogni-caso-la-maiuscola-può-essere-usata-solo-per-enti-o-o",
+  "level": 5,
+  "title": "In ogni caso la maiuscola può essere usata solo per enti o organi che, all'interno di un ordinamento, hanno carattere di unicità, così da essere percepiti come nomi propri, dal punto di vista di quell'ordinamento. Quindi non per qualsiasi denominazione riferibile a un soggetto o a una struttura precisa (ufficio ecc.), dato che, altrimenti, l'uso delle maiuscole si"
+ },
+ {
+  "id": "comma-1-lettera-c-le-virgolette-si-usano-anche-per-racchiude",
+  "level": 5,
+  "title": "Comma 1, lettera c): le virgolette si usano anche per racchiudere un termine di cui viene data la definizione (ad esempio: per \"azienda agricola in conversione biologica\""
+ },
+ {
+  "id": "comma-1-lettera-d-si-scrive-trentino-alto-adige-südtirol-in-",
+  "level": 5,
+  "title": "Comma 1, lettera d): si scrive Trentino - Alto Adige/Südtirol. In questo caso il trattino"
+ },
+ {
+  "id": "comma-2-lettera-b-entro-il-1-febbraio-ma-entro-il-primo-gior",
+  "level": 5,
+  "title": "Comma 2, lettera b): \"entro il 1° febbraio\"; ma \"entro il primo giorno del mese"
+ },
+ {
+  "id": "non-indicare-le-cifre-decimali-degli-euro-se-esse-sono-ugual",
+  "level": 5,
+  "title": "Non indicare le cifre decimali degli euro se esse sono uguali a zero (non scrivere 300,00 euro), a meno che la cifra non sia inserita in tabelle a carattere finanziario o simili, dove"
+ },
+ {
+  "id": "comma-1-si-può-usare-la-formula-sentita-la-competente-commis",
+  "level": 5,
+  "title": "Comma 1: si può usare la formula \"sentita la competente commissione permanente del"
+ },
+ {
+  "id": "comma-3-quando-non-è-certo-se-una-competenza-spetta-alla-giu",
+  "level": 5,
+  "title": "Comma 3: quando non è certo se una competenza spetta alla Giunta provinciale (perché non deriva in maniera espressa dallo statuto speciale, ad esempio) o alle sue strutture, la disposizione che attribuisce tale competenza la riferisce genericamente alla"
+ },
+ {
+  "id": "si-indica-l-oggetto-delle-disposizioni-intruse-normalmente-r",
+  "level": 5,
+  "title": "Si indica l'oggetto delle disposizioni intruse, normalmente, ricordando fra parentesi la rubrica dell'articolo (o dell'altra partizione citata), dopo il suo numero identificativo. Ad esempio: \"previsto dall'articolo 55 (Rubrica dell'articolo, in quanto significativa) della legge"
+ },
+ {
+  "id": "l-oggetto-è-ricordato-solo-la-prima-volta-che-si-cita-un-att",
+  "level": 5,
+  "title": "L'oggetto è ricordato solo la prima volta che si cita un atto o una disposizione: e cioè nella rubrica oppure (se la rubrica non contiene citazioni) nei commi. Questo criterio vale"
+ },
+ {
+  "id": "anche-per-le-forme-semplificate-di-citazione-contenute-nell-",
+  "level": 5,
+  "title": "anche per le forme semplificate di citazione contenute nell'allegato A. In atti disomogenei come le leggi finanziarie, però, l'oggetto è ricordato nuovamente, a meno che le citazioni"
+ },
+ {
+  "id": "nelle-novelle-per-stabilire-qual-è-la-prima-citazione-non-si",
+  "level": 5,
+  "title": "Nelle novelle, per stabilire qual è la prima citazione non si fa riferimento all'atto"
+ },
+ {
+  "id": "non-si-possono-indicare-data-e-numero-dell-atto-cui-si-rinvi",
+  "level": 5,
+  "title": "Non si possono indicare data e numero dell'atto cui si rinvia:"
+ },
+ {
+  "id": "in-questi-casi-per-rendere-inequivoco-il-rinvio-si-usa-la-fo",
+  "level": 5,
+  "title": "In questi casi, per rendere inequivoco il rinvio si usa la formula: legge provinciale"
+ },
+ {
+  "id": "esempi-e-spiegazioni",
+  "level": 5,
+  "title": "Esempi e spiegazioni"
+ },
+ {
+  "id": "si-cita-così-la-riga-scuole-musicali-della-tabella-inclusa-n",
+  "level": 5,
+  "title": "Si cita così: \"… la riga 'scuole musicali' della tabella inclusa nella lettera D) dell'allegato A della deliberazione della Giunta provinciale 7 novembre 2008, n. 2920, in materia di contributi previsti dalla legge provinciale 30 luglio 1987, n. 12 (Programmazione"
+ },
+ {
+  "id": "non-citare-le-partizioni-inferiori-al-comma-usando-il-termin",
+  "level": 5,
+  "title": "Non citare le partizioni inferiori al comma usando il termine \"punto\" al posto dei"
+ },
+ {
+  "id": "esempi-e-spiegazioni-si-fa-un-sommario-quando-l-atto-è-divis",
+  "level": 5,
+  "title": "Esempi e spiegazioni Si fa un sommario quando l'atto è diviso in partizioni rubricate superiori all'articolo o in più di quattro articoli rubricati. Se l'atto contiene disposizioni intruse che non sono"
+ },
+ {
+  "id": "comma-1-inserire-nel-titolo-elementi-sufficienti-perché-gli-",
+  "level": 5,
+  "title": "Comma 1: inserire nel titolo elementi sufficienti perché gli interessati siano indotti a"
+ },
+ {
+  "id": "nel-titolo-comunque-si-usano-le-poche-parole-necessarie-per-",
+  "level": 5,
+  "title": "Nel titolo, comunque, si usano le poche parole necessarie per identificare l'oggetto dell'atto, senza aggiungere - se possibile - anticipazioni sui fini (ad esempio: promozione e"
+ },
+ {
+  "id": "comma-2-gli-atti-provinciali-che-disciplinano-in-maniera-org",
+  "level": 5,
+  "title": "Comma 2: gli atti provinciali che disciplinano in maniera organica una materia sono corredati da un titolo breve. Quando si approvano atti di questo tipo un apposito comma indica il titolo breve e stabilisce che nelle citazioni successive dell'atto in questione si usa il"
+ },
+ {
+  "id": "se-un-nuovo-atto-abroga-un-atto-che-aveva-lo-stesso-titolo-b",
+  "level": 5,
+  "title": "Se un nuovo atto abroga un atto che aveva lo stesso titolo breve il nuovo titolo breve indica anche l'anno di promulgazione del nuovo atto. Ad esempio: \"3. Questa legge è citata"
+ },
+ {
+  "id": "quando-si-cita-un-atto-fornito-di-titolo-breve-la-formula-in",
+  "level": 5,
+  "title": "Quando si cita un atto fornito di titolo breve la formula integrale di citazione prescritta dall'allegato A non è accompagnata dal titolo completo dell'atto, ma dal titolo breve. Nelle citazioni successive (e in quelle incluse nel titolo dell'atto) si usa solo il titolo breve, senza ricordare gli estremi dell'atto (data e numero). Per esempio: prima citazione \"legge provinciale 24 ottobre 2006, n. 7 (legge provinciale sulle cave)\"; citazioni successive"
+ },
+ {
+  "id": "in-atti-disomogenei-come-le-leggi-finanziarie-però-la-formul",
+  "level": 5,
+  "title": "In atti disomogenei come le leggi finanziarie, però, la formula integrale di citazione (con titolo breve) è sempre adottata, a meno che le citazioni non si ripetano in un articolo o"
+ },
+ {
+  "id": "la-regola-vale-quando-l-atto-riguarda-esclusivamente-la-dire",
+  "level": 5,
+  "title": "La regola vale quando l'atto riguarda esclusivamente la diretta trasposizione nell'ordinamento provinciale della normativa comunitaria, ma non quando disciplina in"
+ },
+ {
+  "id": "esempi-e-spiegazioni-2",
+  "level": 5,
+  "title": "Esempi e spiegazioni"
+ },
+ {
+  "id": "un-articolo-non-dovrebbe-contenere-più-di-dieci-commi-quando",
+  "level": 5,
+  "title": "Un articolo non dovrebbe contenere più di dieci commi. Quando ne contiene di più"
+ },
+ {
+  "id": "esempi-e-spiegazioni-3",
+  "level": 5,
+  "title": "Esempi e spiegazioni"
+ },
+ {
+  "id": "esempi-e-spiegazioni-se-l-atto-contiene-un-solo-allegato-ric",
+  "level": 5,
+  "title": "Esempi e spiegazioni Se l'atto contiene un solo allegato, ricordato nel suo art. 23, esso va intestato come"
+ },
+ {
+  "id": "a-meno-che-l-articolo-non-sia-molto-lungo-o-che-i-suoi-commi",
+  "level": 5,
+  "title": "A meno che l'articolo non sia molto lungo o che i suoi commi non rinviino a diversi"
+ },
+ {
+  "id": "esempi-e-spiegazioni-4",
+  "level": 5,
+  "title": "Esempi e spiegazioni"
+ },
+ {
+  "id": "non-inserire-in-una-legge-disposizioni-particolareggiate-che",
+  "level": 5,
+  "title": "Non inserire in una legge disposizioni particolareggiate che potrebbero essere incluse"
+ },
+ {
+  "id": "nella-parte-introduttiva-di-un-atto-non-parafrasare-il-titol",
+  "level": 5,
+  "title": "Nella parte introduttiva di un atto non parafrasare il titolo; piuttosto dare informazioni - non comprese nel titolo per concisione - per consentire ai destinatari di"
+ },
+ {
+  "id": "se-si-vuol-differire-l-efficacia-di-alcune-disposizioni-a-un",
+  "level": 5,
+  "title": "Se si vuol differire l'efficacia di alcune disposizioni a una data posteriore all'entrata in"
+ },
+ {
+  "id": "la-decorrenza-o-scadenza-d-efficacia-di-singole-disposizioni",
+  "level": 5,
+  "title": "La decorrenza o scadenza d'efficacia di singole disposizioni può essere collocata, oltre"
+ },
+ {
+  "id": "l-entrata-in-vigore-non-può-essere-fissata-nel-passato-l-eff",
+  "level": 5,
+  "title": "L'entrata in vigore non può essere fissata nel passato (l'efficacia retroattiva è una cosa"
+ },
+ {
+  "id": "quanto-alla-nascita-dell-atto-usare-questa-terminologia",
+  "level": 5,
+  "title": "Quanto alla nascita dell'atto, usare questa terminologia:"
+ },
+ {
+  "id": "disposizioni-recepite-da-altri-ordinamenti-o-quando-non-è-in",
+  "level": 5,
+  "title": "disposizioni recepite da altri ordinamenti, o quando non è in questione l'efficacia delle disposizioni tout court, ma la loro applicabilità a determinate"
+ },
+ {
+  "id": "non-riprodurre-o-parafrasare-principi-o-norme-di-grado-super",
+  "level": 5,
+  "title": "Non riprodurre o parafrasare principi o norme di grado superiore o di competenza di un altro soggetto: non solo per non far nascere problemi di (illegittima) novazione della fonte, ma anche perché qualsiasi divergenza dall'originale può far sorgere problemi interpretativi. Per lo stesso motivo, non scrivere disposizioni confermative di una norma"
+ },
+ {
+  "id": "dato-che-i-rinvii-sono-formali-salvo-espressa-previsione-del",
+  "level": 5,
+  "title": "Dato che i rinvii sono formali - salvo espressa previsione del legislatore -, nei rinvii ad"
+ },
+ {
+  "id": "esempi-e-spiegazioni-si-cita-così-l-articolo-30-del-decreto-",
+  "level": 5,
+  "title": "Esempi e spiegazioni Si cita così: \" … l'articolo 30 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445 (Testo unico delle disposizioni legislative e regolamentari in materia di"
+ },
+ {
+  "id": "esempi-e-spiegazioni-si-usa-il-termine-inserire-nella-rubric",
+  "level": 5,
+  "title": "Esempi e spiegazioni Si usa il termine \"inserire\", nella rubrica e nell'alinea, quando il nuovo comma, le nuove parole o simili sono collocate alla fine, nel mezzo o all'inizio della partizione"
+ },
+ {
+  "id": "esempi-e-spiegazioni-il-comma-1-riguarda-le-modificazioni-in",
+  "level": 5,
+  "title": "Esempi e spiegazioni Il comma 1 riguarda le modificazioni in senso lato: quindi anche le proroghe e le"
+ },
+ {
+  "id": "comma-2-lettera-b-parti-del-testo-sono-le-sue-partizioni-for",
+  "level": 5,
+  "title": "Comma 2, lettera b): parti del testo sono le sue partizioni formali, individuate nei"
+ },
+ {
+  "id": "esempi-e-spiegazioni-quando-un-atto-ridisciplinando-in-manie",
+  "level": 5,
+  "title": "Esempi e spiegazioni Quando un atto, ridisciplinando in maniera organica una materia, abroga gli atti che"
+ },
+ {
+  "id": "lo-stesso-criterio-vale-per-le-modificazioni-di-altri-atti-s",
+  "level": 5,
+  "title": "Lo stesso criterio vale per le modificazioni di altri atti strettamente riconducibili al contenuto principale del nuovo atto, espresso dal titolo. Le disposizioni intruse formulate"
+ },
+ {
+  "id": "quando-le-modificazioni-sono-numerose-per-non-allungare-trop",
+  "level": 5,
+  "title": "Quando le modificazioni sono numerose, per non allungare troppo il titolo se ne riassume l'oggetto (ad esempio: \"in materia di urbanistica\"). Se sono numerosissime (per un esempio vedi la l.p. n. 3 del 1996) si usano formule come \"e modifiche a disposizioni provinciali connesse\". In casi del genere le modificazioni devono essere collocate in appositi"
+ },
+ {
+  "id": "esempi-e-spiegazioni-se-uno-o-più-atti-base-che-disciplinano",
+  "level": 5,
+  "title": "Esempi e spiegazioni Se uno o più atti base che disciplinano una materia sono stati modificati più volte e in più punti da diversi altri atti è opportuno riunire gli atti base e le modificazioni in un testo"
+ },
+ {
+  "id": "i-testi-unici-sono-approvati-con-atti-di-forza-pari-agli-att",
+  "level": 5,
+  "title": "I testi unici sono approvati con atti di forza pari agli atti unificati; abrogano"
+ },
+ {
+  "id": "per-scrivere-un-testo-unico-si-compiono-preliminarmente-ques",
+  "level": 5,
+  "title": "Per scrivere un testo unico si compiono preliminarmente queste operazioni, che non modificano sostanzialmente le disposizioni unificate:"
+ },
+ {
+  "id": "o-in-relazione-a-una-nuova-ripartizione-di-competenze-deriva",
+  "level": 5,
+  "title": "o in relazione a una nuova ripartizione di competenze derivante da altre"
+ },
+ {
+  "id": "disposizioni-collegate-che-siano-tacitamente-abrogate-o-comu",
+  "level": 5,
+  "title": "disposizioni collegate che siano tacitamente abrogate o comunque non più"
+ },
+ {
+  "id": "esempi-e-spiegazioni-non-scrivere-in-un-atto-modificativo-di",
+  "level": 5,
+  "title": "Esempi e spiegazioni Non scrivere in un atto modificativo disposizioni sostanziali autonome che non s'inseriscono nell'atto modificato, se il contenuto principale dell'atto è la modifica di altri atti. Se l'atto contiene limitate modifiche connesse alle altre sue disposizioni, invece, le"
+ },
+ {
+  "id": "esempi-e-spiegazioni-il-comma-6-vale-quando-si-sostituisce-u",
+  "level": 5,
+  "title": "Esempi e spiegazioni Il comma 6 vale quando si sostituisce un intero articolo; negli altri casi i commi"
+ },
+ {
+  "id": "lettera-b-sulla-implicita-modificazione-della-sequenza-origi",
+  "level": 5,
+  "title": "lettera b), sulla (implicita) modificazione della sequenza originale dei commi, anche in"
+ },
+ {
+  "id": "l-espressione-da-sostituire-racchiusa-fra-virgolette-dev-ess",
+  "level": 5,
+  "title": "L'espressione da sostituire (racchiusa fra virgolette) dev'essere individuata con precisione: tenendo conto, ad esempio, delle varianti derivanti dal plurale, dall'uso di preposizioni ecc. E' possibile farlo con una ricerca informatica. Inoltre bisogna indicare le"
+ },
+ {
+  "id": "una-disposizione-come-i-rinvii-alla-disposizione-x-s-intendo",
+  "level": 5,
+  "title": "una disposizione come \"i rinvii alla disposizione x s'intendono rivolti alle corrispondenti disposizioni di questa legge\". Questa disposizione dovrebbe essere formulata come modifica testuale, individuando con precisione le disposizioni di rinvio e la nuova disposizione"
+ },
+ {
+  "id": "esempi-e-spiegazioni-non-occorre-abrogare-singole-disposizio",
+  "level": 5,
+  "title": "Esempi e spiegazioni Non occorre abrogare singole disposizioni a termine comprese in un atto che non è"
+ },
+ {
+  "id": "viceversa-non-eccettuare-dall-abrogazione-disposizioni-che-c",
+  "level": 5,
+  "title": "Viceversa, non eccettuare dall'abrogazione disposizioni che contengono un termine già"
+ },
+ {
+  "id": "esempi-e-spiegazioni-5",
+  "level": 5,
+  "title": "Esempi e spiegazioni"
+ },
+ {
+  "id": "esempi-e-spiegazioni-comma-2-non-abrogare-le-disposizioni-mo",
+  "level": 5,
+  "title": "Esempi e spiegazioni Comma 2: non abrogare le disposizioni modificative di atti in vigore comprese in atti"
+ },
+ {
+  "id": "comma-4-la-clausola-in-particolare-è-inutile-di-norma-perché",
+  "level": 5,
+  "title": "Comma 4: la clausola \"in particolare\" è inutile, di norma, perché il meccanismo dell'abrogazione tacita non dipende dal suo utilizzo. Può essere usata, in via del tutto"
+ },
+ {
+  "id": "comma-5-quanto-alla-morte-di-un-atto-o-di-una-disposizione-u",
+  "level": 5,
+  "title": "Comma 5: quanto alla morte di un atto o di una disposizione, usare questa terminologia:"
+ },
+ {
+  "id": "future-si-usano-parole-derivanti-dal-concetto-di-abrogazione",
+  "level": 5,
+  "title": "future si usano parole derivanti dal concetto di abrogazione. Le disposizioni transitorie possono dettare regole particolari per fattispecie non esaurite, senza che ne sia pregiudicato l'uso del termine"
+ },
+ {
+  "id": "nell-ordinamento-provinciale-si-usano-parole-derivanti-dal-c",
+  "level": 5,
+  "title": "nell'ordinamento provinciale si usano parole derivanti dal concetto di cessata applicabilità, dato che l'atto potrebbe essere ancora vigente in"
+ },
+ {
+  "id": "solo-per-introdurre-una-deroga-cioè-per-dire-che-certe-dispo",
+  "level": 5,
+  "title": "solo per introdurre una deroga, cioè per dire che certe disposizioni non si"
+ },
+ {
+  "id": "esempi-di-formule-abrogative",
+  "level": 5,
+  "title": "Esempi di formule abrogative"
+ },
+ {
+  "id": "1-sono-abrogati",
+  "level": 5,
+  "title": "\"1. Sono abrogati:"
+ },
+ {
+  "id": "2092-91-relativo-al-metodo-di-produzione-biologico-di-prodot",
+  "level": 5,
+  "title": "2092/91 relativo al metodo di produzione biologico di prodotti agricoli) della"
+ },
+ {
+  "id": "articolo-modifica-testualmente-il-precedente-come-si-vede-da",
+  "level": 5,
+  "title": "articolo modifica testualmente il precedente.) Come si vede dall'esempio, contestualmente alla disposizione base si abrogano le disposizioni che l'hanno modificata, tranne quelle a contenuto meramente abrogativo incluse in articoli che contengono altre disposizioni (modifiche di articoli non abrogati, ecc.)"
+ },
+ {
+  "id": "quando-si-abrogano-partizioni-inferiori-all-articolo-non-si-",
+  "level": 5,
+  "title": "Quando si abrogano partizioni inferiori all'articolo non si abrogano le relative"
+ },
+ {
+  "id": "le-partizioni-abrogate-sono-indicate-in-ordine-crescente-e-c",
+  "level": 5,
+  "title": "Le partizioni abrogate sono indicate in ordine crescente, e cioè così: \"1. E' abrogata la lettera c) del comma 2 dell'articolo 16 della legge provinciale 31 agosto 1981, n. 17.\""
+ },
+ {
+  "id": "1-sono-abrogate",
+  "level": 5,
+  "title": "\"1. Sono abrogate:"
+ },
+ {
+  "id": "lettera-b-modifica-la-legge-abrogata-dalla-lettera-a-alcune-",
+  "level": 5,
+  "title": "lettera b) modifica la legge abrogata dalla lettera a); alcune modificazioni hanno contenuto abrogativo. Inoltre è importante rendere palese la complessiva abrogazione della l.p. n. 31 del 1982.) Se leggi precedenti hanno già abrogato partizioni formali (articoli, capi, ecc.) di una legge che si vuole abrogare per intero si può limitare l'abrogazione alle partizioni non ancora abrogate. Lo si fa, in particolare, quando sono già state abrogate partizioni di rilievo: ad esempio, se di una legge divisa in tre capi è già stato abrogato il capo I basterà"
+ },
+ {
+  "id": "1-sono-abrogate-2",
+  "level": 5,
+  "title": "\"1. Sono abrogate:"
+ },
+ {
+  "id": "integrazioni-alle-norme-concernenti-la-classificazione-ed-i-",
+  "level": 5,
+  "title": "integrazioni alle norme concernenti la classificazione ed i prezzi degli esercizi alberghieri e degli esercizi di affittacamere e disciplina degli alberghi-rifugio e"
+ },
+ {
+  "id": "leggi-provinciali-n-23-del-1981-e-n-12-del-1984-sono-abrogat",
+  "level": 5,
+  "title": "leggi provinciali n. 23 del 1981 e n. 12 del 1984 sono abrogate dalle lettere a) ed e). Le modifiche alla legge provinciale n. 23 del 1981 sono abrogate dalle lettere b), c), d), f), g), i). Le modifiche alla legge provinciale n. 12 del 1984 sono abrogate dalle lettere h) e j).)"
+ },
+ {
+  "id": "si-può-ricordare-ogni-atto-fondamentale-nella-lettera-di-un-",
+  "level": 5,
+  "title": "si può ricordare ogni atto fondamentale nella lettera di un elenco, le sue modificazioni in un successivo sottoelenco diviso in numeri, in questo modo: \"a)la legge provinciale 10 dicembre 1984, n. 12 (Ulteriori modificazioni ed integrazioni alle norme concernenti la classificazione ed i prezzi degli esercizi alberghieri e degli esercizi di affittacamere e disciplina degli alberghi-rifugio e"
+ },
+ {
+  "id": "anche-se-queste-disposizioni-non-sono-modificazioni-testuali",
+  "level": 5,
+  "title": "Anche se queste disposizioni non sono modificazioni testuali bisogna abrogarle"
+ },
+ {
+  "id": "1-sono-abrogate-le-seguenti-disposizioni",
+  "level": 5,
+  "title": "\"1. Sono abrogate le seguenti disposizioni:"
+ },
+ {
+  "id": "articoli-da-1-a-25-della-legge-provinciale-n-27-del-1987-mod",
+  "level": 5,
+  "title": "articoli da 1 a 25 della legge provinciale n. 27 del 1987 modificano testualmente la legge provinciale n. 17 del 1981; gli articoli 38 e 39 dettano altre disposizioni connesse a questa legge. Bisogna notare che se la formula abrogativa dicesse \"come modificata dalla legge provinciale 20 novembre 1987, n. 27\", come poteva accadere in passato, ci si potrebbe chiedere se gli articoli 38 e 39 sono abrogati oppure se sono ancora applicabili, in connessione con le disposizioni della legge abrogativa della legge provinciale n. 17 del 1981 che regolano il medesimo argomento.)"
+ },
+ {
+  "id": "esempi-e-spiegazioni-6",
+  "level": 5,
+  "title": "Esempi e spiegazioni"
+ },
+ {
+  "id": "le-disposizioni-transitorie-talora-possono-essere-utilmente-",
+  "level": 5,
+  "title": "Le disposizioni transitorie, talora, possono essere utilmente formulate come integrazioni dell'articolo o dell'atto modificato (anche integrando le disposizioni transitorie che esso conteneva). Per esempio: \"1. Dopo il comma 4 dell'articolo 10 della legge provinciale 8 maggio 2000, n. 4, è inserito il seguente: '4 bis. Nel 2007 i comuni possono individuare la quinta domenica o festività entro quindici giorni dalla data di entrata in vigore di questo comma.'\" Le interpretazioni autentiche sono formulabili come integrazioni retroattive (non"
+ },
+ {
+  "id": "esempi-e-spiegazioni-7",
+  "level": 5,
+  "title": "Esempi e spiegazioni"
+ },
+ {
+  "id": "per-facilitare-la-ricerca-e-la-comprensione-dei-testi-ai-sen",
+  "level": 5,
+  "title": "Per facilitare la ricerca e la comprensione dei testi, ai sensi del paragrafo 35, comma 7:"
+ },
+ {
+  "id": "caso-di-citazioni-distanziate-di-poco-l-una-dall-altra-indic",
+  "level": 5,
+  "title": "caso di citazioni distanziate di poco l'una dall'altra (indicativamente: collocate nello stesso articolo o in articoli adiacenti), o di citazioni ripetute lungo tutto un atto. In atti disomogenei come le leggi finanziarie, viceversa, si usa sempre la forma integrale di citazione, a meno che le citazioni non si ripetano in un"
+ },
+ {
+  "id": "se-si-sostituisce-un-comma-non-numerato-vedi-lettera-a-numer",
+  "level": 5,
+  "title": "Se si sostituisce un comma non numerato (vedi lettera a, numero 3) o si aggiunge un comma a un articolo con commi non numerati (vedi lettera b, numero 2.4) non bisogna"
+ },
+ {
+  "id": "negli-esempi-interregionali-sono-citate-le-modificazioni-suc",
+  "level": 5,
+  "title": "Negli esempi interregionali sono citate le modificazioni successive degli atti da modificare. In base agli esempi e spiegazioni relative al paragrafo 61, a livello provinciale"
+ },
+ {
+  "id": "titoli-brevi-delle-leggi-provinciali",
+  "level": 2,
+  "title": "- Titoli brevi delle leggi provinciali -"
+ },
+ {
+  "id": "formule-standard",
+  "level": 5,
+  "title": "FORMULE STANDARD"
+ },
+ {
+  "id": "per-la-redazione-di-atti-normativi",
+  "level": 5,
+  "title": "PER LA REDAZIONE DI ATTI NORMATIVI"
+ },
+ {
+  "id": "indice-2",
+  "level": 5,
+  "title": "Indice"
+ },
+ {
+  "id": "premessa",
+  "level": 5,
+  "title": "Premessa"
+ },
+ {
+  "id": "iter-dei-disegni-di-legge-e-delle-leggi-e-regole-per-la-form",
+  "level": 3,
+  "title": "ITER DEI DISEGNI DI LEGGE E DELLE LEGGI E REGOLE PER LA FORMATTAZIONE DEI TESTI"
+ },
+ {
+  "id": "iter-di-un-disegno-di-legge-legge",
+  "level": 4,
+  "title": "ITER DI UN DISEGNO DI LEGGE – LEGGE"
+ },
+ {
+  "id": "fare-attenzione-ai-seguenti-casi",
+  "level": 3,
+  "title": "Fare attenzione ai seguenti casi:"
+ },
+ {
+  "id": "regole-per-la-formattazione-dei-testi-ddl-e-leggi",
+  "level": 5,
+  "title": "REGOLE PER LA FORMATTAZIONE DEI TESTI DDL E LEGGI"
+ },
+ {
+  "id": "disegno-di-legge-10-dicembre-2018-n-1",
+  "level": 3,
+  "title": "DISEGNO DI LEGGE 10 dicembre 2018, n. 1"
+ },
+ {
+  "id": "modificazioni-della-legge-provinciale-sulla",
+  "level": 5,
+  "title": "Modificazioni della legge provinciale sulla"
+ },
+ {
+  "id": "disegno-di-legge-n-stile-estremi-atto",
+  "level": 5,
+  "title": "DISEGNO DI LEGGE ……, n. (stile: \"Estremi atto\")"
+ },
+ {
+  "id": "legge-provinciale-n-stile-estremi-atto",
+  "level": 3,
+  "title": "LEGGE PROVINCIALE , n. (stile: \"Estremi atto\")"
+ },
+ {
+  "id": "esempio-1",
+  "level": 5,
+  "title": "esempio 1:"
+ },
+ {
+  "id": "disegno-di-legge-n",
+  "level": 3,
+  "title": "DISEGNO DI LEGGE ……, n."
+ },
+ {
+  "id": "titolo",
+  "level": 5,
+  "title": "<Titolo>"
+ },
+ {
+  "id": "legge-provinciale-n",
+  "level": 3,
+  "title": "LEGGE PROVINCIALE , n."
+ },
+ {
+  "id": "titolo-2",
+  "level": 5,
+  "title": "<Titolo>"
+ },
+ {
+  "id": "testo-di-legge-della-provincia-di-trento-approvata-a-norma-d",
+  "level": 3,
+  "title": "Testo di legge della Provincia di Trento approvata a norma dell'articolo 47 dello Statuto speciale di autonomia del Trentino - Alto"
+ },
+ {
+  "id": "approvato-dal-consiglio-della-provincia-autonoma-di-trento-c",
+  "level": 3,
+  "title": "Approvato dal Consiglio della Provincia autonoma di Trento con la maggioranza dei due terzi dei componenti del Consiglio provinciale nella seduta di data gg mese anno. Entro tre mesi, un quindicesimo degli aventi diritto al voto per l'elezione del Consiglio provinciale (corrispondente a ….. elettori) possono chiedere che si proceda a referendum popolare."
+ },
+ {
+  "id": "titolo-3",
+  "level": 5,
+  "title": "<Titolo>"
+ },
+ {
+  "id": "formule-di-rito-testo-licenziato-dalla-commissione",
+  "level": 3,
+  "title": "Formule di rito testo licenziato dalla Commissione"
+ },
+ {
+  "id": "caso-di-disegno-di-legge-respinto-in-aula-dopo-l-esame-dell-",
+  "level": 5,
+  "title": "Caso di disegno di legge respinto in aula dopo l'esame dell'articolato in sede di votazione finale"
+ },
+ {
+  "id": "nel-testo-licenziato-dalla-commissione-sostituire-la-formula",
+  "level": 5,
+  "title": "Nel testo licenziato dalla commissione sostituire la formula di rito con la seguente:"
+ },
+ {
+  "id": "criteri-per-la-stesura-delle-note-agli-atti-normativi-provin",
+  "level": 2,
+  "title": "CRITERI PER LA STESURA DELLE NOTE AGLI ATTI NORMATIVI PROVINCIALI"
+ },
+ {
+  "id": "1-premessa",
+  "level": 3,
+  "title": "1. Premessa"
+ },
+ {
+  "id": "2-criteri-sostanziali",
+  "level": 3,
+  "title": "2. Criteri sostanziali"
+ },
+ {
+  "id": "3-criteri-formali",
+  "level": 3,
+  "title": "3. Criteri formali"
+ },
+ {
+  "id": "nota",
+  "level": 5,
+  "title": "Nota"
+ },
+ {
+  "id": "nota-all-articolo-7",
+  "level": 5,
+  "title": "Nota all'articolo 7"
+ },
+ {
+  "id": "nota-all-articolo-1",
+  "level": 5,
+  "title": "Nota all'articolo 1"
+ },
+ {
+  "id": "nota-all-articolo-6",
+  "level": 5,
+  "title": "Nota all'articolo 6"
+ },
+ {
+  "id": "nota-all-articolo-12",
+  "level": 5,
+  "title": "Nota all'articolo 12"
+ },
+ {
+  "id": "nota-all-articolo-24",
+  "level": 5,
+  "title": "Nota all'articolo 24"
+ },
+ {
+  "id": "nota-all-articolo-32",
+  "level": 5,
+  "title": "Nota all'articolo 32"
+ },
+ {
+  "id": "reg-delib-n-66-prot-n-10321",
+  "level": 4,
+  "title": "Reg. delib. n. 66 Prot. n. 10321"
+ },
+ {
+  "id": "verbale-di-deliberazione-dell-ufficio-di-presidenza",
+  "level": 4,
+  "title": "VERBALE DI DELIBERAZIONE DELL'UFFICIO DI PRESIDENZA"
+ },
+ {
+  "id": "oggetto-adozione-della-nuova-edizione-delle-regole-e-suggeri",
+  "level": 4,
+  "title": "Oggetto: adozione della nuova edizione delle “Regole e suggerimenti per la redazione dei testi normativi”"
+ },
+ {
+  "id": "il-giorno-3-novembre-2009-ad-ore-9-35-si-è-riunito-a-trento-",
+  "level": 4,
+  "title": "Il giorno 3 novembre 2009 ad ore 9.35 si è riunito a Trento presso il palazzo della Regione Trentino - Alto Adige"
+ },
+ {
+  "id": "l-ufficio-di-presidenza",
+  "level": 4,
+  "title": "L'UFFICIO DI PRESIDENZA"
+ },
+ {
+  "id": "presenti-il-presidente-giovanni-kessler-il-vicepresidente-cl",
+  "level": 4,
+  "title": "Presenti: il presidente Giovanni Kessler il vicepresidente Claudio Eccher i segretari questori Renzo Anderle Pino Morandini Alessandro Savoi"
+ },
+ {
+  "id": "interviene-il-dirigente-generale-gianfranco-postal-che-redig",
+  "level": 4,
+  "title": "Interviene il dirigente generale Gianfranco Postal che redige il verbale della deliberazione."
+ },
+ {
+  "id": "il-presidente-constatato-il-numero-legale-degli-intervenuti-",
+  "level": 4,
+  "title": "Il presidente, constatato il numero legale degli intervenuti, dichiara aperta la seduta."
+ },
+ {
+  "id": "l-ufficio-di-presidenza-2",
+  "level": 4,
+  "title": "L'UFFICIO DI PRESIDENZA"
+ },
+ {
+  "id": "vista-la-deliberazione-dell-ufficio-di-presidenza-del-consig",
+  "level": 4,
+  "title": "vista la deliberazione dell'ufficio di presidenza del consiglio provinciale 3 agosto 1993, n. 70, che ha adottato le \"Regole e suggerimenti per la redazione dei testi normativi\", elaborate dall'osservatorio legislativo interregionale;"
+ },
+ {
+  "id": "vista-la-deliberazione-dell-ufficio-di-presidenza-del-consig-2",
+  "level": 4,
+  "title": "vista la deliberazione dell'ufficio di presidenza del consiglio provinciale 12 dicembre 2002, n. 112, che ha adottato la seconda edizione delle \"Regole e suggerimenti per la redazione dei testi normativi\";"
+ },
+ {
+  "id": "visto-che-nel-2007-l-osservatorio-legislativo-interregionale",
+  "level": 4,
+  "title": "visto che nel 2007 l'osservatorio legislativo interregionale ha rielaborato queste regole alla luce delle esigenze di chiarezza e semplificazione del linguaggio normativo messe in luce da alcuni seminari organizzati dalla conferenza dei presidenti delle assemblee delle regioni e delle province autonome, e che la stessa conferenza ha fatto propria la terza edizione del documento in parola, nella sua seduta del 18 febbraio 2008;"
+ },
+ {
+  "id": "considerato-che-gli-uffici-del-consiglio-provinciale-hanno-a",
+  "level": 4,
+  "title": "considerato che gli uffici del Consiglio provinciale hanno avuto modo di dare il loro contributo a tutte le edizioni del documento in questione, in modo che si tenesse conto dei problemi sorti nella prassi della provincia di Trento;"
+ },
+ {
+  "id": "visto-che-gli-uffici-consiliari-hanno-lavorato-sulle-regole-",
+  "level": 4,
+  "title": "visto che gli uffici consiliari hanno lavorato sulle regole in parola, preparando i funzionari a usarle e integrandole con indicazioni volte a standardizzarne l'applicazione in provincia, e condivisa l'utilità di tale lavoro;"
+ },
+ {
+  "id": "acquisito-l-assenso-informale-del-presidente-della-provincia",
+  "level": 4,
+  "title": "acquisito l'assenso informale del Presidente della Provincia, in vista dell'adozione concordata delle regole e delle indicazioni sulla loro applicazione; condivisa l'esigenza di vincolare la stesura dei testi normativi all'utilizzo di regole sperimentate e uniformi, come quelle espresse nel documento in questione, anche per garantire che le leggi abbiano una forma standardizzata, per facilitarne l'interpretazione, la comprensione e la divulgazione;"
+ },
+ {
+  "id": "ritenuto-opportuno-inserire-il-recepimento-delle-regole-in-u",
+  "level": 4,
+  "title": "ritenuto opportuno inserire il recepimento delle regole in un quadro organico di misure, comprendente la revisione dei criteri per la redazione delle note esplicative che accompagnano i provvedimenti, delle modalità di formattazione dei testi normativi e - in prospettiva - l'adozione di formule standard destinate a facilitarne la formulazione, anche a vantaggio della loro conoscibilità;"
+ },
+ {
+  "id": "considerata-la-rilevanza-minuta-o-meramente-indicativa-di-qu",
+  "level": 4,
+  "title": "considerata la rilevanza minuta o meramente indicativa di queste ultime misure, che pure in passato sono state adottate in forme tali da garantire modalità elastiche di revisione;"
+ },
+ {
+  "id": "ad-unanimità-dei-voti-legalmente-espressi",
+  "level": 4,
+  "title": "ad unanimità dei voti legalmente espressi;"
+ },
+ {
+  "id": "d-e-l-i-b-e-r-a",
+  "level": 4,
+  "title": "d e l i b e r a"
+ },
+ {
+  "id": "1-di-adottare-la-nuova-edizione-delle-regole-e-suggerimenti-",
+  "level": 4,
+  "title": "1. di adottare la nuova edizione delle \"Regole e suggerimenti per la redazione dei testi normativi\", allegate a questa deliberazione, e di stabilire che questo documento sia utilizzato dagli organi e dagli uffici consiliari;"
+ },
+ {
+  "id": "2-di-adottare-le-integrazioni-delle-regole-in-parola-evidenz",
+  "level": 4,
+  "title": "2. di adottare le integrazioni delle regole in parola evidenziate in calce ad esse, nel testo allegato, per standardizzarne l'applicazione in provincia di Trento, e di dare atto che queste integrazioni, in ragione del loro carattere tecnico e puntuale, potranno essere modificate senza che sia necessaria una nuova deliberazione dell'ufficio di presidenza, d'accordo fra le strutture interessate, alla luce delle esigenze sorte nella loro applicazione;"
+ },
+ {
+  "id": "3-d-incaricare-il-presidente-del-consiglio-perché-dia-dirett",
+  "level": 4,
+  "title": "3. d'incaricare il Presidente del Consiglio perché dia direttive agli uffici consiliari sull'applicazione puntuale di questo documento, e di raccomandarne il rispetto ai titolari del potere d'iniziativa legislativa;"
+ },
+ {
+  "id": "4-d-invitare-il-presidente-del-consiglio-e-i-presidenti-di-c",
+  "level": 4,
+  "title": "4. d'invitare il Presidente del Consiglio e i presidenti di commissione ad applicare questo documento nell'esercizio dei loro poteri di coordinamento dei testi, ai sensi degli articoli 121 e 104 del regolamento interno;"
+ },
+ {
+  "id": "5-di-stabilire-che-questo-documento-a-partire-dal-1-dicembre",
+  "level": 4,
+  "title": "5. di stabilire che questo documento, a partire dal 1° dicembre 2009, sostituisce quello precedentemente adottato con deliberazione dell'ufficio di presidenza 12 dicembre 2002, n. 112;"
+ },
+ {
+  "id": "6-di-adottare-i-criteri-orientativi-per-la-stesura-delle-not",
+  "level": 4,
+  "title": "6. di adottare i \"Criteri orientativi per la stesura delle note agli atti normativi provinciali\" e le \"Regole per la formattazione dei disegni di legge e delle leggi provinciali\", allegate a questa deliberazione, in modo da rivolgere alle strutture del Consiglio un indirizzo organico e unitario sugli aspetti tecnici della produzione normativa, e di dare atto che questi documenti potranno essere modificati senza che sia necessaria una nuova deliberazione dell'ufficio di presidenza, d'accordo fra le strutture interessate;"
+ },
+ {
+  "id": "7-d-incaricare-il-presidente-del-consiglio-di-adottare-e-tra",
+  "level": 4,
+  "title": "7. d'incaricare il Presidente del Consiglio di adottare e trasmettere, in forma coordinata con gli altri documenti, una serie di formule standard per la redazione degli atti normativi, per facilitare e standardizzare l'attività redazionale, pur tenendo conto degli adattamenti dovuti alle singole evenienze e agli indirizzi politici. Adunanza chiusa ad ore 10.00. Approvato e sottoscritto. Il presidente Giovanni Kessler Il verbalizzanteGianfranco Postal"
+ }
+]

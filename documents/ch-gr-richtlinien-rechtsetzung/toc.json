@@ -1,0 +1,737 @@
+[
+ {
+  "id": "kanton-graubünden-chantun-grischun-cantone-dei-grigioni",
+  "level": 4,
+  "title": "Kanton Graubünden Chantun Grischun Cantone dei Grigioni"
+ },
+ {
+  "id": "richtlinien-für-die-rechtsetzung",
+  "level": 2,
+  "title": "Richtlinien für die Rechtsetzung"
+ },
+ {
+  "id": "von-der-regierung-genehmigt-am-16-november-2010-prot-nr-1070",
+  "level": 4,
+  "title": "Von der Regierung genehmigt am 16. November 2010 (Prot. Nr. 1070)"
+ },
+ {
+  "id": "inhaltsverzeichnis",
+  "level": 2,
+  "title": "Inhaltsverzeichnis"
+ },
+ {
+  "id": "1-einleitung-1",
+  "level": 3,
+  "title": "1. Einleitung ........................................................................................................... 1"
+ },
+ {
+  "id": "1-1-zweck-und-adressaten-1",
+  "level": 3,
+  "title": "1.1. Zweck und Adressaten .................................................................................. 1"
+ },
+ {
+  "id": "1-2-neuerungen-1",
+  "level": 3,
+  "title": "1.2. Neuerungen ................................................................................................... 1"
+ },
+ {
+  "id": "1-3-dienstleistungen-der-standeskanzlei-2",
+  "level": 3,
+  "title": "1.3. Dienstleistungen der Standeskanzlei............................................................. 2"
+ },
+ {
+  "id": "2-rechtsetzungsverfahren-2",
+  "level": 3,
+  "title": "2. Rechtsetzungsverfahren ................................................................................... 2"
+ },
+ {
+  "id": "2-1-vorverfahren-2",
+  "level": 3,
+  "title": "2.1. Vorverfahren .................................................................................................. 2"
+ },
+ {
+  "id": "2-1-1-zuständigkeiten-2",
+  "level": 3,
+  "title": "2.1.1. Zuständigkeiten ..................................................................................... 2"
+ },
+ {
+  "id": "2-1-2-terminplan-2",
+  "level": 3,
+  "title": "2.1.2. Terminplan ............................................................................................ 2"
+ },
+ {
+  "id": "2-1-3-rechtsetzungsbegleitung-3",
+  "level": 3,
+  "title": "2.1.3. Rechtsetzungsbegleitung ...................................................................... 3"
+ },
+ {
+  "id": "2-1-4-mitberichtsverfahren-4",
+  "level": 3,
+  "title": "2.1.4. Mitberichtsverfahren .............................................................................. 4"
+ },
+ {
+  "id": "2-1-4-1-formelle-vorprüfung-und-aufsicht-gute-gesetzgebung-4",
+  "level": 3,
+  "title": "2.1.4.1 Formelle Vorprüfung und Aufsicht „Gute Gesetzgebung“ ........ 4"
+ },
+ {
+  "id": "2-1-4-2-regulierungsfolgenabschätzung-rfa-und-kmu-test-4",
+  "level": 3,
+  "title": "2.1.4.2 Regulierungsfolgenabschätzung (RFA) und KMU-Test ........... 4"
+ },
+ {
+  "id": "2-1-4-3-weitere-verfahren-5",
+  "level": 3,
+  "title": "2.1.4.3 Weitere Verfahren .................................................................... 5"
+ },
+ {
+  "id": "2-1-5-vernehmlassungsverfahren-5",
+  "level": 3,
+  "title": "2.1.5. Vernehmlassungsverfahren .................................................................. 5"
+ },
+ {
+  "id": "2-1-6-beschlussfassung-durch-die-regierung-6",
+  "level": 3,
+  "title": "2.1.6. Beschlussfassung durch die Regierung ................................................ 6"
+ },
+ {
+  "id": "2-2-parlamentarisches-verfahren-6",
+  "level": 3,
+  "title": "2.2. Parlamentarisches Verfahren ........................................................................ 6"
+ },
+ {
+  "id": "2-3-referendum-6",
+  "level": 3,
+  "title": "2.3. Referendum ................................................................................................... 6"
+ },
+ {
+  "id": "2-3-1-allgemeines-6",
+  "level": 3,
+  "title": "2.3.1. Allgemeines........................................................................................... 6"
+ },
+ {
+  "id": "2-3-2-abstimmungsbüchlein-7",
+  "level": 3,
+  "title": "2.3.2. Abstimmungsbüchlein ........................................................................... 7"
+ },
+ {
+  "id": "2-3-3-erwahrung-der-abstimmungsresultate-7",
+  "level": 3,
+  "title": "2.3.3. Erwahrung der Abstimmungsresultate .................................................. 7"
+ },
+ {
+  "id": "2-4-publikation-inkrafttreten-und-ausserkrafttreten-7",
+  "level": 3,
+  "title": "2.4. Publikation, Inkrafttreten und Ausserkrafttreten ............................................. 7"
+ },
+ {
+  "id": "2-4-1-publikation-7",
+  "level": 3,
+  "title": "2.4.1. Publikation............................................................................................. 7"
+ },
+ {
+  "id": "2-4-2-inkrafttreten-8",
+  "level": 3,
+  "title": "2.4.2. Inkrafttreten ........................................................................................... 8"
+ },
+ {
+  "id": "2-4-2-1-allgemeines-8",
+  "level": 3,
+  "title": "2.4.2.1 Allgemeines.............................................................................. 8"
+ },
+ {
+  "id": "2-4-2-2-zeitpunkt-des-inkrafttretens-9",
+  "level": 3,
+  "title": "2.4.2.2 Zeitpunkt des Inkrafttretens ...................................................... 9"
+ },
+ {
+  "id": "2-4-3-ausserkrafttreten-9",
+  "level": 3,
+  "title": "2.4.3. Ausserkrafttreten ................................................................................... 9"
+ },
+ {
+  "id": "2-4-3-1-formelle-aufhebung-9",
+  "level": 3,
+  "title": "2.4.3.1 Formelle Aufhebung ................................................................. 9"
+ },
+ {
+  "id": "2-4-3-2-materielle-aufhebung-10",
+  "level": 3,
+  "title": "2.4.3.2 Materielle Aufhebung ............................................................. 10"
+ },
+ {
+  "id": "2-4-3-3-suspendierung-10",
+  "level": 3,
+  "title": "2.4.3.3 Suspendierung ....................................................................... 10"
+ },
+ {
+  "id": "3-grundsätze-für-die-ausgestaltung-der-erlasse-10",
+  "level": 3,
+  "title": "3. Grundsätze für die Ausgestaltung der Erlasse ............................................. 10"
+ },
+ {
+  "id": "3-1-organe-formen-und-stufen-10",
+  "level": 3,
+  "title": "3.1. Organe, Formen und Stufen ........................................................................ 10"
+ },
+ {
+  "id": "3-2-systematik-12",
+  "level": 3,
+  "title": "3.2. Systematik ................................................................................................... 12"
+ },
+ {
+  "id": "3-3-adressatengerechtigkeit-14",
+  "level": 3,
+  "title": "3.3. Adressatengerechtigkeit .............................................................................. 14"
+ },
+ {
+  "id": "3-4-gesetzessprache-14",
+  "level": 3,
+  "title": "3.4. Gesetzessprache......................................................................................... 14"
+ },
+ {
+  "id": "3-4-1-allgemeines-14",
+  "level": 3,
+  "title": "3.4.1. Allgemeines......................................................................................... 14"
+ },
+ {
+  "id": "3-4-2-sprachliche-gleichbehandlung-von-frau-und-mann-15",
+  "level": 3,
+  "title": "3.4.2. Sprachliche Gleichbehandlung von Frau und Mann ............................ 15"
+ },
+ {
+  "id": "3-4-3-dreisprachigkeit-16",
+  "level": 3,
+  "title": "3.4.3. Dreisprachigkeit .................................................................................. 16"
+ },
+ {
+  "id": "3-5-einfügung-neuer-regeln-in-bestehende-rechtsordnung-16",
+  "level": 3,
+  "title": "3.5. Einfügung neuer Regeln in bestehende Rechtsordnung ............................. 16"
+ },
+ {
+  "id": "3-6-total-oder-teilrevision-16",
+  "level": 3,
+  "title": "3.6. Total- oder Teilrevision? .............................................................................. 16"
+ },
+ {
+  "id": "3-7-besondere-regelungstechniken-17",
+  "level": 3,
+  "title": "3.7. Besondere Regelungstechniken .................................................................. 17"
+ },
+ {
+  "id": "3-7-1-zweckartikel-17",
+  "level": 3,
+  "title": "3.7.1. Zweckartikel ........................................................................................ 17"
+ },
+ {
+  "id": "3-7-2-umschreibung-des-geltungsbereichs-17",
+  "level": 3,
+  "title": "3.7.2. Umschreibung des Geltungsbereichs ................................................. 17"
+ },
+ {
+  "id": "3-7-3-begriffsbestimmungen-legaldefinitionen-17",
+  "level": 3,
+  "title": "3.7.3. Begriffsbestimmungen (Legaldefinitionen) .......................................... 17"
+ },
+ {
+  "id": "3-7-4-allgemeiner-teil-17",
+  "level": 3,
+  "title": "3.7.4. Allgemeiner Teil .................................................................................. 17"
+ },
+ {
+  "id": "3-7-5-verweisungen-17",
+  "level": 3,
+  "title": "3.7.5. Verweisungen ..................................................................................... 17"
+ },
+ {
+  "id": "3-7-6-wiederholungen-17",
+  "level": 3,
+  "title": "3.7.6. Wiederholungen .................................................................................. 17"
+ },
+ {
+  "id": "4-regeln-für-die-formale-gestaltung-18",
+  "level": 3,
+  "title": "4. Regeln für die formale Gestaltung ................................................................. 18"
+ },
+ {
+  "id": "4-1-allgemeine-grundsätze-18",
+  "level": 3,
+  "title": "4.1. Allgemeine Grundsätze ............................................................................... 18"
+ },
+ {
+  "id": "4-1-1-gliederung-von-erlassen-18",
+  "level": 3,
+  "title": "4.1.1. Gliederung von Erlassen ..................................................................... 18"
+ },
+ {
+  "id": "4-1-2-gestaltung-und-gliederung-des-artikels-18",
+  "level": 3,
+  "title": "4.1.2. Gestaltung und Gliederung des Artikels .............................................. 18"
+ },
+ {
+  "id": "4-1-2-1-artikelüberschriften-18",
+  "level": 3,
+  "title": "4.1.2.1 Artikelüberschriften ................................................................ 18"
+ },
+ {
+  "id": "4-1-2-2-absätze-18",
+  "level": 3,
+  "title": "4.1.2.2 Absätze .................................................................................. 18"
+ },
+ {
+  "id": "4-1-2-3-aufzählungen-19",
+  "level": 3,
+  "title": "4.1.2.3 Aufzählungen ......................................................................... 19"
+ },
+ {
+  "id": "4-1-3-anhänge-19",
+  "level": 3,
+  "title": "4.1.3. Anhänge .............................................................................................. 19"
+ },
+ {
+  "id": "4-1-4-abkürzungen-und-schreibweisen-19",
+  "level": 3,
+  "title": "4.1.4. Abkürzungen und Schreibweisen ........................................................ 19"
+ },
+ {
+  "id": "4-2-neue-erlasse-19",
+  "level": 3,
+  "title": "4.2. Neue Erlasse ............................................................................................... 19"
+ },
+ {
+  "id": "4-2-1-titel-19",
+  "level": 3,
+  "title": "4.2.1. Titel ..................................................................................................... 19"
+ },
+ {
+  "id": "4-2-2-ingress-20",
+  "level": 3,
+  "title": "4.2.2. Ingress ................................................................................................ 20"
+ },
+ {
+  "id": "4-2-3-schlussbestimmungen-20",
+  "level": 3,
+  "title": "4.2.3. Schlussbestimmungen ........................................................................ 20"
+ },
+ {
+  "id": "4-2-4-formelle-gliederung-20",
+  "level": 3,
+  "title": "4.2.4. Formelle Gliederung ............................................................................ 20"
+ },
+ {
+  "id": "4-3-änderungserlasse-20",
+  "level": 3,
+  "title": "4.3. Änderungserlasse........................................................................................ 20"
+ },
+ {
+  "id": "4-3-1-grundsätzliches-20",
+  "level": 3,
+  "title": "4.3.1. Grundsätzliches .................................................................................. 20"
+ },
+ {
+  "id": "4-3-2-formelle-gliederung-21",
+  "level": 3,
+  "title": "4.3.2. Formelle Gliederung ............................................................................ 21"
+ },
+ {
+  "id": "4-3-3-titel-21",
+  "level": 3,
+  "title": "4.3.3. Titel ..................................................................................................... 21"
+ },
+ {
+  "id": "4-3-4-ingress-21",
+  "level": 3,
+  "title": "4.3.4. Ingress ................................................................................................ 21"
+ },
+ {
+  "id": "4-4-aufhebungserlasse-21",
+  "level": 3,
+  "title": "4.4. Aufhebungserlasse ...................................................................................... 21"
+ },
+ {
+  "id": "4-4-1-grundsätzliches-21",
+  "level": 3,
+  "title": "4.4.1. Grundsätzliches .................................................................................. 21"
+ },
+ {
+  "id": "4-4-2-formelle-gliederung-22",
+  "level": 3,
+  "title": "4.4.2. Formelle Gliederung ............................................................................ 22"
+ },
+ {
+  "id": "anhang-1-ablaufschema-rechtsetzungsverfahren-23",
+  "level": 3,
+  "title": "Anhang 1: Ablaufschema Rechtsetzungsverfahren ................................................. 23"
+ },
+ {
+  "id": "anhang-2-muster-normkonzept-26",
+  "level": 3,
+  "title": "Anhang 2: Muster-Normkonzept .............................................................................. 26"
+ },
+ {
+  "id": "anhang-3-prüfungsfragen-checklisten-gute-gesetzgebung-29",
+  "level": 3,
+  "title": "Anhang 3: Prüfungsfragen / Checklisten „Gute Gesetzgebung“ .............................. 29"
+ },
+ {
+  "id": "anhang-4-muster-vernehmlassungsfreigabe-regierungsbeschluss-",
+  "level": 3,
+  "title": "Anhang 4: Muster Vernehmlassungsfreigabe (Regierungsbeschluss und Publikation Kantonsamtsblatt) .................................................................................. 32"
+ },
+ {
+  "id": "anhang-5-liste-der-potenziellen-vernehmlassungsadressaten-36",
+  "level": 3,
+  "title": "Anhang 5: Liste der potenziellen Vernehmlassungsadressaten .............................. 36"
+ },
+ {
+  "id": "anhang-6-anleitung-zur-erfassung-von-erlasstexten-mit-lexwor",
+  "level": 3,
+  "title": "Anhang 6: Anleitung zur Erfassung von Erlasstexten mit LexWork XML ............... 38"
+ },
+ {
+  "id": "anhang-7-übersetzungsrichtlinien-für-vernehmlassungen-auszug",
+  "level": 3,
+  "title": "Anhang 7: Übersetzungsrichtlinien für Vernehmlassungen (Auszug aus RB Prot. Nr. 1267/09 vom 22. Dezember 2009) ......................................................... 39"
+ },
+ {
+  "id": "anhang-8-darstellung-der-erlasse-muster-41",
+  "level": 3,
+  "title": "Anhang 8: Darstellung der Erlasse (Muster)............................................................ 41"
+ },
+ {
+  "id": "1-einleitung",
+  "level": 2,
+  "title": "1. Einleitung"
+ },
+ {
+  "id": "2-rechtsetzungsverfahren",
+  "level": 2,
+  "title": "2. Rechtsetzungsverfahren"
+ },
+ {
+  "id": "gesetze",
+  "level": 4,
+  "title": "Gesetze"
+ },
+ {
+  "id": "regierungsverordnungen",
+  "level": 4,
+  "title": "Regierungsverordnungen"
+ },
+ {
+  "id": "führen-ist-von-der-regierung-eine-entsprechende-freigabe-zur",
+  "level": 4,
+  "title": "führen, ist von der Regierung eine entsprechende Freigabe zur Vernehmlassung zu er-"
+ },
+ {
+  "id": "3-grundsätze-für-die-ausgestaltung-der-erlasse",
+  "level": 2,
+  "title": "3. Grundsätze für die Ausgestaltung der Erlasse"
+ },
+ {
+  "id": "aa-gesetze-und-grossrätliche-verordnungen",
+  "level": 4,
+  "title": "aa) Gesetze und grossrätliche Verordnungen"
+ },
+ {
+  "id": "bb-regierungsrätliche-verordnungen",
+  "level": 4,
+  "title": "bb) Regierungsrätliche Verordnungen"
+ },
+ {
+  "id": "4-regeln-für-die-formale-gestaltung",
+  "level": 2,
+  "title": "4. Regeln für die formale Gestaltung"
+ },
+ {
+  "id": "anhang-1",
+  "level": 4,
+  "title": "Anhang 1"
+ },
+ {
+  "id": "ablaufschema-rechtsetzungsverfahren",
+  "level": 2,
+  "title": "Ablaufschema Rechtsetzungsverfahren"
+ },
+ {
+  "id": "ablaufschema-rechtsetzungsverfahren-2",
+  "level": 2,
+  "title": "Ablaufschema Rechtsetzungsverfahren"
+ },
+ {
+  "id": "verfahrensabschnitte-hinweise-zeitbedarf",
+  "level": 4,
+  "title": "Verfahrensabschnitte Hinweise Zeitbedarf"
+ },
+ {
+  "id": "verfahrensabschnitte-hinweise-zeitbedarf-2",
+  "level": 4,
+  "title": "Verfahrensabschnitte Hinweise Zeitbedarf"
+ },
+ {
+  "id": "anhang-2",
+  "level": 2,
+  "title": "Anhang 2"
+ },
+ {
+  "id": "muster-normkonzept",
+  "level": 2,
+  "title": "Muster-Normkonzept"
+ },
+ {
+  "id": "muster-normkonzept-2",
+  "level": 2,
+  "title": "Muster-Normkonzept"
+ },
+ {
+  "id": "übersicht",
+  "level": 3,
+  "title": "Übersicht"
+ },
+ {
+  "id": "funktion",
+  "level": 3,
+  "title": "Funktion"
+ },
+ {
+  "id": "arbeitsschritte",
+  "level": 3,
+  "title": "Arbeitsschritte"
+ },
+ {
+  "id": "musterstruktur-für-normkonzept",
+  "level": 3,
+  "title": "Musterstruktur für Normkonzept"
+ },
+ {
+  "id": "anhang-3",
+  "level": 4,
+  "title": "Anhang 3"
+ },
+ {
+  "id": "prüfungsfragen-checklisten-gute-gesetzgebung",
+  "level": 2,
+  "title": "Prüfungsfragen / Checklisten „Gute Gesetzgebung“"
+ },
+ {
+  "id": "prüfungsfragen-checkliste-gute-gesetzgebung",
+  "level": 4,
+  "title": "Prüfungsfragen/Checkliste „Gute Gesetzgebung“"
+ },
+ {
+  "id": "kriterien-hauptfragen-hilfsfragen-erläuterungen-rechtmässigk",
+  "level": 4,
+  "title": "Kriterien/Hauptfragen Hilfsfragen/Erläuterungen Rechtmässigkeit"
+ },
+ {
+  "id": "notwendigkeit",
+  "level": 4,
+  "title": "Notwendigkeit"
+ },
+ {
+  "id": "subsidiarität",
+  "level": 4,
+  "title": "Subsidiarität"
+ },
+ {
+  "id": "flexibilität",
+  "level": 4,
+  "title": "Flexibilität"
+ },
+ {
+  "id": "praktikabilität",
+  "level": 4,
+  "title": "Praktikabilität"
+ },
+ {
+  "id": "kriterien-hauptfragen-hilfsfragen-erläuterungen-kosten-nutze",
+  "level": 4,
+  "title": "Kriterien/Hauptfragen Hilfsfragen/Erläuterungen Kosten-/Nutzen-Adäquanz"
+ },
+ {
+  "id": "formelle-qualität",
+  "level": 4,
+  "title": "Formelle Qualität"
+ },
+ {
+  "id": "anhang-4",
+  "level": 4,
+  "title": "Anhang 4"
+ },
+ {
+  "id": "muster-vernehmlassungsfreigabe-regierungsbeschluss-und-publi",
+  "level": 2,
+  "title": "Muster Vernehmlassungsfreigabe (Regierungsbeschluss und Publikation Kantonsamtsblatt)"
+ },
+ {
+  "id": "die-regierung-des-kantons-graubünden-la-regenza-dal-chantun-",
+  "level": 2,
+  "title": "Die Regierung des Kantons Graubünden La regenza dal chantun Grischun Il Governo del Cantone dei Grigioni"
+ },
+ {
+  "id": "5-juni-2007-5-juni-2007-683",
+  "level": 3,
+  "title": "5. Juni 2007 5. Juni 2007 683"
+ },
+ {
+  "id": "freigabe-zur-vernehmlassung",
+  "level": 3,
+  "title": "Freigabe zur Vernehmlassung"
+ },
+ {
+  "id": "teilrevision-des-gesetzes-für-die-volksschulen-schulgesetz-u",
+  "level": 3,
+  "title": "Teilrevision des Gesetzes für die Volksschulen (Schulgesetz) und der Vollziehungsverordnung zum Schulgesetz"
+ },
+ {
+  "id": "in-der-oktobersession-2004-hat-der-grosse-rat-die-regierung-",
+  "level": 3,
+  "title": "In der Oktobersession 2004 hat der Grosse Rat die Regierung beauftragt, die recht- lichen Anpassungen vorzubereiten, um Englisch auf der Primarstufe als Pflichtfach einzuführen. Das zuständige Erziehungs-, Kultur- und Umweltschutzdepartement (EKUD) hat einen Entwurf für eine Teilrevision des Schulgesetzes (BR 421.000) und der Vollziehungsverordnung zum Schulgesetz (421.010) vorbereitet. Da eine Ausweitung des Fächerkanons im obligatorischen Schulbereich und eine zunehmende Komplexität der Organisation in der Schulführung verbindliche Lei- tungsstrukturen bedingen, wurden auch gesetzliche Anpassungen für die bessere Verankerung von Schulleitungen im Volksschulbereich erarbeitet."
+ },
+ {
+  "id": "schwerpunkte-der-vorlage-sind-die-einführung-des-obligatoris",
+  "level": 3,
+  "title": "Schwerpunkte der Vorlage sind:  die Einführung des obligatorischen Englischunterrichts als zweite Fremdsprache in den Primarschulen und Kleinklassen des Kantons Graubünden, beginnend ab der 5. Klasse;  Beginn der ersten Fremdsprache (Italienisch, Romanisch oder Deutsch) für alle Schülerinnen und Schüler in den Primarschulen und Kleinklassen des Kantons Graubünden in der 3. Klasse (Vorverlegung um ein Jahr);  Entrichtung kantonaler Beiträge an die Kosten für Schulleitungspersonen von Primar-, Real- und Sekundarschulen;  Ausarbeitung von kantonalen Richtlinien zur Erfüllung von Mindestvoraussetzun- gen bezüglich Anstellung, Ausbildung und Pflichten der Schulleitungspersonen im Volksschulbereich, damit kantonale Beiträge ausgelöst werden können."
+ },
+ {
+  "id": "der-entwurf-der-teilrevision-zum-schulgesetz-und-zur-vollzie",
+  "level": 3,
+  "title": "Der Entwurf der Teilrevision zum Schulgesetz und zur Vollziehungsverordnung so- wie der in diesem Zusammenhang ausgearbeitete Bericht soll zur Vernehmlassung freigegeben werden. Die Vernehmlassungsunterlagen sind elektronisch auf der Homepage des Erziehungs-, Kultur- und Umweltschutzdepartementes (http://www.ekud.gr.ch  Projekte, Vernehmlassungen) abrufbar bzw. können als Ausdruck beim Sekretariat (Telefon 081 257 27 36) angefordert werden. Die im Ver- teiler aufgeführten Adressaten werden vom Erziehungs-, Kultur- und Umwelt- schutzdepartement mit separatem Schreiben zur Vernehmlassung eingeladen. Die Vernehmlassung wird vom EKUD durchgeführt. Die Vernehmlassungsfrist läuft bis 30. September 2007."
+ },
+ {
+  "id": "gestützt-auf-diese-erwägungen",
+  "level": 3,
+  "title": "Gestützt auf diese Erwägungen"
+ },
+ {
+  "id": "beschliesst-die-regierung",
+  "level": 3,
+  "title": "beschliesst die Regierung:"
+ },
+ {
+  "id": "1-vom-entwurf-des-erziehungs-kultur-und-umweltschutzdepartem",
+  "level": 3,
+  "title": "1. Vom Entwurf des Erziehungs-, Kultur- und Umweltschutzdepartementes für ei- ne Teilrevision des Gesetzes für die Volksschulen des Kantons Graubünden (Schulgesetz) und der Vollziehungsverordnung zum Schulgesetz wird Kennt- nis genommen."
+ },
+ {
+  "id": "2-der-entwurf-wird-für-die-vernehmlassung-bis-zum-30-septemb",
+  "level": 3,
+  "title": "2. Der Entwurf wird für die Vernehmlassung bis zum 30. September 2007 freige- geben."
+ },
+ {
+  "id": "3-das-erziehungs-kultur-und-umweltschutzdepartement-wird-mit",
+  "level": 3,
+  "title": "3. Das Erziehungs-, Kultur- und Umweltschutzdepartement wird mit der Durch- führung der Vernehmlassung beauftragt."
+ },
+ {
+  "id": "4-mitteilung-an-alle-departemente-standeskanzlei-finanzkontr",
+  "level": 3,
+  "title": "4. Mitteilung an: alle Departemente; Standeskanzlei; Finanzkontrolle; Amt für Volksschule und Sport (elektronisch)"
+ },
+ {
+  "id": "namens-der-regierung-der-präsident-der-kanzleidirektor",
+  "level": 3,
+  "title": "Namens der Regierung Der Präsident: Der Kanzleidirektor:"
+ },
+ {
+  "id": "dr-martin-schmid-dr-c-riesen",
+  "level": 3,
+  "title": "Dr. Martin Schmid Dr. C. Riesen"
+ },
+ {
+  "id": "publikation-im-kantonsamtsblatt",
+  "level": 2,
+  "title": "Publikation im Kantonsamtsblatt"
+ },
+ {
+  "id": "anhang-5",
+  "level": 4,
+  "title": "Anhang 5"
+ },
+ {
+  "id": "liste-der-potenziellen-vernehmlassungsadressaten",
+  "level": 2,
+  "title": "Liste der potenziellen Vernehmlassungsadressaten"
+ },
+ {
+  "id": "liste-der-potentiellen-vernehmlassungsadressaten",
+  "level": 4,
+  "title": "Liste der potentiellen Vernehmlassungsadressaten"
+ },
+ {
+  "id": "anhang-6",
+  "level": 4,
+  "title": "Anhang 6"
+ },
+ {
+  "id": "anleitung-zur-erfassung-von-erlasstexten-mit-lexwork-xml",
+  "level": 2,
+  "title": "Anleitung zur Erfassung von Erlasstexten mit LexWork XML"
+ },
+ {
+  "id": "anhang-7",
+  "level": 4,
+  "title": "Anhang 7"
+ },
+ {
+  "id": "übersetzungsrichtlinien-für-vernehmlassungen-auszug-aus-rb-p",
+  "level": 2,
+  "title": "Übersetzungsrichtlinien für Vernehmlassungen (Auszug aus RB Prot. Nr. 1267/09 vom 22. Dezember 2009)"
+ },
+ {
+  "id": "übersetzungsrichtlinien-für-vernehmlassungen-auszug-aus-rb-p-2",
+  "level": 2,
+  "title": "Übersetzungsrichtlinien für Vernehmlassungen (Auszug aus RB Prot. Nr. 1267/09 vom 22. Dezember 2009)"
+ },
+ {
+  "id": "br-492-110",
+  "level": 4,
+  "title": "(BR 492.110)"
+ },
+ {
+  "id": "art-5-abs-1-lit-e",
+  "level": 4,
+  "title": "Art. 5 Abs. 1 lit e"
+ },
+ {
+  "id": "anhang-8",
+  "level": 4,
+  "title": "Anhang 8"
+ },
+ {
+  "id": "darstellung-der-erlasse-muster",
+  "level": 2,
+  "title": "Darstellung der Erlasse (Muster)"
+ },
+ {
+  "id": "darstellung-der-erlasse-muster-2",
+  "level": 2,
+  "title": "Darstellung der Erlasse (Muster)"
+ },
+ {
+  "id": "a-neue-und-totalrevidierte-erlasse",
+  "level": 3,
+  "title": "A. Neue und totalrevidierte Erlasse"
+ },
+ {
+  "id": "für-gesetze",
+  "level": 3,
+  "title": "Für Gesetze:"
+ },
+ {
+  "id": "für-verordnungen",
+  "level": 3,
+  "title": "Für Verordnungen:"
+ },
+ {
+  "id": "b-änderungserlasse",
+  "level": 3,
+  "title": "B. Änderungserlasse"
+ },
+ {
+  "id": "c-aufhebungserlasse",
+  "level": 3,
+  "title": "C. Aufhebungserlasse"
+ }
+]

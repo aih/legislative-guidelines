@@ -1,0 +1,1077 @@
+[
+ {
+  "id": "west-virginia-legislature-bill-drafting-manual",
+  "level": 2,
+  "title": "West Virginia Legislature Bill Drafting Manual"
+ },
+ {
+  "id": "prepared-by",
+  "level": 5,
+  "title": "Prepared by:"
+ },
+ {
+  "id": "december-2022",
+  "level": 5,
+  "title": "December 2022"
+ },
+ {
+  "id": "contents",
+  "level": 4,
+  "title": "CONTENTS"
+ },
+ {
+  "id": "bill-format",
+  "level": 3,
+  "title": "BILL FORMAT"
+ },
+ {
+  "id": "word-processing-format-of-bills",
+  "level": 4,
+  "title": "WORD PROCESSING FORMAT OF BILLS"
+ },
+ {
+  "id": "part-i-preliminary-drafting-instructions",
+  "level": 3,
+  "title": "PART I PRELIMINARY DRAFTING INSTRUCTIONS"
+ },
+ {
+  "id": "general-drafting-rules",
+  "level": 4,
+  "title": "GENERAL DRAFTING RULES"
+ },
+ {
+  "id": "bill-titles",
+  "level": 5,
+  "title": "BILL TITLES"
+ },
+ {
+  "id": "enacting-clause",
+  "level": 5,
+  "title": "ENACTING CLAUSE"
+ },
+ {
+  "id": "chapter-headings",
+  "level": 5,
+  "title": "CHAPTER HEADINGS"
+ },
+ {
+  "id": "article-headings",
+  "level": 5,
+  "title": "ARTICLE HEADINGS"
+ },
+ {
+  "id": "section-numbering-and-headings",
+  "level": 5,
+  "title": "SECTION NUMBERING AND HEADINGS"
+ },
+ {
+  "id": "constitutionality-of-bills",
+  "level": 5,
+  "title": "CONSTITUTIONALITY OF BILLS"
+ },
+ {
+  "id": "severability-clause",
+  "level": 5,
+  "title": "SEVERABILITY CLAUSE"
+ },
+ {
+  "id": "explanatory-note",
+  "level": 5,
+  "title": "EXPLANATORY NOTE"
+ },
+ {
+  "id": "local-or-special-acts",
+  "level": 5,
+  "title": "LOCAL OR SPECIAL ACTS"
+ },
+ {
+  "id": "resolutions",
+  "level": 5,
+  "title": "RESOLUTIONS"
+ },
+ {
+  "id": "drafting-preliminary-steps",
+  "level": 4,
+  "title": "DRAFTING - PRELIMINARY STEPS"
+ },
+ {
+  "id": "part-ii-language-and-preferred-usage",
+  "level": 3,
+  "title": "PART II LANGUAGE AND PREFERRED USAGE"
+ },
+ {
+  "id": "capitalization",
+  "level": 4,
+  "title": "CAPITALIZATION"
+ },
+ {
+  "id": "capitalize",
+  "level": 5,
+  "title": "CAPITALIZE"
+ },
+ {
+  "id": "the-first-word-in-a-sentence-and-the-first-word-in-tabulated",
+  "level": 5,
+  "title": "The first word in a sentence and the first word in tabulated items in the listing style."
+ },
+ {
+  "id": "official-full-titles-of-state-officers-departments-divisions",
+  "level": 5,
+  "title": "Official, full titles of state officers, departments, divisions, boards, agencies, commissions, committees, and funds."
+ },
+ {
+  "id": "generally-substitutes-for-official-titles-and-agency-names-s",
+  "level": 5,
+  "title": "Generally, substitutes for official titles and agency names should not be capitalized."
+ },
+ {
+  "id": "geographic-names",
+  "level": 5,
+  "title": "Geographic names."
+ },
+ {
+  "id": "months-and-days-of-the-week",
+  "level": 5,
+  "title": "Months and days of the week."
+ },
+ {
+  "id": "names-of-streets-roads-parks-and-buildings",
+  "level": 5,
+  "title": "Names of streets, roads, parks, and buildings."
+ },
+ {
+  "id": "names-of-nationalities-and-languages",
+  "level": 5,
+  "title": "Names of nationalities and languages."
+ },
+ {
+  "id": "political-parties-and-religious-denominations",
+  "level": 5,
+  "title": "Political parties and religious denominations."
+ },
+ {
+  "id": "official-titles-of-organizations-institutions-and-branches-o",
+  "level": 5,
+  "title": "Official titles of organizations, institutions, and branches of the military."
+ },
+ {
+  "id": "federal-and-international-entities",
+  "level": 5,
+  "title": "Federal and international entities."
+ },
+ {
+  "id": "titles-of-specific-acts-federal-laws-and-other-official-docu",
+  "level": 5,
+  "title": "Titles of specific acts, federal laws, and other official documents."
+ },
+ {
+  "id": "references-to-the-west-virginia-code-and-the-code-of-west-vi",
+  "level": 5,
+  "title": "References to the West Virginia Code and the Code of West Virginia."
+ },
+ {
+  "id": "holidays-religious-days-and-historic-events",
+  "level": 5,
+  "title": "Holidays, religious days, and historic events."
+ },
+ {
+  "id": "the-first-word-after-each-whereas-in-a-resolution",
+  "level": 5,
+  "title": "The first word after each \"Whereas\" in a resolution."
+ },
+ {
+  "id": "the-second-word-of-hyphenated-titles",
+  "level": 5,
+  "title": "The second word of hyphenated titles."
+ },
+ {
+  "id": "all-letters-of-all-words-in-a-west-virginia-code-chapter-hea",
+  "level": 5,
+  "title": "All letters of all words in a West Virginia Code chapter heading used in a bill."
+ },
+ {
+  "id": "chapter-6c-public-employees",
+  "level": 4,
+  "title": "CHAPTER 6C. PUBLIC EMPLOYEES."
+ },
+ {
+  "id": "all-letters-of-all-words-in-a-west-virginia-code-article-hea",
+  "level": 5,
+  "title": "All letters of all words in a West Virginia Code article heading used in a bill."
+ },
+ {
+  "id": "article-2-transfer-of-agencies-and-boards",
+  "level": 5,
+  "title": "ARTICLE 2. TRANSFER OF AGENCIES AND BOARDS."
+ },
+ {
+  "id": "in-definitions-where-a-quoted-term-starts-a-sentence-only-th",
+  "level": 5,
+  "title": "In definitions where a quoted term starts a sentence, only the first word of the quoted term, unless the term is a proper name or would otherwise be capitalized."
+ },
+ {
+  "id": "do-not-capitalize-the-following",
+  "level": 5,
+  "title": "DO NOT CAPITALIZE THE FOLLOWING:"
+ },
+ {
+  "id": "words-such-as-city-county-state-etc-when-standing-alone",
+  "level": 5,
+  "title": "Words such as “city”, “county”, “state”, etc., when standing alone."
+ },
+ {
+  "id": "directional-parts-of-states-and-counties-except-in-surveyors",
+  "level": 5,
+  "title": "Directional parts of states and counties (except in surveyors’ reports and other such documents)."
+ },
+ {
+  "id": "general-designations-of-buildings",
+  "level": 5,
+  "title": "General designations of buildings."
+ },
+ {
+  "id": "the-words-government-or-federal-except-when-federal-is-a-par",
+  "level": 5,
+  "title": "The words “government” or “federal” (except when “federal” is a part of the name of the agency or statute)."
+ },
+ {
+  "id": "titles-of-county-or-municipal-officers-agencies-or-committee",
+  "level": 5,
+  "title": "Titles of county or municipal officers, agencies, or committees."
+ },
+ {
+  "id": "references-to-laws-on-a-specified-subject",
+  "level": 5,
+  "title": "References to laws on a specified subject."
+ },
+ {
+  "id": "names-of-seasons-of-the-year",
+  "level": 5,
+  "title": "Names of seasons of the year."
+ },
+ {
+  "id": "references-to-portions-of-the-code",
+  "level": 5,
+  "title": "References to portions of the code."
+ },
+ {
+  "id": "spelling",
+  "level": 4,
+  "title": "SPELLING"
+ },
+ {
+  "id": "words-frequently-confused",
+  "level": 4,
+  "title": "WORDS FREQUENTLY CONFUSED"
+ },
+ {
+  "id": "numbers-money-dates-and-time",
+  "level": 4,
+  "title": "NUMBERS, MONEY, DATES, AND TIME"
+ },
+ {
+  "id": "numbers",
+  "level": 5,
+  "title": "NUMBERS"
+ },
+ {
+  "id": "money",
+  "level": 5,
+  "title": "MONEY"
+ },
+ {
+  "id": "dates",
+  "level": 5,
+  "title": "DATES"
+ },
+ {
+  "id": "time",
+  "level": 5,
+  "title": "TIME"
+ },
+ {
+  "id": "punctuation",
+  "level": 4,
+  "title": "PUNCTUATION"
+ },
+ {
+  "id": "commas",
+  "level": 5,
+  "title": "COMMAS"
+ },
+ {
+  "id": "semicolons",
+  "level": 5,
+  "title": "SEMICOLONS"
+ },
+ {
+  "id": "colons",
+  "level": 5,
+  "title": "COLONS"
+ },
+ {
+  "id": "quotation-marks",
+  "level": 5,
+  "title": "QUOTATION MARKS"
+ },
+ {
+  "id": "dashes",
+  "level": 5,
+  "title": "DASHES"
+ },
+ {
+  "id": "vii-amendments",
+  "level": 5,
+  "title": "VII. Amendments.)"
+ },
+ {
+  "id": "spacing-after-punctuation",
+  "level": 5,
+  "title": "SPACING AFTER PUNCTUATION"
+ },
+ {
+  "id": "rules-of-drafting-style-and-grammar",
+  "level": 4,
+  "title": "RULES OF DRAFTING - STYLE AND GRAMMAR"
+ },
+ {
+  "id": "consistency-don-t-use-different-words-to-denote-the-same-thi",
+  "level": 5,
+  "title": "Consistency - Don’t use different words to denote the same thing. - Don’t use the same words to denote different things. - Be consistent: Use the same words and phrases in a new section or new article or in"
+ },
+ {
+  "id": "use-the-same-grammatical-form-in-a-series",
+  "level": 5,
+  "title": "- Use the same grammatical form in a series."
+ },
+ {
+  "id": "use-parallel-construction-this-ensures-that-all-items-in-a-s",
+  "level": 5,
+  "title": "- Use parallel construction. This ensures that all items in a series relate to the initial"
+ },
+ {
+  "id": "1-report-to-2-advise-the-3-supervise-the-brevity",
+  "level": 5,
+  "title": "(1) Report to . . . (2) Advise the . . . (3) Supervise the . . . Brevity"
+ },
+ {
+  "id": "sentences",
+  "level": 5,
+  "title": "Sentences"
+ },
+ {
+  "id": "order",
+  "level": 5,
+  "title": "Order"
+ },
+ {
+  "id": "tense",
+  "level": 5,
+  "title": "Tense"
+ },
+ {
+  "id": "imperative-and-permissive-construction",
+  "level": 5,
+  "title": "Imperative and Permissive Construction"
+ },
+ {
+  "id": "definitions",
+  "level": 5,
+  "title": "Definitions"
+ },
+ {
+  "id": "voice",
+  "level": 5,
+  "title": "Voice"
+ },
+ {
+  "id": "person",
+  "level": 5,
+  "title": "Person"
+ },
+ {
+  "id": "singular-plural",
+  "level": 5,
+  "title": "Singular—Plural"
+ },
+ {
+  "id": "gender",
+  "level": 5,
+  "title": "Gender"
+ },
+ {
+  "id": "directness",
+  "level": 5,
+  "title": "Directness"
+ },
+ {
+  "id": "parenthetical-phrases",
+  "level": 5,
+  "title": "Parenthetical phrases"
+ },
+ {
+  "id": "capitalization-2",
+  "level": 5,
+  "title": "Capitalization"
+ },
+ {
+  "id": "word-pairs-or-paired-phrases",
+  "level": 5,
+  "title": "Word Pairs or Paired Phrases"
+ },
+ {
+  "id": "abbreviations",
+  "level": 5,
+  "title": "Abbreviations"
+ },
+ {
+  "id": "acronyms",
+  "level": 5,
+  "title": "Acronyms"
+ },
+ {
+  "id": "possessives-frequently-confused",
+  "level": 5,
+  "title": "POSSESSIVES FREQUENTLY CONFUSED"
+ },
+ {
+  "id": "common-issues-in-drafting",
+  "level": 4,
+  "title": "COMMON ISSUES IN DRAFTING"
+ },
+ {
+  "id": "repeal-only-do-not-repeal-and-subsequently-amend-and-reenact",
+  "level": 5,
+  "title": "- Repeal only. Do not repeal and subsequently amend and reenact the same section or"
+ },
+ {
+  "id": "amend-and-reenact-existing-code-whether-redesignating-sectio",
+  "level": 5,
+  "title": "- Amend and reenact existing code, whether redesignating sections or changing subject"
+ },
+ {
+  "id": "textual-references-should-conform-to-the-latest-official-nam",
+  "level": 5,
+  "title": "- Textual references should conform to the latest, official name, e.g., Division of Motor"
+ },
+ {
+  "id": "in-bill-titles-if-two-or-more-sections-are-addressed-the-des",
+  "level": 5,
+  "title": "- In bill titles, if two or more sections are addressed, the descriptive language in the title"
+ },
+ {
+  "id": "always-include-the-article-heading-before-a-section-or-secti",
+  "level": 5,
+  "title": "- Always include the article heading before a section or sections of code from an article."
+ },
+ {
+  "id": "levels-of-division-of-a-section",
+  "level": 5,
+  "title": "- Levels of division of a section:"
+ },
+ {
+  "id": "if-an-existing-section-is-divided-and-these-divisions-commen",
+  "level": 5,
+  "title": "- If an existing section is divided and these divisions commence immediately following the"
+ },
+ {
+  "id": "in-referring-to-a-specific-division-or-smaller-unit-within-a",
+  "level": 5,
+  "title": "- In referring to a specific division or smaller unit within a code section, use the full numeric"
+ },
+ {
+  "id": "strike-throughs-and-underscoring",
+  "level": 4,
+  "title": "STRIKE-THROUGHS AND UNDERSCORING"
+ },
+ {
+  "id": "deletion-use-of-strike-throughs",
+  "level": 5,
+  "title": "DELETION - USE OF STRIKE-THROUGHS"
+ },
+ {
+  "id": "strike-through-punctuation-rules",
+  "level": 4,
+  "title": "STRIKE-THROUGH PUNCTUATION RULES"
+ },
+ {
+  "id": "adding-a-comma",
+  "level": 5,
+  "title": "ADDING A COMMA"
+ },
+ {
+  "id": "comma-and-strike-through-with-new-language-added",
+  "level": 5,
+  "title": "COMMA AND STRIKE-THROUGH WITH NEW LANGUAGE ADDED"
+ },
+ {
+  "id": "subsections-and-subdivisions",
+  "level": 4,
+  "title": "SUBSECTIONS AND SUBDIVISIONS"
+ },
+ {
+  "id": "provisos",
+  "level": 5,
+  "title": "PROVISOS"
+ },
+ {
+  "id": "internal-citations-to-the-west-virginia-code",
+  "level": 4,
+  "title": "INTERNAL CITATIONS TO THE WEST VIRGINIA CODE"
+ },
+ {
+  "id": "citation-to-federal-authorities-adoption-by-reference",
+  "level": 4,
+  "title": "CITATION TO FEDERAL AUTHORITIES; ADOPTION BY REFERENCE"
+ },
+ {
+  "id": "criminal-penalties",
+  "level": 4,
+  "title": "CRIMINAL PENALTIES"
+ },
+ {
+  "id": "special-revenue-accounts",
+  "level": 4,
+  "title": "SPECIAL REVENUE ACCOUNTS"
+ },
+ {
+  "id": "reports-and-other-filings",
+  "level": 4,
+  "title": "REPORTS AND OTHER FILINGS"
+ },
+ {
+  "id": "rules",
+  "level": 4,
+  "title": "RULES"
+ },
+ {
+  "id": "amendments-to-existing-legislative-rules",
+  "level": 5,
+  "title": "AMENDMENTS TO EXISTING LEGISLATIVE RULES"
+ },
+ {
+  "id": "article-9-authorization-for-miscellaneous-agencies-and-board",
+  "level": 5,
+  "title": "ARTICLE 9. AUTHORIZATION FOR MISCELLANEOUS AGENCIES AND BOARDS TO"
+ },
+ {
+  "id": "use-of-agency-and-subdivision-names",
+  "level": 4,
+  "title": "USE OF AGENCY AND SUBDIVISION NAMES"
+ },
+ {
+  "id": "appropriation-bills-general-law",
+  "level": 4,
+  "title": "APPROPRIATION BILLS - GENERAL LAW"
+ },
+ {
+  "id": "staggered-terms-of-office",
+  "level": 4,
+  "title": "STAGGERED TERMS OF OFFICE"
+ },
+ {
+  "id": "general-rules-of-statutory-construction",
+  "level": 4,
+  "title": "GENERAL RULES OF STATUTORY CONSTRUCTION"
+ },
+ {
+  "id": "information-sources-for-bill-drafters",
+  "level": 4,
+  "title": "INFORMATION SOURCES FOR BILL DRAFTERS"
+ },
+ {
+  "id": "acts-of-the-legislature",
+  "level": 5,
+  "title": "Acts of the Legislature."
+ },
+ {
+  "id": "legislative-library",
+  "level": 5,
+  "title": "Legislative Library"
+ },
+ {
+  "id": "lexis-and-westlaw",
+  "level": 5,
+  "title": "LEXIS and WESTLAW"
+ },
+ {
+  "id": "council-of-state-governments-states-information-center-606-2",
+  "level": 5,
+  "title": "Council of State Governments, States Information Center, (606) 244-8253 National Conference of State Legislatures, (303) 364-7700"
+ },
+ {
+  "id": "reed-dickerson",
+  "level": 5,
+  "title": "Reed Dickerson"
+ },
+ {
+  "id": "robert-j-martineau",
+  "level": 5,
+  "title": "Robert J. Martineau"
+ },
+ {
+  "id": "lawrence-e-filson",
+  "level": 5,
+  "title": "Lawrence E. Filson"
+ },
+ {
+  "id": "part-iii-bill-titles-amending-existing-statutes-enacting-new",
+  "level": 3,
+  "title": "PART III BILL TITLES AMENDING EXISTING STATUTES, ENACTING NEW STATUTES IN CODE, AND REPEALING EXISTING STATUTES IN CODE"
+ },
+ {
+  "id": "about-bill-titles",
+  "level": 4,
+  "title": "ABOUT BILL TITLES"
+ },
+ {
+  "id": "examples-of-bill-titles-amending-sections-of-code",
+  "level": 5,
+  "title": "EXAMPLES OF BILL TITLES AMENDING SECTIONS OF CODE"
+ },
+ {
+  "id": "examples-of-bill-titles-creating-new-sections-of-code",
+  "level": 5,
+  "title": "EXAMPLES OF BILL TITLES CREATING NEW SECTIONS OF CODE"
+ },
+ {
+  "id": "examples-of-bill-titles-with-amended-and-new-sections-of-cod",
+  "level": 5,
+  "title": "EXAMPLES OF BILL TITLES WITH AMENDED AND NEW SECTIONS OF CODE"
+ },
+ {
+  "id": "example-of-bill-title-when-prior-amendments-not-yet-in-effec",
+  "level": 5,
+  "title": "EXAMPLE OF BILL TITLE WHEN PRIOR AMENDMENTS NOT YET IN EFFECT"
+ },
+ {
+  "id": "repealing-sections-of-code",
+  "level": 4,
+  "title": "REPEALING SECTIONS OF CODE"
+ },
+ {
+  "id": "1-repeal-of-sections-relating-to-approval-of-vehicle-equipme",
+  "level": 5,
+  "title": "§1. Repeal of sections relating to approval of vehicle equipment by Commissioner of"
+ },
+ {
+  "id": "form-of-bill-repealing-sections-of-code",
+  "level": 5,
+  "title": "FORM OF BILL REPEALING SECTIONS OF CODE"
+ },
+ {
+  "id": "article-16-municipal-public-works-revenue-bond-financing",
+  "level": 5,
+  "title": "ARTICLE 16. MUNICIPAL PUBLIC WORKS; REVENUE BOND FINANCING."
+ },
+ {
+  "id": "examples-of-bill-titles-repealing-sections-of-code-as-well-a",
+  "level": 5,
+  "title": "EXAMPLES OF BILL TITLES REPEALING SECTIONS OF CODE AS WELL AS OTHER ACTIONS"
+ },
+ {
+  "id": "examples-of-bill-titles-for-more-complex-combinations-of-act",
+  "level": 5,
+  "title": "EXAMPLES OF BILL TITLES FOR MORE COMPLEX COMBINATIONS OF ACTIONS"
+ },
+ {
+  "id": "part-iv-examples-of-local-and-special-acts",
+  "level": 3,
+  "title": "PART IV EXAMPLES OF LOCAL AND SPECIAL ACTS"
+ },
+ {
+  "id": "1-fayette-county-public-library-board-created-joint-support-",
+  "level": 5,
+  "title": "§1. Fayette County Public Library Board created; joint support by board of education"
+ },
+ {
+  "id": "part-v-appropriation-and-supplementary-appropriation-bills",
+  "level": 3,
+  "title": "PART V APPROPRIATION AND SUPPLEMENTARY APPROPRIATION BILLS"
+ },
+ {
+  "id": "part-vi-resolutions",
+  "level": 3,
+  "title": "PART VI RESOLUTIONS"
+ },
+ {
+  "id": "about-resolutions",
+  "level": 4,
+  "title": "ABOUT RESOLUTIONS"
+ },
+ {
+  "id": "joint-resolutions",
+  "level": 4,
+  "title": "JOINT RESOLUTIONS"
+ },
+ {
+  "id": "repeal-a-part-of-the-constitution-amend-one-or-more-sections",
+  "level": 5,
+  "title": "- Repeal a part of the Constitution; - Amend one or more sections of the Constitution and repeal others, in the same or"
+ },
+ {
+  "id": "amend-the-constitution-by-rewriting-one-or-more-section-s-or",
+  "level": 5,
+  "title": "- Amend the Constitution by rewriting one or more section(s) or article(s); - Amend the Constitution by adding one or more new section(s) or article(s); - Amend the Constitution to authorize a general obligation bond issue; and - Ratify a proposed amendment to the United States Constitution."
+ },
+ {
+  "id": "senate-joint-resolution-5",
+  "level": 2,
+  "title": "SENATE JOINT RESOLUTION 5"
+ },
+ {
+  "id": "house-joint-resolution-2",
+  "level": 2,
+  "title": "HOUSE JOINT RESOLUTION 2"
+ },
+ {
+  "id": "article-iv-election-and-officers",
+  "level": 5,
+  "title": "ARTICLE IV. ELECTION AND OFFICERS."
+ },
+ {
+  "id": "senate-joint-resolution-1",
+  "level": 2,
+  "title": "SENATE JOINT RESOLUTION 1"
+ },
+ {
+  "id": "house-joint-resolution-1",
+  "level": 2,
+  "title": "HOUSE JOINT RESOLUTION 1"
+ },
+ {
+  "id": "article-x-taxation-and-finance-15-imposition-and-measurement",
+  "level": 5,
+  "title": "ARTICLE X. TAXATION AND FINANCE. §15. Imposition and measurement of tax on incomes by reference to laws of the United"
+ },
+ {
+  "id": "senate-joint-resolution-2",
+  "level": 2,
+  "title": "SENATE JOINT RESOLUTION 2"
+ },
+ {
+  "id": "house-joint-resolution-6",
+  "level": 2,
+  "title": "HOUSE JOINT RESOLUTION 6"
+ },
+ {
+  "id": "joint-resolution",
+  "level": 5,
+  "title": "JOINT RESOLUTION"
+ },
+ {
+  "id": "concurrent-resolutions",
+  "level": 3,
+  "title": "CONCURRENT RESOLUTIONS"
+ },
+ {
+  "id": "adjourning-and-reconvening-of-the-legislature-extending-the-",
+  "level": 5,
+  "title": "- Adjourning and reconvening of the Legislature; - Extending the regular 60-day session; - Requesting that the Joint Committee on Government and Finance conduct an interim"
+ },
+ {
+  "id": "amending-the-joint-rules-of-the-senate-and-house-withdrawing",
+  "level": 5,
+  "title": "- Amending the Joint Rules of the Senate and House; - Withdrawing from consideration by the voters the question of ratification or rejection of an"
+ },
+ {
+  "id": "effecting-all-other-actions-which-require-concurrence-by-bot",
+  "level": 5,
+  "title": "- Effecting all other actions which require concurrence by both houses but which do not"
+ },
+ {
+  "id": "senate-concurrent-resolution-40",
+  "level": 2,
+  "title": "SENATE CONCURRENT RESOLUTION 40"
+ },
+ {
+  "id": "house-concurrent-resolution-25",
+  "level": 2,
+  "title": "HOUSE CONCURRENT RESOLUTION 25"
+ },
+ {
+  "id": "senate-concurrent-resolution-17",
+  "level": 2,
+  "title": "SENATE CONCURRENT RESOLUTION 17"
+ },
+ {
+  "id": "printing-enrolled-bills",
+  "level": 5,
+  "title": "Printing Enrolled Bills"
+ },
+ {
+  "id": "simple-resolutions",
+  "level": 2,
+  "title": "SIMPLE RESOLUTIONS"
+ },
+ {
+  "id": "expressing-the-will-or-order-of-the-senate-or-the-house-on-m",
+  "level": 5,
+  "title": "- Expressing the will or order of the Senate or the House on matters which do not require"
+ },
+ {
+  "id": "amending-the-rules-of-the-house-or-the-rules-of-the-senate-c",
+  "level": 5,
+  "title": "- Amending the Rules of the House or the Rules of the Senate; - Commemorating or eulogizing a person; - Recognizing achievements of a person or institution; and - Granting permission to introduce a bill or joint resolution after the introduction cut-off date"
+ },
+ {
+  "id": "senate-resolution-33",
+  "level": 2,
+  "title": "SENATE RESOLUTION 33"
+ },
+ {
+  "id": "house-resolution-42",
+  "level": 2,
+  "title": "HOUSE RESOLUTION 42"
+ },
+ {
+  "id": "committee-meetings",
+  "level": 5,
+  "title": "Committee Meetings"
+ },
+ {
+  "id": "committee-hearings",
+  "level": 5,
+  "title": "Committee Hearings"
+ },
+ {
+  "id": "house-resolution-10",
+  "level": 2,
+  "title": "HOUSE RESOLUTION 10"
+ },
+ {
+  "id": "inserting-remarks-in-journal",
+  "level": 5,
+  "title": "Inserting Remarks in Journal"
+ },
+ {
+  "id": "senate-resolution-64",
+  "level": 2,
+  "title": "SENATE RESOLUTION 64"
+ },
+ {
+  "id": "part-vii-amendments",
+  "level": 3,
+  "title": "PART VII AMENDMENTS"
+ },
+ {
+  "id": "requirements-for-amendments",
+  "level": 4,
+  "title": "REQUIREMENTS FOR AMENDMENTS"
+ },
+ {
+  "id": "important-distinction-between-house-and-senate-amendment-lan",
+  "level": 4,
+  "title": "IMPORTANT DISTINCTION BETWEEN HOUSE AND SENATE AMENDMENT LANGUAGE"
+ },
+ {
+  "id": "committee-amendments",
+  "level": 4,
+  "title": "COMMITTEE AMENDMENTS"
+ },
+ {
+  "id": "naming-conventions-committee-amendments",
+  "level": 5,
+  "title": "Naming Conventions - Committee Amendments:"
+ },
+ {
+  "id": "number-of-copies-committee-amendments",
+  "level": 5,
+  "title": "Number of Copies — Committee Amendments:"
+ },
+ {
+  "id": "floor-amendments",
+  "level": 4,
+  "title": "FLOOR AMENDMENTS"
+ },
+ {
+  "id": "naming-conventions-floor-amendments",
+  "level": 5,
+  "title": "Naming Conventions - Floor Amendments:"
+ },
+ {
+  "id": "number-of-copies-floor-amendments",
+  "level": 5,
+  "title": "Number of Copies - Floor Amendments:"
+ },
+ {
+  "id": "filing-location-floor-amendments",
+  "level": 5,
+  "title": "Filing Location - Floor Amendments:"
+ },
+ {
+  "id": "in-any-case-do-not-leave-for-the-day-without-filing",
+  "level": 5,
+  "title": "IN ANY CASE, DO NOT LEAVE FOR THE DAY WITHOUT FILING"
+ },
+ {
+  "id": "sample-title-amendments",
+  "level": 5,
+  "title": "SAMPLE TITLE AMENDMENTS"
+ },
+ {
+  "id": "amendments-striking-text",
+  "level": 5,
+  "title": "AMENDMENTS STRIKING TEXT"
+ },
+ {
+  "id": "amendments-inserting-text",
+  "level": 5,
+  "title": "AMENDMENTS INSERTING TEXT"
+ },
+ {
+  "id": "amendments-striking-out-and-inserting-text",
+  "level": 5,
+  "title": "AMENDMENTS STRIKING OUT AND INSERTING TEXT"
+ },
+ {
+  "id": "multiple-changes-through-one-amendment",
+  "level": 4,
+  "title": "MULTIPLE CHANGES THROUGH ONE AMENDMENT"
+ },
+ {
+  "id": "amendment-striking-out-everything-inserting-provisions-of-ho",
+  "level": 5,
+  "title": "AMENDMENT STRIKING OUT EVERYTHING & INSERTING PROVISIONS OF HOUSE\\SENATE BILL"
+ },
+ {
+  "id": "amendment-striking-out-remainder-of-bill-inserting-substitut",
+  "level": 5,
+  "title": "AMENDMENT STRIKING OUT REMAINDER OF BILL & INSERTING SUBSTITUTE TEXT"
+ },
+ {
+  "id": "appendix",
+  "level": 3,
+  "title": "APPENDIX"
+ },
+ {
+  "id": "appendix-2",
+  "level": 4,
+  "title": "APPENDIX"
+ },
+ {
+  "id": "preferred-words-and-phrases",
+  "level": 4,
+  "title": "PREFERRED WORDS AND PHRASES"
+ },
+ {
+  "id": "avoid-preferred",
+  "level": 5,
+  "title": "Avoid Preferred"
+ },
+ {
+  "id": "avoid-preferred-2",
+  "level": 5,
+  "title": "Avoid Preferred"
+ },
+ {
+  "id": "avoid-preferred-3",
+  "level": 5,
+  "title": "Avoid Preferred"
+ },
+ {
+  "id": "avoid-preferred-4",
+  "level": 5,
+  "title": "Avoid Preferred"
+ },
+ {
+  "id": "avoid-preferred-5",
+  "level": 5,
+  "title": "Avoid Preferred"
+ },
+ {
+  "id": "avoid-preferred-6",
+  "level": 5,
+  "title": "Avoid Preferred"
+ },
+ {
+  "id": "avoid-preferred-7",
+  "level": 5,
+  "title": "Avoid Preferred"
+ },
+ {
+  "id": "index",
+  "level": 3,
+  "title": "INDEX"
+ },
+ {
+  "id": "a",
+  "level": 4,
+  "title": "A"
+ },
+ {
+  "id": "b",
+  "level": 4,
+  "title": "B"
+ },
+ {
+  "id": "c",
+  "level": 4,
+  "title": "C"
+ },
+ {
+  "id": "d",
+  "level": 4,
+  "title": "D"
+ },
+ {
+  "id": "e",
+  "level": 4,
+  "title": "E"
+ },
+ {
+  "id": "h",
+  "level": 4,
+  "title": "H"
+ },
+ {
+  "id": "i",
+  "level": 4,
+  "title": "I"
+ },
+ {
+  "id": "l",
+  "level": 4,
+  "title": "L"
+ },
+ {
+  "id": "m",
+  "level": 4,
+  "title": "M"
+ },
+ {
+  "id": "n",
+  "level": 4,
+  "title": "N"
+ },
+ {
+  "id": "o",
+  "level": 4,
+  "title": "O"
+ },
+ {
+  "id": "p",
+  "level": 4,
+  "title": "P"
+ },
+ {
+  "id": "r",
+  "level": 4,
+  "title": "R"
+ },
+ {
+  "id": "s",
+  "level": 4,
+  "title": "S"
+ },
+ {
+  "id": "t",
+  "level": 4,
+  "title": "T"
+ },
+ {
+  "id": "w",
+  "level": 4,
+  "title": "W"
+ }
+]

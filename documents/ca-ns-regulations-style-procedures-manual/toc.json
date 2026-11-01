@@ -1,0 +1,997 @@
+[
+ {
+  "id": "style-and-procedures-manual",
+  "level": 2,
+  "title": "Style and Procedures Manual"
+ },
+ {
+  "id": "january-2005",
+  "level": 2,
+  "title": "January 2005"
+ },
+ {
+  "id": "prepared-by-the-registry-of-regulations-nova-scotia-departme",
+  "level": 4,
+  "title": "Prepared by the Registry of Regulations Nova Scotia Department of Justice"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 2,
+  "title": "Table of Contents"
+ },
+ {
+  "id": "table-of-contents-cont",
+  "level": 3,
+  "title": "Table of Contents (cont.)"
+ },
+ {
+  "id": "table-of-contents-cont-2",
+  "level": 3,
+  "title": "Table of Contents (cont.)"
+ },
+ {
+  "id": "table-of-contents-cont-3",
+  "level": 3,
+  "title": "Table of Contents (cont.)"
+ },
+ {
+  "id": "introduction-to-manual",
+  "level": 2,
+  "title": "Introduction to Manual"
+ },
+ {
+  "id": "acknowledgements",
+  "level": 2,
+  "title": "Acknowledgements"
+ },
+ {
+  "id": "purpose-of-manual",
+  "level": 2,
+  "title": "Purpose of Manual"
+ },
+ {
+  "id": "key-points-and-signposts",
+  "level": 4,
+  "title": "Key Points and Signposts"
+ },
+ {
+  "id": "availability-of-manual",
+  "level": 2,
+  "title": "Availability of Manual"
+ },
+ {
+  "id": "revisions-and-updates",
+  "level": 2,
+  "title": "Revisions and Updates"
+ },
+ {
+  "id": "part-1-introduction-to-regulations",
+  "level": 2,
+  "title": "Part 1 - Introduction to Regulations"
+ },
+ {
+  "id": "what-are-regulations",
+  "level": 3,
+  "title": "What are regulations?"
+ },
+ {
+  "id": "how-are-regulations-made",
+  "level": 3,
+  "title": "How are regulations made?"
+ },
+ {
+  "id": "enabling-act",
+  "level": 4,
+  "title": "Enabling Act"
+ },
+ {
+  "id": "regulations-made-or-approved-by-the-governor-in-council",
+  "level": 4,
+  "title": "Regulations made or approved by the Governor in Council"
+ },
+ {
+  "id": "2a-drafting-of-regulations-made-by-the-governor-in-council",
+  "level": 4,
+  "title": "2A Drafting of regulations made by the Governor in Council:"
+ },
+ {
+  "id": "2b-drafting-of-regulations-approved-by-the-governor-in-counc",
+  "level": 4,
+  "title": "2B Drafting of regulations approved by the Governor in Council:"
+ },
+ {
+  "id": "regulations-made-or-approved-by-a-minister-no-governor-in-co",
+  "level": 4,
+  "title": "Regulations made or approved by a minister (no Governor in Council approval)"
+ },
+ {
+  "id": "regulations-made-by-an-agency-a-board-a-commission-or-anothe",
+  "level": 4,
+  "title": "Regulations made by an agency, a board, a commission or another body (no Governor in Council or ministerial approval)"
+ },
+ {
+  "id": "timeline-for-making-regulations",
+  "level": 4,
+  "title": "Timeline for making regulations"
+ },
+ {
+  "id": "how-are-regulations-filed-with-the-registry-of-regulations",
+  "level": 3,
+  "title": "How are regulations filed with the Registry of Regulations?"
+ },
+ {
+  "id": "when-are-regulations-published",
+  "level": 3,
+  "title": "When are regulations published?"
+ },
+ {
+  "id": "what-is-the-royal-gazette-part-ii",
+  "level": 3,
+  "title": "What is the Royal Gazette Part II?"
+ },
+ {
+  "id": "what-happens-if-regulations-are-not-filed-published",
+  "level": 3,
+  "title": "What happens if regulations are not filed/published?"
+ },
+ {
+  "id": "effective-date-of-regulation",
+  "level": 4,
+  "title": "Effective date of regulation"
+ },
+ {
+  "id": "failure-to-file",
+  "level": 4,
+  "title": "Failure to file"
+ },
+ {
+  "id": "effective-date-of-subsections-6-and-7",
+  "level": 4,
+  "title": "Effective date of subsections (6) and (7)"
+ },
+ {
+  "id": "when-are-regulations-in-force",
+  "level": 3,
+  "title": "When are regulations in force?"
+ },
+ {
+  "id": "how-are-regulations-cited",
+  "level": 3,
+  "title": "How are regulations cited?"
+ },
+ {
+  "id": "where-can-you-get-regulations",
+  "level": 3,
+  "title": "Where can you get regulations?"
+ },
+ {
+  "id": "registry-of-regulations",
+  "level": 4,
+  "title": "Registry of Regulations"
+ },
+ {
+  "id": "part-2-review-process-for-proposed-regulations",
+  "level": 2,
+  "title": "Part 2 - Review Process for Proposed Regulations"
+ },
+ {
+  "id": "what-is-the-doj-review-process",
+  "level": 3,
+  "title": "What is the DOJ review process?"
+ },
+ {
+  "id": "doj-solicitor-review-for-authority-and-form",
+  "level": 4,
+  "title": "DOJ solicitor - review for authority and form"
+ },
+ {
+  "id": "registry-of-regulations-review-for-form-and-style",
+  "level": 4,
+  "title": "Registry of Regulations - review for form and style"
+ },
+ {
+  "id": "what-should-you-send-to-the-registry-for-review",
+  "level": 3,
+  "title": "What should you send to the Registry for review?"
+ },
+ {
+  "id": "how-are-submissions-assigned-priority",
+  "level": 3,
+  "title": "How are submissions assigned priority?"
+ },
+ {
+  "id": "what-is-rush-priority-and-how-do-you-get-it",
+  "level": 3,
+  "title": "What is rush priority and how do you get it?"
+ },
+ {
+  "id": "what-is-the-registry-of-regulations-procedure",
+  "level": 3,
+  "title": "What is the Registry of Regulations’ procedure?"
+ },
+ {
+  "id": "1-login",
+  "level": 4,
+  "title": "1 Login:"
+ },
+ {
+  "id": "2-review",
+  "level": 4,
+  "title": "2 Review:"
+ },
+ {
+  "id": "3-return-to-submitter",
+  "level": 4,
+  "title": "3 Return to submitter:"
+ },
+ {
+  "id": "what-if-corrections-are-recommended",
+  "level": 3,
+  "title": "What if corrections are recommended?"
+ },
+ {
+  "id": "what-happens-when-regulations-are-approved-by-the-registry",
+  "level": 3,
+  "title": "What happens when regulations are approved by the Registry?"
+ },
+ {
+  "id": "what-if-you-need-to-change-regulations-after-they-are-approv",
+  "level": 3,
+  "title": "What if you need to change regulations after they are approved by the Registry?"
+ },
+ {
+  "id": "what-if-you-want-an-electronic-copy-of-regulations-after-the",
+  "level": 3,
+  "title": "What if you want an electronic copy of regulations after they are approved by the Registry?"
+ },
+ {
+  "id": "part-3-form-and-style-of-regulations",
+  "level": 2,
+  "title": "Part 3 - Form and Style of Regulations"
+ },
+ {
+  "id": "what-legislation-should-you-consider",
+  "level": 3,
+  "title": "What legislation should you consider?"
+ },
+ {
+  "id": "regulations-act",
+  "level": 4,
+  "title": "Regulations Act"
+ },
+ {
+  "id": "interpretation-act",
+  "level": 4,
+  "title": "Interpretation Act"
+ },
+ {
+  "id": "enabling-act-2",
+  "level": 4,
+  "title": "Enabling Act"
+ },
+ {
+  "id": "summary-proceedings-act",
+  "level": 4,
+  "title": "Summary Proceedings Act"
+ },
+ {
+  "id": "mirrored-acts-regulations",
+  "level": 4,
+  "title": "Mirrored Acts/regulations"
+ },
+ {
+  "id": "what-are-the-standard-forms-for-orders-examples",
+  "level": 4,
+  "title": "What are the standard forms for orders? (examples)"
+ },
+ {
+  "id": "recommended-orders-of-the-governor-in-council",
+  "level": 4,
+  "title": "Recommended orders of the Governor in Council"
+ },
+ {
+  "id": "new-regulations",
+  "level": 4,
+  "title": "New regulations"
+ },
+ {
+  "id": "replacing-regulations",
+  "level": 4,
+  "title": "Replacing regulations"
+ },
+ {
+  "id": "amendments-to-regulations",
+  "level": 4,
+  "title": "Amendments to regulations"
+ },
+ {
+  "id": "new-regulations-and-amendment-to-regulations",
+  "level": 4,
+  "title": "New regulations and amendment to regulations"
+ },
+ {
+  "id": "order-of-minister-or-other-official",
+  "level": 4,
+  "title": "Order of minister or other official"
+ },
+ {
+  "id": "new-regulations-2",
+  "level": 4,
+  "title": "New regulations"
+ },
+ {
+  "id": "schedule-a-in-the-matter-of-section-of-chapter-of-the-acts-o",
+  "level": 4,
+  "title": "[Schedule “A”] In the matter of Section* of Chapter * of the Acts of *, the * Act"
+ },
+ {
+  "id": "in-the-matter-of-regulations-respecting-subject-matter",
+  "level": 4,
+  "title": "In the matter of regulations respecting [subject matter]"
+ },
+ {
+  "id": "amendment",
+  "level": 4,
+  "title": "Amendment"
+ },
+ {
+  "id": "schedule-a-in-the-matter-of-section-of-chapter-of-the-revise",
+  "level": 4,
+  "title": "[Schedule “A”] In the matter of Section* of Chapter * of the Revised Statutes of Nova Scotia, 1989, the * Act"
+ },
+ {
+  "id": "in-the-matter-of-an-amendment-to-the-regulations",
+  "level": 4,
+  "title": "In the matter of an amendment to the * Regulations"
+ },
+ {
+  "id": "order-of-agency-board-or-commission",
+  "level": 4,
+  "title": "Order of agency, board or commission"
+ },
+ {
+  "id": "new-regulations-3",
+  "level": 4,
+  "title": "New regulations"
+ },
+ {
+  "id": "schedule-a",
+  "level": 4,
+  "title": "[Schedule “A”]"
+ },
+ {
+  "id": "amendment-2",
+  "level": 4,
+  "title": "Amendment"
+ },
+ {
+  "id": "schedule-a-2",
+  "level": 4,
+  "title": "[Schedule “A”]"
+ },
+ {
+  "id": "what-is-the-standard-form-for-regulations",
+  "level": 3,
+  "title": "What is the standard form for regulations?"
+ },
+ {
+  "id": "arrangement-of-provisions",
+  "level": 4,
+  "title": "Arrangement of provisions"
+ },
+ {
+  "id": "numbering-and-structure-of-provisions",
+  "level": 4,
+  "title": "Numbering and structure of provisions"
+ },
+ {
+  "id": "title",
+  "level": 4,
+  "title": "Title"
+ },
+ {
+  "id": "headings-for-each-section",
+  "level": 4,
+  "title": "Headings for each Section"
+ },
+ {
+  "id": "how-to-number-sections",
+  "level": 4,
+  "title": "How to number Sections"
+ },
+ {
+  "id": "no-periods-after-numbers",
+  "level": 4,
+  "title": "No periods after numbers"
+ },
+ {
+  "id": "one-sentence-per-section",
+  "level": 4,
+  "title": "One sentence per Section"
+ },
+ {
+  "id": "how-to-format-subsections",
+  "level": 4,
+  "title": "How to format subsections"
+ },
+ {
+  "id": "how-to-number-subsections",
+  "level": 4,
+  "title": "How to number subsections"
+ },
+ {
+  "id": "subparagraphs-and-tails-of-text",
+  "level": 4,
+  "title": "subparagraphs and ‘tails’ of text"
+ },
+ {
+  "id": "numbering-within-parts",
+  "level": 4,
+  "title": "Numbering within Parts"
+ },
+ {
+  "id": "forms-attached-to-regulations",
+  "level": 4,
+  "title": "Forms attached to regulations"
+ },
+ {
+  "id": "cross-references",
+  "level": 4,
+  "title": "Cross-references"
+ },
+ {
+  "id": "italicized-references",
+  "level": 4,
+  "title": "Italicized references"
+ },
+ {
+  "id": "measurements",
+  "level": 4,
+  "title": "Measurements"
+ },
+ {
+  "id": "si-do-s",
+  "level": 4,
+  "title": "SI do’s:"
+ },
+ {
+  "id": "si-don-ts",
+  "level": 4,
+  "title": "SI don’ts:"
+ },
+ {
+  "id": "common-accepted-si-units-and-symbols",
+  "level": 4,
+  "title": "Common accepted SI Units and symbols:"
+ },
+ {
+  "id": "base-quantity-unit-symbol",
+  "level": 4,
+  "title": "Base quantity Unit Symbol"
+ },
+ {
+  "id": "base-quantity-unit-symbol-2",
+  "level": 4,
+  "title": "Base quantity Unit Symbol"
+ },
+ {
+  "id": "offence-and-prohibition-provisions",
+  "level": 4,
+  "title": "Offence and prohibition provisions"
+ },
+ {
+  "id": "incorporation-by-reference",
+  "level": 4,
+  "title": "Incorporation by reference"
+ },
+ {
+  "id": "effective-date-of-regulations",
+  "level": 4,
+  "title": "Effective date of regulations"
+ },
+ {
+  "id": "should-you-amend-or-replace",
+  "level": 3,
+  "title": "Should you amend or replace?"
+ },
+ {
+  "id": "how-do-you-amend-regulations",
+  "level": 3,
+  "title": "How do you amend regulations?"
+ },
+ {
+  "id": "repeal-vs-strike-out",
+  "level": 4,
+  "title": "Repeal vs. strike-out"
+ },
+ {
+  "id": "line-references",
+  "level": 4,
+  "title": "Line references"
+ },
+ {
+  "id": "blanket-changes",
+  "level": 4,
+  "title": "Blanket changes"
+ },
+ {
+  "id": "replacements-and-additions",
+  "level": 4,
+  "title": "Replacements and additions"
+ },
+ {
+  "id": "renumbering-or-relettering",
+  "level": 4,
+  "title": "Renumbering or relettering"
+ },
+ {
+  "id": "effective-date-of-amendments",
+  "level": 4,
+  "title": "Effective date of amendments"
+ },
+ {
+  "id": "part-4-plain-language-drafting",
+  "level": 2,
+  "title": "Part 4 - Plain Language Drafting"
+ },
+ {
+  "id": "what-is-plain-language",
+  "level": 3,
+  "title": "What is plain language?"
+ },
+ {
+  "id": "define-your-subject-matter",
+  "level": 3,
+  "title": "Define your subject matter"
+ },
+ {
+  "id": "write-for-your-audience",
+  "level": 3,
+  "title": "Write for your audience"
+ },
+ {
+  "id": "write-for-an-individual",
+  "level": 3,
+  "title": "Write for an individual"
+ },
+ {
+  "id": "use-the-active-voice",
+  "level": 3,
+  "title": "Use the active voice"
+ },
+ {
+  "id": "use-the-present-tense",
+  "level": 3,
+  "title": "Use the present tense"
+ },
+ {
+  "id": "use-natural-word-order",
+  "level": 3,
+  "title": "Use natural word order"
+ },
+ {
+  "id": "organize-in-a-logical-order",
+  "level": 3,
+  "title": "Organize in a logical order"
+ },
+ {
+  "id": "use-meaningful-headings",
+  "level": 3,
+  "title": "Use meaningful headings"
+ },
+ {
+  "id": "use-consistent-formatting",
+  "level": 3,
+  "title": "Use consistent formatting"
+ },
+ {
+  "id": "block-formatting",
+  "level": 4,
+  "title": "Block formatting"
+ },
+ {
+  "id": "font-and-text-alignment",
+  "level": 4,
+  "title": "Font and text alignment"
+ },
+ {
+  "id": "automatic-numbering",
+  "level": 4,
+  "title": "Automatic numbering"
+ },
+ {
+  "id": "avoid-unnecessary-capitalization",
+  "level": 4,
+  "title": "Avoid unnecessary capitalization"
+ },
+ {
+  "id": "tables",
+  "level": 4,
+  "title": "Tables"
+ },
+ {
+  "id": "use-vertical-lists",
+  "level": 3,
+  "title": "Use vertical lists"
+ },
+ {
+  "id": "when-and-how-to-use-definitions",
+  "level": 3,
+  "title": "When and how to use definitions"
+ },
+ {
+  "id": "avoid-repeating-statutory-provisions",
+  "level": 3,
+  "title": "Avoid repeating statutory provisions"
+ },
+ {
+  "id": "avoid-copying-out-dated-provisions",
+  "level": 3,
+  "title": "Avoid copying out-dated provisions"
+ },
+ {
+  "id": "keep-it-short",
+  "level": 3,
+  "title": "Keep it short"
+ },
+ {
+  "id": "keep-it-simple",
+  "level": 3,
+  "title": "Keep it simple"
+ },
+ {
+  "id": "use-familiar-words",
+  "level": 4,
+  "title": "Use familiar words"
+ },
+ {
+  "id": "use-this-not-this",
+  "level": 4,
+  "title": "Use this... Not this"
+ },
+ {
+  "id": "avoid-noun-clusters",
+  "level": 4,
+  "title": "Avoid noun clusters"
+ },
+ {
+  "id": "use-this-not-this-2",
+  "level": 4,
+  "title": "Use this... Not this"
+ },
+ {
+  "id": "replace-phrases-with-a-word",
+  "level": 4,
+  "title": "Replace phrases with a word"
+ },
+ {
+  "id": "use-this-not-this-3",
+  "level": 4,
+  "title": "Use this... Not this"
+ },
+ {
+  "id": "use-this-not-this-4",
+  "level": 4,
+  "title": "Use this... Not this"
+ },
+ {
+  "id": "words-and-phrases-to-avoid",
+  "level": 4,
+  "title": "Words and phrases to avoid"
+ },
+ {
+  "id": "use-this-not-this-5",
+  "level": 4,
+  "title": "Use this... Not this"
+ },
+ {
+  "id": "use-this-not-this-6",
+  "level": 4,
+  "title": "Use this... Not this"
+ },
+ {
+  "id": "use-singular-nouns-and-pronouns",
+  "level": 4,
+  "title": "Use singular nouns and pronouns"
+ },
+ {
+  "id": "upon",
+  "level": 3,
+  "title": "‘Upon’"
+ },
+ {
+  "id": "if-when-and-where",
+  "level": 3,
+  "title": "‘If’, ‘when’ and ‘where’"
+ },
+ {
+  "id": "use-if-but-and-except-for-qualifications",
+  "level": 3,
+  "title": "Use ‘if’, ‘but’ and ‘except’ for qualifications"
+ },
+ {
+  "id": "despite-and-subject-to",
+  "level": 3,
+  "title": "‘Despite’ and ‘subject to’"
+ },
+ {
+  "id": "and-and-or",
+  "level": 3,
+  "title": "‘And’ and ‘or’"
+ },
+ {
+  "id": "avoid-ambiguity-and-uncertainty",
+  "level": 3,
+  "title": "Avoid ambiguity and uncertainty"
+ },
+ {
+  "id": "word-order",
+  "level": 4,
+  "title": "Word order"
+ },
+ {
+  "id": "word-meaning",
+  "level": 4,
+  "title": "Word meaning"
+ },
+ {
+  "id": "use-consistent-terms",
+  "level": 3,
+  "title": "Use consistent terms"
+ },
+ {
+  "id": "defining-and-non-defining-clauses-that-which",
+  "level": 3,
+  "title": "Defining and non-defining clauses (that/which)"
+ },
+ {
+  "id": "may-must-and-shall",
+  "level": 3,
+  "title": "May, must and shall"
+ },
+ {
+  "id": "only-use-only-in-the-right-place",
+  "level": 3,
+  "title": "Only use ‘only’ in the right place"
+ },
+ {
+  "id": "lesser-greater-fewer-more-earlier-later-comparisons",
+  "level": 3,
+  "title": "‘Lesser/greater’, ‘fewer/more’, ‘earlier/later’ comparisons"
+ },
+ {
+  "id": "use-this-not-this-7",
+  "level": 4,
+  "title": "Use this... Not this"
+ },
+ {
+  "id": "expressing-dates-and-time",
+  "level": 3,
+  "title": "Expressing dates and time"
+ },
+ {
+  "id": "expressing-numbers",
+  "level": 3,
+  "title": "Expressing numbers"
+ },
+ {
+  "id": "appendixes",
+  "level": 2,
+  "title": "Appendixes"
+ },
+ {
+  "id": "appendix-a-submission-checklist",
+  "level": 3,
+  "title": "Appendix A - Submission Checklist"
+ },
+ {
+  "id": "q",
+  "level": 2,
+  "title": "Q"
+ },
+ {
+  "id": "q-2",
+  "level": 2,
+  "title": "Q"
+ },
+ {
+  "id": "q-3",
+  "level": 2,
+  "title": "Q"
+ },
+ {
+  "id": "q-4",
+  "level": 2,
+  "title": "Q"
+ },
+ {
+  "id": "q-5",
+  "level": 2,
+  "title": "Q"
+ },
+ {
+  "id": "q-6",
+  "level": 2,
+  "title": "Q"
+ },
+ {
+  "id": "q-7",
+  "level": 2,
+  "title": "Q"
+ },
+ {
+  "id": "appendix-b-regulation-making-process-flowchart",
+  "level": 3,
+  "title": "Appendix B - Regulation-Making Process Flowchart"
+ },
+ {
+  "id": "a",
+  "level": 2,
+  "title": "a"
+ },
+ {
+  "id": "b-registry-of-regulations",
+  "level": 2,
+  "title": "b Registry of Regulations"
+ },
+ {
+  "id": "appendix-c-preparation-of-reports-and-recommendations",
+  "level": 3,
+  "title": "Appendix C - Preparation of Reports and Recommendations"
+ },
+ {
+  "id": "completing-the-report-and-recommendation-form",
+  "level": 4,
+  "title": "Completing the Report and Recommendation Form"
+ },
+ {
+  "id": "schedules-and-other-attachments-to-reports-and-recommendatio",
+  "level": 4,
+  "title": "Schedules and Other Attachments to Reports and Recommendations"
+ },
+ {
+  "id": "the-act",
+  "level": 4,
+  "title": "the ... Act"
+ },
+ {
+  "id": "general-guidance-respecting-reports-and-recommendations",
+  "level": 4,
+  "title": "General Guidance Respecting Reports and Recommendations"
+ },
+ {
+  "id": "sample-text-report-and-recommendation",
+  "level": 4,
+  "title": "Sample Text, Report and Recommendation"
+ },
+ {
+  "id": "appendix-d-how-to-give-drafting-instructions",
+  "level": 3,
+  "title": "Appendix D - How to Give Drafting Instructions"
+ },
+ {
+  "id": "when-to-consider-submitting-instructions-for-drafting",
+  "level": 4,
+  "title": "When to consider submitting instructions for drafting:"
+ },
+ {
+  "id": "when-to-consider-submitting-draft-regulations",
+  "level": 4,
+  "title": "When to consider submitting draft regulations:"
+ },
+ {
+  "id": "workable-instructions",
+  "level": 4,
+  "title": "Workable instructions:"
+ },
+ {
+  "id": "cut-off-date-for-policy-changes",
+  "level": 4,
+  "title": "Cut-off date for policy changes:"
+ },
+ {
+  "id": "instructions-the-department-or-agency-should-not-initiate-an",
+  "level": 4,
+  "title": "instructions, the department or agency should not initiate any major"
+ },
+ {
+  "id": "presentation-of-instructions",
+  "level": 4,
+  "title": "Presentation of instructions:"
+ },
+ {
+  "id": "appendix-e-subdelegation-and-discretionary-power",
+  "level": 3,
+  "title": "Appendix E - Subdelegation and Discretionary Power"
+ },
+ {
+  "id": "appendix-f-revision-checklist",
+  "level": 3,
+  "title": "Appendix F - Revision Checklist"
+ },
+ {
+  "id": "organization-and-formatting",
+  "level": 4,
+  "title": "Organization and formatting"
+ },
+ {
+  "id": "subsection-22-2-of-the-regulations-act-powers-of-regulations",
+  "level": 4,
+  "title": "Subsection 22(2) of the Regulations Act—powers of Regulations Revisor:"
+ },
+ {
+  "id": "corrections",
+  "level": 4,
+  "title": "Corrections"
+ },
+ {
+  "id": "revisions",
+  "level": 4,
+  "title": "Revisions"
+ },
+ {
+  "id": "appendix-g-the-4-c-s-of-preparing-regulations",
+  "level": 3,
+  "title": "Appendix G - The 4 C’s of Preparing Regulations"
+ },
+ {
+  "id": "complete",
+  "level": 2,
+  "title": "Complete"
+ },
+ {
+  "id": "writing-and-revising-make-sure-the-document-is-complete-cont",
+  "level": 4,
+  "title": "Writing and revising (make sure the document is complete) Content:"
+ },
+ {
+  "id": "formatting",
+  "level": 4,
+  "title": "Formatting:"
+ },
+ {
+  "id": "concise-and-clear",
+  "level": 2,
+  "title": "Concise and Clear"
+ },
+ {
+  "id": "editing-make-sure-document-is-concise-and-clear-content",
+  "level": 4,
+  "title": "Editing (make sure document is concise and clear) Content:"
+ },
+ {
+  "id": "formatting-2",
+  "level": 4,
+  "title": "Formatting:"
+ },
+ {
+  "id": "correct",
+  "level": 2,
+  "title": "Correct"
+ },
+ {
+  "id": "proofreading-make-sure-document-is-correct-content",
+  "level": 4,
+  "title": "Proofreading (make sure document is correct) Content:"
+ },
+ {
+  "id": "formatting-3",
+  "level": 4,
+  "title": "Formatting:"
+ },
+ {
+  "id": "appendix-h-linking-to-regulations-online",
+  "level": 3,
+  "title": "Appendix H - Linking to Regulations Online"
+ },
+ {
+  "id": "do-s-and-don-ts",
+  "level": 4,
+  "title": "Do’s and Don’ts:"
+ },
+ {
+  "id": "appendix-i-references",
+  "level": 3,
+  "title": "Appendix I - References"
+ }
+]

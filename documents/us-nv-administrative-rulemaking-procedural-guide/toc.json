@@ -1,0 +1,532 @@
+[
+ {
+  "id": "administrative-rulemaking",
+  "level": 2,
+  "title": "Administrative Rulemaking"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 3,
+  "title": "TABLE OF CONTENTS"
+ },
+ {
+  "id": "overview-3",
+  "level": 3,
+  "title": "OVERVIEW 3"
+ },
+ {
+  "id": "drafting-5",
+  "level": 3,
+  "title": "DRAFTING 5"
+ },
+ {
+  "id": "special-considerations-10",
+  "level": 3,
+  "title": "SPECIAL CONSIDERATIONS 10"
+ },
+ {
+  "id": "appendix-12",
+  "level": 3,
+  "title": "APPENDIX 12"
+ },
+ {
+  "id": "notice-of-intent-to-act-b",
+  "level": 5,
+  "title": "NOTICE OF INTENT TO ACT B"
+ },
+ {
+  "id": "purpose-of-regulations",
+  "level": 2,
+  "title": "Purpose of Regulations"
+ },
+ {
+  "id": "in-general-regulations-clarify-the-requirements-that-license",
+  "level": 4,
+  "title": "In general, regulations clarify the requirements that licensees and members of the public must follow. To promote public access and government accountability, any general standard set by an agency should be made into a regulation. Regulations are statements of general applicability that interpret law, describe agency rules and practice, and set standards for the public. Regulations allow public agencies to use their specific knowledge to clarify and supplement the law; if an agency creates a standard that applies to the public in general or the population for which it has jurisdiction and affects private rights, the agency must do so via a regulation. For these reasons, regulations do not include those policies and procedures controlling the internal business of the agency itself or applications of law to specific facts, such as in a contested case or advisory opinion. The Legislature granted agencies authority to create regulations that"
+ },
+ {
+  "id": "have-the-force-and-effect-of-law-1-to-ensure-public-access-a",
+  "level": 5,
+  "title": "have the force and effect of law.1 To ensure public access and fair notice to the"
+ },
+ {
+  "id": "public-agencies-must-diligently-follow-the-process-created-b",
+  "level": 4,
+  "title": "public, agencies must diligently follow the process created by the Nevada"
+ },
+ {
+  "id": "must-also-be-vigilant-against-inadvertent-ad-hoc-rulemaking-",
+  "level": 4,
+  "title": "must also be vigilant against inadvertent ad hoc rulemaking. Stating an"
+ },
+ {
+  "id": "official-position-on-an-interpretation-question4-or-setting-",
+  "level": 5,
+  "title": "official position on an interpretation question4 or setting a standard or"
+ },
+ {
+  "id": "definition-without-following-the-rulemaking-process-is-consi",
+  "level": 4,
+  "title": "definition without following the rulemaking process is considered ad hoc"
+ },
+ {
+  "id": "rulemaking-and-must-be-eschewed-5-in-short-any-standard-or-p",
+  "level": 5,
+  "title": "rulemaking and must be eschewed.5 In short, any standard or policy that"
+ },
+ {
+  "id": "affects-the-general-public-such-as-requiring-or-prohibiting-",
+  "level": 4,
+  "title": "affects the general public, such as requiring or prohibiting conduct, must be made by the formal procedure for promulgating regulations."
+ },
+ {
+  "id": "regulations-must-1-have-authority-delegated-by-the-legislatu",
+  "level": 4,
+  "title": "Regulations must (1) have authority delegated by the legislature, (2) comply with the rights guaranteed by the Nevada and United States Constitutions and (3) comply with the requirements of the Nevada APA."
+ },
+ {
+  "id": "rulemaking-authority",
+  "level": 2,
+  "title": "Rulemaking Authority"
+ },
+ {
+  "id": "agencies-are-given-rulemaking-authority-via-an-enabling-stat",
+  "level": 4,
+  "title": "Agencies are given rulemaking authority via an enabling statute. This statute may be general, such as the authority to make regulations “necessary"
+ },
+ {
+  "id": "for-the-execution-of-the-powers-and-duties-conferred-upon-it",
+  "level": 5,
+  "title": "for the execution of the powers and duties conferred upon it by law”.6 The"
+ },
+ {
+  "id": "statute-may-instead-be-tailored-to-a-specific-legislative-go",
+  "level": 4,
+  "title": "statute may instead be tailored to a specific, legislative goal; for example, the Department of Education was directed to “… prescribe by regulation a policy for all school districts and public schools to provide a safe and respectful"
+ },
+ {
+  "id": "learning-environment-that-is-free-from-bullying-and-cyberbul",
+  "level": 5,
+  "title": "learning environment that is free from bullying and cyberbullying.”7 An"
+ },
+ {
+  "id": "agency-may-only-promulgate-regulations-to-the-extent-authori",
+  "level": 4,
+  "title": "agency may only promulgate regulations to the extent authorized by the legislature, and whether the enabling statute is broad or narrow, the authority will be limited to some level. For regulations which are required by federal law, but which exceed state statutory authority, a statement to this"
+ },
+ {
+  "id": "there-are-special-considerations-when-beginning-the-rulemaki",
+  "level": 4,
+  "title": "There are special considerations when beginning the rulemaking process. Some subject areas require specific authorization; for example, the imposition of monetary sanctions, penalties or fees, and the submission of fingerprint records. There are also some regulations required of all public"
+ },
+ {
+  "id": "agencies-such-as-petition-processes-9-always-refer-to-the-ag",
+  "level": 5,
+  "title": "agencies, such as petition processes.9 Always refer to the agency’s enabling"
+ },
+ {
+  "id": "statute-review-any-legislative-changes-which-may-have-create",
+  "level": 4,
+  "title": "statute, review any legislative changes which may have created new authority, and confer with a colleague, supervisor, or legal counsel if you are unsure."
+ },
+ {
+  "id": "agencies-are-only-permitted-to-promulgate-regulations-during",
+  "level": 4,
+  "title": "Agencies are only permitted to promulgate regulations during certain time periods, aligning with Nevada’s biennial legislative schedule. Agencies may submit permanent regulations to the Legislative Counsel Bureau between July 1 of an odd-numbered year and July 1 the following even-"
+ },
+ {
+  "id": "drafting",
+  "level": 2,
+  "title": "Drafting"
+ },
+ {
+  "id": "after-determining-1-that-a-regulation-is-necessary-and-2-tha",
+  "level": 4,
+  "title": "After determining (1) that a regulation is necessary, and (2) that your agency has statutory authority to create it, it is time to begin the drafting process. If it is within the window to submit permanent regulations, drafting suggested language is not required as the Legislative Counsel Bureau (“LCB”) will review and likely revise the language after submission. In this case, you need only provide a summary of what your agency would like to accomplish through regulation. If your agency is promulgating temporary or emergency regulations, or otherwise would like to submit language for the regulation, refer to Appendix A for the technical specifications. Aside from the regulations themselves, your agency must also consider"
+ },
+ {
+  "id": "regulation-s-will-impose-a-direct-and-significant-economic-b",
+  "level": 4,
+  "title": "regulation(s) will “impose a direct and significant economic burden” or"
+ },
+ {
+  "id": "statement-must-summarize-the-likely-impact-and-consider-meth",
+  "level": 4,
+  "title": "statement must summarize the likely impact and consider methods to reduce"
+ },
+ {
+  "id": "or-through-the-use-of-a-consultant-or-independent-contractor",
+  "level": 4,
+  "title": "or through the use of a consultant or independent contractor, and be prepared in consultation with owners and officers of small businesses likely to be affected. As a matter of practice, the agency should submit a statement regardless of whether an impact is anticipated—demonstrating to the legislature that the agency reached out to work with small businesses."
+ },
+ {
+  "id": "types-of-regulations",
+  "level": 2,
+  "title": "Types of Regulations"
+ },
+ {
+  "id": "there-are-three-types-of-regulations-permanent-temporary-and",
+  "level": 4,
+  "title": "There are three types of regulations: permanent, temporary, and emergency. Each type has its own process from conception to filing with the Secretary of State. Promulgating permanent regulations is only possible during a specified time period; in the interim, circumstances may arise which require an agency to bring forth temporary or emergency regulations."
+ },
+ {
+  "id": "below-you-will-see-an-overview-of-the-process-for-each-type-",
+  "level": 4,
+  "title": "Below you will see an overview of the process for each type of regulation and a description of each step in the processes:"
+ },
+ {
+  "id": "permanent-regulations",
+  "level": 2,
+  "title": "Permanent Regulations"
+ },
+ {
+  "id": "temporary-regulations",
+  "level": 2,
+  "title": "Temporary Regulations"
+ },
+ {
+  "id": "emergency-regulations",
+  "level": 2,
+  "title": "Emergency Regulations"
+ },
+ {
+  "id": "procedure",
+  "level": 2,
+  "title": "Procedure"
+ },
+ {
+  "id": "workshop",
+  "level": 3,
+  "title": "Workshop"
+ },
+ {
+  "id": "the-first-public-step-of-the-rulemaking-process-is-the-works",
+  "level": 4,
+  "title": "The first public step of the rulemaking process is the workshop. At least one workshop must be held when promulgating permanent or temporary regulations to discuss the proposal and incorporate input received from interested stakeholders. The workshop must be conducted in accordance with"
+ },
+ {
+  "id": "be-posted-at-least-fifteen-15-calendar-days-before-the-works",
+  "level": 4,
+  "title": "be posted at least fifteen (15) calendar days before the workshop is held and an electronic copy of the notice must be submitted to the Director of the Legislative Counsel Bureau (“LCB”) for posting on the LCB website."
+ },
+ {
+  "id": "lcb-review",
+  "level": 3,
+  "title": "LCB Review"
+ },
+ {
+  "id": "after-the-workshop-the-draft-language-or-summary-of-permanen",
+  "level": 4,
+  "title": "After the workshop, the draft language or summary of permanent"
+ },
+ {
+  "id": "regulations-lcb-state-nv-us-after-receipt-lcb-will-assign-th",
+  "level": 4,
+  "title": "regulations@lcb.state.nv.us. After receipt, LCB will assign the regulation an R-number and may consult with your agency to clarify the intent. The drafter assigned to your regulation is tasked with ensuring clear, concise language for incorporation in the Nevada Administrative Code and that the agency has the requisite authority. The agency and its counsel should work with LCB to clarify where necessary and ensure that any changed language is consistent with the agency’s intent. By statute, LCB must return a draft within thirty"
+ },
+ {
+  "id": "should-provide-timely-responses-to-any-questions-from-its-lc",
+  "level": 4,
+  "title": "should provide timely responses to any questions from its LCB drafter to facilitate the process."
+ },
+ {
+  "id": "public-hearing",
+  "level": 3,
+  "title": "Public Hearing"
+ },
+ {
+  "id": "after-the-agency-has-received-a-draft-from-lcb-the-agency-is",
+  "level": 4,
+  "title": "After the agency has received a draft from LCB, the agency is able to"
+ },
+ {
+  "id": "hearing-notice-along-with-a-copy-of-the-draft-regulation-thi",
+  "level": 4,
+  "title": "hearing notice), along with a copy of the draft regulation. This Notice must be"
+ },
+ {
+  "id": "posted-for-at-least-thirty-30-days-prior-to-holding-the-publ",
+  "level": 4,
+  "title": "posted for at least thirty (30) days prior to holding the public hearing, and a copy of the notice must be sent to the Director of LCB to be posted on the LCB"
+ },
+ {
+  "id": "notice-to-the-public-notice-must-be-given-to-lcb-the-state-l",
+  "level": 4,
+  "title": "notice to the public. Notice must be given to LCB, the State Library and Archives, and all persons on the agency’s mailing list for regulations. Notice may be additionally posted in other locations such as courthouses, businesses, and professional associations to ensure a wide-ranging response, and help address stakeholder concerns prior to submission to the Legislative Commission. At the public hearing on the regulation, the agency will receive comments from the public. The agency must accept comments both in person and in writing, but the agency may set a deadline for receipt of written comments to allow time for consideration. The public hearing must comply"
+ },
+ {
+  "id": "opportunity-to-submit-data-views-or-arguments-upon-a-propose",
+  "level": 4,
+  "title": "opportunity to submit data, views or arguments upon a proposed"
+ },
+ {
+  "id": "regulations-must-fully-consider-all-comments-received-at-the",
+  "level": 4,
+  "title": "regulations must fully consider all comments received at the hearing; in the case of a public body, this consideration can be done orally, on the record. In the case of an individual, a written report is required. The consideration statement must include the requested change, the response to the request and the reason why the change was made or rejected."
+ },
+ {
+  "id": "respond-to-changes",
+  "level": 3,
+  "title": "Respond to Changes"
+ },
+ {
+  "id": "if-any-substantive-changes-are-made-to-the-regulations-in-re",
+  "level": 4,
+  "title": "If any substantive changes are made to the regulations in response to the public hearing, the language must be resubmitted to LCB for drafting of a “revised proposed” regulation. After receipt of the second LCB draft, the agency must again notice and hear public comments on the changes prior to adoption."
+ },
+ {
+  "id": "legislative-commission",
+  "level": 3,
+  "title": "Legislative Commission"
+ },
+ {
+  "id": "at-this-point-the-regulations-may-be-formally-adopted-by-the",
+  "level": 4,
+  "title": "At this point, the regulations may be formally adopted by the agency"
+ },
+ {
+  "id": "commission-is-a-body-of-12-legislators-six-from-each-house-t",
+  "level": 4,
+  "title": "Commission is a body of 12 legislators, six from each house, that takes actions on behalf of the legislative branch of government when the full legislature is not in session. It meets every few months between sessions to provide guidance to staff of the Legislative Counsel Bureau and to deal with interim matters such as regulations. While temporary regulations typically do not require approval by the Legislative Commission, it will be required if a legislator specifically requests review of the regulation. The original, final copy of the regulation must be sent to LCB, along with an informational statement explaining the need for"
+ },
+ {
+  "id": "legislative-commission-before-they-may-become-effective-the-",
+  "level": 4,
+  "title": "Legislative Commission before they may become effective. The Legislative Commission will review the regulation to ensure it"
+ },
+ {
+  "id": "regulation-is-not-in-conformity-or-that-a-regulation-submitt",
+  "level": 4,
+  "title": "regulation is not in conformity or that a regulation submitted under federal authority is not required by federal law, the body may suspend filing. If the Legislative Commission or the Subcommittee to Review Regulations objects to a regulation, the agency shall, within sixty (60) days, revise and return the regulation. At the second review, the body may either withdraw its objection (and LCB will file the regulation with the Secretary of State and notify the"
+ },
+ {
+  "id": "agency-of-the-filing27-or-it-may-object-to-the-revised-regul",
+  "level": 5,
+  "title": "agency of the filing27) or it may object to the revised regulation. In the latter"
+ },
+ {
+  "id": "case-notice-of-the-objection-will-be-provided-to-the-agency-",
+  "level": 4,
+  "title": "case, notice of the objection will be provided to the agency, which must continue to revise the regulation and resubmit it within thirty (30) days after receipt until the objection is removed. For licensing boards relating to health care services, regulations that address licensing and renewal requirements have one further step. These"
+ },
+ {
+  "id": "regulations-must-additionally-be-submitted-to-the-legislativ",
+  "level": 4,
+  "title": "regulations must additionally be submitted to the Legislative Committee on"
+ },
+ {
+  "id": "governor-s-signature",
+  "level": 3,
+  "title": "Governor’s Signature"
+ },
+ {
+  "id": "in-the-case-of-emergency-regulations-the-language-is-submitt",
+  "level": 4,
+  "title": "In the case of emergency regulations, the language is submitted to the Governor with a statement describing the emergency which requires the regulation. If the Governor agrees with the agency’s assessment and proposed regulations, she or he will sign the regulations and they will be ready to file with the Secretary of State. These regulations are only valid for 120 days; this affords the agency time to begin the temporary or permanent rulemaking process. In addition to the ability to approve emergency regulations, the Governor is also specifically authorized to suspend regulations in the case of a"
+ },
+ {
+  "id": "file-with-secretary-of-state",
+  "level": 3,
+  "title": "File with Secretary of State"
+ },
+ {
+  "id": "once-the-regulation-has-received-final-approval-it-must-be-f",
+  "level": 4,
+  "title": "Once the regulation has received final approval, it must be filed with the Secretary of State to become effective. Permanent regulations will be filed by LCB after approval. In the case of temporary regulations, the agency must wait at least 35 days after the date of adoption before the regulations may be filed. Upon filing with the Secretary of State, the agency must also submit a copy of the regulations bearing a stamp from the Secretary of State to the State Library and Archives."
+ },
+ {
+  "id": "special-considerations",
+  "level": 2,
+  "title": "Special Considerations"
+ },
+ {
+  "id": "continued-review",
+  "level": 3,
+  "title": "Continued Review"
+ },
+ {
+  "id": "agencies-are-required-by-statute-to-review-their-regulations",
+  "level": 4,
+  "title": "Agencies are required by statute to review their regulations every ten"
+ },
+ {
+  "id": "their-regulations-every-two-2-years-following-the-legislativ",
+  "level": 4,
+  "title": "their regulations every two (2) years, following the legislative session. Often, new law will be passed that assigns an agency a regulatory task or changes the scope of the agency. Even without new law, agencies often respond and"
+ },
+ {
+  "id": "must-adapt-to-new-scenarios-ensuring-regulations-reflect-the",
+  "level": 4,
+  "title": "must adapt to new scenarios; ensuring regulations reflect the needs of the agency provides proper notice and transparency for the public."
+ },
+ {
+  "id": "rules-of-practice",
+  "level": 3,
+  "title": "Rules of Practice"
+ },
+ {
+  "id": "rules-regarding-the-practice-and-procedure-before-an-agency-",
+  "level": 4,
+  "title": "Rules regarding the practice and procedure before an agency are called"
+ },
+ {
+  "id": "subjects-such-as-petitioning-for-new-regulations-or-amending",
+  "level": 4,
+  "title": "subjects such as petitioning for new regulations or amending existing"
+ },
+ {
+  "id": "agency-specific-requirements-for-contested-hearings-and-othe",
+  "level": 4,
+  "title": "agency specific requirements for contested hearings and other proceedings. Agencies must review their rules of practice every three (3) years and submit"
+ },
+ {
+  "id": "register-of-administrative-regulations",
+  "level": 3,
+  "title": "Register of Administrative Regulations"
+ },
+ {
+  "id": "register-includes-all-versions-of-the-text-of-the-regulation",
+  "level": 4,
+  "title": "Register includes all versions of the text of the regulations, including the proposed and adopted text. It also includes the Notice of Intent to Act Upon a Regulation, the Written Notice of Adoption of Regulation, the Informational Statement, and the effective date of the regulation."
+ },
+ {
+  "id": "challenges",
+  "level": 3,
+  "title": "Challenges"
+ },
+ {
+  "id": "a-regulation-may-be-challenged-for-its-validity-or-applicabi",
+  "level": 4,
+  "title": "A regulation may be challenged for its validity or applicability. The court must declare a regulation invalid if it violates constitutional or statutory provisions or exceeds the statutory authority of the agency. The plaintiff in this action must allege that the regulation or proposed application interferes with or impairs, or threatens to interfere with or impair, his or her legal rights or privileges. The plaintiff may bring the action in the district court where he or she resides or in Carson City. The Attorney General must be served and have the opportunity to be heard. In addition to challenges by the public, any agency may seek a declaratory judgement to establish the validity of its own regulations."
+ },
+ {
+  "id": "appendix",
+  "level": 2,
+  "title": "Appendix"
+ },
+ {
+  "id": "text",
+  "level": 5,
+  "title": "Text"
+ },
+ {
+  "id": "definitions",
+  "level": 5,
+  "title": "Definitions"
+ },
+ {
+  "id": "common-terms-of-art",
+  "level": 5,
+  "title": "Common Terms of Art"
+ },
+ {
+  "id": "material-incorporated-by-reference",
+  "level": 5,
+  "title": "Material Incorporated by Reference"
+ },
+ {
+  "id": "typical-order-of-sections-in-a-regulation",
+  "level": 5,
+  "title": "Typical Order of Sections in a Regulation"
+ },
+ {
+  "id": "notice-of-intent-to-act-upon-a-regulation",
+  "level": 5,
+  "title": "Notice Of Intent To Act Upon A Regulation"
+ },
+ {
+  "id": "informational-statement-form-the-following-statement-is-subm",
+  "level": 5,
+  "title": "Informational Statement Form The following statement is submitted for adopted amendments to Nevada"
+ },
+ {
+  "id": "public-response-and-an-explanation-how-other-interested-pers",
+  "level": 5,
+  "title": "public response, and an explanation how other interested persons may"
+ },
+ {
+  "id": "business-address-business-telephone-number-electronic-mail-a",
+  "level": 5,
+  "title": "business address, business telephone number, electronic mail address, and name of entity or organization represented, for each person identified"
+ },
+ {
+  "id": "a-summary-of-their-response-and-an-explanation-how-other-int",
+  "level": 5,
+  "title": "a summary of their response, and an explanation how other interested"
+ },
+ {
+  "id": "proposed-regulation-a-summary-of-the-reasons-for-adopting-th",
+  "level": 5,
+  "title": "proposed regulation, a summary of the reasons for adopting the regulation"
+ },
+ {
+  "id": "businesses-which-it-is-to-regulate-and-on-the-public-these-m",
+  "level": 5,
+  "title": "businesses which it is to regulate and on the public. These must be stated separately, and each case must include:"
+ },
+ {
+  "id": "agencies-which-the-proposed-regulation-overlaps-or-duplicate",
+  "level": 5,
+  "title": "agencies which the proposed regulation overlaps or duplicates and a statement explaining why the duplication or overlapping is necessary. If the regulation overlaps or duplicates a federal regulation, the name of the"
+ },
+ {
+  "id": "federal-regulation-which-regulates-the-same-activity-a-summa",
+  "level": 5,
+  "title": "federal regulation which regulates the same activity, a summary of such"
+ },
+ {
+  "id": "total-annual-amount-the-agency-expects-to-collect-and-the-ma",
+  "level": 5,
+  "title": "total annual amount the agency expects to collect and the manner in which"
+ },
+ {
+  "id": "notice-of-adoption-of-regulation",
+  "level": 5,
+  "title": "Notice of Adoption of Regulation"
+ },
+ {
+  "id": "form-for-review-of-regulations",
+  "level": 5,
+  "title": "Form for Review of Regulations"
+ },
+ {
+  "id": "form-for-review-of-rules-of-practice",
+  "level": 5,
+  "title": "Form for Review of Rules of Practice"
+ },
+ {
+  "id": "form-for-filing-administrative-regulations",
+  "level": 5,
+  "title": "Form for Filing Administrative Regulations"
+ },
+ {
+  "id": "small-business-impact-statement",
+  "level": 5,
+  "title": "Small Business Impact Statement"
+ },
+ {
+  "id": "i-name-title-certify-that-to-the-best-of-my-knowledge-or-bel",
+  "level": 5,
+  "title": "I, [NAME] [TITLE], certify that, to the best of my knowledge or belief, a concerted effort was made to determine the impact of the proposed regulation on small business, and that the information contained in the statement above is accurate. (NRS 233B.0608(3))"
+ },
+ {
+  "id": "regulation-checklist",
+  "level": 5,
+  "title": "Regulation Checklist"
+ },
+ {
+  "id": "permanent",
+  "level": 5,
+  "title": "Permanent"
+ },
+ {
+  "id": "temporary",
+  "level": 5,
+  "title": "Temporary"
+ },
+ {
+  "id": "emergency",
+  "level": 5,
+  "title": "Emergency"
+ }
+]

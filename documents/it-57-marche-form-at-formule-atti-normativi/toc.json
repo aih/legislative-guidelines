@@ -1,0 +1,457 @@
+[
+ {
+  "id": "form-at-formule-di-atti-normativi",
+  "level": 2,
+  "title": "FORM.AT FORMULE DI ATTI NORMATIVI"
+ },
+ {
+  "id": "pag-31-pag-23-pag-13",
+  "level": 5,
+  "title": "Pag. 31 Pag. 23 Pag. 13"
+ },
+ {
+  "id": "indice",
+  "level": 5,
+  "title": "Indice"
+ },
+ {
+  "id": "introduzione-3",
+  "level": 5,
+  "title": "Introduzione 3"
+ },
+ {
+  "id": "sezione-prima-articoli-11",
+  "level": 5,
+  "title": "SEZIONE PRIMA - Articoli 11"
+ },
+ {
+  "id": "cap-1-linguaggio-normativo",
+  "level": 5,
+  "title": "CAP. 1 - Linguaggio normativo"
+ },
+ {
+  "id": "cap-2-riferimenti-o-rinvii-esterni",
+  "level": 5,
+  "title": "CAP. 2 - Riferimenti o rinvii esterni"
+ },
+ {
+  "id": "cap-3-modifiche",
+  "level": 5,
+  "title": "CAP. 3 - Modifiche"
+ },
+ {
+  "id": "cap-4-procedimenti-amministrativi-ricorrenti",
+  "level": 5,
+  "title": "CAP. 4 - Procedimenti amministrativi Ricorrenti"
+ },
+ {
+  "id": "pag-81",
+  "level": 5,
+  "title": "Pag. 81"
+ },
+ {
+  "id": "cap-5-aiuti-di-stato-pag-105-cap-6-disposizioni-finanziarie-",
+  "level": 5,
+  "title": "CAP. 5 - Aiuti di Stato Pag. 105 CAP. 6 - Disposizioni finanziarie Pag.109"
+ },
+ {
+  "id": "cap-7-disposizioni-finali-e-clausole-valutative-pag-117",
+  "level": 5,
+  "title": "CAP. 7 - Disposizioni finali e clausole valutative Pag. 117"
+ },
+ {
+  "id": "sezione-seconda-schemi-di-legge",
+  "level": 5,
+  "title": "SEZIONE SECONDA - Schemi di legge"
+ },
+ {
+  "id": "concertazione-e-concessione-di-contributi-pag-133",
+  "level": 5,
+  "title": "concertazione e concessione di contributi Pag. 133"
+ },
+ {
+  "id": "cap-9-organi-collegiali",
+  "level": 5,
+  "title": "CAP. 9 - Organi collegiali"
+ },
+ {
+  "id": "cap-10-leggi-costitutive-pag-169-sezione-terza-schemi-di-eme",
+  "level": 5,
+  "title": "CAP. 10 - Leggi costitutive Pag. 169 SEZIONE TERZA - Schemi di emendamento CAP. 11 - Emendamenti Pag. 195"
+ },
+ {
+  "id": "sezione-quarta-appendice-cap-12-struttura-dell-atto-normativ",
+  "level": 5,
+  "title": "SEZIONE QUARTA - Appendice CAP. 12 - Struttura dell’atto normativo Pag. 217 CAP. 13 - Linguaggio e scrittura del testo normativo Pag. 229"
+ },
+ {
+  "id": "cap-14-forme-di-citazione-pag-245",
+  "level": 5,
+  "title": "CAP. 14 - Forme di citazione Pag. 245"
+ },
+ {
+  "id": "articoli",
+  "level": 3,
+  "title": "Articoli"
+ },
+ {
+  "id": "sezione-prima",
+  "level": 2,
+  "title": "Sezione prima"
+ },
+ {
+  "id": "1-1-relazioni-congiuntive",
+  "level": 4,
+  "title": "1.1 Relazioni congiuntive"
+ },
+ {
+  "id": "1-2-relazioni-disgiuntive",
+  "level": 4,
+  "title": "1.2 Relazioni disgiuntive"
+ },
+ {
+  "id": "1-3-enumerazioni",
+  "level": 4,
+  "title": "1.3 Enumerazioni"
+ },
+ {
+  "id": "1-4-definizioni",
+  "level": 4,
+  "title": "1.4 Definizioni"
+ },
+ {
+  "id": "2-1-riferimenti-privi-di-funzione-normativa",
+  "level": 4,
+  "title": "2.1 Riferimenti privi di funzione normativa"
+ },
+ {
+  "id": "2-2-riferimenti-con-funzione-normativa",
+  "level": 4,
+  "title": "2.2 Riferimenti con funzione normativa"
+ },
+ {
+  "id": "2-3-riferimenti-ad-atti-modificati",
+  "level": 4,
+  "title": "2.3 Riferimenti ad atti modificati"
+ },
+ {
+  "id": "3-1-modifiche-esplicite-novelle",
+  "level": 4,
+  "title": "3.1 Modifiche esplicite (novelle)"
+ },
+ {
+  "id": "art",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-2",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-3",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-4",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-5",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-6",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-7",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-8",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-9",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-10",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-11",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-12",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-13",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-9-2",
+  "level": 5,
+  "title": "Art. 9"
+ },
+ {
+  "id": "art-14",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "mento-alla-norma-che-proviene-dallo-stesso-legislatore-per-c",
+  "level": 4,
+  "title": "mento alla norma che proviene dallo stesso legislatore per chiarire il significato di norme preesistenti. In alcuni casi i testi normativi possono rivelarsi talmente ambigui"
+ },
+ {
+  "id": "lo-interpretativo-le-espressioni-usate-nell-articolo-sono",
+  "level": 4,
+  "title": "lo interpretativo. Le espressioni usate nell’articolo sono"
+ },
+ {
+  "id": "art-7-2",
+  "level": 5,
+  "title": "Art. 7"
+ },
+ {
+  "id": "3-2-deroghe",
+  "level": 4,
+  "title": "3.2 Deroghe"
+ },
+ {
+  "id": "art-15",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "3-3-proroghe-sospensioni-e-differimenti",
+  "level": 4,
+  "title": "3.3 Proroghe, sospensioni e differimenti"
+ },
+ {
+  "id": "art-16",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-17",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-18",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-19",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-20",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "4-1-segnalazione-certificata-di-inizio-attività",
+  "level": 4,
+  "title": "4.1 Segnalazione certificata di inizio attività"
+ },
+ {
+  "id": "art-21",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "4-2-autorizzazioni",
+  "level": 4,
+  "title": "4.2 Autorizzazioni"
+ },
+ {
+  "id": "4-3-iscrizione-in-registri",
+  "level": 4,
+  "title": "4.3 Iscrizione in registri"
+ },
+ {
+  "id": "4-4-vincolo-di-destinazione",
+  "level": 4,
+  "title": "4.4 Vincolo di destinazione"
+ },
+ {
+  "id": "art-22",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "4-5-silenzio-significativo",
+  "level": 4,
+  "title": "4.5 Silenzio significativo"
+ },
+ {
+  "id": "4-6-conferenza-di-servizi",
+  "level": 4,
+  "title": "4.6 Conferenza di servizi"
+ },
+ {
+  "id": "4-7-potere-sostitutivo",
+  "level": 4,
+  "title": "4.7 Potere sostitutivo"
+ },
+ {
+  "id": "art-23",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-24",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "6-1-spese-a-carattere-continuativo-o-ricorrente",
+  "level": 4,
+  "title": "6.1 Spese a carattere continuativo o ricorrente"
+ },
+ {
+  "id": "6-2-spese-a-carattere-pluriennale",
+  "level": 4,
+  "title": "6.2 Spese a carattere pluriennale"
+ },
+ {
+  "id": "art-25",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "6-3-invarianza-finanziaria",
+  "level": 4,
+  "title": "6.3 Invarianza finanziaria"
+ },
+ {
+  "id": "art-26",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-27",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "7-1-disposizioni-transitorie",
+  "level": 4,
+  "title": "7.1 Disposizioni transitorie"
+ },
+ {
+  "id": "7-2-dichiarazione-d-urgenza",
+  "level": 4,
+  "title": "7.2 Dichiarazione d’urgenza"
+ },
+ {
+  "id": "7-3-clausole-valutative",
+  "level": 4,
+  "title": "7.3 Clausole valutative"
+ },
+ {
+  "id": "schemi-di-legge",
+  "level": 3,
+  "title": "Schemi di legge"
+ },
+ {
+  "id": "sezione-seconda",
+  "level": 2,
+  "title": "Sezione seconda"
+ },
+ {
+  "id": "8-2-concessione-di-contributi",
+  "level": 4,
+  "title": "8.2 Concessione di contributi"
+ },
+ {
+  "id": "legge-regionale",
+  "level": 5,
+  "title": "Legge regionale “……”"
+ },
+ {
+  "id": "9-1-organi-collegiali-non-elettivi",
+  "level": 4,
+  "title": "9.1 Organi collegiali non elettivi"
+ },
+ {
+  "id": "esempio-a",
+  "level": 5,
+  "title": "Esempio A"
+ },
+ {
+  "id": "art-28",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "9-2-organi-collegiali-elettivi",
+  "level": 4,
+  "title": "9.2 Organi collegiali elettivi"
+ },
+ {
+  "id": "art-29",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-30",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-31",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-32",
+  "level": 5,
+  "title": "Art. …"
+ },
+ {
+  "id": "10-1-istituzione-di-enti-dipendenti",
+  "level": 4,
+  "title": "10.1 Istituzione di enti dipendenti"
+ },
+ {
+  "id": "schemi-di-emendamento",
+  "level": 3,
+  "title": "Schemi di emendamento"
+ },
+ {
+  "id": "sezione-terza",
+  "level": 2,
+  "title": "Sezione terza"
+ },
+ {
+  "id": "appendice",
+  "level": 3,
+  "title": "Appendice"
+ },
+ {
+  "id": "sezione-quarta",
+  "level": 2,
+  "title": "Sezione quarta"
+ }
+]

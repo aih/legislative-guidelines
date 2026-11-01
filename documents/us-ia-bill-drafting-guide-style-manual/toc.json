@@ -1,0 +1,707 @@
+[
+ {
+  "id": "iowa-bill-drafting-guide-and-style-manual",
+  "level": 2,
+  "title": "IOWA BILL DRAFTING GUIDE AND STYLE MANUAL"
+ },
+ {
+  "id": "for-use-in-the-preparation-of-legislative-bills-resolutions-",
+  "level": 5,
+  "title": "For use in the preparation of legislative bills, resolutions, and amendments"
+ },
+ {
+  "id": "preface",
+  "level": 2,
+  "title": "PREFACE"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 3,
+  "title": "TABLE OF CONTENTS"
+ },
+ {
+  "id": "preface-table-of-contents-division-a-authority-to-establish-",
+  "level": 4,
+  "title": "PREFACE TABLE OF CONTENTS DIVISION A -- AUTHORITY TO ESTABLISH FORM AND STYLE"
+ },
+ {
+  "id": "division-b-constitutional-statutory-and-rule-provisions-affe",
+  "level": 4,
+  "title": "DIVISION B -- CONSTITUTIONAL, STATUTORY, AND RULE PROVISIONS AFFECTING THE CONTENTS OF BILLS AND CONSTRUCTION OF THEIR PROVISIONS"
+ },
+ {
+  "id": "division-c-elements-of-style-and-form",
+  "level": 4,
+  "title": "DIVISION C -- ELEMENTS OF STYLE AND FORM"
+ },
+ {
+  "id": "division-d-drafting-of-the-bill-and-amendments-form-and-meth",
+  "level": 4,
+  "title": "DIVISION D -- DRAFTING OF THE BILL AND AMENDMENTS -FORM AND METHOD"
+ },
+ {
+  "id": "division-e-specific-provisions-style-punctuation-and-prepara",
+  "level": 4,
+  "title": "DIVISION E -- SPECIFIC PROVISIONS, STYLE, PUNCTUATION, AND PREPARATION OF A TYPED BILL AND AMENDMENT"
+ },
+ {
+  "id": "appendix-i-bill-and-amendment-drafting-examples",
+  "level": 4,
+  "title": "APPENDIX I -- BILL AND AMENDMENT DRAFTING EXAMPLES"
+ },
+ {
+  "id": "appendix-ii-drafting-conference-committee-reports",
+  "level": 4,
+  "title": "APPENDIX II -- DRAFTING CONFERENCE COMMITTEE REPORTS"
+ },
+ {
+  "id": "appendix-iii-civil-law-consanguinity-chart-appendix-iv-bill-",
+  "level": 4,
+  "title": "APPENDIX III -- CIVIL LAW CONSANGUINITY CHART APPENDIX IV -- BILL REVIEW CHECKLIST AND GUIDELINES FOR DRAFTERS AND REVIEWERS"
+ },
+ {
+  "id": "appendix-v-bill-lead-in-formats-compatible-with-computer-pro",
+  "level": 4,
+  "title": "APPENDIX V -- BILL LEAD-IN FORMATS COMPATIBLE WITH COMPUTER PROGRAMS"
+ },
+ {
+  "id": "division-a-authority-to-establish-form-and-style",
+  "level": 2,
+  "title": "DIVISION A -- AUTHORITY TO ESTABLISH FORM AND STYLE"
+ },
+ {
+  "id": "1-iowa-constitutional-provisions",
+  "level": 3,
+  "title": "1. IOWA CONSTITUTIONAL PROVISIONS."
+ },
+ {
+  "id": "2-statutory-provisions",
+  "level": 3,
+  "title": "2. STATUTORY PROVISIONS."
+ },
+ {
+  "id": "section",
+  "level": 5,
+  "title": "* * * * *"
+ },
+ {
+  "id": "3-rules-of-the-general-assembly",
+  "level": 3,
+  "title": "3. RULES OF THE GENERAL ASSEMBLY."
+ },
+ {
+  "id": "a-joint-rules",
+  "level": 5,
+  "title": "A. JOINT RULES"
+ },
+ {
+  "id": "rule-5-printing-and-form-of-bills-and-other-documents",
+  "level": 5,
+  "title": "Rule 5 Printing and Form of Bills and Other Documents"
+ },
+ {
+  "id": "rule-6-companion-bills",
+  "level": 5,
+  "title": "Rule 6 Companion Bills"
+ },
+ {
+  "id": "rule-9-reintroduction-of-bills-and-other-measures",
+  "level": 5,
+  "title": "Rule 9 Reintroduction of Bills and Other Measures"
+ },
+ {
+  "id": "rule-12-amendments-by-other-house",
+  "level": 5,
+  "title": "Rule 12 Amendments by Other House"
+ },
+ {
+  "id": "rule-17-fiscal-notes",
+  "level": 5,
+  "title": "Rule 17 Fiscal Notes"
+ },
+ {
+  "id": "rule-20-time-of-committee-passage-and-consideration-of-bills",
+  "level": 5,
+  "title": "Rule 20 Time of Committee Passage and Consideration of Bills"
+ },
+ {
+  "id": "rule-21-resolutions",
+  "level": 5,
+  "title": "Rule 21 Resolutions"
+ },
+ {
+  "id": "rule-22-nullification-resolutions",
+  "level": 5,
+  "title": "Rule 22 Nullification Resolutions"
+ },
+ {
+  "id": "b-senate-rules",
+  "level": 5,
+  "title": "B. SENATE RULES"
+ },
+ {
+  "id": "rule-12-form-and-withdrawal-of-motions-amendments-and-signat",
+  "level": 5,
+  "title": "Rule 12 Form and Withdrawal of Motions, Amendments and Signatures"
+ },
+ {
+  "id": "rule-13-order-and-precedence-of-motions-and-amendments",
+  "level": 5,
+  "title": "Rule 13 Order and Precedence of Motions and Amendments"
+ },
+ {
+  "id": "rule-26-time-and-method-of-introducing-bills-and-amendments",
+  "level": 5,
+  "title": "Rule 26 Time and Method of Introducing Bills and Amendments"
+ },
+ {
+  "id": "rule-27-limit-on-introduction-of-bills",
+  "level": 5,
+  "title": "Rule 27 Limit on Introduction of Bills"
+ },
+ {
+  "id": "rule-29-explanations",
+  "level": 5,
+  "title": "Rule 29 Explanations"
+ },
+ {
+  "id": "rule-30-resolutions",
+  "level": 5,
+  "title": "Rule 30 Resolutions"
+ },
+ {
+  "id": "rule-33-study-bills",
+  "level": 5,
+  "title": "Rule 33 Study Bills"
+ },
+ {
+  "id": "rule-39-rules-for-standing-committees",
+  "level": 5,
+  "title": "Rule 39 Rules for Standing Committees"
+ },
+ {
+  "id": "rule-40-voting-in-committee",
+  "level": 5,
+  "title": "Rule 40 Voting in Committee"
+ },
+ {
+  "id": "c-house-rules",
+  "level": 5,
+  "title": "C. HOUSE RULES"
+ },
+ {
+  "id": "rule-27-forms-of-bills-and-joint-resolutions",
+  "level": 5,
+  "title": "Rule 27 Forms of Bills and Joint Resolutions"
+ },
+ {
+  "id": "rule-28-joint-and-nullification-resolutions",
+  "level": 5,
+  "title": "Rule 28 Joint and Nullification Resolutions"
+ },
+ {
+  "id": "rule-29-time-of-introduction-of-bills",
+  "level": 5,
+  "title": "Rule 29 Time of Introduction of Bills"
+ },
+ {
+  "id": "rule-31-first-reading-commitment-and-amendment",
+  "level": 5,
+  "title": "Rule 31 First Reading, Commitment, and Amendment"
+ },
+ {
+  "id": "rule-48-study-bills",
+  "level": 5,
+  "title": "Rule 48 Study Bills"
+ },
+ {
+  "id": "rule-56-committee-amendment",
+  "level": 5,
+  "title": "Rule 56 Committee Amendment"
+ },
+ {
+  "id": "rule-59-committee-amendments",
+  "level": 5,
+  "title": "Rule 59 Committee Amendments"
+ },
+ {
+  "id": "rule-68-order-of-consideration-of-amendments",
+  "level": 5,
+  "title": "Rule 68 Order of Consideration of Amendments"
+ },
+ {
+  "id": "d-legislative-council-rules",
+  "level": 5,
+  "title": "D. LEGISLATIVE COUNCIL RULES"
+ },
+ {
+  "id": "division-b-constitutional-statutory-and-rule-provisions-affe-2",
+  "level": 2,
+  "title": "DIVISION B -- CONSTITUTIONAL, STATUTORY, AND RULE PROVISIONS AFFECTING THE CONTENTS OF BILLS AND CONSTRUCTION OF THEIR PROVISIONS"
+ },
+ {
+  "id": "1-iowa-constitutional-provisions-2",
+  "level": 3,
+  "title": "1. IOWA CONSTITUTIONAL PROVISIONS."
+ },
+ {
+  "id": "2-statutory-provisions-2",
+  "level": 3,
+  "title": "2. STATUTORY PROVISIONS."
+ },
+ {
+  "id": "3-rules-of-statutory-construction-applied-by-courts-to-const",
+  "level": 3,
+  "title": "3. RULES OF STATUTORY CONSTRUCTION APPLIED BY COURTS TO CONSTITUTUTIONAL AND STATUTORY PROVISIONS AND IN GENERAL."
+ },
+ {
+  "id": "division-c-elements-of-style-and-form-2",
+  "level": 2,
+  "title": "DIVISION C -- ELEMENTS OF STYLE AND FORM"
+ },
+ {
+  "id": "1-word-usage",
+  "level": 3,
+  "title": "1. WORD USAGE."
+ },
+ {
+  "id": "avoid-using-use",
+  "level": 5,
+  "title": "Avoid Using Use"
+ },
+ {
+  "id": "2-parts-of-a-bill",
+  "level": 3,
+  "title": "2. PARTS OF A BILL."
+ },
+ {
+  "id": "division-d-drafting-of-the-bill-and-amendments-form-and-meth-2",
+  "level": 2,
+  "title": "DIVISION D -- DRAFTING OF THE BILL AND AMENDMENTS -FORM AND METHOD"
+ },
+ {
+  "id": "1-drafting-of-the-bill",
+  "level": 3,
+  "title": "1. DRAFTING OF THE BILL."
+ },
+ {
+  "id": "a-amendments-to-existing-law",
+  "level": 5,
+  "title": "A. AMENDMENTS TO EXISTING LAW"
+ },
+ {
+  "id": "examples",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "example",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-2",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-3",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "examples-2",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "example-4",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-5",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-6",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "b-new-law",
+  "level": 5,
+  "title": "B. NEW LAW"
+ },
+ {
+  "id": "example-7",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-8",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-9",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "c-appropriations-provisions",
+  "level": 5,
+  "title": "C. APPROPRIATIONS PROVISIONS"
+ },
+ {
+  "id": "examples-3",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "example-10",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-11",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "d-effective-date-of-acts",
+  "level": 5,
+  "title": "D. EFFECTIVE DATE OF ACTS"
+ },
+ {
+  "id": "examples-4",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "examples-5",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "e-repeals",
+  "level": 5,
+  "title": "E. REPEALS"
+ },
+ {
+  "id": "example-12",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-13",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "f-bill-proposals-study-bills",
+  "level": 5,
+  "title": "F. BILL PROPOSALS -STUDY BILLS"
+ },
+ {
+  "id": "2-drafting-of-amendments-to-bill-method",
+  "level": 3,
+  "title": "2. DRAFTING OF AMENDMENTS TO BILL -- METHOD."
+ },
+ {
+  "id": "a-general",
+  "level": 5,
+  "title": "A. GENERAL"
+ },
+ {
+  "id": "examples-6",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "examples-7",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "example-14",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "b-specific-amendments",
+  "level": 5,
+  "title": "B. SPECIFIC AMENDMENTS"
+ },
+ {
+  "id": "examples-8",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "examples-9",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "examples-10",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "example-1",
+  "level": 5,
+  "title": "Example 1:"
+ },
+ {
+  "id": "example-1a",
+  "level": 5,
+  "title": "*Example 1a:"
+ },
+ {
+  "id": "example-1b",
+  "level": 5,
+  "title": "Example 1b:"
+ },
+ {
+  "id": "examples-11",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "examples-12",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "example-2-2",
+  "level": 5,
+  "title": "Example 2:"
+ },
+ {
+  "id": "examples-13",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "examples-14",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "example-3-2",
+  "level": 5,
+  "title": "Example 3:"
+ },
+ {
+  "id": "example-4-2",
+  "level": 5,
+  "title": "Example 4:"
+ },
+ {
+  "id": "division-e-specific-provisions-style-punctuation-and-prepara-2",
+  "level": 2,
+  "title": "DIVISION E -- SPECIFIC PROVISIONS, STYLE, PUNCTUATION, AND PREPARATION OF A TYPED BILL AND AMENDMENT"
+ },
+ {
+  "id": "1-general",
+  "level": 3,
+  "title": "1. GENERAL."
+ },
+ {
+  "id": "2-typing-format",
+  "level": 3,
+  "title": "2. TYPING FORMAT."
+ },
+ {
+  "id": "capital-letters-are-not-used-for",
+  "level": 5,
+  "title": "Capital letters are not used for:"
+ },
+ {
+  "id": "preferable-form-for-a-series-of-subparts-is-to-use-explanato",
+  "level": 5,
+  "title": "Preferable form for a series of subparts is to use explanatory words such as \"all of the following\" or \"any of the following\" in the introductory sentence, and end each subpart with a period, rather than to end each subpart with a comma or"
+ },
+ {
+  "id": "appendix-i-bill-and-amendment-drafting-examples-2",
+  "level": 2,
+  "title": "APPENDIX I -- BILL AND AMENDMENT DRAFTING EXAMPLES"
+ },
+ {
+  "id": "a-standard-sponsorship-language",
+  "level": 3,
+  "title": "A. STANDARD SPONSORSHIP LANGUAGE"
+ },
+ {
+  "id": "b-examples-of-amending-statutes",
+  "level": 3,
+  "title": "B. EXAMPLES OF AMENDING STATUTES"
+ },
+ {
+  "id": "senate-file-820-section-25-was-enacted-original-amendment",
+  "level": 5,
+  "title": "(Senate File 820, section 25, was enacted) Original amendment:"
+ },
+ {
+  "id": "c-effective-and-applicability-dates",
+  "level": 3,
+  "title": "C. EFFECTIVE AND APPLICABILITY DATES"
+ },
+ {
+  "id": "d-repeals",
+  "level": 3,
+  "title": "D. REPEALS"
+ },
+ {
+  "id": "e-amending-clauses-for-amendments",
+  "level": 3,
+  "title": "E. AMENDING CLAUSES FOR AMENDMENTS"
+ },
+ {
+  "id": "f-resolutions",
+  "level": 3,
+  "title": "F. RESOLUTIONS"
+ },
+ {
+  "id": "house-joint-resolution",
+  "level": 5,
+  "title": "HOUSE JOINT RESOLUTION"
+ },
+ {
+  "id": "first-time-passed",
+  "level": 5,
+  "title": "[First Time Passed]"
+ },
+ {
+  "id": "senate-joint-resolution",
+  "level": 5,
+  "title": "SENATE JOINT RESOLUTION"
+ },
+ {
+  "id": "second-time-passed",
+  "level": 5,
+  "title": "[Second Time Passed]"
+ },
+ {
+  "id": "senate-joint-resolution-2",
+  "level": 5,
+  "title": "SENATE JOINT RESOLUTION"
+ },
+ {
+  "id": "house-joint-resolution-2",
+  "level": 5,
+  "title": "HOUSE JOINT RESOLUTION"
+ },
+ {
+  "id": "g-conference-committee-reports",
+  "level": 3,
+  "title": "G. CONFERENCE COMMITTEE REPORTS"
+ },
+ {
+  "id": "h-bills",
+  "level": 3,
+  "title": "H. BILLS"
+ },
+ {
+  "id": "a-bill-for",
+  "level": 5,
+  "title": "A BILL FOR"
+ },
+ {
+  "id": "explanation-drafted-by-legislative-services-agency-backgroun",
+  "level": 5,
+  "title": "[Explanation drafted by Legislative Services Agency; background statement drafted by agency]"
+ },
+ {
+  "id": "i-court-rules",
+  "level": 3,
+  "title": "I. COURT RULES"
+ },
+ {
+  "id": "example-15",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "appendix-ii-drafting-conference-committee-reports-2",
+  "level": 2,
+  "title": "APPENDIX II -- DRAFTING CONFERENCE COMMITTEE REPORTS"
+ },
+ {
+  "id": "a-contents",
+  "level": 3,
+  "title": "A. CONTENTS"
+ },
+ {
+  "id": "b-procedures",
+  "level": 3,
+  "title": "B. PROCEDURES"
+ },
+ {
+  "id": "appendix-iii-civil-law-consanguinity-chart",
+  "level": 2,
+  "title": "APPENDIX III -- CIVIL LAW CONSANGUINITY CHART"
+ },
+ {
+  "id": "appendix-iv-bill-review-checklist-and-guidelines-for-drafter",
+  "level": 2,
+  "title": "APPENDIX IV -- BILL REVIEW CHECKLIST AND GUIDELINES FOR DRAFTERS AND REVIEWERS"
+ },
+ {
+  "id": "a-checklist",
+  "level": 3,
+  "title": "A. CHECKLIST"
+ },
+ {
+  "id": "for-more-details-see-guidelines-or-iowa-bill-drafting-guide-",
+  "level": 5,
+  "title": "(For more details see Guidelines or Iowa Bill Drafting Guide and Style Manual.)"
+ },
+ {
+  "id": "b-guidelines-for-use-of-specific-provisions",
+  "level": 3,
+  "title": "B. GUIDELINES FOR USE OF SPECIFIC PROVISIONS"
+ },
+ {
+  "id": "appendix-v-bill-lead-in-formats-compatible-with-computer-pro-2",
+  "level": 2,
+  "title": "APPENDIX V -- BILL LEAD-IN FORMATS COMPATIBLE WITH COMPUTER PROGRAMS"
+ },
+ {
+  "id": "a-lead-in-keywords-and-syntax",
+  "level": 3,
+  "title": "A. LEAD-IN KEYWORDS AND SYNTAX"
+ },
+ {
+  "id": "b-desirable-lead-in-formats",
+  "level": 3,
+  "title": "B. DESIRABLE LEAD-IN FORMATS"
+ },
+ {
+  "id": "c-recap-of-section-breakdown",
+  "level": 3,
+  "title": "C. RECAP OF SECTION BREAKDOWN"
+ },
+ {
+  "id": "d-code-supplement",
+  "level": 3,
+  "title": "D. CODE SUPPLEMENT"
+ },
+ {
+  "id": "e-special-handling",
+  "level": 3,
+  "title": "E. SPECIAL HANDLING"
+ },
+ {
+  "id": "f-multiple-repeals",
+  "level": 3,
+  "title": "F. MULTIPLE REPEALS"
+ },
+ {
+  "id": "g-units-of-code-sections-in-one-bill-section",
+  "level": 3,
+  "title": "G. UNITS OF CODE SECTIONS IN ONE BILL SECTION"
+ }
+]

@@ -1,0 +1,4022 @@
+[
+ {
+  "id": "title",
+  "level": 2,
+  "title": "«Title»"
+ },
+ {
+  "id": "subtitle",
+  "level": 2,
+  "title": "«Subtitle»"
+ },
+ {
+  "id": "office-of-legislative-research-and-general-counsel",
+  "level": 2,
+  "title": "Office of Legislative Research and General Counsel"
+ },
+ {
+  "id": "utah-legislative-drafting-manual",
+  "level": 2,
+  "title": "UTAH LEGISLATIVE DRAFTING MANUAL"
+ },
+ {
+  "id": "and-style-guide",
+  "level": 2,
+  "title": "AND STYLE GUIDE"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 2,
+  "title": "Table of Contents"
+ },
+ {
+  "id": "chapters",
+  "level": 3,
+  "title": "CHAPTERS"
+ },
+ {
+  "id": "appendices",
+  "level": 3,
+  "title": "APPENDICES"
+ },
+ {
+  "id": "appendix-a-problematic-words-and-phrases-appendices-1-append",
+  "level": 5,
+  "title": "Appendix A — Problematic Words and Phrases …………………………………………………...………………… Appendices 1 Appendix B — Utah Code Hyphenation …………………………………………………...………………… ………… Appendices 10 Appendix C — Appropriation Examples …………………………………………………...…………………………... Appendices 11 Appendix D — Conflicts Resolution Chart …………………………………………………...…………………….….. Appendices 26 Appendix E — Coordination Clause Examples …………………………………………………...………………….. Appendices 27 Appendix F — Legislative Task Force Template ………………………………………………...………………….. Appendices 41 Appendix G — Legislative Task Force Examples …………………………………………………...……………….. Appendices 44 Appendix H — Statutory Grant Program Template …………………………………………...………………….. Appendices 55 Appendix I — Model Professional Licensing Act …………………………………………………...…………….. .. Appendices 56 Appendix J — Revisor Instructions Examples …………………………………………………...…………………... Appendices 58 Appendix K — Examples of Transition or Savings Clauses ………….……………………...………………….. Appendices 59 Appendix L — Coordination Clause Scenarios …………………………………………………...………………….. Appendices 78 Appendix M — Cleanup and Recodification of the Utah Code …………………………...………………….. Appendices 79"
+ },
+ {
+  "id": "chapter-1-introduction",
+  "level": 2,
+  "title": "Chapter 1 — Introduction"
+ },
+ {
+  "id": "1-purpose",
+  "level": 5,
+  "title": "1. Purpose"
+ },
+ {
+  "id": "2-legislative-drafting",
+  "level": 5,
+  "title": "2. Legislative Drafting"
+ },
+ {
+  "id": "3-codified-drafting-rules",
+  "level": 5,
+  "title": "3. Codified Drafting Rules"
+ },
+ {
+  "id": "4-sources",
+  "level": 5,
+  "title": "4. Sources"
+ },
+ {
+  "id": "chapter-2-drafting-principles",
+  "level": 2,
+  "title": "Chapter 2 — Drafting Principles"
+ },
+ {
+  "id": "a-general",
+  "level": 5,
+  "title": "a. General"
+ },
+ {
+  "id": "b-lists-or-interlocked-subsections",
+  "level": 5,
+  "title": "b. Lists or Interlocked Subsections"
+ },
+ {
+  "id": "example",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-2",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "chapter-2-drafting-principles-continued-from-previous-page",
+  "level": 5,
+  "title": "Chapter 2 — Drafting Principles (continued from previous page)"
+ },
+ {
+  "id": "c-clear-indication-of-intent",
+  "level": 5,
+  "title": "c. Clear Indication of Intent"
+ },
+ {
+  "id": "example-3",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "chapter-2-drafting-principles-continued-from-previous-page-2",
+  "level": 5,
+  "title": "Chapter 2 — Drafting Principles (continued from previous page)"
+ },
+ {
+  "id": "example-4",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-5",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "a-use-of-definitions",
+  "level": 5,
+  "title": "a. Use of Definitions"
+ },
+ {
+  "id": "b-existing-definitions",
+  "level": 5,
+  "title": "b. Existing Definitions"
+ },
+ {
+  "id": "c-adding-changing-deleting-or-moving-a-definition",
+  "level": 5,
+  "title": "c. Adding, Changing, Deleting, or Moving a Definition"
+ },
+ {
+  "id": "d-use-intuitive-terms",
+  "level": 5,
+  "title": "d. Use Intuitive Terms"
+ },
+ {
+  "id": "e-circular-definitions",
+  "level": 5,
+  "title": "e. Circular Definitions"
+ },
+ {
+  "id": "f-more-information",
+  "level": 5,
+  "title": "f. More Information"
+ },
+ {
+  "id": "chapter-2-drafting-principles-continued-from-previous-page-3",
+  "level": 5,
+  "title": "Chapter 2 — Drafting Principles (continued from previous page)"
+ },
+ {
+  "id": "example-6",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-7",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-8",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-9",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "a-avoid-long-or-complex-sentences",
+  "level": 5,
+  "title": "a. Avoid Long or Complex Sentences"
+ },
+ {
+  "id": "chapter-2-drafting-principles-continued-from-previous-page-4",
+  "level": 5,
+  "title": "Chapter 2 — Drafting Principles (continued from previous page)"
+ },
+ {
+  "id": "b-sentence-structure",
+  "level": 5,
+  "title": "b. Sentence Structure"
+ },
+ {
+  "id": "i-agreement",
+  "level": 5,
+  "title": "i. Agreement"
+ },
+ {
+  "id": "a-between-pronoun-and-antecedent",
+  "level": 5,
+  "title": "A. Between Pronoun and Antecedent"
+ },
+ {
+  "id": "b-between-subject-and-verb",
+  "level": 5,
+  "title": "B. Between Subject and Verb"
+ },
+ {
+  "id": "ii-articles",
+  "level": 5,
+  "title": "ii. Articles"
+ },
+ {
+  "id": "example-10",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "iii-modifiers",
+  "level": 5,
+  "title": "iii. Modifiers"
+ },
+ {
+  "id": "example-11",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "iv-negative-subject",
+  "level": 5,
+  "title": "iv. Negative Subject"
+ },
+ {
+  "id": "v-object-and-verb",
+  "level": 5,
+  "title": "v. Object and Verb"
+ },
+ {
+  "id": "vi-subject-and-verb",
+  "level": 5,
+  "title": "vi. Subject and Verb"
+ },
+ {
+  "id": "a-clarity",
+  "level": 5,
+  "title": "a. Clarity"
+ },
+ {
+  "id": "chapter-2-drafting-principles-continued-from-previous-page-5",
+  "level": 5,
+  "title": "Chapter 2 — Drafting Principles (continued from previous page)"
+ },
+ {
+  "id": "example-12",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "b-organization",
+  "level": 5,
+  "title": "b. Organization"
+ },
+ {
+  "id": "c-subsections-as-complete-sentences",
+  "level": 5,
+  "title": "c. Subsections as Complete Sentences"
+ },
+ {
+  "id": "example-13",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-14",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "a-artificially-converting-a-part-of-speech",
+  "level": 5,
+  "title": "a. Artificially Converting a Part of Speech"
+ },
+ {
+  "id": "example-15",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-16",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "b-priority-to-verbs",
+  "level": 5,
+  "title": "b. Priority to Verbs"
+ },
+ {
+  "id": "chapter-2-drafting-principles-continued-from-previous-page-6",
+  "level": 5,
+  "title": "Chapter 2 — Drafting Principles (continued from previous page)"
+ },
+ {
+  "id": "a-care",
+  "level": 5,
+  "title": "a. Care"
+ },
+ {
+  "id": "example-17",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "b-consistency",
+  "level": 5,
+  "title": "b. Consistency"
+ },
+ {
+  "id": "example-18",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-19",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "c-precision",
+  "level": 5,
+  "title": "c. Precision"
+ },
+ {
+  "id": "d-superfluous-words",
+  "level": 5,
+  "title": "d. Superfluous Words"
+ },
+ {
+  "id": "examples",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "chapter-2-drafting-principles-continued-from-previous-page-7",
+  "level": 5,
+  "title": "Chapter 2 — Drafting Principles (continued from previous page)"
+ },
+ {
+  "id": "chapter-3-style-and-usage",
+  "level": 2,
+  "title": "Chapter 3 — Style and Usage"
+ },
+ {
+  "id": "a-when-to-capitalize",
+  "level": 5,
+  "title": "a. When to Capitalize"
+ },
+ {
+  "id": "b-when-not-to-capitalize",
+  "level": 5,
+  "title": "b. When Not to Capitalize"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "a-titles-and-chapters",
+  "level": 5,
+  "title": "a. Titles and Chapters"
+ },
+ {
+  "id": "b-parts",
+  "level": 5,
+  "title": "b. Parts"
+ },
+ {
+  "id": "c-sections",
+  "level": 5,
+  "title": "c. Sections"
+ },
+ {
+  "id": "d-subsections",
+  "level": 5,
+  "title": "d. Subsections"
+ },
+ {
+  "id": "____________________________________________",
+  "level": 5,
+  "title": "____________________________________________"
+ },
+ {
+  "id": "section-1-1-101-example-of-beyond-z",
+  "level": 5,
+  "title": "Section 1-1-101. Example of beyond (z)"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page-2",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "section-1-1-101-example-of-beyond-z-2",
+  "level": 5,
+  "title": "Section 1-1-101. Example of beyond (Z)"
+ },
+ {
+  "id": "a-citation-to-title-chapter-or-part",
+  "level": 5,
+  "title": "a. Citation to Title, Chapter, or Part"
+ },
+ {
+  "id": "example-20",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "examples-2",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "b-citation-to-a-section",
+  "level": 5,
+  "title": "b. Citation to a Section"
+ },
+ {
+  "id": "example-21",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "c-citation-to-a-subsection",
+  "level": 5,
+  "title": "c. Citation to a Subsection"
+ },
+ {
+  "id": "example-22",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "examples-3",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "example-23",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "d-citation-to-laws-of-utah",
+  "level": 5,
+  "title": "d. Citation to Laws of Utah"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page-3",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "examples-4",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "e-citation-to-utah-constitution",
+  "level": 5,
+  "title": "e. Citation to Utah Constitution"
+ },
+ {
+  "id": "example-24",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "f-citation-to-legislative-rule",
+  "level": 5,
+  "title": "f. Citation to Legislative Rule"
+ },
+ {
+  "id": "example-25",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "g-citation-to-court-rule",
+  "level": 5,
+  "title": "g. Citation to Court Rule"
+ },
+ {
+  "id": "examples-5",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "h-citation-to-federal-statute",
+  "level": 5,
+  "title": "h. Citation to Federal Statute"
+ },
+ {
+  "id": "examples-6",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "i-citation-to-federal-rule",
+  "level": 5,
+  "title": "i. Citation to Federal Rule"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page-4",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "examples-7",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "j-citation-to-federal-constitution",
+  "level": 5,
+  "title": "j. Citation to Federal Constitution"
+ },
+ {
+  "id": "examples-8",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "k-citation-to-case-law",
+  "level": 5,
+  "title": "k. Citation to Case Law"
+ },
+ {
+  "id": "examples-9",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "l-words-and-phrases-used-with-citations",
+  "level": 5,
+  "title": "l. Words and Phrases Used with Citations"
+ },
+ {
+  "id": "i-described-in",
+  "level": 5,
+  "title": "i. Described in"
+ },
+ {
+  "id": "ii-in-accordance-with",
+  "level": 5,
+  "title": "ii. In Accordance With"
+ },
+ {
+  "id": "examples-10",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "iii-under",
+  "level": 5,
+  "title": "iii. Under"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page-5",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "example-26",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "iv-imprecise-references",
+  "level": 5,
+  "title": "iv. Imprecise references"
+ },
+ {
+  "id": "a-except-as",
+  "level": 5,
+  "title": "a. Except as"
+ },
+ {
+  "id": "example-27",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "b-unless",
+  "level": 5,
+  "title": "b. Unless"
+ },
+ {
+  "id": "example-28",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "c-subject-to",
+  "level": 5,
+  "title": "c. Subject to"
+ },
+ {
+  "id": "example-29",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "d-notwithstanding",
+  "level": 5,
+  "title": "d. Notwithstanding"
+ },
+ {
+  "id": "example-30",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "e-if-then-statements",
+  "level": 5,
+  "title": "e. “If Then” Statements"
+ },
+ {
+  "id": "example-31",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page-6",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "a-format-of-a-definition",
+  "level": 5,
+  "title": "a. Format of a Definition"
+ },
+ {
+  "id": "example-32",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-33",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "b-inclusions-and-exclusions",
+  "level": 5,
+  "title": "b. Inclusions and Exclusions"
+ },
+ {
+  "id": "example-34",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "c-incorporating-a-definition-by-reference",
+  "level": 5,
+  "title": "c. Incorporating a Definition by Reference"
+ },
+ {
+  "id": "example-35",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-36",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page-7",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "a-may",
+  "level": 5,
+  "title": "a. May"
+ },
+ {
+  "id": "b-may-not",
+  "level": 5,
+  "title": "b. May Not"
+ },
+ {
+  "id": "c-must",
+  "level": 5,
+  "title": "c. Must"
+ },
+ {
+  "id": "d-shall",
+  "level": 5,
+  "title": "d. Shall"
+ },
+ {
+  "id": "e-should",
+  "level": 5,
+  "title": "e. Should"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page-8",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "example-37",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "a-general-2",
+  "level": 5,
+  "title": "a. General"
+ },
+ {
+  "id": "b-methods-of-avoiding-gender-specific-pronouns",
+  "level": 5,
+  "title": "b. Methods of Avoiding Gender-Specific Pronouns"
+ },
+ {
+  "id": "i-use-gender-neutral-nouns",
+  "level": 5,
+  "title": "i. Use Gender-Neutral Nouns"
+ },
+ {
+  "id": "ii-repeat-the-antecedent-noun",
+  "level": 5,
+  "title": "ii. Repeat the Antecedent Noun"
+ },
+ {
+  "id": "example-do-not-say",
+  "level": 5,
+  "title": "Example Do not say:"
+ },
+ {
+  "id": "instead-say",
+  "level": 5,
+  "title": "Instead say:"
+ },
+ {
+  "id": "iii-use-an-article-instead-of-a-possessive-pronoun",
+  "level": 5,
+  "title": "iii. Use an Article Instead of a Possessive Pronoun"
+ },
+ {
+  "id": "example-do-not-say-2",
+  "level": 5,
+  "title": "Example Do not say:"
+ },
+ {
+  "id": "instead-say-2",
+  "level": 5,
+  "title": "Instead say:"
+ },
+ {
+  "id": "example-do-not-say-3",
+  "level": 5,
+  "title": "Example Do not say:"
+ },
+ {
+  "id": "instead-say-3",
+  "level": 5,
+  "title": "Instead say:"
+ },
+ {
+  "id": "iv-use-an-interrogative-or-demonstrative-expression",
+  "level": 5,
+  "title": "iv. Use an interrogative or demonstrative expression"
+ },
+ {
+  "id": "example-do-not-say-4",
+  "level": 5,
+  "title": "Example Do not say:"
+ },
+ {
+  "id": "instead-say-4",
+  "level": 5,
+  "title": "Instead say:"
+ },
+ {
+  "id": "v-rephrase-the-nominal",
+  "level": 5,
+  "title": "v. Rephrase the Nominal"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page-9",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "example-do-not-say-5",
+  "level": 5,
+  "title": "Example Do not say:"
+ },
+ {
+  "id": "instead-say-5",
+  "level": 5,
+  "title": "Instead say:"
+ },
+ {
+  "id": "v-rephrase-the-nominal-2",
+  "level": 5,
+  "title": "v. Rephrase the Nominal"
+ },
+ {
+  "id": "examples-do-not-say",
+  "level": 5,
+  "title": "Examples Do not say:"
+ },
+ {
+  "id": "instead-say-6",
+  "level": 5,
+  "title": "Instead say:"
+ },
+ {
+  "id": "do-not-say",
+  "level": 5,
+  "title": "Do not say:"
+ },
+ {
+  "id": "instead-say-7",
+  "level": 5,
+  "title": "Instead say:"
+ },
+ {
+  "id": "vii-last-resort-refer-to-both-genders",
+  "level": 5,
+  "title": "vii. Last Resort – Refer to Both Genders"
+ },
+ {
+  "id": "example-38",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-39",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page-10",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "example-40",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "a-affect-effect",
+  "level": 5,
+  "title": "a. Affect, Effect"
+ },
+ {
+  "id": "examples-11",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "b-after-following-subsequent-to",
+  "level": 5,
+  "title": "b. After, Following, Subsequent to"
+ },
+ {
+  "id": "c-assure-ensure-insure",
+  "level": 5,
+  "title": "c. Assure, Ensure, Insure"
+ },
+ {
+  "id": "d-attorney-fees",
+  "level": 5,
+  "title": "d. Attorney Fees"
+ },
+ {
+  "id": "e-before-preceding-prior-to",
+  "level": 5,
+  "title": "e. Before, Preceding, Prior to"
+ },
+ {
+  "id": "semimonthly",
+  "level": 5,
+  "title": "Semimonthly"
+ },
+ {
+  "id": "g-compose-comprise",
+  "level": 5,
+  "title": "g. Compose, Comprise"
+ },
+ {
+  "id": "h-consecutive-successive",
+  "level": 5,
+  "title": "h. Consecutive, Successive"
+ },
+ {
+  "id": "i-consider-deem",
+  "level": 5,
+  "title": "i. Consider, Deem"
+ },
+ {
+  "id": "example-do-not-say-6",
+  "level": 5,
+  "title": "Example Do not say:"
+ },
+ {
+  "id": "instead-say-8",
+  "level": 5,
+  "title": "Instead say:"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page-11",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "pursuant-to",
+  "level": 5,
+  "title": "Pursuant to"
+ },
+ {
+  "id": "k-ex-officio",
+  "level": 5,
+  "title": "k. Ex Officio"
+ },
+ {
+  "id": "l-farther-further",
+  "level": 5,
+  "title": "l. Farther, Further"
+ },
+ {
+  "id": "m-individual-entity-party-person",
+  "level": 5,
+  "title": "m. Individual, Entity, Party, Person"
+ },
+ {
+  "id": "n-if-when-where-in-the-event-of",
+  "level": 5,
+  "title": "n. If, When, Where, In the Event of"
+ },
+ {
+  "id": "o-notwithstanding",
+  "level": 5,
+  "title": "o. Notwithstanding"
+ },
+ {
+  "id": "p-promulgate-adopt-make",
+  "level": 5,
+  "title": "p. Promulgate, Adopt, Make"
+ },
+ {
+  "id": "q-respectively-as-the-case-may-be",
+  "level": 5,
+  "title": "q. Respectively, As the Case May be"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page-12",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "r-rule-regulation",
+  "level": 5,
+  "title": "r. Rule, Regulation"
+ },
+ {
+  "id": "s-said-same-such",
+  "level": 5,
+  "title": "s. Said, Same, Such"
+ },
+ {
+  "id": "t-should-ought",
+  "level": 5,
+  "title": "t. Should, Ought"
+ },
+ {
+  "id": "u-state-state-of-utah-utah",
+  "level": 5,
+  "title": "u. State, State of Utah, Utah"
+ },
+ {
+  "id": "v-that-which",
+  "level": 5,
+  "title": "v. That, Which"
+ },
+ {
+  "id": "w-to-through",
+  "level": 5,
+  "title": "w. To, Through"
+ },
+ {
+  "id": "x-verbal-oral",
+  "level": 5,
+  "title": "x. Verbal, Oral"
+ },
+ {
+  "id": "y-willful-willfully",
+  "level": 5,
+  "title": "y. Willful, Willfully"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page-13",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "z-writing",
+  "level": 5,
+  "title": "z. Writing"
+ },
+ {
+  "id": "a-in-general",
+  "level": 5,
+  "title": "a. In General"
+ },
+ {
+  "id": "i-beginning-a-sentence-with-a-number",
+  "level": 5,
+  "title": "i. Beginning a Sentence with a Number"
+ },
+ {
+  "id": "examples-do-not-say-2",
+  "level": 5,
+  "title": "Examples Do not say:"
+ },
+ {
+  "id": "instead-say-9",
+  "level": 5,
+  "title": "Instead say:"
+ },
+ {
+  "id": "do-not-say-2",
+  "level": 5,
+  "title": "Do not say:"
+ },
+ {
+  "id": "instead-say-10",
+  "level": 5,
+  "title": "Instead say:"
+ },
+ {
+  "id": "iv-fractions",
+  "level": 5,
+  "title": "iv. Fractions"
+ },
+ {
+  "id": "example-41",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "ii-do-not-follow-a-number-with-a-number-in-paren-thesis",
+  "level": 5,
+  "title": "ii. Do Not Follow a Number with a Number in Paren- thesis"
+ },
+ {
+  "id": "iii-singular-v-plural",
+  "level": 5,
+  "title": "iii. Singular v. Plural"
+ },
+ {
+  "id": "examples-12",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "v-compound-number-from-twenty-one-to-ninety-nine",
+  "level": 5,
+  "title": "v. Compound Number from Twenty-one to Ninety- nine"
+ },
+ {
+  "id": "example-42",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "b-nine-and-under-rule",
+  "level": 5,
+  "title": "b. Nine and Under Rule"
+ },
+ {
+  "id": "i-general",
+  "level": 5,
+  "title": "i. General"
+ },
+ {
+  "id": "ii-exceptions",
+  "level": 5,
+  "title": "ii. Exceptions"
+ },
+ {
+  "id": "a-money",
+  "level": 5,
+  "title": "A. Money"
+ },
+ {
+  "id": "example-43",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page-14",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "examples-13",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "examples-14",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "b-population",
+  "level": 5,
+  "title": "B. Population"
+ },
+ {
+  "id": "examples-15",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "c-percentage",
+  "level": 5,
+  "title": "C. Percentage"
+ },
+ {
+  "id": "d-group-of-numbers",
+  "level": 5,
+  "title": "D. Group of Numbers"
+ },
+ {
+  "id": "e-numbers-in-a-table",
+  "level": 5,
+  "title": "E. Numbers in a Table"
+ },
+ {
+  "id": "f-reference-to-the-utah-code-or-other-law",
+  "level": 5,
+  "title": "F. Reference to the Utah Code or Other Law"
+ },
+ {
+  "id": "g-terms-in-education",
+  "level": 5,
+  "title": "G. Terms in Education"
+ },
+ {
+  "id": "examples-do-not-say-instead-say",
+  "level": 5,
+  "title": "Examples Do not say: Instead, say:"
+ },
+ {
+  "id": "c-measurement",
+  "level": 5,
+  "title": "c. Measurement"
+ },
+ {
+  "id": "example-do-not-say-instead-say",
+  "level": 5,
+  "title": "Example Do not say: Instead, say:"
+ },
+ {
+  "id": "d-age",
+  "level": 5,
+  "title": "d. Age"
+ },
+ {
+  "id": "examples-do-not-say-3",
+  "level": 5,
+  "title": "Examples Do not say:"
+ },
+ {
+  "id": "instead-say-11",
+  "level": 5,
+  "title": "Instead, say:"
+ },
+ {
+  "id": "e-word-used-in-conjunction-with-a-number",
+  "level": 5,
+  "title": "e. Word Used in Conjunction with a Number"
+ },
+ {
+  "id": "i-amount-and-number",
+  "level": 5,
+  "title": "i. “Amount” and “Number”"
+ },
+ {
+  "id": "ii-less-and-fewer",
+  "level": 5,
+  "title": "ii. “Less” and “Fewer”"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page-15",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "examples-16",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "examples-17",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "examples-18",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "iii-funds-money-and-monies",
+  "level": 5,
+  "title": "iii. “Funds,” “Money,” and “Monies”"
+ },
+ {
+  "id": "f-date-or-time",
+  "level": 5,
+  "title": "f. Date or Time"
+ },
+ {
+  "id": "i-hour",
+  "level": 5,
+  "title": "i. Hour"
+ },
+ {
+  "id": "examples-do-not-say-instead-say-2",
+  "level": 5,
+  "title": "Examples Do not say: Instead, say:"
+ },
+ {
+  "id": "ii-time-period",
+  "level": 5,
+  "title": "ii. Time Period"
+ },
+ {
+  "id": "examples-do-not-say-4",
+  "level": 5,
+  "title": "Examples Do not say:"
+ },
+ {
+  "id": "instead-say-12",
+  "level": 5,
+  "title": "Instead, say:"
+ },
+ {
+  "id": "examples-do-not-say-5",
+  "level": 5,
+  "title": "Examples Do not say:"
+ },
+ {
+  "id": "instead-say-13",
+  "level": 5,
+  "title": "Instead, say:"
+ },
+ {
+  "id": "iii-date",
+  "level": 5,
+  "title": "iii. Date"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page-16",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "a-day-week-or-month",
+  "level": 5,
+  "title": "A. Day, Week, or Month"
+ },
+ {
+  "id": "examples-do-not-say-6",
+  "level": 5,
+  "title": "Examples Do not say:"
+ },
+ {
+  "id": "instead-say-14",
+  "level": 5,
+  "title": "Instead, say:"
+ },
+ {
+  "id": "examples-19",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "examples-do-not-say-7",
+  "level": 5,
+  "title": "Examples Do not say:"
+ },
+ {
+  "id": "instead-say-15",
+  "level": 5,
+  "title": "Instead, say:"
+ },
+ {
+  "id": "b-notice",
+  "level": 5,
+  "title": "B. Notice"
+ },
+ {
+  "id": "examples-20",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "c-specific-dates",
+  "level": 5,
+  "title": "C. Specific Dates"
+ },
+ {
+  "id": "examples-do-not-say-instead-say-3",
+  "level": 5,
+  "title": "Examples Do not say: Instead, say:"
+ },
+ {
+  "id": "examples-do-not-say-8",
+  "level": 5,
+  "title": "Examples Do not say:"
+ },
+ {
+  "id": "instead-say-16",
+  "level": 5,
+  "title": "Instead, say:"
+ },
+ {
+  "id": "d-year",
+  "level": 5,
+  "title": "D. Year"
+ },
+ {
+  "id": "examples-21",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "examples-22",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page-17",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "a-colon",
+  "level": 5,
+  "title": "a. Colon"
+ },
+ {
+  "id": "b-comma",
+  "level": 5,
+  "title": "b. Comma"
+ },
+ {
+  "id": "i-series",
+  "level": 5,
+  "title": "i. Series"
+ },
+ {
+  "id": "ii-successive-adjectives",
+  "level": 5,
+  "title": "ii. Successive Adjectives"
+ },
+ {
+  "id": "iii-nonrestrictive-appositives",
+  "level": 5,
+  "title": "iii. Nonrestrictive Appositives"
+ },
+ {
+  "id": "example-44",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "iv-nonrestrictive-adjective-clause",
+  "level": 5,
+  "title": "iv. Nonrestrictive Adjective Clause"
+ },
+ {
+  "id": "example-45",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "v-parts-of-a-compound-sentence",
+  "level": 5,
+  "title": "v. Parts of a Compound Sentence"
+ },
+ {
+  "id": "example-46",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-47",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page-18",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "vi-introductory-or-transitional-word-or-phrase",
+  "level": 5,
+  "title": "vi. Introductory or Transitional Word or Phrase"
+ },
+ {
+  "id": "examples-23",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "example-48",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "vii-contrasted-word-or-phrase",
+  "level": 5,
+  "title": "vii. Contrasted Word or Phrase"
+ },
+ {
+  "id": "example-49",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "ix-when-the-day-of-the-month-is-included-in-a-date",
+  "level": 5,
+  "title": "ix. When the Day of the Month is Included in a Date"
+ },
+ {
+  "id": "example-50",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "viii-qualifying-language-that-applies-to-a-preceding-clause",
+  "level": 5,
+  "title": "viii. Qualifying Language that Applies to a Preceding Clause"
+ },
+ {
+  "id": "example-51",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "x-whole-numbers-comprising-four-or-more-digits",
+  "level": 5,
+  "title": "x. Whole Numbers Comprising Four or More Digits"
+ },
+ {
+  "id": "xi-clarity",
+  "level": 5,
+  "title": "xi. Clarity"
+ },
+ {
+  "id": "example-do-not-say-7",
+  "level": 5,
+  "title": "Example Do not say:"
+ },
+ {
+  "id": "instead-say-17",
+  "level": 5,
+  "title": "Instead, say:"
+ },
+ {
+  "id": "c-hyphen",
+  "level": 5,
+  "title": "c. Hyphen"
+ },
+ {
+  "id": "d-parentheses",
+  "level": 5,
+  "title": "d. Parentheses"
+ },
+ {
+  "id": "e-semicolon",
+  "level": 5,
+  "title": "e. Semicolon"
+ },
+ {
+  "id": "i-series-2",
+  "level": 5,
+  "title": "i. Series"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page-19",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "a-after",
+  "level": 5,
+  "title": "a. After"
+ },
+ {
+  "id": "example-52",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "ii-other-uses-of-a-semicolon",
+  "level": 5,
+  "title": "ii. Other Uses of a Semicolon"
+ },
+ {
+  "id": "example-53",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-do-not-say-8",
+  "level": 5,
+  "title": "Example Do not say:"
+ },
+ {
+  "id": "instead-say-18",
+  "level": 5,
+  "title": "Instead, say:"
+ },
+ {
+  "id": "example-54",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "b-before",
+  "level": 5,
+  "title": "b. Before"
+ },
+ {
+  "id": "examples-24",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "chapter-3-style-and-usage-continued-from-previous-page-20",
+  "level": 5,
+  "title": "Chapter 3 — Style and Usage (continued from previous page)"
+ },
+ {
+  "id": "c-between",
+  "level": 5,
+  "title": "c. Between"
+ },
+ {
+  "id": "examples-25",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "d-currently",
+  "level": 5,
+  "title": "d. Currently"
+ },
+ {
+  "id": "chapter-4-anatomy-of-a-bill",
+  "level": 2,
+  "title": "Chapter 4 — Anatomy of a Bill"
+ },
+ {
+  "id": "a-short-title",
+  "level": 5,
+  "title": "a. Short Title"
+ },
+ {
+  "id": "i-in-general",
+  "level": 5,
+  "title": "i. In General"
+ },
+ {
+  "id": "ii-changing-a-short-title",
+  "level": 5,
+  "title": "ii. Changing a Short Title"
+ },
+ {
+  "id": "b-remainder-of-bill-heading",
+  "level": 5,
+  "title": "b. Remainder of Bill Heading"
+ },
+ {
+  "id": "a-in-general-2",
+  "level": 5,
+  "title": "a. In General"
+ },
+ {
+  "id": "b-changing-a-long-title",
+  "level": 5,
+  "title": "b. Changing a Long Title"
+ },
+ {
+  "id": "c-committee-note",
+  "level": 5,
+  "title": "c. Committee Note"
+ },
+ {
+  "id": "d-general-description",
+  "level": 5,
+  "title": "d. General Description"
+ },
+ {
+  "id": "e-highlighted-provisions",
+  "level": 5,
+  "title": "e. Highlighted Provisions"
+ },
+ {
+  "id": "chapter-4-anatomy-of-a-bill-continued-from-previous-page",
+  "level": 5,
+  "title": "Chapter 4 — Anatomy of a Bill (continued from previous page)"
+ },
+ {
+  "id": "example-do-not-say-9",
+  "level": 5,
+  "title": "Example Do not say:"
+ },
+ {
+  "id": "instead-say-19",
+  "level": 5,
+  "title": "Instead say:"
+ },
+ {
+  "id": "f-money-appropriated-in-this-bill",
+  "level": 5,
+  "title": "f. Money Appropriated in this Bill"
+ },
+ {
+  "id": "examples-money-appropriated-in-this-bill",
+  "level": 5,
+  "title": "Examples Money Appropriated in this Bill:"
+ },
+ {
+  "id": "money-appropriated-in-this-bill",
+  "level": 5,
+  "title": "Money Appropriated in this Bill:"
+ },
+ {
+  "id": "g-other-special-clauses",
+  "level": 5,
+  "title": "g. Other Special Clauses"
+ },
+ {
+  "id": "examples-other-special-clauses",
+  "level": 5,
+  "title": "Examples Other Special Clauses:"
+ },
+ {
+  "id": "h-utah-code-sections-affected",
+  "level": 5,
+  "title": "h. Utah Code Sections Affected"
+ },
+ {
+  "id": "i-in-general-2",
+  "level": 5,
+  "title": "i. In General"
+ },
+ {
+  "id": "ii-legislative-history-of-a-codified-section",
+  "level": 5,
+  "title": "ii. Legislative History of a Codified Section"
+ },
+ {
+  "id": "chapter-4-anatomy-of-a-bill-continued-from-previous-page-2",
+  "level": 5,
+  "title": "Chapter 4 — Anatomy of a Bill (continued from previous page)"
+ },
+ {
+  "id": "iii-legislative-history-of-an-uncodified-section",
+  "level": 5,
+  "title": "iii. Legislative History of an Uncodified Section"
+ },
+ {
+  "id": "example-55",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-56",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "i-utah-code-sections-affected-by-revisor-instructions",
+  "level": 5,
+  "title": "i. Utah Code Sections Affected by Revisor Instructions"
+ },
+ {
+  "id": "j-utah-code-sections-affected-by-coordination-clause",
+  "level": 5,
+  "title": "j. Utah Code Sections Affected by Coordination Clause"
+ },
+ {
+  "id": "example-57",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-58",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "section-23-20-11-possession-or-use-of-weapons-by",
+  "level": 5,
+  "title": "Section 23-20-11, Possession or use of weapons by"
+ },
+ {
+  "id": "a-amending",
+  "level": 5,
+  "title": "a. Amending"
+ },
+ {
+  "id": "b-enacting",
+  "level": 5,
+  "title": "b. Enacting"
+ },
+ {
+  "id": "chapter-4-anatomy-of-a-bill-continued-from-previous-page-3",
+  "level": 5,
+  "title": "Chapter 4 — Anatomy of a Bill (continued from previous page)"
+ },
+ {
+  "id": "c-repealing-and-reenacting",
+  "level": 5,
+  "title": "c. Repealing and Reenacting"
+ },
+ {
+  "id": "d-renumbering-and-amending",
+  "level": 5,
+  "title": "d. Renumbering and Amending"
+ },
+ {
+  "id": "e-repealing",
+  "level": 5,
+  "title": "e. Repealing"
+ },
+ {
+  "id": "example-59",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "section-23-20-11-possession-or-use-of-weapons-by-2",
+  "level": 5,
+  "title": "Section 23-20-11, Possession or use of weapons by"
+ },
+ {
+  "id": "chapter-5",
+  "level": 2,
+  "title": "Chapter 5 —"
+ },
+ {
+  "id": "a-single-house-resolution",
+  "level": 5,
+  "title": "a. Single House Resolution"
+ },
+ {
+  "id": "b-joint-resolution",
+  "level": 5,
+  "title": "b. Joint Resolution"
+ },
+ {
+  "id": "c-concurrent-resolution",
+  "level": 5,
+  "title": "c. Concurrent Resolution"
+ },
+ {
+  "id": "a-resolution-heading",
+  "level": 5,
+  "title": "a. Resolution Heading"
+ },
+ {
+  "id": "i-short-title",
+  "level": 5,
+  "title": "i. Short Title"
+ },
+ {
+  "id": "anatomy-and-use-of-a-resolution",
+  "level": 2,
+  "title": "Anatomy and Use of a Resolution"
+ },
+ {
+  "id": "chapter-5-anatomy-and-use-of-a-resolution-continued-from-pre",
+  "level": 5,
+  "title": "Chapter 5 — Anatomy and Use of a Resolution (continued from previous page)"
+ },
+ {
+  "id": "ii-remainder-of-resolution-heading",
+  "level": 5,
+  "title": "ii. Remainder of Resolution Heading"
+ },
+ {
+  "id": "b-long-title",
+  "level": 5,
+  "title": "b. Long Title"
+ },
+ {
+  "id": "i-general-2",
+  "level": 5,
+  "title": "i. General"
+ },
+ {
+  "id": "ii-changing-a-long-title",
+  "level": 5,
+  "title": "ii. Changing a Long Title"
+ },
+ {
+  "id": "iii-committee-note",
+  "level": 5,
+  "title": "iii. Committee Note"
+ },
+ {
+  "id": "iv-general-description",
+  "level": 5,
+  "title": "iv. General Description"
+ },
+ {
+  "id": "v-highlighted-provisions",
+  "level": 5,
+  "title": "v. Highlighted Provisions"
+ },
+ {
+  "id": "vi-special-clauses",
+  "level": 5,
+  "title": "vi. Special Clauses"
+ },
+ {
+  "id": "vii-provisions-affected",
+  "level": 5,
+  "title": "vii. Provisions Affected"
+ },
+ {
+  "id": "examples-utah-constitution-sections-affected",
+  "level": 5,
+  "title": "Examples Utah Constitution Sections Affected:"
+ },
+ {
+  "id": "article-xi-section-6",
+  "level": 5,
+  "title": "ARTICLE XI, SECTION 6"
+ },
+ {
+  "id": "utah-rules-of-evidence-affected",
+  "level": 5,
+  "title": "Utah Rules of Evidence Affected:"
+ },
+ {
+  "id": "legislative-rules-affected",
+  "level": 5,
+  "title": "Legislative Rules Affected:"
+ },
+ {
+  "id": "jr3-2-901-jr4-3-108",
+  "level": 5,
+  "title": "JR3-2-901 JR4-3-108"
+ },
+ {
+  "id": "jr1-1-103",
+  "level": 5,
+  "title": "JR1-1-103"
+ },
+ {
+  "id": "a-resolving-clause",
+  "level": 5,
+  "title": "a. Resolving Clause"
+ },
+ {
+  "id": "chapter-5-anatomy-and-use-of-a-resolution-continued-from-pre-2",
+  "level": 5,
+  "title": "Chapter 5 — Anatomy and Use of a Resolution (continued from previous page)"
+ },
+ {
+  "id": "b-body-of-a-resolution",
+  "level": 5,
+  "title": "b. Body of a Resolution"
+ },
+ {
+  "id": "i-format-for-most-resolutions",
+  "level": 5,
+  "title": "i. Format for Most Resolutions"
+ },
+ {
+  "id": "a-preamble",
+  "level": 5,
+  "title": "A. Preamble"
+ },
+ {
+  "id": "examples-26",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "b-resolution-statement",
+  "level": 5,
+  "title": "B. Resolution Statement"
+ },
+ {
+  "id": "examples-27",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "ii-format-for-special-resolutions",
+  "level": 5,
+  "title": "ii. Format for Special Resolutions"
+ },
+ {
+  "id": "chapter-5-anatomy-and-use-of-a-resolution-continued-from-pre-3",
+  "level": 5,
+  "title": "Chapter 5 — Anatomy and Use of a Resolution (continued from previous page)"
+ },
+ {
+  "id": "chapter-6-appropriations",
+  "level": 2,
+  "title": "Chapter 6 — Appropriations"
+ },
+ {
+  "id": "a-operating-and-capital-budgets",
+  "level": 5,
+  "title": "a. Operating and Capital Budgets"
+ },
+ {
+  "id": "b-restricted-fund-and-account-transfers",
+  "level": 5,
+  "title": "b. Restricted Fund and Account Transfers"
+ },
+ {
+  "id": "c-expendable-funds-and-accounts",
+  "level": 5,
+  "title": "c. Expendable Funds and Accounts"
+ },
+ {
+  "id": "d-transfers-to-unrestricted-funds",
+  "level": 5,
+  "title": "d. Transfers to Unrestricted Funds"
+ },
+ {
+  "id": "e-capital-project-funds",
+  "level": 5,
+  "title": "e. Capital Project Funds"
+ },
+ {
+  "id": "f-business-like-activities",
+  "level": 5,
+  "title": "f. Business-like Activities"
+ },
+ {
+  "id": "g-fiduciary-funds",
+  "level": 5,
+  "title": "g. Fiduciary Funds"
+ },
+ {
+  "id": "chapter-6-appropriations-continued-from-previous-page",
+  "level": 5,
+  "title": "Chapter 6 — Appropriations (continued from previous page)"
+ },
+ {
+  "id": "a-long-title",
+  "level": 5,
+  "title": "a. Long Title"
+ },
+ {
+  "id": "format-money-appropriated-in-this-bill",
+  "level": 5,
+  "title": "Format Money Appropriated in this Bill:"
+ },
+ {
+  "id": "example-money-appropriated-in-this-bill",
+  "level": 5,
+  "title": "Example Money Appropriated in this Bill:"
+ },
+ {
+  "id": "b-first-paragraph",
+  "level": 5,
+  "title": "b. First Paragraph"
+ },
+ {
+  "id": "format-section-___-appropriation",
+  "level": 5,
+  "title": "Format Section. ___. Appropriation"
+ },
+ {
+  "id": "i-operating-and-capital-budgets",
+  "level": 5,
+  "title": "i. Operating and Capital Budgets"
+ },
+ {
+  "id": "ii-restricted-fund-and-account-transfers",
+  "level": 5,
+  "title": "ii. Restricted Fund and Account Transfers"
+ },
+ {
+  "id": "iii-expendable-funds-and-accounts",
+  "level": 5,
+  "title": "iii. Expendable Funds and Accounts"
+ },
+ {
+  "id": "iv-transfers-to-unrestricted-funds",
+  "level": 5,
+  "title": "iv. Transfers to Unrestricted Funds"
+ },
+ {
+  "id": "v-capital-project-funds",
+  "level": 5,
+  "title": "v. Capital Project Funds"
+ },
+ {
+  "id": "chapter-6-appropriations-continued-from-previous-page-2",
+  "level": 5,
+  "title": "Chapter 6 — Appropriations (continued from previous page)"
+ },
+ {
+  "id": "vi-business-like-activities",
+  "level": 5,
+  "title": "vi. Business-like Activities"
+ },
+ {
+  "id": "vii-fiduciary-funds",
+  "level": 5,
+  "title": "vii. Fiduciary Funds"
+ },
+ {
+  "id": "c-operative-language",
+  "level": 5,
+  "title": "c. Operative Language"
+ },
+ {
+  "id": "d-intent-language",
+  "level": 5,
+  "title": "d. Intent Language"
+ },
+ {
+  "id": "i-in-general-3",
+  "level": 5,
+  "title": "i. In General"
+ },
+ {
+  "id": "ii-permissible-intent-language",
+  "level": 5,
+  "title": "ii. Permissible Intent Language"
+ },
+ {
+  "id": "a-specifying-use",
+  "level": 5,
+  "title": "A. Specifying Use"
+ },
+ {
+  "id": "examples-28",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "b-designating-funds-as-non-lapsing-and-limiting-use-of-the-f",
+  "level": 5,
+  "title": "B. Designating Funds as Non-lapsing and Limiting Use of the Funds"
+ },
+ {
+  "id": "example-60",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "c-expenditure-of-contingent-revenue",
+  "level": 5,
+  "title": "C. Expenditure of Contingent Revenue"
+ },
+ {
+  "id": "d-study",
+  "level": 5,
+  "title": "D. Study"
+ },
+ {
+  "id": "examples-29",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "chapter-6-appropriations-continued-from-previous-page-3",
+  "level": 5,
+  "title": "Chapter 6 — Appropriations (continued from previous page)"
+ },
+ {
+  "id": "iii-prohibited-intent-language",
+  "level": 5,
+  "title": "iii. Prohibited Intent Language"
+ },
+ {
+  "id": "a-language-amending-enacting-or-repealing-substantive-law",
+  "level": 5,
+  "title": "A. Language Amending, Enacting, or Repealing Substantive Law"
+ },
+ {
+  "id": "example-do-not-say-10",
+  "level": 5,
+  "title": "Example Do not say:"
+ },
+ {
+  "id": "instead",
+  "level": 5,
+  "title": "Instead:"
+ },
+ {
+  "id": "b-language-that-violates-procurement-law",
+  "level": 5,
+  "title": "B. Language that Violates Procurement Law"
+ },
+ {
+  "id": "c-language-that-violates-separation-of-powers",
+  "level": 5,
+  "title": "C. Language that Violates Separation of Powers"
+ },
+ {
+  "id": "a-negative-appropriations",
+  "level": 5,
+  "title": "a. Negative Appropriations"
+ },
+ {
+  "id": "b-nonlapsing-funds",
+  "level": 5,
+  "title": "b. Nonlapsing Funds"
+ },
+ {
+  "id": "i-in-general-4",
+  "level": 5,
+  "title": "i. In General"
+ },
+ {
+  "id": "ii-designating-funds-as-nonlapsing",
+  "level": 5,
+  "title": "ii. Designating Funds as Nonlapsing"
+ },
+ {
+  "id": "a-previously-appropriated-funds",
+  "level": 5,
+  "title": "A. Previously Appropriated Funds"
+ },
+ {
+  "id": "b-appropriations-for-future-fiscal-year",
+  "level": 5,
+  "title": "B. Appropriations for Future Fiscal Year"
+ },
+ {
+  "id": "chapter-6-appropriations-continued-from-previous-page-4",
+  "level": 5,
+  "title": "Chapter 6 — Appropriations (continued from previous page)"
+ },
+ {
+  "id": "c-appropriations-to-the-legislature",
+  "level": 5,
+  "title": "c. Appropriations to the Legislature"
+ },
+ {
+  "id": "chapter-7",
+  "level": 2,
+  "title": "Chapter 7 —"
+ },
+ {
+  "id": "cause-or-right-of-action",
+  "level": 2,
+  "title": "Cause or Right of Action"
+ },
+ {
+  "id": "examples-30",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "a-parties-to-a-right-of-action",
+  "level": 5,
+  "title": "a. Parties to a Right of Action"
+ },
+ {
+  "id": "example-do-not-say-11",
+  "level": 5,
+  "title": "Example Do not say:"
+ },
+ {
+  "id": "instead-say-20",
+  "level": 5,
+  "title": "Instead say:"
+ },
+ {
+  "id": "b-elements-of-a-right-of-action",
+  "level": 5,
+  "title": "b. Elements of a Right of Action"
+ },
+ {
+  "id": "example-do-not-say-12",
+  "level": 5,
+  "title": "Example Do not say:"
+ },
+ {
+  "id": "chapter-7-cause-or-right-of-action-continued-from-previous-p",
+  "level": 5,
+  "title": "Chapter 7 — Cause or Right of Action (continued from previous page)"
+ },
+ {
+  "id": "e-affirmative-defense",
+  "level": 5,
+  "title": "e. Affirmative Defense"
+ },
+ {
+  "id": "c-remedy-for-a-right-of-action",
+  "level": 5,
+  "title": "c. Remedy for a Right of Action"
+ },
+ {
+  "id": "instead-say-21",
+  "level": 5,
+  "title": "Instead say:"
+ },
+ {
+  "id": "example-61",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "d-duplication-of-or-overlap-with-an-existing-right-of-action",
+  "level": 5,
+  "title": "d. Duplication of, or Overlap With, an Existing Right of Action"
+ },
+ {
+  "id": "examples-31",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "f-liability-of-multiple-defendants",
+  "level": 5,
+  "title": "f. Liability of Multiple Defendants"
+ },
+ {
+  "id": "chapter-7-cause-or-right-of-action-continued-from-previous-p-2",
+  "level": 5,
+  "title": "Chapter 7 — Cause or Right of Action (continued from previous page)"
+ },
+ {
+  "id": "g-effective-date",
+  "level": 5,
+  "title": "g. Effective Date"
+ },
+ {
+  "id": "example-62",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "h-placement-of-a-right-of-action",
+  "level": 5,
+  "title": "h. Placement of a Right of Action"
+ },
+ {
+  "id": "f-revisor-instructions",
+  "level": 5,
+  "title": "f. Revisor Instructions"
+ },
+ {
+  "id": "g-substantive-conflict",
+  "level": 5,
+  "title": "g. Substantive Conflict"
+ },
+ {
+  "id": "h-technical-conflict",
+  "level": 5,
+  "title": "h. Technical Conflict"
+ },
+ {
+  "id": "conflicts-composites-and-coordination-clauses",
+  "level": 2,
+  "title": "Conflicts, Composites, and Coordination Clauses"
+ },
+ {
+  "id": "a-backstop-rule",
+  "level": 5,
+  "title": "a. Backstop Rule"
+ },
+ {
+  "id": "b-composite",
+  "level": 5,
+  "title": "b. Composite"
+ },
+ {
+  "id": "c-coordination-clause",
+  "level": 5,
+  "title": "c. Coordination Clause"
+ },
+ {
+  "id": "d-nonsubstantive-conflict",
+  "level": 5,
+  "title": "d. Nonsubstantive Conflict"
+ },
+ {
+  "id": "e-revisor-s-authority",
+  "level": 5,
+  "title": "e. Revisor’s Authority"
+ },
+ {
+  "id": "ii-nonsubstantive-conflict-example-023",
+  "level": 5,
+  "title": "ii. Nonsubstantive Conflict Example 023"
+ },
+ {
+  "id": "chapter-8-conflicts-composites-and-coordination-clauses-cont",
+  "level": 5,
+  "title": "Chapter 8 — Conflicts, Composites, and Coordination Clauses (continued from previous page)"
+ },
+ {
+  "id": "a-addressing-conflicts",
+  "level": 5,
+  "title": "a. Addressing Conflicts"
+ },
+ {
+  "id": "b-merging-repealed-and-amended-language",
+  "level": 5,
+  "title": "b. Merging Repealed and Amended Language"
+ },
+ {
+  "id": "c-technical-nonsubstantive-or-substantive-conflicts",
+  "level": 5,
+  "title": "c. Technical, Nonsubstantive, or Substantive Conflicts"
+ },
+ {
+  "id": "example-bill-a",
+  "level": 5,
+  "title": "Example Bill A"
+ },
+ {
+  "id": "bill-b",
+  "level": 5,
+  "title": "Bill B"
+ },
+ {
+  "id": "bills-a-and-b-merged",
+  "level": 5,
+  "title": "Bills A and B Merged"
+ },
+ {
+  "id": "example-bill-a-2",
+  "level": 5,
+  "title": "Example Bill A"
+ },
+ {
+  "id": "bill-b-2",
+  "level": 5,
+  "title": "Bill B"
+ },
+ {
+  "id": "i-technical-conflict-example",
+  "level": 5,
+  "title": "i. Technical Conflict Example"
+ },
+ {
+  "id": "d-conflicts-caused-by-a-bill-s-action",
+  "level": 5,
+  "title": "d. Conflicts Caused by a Bill’s Action"
+ },
+ {
+  "id": "iii-substantive-conflict-example-example-bill-a",
+  "level": 5,
+  "title": "iii. Substantive Conflict Example Example Bill A"
+ },
+ {
+  "id": "bill-b-3",
+  "level": 5,
+  "title": "Bill B"
+ },
+ {
+  "id": "bills-a-and-b-merged-2",
+  "level": 5,
+  "title": "Bills A and B Merged"
+ },
+ {
+  "id": "chapter-8-conflicts-composites-and-coordination-clauses-cont-2",
+  "level": 5,
+  "title": "Chapter 8 — Conflicts, Composites, and Coordination Clauses (continued from previous page)"
+ },
+ {
+  "id": "bills-a-and-b-merged-3",
+  "level": 5,
+  "title": "Bills A and B Merged"
+ },
+ {
+  "id": "chapter-8-conflicts-composites-and-coordination-clauses-cont-3",
+  "level": 5,
+  "title": "Chapter 8 — Conflicts, Composites, and Coordination Clauses (continued from previous page)"
+ },
+ {
+  "id": "a-failure-to-resolve-a-conflict",
+  "level": 5,
+  "title": "a. Failure to Resolve a Conflict"
+ },
+ {
+  "id": "b-backstop-rule-for-technical-conflicts-during-compo-site-pr",
+  "level": 5,
+  "title": "b. Backstop Rule for Technical Conflicts During Compo- site Process"
+ },
+ {
+  "id": "a-coordination-clauses-in-general",
+  "level": 5,
+  "title": "a. Coordination Clauses in General"
+ },
+ {
+  "id": "b-timing-of-a-coordination-clause",
+  "level": 5,
+  "title": "b. Timing of a Coordination Clause"
+ },
+ {
+  "id": "chapter-8-conflicts-composites-and-coordination-clauses-cont-4",
+  "level": 5,
+  "title": "Chapter 8 — Conflicts, Composites, and Coordination Clauses (continued from previous page)"
+ },
+ {
+  "id": "c-drafting-a-coordination-clause",
+  "level": 5,
+  "title": "c. Drafting a Coordination Clause"
+ },
+ {
+  "id": "example-63",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "i-email-notification-to-sponsors",
+  "level": 5,
+  "title": "i. Email Notification to Sponsors"
+ },
+ {
+  "id": "ii-long-title",
+  "level": 5,
+  "title": "ii. Long Title"
+ },
+ {
+  "id": "chapter-8-conflicts-composites-and-coordination-clauses-cont-5",
+  "level": 5,
+  "title": "Chapter 8 — Conflicts, Composites, and Coordination Clauses (continued from previous page)"
+ },
+ {
+  "id": "example-64",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "iv-introductory-statement",
+  "level": 5,
+  "title": "iv. Introductory Statement"
+ },
+ {
+  "id": "iii-boldface",
+  "level": 5,
+  "title": "iii. Boldface"
+ },
+ {
+  "id": "example-65",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "section-7-coordinating-s-b-154-with-s-j-r-4-if-s-j-r-4",
+  "level": 5,
+  "title": "Section 7. Coordinating S.B. 154 with S.J.R. 4 if S.J.R 4"
+ },
+ {
+  "id": "v-statement-of-legislature-s-intent",
+  "level": 5,
+  "title": "v. Statement of Legislature’s Intent"
+ },
+ {
+  "id": "d-coordinating-three-or-more-bills",
+  "level": 5,
+  "title": "d. Coordinating Three or More Bills"
+ },
+ {
+  "id": "e-coordinating-with-legislation-generally",
+  "level": 5,
+  "title": "e. Coordinating with Legislation Generally"
+ },
+ {
+  "id": "example-66",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "potential-scenario-bill-containing-the-cc",
+  "level": 5,
+  "title": "Potential Scenario Bill Containing the CC"
+ },
+ {
+  "id": "chapter-8-conflicts-composites-and-coordination-clauses-cont-6",
+  "level": 5,
+  "title": "Chapter 8 — Conflicts, Composites, and Coordination Clauses (continued from previous page)"
+ },
+ {
+  "id": "f-standard-format-for-a-coordination-clause",
+  "level": 5,
+  "title": "f. Standard Format for a Coordination Clause"
+ },
+ {
+  "id": "i-coordination-clauses-specifying-language",
+  "level": 5,
+  "title": "i. Coordination Clauses Specifying Language"
+ },
+ {
+  "id": "a-amending-to-read",
+  "level": 5,
+  "title": "A. Amending to Read"
+ },
+ {
+  "id": "b-replacing-language",
+  "level": 5,
+  "title": "B. Replacing Language"
+ },
+ {
+  "id": "d-inserting-new-language",
+  "level": 5,
+  "title": "D. Inserting New Language"
+ },
+ {
+  "id": "e-superseding",
+  "level": 5,
+  "title": "E. Superseding"
+ },
+ {
+  "id": "ii-coordination-clauses-omitting-changes",
+  "level": 5,
+  "title": "ii. Coordination Clauses Omitting Changes"
+ },
+ {
+  "id": "a-changes-don-t-take-effect",
+  "level": 5,
+  "title": "A. Changes Don’t Take Effect"
+ },
+ {
+  "id": "b-omitting-enacted-language",
+  "level": 5,
+  "title": "B. Omitting Enacted Language"
+ },
+ {
+  "id": "iii-coordination-clauses-changing-terminology",
+  "level": 5,
+  "title": "iii. Coordination Clauses Changing Terminology"
+ },
+ {
+  "id": "a-coordinating-with-another-bill-or-bills",
+  "level": 5,
+  "title": "A. Coordinating With Another Bill or Bills"
+ },
+ {
+  "id": "b-coordinating-with-all-other-conflicting-bills",
+  "level": 5,
+  "title": "B. Coordinating with All Other Conflicting Bills"
+ },
+ {
+  "id": "section-__-coordinating-s-b-x-with-other-specify-ses",
+  "level": 5,
+  "title": "Section __. Coordinating S.B. X with other [specify ses-"
+ },
+ {
+  "id": "chapter-8-conflicts-composites-and-coordination-clauses-cont-7",
+  "level": 5,
+  "title": "Chapter 8 — Conflicts, Composites, and Coordination Clauses (continued from previous page)"
+ },
+ {
+  "id": "iv-coordination-clauses-changing-numbering-or-ref-erences",
+  "level": 5,
+  "title": "iv. Coordination Clauses Changing Numbering or Ref- erences"
+ },
+ {
+  "id": "a-renumbering",
+  "level": 5,
+  "title": "A. Renumbering"
+ },
+ {
+  "id": "b-changing-cross-references",
+  "level": 5,
+  "title": "B. Changing Cross References"
+ },
+ {
+  "id": "v-coordination-clauses-changing-effective-dates",
+  "level": 5,
+  "title": "v. Coordination Clauses Changing Effective Dates"
+ },
+ {
+  "id": "vi-coordinating-three-or-more-bills",
+  "level": 5,
+  "title": "vi. Coordinating Three or More Bills"
+ },
+ {
+  "id": "section-__-coordinating-h-b-x-with-s-b-y-and-h-b-z-if",
+  "level": 5,
+  "title": "Section __. Coordinating H.B. X with S.B. Y and H.B. Z if"
+ },
+ {
+  "id": "section-__-coordinating-h-b-x-with-s-b-y-if-h-b-z",
+  "level": 5,
+  "title": "Section __. Coordinating H.B. X with S.B. Y if H.B. Z"
+ },
+ {
+  "id": "section-__-coordinating-h-b-x-with-h-b-z-if-s-b-y",
+  "level": 5,
+  "title": "Section __. Coordinating H.B. X with H.B. Z if S.B. Y"
+ },
+ {
+  "id": "section-__-coordinating-s-b-y-with-h-b-z-if-h-b-x",
+  "level": 5,
+  "title": "Section __. Coordinating S.B. Y with H.B. Z, if H.B. X"
+ },
+ {
+  "id": "a-difference-between-a-revisor-instruction-and-a-coordinatio",
+  "level": 5,
+  "title": "a. Difference Between a Revisor Instruction and a Coordination Clause"
+ },
+ {
+  "id": "b-revisor-instructions-in-general",
+  "level": 5,
+  "title": "b. Revisor Instructions in General"
+ },
+ {
+  "id": "chapter-8-conflicts-composites-and-coordination-clauses-cont-8",
+  "level": 5,
+  "title": "Chapter 8 — Conflicts, Composites, and Coordination Clauses (continued from previous page)"
+ },
+ {
+  "id": "c-revisor-instructions-overlap-with-revisor-s-authority",
+  "level": 5,
+  "title": "c. Revisor Instructions — Overlap with Revisor’s Authority"
+ },
+ {
+  "id": "d-standard-format-for-revisor-instructions",
+  "level": 5,
+  "title": "d. Standard Format for Revisor Instructions"
+ },
+ {
+  "id": "chapter-9",
+  "level": 2,
+  "title": "Chapter 9 —"
+ },
+ {
+  "id": "entities",
+  "level": 2,
+  "title": "Entities"
+ },
+ {
+  "id": "a-creating-a-government-body",
+  "level": 5,
+  "title": "a. Creating a Government Body"
+ },
+ {
+  "id": "b-ex-officio-v-nonvoting-member",
+  "level": 5,
+  "title": "b. Ex Officio v. Nonvoting Member"
+ },
+ {
+  "id": "a-in-general-3",
+  "level": 5,
+  "title": "a. In General"
+ },
+ {
+  "id": "b-committees",
+  "level": 5,
+  "title": "b. Committees"
+ },
+ {
+  "id": "chapter-9-entities-continued-from-previous-page",
+  "level": 5,
+  "title": "Chapter 9 — Entities (continued from previous page)"
+ },
+ {
+  "id": "iii-legislative-audit",
+  "level": 5,
+  "title": "iii. Legislative Audit"
+ },
+ {
+  "id": "iv-other-legal-requirements",
+  "level": 5,
+  "title": "iv. Other Legal Requirements"
+ },
+ {
+  "id": "b-independent-state-agency",
+  "level": 5,
+  "title": "b. Independent State Agency"
+ },
+ {
+  "id": "i-characteristics",
+  "level": 5,
+  "title": "i. Characteristics"
+ },
+ {
+  "id": "ii-governance",
+  "level": 5,
+  "title": "ii. Governance"
+ },
+ {
+  "id": "iii-liability",
+  "level": 5,
+  "title": "iii. Liability"
+ },
+ {
+  "id": "iv-ownership-of-assets",
+  "level": 5,
+  "title": "iv. Ownership of Assets"
+ },
+ {
+  "id": "c-task-forces",
+  "level": 5,
+  "title": "c. Task Forces"
+ },
+ {
+  "id": "a-in-general-4",
+  "level": 5,
+  "title": "a. In General"
+ },
+ {
+  "id": "i-legal-representation",
+  "level": 5,
+  "title": "i. Legal Representation"
+ },
+ {
+  "id": "ii-participation-in-state-services",
+  "level": 5,
+  "title": "ii. Participation in State Services"
+ },
+ {
+  "id": "example-67",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "chapter-9-entities-continued-from-previous-page-2",
+  "level": 5,
+  "title": "Chapter 9 — Entities (continued from previous page)"
+ },
+ {
+  "id": "vi-application-of-state-laws",
+  "level": 5,
+  "title": "vi. Application of State Laws"
+ },
+ {
+  "id": "d-quasi-public-corporation",
+  "level": 5,
+  "title": "d. Quasi-public Corporation"
+ },
+ {
+  "id": "i-characteristics-2",
+  "level": 5,
+  "title": "i. Characteristics"
+ },
+ {
+  "id": "ii-governance-2",
+  "level": 5,
+  "title": "ii. Governance"
+ },
+ {
+  "id": "iii-liability-2",
+  "level": 5,
+  "title": "iii. Liability"
+ },
+ {
+  "id": "iv-ownership-of-assets-2",
+  "level": 5,
+  "title": "iv. Ownership of Assets"
+ },
+ {
+  "id": "v-reorganization",
+  "level": 5,
+  "title": "v. Reorganization"
+ },
+ {
+  "id": "v-reorganization-2",
+  "level": 5,
+  "title": "v. Reorganization"
+ },
+ {
+  "id": "vi-application-of-state-laws-2",
+  "level": 5,
+  "title": "vi. Application of State Laws"
+ },
+ {
+  "id": "c-public-corporation",
+  "level": 5,
+  "title": "c. Public Corporation"
+ },
+ {
+  "id": "i-characteristics-3",
+  "level": 5,
+  "title": "i. Characteristics"
+ },
+ {
+  "id": "ii-governance-3",
+  "level": 5,
+  "title": "ii. Governance"
+ },
+ {
+  "id": "iii-liability-3",
+  "level": 5,
+  "title": "iii. Liability"
+ },
+ {
+  "id": "iv-ownership-of-assets-3",
+  "level": 5,
+  "title": "iv. Ownership of Assets"
+ },
+ {
+  "id": "v-reorganization-3",
+  "level": 5,
+  "title": "v. Reorganization"
+ },
+ {
+  "id": "chapter-9-entities-continued-from-previous-page-3",
+  "level": 5,
+  "title": "Chapter 9 — Entities (continued from previous page)"
+ },
+ {
+  "id": "vi-application-of-state-laws-3",
+  "level": 5,
+  "title": "vi. Application of State Laws"
+ },
+ {
+  "id": "chapter-10",
+  "level": 2,
+  "title": "Chapter 10 —"
+ },
+ {
+  "id": "penalties",
+  "level": 2,
+  "title": "Penalties"
+ },
+ {
+  "id": "a-preferred-format-for-title-76-criminal-provision",
+  "level": 5,
+  "title": "a. Preferred Format for Title 76 Criminal Provision"
+ },
+ {
+  "id": "i-format-description",
+  "level": 5,
+  "title": "i. Format Description"
+ },
+ {
+  "id": "a-subsection-1",
+  "level": 5,
+  "title": "A. Subsection (1)"
+ },
+ {
+  "id": "example-68",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "c-subsection-3",
+  "level": 5,
+  "title": "C. Subsection (3)"
+ },
+ {
+  "id": "d-subsequent-subsections",
+  "level": 5,
+  "title": "D. Subsequent Subsections"
+ },
+ {
+  "id": "ii-stand-alone-sections",
+  "level": 5,
+  "title": "ii. Stand-alone Sections"
+ },
+ {
+  "id": "iii-boldface-2",
+  "level": 5,
+  "title": "iii. Boldface"
+ },
+ {
+  "id": "iv-examples-of-criminal-provisions-in-preferred-for-mat-exam",
+  "level": 5,
+  "title": "iv. Examples of Criminal Provisions in Preferred For- mat Example"
+ },
+ {
+  "id": "example-69",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "b-subsection-2",
+  "level": 5,
+  "title": "B. Subsection (2)"
+ },
+ {
+  "id": "chapter-10-penalties-continued-from-previous-page",
+  "level": 5,
+  "title": "Chapter 10 — Penalties (continued from previous page)"
+ },
+ {
+  "id": "c-examples-of-criminal-provisions-outside-title-76",
+  "level": 5,
+  "title": "c. Examples of Criminal Provisions Outside Title 76"
+ },
+ {
+  "id": "example-70",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-71",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "d-crimes-with-the-same-or-similar-elements",
+  "level": 5,
+  "title": "d. Crimes with the Same or Similar Elements"
+ },
+ {
+  "id": "e-cannot-delegate-authority-to-set-criminal-penalty",
+  "level": 5,
+  "title": "e. Cannot Delegate Authority to Set Criminal Penalty"
+ },
+ {
+  "id": "chapter-10-penalties-continued-from-previous-page-2",
+  "level": 5,
+  "title": "Chapter 10 — Penalties (continued from previous page)"
+ },
+ {
+  "id": "f-criminal-intent",
+  "level": 5,
+  "title": "f. Criminal Intent"
+ },
+ {
+  "id": "g-vagueness",
+  "level": 5,
+  "title": "g. Vagueness"
+ },
+ {
+  "id": "h-level-of-a-penalty",
+  "level": 5,
+  "title": "h. Level of a Penalty"
+ },
+ {
+  "id": "i-felonies",
+  "level": 5,
+  "title": "i. Felonies"
+ },
+ {
+  "id": "ii-misdemeanors",
+  "level": 5,
+  "title": "ii. Misdemeanors"
+ },
+ {
+  "id": "iii-infractions",
+  "level": 5,
+  "title": "iii. Infractions"
+ },
+ {
+  "id": "example-72",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "i-person-v-individual",
+  "level": 5,
+  "title": "i. Person v. Individual"
+ },
+ {
+  "id": "a-drafting-a-civil-penalty",
+  "level": 5,
+  "title": "a. Drafting a Civil Penalty"
+ },
+ {
+  "id": "iv-criminal-fines-and-special-sanctions",
+  "level": 5,
+  "title": "iv. Criminal Fines and Special Sanctions"
+ },
+ {
+  "id": "v-differing-from-standard-penalties",
+  "level": 5,
+  "title": "v. Differing From Standard Penalties"
+ },
+ {
+  "id": "chapter-10-penalties-continued-from-previous-page-3",
+  "level": 5,
+  "title": "Chapter 10 — Penalties (continued from previous page)"
+ },
+ {
+  "id": "example-73",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-74",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "b-due-process",
+  "level": 5,
+  "title": "b. Due Process"
+ },
+ {
+  "id": "c-severity-of-penalty",
+  "level": 5,
+  "title": "c. Severity of Penalty"
+ },
+ {
+  "id": "d-criminal-and-civil-penalty-for-same-offense",
+  "level": 5,
+  "title": "d. Criminal and Civil Penalty for Same Offense"
+ },
+ {
+  "id": "example-75",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "e-private-party-enforcement",
+  "level": 5,
+  "title": "e. Private Party Enforcement"
+ },
+ {
+  "id": "example-76",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "chapter-11",
+  "level": 2,
+  "title": "Chapter 11 —"
+ },
+ {
+  "id": "statutes-of-limitation-and-repose",
+  "level": 2,
+  "title": "Statutes of Limitation and Repose"
+ },
+ {
+  "id": "a-criminal-actions",
+  "level": 5,
+  "title": "a. Criminal Actions"
+ },
+ {
+  "id": "example-77",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "b-civil-actions",
+  "level": 5,
+  "title": "b. Civil Actions"
+ },
+ {
+  "id": "example-78",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-79",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "a-statute-of-repose",
+  "level": 5,
+  "title": "a Statute of Repose"
+ },
+ {
+  "id": "examples-32",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "chapter-11-statutes-of-limitation-and-repose-continued-from-",
+  "level": 5,
+  "title": "Chapter 11 — Statutes of Limitation and Repose (continued from previous page)"
+ },
+ {
+  "id": "a-bringing-an-action",
+  "level": 5,
+  "title": "a. Bringing an Action"
+ },
+ {
+  "id": "b-type-of-action",
+  "level": 5,
+  "title": "b. Type of Action"
+ },
+ {
+  "id": "c-amount-of-time",
+  "level": 5,
+  "title": "c. Amount of Time"
+ },
+ {
+  "id": "d-triggering-event",
+  "level": 5,
+  "title": "d. Triggering Event"
+ },
+ {
+  "id": "examples-33",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "chapter-11-statutes-of-limitation-and-repose-continued-from--2",
+  "level": 5,
+  "title": "Chapter 11 — Statutes of Limitation and Repose (continued from previous page)"
+ },
+ {
+  "id": "e-tolling",
+  "level": 5,
+  "title": "e. Tolling"
+ },
+ {
+  "id": "f-retroactive-application",
+  "level": 5,
+  "title": "f. Retroactive Application"
+ },
+ {
+  "id": "example-of-lengthening",
+  "level": 5,
+  "title": "Example of Lengthening"
+ },
+ {
+  "id": "example-of-shortening",
+  "level": 5,
+  "title": "Example of Shortening"
+ },
+ {
+  "id": "chapter-11-statutes-of-limitation-and-repose-continued-from--3",
+  "level": 5,
+  "title": "Chapter 11 — Statutes of Limitation and Repose (continued from previous page)"
+ },
+ {
+  "id": "chapter-12",
+  "level": 2,
+  "title": "Chapter 12 —"
+ },
+ {
+  "id": "a-normal-effective-date",
+  "level": 5,
+  "title": "a. Normal Effective Date"
+ },
+ {
+  "id": "uniformity-format-and-other-conventions",
+  "level": 2,
+  "title": "Uniformity, Format, and Other Conventions"
+ },
+ {
+  "id": "chapter-12-uniformity-format-and-other-conventions-continued",
+  "level": 5,
+  "title": "Chapter 12 — Uniformity, Format, and Other Conventions (continued from previous page)"
+ },
+ {
+  "id": "example-80",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "special-clauses",
+  "level": 5,
+  "title": "Special Clauses:"
+ },
+ {
+  "id": "c-immediate-effective-date",
+  "level": 5,
+  "title": "c. Immediate Effective Date"
+ },
+ {
+  "id": "example-81",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "special-clauses-2",
+  "level": 5,
+  "title": "Special Clauses:"
+ },
+ {
+  "id": "example-82",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "special-clauses-3",
+  "level": 5,
+  "title": "Special Clauses:"
+ },
+ {
+  "id": "b-early-effective-date",
+  "level": 5,
+  "title": "b. Early Effective Date"
+ },
+ {
+  "id": "example-83",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "d-delayed-effective-date",
+  "level": 5,
+  "title": "d. Delayed Effective Date"
+ },
+ {
+  "id": "example-84",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "special-clauses-4",
+  "level": 5,
+  "title": "Special Clauses:"
+ },
+ {
+  "id": "chapter-12-uniformity-format-and-other-conventions-continued-2",
+  "level": 5,
+  "title": "Chapter 12 — Uniformity, Format, and Other Conventions (continued from previous page)"
+ },
+ {
+  "id": "e-split-effective-date",
+  "level": 5,
+  "title": "e. Split Effective Date"
+ },
+ {
+  "id": "example-85",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "examples-34",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "examples-35",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "chapter-12-uniformity-format-and-other-conventions-continued-3",
+  "level": 5,
+  "title": "Chapter 12 — Uniformity, Format, and Other Conventions (continued from previous page)"
+ },
+ {
+  "id": "chapter-12-uniformity-format-and-other-conventions-continued-4",
+  "level": 5,
+  "title": "Chapter 12 — Uniformity, Format, and Other Conventions (continued from previous page)"
+ },
+ {
+  "id": "a-repeal-with-sunset-review",
+  "level": 5,
+  "title": "a. Repeal with Sunset Review"
+ },
+ {
+  "id": "b-repeal-without-sunset-review",
+  "level": 5,
+  "title": "b. Repeal Without Sunset Review"
+ },
+ {
+  "id": "example-86",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-87",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "chapter-12-uniformity-format-and-other-conventions-continued-5",
+  "level": 5,
+  "title": "Chapter 12 — Uniformity, Format, and Other Conventions (continued from previous page)"
+ },
+ {
+  "id": "a-nature-and-purpose",
+  "level": 5,
+  "title": "a. Nature and Purpose"
+ },
+ {
+  "id": "b-considerations",
+  "level": 5,
+  "title": "b. Considerations"
+ },
+ {
+  "id": "example-88",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "c-drafting",
+  "level": 5,
+  "title": "c. Drafting"
+ },
+ {
+  "id": "examples-do-not-use-phrases-like-the-following",
+  "level": 5,
+  "title": "Examples Do not use phrases like the following:"
+ },
+ {
+  "id": "instead-use-more-specific-language-like-the-following",
+  "level": 5,
+  "title": "Instead, use more specific language like the following:"
+ },
+ {
+  "id": "chapter-12-uniformity-format-and-other-conventions-continued-6",
+  "level": 5,
+  "title": "Chapter 12 — Uniformity, Format, and Other Conventions (continued from previous page)"
+ },
+ {
+  "id": "a-in-general-5",
+  "level": 5,
+  "title": "a. In General"
+ },
+ {
+  "id": "example-89",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "b-drafting-a-severability-clause",
+  "level": 5,
+  "title": "b. Drafting a severability clause"
+ },
+ {
+  "id": "i-long-title-and-boldface",
+  "level": 5,
+  "title": "i. Long Title and Boldface"
+ },
+ {
+  "id": "ii-placement",
+  "level": 5,
+  "title": "ii. Placement"
+ },
+ {
+  "id": "iii-form",
+  "level": 5,
+  "title": "iii. Form"
+ },
+ {
+  "id": "d-transferring-agency-oversight-and-authority",
+  "level": 5,
+  "title": "d. Transferring Agency Oversight and Authority"
+ },
+ {
+  "id": "form-of-severability-clause",
+  "level": 5,
+  "title": "Form of Severability Clause"
+ },
+ {
+  "id": "form-of-severability-clause-2",
+  "level": 5,
+  "title": "Form of Severability Clause"
+ },
+ {
+  "id": "chapter-12-uniformity-format-and-other-conventions-continued-7",
+  "level": 5,
+  "title": "Chapter 12 — Uniformity, Format, and Other Conventions (continued from previous page)"
+ },
+ {
+  "id": "a-uniform-law",
+  "level": 5,
+  "title": "a. Uniform Law"
+ },
+ {
+  "id": "b-model-law",
+  "level": 5,
+  "title": "b. Model Law"
+ },
+ {
+  "id": "c-interstate-compact",
+  "level": 5,
+  "title": "c. Interstate Compact"
+ },
+ {
+  "id": "chapter-12-uniformity-format-and-other-conventions-continued-8",
+  "level": 5,
+  "title": "Chapter 12 — Uniformity, Format, and Other Conventions (continued from previous page)"
+ },
+ {
+  "id": "chapter-13",
+  "level": 2,
+  "title": "Chapter 13 —"
+ },
+ {
+  "id": "unique-legislative-action",
+  "level": 2,
+  "title": "Unique Legislative Action"
+ },
+ {
+  "id": "a-state-constitution",
+  "level": 5,
+  "title": "a. State Constitution"
+ },
+ {
+  "id": "b-federal-constitution",
+  "level": 5,
+  "title": "b. Federal Constitution"
+ },
+ {
+  "id": "chapter-13-unique-legislative-action-continued-from-previous",
+  "level": 5,
+  "title": "Chapter 13 — Unique Legislative Action (continued from previous page)"
+ },
+ {
+  "id": "appendix-a-problematic-words-and-phrases",
+  "level": 4,
+  "title": "APPENDIX A PROBLEMATIC WORDS AND PHRASES"
+ },
+ {
+  "id": "a",
+  "level": 3,
+  "title": "A"
+ },
+ {
+  "id": "b",
+  "level": 4,
+  "title": "B"
+ },
+ {
+  "id": "c",
+  "level": 4,
+  "title": "C"
+ },
+ {
+  "id": "d",
+  "level": 4,
+  "title": "D"
+ },
+ {
+  "id": "e",
+  "level": 4,
+  "title": "E"
+ },
+ {
+  "id": "f",
+  "level": 4,
+  "title": "F"
+ },
+ {
+  "id": "g",
+  "level": 4,
+  "title": "G"
+ },
+ {
+  "id": "h",
+  "level": 4,
+  "title": "H"
+ },
+ {
+  "id": "i",
+  "level": 4,
+  "title": "I"
+ },
+ {
+  "id": "j",
+  "level": 3,
+  "title": "J"
+ },
+ {
+  "id": "k",
+  "level": 3,
+  "title": "K"
+ },
+ {
+  "id": "l",
+  "level": 3,
+  "title": "L"
+ },
+ {
+  "id": "m",
+  "level": 4,
+  "title": "M"
+ },
+ {
+  "id": "n",
+  "level": 4,
+  "title": "N"
+ },
+ {
+  "id": "o",
+  "level": 4,
+  "title": "O"
+ },
+ {
+  "id": "p",
+  "level": 4,
+  "title": "P"
+ },
+ {
+  "id": "r",
+  "level": 4,
+  "title": "R"
+ },
+ {
+  "id": "s",
+  "level": 4,
+  "title": "S"
+ },
+ {
+  "id": "t",
+  "level": 4,
+  "title": "T"
+ },
+ {
+  "id": "u",
+  "level": 3,
+  "title": "U"
+ },
+ {
+  "id": "v",
+  "level": 3,
+  "title": "V"
+ },
+ {
+  "id": "w",
+  "level": 4,
+  "title": "W"
+ },
+ {
+  "id": "appendix-b-utah-code-hyphenation",
+  "level": 3,
+  "title": "APPENDIX B UTAH CODE HYPHENATION"
+ },
+ {
+  "id": "appendix-c-appropriation-examples",
+  "level": 2,
+  "title": "APPENDIX C APPROPRIATION EXAMPLES"
+ },
+ {
+  "id": "table-of-contents-2",
+  "level": 5,
+  "title": "Table of Contents"
+ },
+ {
+  "id": "examples-of-each-appropriation-type",
+  "level": 4,
+  "title": "Examples of each Appropriation Type"
+ },
+ {
+  "id": "actual-appropriations",
+  "level": 2,
+  "title": "ACTUAL APPROPRIATIONS"
+ },
+ {
+  "id": "actual-appropriation-intent-language-examples",
+  "level": 2,
+  "title": "ACTUAL APPROPRIATION INTENT LANGUAGE EXAMPLES"
+ },
+ {
+  "id": "appendix-d",
+  "level": 2,
+  "title": "Appendix D"
+ },
+ {
+  "id": "conflicts-resolution-chart",
+  "level": 5,
+  "title": "Conflicts Resolution Chart"
+ },
+ {
+  "id": "appendix-e-coordination-clause-examples",
+  "level": 2,
+  "title": "Appendix E COORDINATION CLAUSE EXAMPLES"
+ },
+ {
+  "id": "coordination-clauses-showing-specific-revisions-amend-to-rea",
+  "level": 5,
+  "title": "Coordination Clauses Showing Specific Revisions Amend to Read"
+ },
+ {
+  "id": "example-1-amending-an-existing-subsection",
+  "level": 5,
+  "title": "EXAMPLE 1 (Amending an Existing Subsection)"
+ },
+ {
+  "id": "example-2-amending-an-existing-section",
+  "level": 5,
+  "title": "EXAMPLE 2 (Amending an Existing Section)"
+ },
+ {
+  "id": "example-3-amending-an-enacted-subsection",
+  "level": 5,
+  "title": "EXAMPLE 3 (Amending an Enacted Subsection)"
+ },
+ {
+  "id": "example-4-amending-a-subsection-from-a-renumbered-section",
+  "level": 5,
+  "title": "EXAMPLE 4 (Amending a Subsection from a Renumbered Section)"
+ },
+ {
+  "id": "replacing-language",
+  "level": 5,
+  "title": "Replacing Language"
+ },
+ {
+  "id": "example-1-replacing-language-that-appears-in-one-bill-only",
+  "level": 5,
+  "title": "EXAMPLE 1 (Replacing Language That Appears in One Bill Only)"
+ },
+ {
+  "id": "example-2-replacing-language-that-appears-in-both-bills",
+  "level": 5,
+  "title": "EXAMPLE 2 (Replacing Language That Appears in Both Bills)"
+ },
+ {
+  "id": "example-3-replacing-a-section-enacted-by-one-of-the-bills",
+  "level": 5,
+  "title": "EXAMPLE 3 (Replacing a Section Enacted by One of the Bills)"
+ },
+ {
+  "id": "example-4-renumber-and-replace",
+  "level": 5,
+  "title": "EXAMPLE 4 (Renumber and Replace)"
+ },
+ {
+  "id": "inserting-new-language",
+  "level": 5,
+  "title": "Inserting New Language"
+ },
+ {
+  "id": "example-1",
+  "level": 5,
+  "title": "EXAMPLE 1"
+ },
+ {
+  "id": "example-2-2",
+  "level": 5,
+  "title": "EXAMPLE 2"
+ },
+ {
+  "id": "coordination-clauses-describing-revisions-superseding",
+  "level": 5,
+  "title": "Coordination Clauses Describing Revisions Superseding"
+ },
+ {
+  "id": "example-1-2",
+  "level": 5,
+  "title": "EXAMPLE 1"
+ },
+ {
+  "id": "example-2-3",
+  "level": 5,
+  "title": "EXAMPLE 2"
+ },
+ {
+  "id": "renumbering",
+  "level": 5,
+  "title": "Renumbering"
+ },
+ {
+  "id": "example-1-renumbering-a-section",
+  "level": 5,
+  "title": "EXAMPLE 1 (Renumbering a Section)"
+ },
+ {
+  "id": "example-2-renumber-and-supersede",
+  "level": 5,
+  "title": "EXAMPLE 2 (Renumber and Supersede)"
+ },
+ {
+  "id": "changing-cross-references",
+  "level": 5,
+  "title": "Changing Cross References"
+ },
+ {
+  "id": "changing-terminology-coordinating-with-another-bill",
+  "level": 5,
+  "title": "Changing Terminology – Coordinating with Another Bill"
+ },
+ {
+  "id": "section-19-coordinating-s-b-213-with-s-b-200-if-h-b-395-does",
+  "level": 5,
+  "title": "Section 19. Coordinating S.B. 213 with S.B. 200 if H.B. 395 does not pass and become"
+ },
+ {
+  "id": "changing-terminology-coordinating-with-all-other-conflicting",
+  "level": 5,
+  "title": "Changing Terminology - Coordinating with All Other Conflicting Bills"
+ },
+ {
+  "id": "example-1-amending-a-reference-to-a-term-or-phrase",
+  "level": 5,
+  "title": "EXAMPLE 1 (Amending a Reference to a Term or Phrase)"
+ },
+ {
+  "id": "example-2-amending-a-specific-term-or-phrase",
+  "level": 5,
+  "title": "EXAMPLE 2 (Amending a Specific Term or Phrase)"
+ },
+ {
+  "id": "repealing-a-term-or-phrase",
+  "level": 5,
+  "title": "(Repealing a Term or Phrase)"
+ },
+ {
+  "id": "example-4-superseding",
+  "level": 5,
+  "title": "EXAMPLE 4 (Superseding)"
+ },
+ {
+  "id": "omitting-changes-changes-don-t-take-effect",
+  "level": 5,
+  "title": "Omitting Changes - Changes Don’t Take Effect"
+ },
+ {
+  "id": "example-1-not-take-effect",
+  "level": 5,
+  "title": "EXAMPLE 1 “Not Take Effect”"
+ },
+ {
+  "id": "example-2-not-be-made",
+  "level": 5,
+  "title": "EXAMPLE 2 “Not Be Made”"
+ },
+ {
+  "id": "example-3-be-deleted",
+  "level": 5,
+  "title": "EXAMPLE 3 “Be Deleted”"
+ },
+ {
+  "id": "example-4-be-deleted",
+  "level": 5,
+  "title": "EXAMPLE 4 “Be Deleted”"
+ },
+ {
+  "id": "example-5-be-omitted",
+  "level": 5,
+  "title": "EXAMPLE 5 “Be Omitted”"
+ },
+ {
+  "id": "coordinating-three-or-more-bills",
+  "level": 5,
+  "title": "Coordinating Three or More Bills"
+ },
+ {
+  "id": "potential-scenarios-bills-that-may-contain-the-clause",
+  "level": 5,
+  "title": "Potential Scenarios Bills That May Contain the Clause"
+ },
+ {
+  "id": "uncommon-coordination-clause-examples",
+  "level": 5,
+  "title": "Uncommon coordination clause examples"
+ },
+ {
+  "id": "appendix-f-legislative-task-force-template",
+  "level": 3,
+  "title": "APPENDIX F LEGISLATIVE TASK FORCE TEMPLATE"
+ },
+ {
+  "id": "long-title-general-description",
+  "level": 5,
+  "title": "LONG TITLE General Description:"
+ },
+ {
+  "id": "highlighted-provisions",
+  "level": 5,
+  "title": "Highlighted Provisions:"
+ },
+ {
+  "id": "money-appropriated-in-this-bill-2",
+  "level": 5,
+  "title": "Money Appropriated in this Bill:"
+ },
+ {
+  "id": "other-special-clauses",
+  "level": 5,
+  "title": "Other Special Clauses:"
+ },
+ {
+  "id": "utah-code-sections-affected",
+  "level": 5,
+  "title": "Utah Code Sections Affected:"
+ },
+ {
+  "id": "enrolled-copy-h-b-41",
+  "level": 5,
+  "title": "Enrolled Copy H.B. 41"
+ },
+ {
+  "id": "1-murdered-and-missing-indigenous-women-and-2-girls-task-for",
+  "level": 5,
+  "title": "1 MURDERED AND MISSING INDIGENOUS WOMEN AND 2 GIRLS TASK FORCE"
+ },
+ {
+  "id": "appendix-g-legislative-task-force-examples",
+  "level": 5,
+  "title": "APPENDIX G LEGISLATIVE TASK FORCE EXAMPLES"
+ },
+ {
+  "id": "h-b-41-enrolled-copy",
+  "level": 5,
+  "title": "H.B. 41 Enrolled Copy"
+ },
+ {
+  "id": "h-b-41-enrolled-copy-2",
+  "level": 5,
+  "title": "H.B. 41 Enrolled Copy"
+ },
+ {
+  "id": "h-b-41-enrolled-copy-3",
+  "level": 5,
+  "title": "H.B. 41 Enrolled Copy"
+ },
+ {
+  "id": "enrolled-copy-s-b-17",
+  "level": 5,
+  "title": "Enrolled Copy S.B. 17"
+ },
+ {
+  "id": "1-criminal-code-evaluation-task-force-extension",
+  "level": 5,
+  "title": "1 CRIMINAL CODE EVALUATION TASK FORCE EXTENSION"
+ },
+ {
+  "id": "s-b-17-enrolled-copy",
+  "level": 5,
+  "title": "S.B. 17 Enrolled Copy"
+ },
+ {
+  "id": "s-b-17-enrolled-copy-2",
+  "level": 5,
+  "title": "S.B. 17 Enrolled Copy"
+ },
+ {
+  "id": "appendix-h",
+  "level": 3,
+  "title": "APPENDIX H"
+ },
+ {
+  "id": "statutory-grant-program-template",
+  "level": 3,
+  "title": "Statutory Grant Program Template"
+ },
+ {
+  "id": "appendix-i-model-professional-licensing-act",
+  "level": 3,
+  "title": "APPENDIX I MODEL PROFESSIONAL LICENSING ACT"
+ },
+ {
+  "id": "part-1-general-provisions",
+  "level": 5,
+  "title": "Part 1 - General Provisions"
+ },
+ {
+  "id": "part-2-board",
+  "level": 5,
+  "title": "Part 2 - Board"
+ },
+ {
+  "id": "part-3-licensing",
+  "level": 5,
+  "title": "Part 3 - Licensing"
+ },
+ {
+  "id": "part-4-license-denial-and-discipline",
+  "level": 5,
+  "title": "Part 4 - License Denial and Discipline"
+ },
+ {
+  "id": "part-5-unlawful-and-unprofessional-conduct-penalties",
+  "level": 5,
+  "title": "Part 5 - Unlawful and Unprofessional Conduct -- Penalties"
+ },
+ {
+  "id": "appendix-j-revisor-intructions-examples",
+  "level": 4,
+  "title": "APPENDIX J REVISOR INTRUCTIONS EXAMPLES"
+ },
+ {
+  "id": "appendix-k-examples-of-transition-or-savings-clauses",
+  "level": 4,
+  "title": "APPENDIX K EXAMPLES OF TRANSITION OR SAVINGS CLAUSES"
+ },
+ {
+  "id": "contents",
+  "level": 3,
+  "title": "Contents"
+ },
+ {
+  "id": "administrative-rules",
+  "level": 5,
+  "title": "Administrative Rules"
+ },
+ {
+  "id": "bailment",
+  "level": 5,
+  "title": "Bailment"
+ },
+ {
+  "id": "citations",
+  "level": 5,
+  "title": "Citations"
+ },
+ {
+  "id": "continuation-of-entity-31a-5-108-transition-provision-for-fo",
+  "level": 5,
+  "title": "Continuation of Entity 31A-5-108. Transition provision for former mutual benefit associations, cooperative associations, county"
+ },
+ {
+  "id": "contract-or-agreement",
+  "level": 5,
+  "title": "Contract or Agreement"
+ },
+ {
+  "id": "conveyance",
+  "level": 5,
+  "title": "Conveyance"
+ },
+ {
+  "id": "court-or-administrative-action-or-order",
+  "level": 5,
+  "title": "Court or Administrative Action or Order"
+ },
+ {
+  "id": "effect-on-government-entity",
+  "level": 5,
+  "title": "Effect on Government Entity"
+ },
+ {
+  "id": "estates",
+  "level": 5,
+  "title": "Estates"
+ },
+ {
+  "id": "insurance-policy",
+  "level": 5,
+  "title": "Insurance Policy"
+ },
+ {
+  "id": "law-that-governs-31a-5-108-transition-provision-for-former-m",
+  "level": 5,
+  "title": "Law That Governs 31A-5-108. Transition provision for former mutual benefit associations, cooperative associations, county"
+ },
+ {
+  "id": "license-or-registration",
+  "level": 5,
+  "title": "License or Registration"
+ },
+ {
+  "id": "lien",
+  "level": 5,
+  "title": "Lien"
+ },
+ {
+  "id": "new-government-entity",
+  "level": 5,
+  "title": "New Government Entity"
+ },
+ {
+  "id": "pending-court-or-administrative-proceeding",
+  "level": 5,
+  "title": "Pending Court or Administrative Proceeding"
+ },
+ {
+  "id": "regulation-of-entity-being-changed-31a-5-108-transition-prov",
+  "level": 5,
+  "title": "Regulation of Entity Being Changed 31A-5-108. Transition provision for former mutual benefit associations, cooperative associations, county"
+ },
+ {
+  "id": "security-interest",
+  "level": 5,
+  "title": "Security Interest"
+ },
+ {
+  "id": "should-be-codified-in-the-future",
+  "level": 5,
+  "title": "Should be Codified in the Future"
+ },
+ {
+  "id": "taxation",
+  "level": 5,
+  "title": "Taxation"
+ },
+ {
+  "id": "transaction",
+  "level": 5,
+  "title": "Transaction"
+ },
+ {
+  "id": "coordination-clause-scenarios",
+  "level": 5,
+  "title": "Coordination Clause Scenarios"
+ },
+ {
+  "id": "appendix-m-cleanup-and-recodification-of-the-utah-code",
+  "level": 2,
+  "title": "Appendix M Cleanup and Recodification of the Utah Code"
+ },
+ {
+  "id": "cleanup-vs-recodification",
+  "level": 5,
+  "title": "Cleanup vs. Recodification"
+ },
+ {
+  "id": "guidelines-and-policies-for-cleaning-up-statutes-while-draft",
+  "level": 5,
+  "title": "Guidelines and Policies for Cleaning Up Statutes While Drafting"
+ },
+ {
+  "id": "guidelines-and-policies-for-a-recodification-bill-recodifica",
+  "level": 5,
+  "title": "Guidelines and Policies for a Recodification Bill  Recodification Bill"
+ },
+ {
+  "id": "steps-for-a-recodification-bill",
+  "level": 5,
+  "title": " Steps for a Recodification Bill"
+ },
+ {
+  "id": "post-recodification",
+  "level": 3,
+  "title": "Post-Recodification"
+ }
+]

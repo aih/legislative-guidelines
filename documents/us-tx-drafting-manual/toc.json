@@ -1,0 +1,2587 @@
+[
+ {
+  "id": "t-e-x-a-s-l-e-g-i-s-l-at-i-v-e-c-o-u-n-c-i-l-drafting-manual",
+  "level": 2,
+  "title": "T E X A S L E G I S L AT I V E C O U N C I L DRAFTING MANUAL"
+ },
+ {
+  "id": "september-2026",
+  "level": 4,
+  "title": "SEPTEMBER 2026"
+ },
+ {
+  "id": "texas-legislative-council-drafting-manual",
+  "level": 2,
+  "title": "Texas Legislative Council Drafting Manual"
+ },
+ {
+  "id": "prepared-by-the-staff-of-the-texas-legislative-council",
+  "level": 5,
+  "title": "Prepared by the Staff of the Texas Legislative Council"
+ },
+ {
+  "id": "published-by-the-texas-legislative-council",
+  "level": 5,
+  "title": "Published by the Texas Legislative Council"
+ },
+ {
+  "id": "90th-legislature",
+  "level": 5,
+  "title": "90th Legislature"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 4,
+  "title": "TABLE OF CONTENTS"
+ },
+ {
+  "id": "foreword",
+  "level": 4,
+  "title": "FOREWORD"
+ },
+ {
+  "id": "this-page-intentionally-left-blank",
+  "level": 5,
+  "title": "This page intentionally left blank."
+ },
+ {
+  "id": "chapter-1-introduction",
+  "level": 4,
+  "title": "CHAPTER 1 INTRODUCTION"
+ },
+ {
+  "id": "this-page-intentionally-left-blank-2",
+  "level": 5,
+  "title": "This page intentionally left blank."
+ },
+ {
+  "id": "chapter-2-legislative-documents-and-their-functions",
+  "level": 4,
+  "title": "CHAPTER 2 LEGISLATIVE DOCUMENTS AND THEIR FUNCTIONS"
+ },
+ {
+  "id": "sec-2-01-what-is-a-legislative-document",
+  "level": 5,
+  "title": "SEC. 2.01. WHAT IS A LEGISLATIVE DOCUMENT?"
+ },
+ {
+  "id": "sec-2-02-bills",
+  "level": 5,
+  "title": "SEC. 2.02. BILLS"
+ },
+ {
+  "id": "sec-2-03-joint-resolutions-to-amend-the-texas-constitution",
+  "level": 5,
+  "title": "SEC. 2.03. JOINT RESOLUTIONS TO AMEND THE TEXAS CONSTITUTION"
+ },
+ {
+  "id": "sec-2-04-other-resolutions",
+  "level": 5,
+  "title": "SEC. 2.04. OTHER RESOLUTIONS"
+ },
+ {
+  "id": "sec-2-05-amendments-substitutes-conference-committee-reports",
+  "level": 5,
+  "title": "SEC. 2.05. AMENDMENTS, SUBSTITUTES, CONFERENCE COMMITTEE REPORTS, AND MOTIONS"
+ },
+ {
+  "id": "chapter-3-bills",
+  "level": 4,
+  "title": "CHAPTER 3 BILLS"
+ },
+ {
+  "id": "sec-3-01-introduction",
+  "level": 5,
+  "title": "SEC. 3.01. INTRODUCTION"
+ },
+ {
+  "id": "sec-3-02-heading",
+  "level": 5,
+  "title": "SEC. 3.02. HEADING"
+ },
+ {
+  "id": "sec-3-03-title-or-caption",
+  "level": 5,
+  "title": "SEC. 3.03. TITLE OR CAPTION"
+ },
+ {
+  "id": "sec-3-04-enacting-clause",
+  "level": 5,
+  "title": "SEC. 3.04. ENACTING CLAUSE"
+ },
+ {
+  "id": "sec-3-05-short-title",
+  "level": 5,
+  "title": "SEC. 3.05. SHORT TITLE"
+ },
+ {
+  "id": "sec-3-06-statement-of-policy-or-purpose",
+  "level": 5,
+  "title": "SEC. 3.06. STATEMENT OF POLICY OR PURPOSE"
+ },
+ {
+  "id": "sec-3-07-definitions",
+  "level": 5,
+  "title": "SEC. 3.07. DEFINITIONS"
+ },
+ {
+  "id": "sec-3-08-principal-operative-provisions",
+  "level": 5,
+  "title": "SEC. 3.08. PRINCIPAL OPERATIVE PROVISIONS"
+ },
+ {
+  "id": "sec-3-09-enforcement-provisions",
+  "level": 5,
+  "title": "SEC. 3.09. ENFORCEMENT PROVISIONS"
+ },
+ {
+  "id": "definition-of-an-offense",
+  "level": 5,
+  "title": "Definition of an Offense"
+ },
+ {
+  "id": "exceptions-and-defenses",
+  "level": 5,
+  "title": "Exceptions and Defenses"
+ },
+ {
+  "id": "general-penalty",
+  "level": 5,
+  "title": "General Penalty"
+ },
+ {
+  "id": "enhancements-based-on-criminal-history",
+  "level": 5,
+  "title": "Enhancements Based on Criminal History"
+ },
+ {
+  "id": "sec-3-10-amendment-of-existing-law",
+  "level": 5,
+  "title": "SEC. 3.10. AMENDMENT OF EXISTING LAW"
+ },
+ {
+  "id": "will-read-it-a-drafter-should-limit-the-text-of-a-statute-se",
+  "level": 5,
+  "title": "will read it. A drafter should limit the text of a statute set out for amendment to the"
+ },
+ {
+  "id": "how-to-underline-and-bracket-material4",
+  "level": 5,
+  "title": "How to Underline and Bracket Material4"
+ },
+ {
+  "id": "sec-3-11-repealers",
+  "level": 5,
+  "title": "SEC. 3.11. REPEALERS"
+ },
+ {
+  "id": "different-codes",
+  "level": 5,
+  "title": "Different codes"
+ },
+ {
+  "id": "same-code-unlike-units",
+  "level": 5,
+  "title": "Same code, unlike units"
+ },
+ {
+  "id": "sec-3-12-saving-and-transition-provisions",
+  "level": 5,
+  "title": "SEC. 3.12. SAVING AND TRANSITION PROVISIONS"
+ },
+ {
+  "id": "repealing-an-offense",
+  "level": 5,
+  "title": "Repealing an Offense"
+ },
+ {
+  "id": "changing-the-elements-of-an-offense",
+  "level": 5,
+  "title": "Changing the Elements of an Offense"
+ },
+ {
+  "id": "changing-the-punishment-for-an-offense",
+  "level": 5,
+  "title": "Changing the Punishment for an Offense"
+ },
+ {
+  "id": "is-a-change-in-punishment-an-increase-or-reduction",
+  "level": 5,
+  "title": "Is a Change in Punishment an Increase or Reduction?"
+ },
+ {
+  "id": "adding-or-changing-available-defenses",
+  "level": 5,
+  "title": "Adding or Changing Available Defenses"
+ },
+ {
+  "id": "reliance-on-the-code-construction-act-for-criminal-law-purpo",
+  "level": 5,
+  "title": "Reliance on the Code Construction Act for Criminal Law Purposes"
+ },
+ {
+  "id": "sec-3-13-severability-and-nonseverability-clauses",
+  "level": 5,
+  "title": "SEC. 3.13. SEVERABILITY AND NONSEVERABILITY CLAUSES"
+ },
+ {
+  "id": "sec-3-14-effective-date",
+  "level": 5,
+  "title": "SEC. 3.14. EFFECTIVE DATE"
+ },
+ {
+  "id": "chapter-4-joint-resolutions-to-amend-texas-constitution",
+  "level": 4,
+  "title": "CHAPTER 4 JOINT RESOLUTIONS TO AMEND TEXAS CONSTITUTION"
+ },
+ {
+  "id": "sec-4-01-introduction",
+  "level": 5,
+  "title": "SEC. 4.01. INTRODUCTION"
+ },
+ {
+  "id": "sec-4-02-heading",
+  "level": 5,
+  "title": "SEC. 4.02. HEADING"
+ },
+ {
+  "id": "sec-4-03-title-or-caption",
+  "level": 5,
+  "title": "SEC. 4.03. TITLE OR CAPTION"
+ },
+ {
+  "id": "sec-4-04-resolving-clause",
+  "level": 5,
+  "title": "SEC. 4.04. RESOLVING CLAUSE"
+ },
+ {
+  "id": "sec-4-05-amendatory-sections",
+  "level": 5,
+  "title": "SEC. 4.05. AMENDATORY SECTIONS"
+ },
+ {
+  "id": "sec-4-06-repealers",
+  "level": 5,
+  "title": "SEC. 4.06. REPEALERS"
+ },
+ {
+  "id": "sec-4-07-temporary-provisions",
+  "level": 5,
+  "title": "SEC. 4.07. TEMPORARY PROVISIONS"
+ },
+ {
+  "id": "sec-4-08-effective-date-of-constitutional-amendment",
+  "level": 5,
+  "title": "SEC. 4.08. EFFECTIVE DATE OF CONSTITUTIONAL AMENDMENT"
+ },
+ {
+  "id": "sec-4-09-unnecessary-provisions",
+  "level": 5,
+  "title": "SEC. 4.09. UNNECESSARY PROVISIONS"
+ },
+ {
+  "id": "sec-4-10-submission-clause",
+  "level": 5,
+  "title": "SEC. 4.10. SUBMISSION CLAUSE"
+ },
+ {
+  "id": "sec-4-11-permissible-scope-of-amendment",
+  "level": 5,
+  "title": "SEC. 4.11. PERMISSIBLE SCOPE OF AMENDMENT"
+ },
+ {
+  "id": "chapter-5-other-resolutions",
+  "level": 4,
+  "title": "CHAPTER 5 OTHER RESOLUTIONS"
+ },
+ {
+  "id": "sec-5-01-introduction",
+  "level": 5,
+  "title": "SEC. 5.01. INTRODUCTION"
+ },
+ {
+  "id": "sec-5-02-parts-of-a-resolution",
+  "level": 5,
+  "title": "SEC. 5.02. PARTS OF A RESOLUTION"
+ },
+ {
+  "id": "sec-5-03-concurrent-resolutions-generally",
+  "level": 5,
+  "title": "SEC. 5.03. CONCURRENT RESOLUTIONS GENERALLY"
+ },
+ {
+  "id": "sec-5-04-concurrent-resolutions-granting-permission-to-sue-s",
+  "level": 5,
+  "title": "SEC. 5.04. CONCURRENT RESOLUTIONS GRANTING PERMISSION TO SUE STATE"
+ },
+ {
+  "id": "sec-5-05-simple-resolutions",
+  "level": 5,
+  "title": "SEC. 5.05. SIMPLE RESOLUTIONS"
+ },
+ {
+  "id": "sec-5-06-captions-for-simple-and-concurrent-resolutions",
+  "level": 5,
+  "title": "SEC. 5.06. CAPTIONS FOR SIMPLE AND CONCURRENT RESOLUTIONS"
+ },
+ {
+  "id": "congratulatory-resolutions",
+  "level": 5,
+  "title": "Congratulatory Resolutions"
+ },
+ {
+  "id": "memorial-resolutions",
+  "level": 5,
+  "title": "Memorial Resolutions"
+ },
+ {
+  "id": "other-simple-and-concurrent-resolutions",
+  "level": 5,
+  "title": "Other Simple and Concurrent Resolutions"
+ },
+ {
+  "id": "sec-5-07-resolutions-relating-to-amendment-of-united-states-",
+  "level": 5,
+  "title": "SEC. 5.07. RESOLUTIONS RELATING TO AMENDMENT OF UNITED STATES CONSTITUTION"
+ },
+ {
+  "id": "sec-5-08-member-resolutions",
+  "level": 5,
+  "title": "SEC. 5.08. MEMBER RESOLUTIONS"
+ },
+ {
+  "id": "chapter-6-amendments-substitutes-conference-committee-report",
+  "level": 4,
+  "title": "CHAPTER 6 AMENDMENTS, SUBSTITUTES, CONFERENCE COMMITTEE REPORTS, AND MOTIONS"
+ },
+ {
+  "id": "sec-6-01-introduction",
+  "level": 5,
+  "title": "SEC. 6.01. INTRODUCTION"
+ },
+ {
+  "id": "sec-6-02-germaneness",
+  "level": 5,
+  "title": "SEC. 6.02. GERMANENESS"
+ },
+ {
+  "id": "sec-6-03-committee-and-floor-amendments",
+  "level": 5,
+  "title": "SEC. 6.03. COMMITTEE AND FLOOR AMENDMENTS"
+ },
+ {
+  "id": "if-the-amendment-is-to-be-offered-it-should-be-drawn-to",
+  "level": 5,
+  "title": "IF THE AMENDMENT IS TO BE OFFERED: IT SHOULD BE DRAWN TO:"
+ },
+ {
+  "id": "strike-and-substitute",
+  "level": 5,
+  "title": "strike and substitute"
+ },
+ {
+  "id": "example-1-committee-amendment-to-delete-an-entire-sentence",
+  "level": 5,
+  "title": "EXAMPLE 1. Committee amendment to delete an entire sentence:"
+ },
+ {
+  "id": "example-2-floor-amendment-to-a-committee-substitute-to-subst",
+  "level": 5,
+  "title": "EXAMPLE 2. Floor amendment to a committee substitute to substitute a phrase and add a sentence:"
+ },
+ {
+  "id": "example-3-floor-amendment-to-strike-one-section-of-a-bill-an",
+  "level": 5,
+  "title": "EXAMPLE 3. Floor amendment to strike one section of a bill and part of another:"
+ },
+ {
+  "id": "example-4-floor-amendment-to-a-committee-amendment",
+  "level": 5,
+  "title": "EXAMPLE 4. Floor amendment to a committee amendment:"
+ },
+ {
+  "id": "example-5-floor-amendment-to-a-floor-amendment",
+  "level": 5,
+  "title": "EXAMPLE 5. Floor amendment to a floor amendment:"
+ },
+ {
+  "id": "example-6-floor-amendment-to-add-a-new-item-to-a-floor-amend",
+  "level": 5,
+  "title": "EXAMPLE 6. Floor amendment to add a new item to a floor amendment:"
+ },
+ {
+  "id": "example-7-floor-amendment-to-a-floor-substitute-to-strike-on",
+  "level": 5,
+  "title": "EXAMPLE 7. Floor amendment to a floor substitute to strike one section of the substitute:"
+ },
+ {
+  "id": "example-8-third-reading-floor-amendment",
+  "level": 5,
+  "title": "EXAMPLE 8. Third reading floor amendment:"
+ },
+ {
+  "id": "example-9-third-reading-floor-amendment-to-amend-a-section-o",
+  "level": 5,
+  "title": "EXAMPLE 9. Third reading floor amendment to amend a section of a bill that has been added or amended on second reading:"
+ },
+ {
+  "id": "example-1-committee-amendment-to-delete-an-entire-sentence-2",
+  "level": 5,
+  "title": "EXAMPLE 1. Committee amendment to delete an entire sentence:"
+ },
+ {
+  "id": "example-2-floor-amendment-to-a-committee-substitute-to-subst-2",
+  "level": 5,
+  "title": "EXAMPLE 2. Floor amendment to a committee substitute to substitute a phrase and add a sentence:"
+ },
+ {
+  "id": "example-3-floor-amendment-to-strike-one-section-of-a-committ",
+  "level": 5,
+  "title": "EXAMPLE 3. Floor amendment to strike one section of a committee substitute and part of another section:"
+ },
+ {
+  "id": "example-4-floor-amendment-to-a-committee-amendment-2",
+  "level": 5,
+  "title": "EXAMPLE 4. Floor amendment to a committee amendment:"
+ },
+ {
+  "id": "example-5-floor-amendment-to-a-floor-amendment-2",
+  "level": 5,
+  "title": "EXAMPLE 5. Floor amendment to a floor amendment:"
+ },
+ {
+  "id": "example-6-floor-amendment-to-add-a-new-item-to-a-floor-amend-2",
+  "level": 5,
+  "title": "EXAMPLE 6. Floor amendment to add a new item to a floor amendment:"
+ },
+ {
+  "id": "example-7-floor-amendment-to-a-floor-substitute",
+  "level": 5,
+  "title": "EXAMPLE 7. Floor amendment to a floor substitute:"
+ },
+ {
+  "id": "example-8-third-reading-floor-amendment-2",
+  "level": 5,
+  "title": "EXAMPLE 8. Third reading floor amendment:"
+ },
+ {
+  "id": "sec-6-04-floor-amendments-striking-enacting-clause",
+  "level": 5,
+  "title": "SEC. 6.04. FLOOR AMENDMENTS STRIKING ENACTING CLAUSE"
+ },
+ {
+  "id": "sec-6-05-committee-and-floor-substitutes",
+  "level": 5,
+  "title": "SEC. 6.05. COMMITTEE AND FLOOR SUBSTITUTES"
+ },
+ {
+  "id": "sec-6-06-conference-committee-reports",
+  "level": 5,
+  "title": "SEC. 6.06. CONFERENCE COMMITTEE REPORTS"
+ },
+ {
+  "id": "sec-6-07-side-by-side-analyses",
+  "level": 5,
+  "title": "SEC. 6.07. SIDE-BY-SIDE ANALYSES"
+ },
+ {
+  "id": "layout",
+  "level": 5,
+  "title": "Layout"
+ },
+ {
+  "id": "describing-differences",
+  "level": 5,
+  "title": "Describing Differences"
+ },
+ {
+  "id": "apply-to-a-person-who-provides-the-public-or",
+  "level": 5,
+  "title": "apply to a person who provides the public or"
+ },
+ {
+  "id": "or-county-with-written-documentation-that-the-person-is-rece",
+  "level": 5,
+  "title": "or county with written documentation that the person is receiving solid waste disposal services from"
+ },
+ {
+  "id": "except-as-provided-by-section",
+  "level": 5,
+  "title": "Except as provided by Section"
+ },
+ {
+  "id": "not-apply-to-a-person-who-provides-the-public-or",
+  "level": 5,
+  "title": "not apply to a person who provides the public or"
+ },
+ {
+  "id": "or-county-with-written-documentation-that-the-person-is-rece-2",
+  "level": 5,
+  "title": "or county with written documentation that the person is receiving solid waste disposal services from"
+ },
+ {
+  "id": "except-as-provided-by-section-2",
+  "level": 5,
+  "title": "Except as provided by Section"
+ },
+ {
+  "id": "agency-including-a-county",
+  "level": 5,
+  "title": "agency, including a county"
+ },
+ {
+  "id": "section-364-035-b-this-this-section-does-not-apply-to-a-pers",
+  "level": 5,
+  "title": "Section 364.035(b), this [This] section does not apply to a person who provides"
+ },
+ {
+  "id": "public-agency-or-county-with-written-documentation-that-the-",
+  "level": 5,
+  "title": "public agency, or county with written documentation that the person is receiving solid waste disposal services from"
+ },
+ {
+  "id": "agency-including-a-county-2",
+  "level": 5,
+  "title": "agency, including a county"
+ },
+ {
+  "id": "of-an-offense-listed-in-section",
+  "level": 5,
+  "title": "of an offense listed in Section"
+ },
+ {
+  "id": "sec-6-08-motions",
+  "level": 5,
+  "title": "SEC. 6.08. MOTIONS"
+ },
+ {
+  "id": "this-page-intentionally-left-blank-3",
+  "level": 5,
+  "title": "This page intentionally left blank."
+ },
+ {
+  "id": "chapter-7-style-and-usage",
+  "level": 4,
+  "title": "CHAPTER 7 STYLE AND USAGE"
+ },
+ {
+  "id": "subchapter-a-rules-of-style",
+  "level": 5,
+  "title": "Subchapter A Rules of Style"
+ },
+ {
+  "id": "sec-7-01-abbreviations",
+  "level": 5,
+  "title": "SEC. 7.01. ABBREVIATIONS"
+ },
+ {
+  "id": "sec-7-02-capitalization",
+  "level": 5,
+  "title": "SEC. 7.02. CAPITALIZATION"
+ },
+ {
+  "id": "administrative-bodies",
+  "level": 5,
+  "title": "Administrative Bodies"
+ },
+ {
+  "id": "judicial-bodies",
+  "level": 5,
+  "title": "Judicial Bodies"
+ },
+ {
+  "id": "legislative-bodies",
+  "level": 5,
+  "title": "Legislative Bodies"
+ },
+ {
+  "id": "documents",
+  "level": 5,
+  "title": "Documents"
+ },
+ {
+  "id": "educational-institutions",
+  "level": 5,
+  "title": "Educational Institutions"
+ },
+ {
+  "id": "funds",
+  "level": 5,
+  "title": "Funds"
+ },
+ {
+  "id": "nationality-race-and-ethnicity",
+  "level": 5,
+  "title": "Nationality, Race, and Ethnicity"
+ },
+ {
+  "id": "place-names",
+  "level": 5,
+  "title": "Place Names"
+ },
+ {
+  "id": "plurals",
+  "level": 5,
+  "title": "Plurals"
+ },
+ {
+  "id": "prepositions-in-headings",
+  "level": 5,
+  "title": "Prepositions in Headings"
+ },
+ {
+  "id": "titles-and-offices",
+  "level": 5,
+  "title": "Titles and Offices"
+ },
+ {
+  "id": "sec-7-03-numbers",
+  "level": 5,
+  "title": "SEC. 7.03. NUMBERS"
+ },
+ {
+  "id": "general-rules",
+  "level": 5,
+  "title": "General Rules"
+ },
+ {
+  "id": "dates",
+  "level": 5,
+  "title": "Dates"
+ },
+ {
+  "id": "fractions-and-decimal-fractions",
+  "level": 5,
+  "title": "Fractions and Decimal Fractions"
+ },
+ {
+  "id": "money",
+  "level": 5,
+  "title": "Money"
+ },
+ {
+  "id": "ordinal-numbers",
+  "level": 5,
+  "title": "Ordinal Numbers"
+ },
+ {
+  "id": "percentages",
+  "level": 5,
+  "title": "Percentages"
+ },
+ {
+  "id": "time",
+  "level": 5,
+  "title": "Time"
+ },
+ {
+  "id": "sec-7-04-mathematical-computations",
+  "level": 5,
+  "title": "SEC. 7.04. MATHEMATICAL COMPUTATIONS"
+ },
+ {
+  "id": "sec-7-05-plurals",
+  "level": 5,
+  "title": "SEC. 7.05. PLURALS"
+ },
+ {
+  "id": "sec-7-06-possessives",
+  "level": 5,
+  "title": "SEC. 7.06. POSSESSIVES"
+ },
+ {
+  "id": "sec-7-07-prefixes",
+  "level": 5,
+  "title": "SEC. 7.07. PREFIXES"
+ },
+ {
+  "id": "sec-7-08-punctuation",
+  "level": 5,
+  "title": "SEC. 7.08. PUNCTUATION"
+ },
+ {
+  "id": "colons",
+  "level": 5,
+  "title": "Colons"
+ },
+ {
+  "id": "commas",
+  "level": 5,
+  "title": "Commas"
+ },
+ {
+  "id": "dashes",
+  "level": 5,
+  "title": "Dashes"
+ },
+ {
+  "id": "ellipses",
+  "level": 5,
+  "title": "Ellipses"
+ },
+ {
+  "id": "parentheses",
+  "level": 5,
+  "title": "Parentheses"
+ },
+ {
+  "id": "quotation-marks",
+  "level": 5,
+  "title": "Quotation Marks"
+ },
+ {
+  "id": "semicolons",
+  "level": 5,
+  "title": "Semicolons"
+ },
+ {
+  "id": "underscoring",
+  "level": 5,
+  "title": "Underscoring"
+ },
+ {
+  "id": "sec-7-09-spelling-and-specific-usage",
+  "level": 5,
+  "title": "SEC. 7.09. SPELLING AND SPECIFIC USAGE"
+ },
+ {
+  "id": "sec-7-10-symbols",
+  "level": 5,
+  "title": "SEC. 7.10. SYMBOLS"
+ },
+ {
+  "id": "sec-7-11-notes-and-footnotes",
+  "level": 5,
+  "title": "SEC. 7.11. NOTES AND FOOTNOTES"
+ },
+ {
+  "id": "subchapter-b-drafting-rules",
+  "level": 5,
+  "title": "Subchapter B Drafting Rules"
+ },
+ {
+  "id": "sec-7-21-active-voice",
+  "level": 5,
+  "title": "SEC. 7.21. ACTIVE VOICE"
+ },
+ {
+  "id": "sec-7-22-conciseness",
+  "level": 5,
+  "title": "SEC. 7.22. CONCISENESS"
+ },
+ {
+  "id": "sec-7-23-consistency",
+  "level": 5,
+  "title": "SEC. 7.23. CONSISTENCY"
+ },
+ {
+  "id": "sec-7-24-court-construed-language",
+  "level": 5,
+  "title": "SEC. 7.24. COURT-CONSTRUED LANGUAGE"
+ },
+ {
+  "id": "sec-7-25-finite-verbs",
+  "level": 5,
+  "title": "SEC. 7.25. FINITE VERBS"
+ },
+ {
+  "id": "sec-7-26-gender",
+  "level": 5,
+  "title": "SEC. 7.26. GENDER"
+ },
+ {
+  "id": "sec-7-27-how-to-express-age",
+  "level": 5,
+  "title": "SEC. 7.27. HOW TO EXPRESS AGE"
+ },
+ {
+  "id": "sec-7-28-how-to-express-time",
+  "level": 5,
+  "title": "SEC. 7.28. HOW TO EXPRESS TIME"
+ },
+ {
+  "id": "sec-7-29-legalese-and-preferred-usage",
+  "level": 5,
+  "title": "SEC. 7.29. LEGALESE AND PREFERRED USAGE"
+ },
+ {
+  "id": "sec-7-30-shall-must-may-etc-2",
+  "level": 5,
+  "title": "SEC. 7.30. “SHALL,” “MUST,” “MAY,” ETC.2"
+ },
+ {
+  "id": "sec-7-31-modifiers",
+  "level": 5,
+  "title": "SEC. 7.31. MODIFIERS"
+ },
+ {
+  "id": "sec-7-32-parallel-construction",
+  "level": 5,
+  "title": "SEC. 7.32. PARALLEL CONSTRUCTION"
+ },
+ {
+  "id": "sec-7-33-positive-expression",
+  "level": 5,
+  "title": "SEC. 7.33. POSITIVE EXPRESSION"
+ },
+ {
+  "id": "sec-7-34-singular-number",
+  "level": 5,
+  "title": "SEC. 7.34. SINGULAR NUMBER"
+ },
+ {
+  "id": "sec-7-35-tense",
+  "level": 5,
+  "title": "SEC. 7.35. TENSE"
+ },
+ {
+  "id": "sec-7-36-that-and-which",
+  "level": 5,
+  "title": "SEC. 7.36. “THAT” AND “WHICH”"
+ },
+ {
+  "id": "sec-7-37-third-person",
+  "level": 5,
+  "title": "SEC. 7.37. THIRD PERSON"
+ },
+ {
+  "id": "sec-7-38-fewer-vs-less-and-other-perplexing-pairs-affect-eff",
+  "level": 5,
+  "title": "SEC. 7.38. “FEWER” VS. “LESS” AND OTHER PERPLEXING PAIRS affect/effect"
+ },
+ {
+  "id": "between-among",
+  "level": 5,
+  "title": "between/among"
+ },
+ {
+  "id": "biannual-biennial",
+  "level": 5,
+  "title": "biannual/biennial"
+ },
+ {
+  "id": "compose-comprise",
+  "level": 5,
+  "title": "compose/comprise"
+ },
+ {
+  "id": "continual-continuous",
+  "level": 5,
+  "title": "continual/continuous"
+ },
+ {
+  "id": "disburse-disperse",
+  "level": 5,
+  "title": "disburse/disperse"
+ },
+ {
+  "id": "farther-further",
+  "level": 5,
+  "title": "farther/further"
+ },
+ {
+  "id": "fewer-less",
+  "level": 5,
+  "title": "fewer/less"
+ },
+ {
+  "id": "historic-historical",
+  "level": 5,
+  "title": "historic/historical"
+ },
+ {
+  "id": "if-whether",
+  "level": 5,
+  "title": "if/whether"
+ },
+ {
+  "id": "practicable-practical",
+  "level": 5,
+  "title": "practicable/practical"
+ },
+ {
+  "id": "whether-or-not-whether",
+  "level": 5,
+  "title": "whether or not/whether"
+ },
+ {
+  "id": "sec-7-39-person-first-respectful-language",
+  "level": 5,
+  "title": "SEC. 7.39. PERSON FIRST RESPECTFUL LANGUAGE"
+ },
+ {
+  "id": "sec-7-40-metes-and-bounds",
+  "level": 5,
+  "title": "SEC. 7.40. METES AND BOUNDS"
+ },
+ {
+  "id": "subchapter-c-citations",
+  "level": 5,
+  "title": "Subchapter C Citations"
+ },
+ {
+  "id": "sec-7-61-codes",
+  "level": 5,
+  "title": "SEC. 7.61. CODES"
+ },
+ {
+  "id": "sec-7-62-constitution",
+  "level": 5,
+  "title": "SEC. 7.62. CONSTITUTION"
+ },
+ {
+  "id": "sec-7-63-revised-statutes",
+  "level": 5,
+  "title": "SEC. 7.63. REVISED STATUTES"
+ },
+ {
+  "id": "sec-7-64-session-laws-and-bills",
+  "level": 5,
+  "title": "SEC. 7.64. SESSION LAWS AND BILLS"
+ },
+ {
+  "id": "a-session-law-for-a-session-for-which-special-laws-and-gener",
+  "level": 5,
+  "title": "A session law for a session for which special laws and general laws were"
+ },
+ {
+  "id": "sec-7-65-general-appropriations-act",
+  "level": 5,
+  "title": "SEC. 7.65. GENERAL APPROPRIATIONS ACT"
+ },
+ {
+  "id": "sec-7-66-internal-citations",
+  "level": 5,
+  "title": "SEC. 7.66. INTERNAL CITATIONS"
+ },
+ {
+  "id": "another-section-in-the-same-chapter-of-a-session-law-section",
+  "level": 5,
+  "title": "Another section in the same chapter of a session law: Section 3 of"
+ },
+ {
+  "id": "sec-7-67-long-and-short-forms",
+  "level": 5,
+  "title": "SEC. 7.67. LONG AND SHORT FORMS"
+ },
+ {
+  "id": "sec-7-68-short-titles",
+  "level": 5,
+  "title": "SEC. 7.68. SHORT TITLES"
+ },
+ {
+  "id": "sec-7-69-attorney-general-opinions",
+  "level": 5,
+  "title": "SEC. 7.69. ATTORNEY GENERAL OPINIONS"
+ },
+ {
+  "id": "sec-7-70-ethics-commission-opinions",
+  "level": 5,
+  "title": "SEC. 7.70. ETHICS COMMISSION OPINIONS"
+ },
+ {
+  "id": "sec-7-71-texas-administrative-code",
+  "level": 5,
+  "title": "SEC. 7.71. TEXAS ADMINISTRATIVE CODE"
+ },
+ {
+  "id": "sec-7-72-texas-register",
+  "level": 5,
+  "title": "SEC. 7.72. TEXAS REGISTER"
+ },
+ {
+  "id": "sec-7-73-federal-law",
+  "level": 5,
+  "title": "SEC. 7.73. FEDERAL LAW"
+ },
+ {
+  "id": "sec-7-74-case-citation",
+  "level": 5,
+  "title": "SEC. 7.74. CASE CITATION"
+ },
+ {
+  "id": "texas-courts1",
+  "level": 5,
+  "title": "TEXAS COURTS1"
+ },
+ {
+  "id": "civil-cases",
+  "level": 5,
+  "title": "Civil Cases"
+ },
+ {
+  "id": "criminal-cases",
+  "level": 5,
+  "title": "Criminal Cases"
+ },
+ {
+  "id": "civil-cases2",
+  "level": 5,
+  "title": "Civil Cases2"
+ },
+ {
+  "id": "criminal-cases-2",
+  "level": 5,
+  "title": "Criminal Cases"
+ },
+ {
+  "id": "federal-courts1",
+  "level": 5,
+  "title": "FEDERAL COURTS1"
+ },
+ {
+  "id": "subchapter-d-other-useful-information",
+  "level": 5,
+  "title": "Subchapter D Other Useful Information"
+ },
+ {
+  "id": "sec-7-81-checklists",
+  "level": 5,
+  "title": "SEC. 7.81. CHECKLISTS"
+ },
+ {
+  "id": "sec-7-82-editing-marks",
+  "level": 5,
+  "title": "SEC. 7.82. EDITING MARKS"
+ },
+ {
+  "id": "section",
+  "level": 5,
+  "title": ", ,"
+ },
+ {
+  "id": "s",
+  "level": 3,
+  "title": "s"
+ },
+ {
+  "id": "section-2",
+  "level": 5,
+  "title": ". , , ; : . , ,, , ,, ,,"
+ },
+ {
+  "id": "editing-marks",
+  "level": 5,
+  "title": "EDITING MARKS"
+ },
+ {
+  "id": "sec-7-83-forms-of-documents",
+  "level": 5,
+  "title": "SEC. 7.83. FORMS OF DOCUMENTS"
+ },
+ {
+  "id": "sec-7-84-form-of-sections-of-bills-and-joint-resolutions",
+  "level": 5,
+  "title": "SEC. 7.84. FORM OF SECTIONS OF BILLS AND JOINT RESOLUTIONS"
+ },
+ {
+  "id": "sec-7-85-legislative-sessions",
+  "level": 5,
+  "title": "SEC. 7.85. LEGISLATIVE SESSIONS"
+ },
+ {
+  "id": "sec-7-86-november-election-dates-2025-2038",
+  "level": 5,
+  "title": "SEC. 7.86. NOVEMBER ELECTION DATES, 2025–2038"
+ },
+ {
+  "id": "sec-7-87-regular-session-perpetual-calendar",
+  "level": 5,
+  "title": "SEC. 7.87. REGULAR SESSION PERPETUAL CALENDAR"
+ },
+ {
+  "id": "new-year-s-day-legislature-convenes-second-tuesday-of-januar",
+  "level": 5,
+  "title": "New Year’s Day Legislature Convenes (Second Tuesday of January) 60-Day Bill Filing Deadline Adjournment Sine Die (140th Day or 20 Weeks) Post-Session 20-Day Deadline for Governor to Sign or Veto Effective Date (91st Day After Adjournment)"
+ },
+ {
+  "id": "this-page-intentionally-left-blank-4",
+  "level": 5,
+  "title": "This page intentionally left blank."
+ },
+ {
+  "id": "chapter-8-other-things-a-drafter-ought-to-know",
+  "level": 4,
+  "title": "CHAPTER 8 OTHER THINGS A DRAFTER OUGHT TO KNOW"
+ },
+ {
+  "id": "sec-8-01-introduction",
+  "level": 5,
+  "title": "SEC. 8.01. INTRODUCTION"
+ },
+ {
+  "id": "sec-8-02-one-subject-rule",
+  "level": 5,
+  "title": "SEC. 8.02. ONE-SUBJECT RULE"
+ },
+ {
+  "id": "sec-8-03-enrolled-bill-rule",
+  "level": 5,
+  "title": "SEC. 8.03. ENROLLED BILL RULE"
+ },
+ {
+  "id": "sec-8-04-terms-of-office",
+  "level": 5,
+  "title": "SEC. 8.04. TERMS OF OFFICE"
+ },
+ {
+  "id": "table-1-constitutionally-fixed-terms-of-more-than-two-years-",
+  "level": 5,
+  "title": "TABLE 1 CONSTITUTIONALLY FIXED TERMS OF MORE THAN TWO YEARS Office Duration of Term Constitutional Provision"
+ },
+ {
+  "id": "table-1-continued-office-duration-of-term-constitutional-pro",
+  "level": 5,
+  "title": "TABLE 1 (continued) Office Duration of Term Constitutional Provision"
+ },
+ {
+  "id": "table-2-authorization-for-legislature-to-provide-for-terms-l",
+  "level": 5,
+  "title": "TABLE 2 AUTHORIZATION FOR LEGISLATURE TO PROVIDE FOR TERMS LONGER THAN TWO YEARS Office Duration of Term Constitutional Provision"
+ },
+ {
+  "id": "table-2-continued-office-duration-of-term-constitutional-pro",
+  "level": 5,
+  "title": "TABLE 2 (continued) Office Duration of Term Constitutional Provision"
+ },
+ {
+  "id": "table-3-authorization-for-voters-to-adopt-terms-longer-than-",
+  "level": 5,
+  "title": "TABLE 3 AUTHORIZATION FOR VOTERS TO ADOPT TERMS LONGER THAN TWO YEARS Office Duration of Term Constitutional Provision"
+ },
+ {
+  "id": "drafting-a-provision-to-provide-for-six-year-staggered-terms",
+  "level": 5,
+  "title": "Drafting a Provision to Provide for Six-Year Staggered Terms"
+ },
+ {
+  "id": "drafting-a-provision-to-expand-a-board-with-six-year-stagger",
+  "level": 5,
+  "title": "Drafting a Provision to Expand a Board With Six-Year Staggered Terms"
+ },
+ {
+  "id": "sec-8-05-quorum-requirements-for-governmental-bodies",
+  "level": 5,
+  "title": "SEC. 8.05. QUORUM REQUIREMENTS FOR GOVERNMENTAL BODIES"
+ },
+ {
+  "id": "sec-8-06-validating-acts",
+  "level": 5,
+  "title": "SEC. 8.06. VALIDATING ACTS"
+ },
+ {
+  "id": "sec-8-07-classification-schemes",
+  "level": 5,
+  "title": "SEC. 8.07. CLASSIFICATION SCHEMES"
+ },
+ {
+  "id": "sec-8-08-conflicting-acts-of-the-same-session",
+  "level": 5,
+  "title": "SEC. 8.08. CONFLICTING ACTS OF THE SAME SESSION"
+ },
+ {
+  "id": "sec-8-09-continuing-statutory-revision-program",
+  "level": 5,
+  "title": "SEC. 8.09. CONTINUING STATUTORY REVISION PROGRAM"
+ },
+ {
+  "id": "sec-8-10-laws-amended-the-same-session-a-code-passes",
+  "level": 5,
+  "title": "SEC. 8.10. LAWS AMENDED THE SAME SESSION A CODE PASSES"
+ },
+ {
+  "id": "sec-8-11-incorporation-by-reference",
+  "level": 5,
+  "title": "SEC. 8.11. INCORPORATION BY REFERENCE"
+ },
+ {
+  "id": "sec-8-12-the-legislative-process-in-texas",
+  "level": 5,
+  "title": "SEC. 8.12. THE LEGISLATIVE PROCESS IN TEXAS"
+ },
+ {
+  "id": "sec-8-13-electronic-legal-materials",
+  "level": 5,
+  "title": "SEC. 8.13. ELECTRONIC LEGAL MATERIALS"
+ },
+ {
+  "id": "appendixes",
+  "level": 4,
+  "title": "APPENDIXES"
+ },
+ {
+  "id": "a",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "this-page-intentionally-left-blank-5",
+  "level": 5,
+  "title": "This page intentionally left blank."
+ },
+ {
+  "id": "appendix-1",
+  "level": 2,
+  "title": "Appendix 1"
+ },
+ {
+  "id": "2020-texas-census-city-summary",
+  "level": 2,
+  "title": "2020 Texas Census City Summary"
+ },
+ {
+  "id": "according-to-the-official-returns-of-the-24th-decennial-cens",
+  "level": 5,
+  "title": "According to the official returns of the 24th Decennial Census of the United States, as released by the Bureau of the Census on August 12, 2021."
+ },
+ {
+  "id": "by-population",
+  "level": 5,
+  "title": "(By population)"
+ },
+ {
+  "id": "texas-legislative-council-august-2021",
+  "level": 5,
+  "title": "Texas Legislative Council August 2021"
+ },
+ {
+  "id": "a-2",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "this-page-intentionally-left-blank-6",
+  "level": 5,
+  "title": "This page intentionally left blank."
+ },
+ {
+  "id": "population-in-texas-cities-and-cdps1-2020-census",
+  "level": 4,
+  "title": "Population in Texas Cities and CDPs1 2020 Census"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-3",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-4",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-2",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-5",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-3",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-6",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-4",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-7",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-5",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-8",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-6",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-9",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-7",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-10",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-8",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-11",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-9",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-12",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-10",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-13",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-11",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-14",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-12",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-15",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-13",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-16",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-14",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-17",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-15",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-18",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-16",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-19",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-17",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-20",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-18",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-21",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-19",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-22",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-20",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "appendix-2",
+  "level": 2,
+  "title": "Appendix 2"
+ },
+ {
+  "id": "2020-texas-census-county-summary",
+  "level": 2,
+  "title": "2020 Texas Census County Summary"
+ },
+ {
+  "id": "according-to-the-official-returns-of-the-24th-decennial-cens-2",
+  "level": 5,
+  "title": "According to the official returns of the 24th Decennial Census of the United States, as released by the Bureau of the Census on August 12, 2021."
+ },
+ {
+  "id": "by-population-2",
+  "level": 5,
+  "title": "(By population)"
+ },
+ {
+  "id": "texas-legislative-council-august-2021-2",
+  "level": 5,
+  "title": "Texas Legislative Council August 2021"
+ },
+ {
+  "id": "a-23",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "this-page-intentionally-left-blank-7",
+  "level": 5,
+  "title": "This page intentionally left blank."
+ },
+ {
+  "id": "population-in-texas-counties-2020-census",
+  "level": 4,
+  "title": "Population in Texas Counties 2020 Census"
+ },
+ {
+  "id": "county-population-county-population",
+  "level": 5,
+  "title": "County Population County Population"
+ },
+ {
+  "id": "a-24",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "county-population-county-population-2",
+  "level": 5,
+  "title": "County Population County Population"
+ },
+ {
+  "id": "a-25",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "county-population-county-population-3",
+  "level": 5,
+  "title": "County Population County Population"
+ },
+ {
+  "id": "a-26",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "this-page-intentionally-left-blank-8",
+  "level": 5,
+  "title": "This page intentionally left blank."
+ },
+ {
+  "id": "appendix-3",
+  "level": 2,
+  "title": "Appendix 3"
+ },
+ {
+  "id": "2020-texas-census-city-summary-2",
+  "level": 2,
+  "title": "2020 Texas Census City Summary"
+ },
+ {
+  "id": "according-to-the-official-returns-of-the-24th-decennial-cens-3",
+  "level": 5,
+  "title": "According to the official returns of the 24th Decennial Census of the United States, as released by the Bureau of the Census on August 12, 2021."
+ },
+ {
+  "id": "alphabetical",
+  "level": 5,
+  "title": "(Alphabetical)"
+ },
+ {
+  "id": "texas-legislative-council-august-2021-3",
+  "level": 5,
+  "title": "Texas Legislative Council August 2021"
+ },
+ {
+  "id": "a-27",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "this-page-intentionally-left-blank-9",
+  "level": 5,
+  "title": "This page intentionally left blank."
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-21",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "population-in-texas-cities-and-cdps1-2020-census-2",
+  "level": 4,
+  "title": "Population in Texas Cities and CDPs1 2020 Census"
+ },
+ {
+  "id": "a-28",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-29",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-22",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-30",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-23",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-31",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-24",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-32",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-25",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-33",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-26",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-34",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-27",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-35",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-28",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-36",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-29",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-37",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-30",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-38",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-31",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-39",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-32",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-40",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-33",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-41",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-34",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-42",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-35",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-43",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-36",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-44",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-37",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-45",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-38",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-46",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-39",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "a-47",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "city-or-cdp-population-city-or-cdp-population-40",
+  "level": 5,
+  "title": "City or CDP Population City or CDP Population"
+ },
+ {
+  "id": "appendix-4",
+  "level": 2,
+  "title": "Appendix 4"
+ },
+ {
+  "id": "2020-texas-census-county-summary-2",
+  "level": 2,
+  "title": "2020 Texas Census County Summary"
+ },
+ {
+  "id": "according-to-the-official-returns-of-the-24th-decennial-cens-4",
+  "level": 5,
+  "title": "According to the official returns of the 24th Decennial Census of the United States, as released by the Bureau of the Census on August 12, 2021."
+ },
+ {
+  "id": "alphabetical-2",
+  "level": 5,
+  "title": "(Alphabetical)"
+ },
+ {
+  "id": "map-of-texas-counties",
+  "level": 2,
+  "title": "Map of Texas Counties"
+ },
+ {
+  "id": "texas-legislative-council-august-2021-4",
+  "level": 5,
+  "title": "Texas Legislative Council August 2021"
+ },
+ {
+  "id": "a-48",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "this-page-intentionally-left-blank-10",
+  "level": 5,
+  "title": "This page intentionally left blank."
+ },
+ {
+  "id": "population-in-texas-counties-2020-census-2",
+  "level": 4,
+  "title": "Population in Texas Counties 2020 Census"
+ },
+ {
+  "id": "a-49",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "county-population-county-population-4",
+  "level": 5,
+  "title": "County Population County Population"
+ },
+ {
+  "id": "a-50",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "county-population-county-population-5",
+  "level": 5,
+  "title": "County Population County Population"
+ },
+ {
+  "id": "a-51",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "county-population-county-population-6",
+  "level": 5,
+  "title": "County Population County Population"
+ },
+ {
+  "id": "texas-counties",
+  "level": 4,
+  "title": "TEXAS COUNTIES"
+ },
+ {
+  "id": "a-52",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "appendix-5",
+  "level": 2,
+  "title": "Appendix 5"
+ },
+ {
+  "id": "code-construction-act",
+  "level": 5,
+  "title": "CODE CONSTRUCTION ACT"
+ },
+ {
+  "id": "chapter-311-government-code",
+  "level": 5,
+  "title": "CHAPTER 311, GOVERNMENT CODE"
+ },
+ {
+  "id": "a-53",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-54",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-55",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-56",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-57",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-58",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "appendix-6",
+  "level": 2,
+  "title": "Appendix 6"
+ },
+ {
+  "id": "construction-of-laws",
+  "level": 5,
+  "title": "CONSTRUCTION OF LAWS"
+ },
+ {
+  "id": "chapter-312-government-code",
+  "level": 5,
+  "title": "CHAPTER 312, GOVERNMENT CODE"
+ },
+ {
+  "id": "a-59",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-60",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-61",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "this-page-intentionally-left-blank-11",
+  "level": 5,
+  "title": "This page intentionally left blank."
+ },
+ {
+  "id": "a-62",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-63",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-64",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-65",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-66",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-67",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-68",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-69",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-70",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-71",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-72",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-73",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-74",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-75",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-76",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-77",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-78",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-79",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-80",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-81",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-82",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-83",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-84",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-85",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-86",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-87",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-88",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-89",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-90",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-91",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-92",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-93",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-94",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-95",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-96",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-97",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-98",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "members-of-the-89th-legislature-page-38-xi-stock-laws",
+  "level": 5,
+  "title": "Members of the 89th Legislature Page 38 XI. Stock Laws"
+ },
+ {
+  "id": "section-23-article-xvi-texas-constitution-authorizes-the-leg",
+  "level": 5,
+  "title": "Section 23, Article XVI, Texas Constitution, authorizes the legislature to pass local and special laws to regulate livestock and protect stock raisers. The senate and house rules do not expressly address local bills authorized by Section 23,"
+ },
+ {
+  "id": "article-xvi-but-section-57-article-iii-and-statutory-notice-",
+  "level": 5,
+  "title": "Article XVI, but Section 57, Article III, and statutory notice publication requirements apply. XII. Local Road Maintenance"
+ },
+ {
+  "id": "section-9-e-article-viii-texas-constitution-authorizes-the-l",
+  "level": 5,
+  "title": "Section 9(e), Article VIII, Texas Constitution, authorizes the legislature to \"pass local laws for the maintenance of the public roads and highways, without the local notice required for special or local laws.\" Further, since the senate and house rules do not expressly address a bill regarding road and highway maintenance, publication of notice is not required for such a bill. XIII. Juvenile Boards Courts have treated bills to create juvenile boards in specific localities as general bills for which the constitution does not require publication of notice because they relate to matters of general state interest, despite their appearance as local bills. Nevertheless, Rule 9.01(b)(5), Senate Rules, and Rule 8, Section 10(c)(5), House Rules, define as a \"local bill\" a bill \"creating or affecting the juvenile board or boards of a specified county or counties.\" For that reason, the senate and house rules require publication of notice for most bills regarding specific juvenile boards. Note also Rule 9.01(c), Senate Rules, and Rule 8, Section 10(d), House Rules, which provide that a bill is not a local bill if it \"affects a sufficient number of localities, counties, or municipalities so as to be of general application or of statewide importance.\" 23L45"
+ },
+ {
+  "id": "a-99",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "appendix-8",
+  "level": 2,
+  "title": "Appendix 8"
+ },
+ {
+  "id": "drafting-public-securities-provisions",
+  "level": 5,
+  "title": "DRAFTING PUBLIC SECURITIES PROVISIONS"
+ },
+ {
+  "id": "a-100",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "this-page-intentionally-left-blank-12",
+  "level": 5,
+  "title": "This page intentionally left blank."
+ },
+ {
+  "id": "a-introduction",
+  "level": 5,
+  "title": "A. INTRODUCTION"
+ },
+ {
+  "id": "b-types-of-public-securities",
+  "level": 5,
+  "title": "B. TYPES OF PUBLIC SECURITIES"
+ },
+ {
+  "id": "a-general-obligation-bonds",
+  "level": 5,
+  "title": "a. General obligation bonds"
+ },
+ {
+  "id": "a-101",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "b-revenue-bonds",
+  "level": 5,
+  "title": "b. Revenue bonds"
+ },
+ {
+  "id": "c-constitutional-provisions",
+  "level": 5,
+  "title": "C. CONSTITUTIONAL PROVISIONS"
+ },
+ {
+  "id": "a-state",
+  "level": 5,
+  "title": "a. State"
+ },
+ {
+  "id": "a-102",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "b-political-subdivisions",
+  "level": 5,
+  "title": "b. Political subdivisions"
+ },
+ {
+  "id": "a-103",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "c-property-ownership",
+  "level": 5,
+  "title": "c. Property ownership"
+ },
+ {
+  "id": "a-104",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "d-general-law-provisions",
+  "level": 5,
+  "title": "D. GENERAL LAW PROVISIONS"
+ },
+ {
+  "id": "a-105",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-106",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "e-placement-of-public-securities-provisions",
+  "level": 5,
+  "title": "E. PLACEMENT OF PUBLIC SECURITIES PROVISIONS"
+ },
+ {
+  "id": "a-107",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "this-page-intentionally-left-blank-13",
+  "level": 5,
+  "title": "This page intentionally left blank."
+ },
+ {
+  "id": "appendix-9",
+  "level": 2,
+  "title": "Appendix 9"
+ },
+ {
+  "id": "m-e-m-o-r-a-n-d-u-m",
+  "level": 5,
+  "title": "M E M O R A N D U M"
+ },
+ {
+  "id": "from-mark-brown-legal-division-director-date-november-4-2004",
+  "level": 5,
+  "title": "FROM: Mark Brown Legal Division Director DATE: November 4, 2004 SUBJECT: Incorporation of Certain Statutes by Reference"
+ },
+ {
+  "id": "introduction-a-legislative-drafter-sometimes-will-use-a-draf",
+  "level": 5,
+  "title": "INTRODUCTION A legislative drafter sometimes will use a drafting technique known as incorporation by reference. By this technique, the drafter includes in a statute a reference to a second statute for the purpose of incorporating the terms or effects of the second statute into the first. The first statute is called the referencing statute, and the second statute is the referenced statute. Examples of incorporation by reference are: The penalty may be waived in situations in which penalties would be waived under"
+ },
+ {
+  "id": "section-111-103-tax-code-except-as-provided-by-section-551-1",
+  "level": 5,
+  "title": "Section 111.103, Tax Code. Except as provided by Section 551.126, Government Code, the board shall hold regular quarterly meetings in the city of Austin. Sec. 1.202. DEFINITION. In this subchapter, “fish farming” has the meaning assigned by Section 134.001, Agriculture Code. This memorandum explains a change in the drafting policy of the Texas Legislative Council legal division regarding incorporation by reference. As part of that explanation, this memorandum discusses whether, when incorporating into a Texas statute a reference to a statute that was not enacted by the Texas Legislature, such as a federal statute, it is necessary to expressly incorporate the subsequent amendments of the referenced statute by adding to the referenced statute’s citation the phrase “as amended” or “and its subsequent amendments.”"
+ },
+ {
+  "id": "background-the-common-law-rules-of-statutory-construction-di",
+  "level": 5,
+  "title": "BACKGROUND The common law rules of statutory construction did not automatically incorporate subsequent amendments to referenced statutes. Instead, the common law rule differentiated between “specific” and “general” statutory references and limited the scope of incorporation for those statutes that were"
+ },
+ {
+  "id": "a-108",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "specifically-referenced-to-their-content-at-the-time-of-inco",
+  "level": 5,
+  "title": "“specifically” referenced to their content at the time of incorporation.1 Thus, under the common law rule, a drafter who referenced a specific statute and who wished to include subsequent amendments to that statute would have needed to expressly incorporate the subsequent amendments to the referenced statute by including a phrase such as “as amended” or “and its subsequent amendments”"
+ },
+ {
+  "id": "in-1967-as-part-of-the-code-construction-act-the-texas-legis",
+  "level": 5,
+  "title": "In 1967, as part of the Code Construction Act, the Texas Legislature enacted a rule of statutory construction that reversed the common law rule and promoted a self-updating statutory operation for Texas codes, so that statutes would be considered to speak as of the time they are read. The new rule stated that “[u]nless expressly provided otherwise, a reference to any portion of a statute applies to all reenactments, revisions, or amendments of the statute.”3 Although the current version of that law, now found at Section 311.027, Government Code, is limited in application,4 Section 312.008, Government Code, a similar statute enacted in 1993,5 applies to “the construction of all civil statutes.”6 Following the enactment of Section 312.008, the legislative council legal division changed its drafting policies in situations not governed by Section 311.027. In those situations, the legal division discontinued routine addition of “as amended” or “and its subsequent amendments” if the referenced statute was a Texas statute. Legislative council drafters continued to add one of the phrases, however, when the drafters wished to incorporate subsequent amendments to referenced federal statutes and the statutes of other jurisdictions. For example: A plan manager shall take all actions required to ensure that the plan qualifies as a qualified state tuition program under Section 529, Internal Revenue Code of 1986, as amended. It is likely that this distinction between references to Texas statutes and references to the statutes of other jurisdictions prevailed because council drafters were unsure whether the rule of Sections"
+ },
+ {
+  "id": "311-027-and-312-008-would-apply-to-references-to-statutes-of",
+  "level": 5,
+  "title": "311.027 and 312.008 would apply to references to statutes of other jurisdictions. Regardless of the reasoning behind it, the distinction was included in the Texas Legislative Council Drafting Manual, under the heading “Adoption of definition by reference.” The manual treated Sections 311.027 and"
+ },
+ {
+  "id": "312-008-as-applying-only-to-references-to-a-texas-statute-ru",
+  "level": 5,
+  "title": "312.008 as applying only to references to “a Texas statute, rule, or regulation”7 and provided that: Cross-references to federal statutes and statutes of other jurisdictions should include “as amended” or a similar reference to clearly convey the drafter’s intent to adopt subsequent amendments of the referenced statute.8"
+ },
+ {
+  "id": "november-4-2004-page-2",
+  "level": 5,
+  "title": "November 4, 2004 Page 2"
+ },
+ {
+  "id": "a-109",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "november-4-2004-page-3",
+  "level": 5,
+  "title": "November 4, 2004 Page 3"
+ },
+ {
+  "id": "after-several-years-of-proceeding-under-this-policy-attorney",
+  "level": 5,
+  "title": "After several years of proceeding under this policy, attorneys on the legal staff have revisited the issue to reconsider the application of Sections 311.027 and 312.008, Government Code, to statutes of other jurisdictions and determine whether it is necessary or appropriate to add “as amended” or “and its subsequent amendments” when referencing statutes other than those enacted by the Texas Legislature."
+ },
+ {
+  "id": "discussion-referenced-statute-includes-subsequent-amendments",
+  "level": 5,
+  "title": "DISCUSSION Referenced Statute Includes Subsequent Amendments The express wording of Sections 311.027 and 312.008, Government Code, does not clarify whether those sections apply to the subsequent amendments of referenced provisions that were not enacted by the Texas Legislature. The sections simply state: Sec. 311.027. STATUTORY REFERENCES. Unless expressly provided otherwise, a reference to any portion of a statute or rule applies to all reenactments, revisions, or amendments of the statute or rule. Sec. 312.008. STATUTORY REFERENCES. Unless expressly provided otherwise, a reference to any portion of a statute, rule, or regulation applies to all reenactments, revisions, or amendments of the statute, rule, or regulation. The sections do not include a definition of the phrase “statute or rule” (the relevant phrase in"
+ },
+ {
+  "id": "section-311-027-or-statute-rule-or-regulation-the-relevant-p",
+  "level": 5,
+  "title": "Section 311.027) or “statute, rule, or regulation” (the relevant phrase in Section 312.008), and there are no other applicable statutes that define either of those phrases or any of their individual terms. Left without a clear definition, one should first consider the rules of statutory construction prescribed by Sections 311.011 and 312.002, Government Code. Section 311.011 provides that words “shall be . . . construed according to . . . common usage.” Section 312.002 states that “words shall be given their ordinary meaning.” Courts have explained that, if a statute lacks clarity, courts must make “a true and fair interpretation of the written law . . . not forced or strained, but simply such as the words of the law in their plain sense fairly sanction and will clearly sustain.”1 With regard to the question of legislative intent, courts have similarly stated that one should first analyze any legislative intent that may be derived from the statute itself if a term is not defined in statute, because a court “must determine the meaning the legislature intended from the language it used”2 and “proceed under the notion that what the legislature meant is best understood by the"
+ },
+ {
+  "id": "in-sections-311-027-and-312-008-government-code-it-seems-tha",
+  "level": 5,
+  "title": "In Sections 311.027 and 312.008, Government Code, it seems that the relevant phrases “statute or rule” and “statute, rule, or regulation,” given their ordinary meanings, would include a referenced “statute,” “rule,” or “regulation” that was not enacted by the Texas Legislature. Without some type of limiting modifier, the most common meaning of the term “statute,” “rule,” or “regulation” would include any type of statute, rule, or regulation regardless of whether that provision was enacted by the Texas Legislature. Legislative intent regarding this issue appears unclear in Sections 311.027"
+ },
+ {
+  "id": "a-110",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "november-4-2004-page-4",
+  "level": 5,
+  "title": "November 4, 2004 Page 4"
+ },
+ {
+  "id": "and-312-008-while-there-is-nothing-in-the-sections-to-expres",
+  "level": 5,
+  "title": "and 312.008. While there is nothing in the sections to expressly indicate that legislators intended the relevant phrases to apply to provisions not enacted by the Texas Legislature, there is also nothing in the statutes to discourage that interpretation. Proceeding under the notion that what the legislature meant is best understood by the words it used, it appears that the legislature intended to include all types of statutes, rules, and regulations because the legislature did not use a limiting phrase such as “Texas” or “of this state” when referring to statutes, rules, and regulations. For these reasons, it is now the reconsidered legal opinion of the Texas Legislative Council legal staff that Sections 311.027 and 312.008, Government Code, apply to any type of referenced statute, rule, or regulation, including referenced federal statutes and statutes enacted by other jurisdictions. Accordingly, as a general rule, when a drafter incorporates by reference a statute, rule, or regulation not enacted by the Texas Legislature, such as a federal statute or a statute enacted by another state legislature, the drafter should not use language such as “as amended” or “and its subsequent amendments” to incorporate the subsequent amendments to the referenced statute, rule, or regulation. The subsequent amendments are considered to be incorporated merely by a citation to the referenced statute, rule, or regulation. As a side note, a drafter should be aware that the issue of whether a referenced statute speaks as of the time the referencing statute is read or as of the time the referencing statute was enacted will in certain circumstances raise constitutional questions about whether an improper delegation of legislative powers has occurred. As discussed in Ex parte Elliott,1 even in the face of an explicit reference to a federal statute “as amended,” the limits on the authority of the legislature to delegate its authority may sometimes prevent subsequent amendments from being included in a statutory reference to a statute, rule, or regulation that was not enacted by the Texas Legislature, such as a federal statute. Drafters should be mindful of the issues involving improper delegation and proceed with caution when referencing provisions not enacted by the Texas Legislature. A later memorandum will discuss drafting techniques that take into account those issues. Referenced Statute Does Not Include Subsequent Amendments If a drafter wishes to incorporate into a statute the terms or effects of a second statute as those terms and effects exist on a particular date, the better practice is to restate in the first statute the relevant content of the second statute as that statute exists on the chosen date, rather than to reference the second statute. An exception to this rule of drafting exists if the content of the second statute is lengthy. In that case, the drafter should not restate the content of the second statute but should instead reference the second statute and add with that reference the phrase “as it exists on (insert the particular date).” The date that should be used is a date occurring before the date of enactment of the new statutory reference."
+ },
+ {
+  "id": "a-111",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "appendix-10",
+  "level": 2,
+  "title": "Appendix 10"
+ },
+ {
+  "id": "legislative-drafting-bibliography",
+  "level": 4,
+  "title": "LEGISLATIVE DRAFTING BIBLIOGRAPHY"
+ },
+ {
+  "id": "a-112",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "a-113",
+  "level": 2,
+  "title": "A"
+ },
+ {
+  "id": "index",
+  "level": 4,
+  "title": "INDEX"
+ },
+ {
+  "id": "i",
+  "level": 2,
+  "title": "I"
+ },
+ {
+  "id": "this-page-intentionally-left-blank-14",
+  "level": 5,
+  "title": "This page intentionally left blank."
+ },
+ {
+  "id": "a-114",
+  "level": 3,
+  "title": "A"
+ },
+ {
+  "id": "index-2",
+  "level": 4,
+  "title": "INDEX"
+ },
+ {
+  "id": "i-2",
+  "level": 2,
+  "title": "I"
+ },
+ {
+  "id": "b",
+  "level": 3,
+  "title": "B"
+ },
+ {
+  "id": "c",
+  "level": 3,
+  "title": "C"
+ },
+ {
+  "id": "i-3",
+  "level": 2,
+  "title": "I"
+ },
+ {
+  "id": "i-4",
+  "level": 2,
+  "title": "I"
+ },
+ {
+  "id": "i-5",
+  "level": 2,
+  "title": "I"
+ },
+ {
+  "id": "d",
+  "level": 3,
+  "title": "D"
+ },
+ {
+  "id": "i-6",
+  "level": 2,
+  "title": "I"
+ },
+ {
+  "id": "e",
+  "level": 3,
+  "title": "E"
+ },
+ {
+  "id": "i-7",
+  "level": 2,
+  "title": "I"
+ },
+ {
+  "id": "f",
+  "level": 3,
+  "title": "F"
+ },
+ {
+  "id": "g",
+  "level": 3,
+  "title": "G"
+ },
+ {
+  "id": "h",
+  "level": 3,
+  "title": "H"
+ },
+ {
+  "id": "i-8",
+  "level": 2,
+  "title": "I"
+ },
+ {
+  "id": "i-9",
+  "level": 3,
+  "title": "I"
+ },
+ {
+  "id": "j",
+  "level": 3,
+  "title": "J"
+ },
+ {
+  "id": "l",
+  "level": 3,
+  "title": "L"
+ },
+ {
+  "id": "i-10",
+  "level": 2,
+  "title": "I"
+ },
+ {
+  "id": "m",
+  "level": 3,
+  "title": "M"
+ },
+ {
+  "id": "n",
+  "level": 3,
+  "title": "N"
+ },
+ {
+  "id": "o",
+  "level": 3,
+  "title": "O"
+ },
+ {
+  "id": "p",
+  "level": 3,
+  "title": "P"
+ },
+ {
+  "id": "i-11",
+  "level": 2,
+  "title": "I"
+ },
+ {
+  "id": "q",
+  "level": 3,
+  "title": "Q"
+ },
+ {
+  "id": "r",
+  "level": 3,
+  "title": "R"
+ },
+ {
+  "id": "i-12",
+  "level": 2,
+  "title": "I"
+ },
+ {
+  "id": "s-2",
+  "level": 3,
+  "title": "S"
+ },
+ {
+  "id": "i-13",
+  "level": 2,
+  "title": "I"
+ },
+ {
+  "id": "t",
+  "level": 3,
+  "title": "T"
+ },
+ {
+  "id": "u",
+  "level": 3,
+  "title": "U"
+ },
+ {
+  "id": "i-14",
+  "level": 2,
+  "title": "I"
+ },
+ {
+  "id": "v",
+  "level": 3,
+  "title": "V"
+ },
+ {
+  "id": "w",
+  "level": 3,
+  "title": "W"
+ },
+ {
+  "id": "i-15",
+  "level": 2,
+  "title": "I"
+ }
+]

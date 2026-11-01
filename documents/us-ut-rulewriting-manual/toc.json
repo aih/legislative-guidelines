@@ -1,0 +1,2102 @@
+[
+ {
+  "id": "rulewriting-manual-for-utah",
+  "level": 2,
+  "title": "Rulewriting Manual for Utah"
+ },
+ {
+  "id": "rulewriters",
+  "level": 3,
+  "title": "Rulewriters"
+ },
+ {
+  "id": "kenneth-a-hansen-division-of-administrative-rules",
+  "level": 5,
+  "title": "Kenneth A. Hansen, Division of Administrative Rules"
+ },
+ {
+  "id": "nancy-lancaster-publications-editor",
+  "level": 5,
+  "title": "Nancy Lancaster Publications Editor"
+ },
+ {
+  "id": "chris-fawcett-editor",
+  "level": 5,
+  "title": "Chris Fawcett Editor"
+ },
+ {
+  "id": "michael-broschinsky-administrative-code-editor",
+  "level": 5,
+  "title": "Michael Broschinsky Administrative Code Editor"
+ },
+ {
+  "id": "rulewriting-manual-for-utah-rulewriters",
+  "level": 5,
+  "title": "Rulewriting Manual for Utah: Rulewriters"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 4,
+  "title": "Table of Contents"
+ },
+ {
+  "id": "list-of-figures",
+  "level": 4,
+  "title": "List of Figures"
+ },
+ {
+  "id": "preface",
+  "level": 2,
+  "title": "Preface"
+ },
+ {
+  "id": "chapter-1-rulewriting-style",
+  "level": 2,
+  "title": "Chapter 1. Rulewriting Style"
+ },
+ {
+  "id": "general-principles",
+  "level": 3,
+  "title": "General Principles"
+ },
+ {
+  "id": "generally",
+  "level": 4,
+  "title": "Generally"
+ },
+ {
+  "id": "good-drafting",
+  "level": 4,
+  "title": "Good Drafting"
+ },
+ {
+  "id": "organization",
+  "level": 5,
+  "title": "Organization"
+ },
+ {
+  "id": "purpose",
+  "level": 5,
+  "title": "Purpose"
+ },
+ {
+  "id": "principles-of-style",
+  "level": 5,
+  "title": "Principles of Style"
+ },
+ {
+  "id": "careful-choice-of-language",
+  "level": 5,
+  "title": "Careful Choice of Language"
+ },
+ {
+  "id": "if-you-mean-do-not-say",
+  "level": 5,
+  "title": "IF YOU MEAN: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say-2",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say-3",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "appropriate-structure-for-rules",
+  "level": 5,
+  "title": "Appropriate Structure for Rules"
+ },
+ {
+  "id": "say-do-not-say-4",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "example-a",
+  "level": 5,
+  "title": "Example: a"
+ },
+ {
+  "id": "say-do-not-say-5",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say-6",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say-7",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say-8",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "basic-drafting-tools",
+  "level": 5,
+  "title": "Basic Drafting Tools"
+ },
+ {
+  "id": "quoting-statute-in-rule",
+  "level": 5,
+  "title": "Quoting Statute in Rule"
+ },
+ {
+  "id": "note",
+  "level": 5,
+  "title": "Note"
+ },
+ {
+  "id": "tense",
+  "level": 4,
+  "title": "Tense"
+ },
+ {
+  "id": "present-tense",
+  "level": 5,
+  "title": "Present Tense"
+ },
+ {
+  "id": "say-do-not-say-9",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "example",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "time-relationships",
+  "level": 5,
+  "title": "Time Relationships"
+ },
+ {
+  "id": "example-2",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "voice",
+  "level": 4,
+  "title": "Voice"
+ },
+ {
+  "id": "active-voice",
+  "level": 5,
+  "title": "Active Voice"
+ },
+ {
+  "id": "say-do-not-say-10",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "action-verbs",
+  "level": 5,
+  "title": "Action Verbs"
+ },
+ {
+  "id": "say-do-not-say-11",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "positive-voice",
+  "level": 4,
+  "title": "Positive Voice"
+ },
+ {
+  "id": "say-do-not-say-12",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say-13",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "case",
+  "level": 4,
+  "title": "Case"
+ },
+ {
+  "id": "singular-and-plural",
+  "level": 5,
+  "title": "Singular and Plural"
+ },
+ {
+  "id": "say-do-not-say-14",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "third-person",
+  "level": 5,
+  "title": "Third Person"
+ },
+ {
+  "id": "compound-terms",
+  "level": 5,
+  "title": "Compound Terms"
+ },
+ {
+  "id": "plural-singular",
+  "level": 5,
+  "title": "PLURAL: SINGULAR:"
+ },
+ {
+  "id": "gender-neutral-language",
+  "level": 4,
+  "title": "Gender Neutral Language"
+ },
+ {
+  "id": "say-do-not-say-15",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say-16",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say-17",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say-18",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say-19",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say-20",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "punctuation",
+  "level": 3,
+  "title": "Punctuation"
+ },
+ {
+  "id": "generally-2",
+  "level": 4,
+  "title": "Generally"
+ },
+ {
+  "id": "colons",
+  "level": 4,
+  "title": "Colons"
+ },
+ {
+  "id": "semicolon",
+  "level": 4,
+  "title": "Semicolon"
+ },
+ {
+  "id": "series",
+  "level": 5,
+  "title": "Series"
+ },
+ {
+  "id": "example-3",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "say-do-not-say-21",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "example-4",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "other-uses-of-semicolons",
+  "level": 5,
+  "title": "Other Uses of Semicolons"
+ },
+ {
+  "id": "commas",
+  "level": 4,
+  "title": "Commas"
+ },
+ {
+  "id": "examples",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "example-5",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "examples-2",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "example-6",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "examples-3",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "example-7",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-8",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "examples-4",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "example-9",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-10",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-11",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-12",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-13",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-14",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-15",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-16",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-17",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "say-do-not-say-22",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "parentheses",
+  "level": 4,
+  "title": "Parentheses"
+ },
+ {
+  "id": "example-18",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "apostrophes",
+  "level": 4,
+  "title": "Apostrophes"
+ },
+ {
+  "id": "hyphens",
+  "level": 4,
+  "title": "Hyphens"
+ },
+ {
+  "id": "numbers",
+  "level": 5,
+  "title": "Numbers"
+ },
+ {
+  "id": "time-periods",
+  "level": 5,
+  "title": "Time Periods"
+ },
+ {
+  "id": "example-19",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "compound-words",
+  "level": 5,
+  "title": "Compound Words"
+ },
+ {
+  "id": "example-20",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-21",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-22",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "words-that-are-not-compound-words",
+  "level": 5,
+  "title": "Words that are Not Compound Words"
+ },
+ {
+  "id": "quotation-marks",
+  "level": 4,
+  "title": "Quotation Marks"
+ },
+ {
+  "id": "generally-3",
+  "level": 5,
+  "title": "Generally"
+ },
+ {
+  "id": "examples-5",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "examples-6",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "example-23",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "punctuation-within-quotation-marks",
+  "level": 5,
+  "title": "Punctuation within Quotation Marks"
+ },
+ {
+  "id": "examples-7",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "brackets",
+  "level": 4,
+  "title": "Brackets"
+ },
+ {
+  "id": "underscore-and-underline",
+  "level": 4,
+  "title": "Underscore and Underline"
+ },
+ {
+  "id": "capitalization",
+  "level": 3,
+  "title": "Capitalization"
+ },
+ {
+  "id": "when-to-capitalize",
+  "level": 4,
+  "title": "When to Capitalize"
+ },
+ {
+  "id": "when-not-to-capitalize",
+  "level": 4,
+  "title": "When Not to Capitalize"
+ },
+ {
+  "id": "numerical-references",
+  "level": 3,
+  "title": "Numerical References"
+ },
+ {
+  "id": "in-general",
+  "level": 4,
+  "title": "In General"
+ },
+ {
+  "id": "ten-and-under-rule",
+  "level": 5,
+  "title": "Ten and Under Rule"
+ },
+ {
+  "id": "examples-8",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "begin-a-sentence-with-a-number",
+  "level": 5,
+  "title": "Begin a Sentence with a Number"
+ },
+ {
+  "id": "say-do-not-say-23",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "do-not-follow-a-number-with-a-number-in-parentheses",
+  "level": 5,
+  "title": "Do Not Follow a Number with a Number in Parentheses"
+ },
+ {
+  "id": "say-do-not-say-24",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "singular-verb-to-express-dollars",
+  "level": 5,
+  "title": "Singular Verb to Express Dollars"
+ },
+ {
+  "id": "say-do-not-say-25",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "hyphenation",
+  "level": 5,
+  "title": "Hyphenation"
+ },
+ {
+  "id": "compound-numbers-from-twenty-one-to-ninety-nine",
+  "level": 5,
+  "title": "Compound Numbers from Twenty-one to Ninety-nine"
+ },
+ {
+  "id": "examples-9",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "fractions",
+  "level": 5,
+  "title": "Fractions"
+ },
+ {
+  "id": "examples-10",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "mixed-numbers",
+  "level": 5,
+  "title": "Mixed Numbers"
+ },
+ {
+  "id": "examples-11",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "measurements-and-ages",
+  "level": 4,
+  "title": "Measurements and Ages"
+ },
+ {
+  "id": "in-general-2",
+  "level": 5,
+  "title": "In General"
+ },
+ {
+  "id": "examples-12",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "say-do-not-say-26",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "exceptions-to-the-ten-and-under-rule",
+  "level": 5,
+  "title": "Exceptions to the Ten and Under Rule"
+ },
+ {
+  "id": "money",
+  "level": 5,
+  "title": "Money"
+ },
+ {
+  "id": "say-do-not-say-27",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "examples-13",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "say-do-not-say-28",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "examples-14",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "commas-and-money",
+  "level": 5,
+  "title": "Commas and Money"
+ },
+ {
+  "id": "say-do-not-say-29",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "population",
+  "level": 5,
+  "title": "Population"
+ },
+ {
+  "id": "examples-15",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "percentages",
+  "level": 5,
+  "title": "Percentages"
+ },
+ {
+  "id": "example-24",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "mixed-numbers-and-fractions",
+  "level": 5,
+  "title": "Mixed Numbers and Fractions"
+ },
+ {
+  "id": "examples-16",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "groups-of-numbers",
+  "level": 5,
+  "title": "Groups of Numbers"
+ },
+ {
+  "id": "say-do-not-say-30",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "numbers-in-tabular-form",
+  "level": 5,
+  "title": "Numbers in Tabular Form"
+ },
+ {
+  "id": "examples-17",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "formulas-and-equations",
+  "level": 5,
+  "title": "Formulas and Equations"
+ },
+ {
+  "id": "example-25",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "dates-or-time",
+  "level": 4,
+  "title": "Dates or Time"
+ },
+ {
+  "id": "hours",
+  "level": 5,
+  "title": "Hours"
+ },
+ {
+  "id": "say-do-not-say-31",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "time-periods-2",
+  "level": 5,
+  "title": "Time Periods"
+ },
+ {
+  "id": "say-do-not-say-32",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "days-weeks-or-months",
+  "level": 5,
+  "title": "Days, Weeks, or Months"
+ },
+ {
+  "id": "say-do-not-say-33",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "example-26",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-27",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "years",
+  "level": 5,
+  "title": "Years"
+ },
+ {
+  "id": "example-28",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "references-to-the-utah-code-utah-administrative-code-and-oth",
+  "level": 4,
+  "title": "References to the Utah Code, Utah Administrative Code, and Other Laws"
+ },
+ {
+  "id": "examples-18",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "structure-and-word-selection",
+  "level": 3,
+  "title": "Structure and Word Selection"
+ },
+ {
+  "id": "general-principles-2",
+  "level": 4,
+  "title": "General Principles"
+ },
+ {
+  "id": "exceptions",
+  "level": 5,
+  "title": "Exceptions"
+ },
+ {
+  "id": "say-do-not-say-34",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "example-29",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "examples-19",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "conditions",
+  "level": 5,
+  "title": "Conditions"
+ },
+ {
+  "id": "example-30",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "limitations",
+  "level": 5,
+  "title": "Limitations"
+ },
+ {
+  "id": "example-31",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "provisos",
+  "level": 5,
+  "title": "Provisos"
+ },
+ {
+  "id": "enumerations",
+  "level": 5,
+  "title": "Enumerations"
+ },
+ {
+  "id": "example-32",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "rule-of-expression-of-one-thing-is-the-exclusion-of-another-",
+  "level": 5,
+  "title": "Rule of “Expression of One Thing is the Exclusion of Another” (Expressio Unius Est Exclusio Alterius)"
+ },
+ {
+  "id": "say-do-not-say-35",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "rule-of-general-words-followed-by-specific-ejusdem-generis",
+  "level": 5,
+  "title": "Rule of “General Words Followed by Specific” (Ejusdem Generis)"
+ },
+ {
+  "id": "if-you-mean-say",
+  "level": 5,
+  "title": "IF YOU MEAN: SAY:"
+ },
+ {
+  "id": "paragraphs",
+  "level": 5,
+  "title": "Paragraphs"
+ },
+ {
+  "id": "say-do-not-say-36",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "abbreviations",
+  "level": 5,
+  "title": "Abbreviations"
+ },
+ {
+  "id": "acronyms",
+  "level": 5,
+  "title": "Acronyms"
+ },
+ {
+  "id": "examples-20",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "symbols",
+  "level": 5,
+  "title": "Symbols"
+ },
+ {
+  "id": "say-do-not-say-37",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say-38",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "official-titles",
+  "level": 5,
+  "title": "Official Titles"
+ },
+ {
+  "id": "specific-terms",
+  "level": 4,
+  "title": "Specific Terms"
+ },
+ {
+  "id": "affect-effect",
+  "level": 5,
+  "title": "Affect, Effect"
+ },
+ {
+  "id": "say-do-not-say-39",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "and-or",
+  "level": 5,
+  "title": "And, Or"
+ },
+ {
+  "id": "say-do-not-say-40",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "any-each",
+  "level": 5,
+  "title": "Any, Each"
+ },
+ {
+  "id": "say-do-not-say-41",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say-42",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "compose-comprise",
+  "level": 5,
+  "title": "Compose, Comprise"
+ },
+ {
+  "id": "examples-21",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "if-when-whether",
+  "level": 5,
+  "title": "If, When, Whether"
+ },
+ {
+  "id": "say-do-not-say-43",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "includes",
+  "level": 5,
+  "title": "Includes"
+ },
+ {
+  "id": "notwithstanding",
+  "level": 5,
+  "title": "Notwithstanding"
+ },
+ {
+  "id": "say-do-not-say-44",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "person-party",
+  "level": 5,
+  "title": "Person, Party"
+ },
+ {
+  "id": "say-do-not-say-45",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "provisions-of",
+  "level": 5,
+  "title": "Provisions Of"
+ },
+ {
+  "id": "say-do-not-say-46",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "pursuant-to",
+  "level": 5,
+  "title": "Pursuant To"
+ },
+ {
+  "id": "example-33",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "respectively-and-as-the-case-may-be",
+  "level": 5,
+  "title": "Respectively and As the Case May Be"
+ },
+ {
+  "id": "rules-regulations",
+  "level": 5,
+  "title": "Rules, Regulations"
+ },
+ {
+  "id": "said-same-such",
+  "level": 5,
+  "title": "Said, Same, Such"
+ },
+ {
+  "id": "shall-may-may-not-must",
+  "level": 5,
+  "title": "Shall, May, May Not, Must"
+ },
+ {
+  "id": "say-do-not-say-47",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say-48",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say-49",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "state-of-utah",
+  "level": 5,
+  "title": "State of Utah"
+ },
+ {
+  "id": "that-which",
+  "level": 5,
+  "title": "That, Which"
+ },
+ {
+  "id": "example-34",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-35",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "where-and-when",
+  "level": 5,
+  "title": "Where and When"
+ },
+ {
+  "id": "say-do-not-say-50",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "writing",
+  "level": 5,
+  "title": "Writing"
+ },
+ {
+  "id": "citations-in-rule",
+  "level": 3,
+  "title": "Citations in Rule"
+ },
+ {
+  "id": "generally-4",
+  "level": 4,
+  "title": "Generally"
+ },
+ {
+  "id": "citations-to-the-utah-constitution",
+  "level": 4,
+  "title": "Citations to the Utah Constitution"
+ },
+ {
+  "id": "example-36",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "citations-to-the-utah-code",
+  "level": 4,
+  "title": "Citations to the Utah Code"
+ },
+ {
+  "id": "titles-chapters-and-parts",
+  "level": 5,
+  "title": "Titles, Chapters, and Parts"
+ },
+ {
+  "id": "examples-22",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "examples-23",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "examples-24",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "uncodified-material-laws-of-utah",
+  "level": 5,
+  "title": "Uncodified Material, Laws of Utah"
+ },
+ {
+  "id": "examples-25",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "sections",
+  "level": 5,
+  "title": "Sections"
+ },
+ {
+  "id": "example-37",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "say-do-not-say-51",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "examples-26",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "say-do-not-say-52",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "example-38",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "subsections",
+  "level": 5,
+  "title": "Subsections"
+ },
+ {
+  "id": "examples-27",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "say-do-not-say-53",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "citations-to-utah-administrative-code",
+  "level": 4,
+  "title": "Citations to Utah Administrative Code"
+ },
+ {
+  "id": "titles-and-rules",
+  "level": 5,
+  "title": "Titles and Rules"
+ },
+ {
+  "id": "examples-28",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "sections-2",
+  "level": 5,
+  "title": "Sections"
+ },
+ {
+  "id": "example-39",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "say-do-not-say-54",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "examples-29",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "say-do-not-say-55",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "example-40",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "subsections-2",
+  "level": 5,
+  "title": "Subsections"
+ },
+ {
+  "id": "example-41",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "say-do-not-say-56",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "other-organizational-divisions",
+  "level": 5,
+  "title": "Other Organizational Divisions"
+ },
+ {
+  "id": "citations-to-court-rules",
+  "level": 4,
+  "title": "Citations to Court Rules"
+ },
+ {
+  "id": "examples-30",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "example-42",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "citations-to-federal-statutes-and-regulations",
+  "level": 4,
+  "title": "Citations to Federal Statutes and Regulations"
+ },
+ {
+  "id": "examples-31",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "examples-32",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "means-citation",
+  "level": 5,
+  "title": "MEANS: CITATION:"
+ },
+ {
+  "id": "citations-to-case-law",
+  "level": 4,
+  "title": "Citations to Case Law"
+ },
+ {
+  "id": "example-43",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "citations-to-other-materials",
+  "level": 4,
+  "title": "Citations to Other Materials"
+ },
+ {
+  "id": "example-44",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-45",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "incorporation-by-reference",
+  "level": 3,
+  "title": "Incorporation by Reference"
+ },
+ {
+  "id": "generally-5",
+  "level": 4,
+  "title": "Generally"
+ },
+ {
+  "id": "use-of-incorporation",
+  "level": 4,
+  "title": "Use of Incorporation"
+ },
+ {
+  "id": "materials-that-may-be-incorporated",
+  "level": 4,
+  "title": "Materials that May Be Incorporated"
+ },
+ {
+  "id": "incorporation-procedures",
+  "level": 4,
+  "title": "Incorporation Procedures"
+ },
+ {
+  "id": "incorporation-examples",
+  "level": 4,
+  "title": "Incorporation Examples"
+ },
+ {
+  "id": "organization-of-rules",
+  "level": 3,
+  "title": "Organization of Rules"
+ },
+ {
+  "id": "organization-of-the-administrative-code",
+  "level": 4,
+  "title": "Organization of the Administrative Code"
+ },
+ {
+  "id": "organization-within-rules",
+  "level": 4,
+  "title": "Organization Within Rules"
+ },
+ {
+  "id": "example-46",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-47",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "numbering-rules",
+  "level": 4,
+  "title": "Numbering Rules"
+ },
+ {
+  "id": "title-numbering",
+  "level": 5,
+  "title": "Title Numbering"
+ },
+ {
+  "id": "rule-and-section-numbering",
+  "level": 5,
+  "title": "Rule and Section Numbering"
+ },
+ {
+  "id": "correct-incorrect",
+  "level": 5,
+  "title": "CORRECT INCORRECT"
+ },
+ {
+  "id": "subsection-paragraph-numbering",
+  "level": 5,
+  "title": "Subsection (Paragraph) Numbering"
+ },
+ {
+  "id": "example-48",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-graphical-illustration-of-paragraph-numbering-levels",
+  "level": 5,
+  "title": "Example: GRAPHICAL ILLUSTRATION OF PARAGRAPH NUMBERING LEVELS PARAGRAPH NUMBERING LEVELS"
+ },
+ {
+  "id": "reusing-rule-and-section-numbers",
+  "level": 4,
+  "title": "Reusing Rule and Section Numbers"
+ },
+ {
+  "id": "text-formatting-standards-a-comprehensive-check-list",
+  "level": 3,
+  "title": "Text Formatting Standards: A Comprehensive Check List"
+ },
+ {
+  "id": "presentation",
+  "level": 4,
+  "title": "Presentation"
+ },
+ {
+  "id": "rule-citation-reference-numbers",
+  "level": 4,
+  "title": "Rule Citation/Reference Numbers"
+ },
+ {
+  "id": "catchlines",
+  "level": 4,
+  "title": "Catchlines"
+ },
+ {
+  "id": "text",
+  "level": 4,
+  "title": "Text"
+ },
+ {
+  "id": "tables",
+  "level": 4,
+  "title": "Tables"
+ },
+ {
+  "id": "footnotes-and-endnotes",
+  "level": 4,
+  "title": "Footnotes and Endnotes"
+ },
+ {
+  "id": "end-matter",
+  "level": 4,
+  "title": "End Matter"
+ },
+ {
+  "id": "special-formatting",
+  "level": 4,
+  "title": "Special Formatting"
+ },
+ {
+  "id": "changes-to-rule-text",
+  "level": 4,
+  "title": "Changes to Rule Text"
+ },
+ {
+  "id": "chapter-2-the-rulemaking-process",
+  "level": 2,
+  "title": "Chapter 2.The Rulemaking Process"
+ },
+ {
+  "id": "a-practical-guide",
+  "level": 5,
+  "title": "A Practical Guide"
+ },
+ {
+  "id": "rulemaking-types",
+  "level": 3,
+  "title": "Rulemaking Types"
+ },
+ {
+  "id": "proposed-rules",
+  "level": 4,
+  "title": "Proposed Rules"
+ },
+ {
+  "id": "proposed-rule-types",
+  "level": 5,
+  "title": "Proposed Rule Types"
+ },
+ {
+  "id": "note-2",
+  "level": 5,
+  "title": "Note"
+ },
+ {
+  "id": "rule-analysis-questions-for-proposed-rules",
+  "level": 5,
+  "title": "Rule Analysis Questions for Proposed Rules"
+ },
+ {
+  "id": "purpose-of-the-rule-or-reason-for-the-change",
+  "level": 5,
+  "title": "“Purpose of the rule or reason for the change”"
+ },
+ {
+  "id": "note-3",
+  "level": 5,
+  "title": "Note"
+ },
+ {
+  "id": "summary-of-the-rule-change",
+  "level": 5,
+  "title": "“Summary of the rule change”"
+ },
+ {
+  "id": "note-4",
+  "level": 5,
+  "title": "Note"
+ },
+ {
+  "id": "costs-and-savings-associated-with-the-rule",
+  "level": 5,
+  "title": "Costs and Savings Associated with the Rule"
+ },
+ {
+  "id": "note-5",
+  "level": 5,
+  "title": "Note"
+ },
+ {
+  "id": "this-rule-change-is-authorized-or-mandated-by-state-law-and-",
+  "level": 5,
+  "title": "“This rule change is authorized or mandated by state law, and implements or inter- prets the following state and federal laws”"
+ },
+ {
+  "id": "note-6",
+  "level": 5,
+  "title": "Note"
+ },
+ {
+  "id": "this-rule-adds-updates-or-otherwise-changes-the-following-ti",
+  "level": 5,
+  "title": "“This rule adds, updates, or otherwise changes the following title of materials incor- porated by reference”"
+ },
+ {
+  "id": "warning",
+  "level": 5,
+  "title": "Warning"
+ },
+ {
+  "id": "note-7",
+  "level": 5,
+  "title": "Note"
+ },
+ {
+  "id": "changes-in-proposed-rules-cprs",
+  "level": 4,
+  "title": "Changes in Proposed Rules (CPRs)"
+ },
+ {
+  "id": "differences-between-cprs-and-proposed-rules",
+  "level": 5,
+  "title": "Differences between CPRs and Proposed Rules"
+ },
+ {
+  "id": "note-8",
+  "level": 5,
+  "title": "Note"
+ },
+ {
+  "id": "rule-analysis-questions-for-changes-in-proposed-rules",
+  "level": 5,
+  "title": "Rule Analysis Questions for Changes in Proposed Rules"
+ },
+ {
+  "id": "emergency-rules",
+  "level": 4,
+  "title": "Emergency Rules"
+ },
+ {
+  "id": "differences-between-emergency-rules-and-proposed-rules",
+  "level": 5,
+  "title": "Differences between Emergency Rules and Proposed Rules"
+ },
+ {
+  "id": "rule-analysis-questions-for-emergency-rules",
+  "level": 5,
+  "title": "Rule Analysis Questions for Emergency Rules"
+ },
+ {
+  "id": "note-9",
+  "level": 5,
+  "title": "Note"
+ },
+ {
+  "id": "five-year-reviews",
+  "level": 4,
+  "title": "Five-Year Reviews"
+ },
+ {
+  "id": "differences-between-five-year-reviews-and-proposed-rules",
+  "level": 5,
+  "title": "Differences between Five-Year Reviews and Proposed Rules"
+ },
+ {
+  "id": "note-10",
+  "level": 5,
+  "title": "Note"
+ },
+ {
+  "id": "questions-for-five-year-review-and-statements-of-continuatio",
+  "level": 5,
+  "title": "Questions for Five-Year Review and Statements of Continuation"
+ },
+ {
+  "id": "a-concise-explanation-of-the-particular-statutory-provisions",
+  "level": 5,
+  "title": "“A concise explanation of the particular statutory provisions under which the rule is enacted and how these provisions authorize or require the rule”"
+ },
+ {
+  "id": "a-summary-of-written-comments-received-during-and-since-the-",
+  "level": 5,
+  "title": "“A summary of written comments received during and since the last five-year review of the rule from interested persons supporting or opposing the rule”"
+ },
+ {
+  "id": "a-reasoned-justification-for-continuation-of-the-rule-includ",
+  "level": 5,
+  "title": "“A reasoned justification for continuation of the rule, including reasons why the agency disagrees with comments in opposition to the rule, if any”"
+ },
+ {
+  "id": "nonsubstantive-changes",
+  "level": 4,
+  "title": "Nonsubstantive Changes"
+ },
+ {
+  "id": "differences-between-nonsubstantive-changes-and-proposed-rule",
+  "level": 5,
+  "title": "Differences between Nonsubstantive Changes and Proposed Rules"
+ },
+ {
+  "id": "questions-for-nonsubstantive-changes",
+  "level": 5,
+  "title": "Questions for Nonsubstantive Changes"
+ },
+ {
+  "id": "appendix-a-flow-charts-of-the-rulemaking-process",
+  "level": 2,
+  "title": "Appendix A. Flow Charts of the Rulemaking Process"
+ },
+ {
+  "id": "figure-a-1-utah-administrative-rulemaking-process-simplified",
+  "level": 5,
+  "title": "Figure A.1. Utah Administrative Rulemaking Process—Simplified View"
+ },
+ {
+  "id": "figure-a-2-utah-administrative-rulemaking-process",
+  "level": 5,
+  "title": "Figure A.2. Utah Administrative Rulemaking Process"
+ },
+ {
+  "id": "appendix-b-problem-words-and-expressions-defined",
+  "level": 2,
+  "title": "Appendix B. Problem Words and Expressions Defined"
+ },
+ {
+  "id": "definition-term",
+  "level": 5,
+  "title": "DEFINITION TERM"
+ },
+ {
+  "id": "definition-term-2",
+  "level": 5,
+  "title": "DEFINITION TERM"
+ },
+ {
+  "id": "appendix-c-preferred-terms",
+  "level": 2,
+  "title": "Appendix C. Preferred Terms"
+ },
+ {
+  "id": "say-do-not-say-57",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say-58",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say-59",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say-60",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "say-do-not-say-61",
+  "level": 5,
+  "title": "SAY: DO NOT SAY:"
+ },
+ {
+  "id": "appendix-d-sample-rule-in-format",
+  "level": 2,
+  "title": "Appendix D. Sample Rule in Format"
+ },
+ {
+  "id": "appendix-e-rulemaking-law-in-the-utah-code",
+  "level": 2,
+  "title": "Appendix E. Rulemaking Law in the Utah Code"
+ },
+ {
+  "id": "title-63-chapter-46a-utah-administrative-rule-making-act",
+  "level": 3,
+  "title": "Title 63, Chapter 46a: Utah Administrative Rule- making Act"
+ },
+ {
+  "id": "63-46a-1-short-title",
+  "level": 4,
+  "title": "63-46a-1. Short title."
+ },
+ {
+  "id": "63-46a-2-definitions",
+  "level": 4,
+  "title": "63-46a-2. Definitions."
+ },
+ {
+  "id": "63-46a-3-when-rulemaking-is-required",
+  "level": 4,
+  "title": "63-46a-3. When rulemaking is required."
+ },
+ {
+  "id": "63-46a-3-5-rules-having-the-effect-of-law",
+  "level": 4,
+  "title": "63-46a-3.5. Rules having the effect of law."
+ },
+ {
+  "id": "63-46a-4-rulemaking-procedure",
+  "level": 4,
+  "title": "63-46a-4. Rulemaking procedure."
+ },
+ {
+  "id": "63-46a-5-public-hearings",
+  "level": 4,
+  "title": "63-46a-5. Public hearings."
+ },
+ {
+  "id": "63-46a-6-changes-in-rules",
+  "level": 4,
+  "title": "63-46a-6. Changes in rules."
+ },
+ {
+  "id": "63-46a-7-emergency-rulemaking-procedure",
+  "level": 4,
+  "title": "63-46a-7. Emergency rulemaking procedure."
+ },
+ {
+  "id": "63-46a-8-division-to-provide-list-of-rulemaking-activity-to-",
+  "level": 4,
+  "title": "63-46a-8. Division to provide list of rulemaking activity to Office of Legislative Research and General Counsel. [Re- pealed]"
+ },
+ {
+  "id": "63-46a-9-agency-review-of-rules-schedule-of-filings-limited-",
+  "level": 4,
+  "title": "63-46a-9. Agency review of rules -- Schedule of filings -- Limited exemption for certain rules."
+ },
+ {
+  "id": "63-46a-9-5-division-of-administrative-rules-created-appointm",
+  "level": 4,
+  "title": "63-46a-9.5. Division of Administrative Rules created -- Appointment of director."
+ },
+ {
+  "id": "63-46a-9-6-utah-administrative-code-organization-official-co",
+  "level": 4,
+  "title": "63-46a-9.6. Utah Administrative Code -- Organization -- Official compilation."
+ },
+ {
+  "id": "63-46a-10-division-of-administrative-rules-duties-gen-erally",
+  "level": 4,
+  "title": "63-46a-10. Division of Administrative Rules -- Duties gen- erally."
+ },
+ {
+  "id": "63-46a-10-5-repeal-and-reenactment-of-utah-administrat-ive-c",
+  "level": 4,
+  "title": "63-46a-10.5. Repeal and reenactment of Utah Administrat- ive Code."
+ },
+ {
+  "id": "63-46a-11-administrative-rules-review-committee",
+  "level": 4,
+  "title": "63-46a-11. Administrative Rules Review Committee."
+ },
+ {
+  "id": "63-46a-11-5-legislative-reauthorization-of-agency-rules-exte",
+  "level": 4,
+  "title": "63-46a-11.5. Legislative reauthorization of agency rules -- Extension of rules by governor."
+ },
+ {
+  "id": "63-46a-12-interested-parties",
+  "level": 4,
+  "title": "63-46a-12. Interested parties."
+ },
+ {
+  "id": "63-46a-12-1-judicial-challenge-to-administrative-rules",
+  "level": 4,
+  "title": "63-46a-12.1. Judicial challenge to administrative rules."
+ },
+ {
+  "id": "63-46a-13-actions-for-declaratory-judgment-to-determine-the-",
+  "level": 4,
+  "title": "63-46a-13. Actions for declaratory judgment to determine the validity of a rule. [Repealed]"
+ },
+ {
+  "id": "63-46a-14-time-for-contesting-a-rule-statute-of-limita-tions",
+  "level": 4,
+  "title": "63-46a-14.Time for contesting a rule -- Statute of limita- tions."
+ },
+ {
+  "id": "63-46a-15-declaratory-rulings-by-agencies-repealed",
+  "level": 4,
+  "title": "63-46a-15. Declaratory rulings by agencies. [Repealed]"
+ },
+ {
+  "id": "63-46a-16-utah-administrative-code-as-official-compilation-o",
+  "level": 4,
+  "title": "63-46a-16. Utah Administrative Code as official compilation of rules -- Judicial notice."
+ },
+ {
+  "id": "63-46a-17-electronic-records-and-conversion-of-written-recor",
+  "level": 4,
+  "title": "63-46a-17. Electronic records and conversion of written records by governmental agencies."
+ },
+ {
+  "id": "appendix-f-administrative-rules-on-rulemaking",
+  "level": 2,
+  "title": "Appendix F. Administrative Rules on Rulemaking"
+ },
+ {
+  "id": "r15-1-administrative-rule-hearings",
+  "level": 3,
+  "title": "R15-1. Administrative Rule Hearings"
+ },
+ {
+  "id": "r15-1-1-authority",
+  "level": 4,
+  "title": "R15-1-1. Authority."
+ },
+ {
+  "id": "r15-1-2-definitions",
+  "level": 4,
+  "title": "R15-1-2. Definitions."
+ },
+ {
+  "id": "r15-1-3-purpose",
+  "level": 4,
+  "title": "R15-1-3. Purpose."
+ },
+ {
+  "id": "r15-1-4-when-agencies-hold-hearings",
+  "level": 4,
+  "title": "R15-1-4. When Agencies Hold Hearings."
+ },
+ {
+  "id": "r15-1-5-hearing-procedures",
+  "level": 4,
+  "title": "R15-1-5. Hearing Procedures."
+ },
+ {
+  "id": "r15-1-8-decision-on-an-issue-regarding-rulemaking-procedure",
+  "level": 4,
+  "title": "R15-1-8. Decision on an Issue Regarding Rulemaking Procedure."
+ },
+ {
+  "id": "r15-1-9-appeal-and-judicial-review",
+  "level": 4,
+  "title": "R15-1-9. Appeal and Judicial Review."
+ },
+ {
+  "id": "annotations",
+  "level": 4,
+  "title": "Annotations:"
+ },
+ {
+  "id": "r15-2-public-petitioning-for-rulemaking",
+  "level": 3,
+  "title": "R15-2. Public Petitioning for Rulemaking."
+ },
+ {
+  "id": "r15-2-1-authority",
+  "level": 4,
+  "title": "R15-2-1. Authority."
+ },
+ {
+  "id": "r15-2-2-definitions",
+  "level": 4,
+  "title": "R15-2-2. Definitions."
+ },
+ {
+  "id": "r15-2-3-petition-procedure",
+  "level": 4,
+  "title": "R15-2-3. Petition Procedure."
+ },
+ {
+  "id": "r15-2-4-petition-form",
+  "level": 4,
+  "title": "R15-2-4. Petition Form."
+ },
+ {
+  "id": "r15-2-5-petition-consideration-and-disposition",
+  "level": 4,
+  "title": "R15-2-5. Petition Consideration And Disposition."
+ },
+ {
+  "id": "annotations-2",
+  "level": 4,
+  "title": "Annotations:"
+ },
+ {
+  "id": "r15-3-definitional-clarification-of-administrative-rule",
+  "level": 3,
+  "title": "R15-3. Definitional Clarification of Administrative Rule."
+ },
+ {
+  "id": "r15-3-1-authority-purpose-and-definitions",
+  "level": 4,
+  "title": "R15-3-1. Authority, Purpose, and Definitions."
+ },
+ {
+  "id": "r15-3-2-agency-discretion",
+  "level": 4,
+  "title": "R15-3-2. Agency Discretion."
+ },
+ {
+  "id": "r15-3-3-use-of-incorporation-by-reference-in-rules",
+  "level": 4,
+  "title": "R15-3-3. Use of Incorporation by Reference in Rules."
+ },
+ {
+  "id": "r15-3-4-computer-prohibited-material",
+  "level": 4,
+  "title": "R15-3-4. Computer-Prohibited Material."
+ },
+ {
+  "id": "annotations-3",
+  "level": 4,
+  "title": "Annotations:"
+ },
+ {
+  "id": "r15-4-administrative-rulemaking-procedures",
+  "level": 3,
+  "title": "R15-4. Administrative Rulemaking Procedures."
+ },
+ {
+  "id": "r15-4-1-authority-and-purpose",
+  "level": 4,
+  "title": "R15-4-1. Authority and Purpose."
+ },
+ {
+  "id": "r15-4-2-definitions",
+  "level": 4,
+  "title": "R15-4-2. Definitions."
+ },
+ {
+  "id": "r15-4-3-publication-dates-and-deadlines",
+  "level": 4,
+  "title": "R15-4-3. Publication Dates and Deadlines."
+ },
+ {
+  "id": "r15-4-4-thirty-day-comment-period",
+  "level": 4,
+  "title": "R15-4-4.Thirty-day Comment Period."
+ },
+ {
+  "id": "r15-4-5-notice-of-the-effective-date-of-a-rule",
+  "level": 4,
+  "title": "R15-4-5. Notice of the Effective Date of a Rule."
+ },
+ {
+  "id": "r15-4-6-nonsubstantive-changes-in-rules",
+  "level": 4,
+  "title": "R15-4-6. Nonsubstantive Changes in Rules."
+ },
+ {
+  "id": "r15-4-7-substantive-changes-in-proposed-rules",
+  "level": 4,
+  "title": "R15-4-7. Substantive Changes in Proposed Rules."
+ },
+ {
+  "id": "r15-4-8-temporary-120-day-rules",
+  "level": 4,
+  "title": "R15-4-8.Temporary 120-day Rules."
+ },
+ {
+  "id": "r15-4-9-underscoring-and-striking-out",
+  "level": 4,
+  "title": "R15-4-9. Underscoring and Striking Out."
+ },
+ {
+  "id": "r15-4-10-estimates-of-anticipated-cost-or-savings-and-compli",
+  "level": 4,
+  "title": "R15-4-10. Estimates of Anticipated Cost or Savings, and Compliance Cost."
+ },
+ {
+  "id": "annotations-4",
+  "level": 4,
+  "title": "Annotations:"
+ },
+ {
+  "id": "r15-5-administrative-rules-adjudicative-proceed-ings",
+  "level": 3,
+  "title": "R15-5. Administrative Rules Adjudicative Proceed- ings."
+ },
+ {
+  "id": "r15-5-1-purpose",
+  "level": 4,
+  "title": "R15-5-1. Purpose."
+ },
+ {
+  "id": "r15-5-2-authority",
+  "level": 4,
+  "title": "R15-5-2. Authority."
+ },
+ {
+  "id": "r15-5-3-definitions",
+  "level": 4,
+  "title": "R15-5-3. Definitions."
+ },
+ {
+  "id": "r15-5-4-refusal-to-publish-or-register-a-rule-or-rule-change",
+  "level": 4,
+  "title": "R15-5-4. Refusal to Publish or Register a Rule or Rule Change."
+ },
+ {
+  "id": "r15-5-5-appeal-of-a-refusal-to-publish-or-register-a-rule-or",
+  "level": 4,
+  "title": "R15-5-5. Appeal of a Refusal to Publish or Register a Rule or Rule Change."
+ },
+ {
+  "id": "r15-5-6-determining-the-procedural-validity-of-a-rule",
+  "level": 4,
+  "title": "R15-5-6. Determining the Procedural Validity of a Rule."
+ },
+ {
+  "id": "r15-5-7-remedies-resulting-from-an-adjudicative-proceed-ing",
+  "level": 4,
+  "title": "R15-5-7. Remedies Resulting from an Adjudicative Proceed- ing."
+ },
+ {
+  "id": "annotations-5",
+  "level": 4,
+  "title": "Annotations:"
+ },
+ {
+  "id": "appendix-g-governor-s-executive-order-2-3-1986",
+  "level": 2,
+  "title": "Appendix G. Governor's Executive Order, 2/3/1986"
+ },
+ {
+  "id": "appendix-h-governor-s-executive-order-3-22-1988",
+  "level": 2,
+  "title": "Appendix H. Governor's Executive Order, 3/22/1988"
+ }
+]

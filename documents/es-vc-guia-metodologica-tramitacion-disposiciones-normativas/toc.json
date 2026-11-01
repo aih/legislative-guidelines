@@ -1,0 +1,537 @@
+[
+ {
+  "id": "dirección-general-de-simplificación-administrativa-generalit",
+  "level": 3,
+  "title": "Dirección General de Simplificación Administrativa Generalitat Valenciana"
+ },
+ {
+  "id": "guía-metodológica-para-la-tramitacion-de-disposiciones-norma",
+  "level": 2,
+  "title": "GUÍA METODOLÓGICA PARA LA TRAMITACION DE DISPOSICIONES NORMATIVAS"
+ },
+ {
+  "id": "índice",
+  "level": 3,
+  "title": "Índice"
+ },
+ {
+  "id": "introducción",
+  "level": 3,
+  "title": "INTRODUCCIÓN"
+ },
+ {
+  "id": "bloque-i-procedimiento-de-elaboración-de-normas-reglamentari",
+  "level": 3,
+  "title": "BLOQUE I PROCEDIMIENTO DE ELABORACIÓN DE NORMAS REGLAMENTARIAS"
+ },
+ {
+  "id": "trámite-0-consulta-pública-previa1",
+  "level": 3,
+  "title": "TRÁMITE 0. CONSULTA PÚBLICA PREVIA1"
+ },
+ {
+  "id": "centro-gestor",
+  "level": 3,
+  "title": "CENTRO GESTOR"
+ },
+ {
+  "id": "7",
+  "level": 2,
+  "title": "7"
+ },
+ {
+  "id": "trámite-0-consulta-pública-previa1-2",
+  "level": 3,
+  "title": "TRÁMITE 0. CONSULTA PÚBLICA PREVIA1"
+ },
+ {
+  "id": "centro-gestor-secoat4-servicio-con-competencias-en-materia-d",
+  "level": 3,
+  "title": "*CENTRO GESTOR/SECOAT4 / Servicio con competencias en materia de organización"
+ },
+ {
+  "id": "centro-gestor-secoat-servicio-con-competencias-en-materia-de",
+  "level": 3,
+  "title": "*CENTRO GESTOR /SECOAT/ Servicio con competencias en materia de organización"
+ },
+ {
+  "id": "8",
+  "level": 2,
+  "title": "8"
+ },
+ {
+  "id": "trámite-1-resolución-de-inicio5",
+  "level": 3,
+  "title": "TRÁMITE 1. RESOLUCIÓN DE INICIO5"
+ },
+ {
+  "id": "secoat",
+  "level": 3,
+  "title": "SECOAT"
+ },
+ {
+  "id": "trámite-2-proyecto-normativo-y-memoria-main-7-centro-gestor",
+  "level": 3,
+  "title": "TRÁMITE 2. PROYECTO NORMATIVO Y MEMORIA MAIN 7 CENTRO GESTOR"
+ },
+ {
+  "id": "centro-gestor-servicio-con-competencias-en-materia-de-organi",
+  "level": 3,
+  "title": "*CENTRO GESTOR/Servicio con competencias en materia de organización/ SECOAT"
+ },
+ {
+  "id": "9",
+  "level": 2,
+  "title": "9"
+ },
+ {
+  "id": "trámite-3-alegaciones-departamentales-e-informes-vínculados-",
+  "level": 3,
+  "title": "TRÁMITE 3. ALEGACIONES DEPARTAMENTALES E INFORMES VÍNCULADOS A LA MAIN SECOAT"
+ },
+ {
+  "id": "centro-gestor-2",
+  "level": 3,
+  "title": "CENTRO GESTOR"
+ },
+ {
+  "id": "10",
+  "level": 2,
+  "title": "10"
+ },
+ {
+  "id": "trámite-4-audiencia-ciudadana10",
+  "level": 3,
+  "title": "TRÁMITE 4. AUDIENCIA CIUDADANA10"
+ },
+ {
+  "id": "centro-gestor-3",
+  "level": 3,
+  "title": "CENTRO GESTOR"
+ },
+ {
+  "id": "centro-gestor-secoat-servicio-con-competencias-en-materia-de-2",
+  "level": 3,
+  "title": "* CENTRO GESTOR /SECOAT/ Servicio con competencias en materia de organización"
+ },
+ {
+  "id": "centro-gestor-4",
+  "level": 3,
+  "title": "CENTRO GESTOR"
+ },
+ {
+  "id": "11",
+  "level": 2,
+  "title": "11"
+ },
+ {
+  "id": "trámite-5-resto-de-informes-preceptivos-previos-a-abogacía-s",
+  "level": 3,
+  "title": "TRÁMITE 5. RESTO DE INFORMES PRECEPTIVOS PREVIOS A ABOGACÍA SECOAT"
+ },
+ {
+  "id": "centro-gestor-5",
+  "level": 3,
+  "title": "CENTRO GESTOR"
+ },
+ {
+  "id": "12",
+  "level": 2,
+  "title": "12"
+ },
+ {
+  "id": "trámite-6-informe-de-abogacía15",
+  "level": 3,
+  "title": "TRÁMITE 6. INFORME DE ABOGACÍA15"
+ },
+ {
+  "id": "centro-gestor-secoat-servicio-con-competencias-en-materia-de-3",
+  "level": 3,
+  "title": "* CENTRO GESTOR /SECOAT/ Servicio con competencias en materia de organización"
+ },
+ {
+  "id": "13",
+  "level": 2,
+  "title": "13"
+ },
+ {
+  "id": "trámite-7-informe-de-intervención",
+  "level": 3,
+  "title": "TRÁMITE 7. INFORME DE INTERVENCIÓN"
+ },
+ {
+  "id": "secoat-centro-gestor",
+  "level": 3,
+  "title": "*SECOAT/CENTRO GESTOR"
+ },
+ {
+  "id": "14",
+  "level": 2,
+  "title": "14"
+ },
+ {
+  "id": "trámite-8-dictamen-del-consell-jurídic-consultiu-18",
+  "level": 3,
+  "title": "TRÁMITE 8. DICTAMEN DEL CONSELL JURÍDIC CONSULTIU 18"
+ },
+ {
+  "id": "15",
+  "level": 2,
+  "title": "15"
+ },
+ {
+  "id": "trámite-9-aprobación-del-proyecto20",
+  "level": 3,
+  "title": "TRÁMITE 9. APROBACIÓN DEL PROYECTO20"
+ },
+ {
+  "id": "secoat-2",
+  "level": 3,
+  "title": "SECOAT"
+ },
+ {
+  "id": "centro-gestor-secoat-servicio-con-competencias-en-materia-de-4",
+  "level": 3,
+  "title": "* CENTRO GESTOR /SECOAT/ Servicio con competencias en materia de organización"
+ },
+ {
+  "id": "centro-gestor-secoat-servicio-con-competencias-en-materia-de-5",
+  "level": 3,
+  "title": "* CENTRO GESTOR /SECOAT/ Servicio con competencias en materia de organización"
+ },
+ {
+  "id": "16",
+  "level": 2,
+  "title": "16"
+ },
+ {
+  "id": "procedimiento-de-elaboración-de-normas-con-rango-de-ley",
+  "level": 3,
+  "title": "PROCEDIMIENTO DE ELABORACIÓN DE NORMAS CON RANGO DE LEY"
+ },
+ {
+  "id": "trámite-0-consulta-pública-previa",
+  "level": 3,
+  "title": "TRÁMITE 0. CONSULTA PÚBLICA PREVIA"
+ },
+ {
+  "id": "17",
+  "level": 2,
+  "title": "17"
+ },
+ {
+  "id": "trámite-0-consulta-pública-previa-2",
+  "level": 3,
+  "title": "TRÁMITE 0. CONSULTA PÚBLICA PREVIA"
+ },
+ {
+  "id": "centro-gestor-secoat-servicio-con-competencias-en-materia-de-6",
+  "level": 3,
+  "title": "* CENTRO GESTOR /SECOAT/ Servicio con competencias en materia de organización"
+ },
+ {
+  "id": "centro-gestor-6",
+  "level": 3,
+  "title": "CENTRO GESTOR"
+ },
+ {
+  "id": "centro-gestor-secoat-servicio-con-competencias-en-materia-de-7",
+  "level": 3,
+  "title": "* CENTRO GESTOR /SECOAT/ Servicio con competencias en materia de organización"
+ },
+ {
+  "id": "18",
+  "level": 2,
+  "title": "18"
+ },
+ {
+  "id": "trámite-1-resolución-de-inicio",
+  "level": 3,
+  "title": "TRÁMITE 1. RESOLUCIÓN DE INICIO"
+ },
+ {
+  "id": "19",
+  "level": 2,
+  "title": "19"
+ },
+ {
+  "id": "trámite-2-proyecto-normativo-y-memoria-main-centro-gestor",
+  "level": 3,
+  "title": "TRÁMITE 2. PROYECTO NORMATIVO Y MEMORIA MAIN CENTRO GESTOR"
+ },
+ {
+  "id": "centro-gestor-servicio-con-competencias-en-materia-de-organi-2",
+  "level": 3,
+  "title": "* CENTRO GESTOR/Servicio con competencias en materia de organización/ SECOAT (solo cuando la norma regule un procedimiento)"
+ },
+ {
+  "id": "20",
+  "level": 2,
+  "title": "20"
+ },
+ {
+  "id": "trámite-3-alegaciones-departamentales-e-informes-vínculados--2",
+  "level": 3,
+  "title": "TRÁMITE 3. ALEGACIONES DEPARTAMENTALES E INFORMES VÍNCULADOS A LA MAIN"
+ },
+ {
+  "id": "centro-gestor-7",
+  "level": 3,
+  "title": "CENTRO GESTOR"
+ },
+ {
+  "id": "21",
+  "level": 2,
+  "title": "21"
+ },
+ {
+  "id": "trámite-4-audiencia-ciudadana",
+  "level": 3,
+  "title": "TRÁMITE 4. AUDIENCIA CIUDADANA"
+ },
+ {
+  "id": "centro-gestor-secoat-servicio-con-competencias-en-materia-de-8",
+  "level": 3,
+  "title": "* CENTRO GESTOR / SECOAT / Servicio con competencias en materia de organización"
+ },
+ {
+  "id": "centro-gestor-8",
+  "level": 3,
+  "title": "CENTRO GESTOR"
+ },
+ {
+  "id": "22",
+  "level": 2,
+  "title": "22"
+ },
+ {
+  "id": "trámite-5-resto-de-informes-preceptivos-previos-a-abogacía-2",
+  "level": 3,
+  "title": "TRÁMITE 5. RESTO DE INFORMES PRECEPTIVOS PREVIOS A ABOGACÍA 28 SECOAT"
+ },
+ {
+  "id": "centro-gestor-9",
+  "level": 3,
+  "title": "CENTRO GESTOR"
+ },
+ {
+  "id": "23",
+  "level": 2,
+  "title": "23"
+ },
+ {
+  "id": "trámite-6-informe-de-abogacía33",
+  "level": 3,
+  "title": "TRÁMITE 6. INFORME DE ABOGACÍA33"
+ },
+ {
+  "id": "centro-gestor-secoat-servicio-con-competencias-en-materia-de-9",
+  "level": 3,
+  "title": "* CENTRO GESTOR /SECOAT/ Servicio con competencias en materia de organización"
+ },
+ {
+  "id": "24",
+  "level": 2,
+  "title": "24"
+ },
+ {
+  "id": "trámite-7-conformidad-del-consell-34",
+  "level": 3,
+  "title": "TRÁMITE 7. CONFORMIDAD DEL CONSELL. 34"
+ },
+ {
+  "id": "25",
+  "level": 2,
+  "title": "25"
+ },
+ {
+  "id": "trámite-8-informe-de-intervención35",
+  "level": 3,
+  "title": "TRÁMITE 8. INFORME DE INTERVENCIÓN35"
+ },
+ {
+  "id": "26",
+  "level": 2,
+  "title": "26"
+ },
+ {
+  "id": "trámite-9-dictamen-del-consell-jurídic-consultiu-36",
+  "level": 3,
+  "title": "TRÁMITE 9. DICTAMEN DEL CONSELL JURÍDIC CONSULTIU 36"
+ },
+ {
+  "id": "27",
+  "level": 2,
+  "title": "27"
+ },
+ {
+  "id": "trámite-10-aprobación-del-proyecto-secoat",
+  "level": 3,
+  "title": "TRÁMITE 10. APROBACIÓN DEL PROYECTO SECOAT"
+ },
+ {
+  "id": "centro-gestor-secoat-servicio-con-competencias-en-materia-de-10",
+  "level": 3,
+  "title": "* CENTRO GESTOR /SECOAT/ Servicio con competencias en materia de organización"
+ },
+ {
+  "id": "bloque-iii-técnica-de-elaboración-normativa",
+  "level": 3,
+  "title": "BLOQUE III TÉCNICA DE ELABORACIÓN NORMATIVA"
+ },
+ {
+  "id": "estructura-del-proyecto",
+  "level": 3,
+  "title": "Estructura del proyecto"
+ },
+ {
+  "id": "29",
+  "level": 2,
+  "title": "29"
+ },
+ {
+  "id": "título-primero-disposiciones-generales",
+  "level": 3,
+  "title": "TÍTULO PRIMERO Disposiciones generales"
+ },
+ {
+  "id": "30",
+  "level": 2,
+  "title": "30"
+ },
+ {
+  "id": "31",
+  "level": 2,
+  "title": "31"
+ },
+ {
+  "id": "criterios-de-redacción",
+  "level": 3,
+  "title": "Criterios de redacción"
+ },
+ {
+  "id": "32",
+  "level": 2,
+  "title": "32"
+ },
+ {
+  "id": "33",
+  "level": 2,
+  "title": "33"
+ },
+ {
+  "id": "34",
+  "level": 2,
+  "title": "34"
+ },
+ {
+  "id": "35",
+  "level": 2,
+  "title": "35"
+ },
+ {
+  "id": "36",
+  "level": 2,
+  "title": "36"
+ },
+ {
+  "id": "anexo-modelos-relativos-a-la-elaboración-normativa",
+  "level": 3,
+  "title": "ANEXO. MODELOS RELATIVOS A LA ELABORACIÓN NORMATIVA"
+ },
+ {
+  "id": "37",
+  "level": 2,
+  "title": "37"
+ },
+ {
+  "id": "38",
+  "level": 2,
+  "title": "38"
+ },
+ {
+  "id": "39",
+  "level": 2,
+  "title": "39"
+ },
+ {
+  "id": "resolución-para-la-tramitación-de-urgencia-de-la-consulta-pú",
+  "level": 3,
+  "title": "RESOLUCIÓN PARA LA TRAMITACIÓN DE URGENCIA DE LA CONSULTA PÚBLICA PREVIA DEL"
+ },
+ {
+  "id": "resuelvo",
+  "level": 3,
+  "title": "RESUELVO"
+ },
+ {
+  "id": "40",
+  "level": 2,
+  "title": "40"
+ },
+ {
+  "id": "anuncio-del-trámite-de-consulta-pública-previa-en-relación-c",
+  "level": 3,
+  "title": "ANUNCIO DEL TRÁMITE DE CONSULTA PÚBLICA PREVIA EN RELACIÓN CON LA PROPUESTA"
+ },
+ {
+  "id": "41",
+  "level": 2,
+  "title": "41"
+ },
+ {
+  "id": "42",
+  "level": 2,
+  "title": "42"
+ },
+ {
+  "id": "autor-aportación-valoración",
+  "level": 3,
+  "title": "AUTOR APORTACIÓN VALORACIÓN"
+ },
+ {
+  "id": "43",
+  "level": 2,
+  "title": "43"
+ },
+ {
+  "id": "propuesta-de-resolución-de-inicio-del-procedimiento-de-elabo",
+  "level": 3,
+  "title": "PROPUESTA DE RESOLUCIÓN DE INICIO DEL PROCEDIMIENTO DE ELABORACIÓN DEL"
+ },
+ {
+  "id": "1º-caso-tramitación-ordinaria",
+  "level": 3,
+  "title": "[1º Caso - tramitación ordinaria]"
+ },
+ {
+  "id": "2º-caso-tramitación-de-urgencia",
+  "level": 3,
+  "title": "[2º Caso - tramitación de urgencia]"
+ },
+ {
+  "id": "se-propone",
+  "level": 3,
+  "title": "SE PROPONE"
+ },
+ {
+  "id": "44",
+  "level": 2,
+  "title": "44"
+ },
+ {
+  "id": "45",
+  "level": 2,
+  "title": "45"
+ },
+ {
+  "id": "informe-de-no-necesidad-del-trámite-de-audiencia-ciudadana-e",
+  "level": 3,
+  "title": "INFORME DE NO NECESIDAD DEL TRÁMITE DE AUDIENCIA CIUDADANA EN RELACIÓN CON"
+ },
+ {
+  "id": "46",
+  "level": 2,
+  "title": "46"
+ }
+]

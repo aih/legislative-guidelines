@@ -1,0 +1,1322 @@
+[
+ {
+  "id": "department-of-the-premier-and-cabinet",
+  "level": 5,
+  "title": "Department of the Premier and Cabinet"
+ },
+ {
+  "id": "the-queensland-legislation-handbook-governing-queensland",
+  "level": 2,
+  "title": "The Queensland Legislation Handbook Governing Queensland"
+ },
+ {
+  "id": "contents",
+  "level": 2,
+  "title": "Contents"
+ },
+ {
+  "id": "introduction-1-context-of-legislation",
+  "level": 5,
+  "title": "Introduction 1 Context of legislation"
+ },
+ {
+  "id": "2-policy-development-of-a-government-bill",
+  "level": 5,
+  "title": "2 Policy development of a government Bill"
+ },
+ {
+  "id": "3-the-drafting-process",
+  "level": 5,
+  "title": "3 The drafting process"
+ },
+ {
+  "id": "4-the-parliamentary-process",
+  "level": 5,
+  "title": "4 The parliamentary process"
+ },
+ {
+  "id": "5-royal-assent",
+  "level": 5,
+  "title": "5 Royal assent"
+ },
+ {
+  "id": "7-fundamental-legislative-principles",
+  "level": 5,
+  "title": "7 Fundamental legislative principles"
+ },
+ {
+  "id": "8-human-rights",
+  "level": 5,
+  "title": "8 Human rights"
+ },
+ {
+  "id": "appendix-the-making-of-an-act-of-parliament-glossary-index-e",
+  "level": 5,
+  "title": "Appendix The Making of an Act of Parliament Glossary Index Endnotes"
+ },
+ {
+  "id": "introduction",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "this-chapter-considers-legislation-in-its-broadest-context",
+  "level": 4,
+  "title": "This chapter considers legislation in its broadest context."
+ },
+ {
+  "id": "1-1-legislation-and-the-general-law",
+  "level": 3,
+  "title": "1.1 Legislation and the general law"
+ },
+ {
+  "id": "1-2-why-legislation-is-needed",
+  "level": 3,
+  "title": "1.2 Why legislation is needed"
+ },
+ {
+  "id": "1-3-how-legislation-operates-on-a-matter",
+  "level": 3,
+  "title": "1.3 How legislation operates on a matter"
+ },
+ {
+  "id": "1-4-the-power-of-the-parliament-of-queensland",
+  "level": 3,
+  "title": "1.4 The power of the Parliament of Queensland"
+ },
+ {
+  "id": "1-4-1-the-plenary-power",
+  "level": 5,
+  "title": "1.4.1 The plenary power"
+ },
+ {
+  "id": "1-4-2-extraterritorial-application-of-the-plenary-power",
+  "level": 5,
+  "title": "1.4.2 Extraterritorial application of the plenary power"
+ },
+ {
+  "id": "1-4-3-relationship-with-the-australian-constitution",
+  "level": 5,
+  "title": "1.4.3 Relationship with the Australian Constitution"
+ },
+ {
+  "id": "coastal-waters-state-powers-act-1980-cwlth",
+  "level": 5,
+  "title": "Coastal Waters (State Powers) Act 1980 (Cwlth)"
+ },
+ {
+  "id": "coastal-waters-state-title-act-1980-cwlth",
+  "level": 5,
+  "title": "Coastal Waters (State Title) Act 1980 (Cwlth)"
+ },
+ {
+  "id": "1-5-how-parliament-makes-legislation-or-authorises-the-makin",
+  "level": 3,
+  "title": "1.5 How Parliament makes legislation or authorises the making of legislation"
+ },
+ {
+  "id": "1-5-1-act-of-parliament",
+  "level": 5,
+  "title": "1.5.1 Act of Parliament"
+ },
+ {
+  "id": "1-5-2-subordinate-legislation",
+  "level": 5,
+  "title": "1.5.2 Subordinate legislation"
+ },
+ {
+  "id": "1-6-information-about-the-following-chapters",
+  "level": 3,
+  "title": "1.6 Information about the following chapters"
+ },
+ {
+  "id": "1-6-1-act-of-parliament",
+  "level": 5,
+  "title": "1.6.1 Act of Parliament"
+ },
+ {
+  "id": "appendix-flow-corresponding-chart-stages-chapters-of-handboo",
+  "level": 5,
+  "title": "Appendix flow Corresponding chart stages chapters of handbook"
+ },
+ {
+  "id": "1-6-2-subordinate-legislation",
+  "level": 5,
+  "title": "1.6.2 Subordinate legislation"
+ },
+ {
+  "id": "1-7-glossary",
+  "level": 3,
+  "title": "1.7 Glossary"
+ },
+ {
+  "id": "this-chapter-considers-the-policy-information-needed-to-draf",
+  "level": 4,
+  "title": "This chapter considers the policy information needed to draft a government Bill. For more information about policy development, see The Australian Policy Handbook,1 and for information about the drafting process, see chapter 3 of this handbook."
+ },
+ {
+  "id": "2-1-the-nature-of-policy",
+  "level": 3,
+  "title": "2.1 The nature of policy"
+ },
+ {
+  "id": "2-2-is-a-new-law-needed",
+  "level": 3,
+  "title": "2.2 Is a new law needed?"
+ },
+ {
+  "id": "2-2-1-regulatory-best-practice-principles",
+  "level": 5,
+  "title": "2.2.1 Regulatory best practice principles"
+ },
+ {
+  "id": "2-3-does-the-state-have-power-to-make-the-law",
+  "level": 3,
+  "title": "2.3 Does the State have power to make the law?"
+ },
+ {
+  "id": "2-4-bill-or-subordinate-legislation",
+  "level": 3,
+  "title": "2.4 Bill or subordinate legislation?"
+ },
+ {
+  "id": "2-5-portfolio-bills",
+  "level": 3,
+  "title": "2.5 Portfolio Bills"
+ },
+ {
+  "id": "2-6-sponsoring-a-bill",
+  "level": 3,
+  "title": "2.6 Sponsoring a Bill"
+ },
+ {
+  "id": "2-7-role-of-policy-or-instructing-officers",
+  "level": 3,
+  "title": "2.7 Role of policy or instructing officers"
+ },
+ {
+  "id": "2-8-establishing-a-practical-timetable",
+  "level": 3,
+  "title": "2.8 Establishing a practical timetable"
+ },
+ {
+  "id": "2-9-obtaining-appropriate-advice",
+  "level": 3,
+  "title": "2.9 Obtaining appropriate advice"
+ },
+ {
+  "id": "2-10-considering-fundamental-legislative-principles",
+  "level": 3,
+  "title": "2.10 Considering fundamental legislative principles"
+ },
+ {
+  "id": "2-11-considering-human-rights",
+  "level": 3,
+  "title": "2.11 Considering human rights"
+ },
+ {
+  "id": "2-12-other-matters-needing-consideration-for-thorough-policy",
+  "level": 3,
+  "title": "2.12 Other matters needing consideration for thorough policy development"
+ },
+ {
+  "id": "2-12-1-general-application-provisions",
+  "level": 5,
+  "title": "2.12.1 General application provisions"
+ },
+ {
+  "id": "generally",
+  "level": 5,
+  "title": "Generally"
+ },
+ {
+  "id": "binding-on-the-state-or-another-australian-body-politic",
+  "level": 5,
+  "title": "Binding on the State or another Australian body politic"
+ },
+ {
+  "id": "extraterritorial-application",
+  "level": 5,
+  "title": "Extraterritorial application"
+ },
+ {
+  "id": "2-12-2-commencement-and-expiry",
+  "level": 5,
+  "title": "2.12.2 Commencement and expiry"
+ },
+ {
+  "id": "2-12-3-consequential-amendments",
+  "level": 5,
+  "title": "2.12.3 Consequential amendments"
+ },
+ {
+  "id": "2-12-4-enforcement-of-provisions",
+  "level": 5,
+  "title": "2.12.4 Enforcement of provisions"
+ },
+ {
+  "id": "2-12-5-forms",
+  "level": 5,
+  "title": "2.12.5 Forms"
+ },
+ {
+  "id": "2-12-6-national-competition-policy",
+  "level": 5,
+  "title": "2.12.6 National Competition Policy"
+ },
+ {
+  "id": "2-12-7-police-powers",
+  "level": 5,
+  "title": "2.12.7 Police powers"
+ },
+ {
+  "id": "2-12-8-regulation-making-power",
+  "level": 5,
+  "title": "2.12.8 Regulation-making power"
+ },
+ {
+  "id": "2-12-9-when-act-operates",
+  "level": 5,
+  "title": "2.12.9 When Act operates"
+ },
+ {
+  "id": "2-12-10-statutory-bodies-and-statutory-office-holders",
+  "level": 5,
+  "title": "2.12.10 Statutory bodies and statutory office holders"
+ },
+ {
+  "id": "2-12-11-time",
+  "level": 5,
+  "title": "2.12.11 Time"
+ },
+ {
+  "id": "2-12-12-transitional-and-savings-provisions",
+  "level": 5,
+  "title": "2.12.12 Transitional and savings provisions"
+ },
+ {
+  "id": "2-12-13-delegations",
+  "level": 5,
+  "title": "2.12.13 Delegations"
+ },
+ {
+  "id": "2-12-14-inconsistency-with-corporations-act-2001-cwlth",
+  "level": 5,
+  "title": "2.12.14 Inconsistency with Corporations Act 2001 (Cwlth)"
+ },
+ {
+  "id": "2-12-15-national-scheme-legislation",
+  "level": 5,
+  "title": "2.12.15 National scheme legislation"
+ },
+ {
+  "id": "2-12-16-liability-of-directors-or-executive-officers-of-corp",
+  "level": 5,
+  "title": "2.12.16 Liability of directors or executive officers of corporation for the corporation’s offences"
+ },
+ {
+  "id": "this-chapter-considers-the-drafting-process-from-the-perspec",
+  "level": 4,
+  "title": "This chapter considers the drafting process from the perspective of OQPC’s involvement."
+ },
+ {
+  "id": "3-1-oqpc-s-involvement-before-authority-to-prepare-a-bill-ap",
+  "level": 3,
+  "title": "3.1 OQPC’s involvement before Authority to Prepare a Bill approval"
+ },
+ {
+  "id": "3-1-1-sponsoring-department-discussions-with-oqpc-before-fin",
+  "level": 5,
+  "title": "3.1.1 Sponsoring department discussions with OQPC before finalising submission"
+ },
+ {
+  "id": "3-1-2-submissions-circulated-to-oqpc-for-comment",
+  "level": 5,
+  "title": "3.1.2 Submissions circulated to OQPC for comment"
+ },
+ {
+  "id": "3-1-3-drafting-before-cabinet-has-approved-a-submission-for-",
+  "level": 5,
+  "title": "3.1.3 Drafting before Cabinet has approved a submission for Authority to Prepare a Bill"
+ },
+ {
+  "id": "3-2-authority-to-prepare-a-bill-approval",
+  "level": 3,
+  "title": "3.2 Authority to Prepare a Bill approval"
+ },
+ {
+  "id": "3-3-drafting-process",
+  "level": 3,
+  "title": "3.3 Drafting process"
+ },
+ {
+  "id": "3-3-1-the-drafting-process-is-creative",
+  "level": 5,
+  "title": "3.3.1 The drafting process is creative"
+ },
+ {
+  "id": "3-3-2-the-drafting-process-is-a-draft-by-draft-process",
+  "level": 5,
+  "title": "3.3.2 The drafting process is a draft-by-draft process"
+ },
+ {
+  "id": "3-4-role-of-instructing-officer-in-providing-effective-draft",
+  "level": 3,
+  "title": "3.4 Role of instructing officer in providing effective drafting instructions"
+ },
+ {
+  "id": "3-4-1-role-of-instructing-officer",
+  "level": 5,
+  "title": "3.4.1 Role of instructing officer"
+ },
+ {
+  "id": "drafting-instructions-template",
+  "level": 5,
+  "title": "Drafting instructions template"
+ },
+ {
+  "id": "3-4-2-effective-drafting-instructions-return-direct-benefits",
+  "level": 5,
+  "title": "3.4.2 Effective drafting instructions return direct benefits"
+ },
+ {
+  "id": "3-4-3-drafting-instructions-general-requirements",
+  "level": 5,
+  "title": "3.4.3 Drafting instructions—general requirements"
+ },
+ {
+  "id": "3-4-4-drafting-instructions-specific-requirements",
+  "level": 5,
+  "title": "3.4.4 Drafting instructions—specific requirements"
+ },
+ {
+  "id": "drafting-instructions-in-writing",
+  "level": 5,
+  "title": "Drafting instructions in writing"
+ },
+ {
+  "id": "proposals-fully-developed",
+  "level": 5,
+  "title": "Proposals fully developed"
+ },
+ {
+  "id": "clarity-and-consistency",
+  "level": 5,
+  "title": "Clarity and consistency"
+ },
+ {
+  "id": "appropriate-format",
+  "level": 5,
+  "title": "Appropriate format"
+ },
+ {
+  "id": "other-material-to-be-included",
+  "level": 5,
+  "title": "Other material to be included"
+ },
+ {
+  "id": "authority-and-priority",
+  "level": 5,
+  "title": "Authority and priority"
+ },
+ {
+  "id": "principal-objectives",
+  "level": 5,
+  "title": "Principal objectives"
+ },
+ {
+  "id": "legislative-environment",
+  "level": 5,
+  "title": "Legislative environment"
+ },
+ {
+  "id": "departmental-drafts",
+  "level": 5,
+  "title": "Departmental drafts"
+ },
+ {
+  "id": "3-5-role-of-drafter",
+  "level": 3,
+  "title": "3.5 Role of drafter"
+ },
+ {
+  "id": "3-5-1-plain-english",
+  "level": 5,
+  "title": "3.5.1 Plain English"
+ },
+ {
+  "id": "3-5-2-acts-of-general-application-acts-interpretation-act-19",
+  "level": 5,
+  "title": "3.5.2 Acts of general application—Acts Interpretation Act 1954, Statutory Instruments Act 1992, Legislative Standards Act 1992 and Human Rights Act 2019"
+ },
+ {
+  "id": "3-5-3-examination-for-compliance-with-fundamental-legislativ",
+  "level": 5,
+  "title": "3.5.3 Examination for compliance with fundamental legislative principles"
+ },
+ {
+  "id": "3-5-4-quality-assurance-checks-the-final-process",
+  "level": 5,
+  "title": "3.5.4 Quality assurance checks—the final process"
+ },
+ {
+  "id": "3-6-authority-to-introduce-a-bill-approval",
+  "level": 3,
+  "title": "3.6 Authority to Introduce a Bill approval"
+ },
+ {
+  "id": "3-7-other-relevant-matters",
+  "level": 3,
+  "title": "3.7 Other relevant matters"
+ },
+ {
+  "id": "3-7-1-consultation-draft-stage",
+  "level": 5,
+  "title": "3.7.1 Consultation—draft stage"
+ },
+ {
+  "id": "3-7-2-explanatory-notes",
+  "level": 5,
+  "title": "3.7.2 Explanatory notes"
+ },
+ {
+  "id": "3-7-3-cabinet-time-requirements",
+  "level": 5,
+  "title": "3.7.3 Cabinet time requirements"
+ },
+ {
+  "id": "3-7-4-drafting-private-members-bills",
+  "level": 5,
+  "title": "3.7.4 Drafting private members’ Bills"
+ },
+ {
+  "id": "drafting-instructions-template-private-member-s-bill",
+  "level": 5,
+  "title": "Drafting instructions template—private member’s Bill"
+ },
+ {
+  "id": "this-chapter-examines-the-passage-of-a-bill-through-the-legi",
+  "level": 4,
+  "title": "This chapter examines the passage of a Bill through the Legislative Assembly. It focuses on government Bills in ordinary circumstances, and is aimed mainly at helping departmental officers responsible for the progress of a Bill. For more detailed information on Queensland parliamentary processes, see The Queensland Parliamentary Procedures Handbook and the Legislative Assembly’s standing rules and orders."
+ },
+ {
+  "id": "4-1-parliament-of-queensland",
+  "level": 3,
+  "title": "4.1 Parliament of Queensland"
+ },
+ {
+  "id": "4-2-timing-of-the-introduction-of-a-bill",
+  "level": 3,
+  "title": "4.2 Timing of the introduction of a Bill"
+ },
+ {
+  "id": "4-3-explanatory-notes",
+  "level": 3,
+  "title": "4.3 Explanatory notes"
+ },
+ {
+  "id": "4-4-message-from-the-governor",
+  "level": 3,
+  "title": "4.4 Message from the Governor"
+ },
+ {
+  "id": "68-governor-s-recommendation-required-for-appropriation",
+  "level": 5,
+  "title": "68 Governor’s recommendation required for appropriation"
+ },
+ {
+  "id": "4-5-human-rights-statements-of-compatibility",
+  "level": 3,
+  "title": "4.5 Human rights – Statements of Compatibility"
+ },
+ {
+  "id": "4-5-1-override-declaration",
+  "level": 5,
+  "title": "4.5.1 Override declaration"
+ },
+ {
+  "id": "4-6-presentation-and-first-reading",
+  "level": 3,
+  "title": "4.6 Presentation and first reading"
+ },
+ {
+  "id": "4-7-bills-referred-to-portfolio-committees",
+  "level": 3,
+  "title": "4.7 Bills referred to portfolio committees"
+ },
+ {
+  "id": "4-8-amendments-during-consideration-in-detail",
+  "level": 3,
+  "title": "4.8 Amendments during consideration in detail"
+ },
+ {
+  "id": "4-9-second-reading",
+  "level": 3,
+  "title": "4.9 Second reading"
+ },
+ {
+  "id": "4-10-consideration-in-detail-stage",
+  "level": 3,
+  "title": "4.10 Consideration in detail stage"
+ },
+ {
+  "id": "4-11-third-reading-and-long-title",
+  "level": 3,
+  "title": "4.11 Third reading and long title"
+ },
+ {
+  "id": "4-12-cognate-debates",
+  "level": 3,
+  "title": "4.12 Cognate debates"
+ },
+ {
+  "id": "4-13-record-of-proceedings",
+  "level": 3,
+  "title": "4.13 Record of Proceedings"
+ },
+ {
+  "id": "4-14-attendance-by-departmental-officers-and-oqpc-drafter-ot",
+  "level": 3,
+  "title": "4.14 Attendance by departmental officers and OQPC drafter (other than for portfolio committee)"
+ },
+ {
+  "id": "4-15-private-members-bills-and-amendments-during-considerati",
+  "level": 3,
+  "title": "4.15 Private members’ Bills and amendments during consideration in detail"
+ },
+ {
+  "id": "this-chapter-deals-with-subordinate-legislation-other-than-e",
+  "level": 4,
+  "title": "This chapter deals with subordinate legislation, other than exempt subordinate legislation."
+ },
+ {
+  "id": "6-1-what-is-subordinate-legislation",
+  "level": 3,
+  "title": "6.1 What is subordinate legislation?"
+ },
+ {
+  "id": "generally-2",
+  "level": 5,
+  "title": "Generally"
+ },
+ {
+  "id": "particular-meaning-under-the-statutory-instruments-act-1992",
+  "level": 5,
+  "title": "Particular meaning under the Statutory Instruments Act 1992"
+ },
+ {
+  "id": "significance-of-status-as-subordinate-legislation",
+  "level": 5,
+  "title": "Significance of status as subordinate legislation"
+ },
+ {
+  "id": "6-2-drafting-subordinate-legislation",
+  "level": 3,
+  "title": "6.2 Drafting subordinate legislation"
+ },
+ {
+  "id": "6-3-subordinate-legislation-must-be-within-power",
+  "level": 3,
+  "title": "6.3 Subordinate legislation must be within power"
+ },
+ {
+  "id": "6-4-unauthorised-subdelegation",
+  "level": 3,
+  "title": "6.4 Unauthorised subdelegation"
+ },
+ {
+  "id": "6-5-general-presumption-that-legislation-will-be-prospective",
+  "level": 3,
+  "title": "6.5 General presumption that legislation will be prospective"
+ },
+ {
+  "id": "6-6-retrospective-operation-of-a-beneficial-provision",
+  "level": 3,
+  "title": "6.6 Retrospective operation of a beneficial provision"
+ },
+ {
+  "id": "6-7-power-to-make-instruments",
+  "level": 3,
+  "title": "6.7 Power to make instruments"
+ },
+ {
+  "id": "6-8-certification",
+  "level": 3,
+  "title": "6.8 Certification"
+ },
+ {
+  "id": "6-9-penalties",
+  "level": 3,
+  "title": "6.9 Penalties"
+ },
+ {
+  "id": "6-10-infringement-notice-offences",
+  "level": 3,
+  "title": "6.10 Infringement notice offences"
+ },
+ {
+  "id": "6-11-explanatory-notes",
+  "level": 3,
+  "title": "6.11 Explanatory notes"
+ },
+ {
+  "id": "6-12-human-rights-and-subordinate-legislation",
+  "level": 3,
+  "title": "6.12 Human rights and subordinate legislation"
+ },
+ {
+  "id": "6-13-notification",
+  "level": 3,
+  "title": "6.13 Notification"
+ },
+ {
+  "id": "6-14-tabling-and-disallowance",
+  "level": 3,
+  "title": "6.14 Tabling and disallowance"
+ },
+ {
+  "id": "6-15-parliamentary-scrutiny",
+  "level": 3,
+  "title": "6.15 Parliamentary scrutiny"
+ },
+ {
+  "id": "6-16-interpretation",
+  "level": 3,
+  "title": "6.16 Interpretation"
+ },
+ {
+  "id": "6-17-expiry-of-subordinate-legislation",
+  "level": 3,
+  "title": "6.17 Expiry of subordinate legislation"
+ },
+ {
+  "id": "6-18-printing-notification-and-tabling-processes",
+  "level": 3,
+  "title": "6.18 Printing, notification and tabling processes"
+ },
+ {
+  "id": "this-chapter-which-is-a-companion-to-chapter-2-considers-the",
+  "level": 4,
+  "title": "This chapter, which is a companion to chapter 2, considers the policy information needed to draft a government Bill in relation to the particular issue of fundamental legislative principles. This chapter also considers fundamental legislative principles from the perspective of subordinate legislation."
+ },
+ {
+  "id": "7-1-introduction",
+  "level": 3,
+  "title": "7.1 Introduction"
+ },
+ {
+  "id": "7-1-1-what-are-fundamental-legislative-principles",
+  "level": 5,
+  "title": "7.1.1 What are fundamental legislative principles?"
+ },
+ {
+  "id": "7-1-2-considering-fundamental-legislative-principles",
+  "level": 5,
+  "title": "7.1.2 Considering fundamental legislative principles"
+ },
+ {
+  "id": "7-1-3-modifying-or-abrogating-fundamental-legislative-princi",
+  "level": 5,
+  "title": "7.1.3 Modifying or abrogating fundamental legislative principles: the principle of legality"
+ },
+ {
+  "id": "7-2-the-rights-and-liberties-of-individuals",
+  "level": 3,
+  "title": "7.2 The rights and liberties of individuals"
+ },
+ {
+  "id": "7-2-1-does-the-legislation-make-rights-and-liberties-or-obli",
+  "level": 5,
+  "title": "7.2.1 Does the legislation make rights and liberties, or obligations, dependent on administrative power only if the power is sufficiently defined and subject to appropriate review?"
+ },
+ {
+  "id": "7-2-2-is-the-legislation-consistent-with-principles-of-natur",
+  "level": 5,
+  "title": "7.2.2 Is the legislation consistent with principles of natural justice?"
+ },
+ {
+  "id": "right-to-be-heard",
+  "level": 5,
+  "title": "Right to be heard"
+ },
+ {
+  "id": "absence-of-bias",
+  "level": 5,
+  "title": "Absence of bias"
+ },
+ {
+  "id": "procedural-fairness",
+  "level": 5,
+  "title": "Procedural fairness"
+ },
+ {
+  "id": "7-2-3-does-the-legislation-allow-the-delegation-of-administr",
+  "level": 5,
+  "title": "7.2.3 Does the legislation allow the delegation of administrative power only in appropriate cases and to appropriate persons?"
+ },
+ {
+  "id": "7-2-4-does-the-legislation-provide-for-the-reversal-of-the-o",
+  "level": 5,
+  "title": "7.2.4 Does the legislation provide for the reversal of the onus of proof in criminal proceedings without adequate justification?"
+ },
+ {
+  "id": "7-2-5-does-the-legislation-confer-power-to-enter-premises-an",
+  "level": 5,
+  "title": "7.2.5 Does the legislation confer power to enter premises, and search for or seize documents or other property, only with a warrant issued by a judge or other judicial officer?"
+ },
+ {
+  "id": "7-2-6-does-the-legislation-provide-appropriate-protection-ag",
+  "level": 5,
+  "title": "7.2.6 Does the legislation provide appropriate protection against self-incrimination?"
+ },
+ {
+  "id": "7-2-7-does-the-legislation-adversely-affect-rights-and-liber",
+  "level": 5,
+  "title": "7.2.7 Does the legislation adversely affect rights and liberties, or impose obligations, retrospectively?"
+ },
+ {
+  "id": "7-2-8-does-the-legislation-confer-immunity-from-proceeding-o",
+  "level": 5,
+  "title": "7.2.8 Does the legislation confer immunity from proceeding or prosecution without adequate justification?"
+ },
+ {
+  "id": "7-2-9-does-the-legislation-provide-for-the-compulsory-acquis",
+  "level": 5,
+  "title": "7.2.9 Does the legislation provide for the compulsory acquisition of property only with fair compensation?"
+ },
+ {
+  "id": "7-2-10-does-the-legislation-have-sufficient-regard-to-aborig",
+  "level": 5,
+  "title": "7.2.10 Does the legislation have sufficient regard to Aboriginal tradition and Island custom?"
+ },
+ {
+  "id": "7-2-11-is-the-legislation-unambiguous-and-drafted-in-a-suffi",
+  "level": 5,
+  "title": "7.2.11 Is the legislation unambiguous and drafted in a sufficiently clear and precise way?"
+ },
+ {
+  "id": "7-2-12-does-the-legislation-in-all-other-respects-have-suffi",
+  "level": 5,
+  "title": "7.2.12 Does the legislation in all other respects have sufficient regard to the rights and liberties of individuals?"
+ },
+ {
+  "id": "7-3-the-institution-of-parliament",
+  "level": 3,
+  "title": "7.3 The institution of Parliament"
+ },
+ {
+  "id": "7-3-1-does-the-legislation-allow-the-delegation-of-legislati",
+  "level": 5,
+  "title": "7.3.1 Does the legislation allow the delegation of legislative power only in appropriate cases and to appropriate persons?"
+ },
+ {
+  "id": "7-3-2-does-the-legislation-sufficiently-subject-the-exercise",
+  "level": 5,
+  "title": "7.3.2 Does the legislation sufficiently subject the exercise of a delegated legislative power to the scrutiny of the Legislative Assembly?"
+ },
+ {
+  "id": "7-3-3-does-the-legislation-authorise-the-amendment-of-an-act",
+  "level": 5,
+  "title": "7.3.3 Does the legislation authorise the amendment of an Act only by another Act?"
+ },
+ {
+  "id": "7-3-4-for-subordinate-legislation-is-the-legislation-within-",
+  "level": 5,
+  "title": "7.3.4 For subordinate legislation, is the legislation within the power that, under an Act or subordinate legislation (the authorising law), allows the subordinate legislation to be made?"
+ },
+ {
+  "id": "7-3-5-for-subordinate-legislation-is-the-legislation-consist",
+  "level": 5,
+  "title": "7.3.5 For subordinate legislation, is the legislation consistent with the policy objectives of the authorising law?"
+ },
+ {
+  "id": "7-3-6-for-subordinate-legislation-does-the-legislation-conta",
+  "level": 5,
+  "title": "7.3.6 For subordinate legislation, does the legislation contain only matter appropriate to subordinate legislation?"
+ },
+ {
+  "id": "7-3-7-for-subordinate-legislation-does-the-legislation-amend",
+  "level": 5,
+  "title": "7.3.7 For subordinate legislation, does the legislation amend statutory instruments only?"
+ },
+ {
+  "id": "7-3-8-for-subordinate-legislation-does-the-legislation-appro",
+  "level": 5,
+  "title": "7.3.8 For subordinate legislation, does the legislation appropriately subdelegate a power delegated by an Act?"
+ },
+ {
+  "id": "7-3-9-does-the-legislation-in-all-other-respects-have-suffic",
+  "level": 5,
+  "title": "7.3.9 Does the legislation in all other respects have sufficient regard to the institution of Parliament?"
+ },
+ {
+  "id": "7-4-an-example-of-the-application-of-fundamental-legislative",
+  "level": 3,
+  "title": "7.4 An example of the application of fundamental legislative principles— inspectorial powers"
+ },
+ {
+  "id": "8-1-human-rights-protected-under-the-act",
+  "level": 3,
+  "title": "8.1 Human rights protected under the Act"
+ },
+ {
+  "id": "division-2-civil-and-political-rights-right-to-recognition-a",
+  "level": 5,
+  "title": "Division 2: Civil and Political Rights Right to recognition and equality before the law"
+ },
+ {
+  "id": "section-15-articles-16-26-iccpr",
+  "level": 5,
+  "title": "Section 15 | Articles 16 & 26 ICCPR"
+ },
+ {
+  "id": "right-to-life",
+  "level": 5,
+  "title": "Right to life"
+ },
+ {
+  "id": "section-16-article-6-iccpr",
+  "level": 5,
+  "title": "Section 16 | Article 6 ICCPR"
+ },
+ {
+  "id": "protection-from-torture-and-cruel-inhuman-or-degrading-treat",
+  "level": 5,
+  "title": "Protection from torture and cruel, inhuman or degrading treatment"
+ },
+ {
+  "id": "section-17-article-7-iccpr",
+  "level": 5,
+  "title": "Section 17 | Article 7 ICCPR"
+ },
+ {
+  "id": "freedom-from-forced-work",
+  "level": 5,
+  "title": "Freedom from forced work"
+ },
+ {
+  "id": "section-18-article-8-iccpr",
+  "level": 5,
+  "title": "Section 18 | Article 8 ICCPR"
+ },
+ {
+  "id": "freedom-of-movement",
+  "level": 5,
+  "title": "Freedom of movement"
+ },
+ {
+  "id": "section-19-article-12-iccpr",
+  "level": 5,
+  "title": "Section 19 | Article 12 ICCPR"
+ },
+ {
+  "id": "freedom-of-thought-conscience-religion-and-belief",
+  "level": 5,
+  "title": "Freedom of thought, conscience, religion and belief"
+ },
+ {
+  "id": "section-20-article-18-iccpr",
+  "level": 5,
+  "title": "Section 20 | Article 18 ICCPR"
+ },
+ {
+  "id": "freedom-of-expression",
+  "level": 5,
+  "title": "Freedom of expression"
+ },
+ {
+  "id": "section-21-article-19-iccpr",
+  "level": 5,
+  "title": "Section 21 | Article 19 ICCPR"
+ },
+ {
+  "id": "peaceful-assembly-and-freedom-of-association",
+  "level": 5,
+  "title": "Peaceful assembly and freedom of association"
+ },
+ {
+  "id": "section-22-articles-21-22-iccpr",
+  "level": 5,
+  "title": "Section 22 | Articles 21 & 22 ICCPR"
+ },
+ {
+  "id": "taking-part-in-public-life",
+  "level": 5,
+  "title": "Taking part in public life"
+ },
+ {
+  "id": "section-23-article-25-iccpr",
+  "level": 5,
+  "title": "Section 23 | Article 25 ICCPR"
+ },
+ {
+  "id": "property-rights",
+  "level": 5,
+  "title": "Property rights"
+ },
+ {
+  "id": "section-24-article-17-udhr",
+  "level": 5,
+  "title": "Section 24 | Article 17 UDHR"
+ },
+ {
+  "id": "privacy-and-reputation",
+  "level": 5,
+  "title": "Privacy and reputation"
+ },
+ {
+  "id": "section-25-article-17-iccpr",
+  "level": 5,
+  "title": "Section 25 | Article 17 ICCPR"
+ },
+ {
+  "id": "protection-of-families-and-children",
+  "level": 5,
+  "title": "Protection of families and children"
+ },
+ {
+  "id": "section-26-articles-23-1-24-1-iccpr",
+  "level": 5,
+  "title": "Section 26 | Articles 23(1) & 24(1) ICCPR"
+ },
+ {
+  "id": "cultural-rights-generally",
+  "level": 5,
+  "title": "Cultural rights – generally"
+ },
+ {
+  "id": "section-27-article-27-iccpr",
+  "level": 5,
+  "title": "Section 27 | Article 27 ICCPR"
+ },
+ {
+  "id": "cultural-rights-aboriginal-peoples-and-torres-strait-islande",
+  "level": 5,
+  "title": "Cultural rights – Aboriginal peoples and Torres Strait Islander peoples"
+ },
+ {
+  "id": "section-28-articles-8-25-29-31-undrip",
+  "level": 5,
+  "title": "Section 28 | Articles 8, 25, 29, & 31 UNDRIP"
+ },
+ {
+  "id": "right-to-liberty-and-security-of-person",
+  "level": 5,
+  "title": "Right to liberty and security of person"
+ },
+ {
+  "id": "section-29-article-9-iccpr",
+  "level": 5,
+  "title": "Section 29 | Article 9 ICCPR"
+ },
+ {
+  "id": "humane-treatment-when-deprived-of-liberty",
+  "level": 5,
+  "title": "Humane treatment when deprived of liberty"
+ },
+ {
+  "id": "section-30-articles-10-1-10-2-a-iccpr",
+  "level": 5,
+  "title": "Section 30 | Articles 10(1) & 10(2)(a) ICCPR"
+ },
+ {
+  "id": "fair-hearing",
+  "level": 5,
+  "title": "Fair hearing"
+ },
+ {
+  "id": "section-31-article-14-1-iccpr",
+  "level": 5,
+  "title": "Section 31 | Article 14(1) ICCPR"
+ },
+ {
+  "id": "rights-in-criminal-proceedings",
+  "level": 5,
+  "title": "Rights in criminal proceedings"
+ },
+ {
+  "id": "section-32-article-14-iccpr",
+  "level": 5,
+  "title": "Section 32 | Article 14 ICCPR"
+ },
+ {
+  "id": "children-in-the-criminal-process",
+  "level": 5,
+  "title": "Children in the criminal process"
+ },
+ {
+  "id": "section-33-articles-10-2-b-10-3-iccpr",
+  "level": 5,
+  "title": "Section 33 | Articles 10(2)(b) & 10(3) ICCPR"
+ },
+ {
+  "id": "right-not-to-be-tried-or-punished-more-than-once",
+  "level": 5,
+  "title": "Right not to be tried or punished more than once"
+ },
+ {
+  "id": "section-34-article-14-7-iccpr",
+  "level": 5,
+  "title": "Section 34 | Article 14(7) ICCPR"
+ },
+ {
+  "id": "retrospective-criminal-laws",
+  "level": 5,
+  "title": "Retrospective criminal laws"
+ },
+ {
+  "id": "section-35-article-15-iccpr",
+  "level": 5,
+  "title": "Section 35 | Article 15 ICCPR"
+ },
+ {
+  "id": "division-3-economic-social-and-cultural-rights-right-to-educ",
+  "level": 5,
+  "title": "Division 3: Economic, Social and Cultural Rights Right to education"
+ },
+ {
+  "id": "section-36-article-13-icescr",
+  "level": 5,
+  "title": "Section 36 | Article 13 ICESCR"
+ },
+ {
+  "id": "right-to-health-services",
+  "level": 5,
+  "title": "Right to health services"
+ },
+ {
+  "id": "section-37-article-12-icescr",
+  "level": 5,
+  "title": "Section 37 | Article 12 ICESCR"
+ },
+ {
+  "id": "appendix",
+  "level": 2,
+  "title": "Appendix"
+ },
+ {
+  "id": "the-policy",
+  "level": 2,
+  "title": "THE POLICY"
+ },
+ {
+  "id": "draft-bill",
+  "level": 2,
+  "title": "DRAFT BILL"
+ },
+ {
+  "id": "a-bill-for-an-act",
+  "level": 2,
+  "title": "A BILL FOR AN ACT"
+ },
+ {
+  "id": "the-act",
+  "level": 2,
+  "title": "THE ACT"
+ },
+ {
+  "id": "the-law",
+  "level": 2,
+  "title": "THE LAW"
+ },
+ {
+  "id": "the-making-of-an-act-of-parliament",
+  "level": 2,
+  "title": "The Making of an Act of Parliament"
+ },
+ {
+  "id": "the-legislative-process",
+  "level": 2,
+  "title": "The Legislative Process"
+ },
+ {
+  "id": "for-ordinary-non-urgent-government-bills-having-passage-in-t",
+  "level": 5,
+  "title": "(For ordinary non-urgent Government Bills having passage in the ‘normal’ way)"
+ },
+ {
+  "id": "glossary",
+  "level": 2,
+  "title": "Glossary"
+ },
+ {
+  "id": "cabinet-legislation-and-liaison-officer-cllo-the-liaison",
+  "level": 5,
+  "title": "Cabinet legislation and liaison officer (CLLO). The liaison"
+ },
+ {
+  "id": "index-a",
+  "level": 2,
+  "title": "Index A"
+ },
+ {
+  "id": "act-of-parliament",
+  "level": 5,
+  "title": "Act of Parliament"
+ },
+ {
+  "id": "b",
+  "level": 2,
+  "title": "B"
+ },
+ {
+  "id": "bill-for-an-act",
+  "level": 5,
+  "title": "Bill (for an Act)"
+ },
+ {
+  "id": "c",
+  "level": 2,
+  "title": "C"
+ },
+ {
+  "id": "central-agencies",
+  "level": 5,
+  "title": "central agencies"
+ },
+ {
+  "id": "d",
+  "level": 2,
+  "title": "D"
+ },
+ {
+  "id": "drafting-including-drafting-process",
+  "level": 5,
+  "title": "drafting (including drafting process)"
+ },
+ {
+  "id": "e",
+  "level": 2,
+  "title": "E"
+ },
+ {
+  "id": "explanatory-notes",
+  "level": 5,
+  "title": "explanatory notes"
+ },
+ {
+  "id": "f",
+  "level": 2,
+  "title": "F"
+ },
+ {
+  "id": "fundamental-legislative-principles",
+  "level": 5,
+  "title": "fundamental legislative principles"
+ },
+ {
+  "id": "g",
+  "level": 2,
+  "title": "G"
+ },
+ {
+  "id": "h",
+  "level": 2,
+  "title": "H"
+ },
+ {
+  "id": "i",
+  "level": 2,
+  "title": "I"
+ },
+ {
+  "id": "j",
+  "level": 2,
+  "title": "J"
+ },
+ {
+  "id": "l",
+  "level": 2,
+  "title": "L"
+ },
+ {
+  "id": "legislation",
+  "level": 5,
+  "title": "legislation"
+ },
+ {
+  "id": "m",
+  "level": 2,
+  "title": "M"
+ },
+ {
+  "id": "n",
+  "level": 2,
+  "title": "N"
+ },
+ {
+  "id": "o",
+  "level": 2,
+  "title": "O"
+ },
+ {
+  "id": "office-of-the-queensland-parliamentary-counsel-oqpc",
+  "level": 5,
+  "title": "Office of the Queensland Parliamentary Counsel (OQPC)"
+ },
+ {
+  "id": "p",
+  "level": 2,
+  "title": "P"
+ },
+ {
+  "id": "parliament-of-queensland",
+  "level": 5,
+  "title": "Parliament of Queensland"
+ },
+ {
+  "id": "policy",
+  "level": 5,
+  "title": "policy"
+ },
+ {
+  "id": "q",
+  "level": 2,
+  "title": "Q"
+ },
+ {
+  "id": "r",
+  "level": 2,
+  "title": "R"
+ },
+ {
+  "id": "s",
+  "level": 2,
+  "title": "S"
+ },
+ {
+  "id": "subordinate-legislation",
+  "level": 5,
+  "title": "subordinate legislation"
+ },
+ {
+  "id": "t",
+  "level": 2,
+  "title": "T"
+ },
+ {
+  "id": "timetable",
+  "level": 5,
+  "title": "timetable"
+ },
+ {
+  "id": "u",
+  "level": 2,
+  "title": "U"
+ },
+ {
+  "id": "w",
+  "level": 2,
+  "title": "W"
+ },
+ {
+  "id": "y",
+  "level": 2,
+  "title": "Y"
+ },
+ {
+  "id": "endnotes",
+  "level": 2,
+  "title": "Endnotes"
+ }
+]

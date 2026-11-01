@@ -1,0 +1,457 @@
+[
+ {
+  "id": "agency-guide-rule-writers",
+  "level": 2,
+  "title": "AGENCY GUIDE RULE WRITERS"
+ },
+ {
+  "id": "contact",
+  "level": 5,
+  "title": "CONTACT"
+ },
+ {
+  "id": "address",
+  "level": 5,
+  "title": "ADDRESS"
+ },
+ {
+  "id": "rhode-island-rules-and-regulations",
+  "level": 5,
+  "title": "RHODE ISLAND RULES AND REGULATIONS"
+ },
+ {
+  "id": "what-is-the-rhode-island-code-of-regulations",
+  "level": 5,
+  "title": "What is the Rhode Island Code of Regulations?"
+ },
+ {
+  "id": "what-is-the-administrative-records-office",
+  "level": 5,
+  "title": "What is the Administrative Records Office?"
+ },
+ {
+  "id": "what-is-the-administrative-procedures-act",
+  "level": 5,
+  "title": "What is the Administrative Procedures Act?"
+ },
+ {
+  "id": "what-are-an-agency-s-responsibilities",
+  "level": 5,
+  "title": "What are an agency’s responsibilities?"
+ },
+ {
+  "id": "what-do-the-omb-and-the-aro-review",
+  "level": 5,
+  "title": "What do the OMB and the ARO review?"
+ },
+ {
+  "id": "what-is-content",
+  "level": 5,
+  "title": "What is “Content”?"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 4,
+  "title": "Table of Contents"
+ },
+ {
+  "id": "1-administrative-records-6",
+  "level": 5,
+  "title": "1 ADMINISTRATIVE RECORDS ........................................................................................... 6"
+ },
+ {
+  "id": "2-rhode-island-code-of-regulations-11",
+  "level": 5,
+  "title": "2 RHODE ISLAND CODE OF REGULATIONS ................................................................. 11"
+ },
+ {
+  "id": "4-formatting-regulations-19",
+  "level": 5,
+  "title": "4 FORMATTING REGULATIONS ....................................................................................... 19"
+ },
+ {
+  "id": "administrative-records",
+  "level": 2,
+  "title": "ADMINISTRATIVE RECORDS"
+ },
+ {
+  "id": "1-1-history-of-rhode-island-regulations",
+  "level": 4,
+  "title": "1.1 History of Rhode Island Regulations"
+ },
+ {
+  "id": "1-2-administrative-records-definitions",
+  "level": 4,
+  "title": "1.2 Administrative Records Definitions"
+ },
+ {
+  "id": "rhode-island-code-of-regulations",
+  "level": 2,
+  "title": "RHODE ISLAND CODE OF REGULATIONS"
+ },
+ {
+  "id": "2-1-about-the-ricr",
+  "level": 4,
+  "title": "2.1 About the RICR"
+ },
+ {
+  "id": "100-ricr-40-15-1",
+  "level": 3,
+  "title": "100-RICR-40-15-1"
+ },
+ {
+  "id": "2-2-ricr-classification-system",
+  "level": 4,
+  "title": "2.2 RICR Classification System"
+ },
+ {
+  "id": "2-2-1-title",
+  "level": 5,
+  "title": "2.2.1 Title"
+ },
+ {
+  "id": "100-ricr-40-15-1-2",
+  "level": 3,
+  "title": "100-RICR-40-15-1"
+ },
+ {
+  "id": "2-2-2-chapter",
+  "level": 5,
+  "title": "2.2.2 Chapter"
+ },
+ {
+  "id": "100-ricr-40-15-1-3",
+  "level": 3,
+  "title": "100-RICR-40-15-1"
+ },
+ {
+  "id": "2-2-3-subchapter",
+  "level": 5,
+  "title": "2.2.3 Subchapter"
+ },
+ {
+  "id": "100-ricr-40-15-1-4",
+  "level": 3,
+  "title": "100-RICR-40-15-1"
+ },
+ {
+  "id": "2-2-4-part",
+  "level": 5,
+  "title": "2.2.4 Part"
+ },
+ {
+  "id": "100-ricr-40-15-1-5",
+  "level": 3,
+  "title": "100-RICR-40-15-1"
+ },
+ {
+  "id": "2-2-5-section",
+  "level": 5,
+  "title": "2.2.5 Section"
+ },
+ {
+  "id": "100-ricr-40-15-1-2-b-3-e-2-a-ii",
+  "level": 3,
+  "title": "100-RICR-40-15-1.2(B)(3)(e)(2)(A)(ii)"
+ },
+ {
+  "id": "writing-regulations",
+  "level": 2,
+  "title": "WRITING REGULATIONS"
+ },
+ {
+  "id": "3-1-regulation-drafting-guidance",
+  "level": 4,
+  "title": "3.1 Regulation Drafting Guidance"
+ },
+ {
+  "id": "3-2-apa-requirements",
+  "level": 4,
+  "title": "3.2 APA Requirements"
+ },
+ {
+  "id": "3-2-1-petition-for-promulgation-of-rules",
+  "level": 5,
+  "title": "3.2.1 Petition for Promulgation of Rules"
+ },
+ {
+  "id": "3-2-2-petition-for-declaratory-order",
+  "level": 5,
+  "title": "3.2.2 Petition for Declaratory Order"
+ },
+ {
+  "id": "3-2-3-conduct-of-public-hearings",
+  "level": 5,
+  "title": "3.2.3 Conduct of Public Hearings"
+ },
+ {
+  "id": "3-2-4-concise-explanatory-statement",
+  "level": 5,
+  "title": "3.2.4 Concise Explanatory Statement"
+ },
+ {
+  "id": "formatting-regulations",
+  "level": 2,
+  "title": "FORMATTING REGULATIONS"
+ },
+ {
+  "id": "4-1-required-formatting",
+  "level": 4,
+  "title": "4.1 Required Formatting"
+ },
+ {
+  "id": "4-1-1-track-changes",
+  "level": 5,
+  "title": "4.1.1 Track Changes"
+ },
+ {
+  "id": "4-1-1-1-track-changes-faq",
+  "level": 5,
+  "title": "4.1.1.1 Track Changes FAQ"
+ },
+ {
+  "id": "4-1-2-ricr-template",
+  "level": 5,
+  "title": "4.1.2 RICR Template"
+ },
+ {
+  "id": "document-requirements",
+  "level": 5,
+  "title": "Document Requirements:"
+ },
+ {
+  "id": "margin-requirements",
+  "level": 5,
+  "title": "Margin Requirements:"
+ },
+ {
+  "id": "font-requirements",
+  "level": 5,
+  "title": "Font Requirements:"
+ },
+ {
+  "id": "4-1-2-1-proposed-adoptions",
+  "level": 5,
+  "title": "4.1.2.1 Proposed Adoptions"
+ },
+ {
+  "id": "4-1-2-2-proposed-amendments",
+  "level": 5,
+  "title": "4.1.2.2 Proposed Amendments"
+ },
+ {
+  "id": "4-1-2-3-proposed-repeals",
+  "level": 5,
+  "title": "4.1.2.3 Proposed Repeals"
+ },
+ {
+  "id": "4-1-2-4-final-regulations",
+  "level": 5,
+  "title": "4.1.2.4 Final Regulations"
+ },
+ {
+  "id": "4-1-3-ricr-styles",
+  "level": 5,
+  "title": "4.1.3 RICR Styles"
+ },
+ {
+  "id": "4-1-3-1-required-styles",
+  "level": 5,
+  "title": "4.1.3.1 Required Styles"
+ },
+ {
+  "id": "4-1-3-2-using-styles",
+  "level": 5,
+  "title": "4.1.3.2 Using Styles"
+ },
+ {
+  "id": "4-1-3-3-style-exceptions",
+  "level": 5,
+  "title": "4.1.3.3 Style Exceptions"
+ },
+ {
+  "id": "4-1-3-4-ricr-styles-faq",
+  "level": 5,
+  "title": "4.1.3.4 RICR Styles FAQ"
+ },
+ {
+  "id": "4-1-4-section-enumeration-designations",
+  "level": 5,
+  "title": "4.1.4 Section Enumeration Designations"
+ },
+ {
+  "id": "4-1-4-1-adding-enumeration-designations",
+  "level": 5,
+  "title": "4.1.4.1 Adding Enumeration Designations"
+ },
+ {
+  "id": "4-1-5-verify-required-formatting",
+  "level": 5,
+  "title": "4.1.5 Verify Required Formatting"
+ },
+ {
+  "id": "4-1-6-file-naming-conventions",
+  "level": 5,
+  "title": "4.1.6 File Naming Conventions"
+ },
+ {
+  "id": "4-2-permitted-formatting",
+  "level": 4,
+  "title": "4.2 Permitted Formatting"
+ },
+ {
+  "id": "4-2-1-citations",
+  "level": 5,
+  "title": "4.2.1 Citations"
+ },
+ {
+  "id": "4-2-1-1-direct-citation-vs-incorporation-by-reference",
+  "level": 5,
+  "title": "4.2.1.1 Direct Citation vs Incorporation by Reference"
+ },
+ {
+  "id": "4-2-1-2-incorporation-by-reference",
+  "level": 5,
+  "title": "4.2.1.2 Incorporation by Reference"
+ },
+ {
+  "id": "4-2-1-2-1-how-to-incorporate-materials-by-reference",
+  "level": 5,
+  "title": "4.2.1.2.1 How to Incorporate Materials by Reference"
+ },
+ {
+  "id": "example-incorporated-materials-section",
+  "level": 5,
+  "title": "Example Incorporated Materials Section:"
+ },
+ {
+  "id": "4-2-1-2-2-how-to-cite-incorporated-materials",
+  "level": 5,
+  "title": "4.2.1.2.2 How to Cite Incorporated Materials"
+ },
+ {
+  "id": "4-2-1-3-direct-citation-formats",
+  "level": 5,
+  "title": "4.2.1.3 Direct Citation Formats"
+ },
+ {
+  "id": "4-2-1-3-1-ricr-same-title",
+  "level": 5,
+  "title": "4.2.1.3.1 RICR: Same Title"
+ },
+ {
+  "id": "4-2-1-3-2-ricr-different-title",
+  "level": 5,
+  "title": "4.2.1.3.2 RICR: Different Title"
+ },
+ {
+  "id": "4-2-1-3-1-rhode-island-statutes",
+  "level": 5,
+  "title": "4.2.1.3.1 Rhode Island Statutes"
+ },
+ {
+  "id": "4-2-1-3-2-rhode-island-public-laws",
+  "level": 5,
+  "title": "4.2.1.3.2 Rhode Island Public Laws"
+ },
+ {
+  "id": "4-2-1-3-3-code-of-federal-regulations",
+  "level": 5,
+  "title": "4.2.1.3.3 Code of Federal Regulations"
+ },
+ {
+  "id": "4-2-1-3-4-united-states-code",
+  "level": 5,
+  "title": "4.2.1.3.4 United States Code"
+ },
+ {
+  "id": "4-2-1-3-5-federal-public-laws",
+  "level": 5,
+  "title": "4.2.1.3.5 Federal Public Laws"
+ },
+ {
+  "id": "4-2-1-3-6-all-other-citations",
+  "level": 5,
+  "title": "4.2.1.3.6 All Other Citations"
+ },
+ {
+  "id": "4-2-2-definitions",
+  "level": 5,
+  "title": "4.2.2 Definitions"
+ },
+ {
+  "id": "4-2-3-graphics-figures-images-and-maps",
+  "level": 5,
+  "title": "4.2.3 Graphics, Figures, Images, and Maps"
+ },
+ {
+  "id": "4-2-4-hyperlinks",
+  "level": 5,
+  "title": "4.2.4 Hyperlinks"
+ },
+ {
+  "id": "4-2-5-table-of-contents",
+  "level": 5,
+  "title": "4.2.5 Table of Contents"
+ },
+ {
+  "id": "4-2-6-tables",
+  "level": 5,
+  "title": "4.2.6 Tables"
+ },
+ {
+  "id": "4-2-6-1-adding-tables",
+  "level": 5,
+  "title": "4.2.6.1 Adding Tables"
+ },
+ {
+  "id": "4-2-6-2-fixing-tables",
+  "level": 5,
+  "title": "4.2.6.2 Fixing Tables"
+ },
+ {
+  "id": "4-3-prohibited-formatting",
+  "level": 4,
+  "title": "4.3 Prohibited Formatting"
+ },
+ {
+  "id": "4-3-1-automatic-numbering",
+  "level": 5,
+  "title": "4.3.1 Automatic Numbering"
+ },
+ {
+  "id": "4-3-2-bulleted-lists",
+  "level": 5,
+  "title": "4.3.2 Bulleted Lists"
+ },
+ {
+  "id": "4-3-3-enumerations-within-paragraphs",
+  "level": 5,
+  "title": "4.3.3 Enumerations Within Paragraphs"
+ },
+ {
+  "id": "4-3-4-headers-footers",
+  "level": 5,
+  "title": "4.3.4 Headers/Footers"
+ },
+ {
+  "id": "4-3-5-manual-alignment-spacing",
+  "level": 5,
+  "title": "4.3.5 Manual Alignment & Spacing"
+ },
+ {
+  "id": "4-3-6-manual-emphasized-text",
+  "level": 5,
+  "title": "4.3.6 Manual Emphasized Text"
+ },
+ {
+  "id": "4-3-7-page-numbers",
+  "level": 5,
+  "title": "4.3.7 Page Numbers"
+ },
+ {
+  "id": "4-3-8-watermarks",
+  "level": 5,
+  "title": "4.3.8 Watermarks"
+ }
+]

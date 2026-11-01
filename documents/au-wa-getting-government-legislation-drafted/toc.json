@@ -1,0 +1,357 @@
+[
+ {
+  "id": "department-of-justice-parliamentary-counsel-s-office",
+  "level": 2,
+  "title": "Department of Justice Parliamentary Counsel’s Office"
+ },
+ {
+  "id": "getting-government-legislation-drafted-and-enacted",
+  "level": 2,
+  "title": "Getting Government Legislation Drafted and Enacted"
+ },
+ {
+  "id": "guidelines-and-procedures",
+  "level": 2,
+  "title": "Guidelines and Procedures"
+ },
+ {
+  "id": "parliamentary-counsel-s-office-pco-drafts-all-government-bil",
+  "level": 3,
+  "title": "Parliamentary Counsel’s Office (PCO) drafts all Government Bills and all amendments to Bills required by Ministers during passage through Parliament. PCO also drafts — • regulations, rules, by-laws and other instruments of a legislative nature; and • various Executive Council minutes, proclamations, orders, commissions, warrants and other instruments."
+ },
+ {
+  "id": "consult-pco-about-whether-or-not-pco-drafts-a-particular-ins",
+  "level": 3,
+  "title": "Consult PCO about whether or not PCO drafts a particular instrument."
+ },
+ {
+  "id": "this-document-explains-the-process-by-which-government-legis",
+  "level": 3,
+  "title": "This document explains the process by which Government legislation (both Bills and subsidiary legislation) gets drafted and enacted and sets out the roles and responsibilities that PCO and officers of departments and organisations have in this process."
+ },
+ {
+  "id": "for-an-explanation-of-the-legislative-drafting-services-avai",
+  "level": 3,
+  "title": "For an explanation of the legislative drafting services available from PCO to non-Government parties and groups in Parliament and private Members, see Getting Private Member’s Legislation Drafted and Enacted, available at Getting Private Members Legislation Drafted and Enacted"
+ },
+ {
+  "id": "further-inquiries-about-these-matters-can-be-directed-to-pco",
+  "level": 3,
+  "title": "Further inquiries about these matters can be directed to PCO. Contact details are set out on the next page."
+ },
+ {
+  "id": "draft-8-may-2026",
+  "level": 3,
+  "title": "Draft: 8 May 2026"
+ },
+ {
+  "id": "contacting-parliamentary-counsel-s-office-pco",
+  "level": 2,
+  "title": "Contacting Parliamentary Counsel’s Office (PCO)"
+ },
+ {
+  "id": "street-address",
+  "level": 3,
+  "title": "Street address"
+ },
+ {
+  "id": "parliamentary-counsel-and-government-printer-andrew-jones-em",
+  "level": 3,
+  "title": "Parliamentary Counsel and Government Printer Andrew Jones email: Andrew.Jones@pco.wa.gov.au"
+ },
+ {
+  "id": "director-legislation-services-john-seal-pollard-email-john-s",
+  "level": 3,
+  "title": "Director, Legislation Services John Seal-Pollard email: John.Seal-Pollard@pco.wa.gov.au"
+ },
+ {
+  "id": "table-of-contents-abbreviations-and-references-1",
+  "level": 2,
+  "title": "Table of Contents Abbreviations and references ..................................................... 1"
+ },
+ {
+  "id": "a-acts-of-parliament-2",
+  "level": 2,
+  "title": "A. Acts of Parliament .................................................................. 2"
+ },
+ {
+  "id": "appendix-a1-process-for-drafting-and-enacting-government-bil",
+  "level": 4,
+  "title": "Appendix A1 — Process for drafting and enacting Government Bills............................... 11 Appendix A2 — Legislation Standing Committee of Cabinet (LSCC) .............................. 12"
+ },
+ {
+  "id": "b-subsidiary-legislation-regulations-etc-14",
+  "level": 2,
+  "title": "B. Subsidiary legislation (regulations etc.) ............................. 14"
+ },
+ {
+  "id": "appendix-b1-process-for-drafting-and-making-subsidiary-legis",
+  "level": 4,
+  "title": "Appendix B1 — Process for drafting and making subsidiary legislation .......................... 18 Appendix B2 — Publication of Subsidiary legislation on the WALW or in the Gazette .. 19"
+ },
+ {
+  "id": "abbreviations-and-references",
+  "level": 2,
+  "title": "Abbreviations and references"
+ },
+ {
+  "id": "a-acts-of-parliament",
+  "level": 2,
+  "title": "A. Acts of Parliament"
+ },
+ {
+  "id": "1-the-need-for-legislation",
+  "level": 3,
+  "title": "1. The need for legislation"
+ },
+ {
+  "id": "2-formulation-of-government-s-legislative-program",
+  "level": 3,
+  "title": "2. Formulation of Government’s legislative program"
+ },
+ {
+  "id": "3-developing-a-proposal-for-legislation",
+  "level": 3,
+  "title": "3. Developing a proposal for legislation"
+ },
+ {
+  "id": "4-proposal-put-to-cabinet-by-minister-responsible",
+  "level": 3,
+  "title": "4. Proposal put to Cabinet by Minister responsible"
+ },
+ {
+  "id": "5-drafting-instructions-for-the-proposed-legislation",
+  "level": 3,
+  "title": "5. Drafting instructions for the proposed legislation"
+ },
+ {
+  "id": "dos",
+  "level": 3,
+  "title": "DOs —"
+ },
+ {
+  "id": "don-ts",
+  "level": 3,
+  "title": "DON’Ts —"
+ },
+ {
+  "id": "6-cabinet-approves-the-drafting-of-the-proposed-legislation",
+  "level": 3,
+  "title": "6. Cabinet approves the drafting of the proposed legislation"
+ },
+ {
+  "id": "7-pco-to-be-requested-to-draft",
+  "level": 3,
+  "title": "7. PCO to be requested to draft"
+ },
+ {
+  "id": "8-the-proposed-legislation-must-have-a-drafting-priority",
+  "level": 3,
+  "title": "8. The proposed legislation must have a drafting priority"
+ },
+ {
+  "id": "9-the-proposed-legislation-is-drafted-by-pco",
+  "level": 3,
+  "title": "9. The proposed legislation is drafted by PCO"
+ },
+ {
+  "id": "10-role-of-the-instructor-in-the-drafting-process",
+  "level": 3,
+  "title": "10. Role of the instructor in the drafting process"
+ },
+ {
+  "id": "11-draft-bill-put-to-cabinet-for-approval-to-print-by-respon",
+  "level": 3,
+  "title": "11. Draft Bill put to Cabinet for approval to print by responsible Minister"
+ },
+ {
+  "id": "12-cabinet-approves-the-bill-s-printing-for-introduction-and",
+  "level": 3,
+  "title": "12. Cabinet approves the Bill’s printing for introduction and notifies PCO"
+ },
+ {
+  "id": "13-amendments-resulting-from-briefings-for-government-or-opp",
+  "level": 3,
+  "title": "13. Amendments resulting from briefings for Government or Opposition MPs"
+ },
+ {
+  "id": "14-printing-the-bill",
+  "level": 3,
+  "title": "14. Printing the Bill"
+ },
+ {
+  "id": "15-introduction-and-passage-through-parliament",
+  "level": 3,
+  "title": "15. Introduction and passage through Parliament"
+ },
+ {
+  "id": "16-assent",
+  "level": 3,
+  "title": "16. Assent"
+ },
+ {
+  "id": "17-publication-of-an-act",
+  "level": 3,
+  "title": "17. Publication of an Act"
+ },
+ {
+  "id": "18-commencement-of-an-act",
+  "level": 3,
+  "title": "18. Commencement of an Act"
+ },
+ {
+  "id": "19-proclamation",
+  "level": 3,
+  "title": "19. Proclamation"
+ },
+ {
+  "id": "20-publication-of-amended-versions-of-acts",
+  "level": 3,
+  "title": "20. Publication of amended versions of Acts"
+ },
+ {
+  "id": "21-reprints-of-acts-historical",
+  "level": 3,
+  "title": "21. Reprints of Acts (historical)"
+ },
+ {
+  "id": "22-editorial-changes-to-acts",
+  "level": 3,
+  "title": "22. Editorial changes to Acts"
+ },
+ {
+  "id": "appendix-a1-process-for-drafting-and-enacting-government-bil-2",
+  "level": 3,
+  "title": "Appendix A1 — Process for drafting and enacting Government Bills"
+ },
+ {
+  "id": "appendix-a2-legislation-standing-committee-of-cabinet-lscc",
+  "level": 3,
+  "title": "Appendix A2 — Legislation Standing Committee of Cabinet (LSCC)"
+ },
+ {
+  "id": "role",
+  "level": 3,
+  "title": "Role"
+ },
+ {
+  "id": "priority-code-description",
+  "level": 4,
+  "title": "PRIORITY CODE DESCRIPTION"
+ },
+ {
+  "id": "membership",
+  "level": 3,
+  "title": "Membership"
+ },
+ {
+  "id": "other-attendees",
+  "level": 3,
+  "title": "Other attendees"
+ },
+ {
+  "id": "matters-referred-to-lscc",
+  "level": 3,
+  "title": "Matters referred to LSCC"
+ },
+ {
+  "id": "frequency-of-meetings",
+  "level": 3,
+  "title": "Frequency of meetings"
+ },
+ {
+  "id": "amalgamation-of-amendments",
+  "level": 3,
+  "title": "Amalgamation of amendments"
+ },
+ {
+  "id": "repeals-and-minor-amendments",
+  "level": 3,
+  "title": "Repeals and minor amendments"
+ },
+ {
+  "id": "b-subsidiary-legislation-regulations-etc",
+  "level": 2,
+  "title": "B. Subsidiary legislation (regulations etc.)"
+ },
+ {
+  "id": "1-need-for-subsidiary-legislation",
+  "level": 3,
+  "title": "1. Need for subsidiary legislation"
+ },
+ {
+  "id": "2-developing-a-proposal-for-subsidiary-legislation",
+  "level": 3,
+  "title": "2. Developing a proposal for subsidiary legislation"
+ },
+ {
+  "id": "3-approval-for-drafting",
+  "level": 3,
+  "title": "3. Approval for drafting"
+ },
+ {
+  "id": "4-drafting-instructions",
+  "level": 3,
+  "title": "4. Drafting instructions"
+ },
+ {
+  "id": "5-pco-to-be-requested-to-draft",
+  "level": 3,
+  "title": "5. PCO to be requested to draft"
+ },
+ {
+  "id": "6-drafting-subsidiary-legislation",
+  "level": 3,
+  "title": "6. Drafting subsidiary legislation"
+ },
+ {
+  "id": "7-role-of-instructing-officer",
+  "level": 3,
+  "title": "7. Role of instructing officer"
+ },
+ {
+  "id": "8-making-subsidiary-legislation",
+  "level": 3,
+  "title": "8. Making subsidiary legislation"
+ },
+ {
+  "id": "9-publication",
+  "level": 3,
+  "title": "9. Publication"
+ },
+ {
+  "id": "instruments-must-not-tie-commencement-or-any-other-aspect-of",
+  "level": 4,
+  "title": "instruments must not tie commencement or any other aspect of the"
+ },
+ {
+  "id": "10-consideration-by-parliament",
+  "level": 3,
+  "title": "10. Consideration by Parliament"
+ },
+ {
+  "id": "11-publication-of-new-and-amended-versions-of-subsidiary-leg",
+  "level": 3,
+  "title": "11. Publication of new and amended versions of subsidiary legislation"
+ },
+ {
+  "id": "12-reprints-of-subsidiary-legislation",
+  "level": 3,
+  "title": "12. Reprints of subsidiary legislation"
+ },
+ {
+  "id": "appendix-b1-process-for-drafting-and-making-subsidiary-legis-2",
+  "level": 3,
+  "title": "Appendix B1 — Process for drafting and making subsidiary legislation"
+ },
+ {
+  "id": "appendix-b2-publication-of-subsidiary-legislation-on-the-wal",
+  "level": 3,
+  "title": "Appendix B2 — Publication of Subsidiary legislation on the WALW or in the Gazette"
+ },
+ {
+  "id": "if-the-instrument-when-made-must-be-published-on-the-walw-or",
+  "level": 4,
+  "title": "If the instrument, when made, must be published on the WALW or in the Gazette:"
+ }
+]

@@ -1,0 +1,682 @@
+[
+ {
+  "id": "legislation-drafting-manual",
+  "level": 2,
+  "title": "LEGISLATION DRAFTING MANUAL"
+ },
+ {
+  "id": "concise-version",
+  "level": 2,
+  "title": "Concise Version"
+ },
+ {
+  "id": "research-legislation-lso",
+  "level": 3,
+  "title": "Research & Legislation, LSO"
+ },
+ {
+  "id": "contents",
+  "level": 3,
+  "title": "Contents"
+ },
+ {
+  "id": "preface",
+  "level": 3,
+  "title": "PREFACE"
+ },
+ {
+  "id": "general",
+  "level": 3,
+  "title": "GENERAL"
+ },
+ {
+  "id": "sources-of-legislation",
+  "level": 3,
+  "title": "SOURCES OF LEGISLATION"
+ },
+ {
+  "id": "idaho-code",
+  "level": 5,
+  "title": "Idaho Code"
+ },
+ {
+  "id": "bills-of-past-sessions",
+  "level": 5,
+  "title": "Bills of Past Sessions"
+ },
+ {
+  "id": "bills-of-the-current-session",
+  "level": 5,
+  "title": "Bills of the Current Session"
+ },
+ {
+  "id": "existing-idaho-code-statutes",
+  "level": 5,
+  "title": "Existing Idaho Code Statutes"
+ },
+ {
+  "id": "laws-of-other-states",
+  "level": 5,
+  "title": "Laws of Other States"
+ },
+ {
+  "id": "uniform-and-model-acts",
+  "level": 5,
+  "title": "Uniform and Model Acts"
+ },
+ {
+  "id": "legal-requirements-for-bills-definition-of-a-bill",
+  "level": 3,
+  "title": "LEGAL REQUIREMENTS FOR BILLS Definition of a Bill"
+ },
+ {
+  "id": "enacting-clause",
+  "level": 3,
+  "title": "Enacting Clause"
+ },
+ {
+  "id": "section-1-article-iii-idaho-constitution-and-joint-rule-2",
+  "level": 5,
+  "title": "(Section 1, Article III, Idaho Constitution and Joint Rule 2.)"
+ },
+ {
+  "id": "plain-words",
+  "level": 3,
+  "title": "Plain Words"
+ },
+ {
+  "id": "unity-of-subject-and-title",
+  "level": 3,
+  "title": "Unity of Subject and Title"
+ },
+ {
+  "id": "section-16-article-iii-idaho-constitution",
+  "level": 5,
+  "title": "(Section 16, Article III, Idaho Constitution)"
+ },
+ {
+  "id": "section-67-514-idaho-code",
+  "level": 5,
+  "title": "(Section 67-514, Idaho Code)"
+ },
+ {
+  "id": "amending-the-idaho-constitution",
+  "level": 3,
+  "title": "Amending the Idaho Constitution"
+ },
+ {
+  "id": "amending-statutes-in-a-bill",
+  "level": 3,
+  "title": "Amending Statutes in a Bill"
+ },
+ {
+  "id": "section-18-article-iii-of-the-idaho-constitution",
+  "level": 5,
+  "title": "(Section 18, Article III, of the Idaho Constitution)"
+ },
+ {
+  "id": "house-rule-28-and-senate-rule-18",
+  "level": 5,
+  "title": "(House Rule 28 and Senate Rule 18)"
+ },
+ {
+  "id": "adding-a-code-section",
+  "level": 3,
+  "title": "Adding a Code Section"
+ },
+ {
+  "id": "repealing-a-code-section",
+  "level": 3,
+  "title": "Repealing a Code Section"
+ },
+ {
+  "id": "effective-dates",
+  "level": 3,
+  "title": "Effective Dates"
+ },
+ {
+  "id": "section-22-article-iii-of-the-idaho-constitution-states",
+  "level": 5,
+  "title": " Section 22, Article III, of the Idaho Constitution states:"
+ },
+ {
+  "id": "severability-clause",
+  "level": 3,
+  "title": "Severability Clause"
+ },
+ {
+  "id": "declaration-of-legislative-intent-or-purpose",
+  "level": 3,
+  "title": "Declaration of Legislative Intent or Purpose"
+ },
+ {
+  "id": "statutory-terms-defined",
+  "level": 3,
+  "title": "Statutory Terms Defined"
+ },
+ {
+  "id": "bill-introduction-deadlines",
+  "level": 3,
+  "title": "BILL INTRODUCTION DEADLINES"
+ },
+ {
+  "id": "personal-bill-deadlines-20th-day-in-the-house-12th-day-in-th",
+  "level": 5,
+  "title": "Personal Bill Deadlines 20th Day in the House; 12th Day in the Senate"
+ },
+ {
+  "id": "committee-deadlines-36th-day-in-house-and-senate-unless-priv",
+  "level": 5,
+  "title": "Committee Deadlines 36th Day in House and Senate Unless Privileged"
+ },
+ {
+  "id": "education-revenue-and-taxation-and-ways-and-means-in-the-sen",
+  "level": 5,
+  "title": "Education, Revenue and Taxation, and Ways and Means. In the Senate, the privileged committees are: State Affairs, Finance, and Judiciary and Rules. Other"
+ },
+ {
+  "id": "legislative-process-for-legislation",
+  "level": 3,
+  "title": "LEGISLATIVE PROCESS FOR LEGISLATION"
+ },
+ {
+  "id": "first-reading",
+  "level": 5,
+  "title": "First Reading"
+ },
+ {
+  "id": "second-reading",
+  "level": 5,
+  "title": "Second Reading"
+ },
+ {
+  "id": "third-reading",
+  "level": 5,
+  "title": "Third Reading"
+ },
+ {
+  "id": "final-voting",
+  "level": 5,
+  "title": "Final Voting"
+ },
+ {
+  "id": "senate-action-on-house-bills",
+  "level": 5,
+  "title": "Senate Action on House Bills"
+ },
+ {
+  "id": "committee-of-the-whole",
+  "level": 5,
+  "title": "Committee of the Whole"
+ },
+ {
+  "id": "governor-s-action",
+  "level": 5,
+  "title": "Governor's Action"
+ },
+ {
+  "id": "legislature-may-override-governor-s-veto",
+  "level": 5,
+  "title": "Legislature May Override Governor’s Veto"
+ },
+ {
+  "id": "idaho-constitution-and-section-67-503-idaho-code",
+  "level": 5,
+  "title": "Idaho Constitution and Section 67-503, Idaho Code)"
+ },
+ {
+  "id": "technical-aspects-of-bill-drafting",
+  "level": 3,
+  "title": "TECHNICAL ASPECTS OF BILL DRAFTING"
+ },
+ {
+  "id": "repeal-when-repealing-a-code-section-use-the-repealer-clause",
+  "level": 3,
+  "title": "Repeal -- When repealing a code section, use the repealer clause:"
+ },
+ {
+  "id": "amend-when-amending-a-code-section-set-out-the-entire-code-s",
+  "level": 3,
+  "title": "Amend – When amending a code section, set out the entire code section. Add -- When adding a new section, set it out in its"
+ },
+ {
+  "id": "remember",
+  "level": 2,
+  "title": "Remember:"
+ },
+ {
+  "id": "no-bolding-no-bullets-no-multiple-fonts",
+  "level": 3,
+  "title": " No bolding, no bullets, no multiple fonts"
+ },
+ {
+  "id": "what-are-technical-corrections",
+  "level": 2,
+  "title": "What are Technical Corrections?"
+ },
+ {
+  "id": "bill-drafting-checklists",
+  "level": 3,
+  "title": "BILL DRAFTING CHECKLISTS"
+ },
+ {
+  "id": "checklist-for-bill-drafting-structure",
+  "level": 2,
+  "title": "Checklist for Bill Drafting – Structure"
+ },
+ {
+  "id": "title-o-includes-all-code-sections-amended-added-and-repeale",
+  "level": 2,
+  "title": " Title o Includes all code sections amended, added and repealed within the bill o Ascending order for code sections o References all clauses within the bill  Enacting clause (double check wording)  Current version of code sections  Code section placement  Numbering of subsections, paragraphs, etc.  Material to be deleted -- Strike-through  New material - Underscore  Catchlines -- Informative but short  Definitions -- Alphabetical order  Special constitutional and statutory provisions  Penalty provisions  Severability clause  Emergency clause  Effective date  Default is July 1  Other date as specified  Retroactive to January 1 for tax provisions based on calendar years (all retro effective dates require emergency clause)  Sunset Clause"
+ },
+ {
+  "id": "checklist-for-bill-drafting-content",
+  "level": 2,
+  "title": "Checklist for Bill Drafting -- Content"
+ },
+ {
+  "id": "is-the-title-short-yet-clearly-expressive-of-the-subject-mat",
+  "level": 2,
+  "title": " Is the title short, yet clearly expressive of the subject matter of the bill?"
+ },
+ {
+  "id": "is-the-enacting-clause-expressed-correctly",
+  "level": 2,
+  "title": " Is the enacting clause expressed correctly?"
+ },
+ {
+  "id": "are-words-used-consistently-with-their-definitions-throughou",
+  "level": 2,
+  "title": " Are words used consistently with their definitions throughout the bill? Are words defined but never used in the bill?"
+ },
+ {
+  "id": "is-the-bill-written-in-a-clear-style-and-divided-properly-in",
+  "level": 2,
+  "title": " Is the bill written in a clear style and divided properly into sections and subsections?"
+ },
+ {
+  "id": "are-the-substantive-parts-of-the-bill-logically-arranged",
+  "level": 2,
+  "title": " Are the substantive parts of the bill logically arranged?"
+ },
+ {
+  "id": "does-the-bill-accomplish-its-intended-purposes",
+  "level": 2,
+  "title": " Does the bill accomplish its intended purposes?"
+ },
+ {
+  "id": "if-the-bill-affects-existing-laws-are-its-provisions-properl",
+  "level": 2,
+  "title": " If the bill affects existing laws, are its provisions properly integrated with those laws so that no conflict will arise in interpretation or administration?"
+ },
+ {
+  "id": "are-all-statutory-references-in-the-bill-accurate",
+  "level": 2,
+  "title": " Are all statutory references in the bill accurate?"
+ },
+ {
+  "id": "are-all-conflicting-statutes-specifically-repealed-or-revise",
+  "level": 2,
+  "title": " Are all conflicting statutes specifically repealed or revised?"
+ },
+ {
+  "id": "does-the-bill-need-a-different-effective-date-than-july-1-if",
+  "level": 2,
+  "title": " Does the bill need a different effective date than July 1? If yes, does the bill contain the necessary words for that effective date?"
+ },
+ {
+  "id": "statements-of-purpose-and-fiscal-notes",
+  "level": 3,
+  "title": "STATEMENTS OF PURPOSE AND FISCAL NOTES"
+ },
+ {
+  "id": "drafting-guide-for-statements-of-purpose-and-fiscal-notes-is",
+  "level": 2,
+  "title": "Drafting Guide for Statements of Purpose and Fiscal Notes is available at: https://legislature.idaho.gov/resources/sopdraftingguide/"
+ },
+ {
+  "id": "style-guide",
+  "level": 3,
+  "title": "STYLE GUIDE"
+ },
+ {
+  "id": "bill-structure",
+  "level": 4,
+  "title": "Bill Structure"
+ },
+ {
+  "id": "begin-logically",
+  "level": 5,
+  "title": "Begin Logically"
+ },
+ {
+  "id": "catchlines-short-but-informative",
+  "level": 5,
+  "title": "Catchlines — Short but Informative"
+ },
+ {
+  "id": "numbering-and-format-within-a-statute",
+  "level": 5,
+  "title": "Numbering and Format within a Statute"
+ },
+ {
+  "id": "section-subdivision-and-paragraph-length",
+  "level": 5,
+  "title": "Section, Subdivision and Paragraph Length"
+ },
+ {
+  "id": "bill-language",
+  "level": 4,
+  "title": "Bill Language"
+ },
+ {
+  "id": "active-voice-passive-voice",
+  "level": 5,
+  "title": "Active Voice/Passive Voice"
+ },
+ {
+  "id": "capitalization",
+  "level": 5,
+  "title": "Capitalization"
+ },
+ {
+  "id": "capitalize",
+  "level": 5,
+  "title": " Capitalize"
+ },
+ {
+  "id": "lowercase",
+  "level": 5,
+  "title": " Lowercase"
+ },
+ {
+  "id": "conditions-and-exceptions-in-statutes",
+  "level": 5,
+  "title": "Conditions and Exceptions in Statutes"
+ },
+ {
+  "id": "intrusive-phrases-and-clauses",
+  "level": 5,
+  "title": "Intrusive Phrases and Clauses"
+ },
+ {
+  "id": "modifiers",
+  "level": 5,
+  "title": "Modifiers"
+ },
+ {
+  "id": "noun-strings",
+  "level": 5,
+  "title": "Noun Strings"
+ },
+ {
+  "id": "overdrafting",
+  "level": 5,
+  "title": "Overdrafting"
+ },
+ {
+  "id": "parallel-form",
+  "level": 5,
+  "title": "Parallel Form"
+ },
+ {
+  "id": "person",
+  "level": 5,
+  "title": "Person"
+ },
+ {
+  "id": "present-tense",
+  "level": 5,
+  "title": "Present Tense"
+ },
+ {
+  "id": "avoid-preferred",
+  "level": 5,
+  "title": "Avoid: Preferred:"
+ },
+ {
+  "id": "provisos-exceptions-limitations",
+  "level": 5,
+  "title": "Provisos – EXCEPTIONS - LIMITATIONS"
+ },
+ {
+  "id": "punctuation",
+  "level": 5,
+  "title": "Punctuation"
+ },
+ {
+  "id": "sentences-within-sentences",
+  "level": 5,
+  "title": "Sentences within Sentences"
+ },
+ {
+  "id": "shall-must-and-may",
+  "level": 5,
+  "title": "Shall, Must and May"
+ },
+ {
+  "id": "short-sentences",
+  "level": 5,
+  "title": "Short Sentences"
+ },
+ {
+  "id": "numbers-the-repeat-rule",
+  "level": 5,
+  "title": "Numbers The Repeat Rule"
+ },
+ {
+  "id": "section",
+  "level": 5,
+  "title": "$$ $$ $$"
+ },
+ {
+  "id": "word-use-guide",
+  "level": 4,
+  "title": "Word Use Guide"
+ },
+ {
+  "id": "avoid-preferred-2",
+  "level": 5,
+  "title": "Avoid: Preferred:"
+ },
+ {
+  "id": "use-necessary-and-understandable-words-present-tense-and-the",
+  "level": 3,
+  "title": "Use  Necessary and understandable words  Present tense and the active voice  Words consistently"
+ },
+ {
+  "id": "keep-sentences-brief-and-limit-them-to-a-single-thought-new-",
+  "level": 3,
+  "title": "Keep  Sentences brief and limit them to a single thought  New statutory sections as short as possible"
+ },
+ {
+  "id": "avoid-unnecessary-legalese-or-redundant-legal-phrases-slang-",
+  "level": 3,
+  "title": "Avoid  Unnecessary legalese or redundant legal phrases  Slang and acronyms  ―‖Should‖ or ―can‖"
+ },
+ {
+  "id": "the-tricky-ones",
+  "level": 5,
+  "title": "The Tricky Ones"
+ },
+ {
+  "id": "and-or-avoid-and-or",
+  "level": 5,
+  "title": "“And” “Or” Avoid “and/or”"
+ },
+ {
+  "id": "chapter-and-act",
+  "level": 5,
+  "title": "“Chapter” and “Act”"
+ },
+ {
+  "id": "fund-funds-and-moneys",
+  "level": 5,
+  "title": "“Fund,” “Funds” and “Moneys”"
+ },
+ {
+  "id": "provision-referring-to-part-of-a-statute",
+  "level": 5,
+  "title": "“Provision” (Referring to Part of a Statute)"
+ },
+ {
+  "id": "such-or-said-avoid-use",
+  "level": 5,
+  "title": "“Such” or “Said” Avoid use"
+ },
+ {
+  "id": "therefore-and-therefor-avoid-use",
+  "level": 5,
+  "title": "“Therefore” and “Therefor” Avoid use"
+ },
+ {
+  "id": "through",
+  "level": 5,
+  "title": "“Through”"
+ },
+ {
+  "id": "which-and-that",
+  "level": 5,
+  "title": "“Which” and “That”"
+ },
+ {
+  "id": "words-in-depth",
+  "level": 5,
+  "title": "Words in Depth"
+ },
+ {
+  "id": "acronyms",
+  "level": 5,
+  "title": "Acronyms"
+ },
+ {
+  "id": "time-abbreviations",
+  "level": 5,
+  "title": "Time Abbreviations"
+ },
+ {
+  "id": "legal-land-descriptions",
+  "level": 5,
+  "title": "Legal Land Descriptions"
+ },
+ {
+  "id": "familiar-words",
+  "level": 5,
+  "title": "Familiar Words"
+ },
+ {
+  "id": "avoid-preferred-3",
+  "level": 5,
+  "title": "Avoid: Preferred:"
+ },
+ {
+  "id": "gender-neutral-language",
+  "level": 5,
+  "title": "Gender-Neutral Language"
+ },
+ {
+  "id": "jargon",
+  "level": 5,
+  "title": "Jargon"
+ },
+ {
+  "id": "references-citations",
+  "level": 5,
+  "title": "References/Citations"
+ },
+ {
+  "id": "synonyms-and-consistent-terms",
+  "level": 5,
+  "title": "Synonyms and Consistent Terms"
+ },
+ {
+  "id": "reference-resources",
+  "level": 5,
+  "title": "Reference Resources"
+ },
+ {
+  "id": "grammar-guides",
+  "level": 5,
+  "title": "Grammar Guides"
+ },
+ {
+  "id": "glossary",
+  "level": 3,
+  "title": "GLOSSARY"
+ },
+ {
+  "id": "resolutions",
+  "level": 5,
+  "title": "Resolutions:"
+ },
+ {
+  "id": "https-legislature-idaho-gov-resources-sopdraftingguide",
+  "level": 3,
+  "title": "https://legislature.idaho.gov/resources/sopdraftingguide/"
+ },
+ {
+  "id": "examples",
+  "level": 3,
+  "title": "EXAMPLES"
+ },
+ {
+  "id": "bills",
+  "level": 4,
+  "title": "Bills"
+ },
+ {
+  "id": "note-the-striking-and-underscoring-on-line-11",
+  "level": 3,
+  "title": " Note the striking and underscoring on line 11"
+ },
+ {
+  "id": "note-the-simple-effective-date-clause-in-section-2",
+  "level": 3,
+  "title": " Note the simple effective date clause in Section 2"
+ },
+ {
+  "id": "note-the-striking-and-underscoring-starting-on-line-32-save-",
+  "level": 5,
+  "title": " Note the striking and underscoring starting on line 32  Save as many words from the Idaho Code as possible"
+ },
+ {
+  "id": "unique-effective-date-clauses",
+  "level": 4,
+  "title": "Unique Effective Date Clauses"
+ },
+ {
+  "id": "see-example-2-for-a-simple-effective-date",
+  "level": 5,
+  "title": " See Example 2 for a Simple Effective Date"
+ },
+ {
+  "id": "see-example-1-for-simple-emergency-clause",
+  "level": 5,
+  "title": "See Example 1 for Simple Emergency Clause"
+ },
+ {
+  "id": "simple-resolutions",
+  "level": 4,
+  "title": "Simple Resolutions"
+ },
+ {
+  "id": "concurrent-resolutions",
+  "level": 4,
+  "title": "Concurrent Resolutions"
+ },
+ {
+  "id": "joint-resolution",
+  "level": 4,
+  "title": "Joint Resolution"
+ },
+ {
+  "id": "memorials",
+  "level": 4,
+  "title": "Memorials"
+ },
+ {
+  "id": "proclamations",
+  "level": 4,
+  "title": "Proclamations"
+ }
+]

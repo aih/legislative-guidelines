@@ -1,0 +1,162 @@
+[
+ {
+  "id": "gesetzestechnische-richtlinien",
+  "level": 2,
+  "title": "Gesetzestechnische Richtlinien"
+ },
+ {
+  "id": "1-abschnitt-kopfzeile",
+  "level": 2,
+  "title": "1. Abschnitt: Kopfzeile"
+ },
+ {
+  "id": "2-abschnitt-erlasstitel",
+  "level": 2,
+  "title": "2. Abschnitt: Erlasstitel"
+ },
+ {
+  "id": "i-allgemein",
+  "level": 3,
+  "title": "I. Allgemein"
+ },
+ {
+  "id": "ii-abkürzungen",
+  "level": 3,
+  "title": "II. Abkürzungen"
+ },
+ {
+  "id": "3-abschnitt-ingress",
+  "level": 2,
+  "title": "3. Abschnitt: Ingress"
+ },
+ {
+  "id": "4-abschnitt-formale-gliederung",
+  "level": 2,
+  "title": "4. Abschnitt: Formale Gliederung"
+ },
+ {
+  "id": "i-gliederungseinheiten",
+  "level": 3,
+  "title": "I. Gliederungseinheiten"
+ },
+ {
+  "id": "ii-gliederung-und-gestaltung-der-artikel",
+  "level": 3,
+  "title": "II. Gliederung und Gestaltung der Artikel"
+ },
+ {
+  "id": "iii-kommissionen-art-23",
+  "level": 3,
+  "title": "III. Kommissionen Art. 23"
+ },
+ {
+  "id": "iv-die-verwaltung",
+  "level": 3,
+  "title": "IV. Die Verwaltung"
+ },
+ {
+  "id": "5-abschnitt-aufbau-der-erlasse",
+  "level": 2,
+  "title": "5. Abschnitt: Aufbau der Erlasse"
+ },
+ {
+  "id": "i-einleitungsteil",
+  "level": 3,
+  "title": "I. Einleitungsteil"
+ },
+ {
+  "id": "ii-hauptteil",
+  "level": 3,
+  "title": "II. Hauptteil"
+ },
+ {
+  "id": "iii-schlussbestimmungen",
+  "level": 3,
+  "title": "III. Schlussbestimmungen"
+ },
+ {
+  "id": "6-abschnitt-schlussbestimmungen",
+  "level": 2,
+  "title": "6. Abschnitt: Schlussbestimmungen"
+ },
+ {
+  "id": "i-aufhebung-und-änderung-bisherigen-rechts",
+  "level": 3,
+  "title": "I. Aufhebung und Änderung bisherigen Rechts"
+ },
+ {
+  "id": "ii-referendum-und-inkrafttreten",
+  "level": 3,
+  "title": "II. Referendum und Inkrafttreten"
+ },
+ {
+  "id": "7-abschnitt-einzelfragen",
+  "level": 2,
+  "title": "7. Abschnitt: Einzelfragen"
+ },
+ {
+  "id": "i-sprache",
+  "level": 3,
+  "title": "I. Sprache"
+ },
+ {
+  "id": "ii-aufzählungen",
+  "level": 3,
+  "title": "II. Aufzählungen"
+ },
+ {
+  "id": "iii-zitierung",
+  "level": 3,
+  "title": "III. Zitierung"
+ },
+ {
+  "id": "iv-fussnoten",
+  "level": 3,
+  "title": "IV. Fussnoten"
+ },
+ {
+  "id": "v-binnenverweisungen",
+  "level": 3,
+  "title": "V. Binnenverweisungen"
+ },
+ {
+  "id": "vi-aussenverweisungen",
+  "level": 3,
+  "title": "VI. Aussenverweisungen"
+ },
+ {
+  "id": "vii-erlasse-die-nur-mit-abkürzung-zitiert-werden",
+  "level": 3,
+  "title": "VII. Erlasse, die nur mit Abkürzung zitiert werden"
+ },
+ {
+  "id": "viii-anhang",
+  "level": 3,
+  "title": "VIII. Anhang"
+ },
+ {
+  "id": "anhang-1-technische-grenzwerte1",
+  "level": 3,
+  "title": "Anhang 1: Technische Grenzwerte1)"
+ },
+ {
+  "id": "ix-inhaltsverzeichnis",
+  "level": 3,
+  "title": "IX. Inhaltsverzeichnis"
+ },
+ {
+  "id": "8-abschnitt-änderungen-von-erlassen-änderungserlasse",
+  "level": 2,
+  "title": "8. Abschnitt: Änderungen von Erlassen (Änderungserlasse)"
+ },
+ {
+  "id": "verordnung-zum-bundesgesetz-vom-13-oktober-1965-über-die-ver",
+  "level": 3,
+  "title": "Verordnung zum Bundesgesetz vom 13. Oktober 1965 über die Verrechnungssteuer Änderung vom 7. Januar 2002"
+ },
+ {
+  "id": "9-abschnitt-vollzug-und-inkrafttreten",
+  "level": 2,
+  "title": "9. Abschnitt: Vollzug und Inkrafttreten"
+ }
+]

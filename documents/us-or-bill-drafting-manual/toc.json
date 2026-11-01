@@ -1,0 +1,872 @@
+[
+ {
+  "id": "bill-drafting-manual",
+  "level": 2,
+  "title": "BILL DRAFTING MANUAL"
+ },
+ {
+  "id": "prepared-primarily-for-use-by-staff-members-of-the-legislati",
+  "level": 2,
+  "title": "prepared primarily for use by staff members of the Legislative Counsel’s office"
+ },
+ {
+  "id": "foreword",
+  "level": 2,
+  "title": "FOREWORD"
+ },
+ {
+  "id": "summary-of-contents",
+  "level": 3,
+  "title": "SUMMARY OF CONTENTS"
+ },
+ {
+  "id": "introduction",
+  "level": 2,
+  "title": "INTRODUCTION"
+ },
+ {
+  "id": "section",
+  "level": 2,
+  "title": "* * *"
+ },
+ {
+  "id": "section-2",
+  "level": 2,
+  "title": "* * *"
+ },
+ {
+  "id": "section-3",
+  "level": 2,
+  "title": "* * *"
+ },
+ {
+  "id": "section-4",
+  "level": 2,
+  "title": "* * *"
+ },
+ {
+  "id": "chapter-one",
+  "level": 3,
+  "title": "CHAPTER ONE"
+ },
+ {
+  "id": "the-bill-drafter",
+  "level": 2,
+  "title": "THE BILL DRAFTER"
+ },
+ {
+  "id": "chapter-two",
+  "level": 3,
+  "title": "CHAPTER TWO"
+ },
+ {
+  "id": "steps-in-drafting-a-bill",
+  "level": 2,
+  "title": "STEPS IN DRAFTING A BILL"
+ },
+ {
+  "id": "chapter-three",
+  "level": 3,
+  "title": "CHAPTER THREE"
+ },
+ {
+  "id": "style-and-grammar",
+  "level": 2,
+  "title": "STYLE AND GRAMMAR"
+ },
+ {
+  "id": "for-example",
+  "level": 3,
+  "title": "For example:"
+ },
+ {
+  "id": "another-example",
+  "level": 3,
+  "title": "Another example:"
+ },
+ {
+  "id": "don-t",
+  "level": 3,
+  "title": "DON’T"
+ },
+ {
+  "id": "do",
+  "level": 3,
+  "title": "DO"
+ },
+ {
+  "id": "singular-plural",
+  "level": 3,
+  "title": "Singular Plural"
+ },
+ {
+  "id": "capitalize",
+  "level": 3,
+  "title": "CAPITALIZE:"
+ },
+ {
+  "id": "do-not-capitalize",
+  "level": 3,
+  "title": "DO NOT CAPITALIZE:"
+ },
+ {
+  "id": "commas-and-the-last-antecedent",
+  "level": 3,
+  "title": "Commas and the last antecedent:"
+ },
+ {
+  "id": "i-citing-ballot-measures",
+  "level": 3,
+  "title": "i. Citing Ballot Measures"
+ },
+ {
+  "id": "j-citing-within-bill",
+  "level": 3,
+  "title": "j. Citing Within Bill"
+ },
+ {
+  "id": "chapter-four",
+  "level": 3,
+  "title": "CHAPTER FOUR"
+ },
+ {
+  "id": "specific-words-and-phrases",
+  "level": 2,
+  "title": "SPECIFIC WORDS AND PHRASES"
+ },
+ {
+  "id": "avoid-use",
+  "level": 3,
+  "title": "AVOID: USE:"
+ },
+ {
+  "id": "avoid-use-2",
+  "level": 3,
+  "title": "AVOID: USE:"
+ },
+ {
+  "id": "avoid-use-3",
+  "level": 3,
+  "title": "AVOID: USE:"
+ },
+ {
+  "id": "chapter-five",
+  "level": 3,
+  "title": "CHAPTER FIVE"
+ },
+ {
+  "id": "title-preamble-enacting-clause",
+  "level": 2,
+  "title": "TITLE; PREAMBLE; ENACTING CLAUSE"
+ },
+ {
+  "id": "be-it-enacted-by-the-people-of-the-state-of-oregon",
+  "level": 3,
+  "title": "Be It Enacted by the People of the State of Oregon:"
+ },
+ {
+  "id": "chapter-six",
+  "level": 3,
+  "title": "CHAPTER SIX"
+ },
+ {
+  "id": "organizing-a-bill",
+  "level": 2,
+  "title": "ORGANIZING A BILL"
+ },
+ {
+  "id": "chapter-seven",
+  "level": 3,
+  "title": "CHAPTER SEVEN"
+ },
+ {
+  "id": "definitions-act-names-policy-and-purpose-statements-legislat",
+  "level": 2,
+  "title": "DEFINITIONS; ACT NAMES; POLICY AND PURPOSE STATEMENTS; LEGISLATIVE FINDINGS"
+ },
+ {
+  "id": "chapter-eight",
+  "level": 3,
+  "title": "CHAPTER EIGHT"
+ },
+ {
+  "id": "administrative-provisions",
+  "level": 2,
+  "title": "ADMINISTRATIVE PROVISIONS"
+ },
+ {
+  "id": "or",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "chapter-nine",
+  "level": 3,
+  "title": "CHAPTER NINE"
+ },
+ {
+  "id": "fiscal-provisions",
+  "level": 2,
+  "title": "FISCAL PROVISIONS"
+ },
+ {
+  "id": "section-1-in-addition-to-and-not-in-lieu-of-any-other-approp",
+  "level": 3,
+  "title": "SECTION 1. In addition to and not in lieu of any other appropriation, there is appropriated to the Oregon Department of Administrative Services, for the biennium beginning July 1, 2025, out of the General Fund, the amount of $6,000,000 for distribution to Marion-Polk Food Share, Inc., a domestic"
+ },
+ {
+  "id": "chapter-ten",
+  "level": 3,
+  "title": "CHAPTER TEN"
+ },
+ {
+  "id": "special-clauses",
+  "level": 2,
+  "title": "SPECIAL CLAUSES"
+ },
+ {
+  "id": "or-2",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-3",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-4",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-5",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-6",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-7",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-8",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-9",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-10",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-11",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-12",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-13",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-14",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-15",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-16",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-17",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-18",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-19",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "chapter-eleven",
+  "level": 3,
+  "title": "CHAPTER ELEVEN"
+ },
+ {
+  "id": "penalties-and-sanctions",
+  "level": 2,
+  "title": "PENALTIES AND SANCTIONS"
+ },
+ {
+  "id": "f-criminal-forfeiture-and-oregon-racketeer-influenced-and-co",
+  "level": 3,
+  "title": "f. Criminal Forfeiture and Oregon Racketeer Influenced and Corrupt"
+ },
+ {
+  "id": "chapter-twelve",
+  "level": 3,
+  "title": "CHAPTER TWELVE"
+ },
+ {
+  "id": "double-amending-limited-duration-referendum-special-election",
+  "level": 3,
+  "title": "DOUBLE AMENDING; LIMITED DURATION; REFERENDUM; SPECIAL ELECTIONS"
+ },
+ {
+  "id": "or-20",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-21",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-22",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-23",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "h-ballot-titles",
+  "level": 3,
+  "title": "h. Ballot Titles"
+ },
+ {
+  "id": "chapter-thirteen",
+  "level": 3,
+  "title": "CHAPTER THIRTEEN"
+ },
+ {
+  "id": "creating-new-law-repeals-amendments-conflicting-amendments-a",
+  "level": 2,
+  "title": "CREATING NEW LAW; REPEALS; AMENDMENTS; CONFLICTING AMENDMENTS; ALTERNATIVES TO AMENDMENTS"
+ },
+ {
+  "id": "a-what-are-series-and-how-are-they-created",
+  "level": 3,
+  "title": "a. What are Series and How are They Created?"
+ },
+ {
+  "id": "a-definitions-the-existing-series-contains-definitions-that-",
+  "level": 3,
+  "title": "A. Definitions. The existing series contains definitions that the drafter intends to"
+ },
+ {
+  "id": "b-penalties-the-existing-series-contains-penalties-that-the-",
+  "level": 3,
+  "title": "B. Penalties. The existing series contains penalties that the drafter intends to apply"
+ },
+ {
+  "id": "c-rulemaking-authority-an-agency-is-given-rulemaking-authori",
+  "level": 3,
+  "title": "C. Rulemaking authority. An agency is given rulemaking authority that the"
+ },
+ {
+  "id": "or-24",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-25",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "h-use-of-this-act",
+  "level": 3,
+  "title": "h. Use of “this Act.”"
+ },
+ {
+  "id": "or-26",
+  "level": 3,
+  "title": "or"
+ },
+ {
+  "id": "not",
+  "level": 3,
+  "title": "NOT"
+ },
+ {
+  "id": "or-27",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-28",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "series-number-series-name-mentions-history",
+  "level": 3,
+  "title": "Series Number Series Name Mentions History"
+ },
+ {
+  "id": "statute-number-series-number",
+  "level": 3,
+  "title": "Statute Number Series Number"
+ },
+ {
+  "id": "series-number-year-note",
+  "level": 3,
+  "title": "Series Number Year Note"
+ },
+ {
+  "id": "chapter-fourteen",
+  "level": 3,
+  "title": "CHAPTER FOURTEEN"
+ },
+ {
+  "id": "adoption-by-reference-legislative-classifications",
+  "level": 2,
+  "title": "ADOPTION BY REFERENCE; LEGISLATIVE CLASSIFICATIONS"
+ },
+ {
+  "id": "or-29",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-30",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "chapter-fifteen",
+  "level": 3,
+  "title": "CHAPTER FIFTEEN"
+ },
+ {
+  "id": "special-types-of-bills",
+  "level": 2,
+  "title": "SPECIAL TYPES OF BILLS"
+ },
+ {
+  "id": "or-31",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-32",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-33",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-34",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-35",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-36",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-37",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-38",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "example",
+  "level": 3,
+  "title": "EXAMPLE:"
+ },
+ {
+  "id": "example-2",
+  "level": 3,
+  "title": "EXAMPLE:"
+ },
+ {
+  "id": "chapter-sixteen",
+  "level": 3,
+  "title": "CHAPTER SIXTEEN"
+ },
+ {
+  "id": "measures-other-than-bills",
+  "level": 2,
+  "title": "MEASURES OTHER THAN BILLS"
+ },
+ {
+  "id": "be-it-resolved-by-the-legislative-assembly-of-the-state-of-o",
+  "level": 3,
+  "title": "Be It Resolved by the Legislative Assembly of the State of Oregon:"
+ },
+ {
+  "id": "be-it-resolved-by-the-legislative-assembly-of-the-state-of-o-2",
+  "level": 3,
+  "title": "Be It Resolved by the Legislative Assembly of the State of Oregon:"
+ },
+ {
+  "id": "here-is-a-special-address-clause-used-to-memorialize-the-sen",
+  "level": 3,
+  "title": "Here is a special address clause used to memorialize the Senate of the United States of America when it goes into executive session:"
+ },
+ {
+  "id": "here-are-other-examples-of-address-clauses",
+  "level": 3,
+  "title": "Here are other examples of address clauses:"
+ },
+ {
+  "id": "the-provision-for-sending-copies-may-take-the-form-of-a-numb",
+  "level": 3,
+  "title": "The provision for sending copies may take the form of a numbered paragraph at the end of the joint memorial and should read substantially as follows:"
+ },
+ {
+  "id": "the-provision-for-sending-copies-of-a-joint-memorial-may-als",
+  "level": 3,
+  "title": "The provision for sending copies of a joint memorial may also take the following form:"
+ },
+ {
+  "id": "be-it-resolved-by-the-house-of-representatives-of-the-state-",
+  "level": 3,
+  "title": "Be It Resolved by the House of Representatives of the State of Oregon:"
+ },
+ {
+  "id": "be-it-resolved-by-the-senate-of-the-state-of-oregon",
+  "level": 3,
+  "title": "Be It Resolved by the Senate of the State of Oregon:"
+ },
+ {
+  "id": "chapter-seventeen",
+  "level": 3,
+  "title": "CHAPTER SEVENTEEN"
+ },
+ {
+  "id": "constitutional-amendments-and-revisions",
+  "level": 2,
+  "title": "CONSTITUTIONAL AMENDMENTS AND REVISIONS"
+ },
+ {
+  "id": "preamble",
+  "level": 3,
+  "title": "Preamble:"
+ },
+ {
+  "id": "resolving-clause-be-it-resolved-by-the-legislative-assembly-",
+  "level": 3,
+  "title": "Resolving Clause: Be It Resolved by the Legislative Assembly of the State of Oregon: Amending Clause:"
+ },
+ {
+  "id": "f-repeal-of-existing-section-and-amendment-of-existing-secti",
+  "level": 3,
+  "title": "f. Repeal of Existing Section and Amendment of Existing Section in Same Proposed"
+ },
+ {
+  "id": "g-repeal-of-existing-section-and-creation-of-new-sections-in",
+  "level": 3,
+  "title": "g. Repeal of Existing Section and Creation of New Sections in Same Proposed"
+ },
+ {
+  "id": "h-amendment-of-existing-sections-and-creation-of-new-section",
+  "level": 3,
+  "title": "h. Amendment of Existing Sections and Creation of New Sections in Same Proposed"
+ },
+ {
+  "id": "at-a-special-election",
+  "level": 3,
+  "title": "At a special election:"
+ },
+ {
+  "id": "be-it-resolved-by-the-legislative-assembly-of-the-state-of-o-3",
+  "level": 3,
+  "title": "Be It Resolved by the Legislative Assembly of the State of Oregon, two-thirds of all the members of each house concurring:"
+ },
+ {
+  "id": "or-39",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-40",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "chapter-eighteen",
+  "level": 3,
+  "title": "CHAPTER EIGHTEEN"
+ },
+ {
+  "id": "amendments-to-bills-and-other-measures",
+  "level": 2,
+  "title": "AMENDMENTS TO BILLS AND OTHER MEASURES"
+ },
+ {
+  "id": "amend-ors-repeal-section-bill",
+  "level": 3,
+  "title": "Amend ORS § Repeal Section# Bill#"
+ },
+ {
+  "id": "chapter-nineteen",
+  "level": 3,
+  "title": "CHAPTER NINETEEN"
+ },
+ {
+  "id": "interim-committees-task-forces-and-work-groups",
+  "level": 2,
+  "title": "INTERIM COMMITTEES, TASK FORCES AND WORK GROUPS"
+ },
+ {
+  "id": "a-boilerplate-for-an-interim-committee-created-by-a-joint-re",
+  "level": 3,
+  "title": "a. Boilerplate for an Interim Committee Created by a Joint Resolution. Use and"
+ },
+ {
+  "id": "optional-provisions-for-a-joint-resolution-that-creates-an-i",
+  "level": 3,
+  "title": "Optional provisions for a joint resolution that creates an interim committee:"
+ },
+ {
+  "id": "optional-provisions-for-a-bill-that-creates-an-interim-commi",
+  "level": 3,
+  "title": "Optional provisions for a bill that creates an interim committee:"
+ },
+ {
+  "id": "or-41",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-42",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "optional-provisions-for-a-bill-that-creates-a-legislative-ta",
+  "level": 3,
+  "title": "Optional provisions for a bill that creates a legislative task force:"
+ },
+ {
+  "id": "or-43",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-44",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "optional-provisions-for-a-bill-that-creates-a-mixed-task-for",
+  "level": 3,
+  "title": "Optional provisions for a bill that creates a mixed task force:"
+ },
+ {
+  "id": "or-45",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-46",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-47",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "optional-provisions-for-a-bill-that-creates-a-nonlegislative",
+  "level": 3,
+  "title": "Optional provisions for a bill that creates a nonlegislative task force:"
+ },
+ {
+  "id": "or-48",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-49",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "or-50",
+  "level": 3,
+  "title": "OR"
+ },
+ {
+  "id": "research-office",
+  "level": 3,
+  "title": "RESEARCH OFFICE"
+ },
+ {
+  "id": "voting-non-voting-members",
+  "level": 3,
+  "title": "Voting/Non-voting Members"
+ },
+ {
+  "id": "member-appointments",
+  "level": 3,
+  "title": "Member Appointments"
+ },
+ {
+  "id": "member-compensation",
+  "level": 3,
+  "title": "Member Compensation"
+ },
+ {
+  "id": "other-timeline-considerations",
+  "level": 3,
+  "title": "Other Timeline Considerations"
+ },
+ {
+  "id": "chapter-twenty",
+  "level": 3,
+  "title": "CHAPTER TWENTY"
+ },
+ {
+  "id": "bonding",
+  "level": 2,
+  "title": "BONDING"
+ },
+ {
+  "id": "section-1-1-for-the-biennium-beginning-july-1-2023-at-the-re",
+  "level": 3,
+  "title": "SECTION 1. (1) For the biennium beginning July 1, 2023, at the request of the Oregon Department of Administrative Services, after the department consults with the [relevant agency], the State Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that produces $__ million in net proceeds for the purposes described in subsection (2) of this section, plus an additional"
+ },
+ {
+  "id": "or-51",
+  "level": 3,
+  "title": "--OR--"
+ },
+ {
+  "id": "to-the-relevant-agency-for-deposit-in-the-odas-economic-deve",
+  "level": 3,
+  "title": "to the [relevant agency] for deposit in the ODAS Economic Development Distributions Fund established under ORS 461.553 for distribution to [recipient] for"
+ },
+ {
+  "id": "create-jobs-further-economic-development-finance-public-educ",
+  "level": 3,
+  "title": "create jobs, further economic development, finance public education or restore and protect parks, beaches, watersheds and native fish and wildlife, and is authorized based on the finding that [reasons, e.g. improving access to sports and recreation services will enhance the economic viability of the region, create jobs and improve the"
+ },
+ {
+  "id": "appendix-a-establishing-new-agency-transferring-functions-be",
+  "level": 3,
+  "title": "APPENDIX A ESTABLISHING NEW AGENCY; TRANSFERRING FUNCTIONS BETWEEN AGENCIES; ABOLISHING AGENCY; “PRIVATIZING” AGENCY"
+ },
+ {
+  "id": "appendix-b-statutes-and-constitutional-provisions-of-general",
+  "level": 3,
+  "title": "APPENDIX B STATUTES AND CONSTITUTIONAL PROVISIONS OF GENERAL APPLICATION"
+ },
+ {
+  "id": "______________",
+  "level": 3,
+  "title": "______________"
+ },
+ {
+  "id": "department-legislative-department-local-government-local-ser",
+  "level": 3,
+  "title": "department,” “legislative department,” “local government,” “local service district” and"
+ },
+ {
+  "id": "department-of-corrections-oregon-health-authority-and-depart",
+  "level": 3,
+  "title": "Department of Corrections, Oregon Health Authority and Department of Human"
+ },
+ {
+  "id": "appendix-c-special-forms-and-styles-for-use-during-a-special",
+  "level": 3,
+  "title": "APPENDIX C SPECIAL FORMS AND STYLES FOR USE DURING A SPECIAL SESSION"
+ },
+ {
+  "id": "if-the-bill-amends-a-new-section-enacted-by-an-act-of-the-re",
+  "level": 3,
+  "title": "If the bill amends a new section enacted by an Act of the regular session, the"
+ },
+ {
+  "id": "if-the-bill-repeals-a-section-enacted-or-an-ors-section-amen",
+  "level": 3,
+  "title": "If the bill repeals a section enacted or an ORS section amended by an Act of the"
+ },
+ {
+  "id": "if-the-bill-repeals-a-section-enacted-or-an-ors-section-amen-2",
+  "level": 3,
+  "title": "If the bill repeals a section enacted or an ORS section amended by a regular session"
+ },
+ {
+  "id": "if-the-bill-amends-a-section-that-was-enacted-by-the-earlier",
+  "level": 3,
+  "title": "If the bill amends a section that was enacted by the earlier special session, the"
+ },
+ {
+  "id": "appendix-e-redrafts-of-bills-from-previous-sessions",
+  "level": 3,
+  "title": "APPENDIX E REDRAFTS OF BILLS FROM PREVIOUS SESSIONS"
+ },
+ {
+  "id": "appendix-f-senate-commemorations",
+  "level": 3,
+  "title": "APPENDIX F SENATE COMMEMORATIONS"
+ },
+ {
+  "id": "oregon-state-senate",
+  "level": 3,
+  "title": "Oregon State Senate"
+ },
+ {
+  "id": "appendix-j-oregon-statutory-interpretation",
+  "level": 3,
+  "title": "APPENDIX J OREGON STATUTORY INTERPRETATION"
+ },
+ {
+  "id": "appendix-k-confidentiality-clauses-and-public-records-reques",
+  "level": 3,
+  "title": "APPENDIX K CONFIDENTIALITY CLAUSES AND PUBLIC RECORDS REQUEST EXEMPTIONS"
+ },
+ {
+  "id": "1-overview",
+  "level": 2,
+  "title": "1. OVERVIEW."
+ }
+]

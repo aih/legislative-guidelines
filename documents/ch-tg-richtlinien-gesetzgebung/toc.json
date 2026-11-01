@@ -1,0 +1,1207 @@
+[
+ {
+  "id": "richtlinien-des-kantons-thurgau-für-die-gesetzgebung",
+  "level": 2,
+  "title": "Richtlinien des Kantons Thurgau für die Gesetzgebung"
+ },
+ {
+  "id": "ausgabe-2004",
+  "level": 2,
+  "title": "Ausgabe 2004"
+ },
+ {
+  "id": "herausgegeben-von-der-staatskanzlei-des-kantons-thurgau",
+  "level": 2,
+  "title": "Herausgegeben von der Staatskanzlei des Kantons Thurgau"
+ },
+ {
+  "id": "inhaltsverzeichnis",
+  "level": 2,
+  "title": "Inhaltsverzeichnis"
+ },
+ {
+  "id": "rechtsetzung-allgemein",
+  "level": 5,
+  "title": "Rechtsetzung allgemein"
+ },
+ {
+  "id": "formelles-gestaltung",
+  "level": 5,
+  "title": "Formelles / Gestaltung"
+ },
+ {
+  "id": "einleitung",
+  "level": 2,
+  "title": "Einleitung"
+ },
+ {
+  "id": "1-rechtsetzungsorgane-und-erlassformen",
+  "level": 2,
+  "title": "1. Rechtsetzungsorgane und Erlassformen"
+ },
+ {
+  "id": "2-rechtsetzungsverfahren",
+  "level": 2,
+  "title": "2. Rechtsetzungsverfahren"
+ },
+ {
+  "id": "i-teil-departement",
+  "level": 5,
+  "title": "I. Teil: Departement"
+ },
+ {
+  "id": "ii-teil-regierungsrat",
+  "level": 5,
+  "title": "II. Teil: Regierungsrat"
+ },
+ {
+  "id": "iii-teil-grosser-rat-gesetze-und-verordnungen-des-grossen-ra",
+  "level": 5,
+  "title": "III. Teil: Grosser Rat (Gesetze und Verordnungen des Grossen Rates)"
+ },
+ {
+  "id": "iv-teil-abschluss-des-gesetzgebungsverfahrens-gesetze",
+  "level": 5,
+  "title": "IV. Teil: Abschluss des Gesetzgebungsverfahrens (Gesetze)"
+ },
+ {
+  "id": "v-teil-inkraftsetzung",
+  "level": 5,
+  "title": "V. Teil: Inkraftsetzung"
+ },
+ {
+  "id": "3-erlasstitel-und-datum",
+  "level": 2,
+  "title": "3. Erlasstitel und Datum"
+ },
+ {
+  "id": "4-erlassgliederung",
+  "level": 2,
+  "title": "4. Erlassgliederung"
+ },
+ {
+  "id": "5-paragraph",
+  "level": 2,
+  "title": "5. Paragraph"
+ },
+ {
+  "id": "6-marginalie",
+  "level": 2,
+  "title": "6. Marginalie"
+ },
+ {
+  "id": "7-einleitungsteil",
+  "level": 2,
+  "title": "7. Einleitungsteil"
+ },
+ {
+  "id": "8-hauptteil",
+  "level": 2,
+  "title": "8. Hauptteil"
+ },
+ {
+  "id": "9-schlussbestimmungen",
+  "level": 2,
+  "title": "9. Schlussbestimmungen"
+ },
+ {
+  "id": "10-unterschriften",
+  "level": 2,
+  "title": "10. Unterschriften"
+ },
+ {
+  "id": "11-anhang",
+  "level": 2,
+  "title": "11. Anhang"
+ },
+ {
+  "id": "12-formale-besonderheiten-von-änderungserlassen",
+  "level": 2,
+  "title": "12. Formale Besonderheiten von Änderungserlassen"
+ },
+ {
+  "id": "13-formale-gestaltung-von-aufhebungserlassen",
+  "level": 2,
+  "title": "13. Formale Gestaltung von Aufhebungserlassen"
+ },
+ {
+  "id": "gesetze-werden-mit-einem-aufhebungserlass-aufgehoben",
+  "level": 4,
+  "title": "Gesetze werden mit einem Aufhebungserlass aufgehoben."
+ },
+ {
+  "id": "anhang-zu-den-gesetzgebungsrichtlinien",
+  "level": 3,
+  "title": "Anhang zu den Gesetzgebungsrichtlinien"
+ },
+ {
+  "id": "musterbeispiele",
+  "level": 4,
+  "title": "Musterbeispiele:"
+ },
+ {
+  "id": "beispiel-1",
+  "level": 5,
+  "title": "Beispiel 1"
+ },
+ {
+  "id": "beispiel-2",
+  "level": 5,
+  "title": "Beispiel 2"
+ },
+ {
+  "id": "beispiel-3",
+  "level": 5,
+  "title": "Beispiel 3"
+ },
+ {
+  "id": "beispiel-4",
+  "level": 5,
+  "title": "Beispiel 4"
+ },
+ {
+  "id": "beispiel-5",
+  "level": 5,
+  "title": "Beispiel 5"
+ },
+ {
+  "id": "gesetz-über-die-ladenöffnungszeiten",
+  "level": 3,
+  "title": "Gesetz über die Ladenöffnungszeiten"
+ },
+ {
+  "id": "vom-27-februar-2002",
+  "level": 4,
+  "title": "vom 27. Februar 2002"
+ },
+ {
+  "id": "te-des-detailhandels",
+  "level": 4,
+  "title": "te des Detailhandels."
+ },
+ {
+  "id": "tailhandelsbetriebe-warenhäuser-kioske-und-andere-verkaufsst",
+  "level": 4,
+  "title": "tailhandelsbetriebe, Warenhäuser, Kioske und andere Verkaufsstellen, deren Verkaufsart dem Ladenverkauf ähnlich ist."
+ },
+ {
+  "id": "1-apotheken-für-den-notfalldienst",
+  "level": 4,
+  "title": "1. Apotheken für den Notfalldienst;"
+ },
+ {
+  "id": "2-betriebe-soweit-sie-gemäss-gastgewerbegesetz-getränke-oder",
+  "level": 4,
+  "title": "2. Betriebe, soweit sie gemäss Gastgewerbegesetz Getränke oder ge- nussfertige Speisen zum Genuss an Ort und Stelle oder zum Mit- nehmen abgeben;"
+ },
+ {
+  "id": "3-warenverkaufsautomaten-sofern-sie-nicht-im-inneren-von-ver",
+  "level": 4,
+  "title": "3. Warenverkaufsautomaten, sofern sie nicht im Inneren von Verkaufs- geschäften aufgestellt sind;"
+ },
+ {
+  "id": "4-märkte-und-messen",
+  "level": 4,
+  "title": "4. Märkte und Messen;"
+ },
+ {
+  "id": "5-museen-kunstausstellungen-kino-und-theaterbetriebe",
+  "level": 4,
+  "title": "5. Museen, Kunstausstellungen, Kino- und Theaterbetriebe."
+ },
+ {
+  "id": "5",
+  "level": 4,
+  "title": "§ 5."
+ },
+ {
+  "id": "1an-sonntagen-sind-sämtliche-verkaufsgeschäfte-geschlossen",
+  "level": 5,
+  "title": "1An Sonntagen sind sämtliche Verkaufsgeschäfte geschlossen"
+ },
+ {
+  "id": "zu-halten-unter-vorbehalt-der-in-diesem-gesetz-vorgesehenen-",
+  "level": 4,
+  "title": "zu halten, unter Vorbehalt der in diesem Gesetz vorgesehenen Ausnah- men."
+ },
+ {
+  "id": "2folgende-verkaufsstellen-dürfen-an-sonntagen-geöffnet-sein",
+  "level": 5,
+  "title": "2Folgende Verkaufsstellen dürfen an Sonntagen geöffnet sein:"
+ },
+ {
+  "id": "1-verkaufsgeschäfte-mit-einer-zusammenhängenden-für-den-verk",
+  "level": 4,
+  "title": "1. Verkaufsgeschäfte mit einer zusammenhängenden, für den Verkauf"
+ },
+ {
+  "id": "genutzten-fläche-von-höchstens-120m2-sofern-diese-fläche-zur",
+  "level": 5,
+  "title": "genutzten Fläche von höchstens 120m2, sofern diese Fläche zur"
+ },
+ {
+  "id": "hauptsache-für-den-verkauf-von-lebensmitteln-genutzt-wird",
+  "level": 4,
+  "title": "Hauptsache für den Verkauf von Lebensmitteln genutzt wird;"
+ },
+ {
+  "id": "2-blumengeschäfte-und-blumengärtnereien-zum-verkauf-von-fris",
+  "level": 4,
+  "title": "2. Blumengeschäfte und Blumengärtnereien zum Verkauf von Frisch- blumen oder Pflanzen;"
+ },
+ {
+  "id": "3-landwirtschaftsbetriebe-zum-verkauf-von-landwirtschaftlich",
+  "level": 4,
+  "title": "3. Landwirtschaftsbetriebe zum Verkauf von landwirtschaftlichen Er- zeugnissen aus eigener Produktion beim eigenen Hof;"
+ },
+ {
+  "id": "4-kioske-in-denen-lediglich-das-kiosksortiment-wie-presseerz",
+  "level": 4,
+  "title": "4. Kioske, in denen lediglich das Kiosksortiment, wie Presseerzeugnis- se, Süssigkeiten, Raucherwaren oder Souveniers angeboten wird."
+ },
+ {
+  "id": "3die-gemeinde-bewilligt-darüber-hinaus-jedem-verkaufsgeschäf",
+  "level": 5,
+  "title": "3Die Gemeinde bewilligt darüber hinaus jedem Verkaufsgeschäft das"
+ },
+ {
+  "id": "offenhalten-an-höchstens-vier-sonntagen-pro-kalenderjahr-der",
+  "level": 4,
+  "title": "Offenhalten an höchstens vier Sonntagen pro Kalenderjahr. Der Ent- scheid der Gemeinde ist endgültig."
+ },
+ {
+  "id": "4die-im-rahmen-dieser-bestimmung-zulässigen-öffnungszeiten-d",
+  "level": 5,
+  "title": "4Die im Rahmen dieser Bestimmung zulässigen Öffnungszeiten dau-"
+ },
+ {
+  "id": "ern-von-8-00-uhr-bis-20-00-uhr",
+  "level": 4,
+  "title": "ern von 8.00 Uhr bis 20.00 Uhr."
+ },
+ {
+  "id": "6",
+  "level": 4,
+  "title": "§ 6."
+ },
+ {
+  "id": "1am-karfreitag-ostersonntag-pfingstsonntag-am-eidgenös",
+  "level": 5,
+  "title": "1Am Karfreitag, Ostersonntag, Pfingstsonntag, am Eidgenös-"
+ },
+ {
+  "id": "sischen-dank-buss-und-bettag-sowie-am-weihnachtstag-sind-säm",
+  "level": 4,
+  "title": "sischen Dank-, Buss- und Bettag sowie am Weihnachtstag sind sämtliche Verkaufsgeschäfte geschlossen zu halten."
+ },
+ {
+  "id": "2für-die-übrigen-ruhetage-gilt-6",
+  "level": 5,
+  "title": "2Für die übrigen Ruhetage gilt § 6."
+ },
+ {
+  "id": "1widerhandlungen-gegen-vorschriften-dieses-gesetzes-wer",
+  "level": 5,
+  "title": "1Widerhandlungen gegen Vorschriften dieses Gesetzes wer-"
+ },
+ {
+  "id": "den-mit-busse-bis-40-000-franken-bei-gewinnsucht-mit-busse-i",
+  "level": 4,
+  "title": "den mit Busse bis 40 000.– Franken, bei Gewinnsucht mit Busse in unbe- schränkter Höhe bestraft."
+ },
+ {
+  "id": "2juristische-personen-kollektiv-und-kommanditgesellschaften-",
+  "level": 5,
+  "title": "2Juristische Personen, Kollektiv- und Kommanditgesellschaften so-"
+ },
+ {
+  "id": "wie-inhaber-oder-inhaberinnen-von-einzelfirmen-haften-solida",
+  "level": 4,
+  "title": "wie Inhaber oder Inhaberinnen von Einzelfirmen haften solidarisch für Bussen und Kosten, die ihren Organen oder Hilfspersonen auferlegt wer- den. Im Verfahren stehen ihnen die gleichen Rechte wie den Beschuldig- ten zu."
+ },
+ {
+  "id": "8-folgende-erlasse-werden-geändert",
+  "level": 4,
+  "title": "§ 8. Folgende Erlasse werden geändert:"
+ },
+ {
+  "id": "1-das-gesetz-über-die-märkte-die-wandergewerbe-und-die-öffen",
+  "level": 4,
+  "title": "1. Das Gesetz über die Märkte, die Wandergewerbe und die öffentli- chen Veranstaltungen vom 8. September 1960 wird geändert:"
+ },
+ {
+  "id": "1-1-14-lautet-neu",
+  "level": 4,
+  "title": "1.1 § 14 lautet neu:"
+ },
+ {
+  "id": "1wanderlager-dürfen-vor-06-00-uhr-und",
+  "level": 5,
+  "title": "1Wanderlager dürfen vor 06.00 Uhr und"
+ },
+ {
+  "id": "nach-22-00-uhr-sowie-an-öffentlichen-ruhetagen-mit-ausnahme-",
+  "level": 4,
+  "title": "nach 22.00 Uhr sowie an öffentlichen Ruhetagen mit Ausnahme der Markttage am Marktort nicht betrieben werden."
+ },
+ {
+  "id": "2das-übrige-wandergewerbe-darf-nur-von",
+  "level": 5,
+  "title": "2Das übrige Wandergewerbe darf nur von"
+ },
+ {
+  "id": "08-00-uhr-bis-18-30-uhr-betrieben-werden",
+  "level": 4,
+  "title": "08.00 Uhr bis 18.30 Uhr betrieben werden."
+ },
+ {
+  "id": "1-2-33-lautet-neu",
+  "level": 4,
+  "title": "1.2 § 33 lautet neu:"
+ },
+ {
+  "id": "33-die-bestimmungen-der-12-13-ab-satz-2-14-absatz-1-und-15-a",
+  "level": 4,
+  "title": "§ 33. Die Bestimmungen der §§ 12, 13 Ab- satz 2, 14 Absatz 1 und 15 Absatz 1 dieses Ge- setzes finden auf diesen Abschnitt sinngemäss Anwendung."
+ },
+ {
+  "id": "2-das-gesetz-über-die-öffentlichen-ruhetage-ruhetagsgesetz-v",
+  "level": 4,
+  "title": "2. Das Gesetz über die öffentlichen Ruhetage (Ruhetagsgesetz) vom"
+ },
+ {
+  "id": "11-mai-1989-lautet-neu",
+  "level": 4,
+  "title": "11. Mai 1989 lautet neu:"
+ },
+ {
+  "id": "2-1-5-absatz-1-lautet-neu",
+  "level": 4,
+  "title": "2.1 § 5 Absatz 1 lautet neu:"
+ },
+ {
+  "id": "1arbeiten-bestätigungen-oder-veranstaltungen-die-durch",
+  "level": 5,
+  "title": "1Arbeiten, Bestätigungen oder Veranstaltungen, die durch"
+ },
+ {
+  "id": "lärm-oder-auf-andere-weise-die-dem-jeweiligen-ruhetag-angeme",
+  "level": 4,
+  "title": "Lärm oder auf andere Weise die dem jeweiligen Ruhetag angemessene Ruhe ernstlich stören, sind mit Ausnahme der bewilligten Sonntagsverkäufe verboten."
+ },
+ {
+  "id": "2-2-6-absatz-2-lautet-neu",
+  "level": 4,
+  "title": "2.2 § 6 Absatz 2 lautet neu:"
+ },
+ {
+  "id": "2veranstaltungen-die-dem-charakter-der-ruhetage-gemäss",
+  "level": 5,
+  "title": "2Veranstaltungen, die dem Charakter der Ruhetage gemäss"
+ },
+ {
+  "id": "5-absatz-2-rechnung-tragen-können-durch-die-gemeinde-bewilli",
+  "level": 4,
+  "title": "§ 5 Absatz 2 Rechnung tragen, können durch die Gemeinde bewilligt werden. Für den Verkauf von Waren ist das Gesetz über die Ladenöffnungszeiten massgebend."
+ },
+ {
+  "id": "9-das-gesetz-über-den-ladenschluss-vom-28-januar-1943-wird-a",
+  "level": 4,
+  "title": "§ 9. Das Gesetz über den Ladenschluss vom 28. Januar 1943 wird aufgehoben."
+ },
+ {
+  "id": "stimmenden-zeitpunkt-in-kraft",
+  "level": 4,
+  "title": "stimmenden Zeitpunkt in Kraft."
+ },
+ {
+  "id": "gesetz-über-die-ladenöffnungszeiten-2",
+  "level": 3,
+  "title": "Gesetz über die Ladenöffnungszeiten"
+ },
+ {
+  "id": "vom-27-februar-2002-2",
+  "level": 4,
+  "title": "vom 27. Februar 2002"
+ },
+ {
+  "id": "te-des-detailhandels-2",
+  "level": 4,
+  "title": "te des Detailhandels."
+ },
+ {
+  "id": "tailhandelsbetriebe-warenhäuser-kioske-und-andere-verkaufsst-2",
+  "level": 4,
+  "title": "tailhandelsbetriebe, Warenhäuser, Kioske und andere Verkaufsstellen, deren Verkaufsart dem Ladenverkauf ähnlich ist."
+ },
+ {
+  "id": "1-apotheken-für-den-notfalldienst-2",
+  "level": 4,
+  "title": "1. Apotheken für den Notfalldienst;"
+ },
+ {
+  "id": "2-betriebe-soweit-sie-gemäss-gastgewerbegesetz-getränke-oder-2",
+  "level": 4,
+  "title": "2. Betriebe, soweit sie gemäss Gastgewerbegesetz Getränke oder ge- nussfertige Speisen zum Genuss an Ort und Stelle oder zum Mit- nehmen abgeben;"
+ },
+ {
+  "id": "3-warenverkaufsautomaten-sofern-sie-nicht-im-inneren-von-ver-2",
+  "level": 4,
+  "title": "3. Warenverkaufsautomaten, sofern sie nicht im Inneren von Verkaufs- geschäften aufgestellt sind;"
+ },
+ {
+  "id": "4-märkte-und-messen-2",
+  "level": 4,
+  "title": "4. Märkte und Messen;"
+ },
+ {
+  "id": "5-museen-kunstausstellungen-kino-und-theaterbetriebe-2",
+  "level": 4,
+  "title": "5. Museen, Kunstausstellungen, Kino- und Theaterbetriebe."
+ },
+ {
+  "id": "5-2",
+  "level": 4,
+  "title": "§ 5."
+ },
+ {
+  "id": "1an-sonntagen-sind-sämtliche-verkaufsgeschäfte-geschlossen-2",
+  "level": 5,
+  "title": "1An Sonntagen sind sämtliche Verkaufsgeschäfte geschlossen"
+ },
+ {
+  "id": "zu-halten-unter-vorbehalt-der-in-diesem-gesetz-vorgesehenen--2",
+  "level": 4,
+  "title": "zu halten, unter Vorbehalt der in diesem Gesetz vorgesehenen Ausnah- men."
+ },
+ {
+  "id": "2folgende-verkaufsstellen-dürfen-an-sonntagen-geöffnet-sein-2",
+  "level": 5,
+  "title": "2Folgende Verkaufsstellen dürfen an Sonntagen geöffnet sein:"
+ },
+ {
+  "id": "1-verkaufsgeschäfte-mit-einer-zusammenhängenden-für-den-verk-2",
+  "level": 4,
+  "title": "1. Verkaufsgeschäfte mit einer zusammenhängenden, für den Verkauf"
+ },
+ {
+  "id": "genutzten-fläche-von-höchstens-120m2-sofern-diese-fläche-zur-2",
+  "level": 5,
+  "title": "genutzten Fläche von höchstens 120m2, sofern diese Fläche zur"
+ },
+ {
+  "id": "hauptsache-für-den-verkauf-von-lebensmitteln-genutzt-wird-2",
+  "level": 4,
+  "title": "Hauptsache für den Verkauf von Lebensmitteln genutzt wird;"
+ },
+ {
+  "id": "2-blumengeschäfte-und-blumengärtnereien-zum-verkauf-von-fris-2",
+  "level": 4,
+  "title": "2. Blumengeschäfte und Blumengärtnereien zum Verkauf von Frisch- blumen oder Pflanzen;"
+ },
+ {
+  "id": "3-landwirtschaftsbetriebe-zum-verkauf-von-landwirtschaftlich-2",
+  "level": 4,
+  "title": "3. Landwirtschaftsbetriebe zum Verkauf von landwirtschaftlichen Er- zeugnissen aus eigener Produktion beim eigenen Hof;"
+ },
+ {
+  "id": "4-kioske-in-denen-lediglich-das-kiosksortiment-wie-presseerz-2",
+  "level": 4,
+  "title": "4. Kioske, in denen lediglich das Kiosksortiment, wie Presseerzeugnis- se, Süssigkeiten, Raucherwaren oder Souveniers angeboten wird."
+ },
+ {
+  "id": "3die-gemeinde-bewilligt-darüber-hinaus-jedem-verkaufsgeschäf-2",
+  "level": 5,
+  "title": "3Die Gemeinde bewilligt darüber hinaus jedem Verkaufsgeschäft das"
+ },
+ {
+  "id": "offenhalten-an-höchstens-vier-sonntagen-pro-kalenderjahr-der-2",
+  "level": 4,
+  "title": "Offenhalten an höchstens vier Sonntagen pro Kalenderjahr. Der Ent- scheid der Gemeinde ist endgültig."
+ },
+ {
+  "id": "4die-im-rahmen-dieser-bestimmung-zulässigen-öffnungszeiten-d-2",
+  "level": 5,
+  "title": "4Die im Rahmen dieser Bestimmung zulässigen Öffnungszeiten dau-"
+ },
+ {
+  "id": "ern-von-8-00-uhr-bis-20-00-uhr-2",
+  "level": 4,
+  "title": "ern von 8.00 Uhr bis 20.00 Uhr."
+ },
+ {
+  "id": "6-2",
+  "level": 4,
+  "title": "§ 6."
+ },
+ {
+  "id": "1am-karfreitag-ostersonntag-pfingstsonntag-am-eidgenös-2",
+  "level": 5,
+  "title": "1Am Karfreitag, Ostersonntag, Pfingstsonntag, am Eidgenös-"
+ },
+ {
+  "id": "sischen-dank-buss-und-bettag-sowie-am-weihnachtstag-sind-säm-2",
+  "level": 4,
+  "title": "sischen Dank-, Buss- und Bettag sowie am Weihnachtstag sind sämtliche Verkaufsgeschäfte geschlossen zu halten."
+ },
+ {
+  "id": "2für-die-übrigen-ruhetage-gilt-6-2",
+  "level": 5,
+  "title": "2Für die übrigen Ruhetage gilt § 6."
+ },
+ {
+  "id": "1widerhandlungen-gegen-vorschriften-dieses-gesetzes-wer-2",
+  "level": 5,
+  "title": "1Widerhandlungen gegen Vorschriften dieses Gesetzes wer-"
+ },
+ {
+  "id": "den-mit-busse-bis-40-000-franken-bei-gewinnsucht-mit-busse-i-2",
+  "level": 4,
+  "title": "den mit Busse bis 40 000.– Franken, bei Gewinnsucht mit Busse in unbe- schränkter Höhe bestraft."
+ },
+ {
+  "id": "2juristische-personen-kollektiv-und-kommanditgesellschaften--2",
+  "level": 5,
+  "title": "2Juristische Personen, Kollektiv- und Kommanditgesellschaften so-"
+ },
+ {
+  "id": "wie-inhaber-oder-inhaberinnen-von-einzelfirmen-haften-solida-2",
+  "level": 4,
+  "title": "wie Inhaber oder Inhaberinnen von Einzelfirmen haften solidarisch für Bussen und Kosten, die ihren Organen oder Hilfspersonen auferlegt wer- den. Im Verfahren stehen ihnen die gleichen Rechte wie den Beschuldig- ten zu."
+ },
+ {
+  "id": "8-folgende-erlasse-werden-geändert-2",
+  "level": 4,
+  "title": "§ 8. Folgende Erlasse werden geändert:"
+ },
+ {
+  "id": "1-das-gesetz-über-die-märkte-die-wandergewerbe-und-die-öffen-2",
+  "level": 4,
+  "title": "1. Das Gesetz über die Märkte, die Wandergewerbe und die öffentli- chen Veranstaltungen vom 8. September 1960 wird geändert:"
+ },
+ {
+  "id": "1-1-14-lautet-neu-2",
+  "level": 4,
+  "title": "1.1 § 14 lautet neu:"
+ },
+ {
+  "id": "1wanderlager-dürfen-vor-06-00-uhr-und-2",
+  "level": 5,
+  "title": "1Wanderlager dürfen vor 06.00 Uhr und"
+ },
+ {
+  "id": "nach-22-00-uhr-sowie-an-öffentlichen-ruhetagen-mit-ausnahme--2",
+  "level": 4,
+  "title": "nach 22.00 Uhr sowie an öffentlichen Ruhetagen mit Ausnahme der Markttage am Marktort nicht betrieben werden."
+ },
+ {
+  "id": "2das-übrige-wandergewerbe-darf-nur-von-2",
+  "level": 5,
+  "title": "2Das übrige Wandergewerbe darf nur von"
+ },
+ {
+  "id": "08-00-uhr-bis-18-30-uhr-betrieben-werden-2",
+  "level": 4,
+  "title": "08.00 Uhr bis 18.30 Uhr betrieben werden."
+ },
+ {
+  "id": "1-2-33-lautet-neu-2",
+  "level": 4,
+  "title": "1.2 § 33 lautet neu:"
+ },
+ {
+  "id": "33-die-bestimmungen-der-12-13-ab-satz-2-14-absatz-1-und-15-a-2",
+  "level": 4,
+  "title": "§ 33. Die Bestimmungen der §§ 12, 13 Ab- satz 2, 14 Absatz 1 und 15 Absatz 1 dieses Ge- setzes finden auf diesen Abschnitt sinngemäss Anwendung."
+ },
+ {
+  "id": "2-das-gesetz-über-die-öffentlichen-ruhetage-ruhetagsgesetz-v-2",
+  "level": 4,
+  "title": "2. Das Gesetz über die öffentlichen Ruhetage (Ruhetagsgesetz) vom"
+ },
+ {
+  "id": "11-mai-1989-lautet-neu-2",
+  "level": 4,
+  "title": "11. Mai 1989 lautet neu:"
+ },
+ {
+  "id": "2-1-5-absatz-1-lautet-neu-2",
+  "level": 4,
+  "title": "2.1 § 5 Absatz 1 lautet neu:"
+ },
+ {
+  "id": "1arbeiten-bestätigungen-oder-veranstaltungen-die-durch-2",
+  "level": 5,
+  "title": "1Arbeiten, Bestätigungen oder Veranstaltungen, die durch"
+ },
+ {
+  "id": "lärm-oder-auf-andere-weise-die-dem-jeweiligen-ruhetag-angeme-2",
+  "level": 4,
+  "title": "Lärm oder auf andere Weise die dem jeweiligen Ruhetag angemessene Ruhe ernstlich stören, sind mit Ausnahme der bewilligten Sonntagsverkäufe verboten."
+ },
+ {
+  "id": "2-2-6-absatz-2-lautet-neu-2",
+  "level": 4,
+  "title": "2.2 § 6 Absatz 2 lautet neu:"
+ },
+ {
+  "id": "2veranstaltungen-die-dem-charakter-der-ruhetage-gemäss-2",
+  "level": 5,
+  "title": "2Veranstaltungen, die dem Charakter der Ruhetage gemäss"
+ },
+ {
+  "id": "5-absatz-2-rechnung-tragen-können-durch-die-gemeinde-bewilli-2",
+  "level": 4,
+  "title": "§ 5 Absatz 2 Rechnung tragen, können durch die Gemeinde bewilligt werden. Für den Verkauf von Waren ist das Gesetz über die Ladenöffnungszeiten massgebend."
+ },
+ {
+  "id": "9-das-gesetz-über-den-ladenschluss-vom-28-januar-1943-wird-a-2",
+  "level": 4,
+  "title": "§ 9. Das Gesetz über den Ladenschluss vom 28. Januar 1943 wird aufgehoben."
+ },
+ {
+  "id": "stimmenden-zeitpunkt-in-kraft-2",
+  "level": 4,
+  "title": "stimmenden Zeitpunkt in Kraft."
+ },
+ {
+  "id": "beispiel-3-änderungserlass",
+  "level": 5,
+  "title": "Beispiel 3: Änderungserlass"
+ },
+ {
+  "id": "verordnung-betreffend-die-änderung-der-verordnung-des-regier",
+  "level": 3,
+  "title": "Verordnung betreffend die Änderung der Verordnung des Regierungsrates zum Gesetz über Massnahmen gegen die Arbeitslosigkeit vom 3. Dezember 1996"
+ },
+ {
+  "id": "vom-27-märz-2001",
+  "level": 4,
+  "title": "vom 27. März 2001"
+ },
+ {
+  "id": "i-die-verordnung-des-regierungsrates-zum-gesetz-über-massnah",
+  "level": 4,
+  "title": "I. Die Verordnung des Regierungsrates zum Gesetz über Massnahmen gegen die Arbeitslo- sigkeit wird geändert."
+ },
+ {
+  "id": "1-2-lautet-neu",
+  "level": 4,
+  "title": "1. § 2 lautet neu:"
+ },
+ {
+  "id": "1soweit-nichts-anderes-bestimmt-ist-obliegt-der-vollzug-dem",
+  "level": 5,
+  "title": "1Soweit nichts anderes bestimmt ist, obliegt der Vollzug dem"
+ },
+ {
+  "id": "kantonalen-amt-für-wirtschaft-und-arbeit-awa-es-beaufsichtig",
+  "level": 4,
+  "title": "kantonalen Amt für Wirtschaft und Arbeit (AWA). Es beaufsichtigt die Gemeindearbeitsämter fachlich und kann Weisungen erlassen."
+ },
+ {
+  "id": "2das-awa-übt-ferner-die-aufsicht-über-die-private-arbeitsver",
+  "level": 5,
+  "title": "2Das AWA übt ferner die Aufsicht über die private Arbeitsvermitt-"
+ },
+ {
+  "id": "lung-und-den-personalverleih-aus-entscheidet-über-die-erteil",
+  "level": 4,
+  "title": "lung und den Personalverleih aus, entscheidet über die Erteilung und den Entzug von Betriebsbewilligungen für Unternehmen der privaten Ar- beitsvermittlung und des Personalverleihs und setzt die Entschädigungen und Kautionen fest."
+ },
+ {
+  "id": "2-die-3-bis-5-lauten-neu",
+  "level": 4,
+  "title": "2. Die §§ 3 bis 5 lauten neu:"
+ },
+ {
+  "id": "3",
+  "level": 4,
+  "title": "§ 3."
+ },
+ {
+  "id": "1das-awa-erfüllt-die-aufgaben-einer-kantonalen-amtsstelle",
+  "level": 5,
+  "title": "1Das AWA erfüllt die Aufgaben einer kantonalen Amtsstelle"
+ },
+ {
+  "id": "gemäss-artikel-85-des-bundesgesetzes-über-die-obligatorische",
+  "level": 4,
+  "title": "gemäss Artikel 85 des Bundesgesetzes über die obligatorische Arbeitslo- senversicherung und die Insolvenzentschädigung (AVIG). Es überträgt im Rahmen von Artikel 85b AVIG einzelne Aufgaben an das regionale Arbeitsvermittlungszentrum."
+ },
+ {
+  "id": "4",
+  "level": 4,
+  "title": "§ 4."
+ },
+ {
+  "id": "1das-regionale-arbeitsvermittlungszentrum-führt-zweigstel",
+  "level": 5,
+  "title": "1Das regionale Arbeitsvermittlungszentrum führt Zweigstel-"
+ },
+ {
+  "id": "len-in-amriswil-frauenfeld-und-kreuzlingen",
+  "level": 4,
+  "title": "len in Amriswil, Frauenfeld und Kreuzlingen."
+ },
+ {
+  "id": "2der-regierungsrat-kann-nach-bedarf-weitere-zweigstellen-err",
+  "level": 5,
+  "title": "2Der Regierungsrat kann nach Bedarf weitere Zweigstellen errichten"
+ },
+ {
+  "id": "oder-bestehende-schliessen",
+  "level": 4,
+  "title": "oder bestehende schliessen."
+ },
+ {
+  "id": "3das-departement-legt-die-einzugsgebiete-der-zweigstellen-fe",
+  "level": 5,
+  "title": "3Das Departement legt die Einzugsgebiete der Zweigstellen fest."
+ },
+ {
+  "id": "und-betreut-stellensuchende-im-rahmen-des-leistungsauftrages",
+  "level": 4,
+  "title": "und betreut Stellensuchende im Rahmen des Leistungsauftrages des Bun- des."
+ },
+ {
+  "id": "3-21-absatz-1-lautet-neu",
+  "level": 4,
+  "title": "3. § 21 Absatz 1 lautet neu:"
+ },
+ {
+  "id": "1das-awa-koordiniert-das-angebot-an-arbeitsmarktlichen-mass",
+  "level": 5,
+  "title": "1Das AWA koordiniert das Angebot an arbeitsmarktlichen Mass-"
+ },
+ {
+  "id": "nahmen-und-legt-es-im-rahmen-des-leistungsauftrages-des-bund",
+  "level": 4,
+  "title": "nahmen und legt es im Rahmen des Leistungsauftrages des Bundes fest."
+ },
+ {
+  "id": "4-22-lautet-neu",
+  "level": 4,
+  "title": "4. § 22 lautet neu:"
+ },
+ {
+  "id": "22",
+  "level": 4,
+  "title": "§ 22."
+ },
+ {
+  "id": "1die-finanzielle-beteiligung-der-gemeinden-gemäss-18-ab",
+  "level": 5,
+  "title": "1Die finanzielle Beteiligung der Gemeinden gemäss § 18 Ab-"
+ },
+ {
+  "id": "satz-1-des-gesetzes-bezieht-sich-auf-den-kantonsbeitrag-an-d",
+  "level": 4,
+  "title": "satz 1 des Gesetzes bezieht sich auf den Kantonsbeitrag an die Kosten der arbeitsmarktlichen Massnahmen gemäss Artikeln 72c AVIG."
+ },
+ {
+  "id": "2als-bezüger-von-arbeitslosentaggeldern-gemäss-18-absatz-2-d",
+  "level": 5,
+  "title": "2Als Bezüger von Arbeitslosentaggeldern gemäss § 18 Absatz 2 des"
+ },
+ {
+  "id": "gesetzes-gelten-alle-registrierten-stellensuchenden",
+  "level": 4,
+  "title": "Gesetzes gelten alle registrierten Stellensuchenden."
+ },
+ {
+  "id": "5-23-wird-aufgehoben",
+  "level": 4,
+  "title": "5. § 23 wird aufgehoben."
+ },
+ {
+  "id": "ii-diese-verordnung-tritt-auf-den-1-april-2001-in-kraft",
+  "level": 4,
+  "title": "II. Diese Verordnung tritt auf den 1. April 2001 in Kraft."
+ },
+ {
+  "id": "der-präsident-des-regierungsrates",
+  "level": 4,
+  "title": "Der Präsident des Regierungsrates"
+ },
+ {
+  "id": "der-staatsschreiber",
+  "level": 4,
+  "title": "Der Staatsschreiber"
+ },
+ {
+  "id": "beispiel-4-änderung-gebührenordnung",
+  "level": 5,
+  "title": "Beispiel 4: Änderung Gebührenordnung"
+ },
+ {
+  "id": "verordnung-betreffend-die-änderung-der-verordnung-des-regier-2",
+  "level": 3,
+  "title": "Verordnung betreffend die Änderung der Verordnung des Regierungsrates über die Gebühren der kantonalen Verwaltungsbehörden vom 16. Dezem- ber 1992"
+ },
+ {
+  "id": "vom-26-november-2002",
+  "level": 4,
+  "title": "vom 26. November 2002"
+ },
+ {
+  "id": "i-die-verordnung-des-regierungsrates-über-die-gebühren-der-k",
+  "level": 4,
+  "title": "I. Die Verordnung des Regierungsrates über die Gebühren der kantonalen Verwaltungsbe- hörden wird geändert."
+ },
+ {
+  "id": "1-3-lautet-neu",
+  "level": 4,
+  "title": "1. § 3 lautet neu:"
+ },
+ {
+  "id": "1-beglaubigung",
+  "level": 4,
+  "title": "1. Beglaubigung:"
+ },
+ {
+  "id": "1-1-einer-unterschrift-20-für-jede-weitere-auf-demselben-sch",
+  "level": 4,
+  "title": "1.1 einer Unterschrift 20.– für jede weitere auf demselben Schriftstück 10.–"
+ },
+ {
+  "id": "1-2-von-kopien-und-auszügen-je-seite-10",
+  "level": 4,
+  "title": "1.2 von Kopien und Auszügen, je Seite 10.–"
+ },
+ {
+  "id": "2-grundbuchauszüge-für-die-ersten-2-seiten-je-20-für-jede-we",
+  "level": 4,
+  "title": "2. Grundbuchauszüge: für die ersten 2 Seiten, je 20.– für jede weitere Seite 10.–"
+ },
+ {
+  "id": "3-änderung-ohne-wechsel-des-eigentumsverhältnisses",
+  "level": 4,
+  "title": "3. Änderung ohne Wechsel des Eigentumsverhältnisses:"
+ },
+ {
+  "id": "3-1-namensänderung-bei-natürlichen-personen-je-grundstück-30",
+  "level": 4,
+  "title": "3.1 Namensänderung bei natürlichen Personen, je Grundstück 30.–"
+ },
+ {
+  "id": "3-2-firmaänderung-und-sitzverlegung-je-grundstück-50",
+  "level": 4,
+  "title": "3.2 Firmaänderung und Sitzverlegung, je Grundstück 50.–"
+ },
+ {
+  "id": "4-stockwerkeigentum-wertquoten-und-sonstige-änderungen-100-b",
+  "level": 4,
+  "title": "4. Stockwerkeigentum: Wertquoten- und sonstige Änderungen 100.– bis 1 000.–"
+ },
+ {
+  "id": "5-aufnahme-eines-grundstückes-50",
+  "level": 4,
+  "title": "5. Aufnahme eines Grundstückes 50.–"
+ },
+ {
+  "id": "6-grundpfandrechte",
+  "level": 4,
+  "title": "6. Grundpfandrechte:"
+ },
+ {
+  "id": "6-1-zerlegung-eines-grundpfandrechtes-bei-unverändertem-schu",
+  "level": 4,
+  "title": "6.1 Zerlegung eines Grundpfandrechtes bei unverändertem Schuldner- und Gläubigerverhältnis, je neuausgestelltem Pfandtitel 100.–"
+ },
+ {
+  "id": "6-2-änderung-der-zins-und-zahlungsbestimmungen-je-pfandrecht",
+  "level": 4,
+  "title": "6.2 Änderung der Zins- und Zahlungsbestimmungen, je Pfandrecht 30.–"
+ },
+ {
+  "id": "6-3-aufnahme-einer-leeren-pfandstelle-und-eines-vorbe-halten",
+  "level": 4,
+  "title": "6.3 Aufnahme einer leeren Pfandstelle und eines vorbe- haltenen Vorganges 50.–"
+ },
+ {
+  "id": "6-4-pfandentlassung-und-pfandzusatz-von-teilgrundstücken-mit",
+  "level": 4,
+  "title": "6.4 Pfandentlassung und Pfandzusatz von Teilgrundstücken mit geringem Wert, je Pfandrecht 50.–"
+ },
+ {
+  "id": "6-5-pfandzusatz-von-grundstücken-je-pfandrecht-100-bis-1-000",
+  "level": 4,
+  "title": "6.5 Pfandzusatz von Grundstücken, je Pfandrecht 100.– bis 1 000.–"
+ },
+ {
+  "id": "6-6-reduktion-der-schulsumme-je-pfandrecht-50",
+  "level": 4,
+  "title": "6.6 Reduktion der Schulsumme, je Pfandrecht 50.–"
+ },
+ {
+  "id": "6-7-rang-der-vorgangsänderung-je-pfandrecht-50",
+  "level": 4,
+  "title": "6.7 Rang- der Vorgangsänderung, je Pfandrecht 50.–"
+ },
+ {
+  "id": "6-8-vormerk-des-gläubigers-je-pfandrecht-30",
+  "level": 4,
+  "title": "6.8 Vormerk des Gläubigers, je Pfandrecht 30.–"
+ },
+ {
+  "id": "7-dienstbarkeiten-durchleitungsrechte-bei-denselben-berechti",
+  "level": 4,
+  "title": "7. Dienstbarkeiten: Durchleitungsrechte bei denselben Berechtigten - bis 5 Eintragungen, je Grundstück 100.– - für jedes weitere Grundstück 50.–"
+ },
+ {
+  "id": "2-4-lautet-neu",
+  "level": 4,
+  "title": "2. § 4 lautet neu:"
+ },
+ {
+  "id": "1-öffentliche-beurkundung",
+  "level": 4,
+  "title": "1. Öffentliche Beurkundung:"
+ },
+ {
+  "id": "1-1-feststellung-von-tatsachen-und-sonstigen-vorgängen-sowie",
+  "level": 4,
+  "title": "1.1 Feststellung von Tatsachen und sonstigen Vorgängen sowie Verlosungen und eidesstattliche Erklärungen"
+ },
+ {
+  "id": "100-bis-2-000",
+  "level": 4,
+  "title": "100.– bis 2 000.–"
+ },
+ {
+  "id": "1-2-statutenänderungen-sowie-sonstige-gesellschafts-rechtlic",
+  "level": 4,
+  "title": "1.2 Statutenänderungen sowie sonstige gesellschafts- rechtliche Beschlüsse und Nachträge ohne Kapi- talveränderung 200.– bis 2 000.–"
+ },
+ {
+  "id": "2-beglaubigung",
+  "level": 4,
+  "title": "2. Beglaubigung:"
+ },
+ {
+  "id": "2-1-einer-unterschrift-20-für-jede-weitere-auf-demselben-sch",
+  "level": 4,
+  "title": "2.1 einer Unterschrift 20.– für jede weitere auf demselben Schriftstück 10.–"
+ },
+ {
+  "id": "2-2-von-kopien-und-auszügen-je-seite-10",
+  "level": 4,
+  "title": "2.2 von Kopien und Auszügen, je Seite 10.–"
+ },
+ {
+  "id": "2-3-statuten-je-exemplar-20",
+  "level": 4,
+  "title": "2.3 Statuten, je Exemplar 20.–"
+ },
+ {
+  "id": "3-verfügungen-von-todes-wegen",
+  "level": 4,
+  "title": "3. Verfügungen von Todes wegen:"
+ },
+ {
+  "id": "3-1-deponierung-einschliesslich-rückzug-100",
+  "level": 4,
+  "title": "3.1 Deponierung einschliesslich Rückzug 100.–"
+ },
+ {
+  "id": "3-2-eröffnung-200-bis-2-000",
+  "level": 4,
+  "title": "3.2 Eröffnung 200.– bis 2 000.–"
+ },
+ {
+  "id": "4-erbenbescheinigung",
+  "level": 4,
+  "title": "4. Erbenbescheinigung:"
+ },
+ {
+  "id": "4-1-nach-eröffnung-einer-verfügung-von-todes-wegen-100-bis-2",
+  "level": 4,
+  "title": "4.1 nach Eröffnung einer Verfügung von Todes wegen 100.– bis 2 000.–"
+ },
+ {
+  "id": "4-2-ohne-eröffnung-von-verfügungen-200-bis-2-000",
+  "level": 4,
+  "title": "4.2 ohne Eröffnung von Verfügungen 200.– bis 2 000.–"
+ },
+ {
+  "id": "5-willensvollstreckerbescheinigung-100",
+  "level": 4,
+  "title": "5. Willensvollstreckerbescheinigung 100.–"
+ },
+ {
+  "id": "6-andere-in-dieser-verordnung-nicht-ausdrücklich-aufgeführte",
+  "level": 4,
+  "title": "6. Andere in dieser Verordnung nicht ausdrücklich aufgeführte notarielle Verrichtungen 100.– bis 2 000.–"
+ },
+ {
+  "id": "7-stundenansätze",
+  "level": 4,
+  "title": "7. Stundenansätze:"
+ },
+ {
+  "id": "7-1-notar-notarin-und-stellvertretende-150",
+  "level": 4,
+  "title": "7.1 Notar/Notarin und Stellvertretende 150.–"
+ },
+ {
+  "id": "7-2-andere-mitarbeitende-80",
+  "level": 4,
+  "title": "7.2 andere Mitarbeitende 80.–"
+ },
+ {
+  "id": "ii-diese-verordnung-und-das-gesetz-vom-28-august-2002-betref",
+  "level": 4,
+  "title": "II. Diese Verordnung und das Gesetz vom 28. August 2002 betreffend die Änderung des Gesetzes über die Gebühren und Gemengsteuern der Grundbuchämter und Notariate tre- ten am 1. Januar 2003 in Kraft."
+ },
+ {
+  "id": "der-präsident-des-regierungsrates-2",
+  "level": 4,
+  "title": "Der Präsident des Regierungsrates"
+ },
+ {
+  "id": "der-staatsschreiber-2",
+  "level": 4,
+  "title": "Der Staatsschreiber"
+ },
+ {
+  "id": "beispiel-5-änderungserlass-mit-anhang",
+  "level": 5,
+  "title": "Beispiel 5: Änderungserlass mit Anhang"
+ },
+ {
+  "id": "verordnung-betreffend-die-änderung-der-verordnung-des-regier-3",
+  "level": 3,
+  "title": "Verordnung betreffend die Änderung der Verordnung des Regierungsrates zum Landwirtschaftsgesetz vom 10. April 2001"
+ },
+ {
+  "id": "vom",
+  "level": 4,
+  "title": "vom"
+ },
+ {
+  "id": "i-die-verordnung-des-regierungsrates-zum-landwirtschaftsgese",
+  "level": 4,
+  "title": "I. Die Verordnung des Regierungsrates zum Landwirtschaftsgesetz wird geändert."
+ },
+ {
+  "id": "1-der-titel-vor-6-lautet-neu",
+  "level": 4,
+  "title": "1. Der Titel vor § 6 lautet neu:"
+ },
+ {
+  "id": "ii-produktion-und-absatz",
+  "level": 4,
+  "title": "II. Produktion und Absatz"
+ },
+ {
+  "id": "2-34-lautet-neu",
+  "level": 4,
+  "title": "2. § 34 lautet neu:"
+ },
+ {
+  "id": "der-fachstelle-zu-melden",
+  "level": 4,
+  "title": "der Fachstelle zu melden."
+ },
+ {
+  "id": "3-36-lautet-neu",
+  "level": 4,
+  "title": "3. § 36 lautet neu:"
+ },
+ {
+  "id": "1-weinproduktionsgebiete-anhang-1",
+  "level": 4,
+  "title": "1. Weinproduktionsgebiete (Anhang 1);"
+ },
+ {
+  "id": "2-ursprungsbezeichnungen-nach-gemeinden-anhang-2",
+  "level": 4,
+  "title": "2. Ursprungsbezeichnungen nach Gemeinden (Anhang 2);"
+ },
+ {
+  "id": "3-ursprungsbezeichnungen-nach-reblagen-anhang-3",
+  "level": 4,
+  "title": "3. Ursprungsbezeichnungen nach Reblagen (Anhang 3)."
+ },
+ {
+  "id": "4-36a-wird-eingefügt",
+  "level": 4,
+  "title": "4. § 36a wird eingefügt:"
+ },
+ {
+  "id": "36a-1weine-mit-ursprungsbezeichnungen-nach-gemeinden-müs",
+  "level": 5,
+  "title": "§ 36a. 1Weine mit Ursprungsbezeichnungen nach Gemeinden müs-"
+ },
+ {
+  "id": "sen-zu-mindestens-51-prozent-aus-den-betreffenden-gemeinde-s",
+  "level": 4,
+  "title": "sen zu mindestens 51 Prozent aus den betreffenden Gemeinde stammen."
+ },
+ {
+  "id": "2der-zugemischte-wein-muss-unter-vorbehalt-der-eidgenössisch",
+  "level": 5,
+  "title": "2Der zugemischte Wein muss unter Vorbehalt der eidgenössischen"
+ },
+ {
+  "id": "lebensmittelverordnung-aus-dem-gleichen-produktionsgebiet-st",
+  "level": 4,
+  "title": "Lebensmittelverordnung aus dem gleichen Produktionsgebiet stammen."
+ },
+ {
+  "id": "5-der-anhang-i-lautet-gemäss-anhang",
+  "level": 4,
+  "title": "5. Der Anhang I lautet gemäss Anhang."
+ },
+ {
+  "id": "ii-diese-verordnung-tritt-mit-der-publikation-im-amtsblatt-i",
+  "level": 4,
+  "title": "II. Diese Verordnung tritt mit der Publikation im Amtsblatt in Kraft."
+ },
+ {
+  "id": "der-präsident-der-regierungsrates",
+  "level": 4,
+  "title": "Der Präsident der Regierungsrates"
+ },
+ {
+  "id": "der-staatsschreiber-3",
+  "level": 4,
+  "title": "Der Staatsschreiber"
+ },
+ {
+  "id": "anhang-i",
+  "level": 4,
+  "title": "Anhang I"
+ },
+ {
+  "id": "weinproduktionsgebiete-gemäss-36-ziffer-1",
+  "level": 4,
+  "title": "Weinproduktionsgebiete gemäss § 36 Ziffer 1"
+ },
+ {
+  "id": "produktionsgebiet-politische-oder-einheitsgemeinden",
+  "level": 4,
+  "title": "Produktionsgebiet Politische oder Einheitsgemeinden"
+ },
+ {
+  "id": "produktionsgebiet-i-aadorf-basadingen-schlattingen-frauenfel",
+  "level": 4,
+  "title": "Produktionsgebiet I Aadorf, Basadingen-Schlattingen, Frauenfeld, Herdern, Hüttwilen, Lommis, Neunforn, Pfyn, Stettfurt, Uesslingen-Buch, Warth-Wei- ningen."
+ },
+ {
+  "id": "produktionsgebiet-ii-amlikon-bissegg-amriswil-berg-erlen-mär",
+  "level": 4,
+  "title": "Produktionsgebiet II Amlikon-Bissegg, Amriswil, Berg, Erlen, Märstetten, Sulgen, Weinfelden."
+ },
+ {
+  "id": "produktionsgebiet-iii-berlingen-diessenhofen-ermatingen-esch",
+  "level": 4,
+  "title": "Produktionsgebiet III Berlingen, Diessenhofen, Ermatingen, Eschenz, Kreuzlingen, Mammern, Salenstein, Steckborn, Tägerwilen."
+ },
+ {
+  "id": "weine-aus-dem-produktionsgebiet-iii-können-die-bezeichnung-b",
+  "level": 4,
+  "title": "Weine aus dem Produktionsgebiet III können die Bezeichnung Bodenseewein tragen."
+ }
+]

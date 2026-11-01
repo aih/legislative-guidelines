@@ -1,0 +1,742 @@
+[
+ {
+  "id": "the-legislative-process-handbook",
+  "level": 2,
+  "title": "The Legislative Process Handbook"
+ },
+ {
+  "id": "last-saved-on-june-6-2025",
+  "level": 4,
+  "title": "Last saved on June 6, 2025"
+ },
+ {
+  "id": "contents",
+  "level": 3,
+  "title": "Contents"
+ },
+ {
+  "id": "part-1-introduction",
+  "level": 2,
+  "title": "Part 1: Introduction"
+ },
+ {
+  "id": "1-1-overview",
+  "level": 3,
+  "title": "1.1: Overview"
+ },
+ {
+  "id": "1-2-general-comments-on-drafting",
+  "level": 3,
+  "title": "1.2: General comments on drafting"
+ },
+ {
+  "id": "1-3-abbreviations",
+  "level": 3,
+  "title": "1.3: Abbreviations"
+ },
+ {
+  "id": "part-2-basic-features-of-acts",
+  "level": 2,
+  "title": "Part 2: Basic features of Acts"
+ },
+ {
+  "id": "2-1-what-is-an-act",
+  "level": 3,
+  "title": "2.1: What is an Act?"
+ },
+ {
+  "id": "2-2-terminology-acts-and-bills",
+  "level": 3,
+  "title": "2.2: Terminology—Acts and Bills"
+ },
+ {
+  "id": "2-3-what-an-act-looks-like",
+  "level": 3,
+  "title": "2.3: What an Act looks like"
+ },
+ {
+  "id": "the-basics",
+  "level": 4,
+  "title": "The basics"
+ },
+ {
+  "id": "formats-and-standard-features",
+  "level": 4,
+  "title": "Formats and standard features"
+ },
+ {
+  "id": "extra-information-included",
+  "level": 4,
+  "title": "Extra information included"
+ },
+ {
+  "id": "2-4-structure-of-an-act",
+  "level": 3,
+  "title": "2.4: Structure of an Act"
+ },
+ {
+  "id": "chapters-parts-and-divisions",
+  "level": 4,
+  "title": "Chapters, Parts and Divisions"
+ },
+ {
+  "id": "sections-and-schedules",
+  "level": 4,
+  "title": "Sections and Schedules"
+ },
+ {
+  "id": "dividing-sections",
+  "level": 4,
+  "title": "Dividing sections"
+ },
+ {
+  "id": "grouping-and-dividing-schedules",
+  "level": 4,
+  "title": "Grouping and dividing Schedules"
+ },
+ {
+  "id": "schedules-setting-out-procedural-or-administrative-matters-o",
+  "level": 4,
+  "title": "Schedules setting out procedural or administrative matters or transitional"
+ },
+ {
+  "id": "numbering-system",
+  "level": 4,
+  "title": "Numbering system"
+ },
+ {
+  "id": "examples-and-notes",
+  "level": 4,
+  "title": "Examples and notes"
+ },
+ {
+  "id": "the-retail-leases-act-2003",
+  "level": 4,
+  "title": "the Retail Leases Act 2003—"
+ },
+ {
+  "id": "2-5-standard-kinds-of-provisions",
+  "level": 3,
+  "title": "2.5: Standard kinds of provisions"
+ },
+ {
+  "id": "preamble",
+  "level": 4,
+  "title": "Preamble"
+ },
+ {
+  "id": "long-title-of-a-bill",
+  "level": 4,
+  "title": "Long title of a Bill"
+ },
+ {
+  "id": "short-title-of-bill-title-of-act",
+  "level": 4,
+  "title": "Short title of Bill /title of Act"
+ },
+ {
+  "id": "commencement",
+  "level": 4,
+  "title": "Commencement"
+ },
+ {
+  "id": "definitions",
+  "level": 4,
+  "title": "Definitions"
+ },
+ {
+  "id": "transitional-provisions",
+  "level": 4,
+  "title": "Transitional provisions"
+ },
+ {
+  "id": "self-repeal-of-amending-acts",
+  "level": 4,
+  "title": "Self-repeal of amending Acts"
+ },
+ {
+  "id": "2-6-finding-the-current-text-of-an-act",
+  "level": 3,
+  "title": "2.6: Finding the current text of an Act"
+ },
+ {
+  "id": "options-for-finding-the-text-of-an-act",
+  "level": 4,
+  "title": "Options for finding the text of an Act"
+ },
+ {
+  "id": "electronic",
+  "level": 4,
+  "title": "Electronic"
+ },
+ {
+  "id": "hard-copy",
+  "level": 4,
+  "title": "Hard copy"
+ },
+ {
+  "id": "other-useful-information",
+  "level": 4,
+  "title": "Other useful information"
+ },
+ {
+  "id": "part-3-some-acts-of-general-application",
+  "level": 2,
+  "title": "Part 3: Some Acts of general application"
+ },
+ {
+  "id": "3-1-introduction",
+  "level": 3,
+  "title": "3.1: Introduction"
+ },
+ {
+  "id": "3-2-interpretation-of-legislation-act-1984-ila",
+  "level": 3,
+  "title": "3.2: Interpretation of Legislation Act 1984 (ILA)"
+ },
+ {
+  "id": "overview",
+  "level": 4,
+  "title": "Overview"
+ },
+ {
+  "id": "outline-of-provisions-of-the-ila",
+  "level": 4,
+  "title": "Outline of provisions of the ILA"
+ },
+ {
+  "id": "3-3-charter-of-human-rights-and-responsibilities",
+  "level": 3,
+  "title": "3.3: Charter of human rights and responsibilities"
+ },
+ {
+  "id": "3-4-sentencing-act-1991",
+  "level": 3,
+  "title": "3.4: Sentencing Act 1991"
+ },
+ {
+  "id": "3-5-constitution-act-1975",
+  "level": 3,
+  "title": "3.5: Constitution Act 1975"
+ },
+ {
+  "id": "3-6-financial-management-act-1994-fma",
+  "level": 3,
+  "title": "3.6: Financial Management Act 1994 (FMA)"
+ },
+ {
+  "id": "trust-accounts",
+  "level": 4,
+  "title": "Trust accounts"
+ },
+ {
+  "id": "3-7-magistrates-court-act-1989",
+  "level": 3,
+  "title": "3.7: Magistrates' Court Act 1989"
+ },
+ {
+  "id": "search-warrants",
+  "level": 4,
+  "title": "Search warrants"
+ },
+ {
+  "id": "3-8-infringements",
+  "level": 3,
+  "title": "3.8: Infringements"
+ },
+ {
+  "id": "3-9-criminal-procedure-act-2009",
+  "level": 3,
+  "title": "3.9: Criminal Procedure Act 2009"
+ },
+ {
+  "id": "burden-of-proof",
+  "level": 4,
+  "title": "Burden of proof"
+ },
+ {
+  "id": "part-4-authority-to-draft",
+  "level": 2,
+  "title": "Part 4: Authority to draft"
+ },
+ {
+  "id": "4-1-setting-the-legislative-program",
+  "level": 3,
+  "title": "4.1: Setting the legislative program"
+ },
+ {
+  "id": "4-2-preliminary-steps",
+  "level": 3,
+  "title": "4.2: Preliminary steps"
+ },
+ {
+  "id": "preparatory-stages",
+  "level": 4,
+  "title": "Preparatory stages"
+ },
+ {
+  "id": "necessity-for-approval-in-principle",
+  "level": 4,
+  "title": "Necessity for Approval in Principle"
+ },
+ {
+  "id": "4-3-drafting-advice-on-legislative-proposals",
+  "level": 3,
+  "title": "4.3: Drafting advice on legislative proposals"
+ },
+ {
+  "id": "informal-discussion",
+  "level": 4,
+  "title": "Informal discussion"
+ },
+ {
+  "id": "approval-of-drafting-instructions",
+  "level": 4,
+  "title": "Approval of drafting instructions"
+ },
+ {
+  "id": "drafting-instructions",
+  "level": 4,
+  "title": "Drafting instructions"
+ },
+ {
+  "id": "4-4-inter-departmental-consultation",
+  "level": 3,
+  "title": "4.4: Inter-departmental consultation"
+ },
+ {
+  "id": "attorney-general-department-of-justice-and-community-safety",
+  "level": 4,
+  "title": "Attorney-General (Department of Justice and Community Safety)"
+ },
+ {
+  "id": "treasurer-minister-for-finance-department-of-treasury-and-fi",
+  "level": 4,
+  "title": "Treasurer/Minister for Finance (Department of Treasury and Finance)"
+ },
+ {
+  "id": "premier-department-of-premier-and-cabinet",
+  "level": 4,
+  "title": "Premier (Department of Premier and Cabinet)"
+ },
+ {
+  "id": "4-5-human-rights-assessment",
+  "level": 3,
+  "title": "4.5: Human rights assessment"
+ },
+ {
+  "id": "approval-in-principle",
+  "level": 4,
+  "title": "Approval in Principle"
+ },
+ {
+  "id": "part-5-the-drafting-process",
+  "level": 2,
+  "title": "Part 5: The drafting process"
+ },
+ {
+  "id": "5-1-formal-lodging-of-drafting-instructions",
+  "level": 3,
+  "title": "5.1: Formal lodging of drafting instructions"
+ },
+ {
+  "id": "5-2-first-draft-of-bill",
+  "level": 3,
+  "title": "5.2: First draft of Bill"
+ },
+ {
+  "id": "statute-law-revision",
+  "level": 4,
+  "title": "Statute law revision"
+ },
+ {
+  "id": "5-3-further-instructions",
+  "level": 3,
+  "title": "5.3: Further instructions"
+ },
+ {
+  "id": "supplementary-approval-in-principle",
+  "level": 4,
+  "title": "Supplementary Approval in Principle"
+ },
+ {
+  "id": "5-4-settling-section-85-statements",
+  "level": 3,
+  "title": "5.4: Settling section 85 statements"
+ },
+ {
+  "id": "5-5-explanatory-memorandum",
+  "level": 3,
+  "title": "5.5: Explanatory memorandum"
+ },
+ {
+  "id": "general",
+  "level": 4,
+  "title": "General"
+ },
+ {
+  "id": "sarc-requirements",
+  "level": 4,
+  "title": "SARC requirements"
+ },
+ {
+  "id": "other-requirements",
+  "level": 4,
+  "title": "Other requirements"
+ },
+ {
+  "id": "guide-to-preparing-an-explanatory-memorandum-and-template",
+  "level": 4,
+  "title": "Guide to Preparing an Explanatory Memorandum and Template"
+ },
+ {
+  "id": "settling-an-explanatory-memorandum",
+  "level": 4,
+  "title": "Settling an explanatory memorandum"
+ },
+ {
+  "id": "5-6-statement-of-compatibility",
+  "level": 3,
+  "title": "5.6: Statement of Compatibility"
+ },
+ {
+  "id": "5-7-finalising-a-bill-for-bill-at-cabinet",
+  "level": 3,
+  "title": "5.7: Finalising a Bill for Bill at Cabinet"
+ },
+ {
+  "id": "5-8-exposure-draft-release-for-public-comment",
+  "level": 3,
+  "title": "5.8: Exposure draft (release for public comment)"
+ },
+ {
+  "id": "5-9-bill-at-cabinet-submission",
+  "level": 3,
+  "title": "5.9: Bill at Cabinet submission"
+ },
+ {
+  "id": "part-6-passage-through-parliament",
+  "level": 2,
+  "title": "Part 6: Passage through Parliament"
+ },
+ {
+  "id": "6-1-introduction-into-parliament-preparatory-steps",
+  "level": 3,
+  "title": "6.1: Introduction into Parliament—preparatory steps"
+ },
+ {
+  "id": "notification-of-cabinet-approval",
+  "level": 4,
+  "title": "Notification of Cabinet approval"
+ },
+ {
+  "id": "confidentiality",
+  "level": 4,
+  "title": "Confidentiality"
+ },
+ {
+  "id": "government-party-clearance",
+  "level": 4,
+  "title": "Government party clearance"
+ },
+ {
+  "id": "briefing-non-government-members",
+  "level": 4,
+  "title": "Briefing non-government members"
+ },
+ {
+  "id": "timing-of-introduction",
+  "level": 4,
+  "title": "Timing of introduction"
+ },
+ {
+  "id": "introduction-print",
+  "level": 4,
+  "title": "Introduction print"
+ },
+ {
+  "id": "house-of-introduction",
+  "level": 4,
+  "title": "House of introduction"
+ },
+ {
+  "id": "6-2-introduction-into-parliament-parliamentary-procedure",
+  "level": 3,
+  "title": "6.2: Introduction into Parliament—parliamentary procedure"
+ },
+ {
+  "id": "standing-and-sessional-orders",
+  "level": 4,
+  "title": "Standing and sessional orders"
+ },
+ {
+  "id": "government-business-program",
+  "level": 4,
+  "title": "Government business program"
+ },
+ {
+  "id": "notice",
+  "level": 4,
+  "title": "Notice"
+ },
+ {
+  "id": "introduction-procedure",
+  "level": 4,
+  "title": "Introduction procedure"
+ },
+ {
+  "id": "adjournment-of-debate",
+  "level": 4,
+  "title": "Adjournment of debate"
+ },
+ {
+  "id": "departmental-briefings",
+  "level": 4,
+  "title": "Departmental briefings"
+ },
+ {
+  "id": "6-3-governor-s-messages",
+  "level": 3,
+  "title": "6.3: Governor's messages"
+ },
+ {
+  "id": "6-4-the-scrutiny-of-acts-and-regulations-committee",
+  "level": 3,
+  "title": "6.4: The Scrutiny of Acts and Regulations Committee"
+ },
+ {
+  "id": "general-introduction",
+  "level": 4,
+  "title": "General introduction"
+ },
+ {
+  "id": "functions",
+  "level": 4,
+  "title": "Functions"
+ },
+ {
+  "id": "how-the-committee-operates",
+  "level": 4,
+  "title": "How the Committee operates"
+ },
+ {
+  "id": "the-committee-and-the-instructor",
+  "level": 4,
+  "title": "The Committee and the instructor"
+ },
+ {
+  "id": "section",
+  "level": 4,
+  "title": "○"
+ },
+ {
+  "id": "section-2",
+  "level": 4,
+  "title": "○"
+ },
+ {
+  "id": "section-3",
+  "level": 4,
+  "title": "○"
+ },
+ {
+  "id": "finding-alert-digests",
+  "level": 4,
+  "title": "Finding Alert Digests"
+ },
+ {
+  "id": "6-5-consideration-of-bill-by-parliament",
+  "level": 3,
+  "title": "6.5: Consideration of Bill by Parliament"
+ },
+ {
+  "id": "second-reading-debate",
+  "level": 4,
+  "title": "Second reading debate"
+ },
+ {
+  "id": "consideration-in-detail-committee-stage",
+  "level": 4,
+  "title": "Consideration in detail/committee stage"
+ },
+ {
+  "id": "cognate-bills-concurrent-debate",
+  "level": 4,
+  "title": "Cognate Bills—concurrent debate"
+ },
+ {
+  "id": "6-6-house-amendments",
+  "level": 3,
+  "title": "6.6: House Amendments"
+ },
+ {
+  "id": "introduction",
+  "level": 4,
+  "title": "Introduction"
+ },
+ {
+  "id": "relevance-of-amendments",
+  "level": 4,
+  "title": "Relevance of amendments"
+ },
+ {
+  "id": "drafting-government-house-amendments29",
+  "level": 4,
+  "title": "Drafting government house amendments29"
+ },
+ {
+  "id": "other-house-amendment-matters",
+  "level": 4,
+  "title": "Other house amendment matters"
+ },
+ {
+  "id": "reasoned-amendments",
+  "level": 4,
+  "title": "Reasoned amendments"
+ },
+ {
+  "id": "6-7-remaining-stages",
+  "level": 3,
+  "title": "6.7: Remaining stages"
+ },
+ {
+  "id": "third-reading",
+  "level": 4,
+  "title": "Third reading"
+ },
+ {
+  "id": "passage-through-second-house",
+  "level": 4,
+  "title": "Passage through second house"
+ },
+ {
+  "id": "governor-s-amendments",
+  "level": 4,
+  "title": "Governor's amendments"
+ },
+ {
+  "id": "clerks-amendments",
+  "level": 4,
+  "title": "Clerks' amendments"
+ },
+ {
+  "id": "6-8-non-government-matters",
+  "level": 3,
+  "title": "6.8: Non-government matters"
+ },
+ {
+  "id": "private-members-bills",
+  "level": 4,
+  "title": "Private members' Bills"
+ },
+ {
+  "id": "drafting-non-government-house-amendments",
+  "level": 4,
+  "title": "Drafting non-government house amendments"
+ },
+ {
+  "id": "6-9-miscellaneous-parliamentary-matters",
+  "level": 3,
+  "title": "6.9: Miscellaneous parliamentary matters"
+ },
+ {
+  "id": "private-bills",
+  "level": 4,
+  "title": "Private Bills"
+ },
+ {
+  "id": "same-question-rule",
+  "level": 4,
+  "title": "Same question rule"
+ },
+ {
+  "id": "broadcast-and-publication-of-parliamentary-proceedings",
+  "level": 4,
+  "title": "Broadcast and publication of parliamentary proceedings"
+ },
+ {
+  "id": "bills-lying-over-at-end-of-year-correction-of-year-reference",
+  "level": 4,
+  "title": "Bills lying over at end of year—correction of year reference"
+ },
+ {
+  "id": "consequential-renumbering",
+  "level": 4,
+  "title": "Consequential renumbering"
+ },
+ {
+  "id": "note-taking-in-public-gallery",
+  "level": 4,
+  "title": "Note-taking in public gallery"
+ },
+ {
+  "id": "part-7-after-parliament",
+  "level": 2,
+  "title": "Part 7: After Parliament"
+ },
+ {
+  "id": "7-1-royal-assent",
+  "level": 3,
+  "title": "7.1: Royal Assent"
+ },
+ {
+  "id": "7-2-commencement",
+  "level": 3,
+  "title": "7.2: Commencement"
+ },
+ {
+  "id": "7-3-proclamations",
+  "level": 3,
+  "title": "7.3: Proclamations"
+ },
+ {
+  "id": "introduction-2",
+  "level": 4,
+  "title": "Introduction"
+ },
+ {
+  "id": "settling-proclamations-of-commencement-and-other-instruments",
+  "level": 4,
+  "title": "Settling proclamations of commencement and other instruments"
+ },
+ {
+  "id": "proclamations-once-made-cannot-be-revoked",
+  "level": 4,
+  "title": "Proclamations once made cannot be revoked"
+ },
+ {
+  "id": "proclamations-not-to-be-retrospective",
+  "level": 4,
+  "title": "Proclamations not to be retrospective"
+ },
+ {
+  "id": "proclamations-to-be-published-in-the-government-gazette",
+  "level": 4,
+  "title": "Proclamations to be published in the Government Gazette"
+ },
+ {
+  "id": "part-8-glossary",
+  "level": 2,
+  "title": "Part 8: Glossary"
+ },
+ {
+  "id": "part-9-attachment-1",
+  "level": 2,
+  "title": "Part 9: Attachment 1"
+ },
+ {
+  "id": "the-legislative-process-an-ocpc-perspective",
+  "level": 2,
+  "title": "THE LEGISLATIVE PROCESS AN OCPC PERSPECTIVE"
+ },
+ {
+  "id": "part-10-attachment-2",
+  "level": 2,
+  "title": "Part 10: Attachment 2"
+ },
+ {
+  "id": "10-1-the-drafting-process",
+  "level": 3,
+  "title": "10.1: THE DRAFTING PROCESS"
+ }
+]

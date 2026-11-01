@@ -17,6 +17,13 @@ CATALOG_IDS = {g["id"] for g in load_catalog()}
 
 # Shortest genuine guideline in the collection is a few thousand words; block and login pages are under a few hundred.
 MIN_WORDS = 1000
+# Complete documents that are shorter than MIN_WORDS.
+SHORT_DOCUMENTS = {
+    "au-nsw-drafting-instructions-template",  # NSW Cabinet Office drafting-instructions template
+    "de-sn-landtag-richtlinien-formale-gestaltung",  # Saxon Landtag guidelines, 2020
+    "it-88-sardegna-manuale-testi-normativi-giunta",  # Sardinia Giunta resolution 30/8 of 2006
+}
+SHORT_MIN_WORDS = 300
 BLOCK_PAGE = re.compile(
     r"requisição foi bloqueada|access denied|request (?:was )?blocked|enable javascript|captcha|log ?in to (?:the )?site",
     re.I,
@@ -27,7 +34,8 @@ BLOCK_PAGE = re.compile(
 def test_converted_document_has_substantial_text(path: Path):
     text = BeautifulSoup(path.read_text(encoding="utf-8"), "lxml").get_text(" ")
     words = len(text.split())
-    assert words >= MIN_WORDS, f"{path.parent.name}: only {words} words; the download was probably not the document"
+    minimum = SHORT_MIN_WORDS if path.parent.name in SHORT_DOCUMENTS else MIN_WORDS
+    assert words >= minimum, f"{path.parent.name}: only {words} words; the download was probably not the document"
     head = text[:3000]
     assert not BLOCK_PAGE.search(head), f"{path.parent.name}: text looks like a block or login page"
 

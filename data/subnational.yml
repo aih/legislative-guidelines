@@ -438,11 +438,12 @@
   last_updated: "2024-11"
   currency:
     status: current
-    note: HTML handbook on the Premier's department site (landing page verified 200); search snippet shows last updated 18
-      November 2024. Covers drafting instructions and FLPs.
+    note: Published as a multi-page HTML handbook with a PDF edition of the whole handbook; search snippet shows last updated
+      18 November 2024. Covers drafting instructions and FLPs.
     checked_on: "2026-11-01"
-  original_format: HTML
-  source_url: https://www.premiers.qld.gov.au/publications/categories/policies-and-codes/handbooks/legislation-handbook.aspx
+  original_format: PDF
+  source_url: https://www.premiers.qld.gov.au/publications/categories/policies-and-codes/handbooks/legislation-handbook/assets/legislation-handbook.pdf
+  landing_url: https://www.premiers.qld.gov.au/publications/categories/policies-and-codes/handbooks/legislation-handbook.aspx
 
 - id: au-qld-working-with-oqpc
   title: Working with OQPC on Queensland legislation

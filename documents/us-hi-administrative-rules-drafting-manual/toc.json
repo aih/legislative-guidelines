@@ -1,0 +1,1467 @@
+[
+ {
+  "id": "hawaii-administrative-rules-drafting-manual",
+  "level": 2,
+  "title": "HAWAII ADMINISTRATIVE RULES DRAFTING MANUAL"
+ },
+ {
+  "id": "third-edition",
+  "level": 3,
+  "title": "THIRD EDITION"
+ },
+ {
+  "id": "foreword",
+  "level": 3,
+  "title": "FOREWORD"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 3,
+  "title": "TABLE OF CONTENTS"
+ },
+ {
+  "id": "p-a-r-t-i",
+  "level": 3,
+  "title": "P A R T I"
+ },
+ {
+  "id": "background-to-administrative-rulemaking",
+  "level": 3,
+  "title": "BACKGROUND TO ADMINISTRATIVE RULEMAKING"
+ },
+ {
+  "id": "chapter-1",
+  "level": 3,
+  "title": "Chapter 1"
+ },
+ {
+  "id": "introduction",
+  "level": 5,
+  "title": "INTRODUCTION"
+ },
+ {
+  "id": "chapter-2",
+  "level": 3,
+  "title": "Chapter 2"
+ },
+ {
+  "id": "the-administrative-process-conceptual-foundations",
+  "level": 5,
+  "title": "THE ADMINISTRATIVE PROCESS - CONCEPTUAL FOUNDATIONS"
+ },
+ {
+  "id": "separation-of-powers",
+  "level": 5,
+  "title": "Separation of Powers"
+ },
+ {
+  "id": "nondelegation",
+  "level": 5,
+  "title": "Nondelegation"
+ },
+ {
+  "id": "the-rule-of-law",
+  "level": 5,
+  "title": "The Rule of Law"
+ },
+ {
+  "id": "the-modern-view",
+  "level": 5,
+  "title": "The Modern View"
+ },
+ {
+  "id": "chapter-3",
+  "level": 2,
+  "title": "Chapter 3"
+ },
+ {
+  "id": "administrative-rulemaking",
+  "level": 5,
+  "title": "ADMINISTRATIVE RULEMAKING"
+ },
+ {
+  "id": "background",
+  "level": 5,
+  "title": "Background"
+ },
+ {
+  "id": "uniform-rules-format",
+  "level": 5,
+  "title": "Uniform Rules Format"
+ },
+ {
+  "id": "p-a-r-t-ii",
+  "level": 2,
+  "title": "P A R T II"
+ },
+ {
+  "id": "hawaii-administrative-rules-format",
+  "level": 2,
+  "title": "HAWAII ADMINISTRATIVE RULES FORMAT"
+ },
+ {
+  "id": "00-1-7-sending-copies-to-the-legislative-reference-bureau-co",
+  "level": 5,
+  "title": "§00-1-7 Sending copies to the legislative reference bureau. Copies of"
+ },
+ {
+  "id": "examples",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "example",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-of-form-and-style-spacing-8-8-14",
+  "level": 5,
+  "title": "EXAMPLE OF FORM AND STYLE--SPACING (8/8/14)"
+ },
+ {
+  "id": "example-2",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-3",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "examples-2",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "chapters-and-other-larger-units-of-organization-prohibited-u",
+  "level": 5,
+  "title": "chapters and other larger units of organization prohibited; units below"
+ },
+ {
+  "id": "example-of-form-and-style-organization-8-8-14",
+  "level": 5,
+  "title": "EXAMPLE OF FORM AND STYLE--ORGANIZATION (8/8/14)"
+ },
+ {
+  "id": "example-4",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "correct",
+  "level": 5,
+  "title": "CORRECT"
+ },
+ {
+  "id": "incorrect",
+  "level": 5,
+  "title": "INCORRECT"
+ },
+ {
+  "id": "00-4-2-references-to-hawaii-revised-statutes-revised-laws-of",
+  "level": 5,
+  "title": "§00-4-2 References to Hawaii Revised Statutes, Revised Laws of"
+ },
+ {
+  "id": "example-5",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "00-4-4-sections-implemented-or-interpreted-by-rule-section-a",
+  "level": 5,
+  "title": "§00-4-4 Sections implemented or interpreted by rule section. (a)"
+ },
+ {
+  "id": "example-6",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-7",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "correct-2",
+  "level": 5,
+  "title": "CORRECT"
+ },
+ {
+  "id": "incorrect-2",
+  "level": 5,
+  "title": "INCORRECT"
+ },
+ {
+  "id": "example-8",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "correct-3",
+  "level": 5,
+  "title": "CORRECT"
+ },
+ {
+  "id": "correct-4",
+  "level": 5,
+  "title": "CORRECT"
+ },
+ {
+  "id": "incorrect-3",
+  "level": 5,
+  "title": "INCORRECT"
+ },
+ {
+  "id": "example-9",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-10",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "fee-schedule-5-1-13",
+  "level": 5,
+  "title": "Fee Schedule (5/1/13)"
+ },
+ {
+  "id": "item-submission-to-fee-amount",
+  "level": 5,
+  "title": "Item Submission To Fee Amount"
+ },
+ {
+  "id": "style-words-and-grammar-7-11-14",
+  "level": 5,
+  "title": "STYLE, WORDS, AND GRAMMAR (7/11/14)"
+ },
+ {
+  "id": "example-11",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "examples-3",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "examples-4",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "examples-5",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "examples-6",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "examples-7",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "example-12",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "examples-8",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "examples-9",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "examples-10",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "in-text",
+  "level": 5,
+  "title": "In Text"
+ },
+ {
+  "id": "parenthetically",
+  "level": 5,
+  "title": "Parenthetically"
+ },
+ {
+  "id": "do-not-use-use",
+  "level": 5,
+  "title": "Do Not Use Use"
+ },
+ {
+  "id": "do-not-use-use-2",
+  "level": 5,
+  "title": "Do Not Use Use"
+ },
+ {
+  "id": "do-not-use-use-3",
+  "level": 5,
+  "title": "Do Not Use Use"
+ },
+ {
+  "id": "exceptions",
+  "level": 5,
+  "title": "Exceptions:"
+ },
+ {
+  "id": "generally",
+  "level": 5,
+  "title": "Generally"
+ },
+ {
+  "id": "do-not-use-use-4",
+  "level": 5,
+  "title": "Do Not Use Use"
+ },
+ {
+  "id": "do-not-use-use-5",
+  "level": 5,
+  "title": "Do Not Use Use"
+ },
+ {
+  "id": "family-status",
+  "level": 5,
+  "title": "Family Status"
+ },
+ {
+  "id": "do-not-use-use-6",
+  "level": 5,
+  "title": "Do Not Use Use"
+ },
+ {
+  "id": "ess-and-trix-endings",
+  "level": 5,
+  "title": "\"-Ess\" and \"-Trix\" Endings"
+ },
+ {
+  "id": "do-not-use-use-7",
+  "level": 5,
+  "title": "Do Not Use Use"
+ },
+ {
+  "id": "00-4-9-1-formats-for-rulemaking-actions-all-at-chapter-or-hi",
+  "level": 5,
+  "title": "§00-4.9-1 Formats for rulemaking actions; all at chapter or higher"
+ },
+ {
+  "id": "00-4-9-2-compiled-chapters-analyses-repealed-sections-the-ch",
+  "level": 5,
+  "title": "§00-4.9-2 Compiled chapters; analyses; repealed sections. The chapter"
+ },
+ {
+  "id": "00-5-0-5-amendment-and-compilation-of-entire-chapter-a",
+  "level": 5,
+  "title": "§00-5-0.5 Amendment and compilation of entire chapter. (a)"
+ },
+ {
+  "id": "00-5-2-1-all-rules-prepared-in-standard-and-ramseyer-formats",
+  "level": 5,
+  "title": "§00-5-2.1 All rules prepared in standard and Ramseyer formats. The"
+ },
+ {
+  "id": "examples-11",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "00-5-3-maps-forms-attachments-and-exhibits-changes-to-a",
+  "level": 5,
+  "title": "§00-5-3 Maps, forms, attachments, and exhibits; changes to. (a)"
+ },
+ {
+  "id": "example-13",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "00-5-4-standard-format-summary-and-signature-pages-a-a",
+  "level": 5,
+  "title": "§00-5-4 Standard format; summary and signature pages. (a) A"
+ },
+ {
+  "id": "00-5-4-05-new-chapter-simultaneous-amendment-and-compilation",
+  "level": 5,
+  "title": "§00-5-4.05 New chapter; simultaneous amendment and compilation"
+ },
+ {
+  "id": "00-5-4-1-simultaneous-repeal-and-adoption-of-new-chapters-in",
+  "level": 5,
+  "title": "§00-5-4.1 Simultaneous repeal and adoption of new chapters. In the"
+ },
+ {
+  "id": "example-14",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "00-5-4-3-repealed-chapters-by-rulemaking-by-statute-a-when-a",
+  "level": 5,
+  "title": "§00-5-4.3 Repealed chapters; by rulemaking; by statute. (a) When a"
+ },
+ {
+  "id": "00-5-6-notices-of-change-citation-of-authority-sections",
+  "level": 5,
+  "title": "§00-5-6 Notices of change; citation of authority; sections"
+ },
+ {
+  "id": "example-no-5-1-summary-page",
+  "level": 4,
+  "title": "EXAMPLE NO. 5-1--SUMMARY PAGE"
+ },
+ {
+  "id": "chapter-repealed-by-rulemaking-9-15-14",
+  "level": 5,
+  "title": "(Chapter Repealed by Rulemaking) (9/15/14)"
+ },
+ {
+  "id": "example-no-5-2-repeal-page",
+  "level": 4,
+  "title": "EXAMPLE NO. 5-2--REPEAL PAGE"
+ },
+ {
+  "id": "chapter-repealed-by-rulemaking-9-15-14-2",
+  "level": 5,
+  "title": "(Chapter Repealed by Rulemaking) (9/15/14)"
+ },
+ {
+  "id": "example-no-5-3-signature-page",
+  "level": 4,
+  "title": "EXAMPLE NO. 5-3--SIGNATURE PAGE"
+ },
+ {
+  "id": "chapter-repealed-by-rulemaking-9-15-14-3",
+  "level": 5,
+  "title": "(Chapter Repealed by Rulemaking) (9/15/14)"
+ },
+ {
+  "id": "example-no-5-4-notice-of-change",
+  "level": 4,
+  "title": "EXAMPLE NO. 5-4--NOTICE OF CHANGE"
+ },
+ {
+  "id": "section-repealed-by-statute-3-1-14",
+  "level": 5,
+  "title": "(Section Repealed by Statute) (3/1/14)"
+ },
+ {
+  "id": "example-no-5-5-combined-summary-and-signature-page",
+  "level": 4,
+  "title": "EXAMPLE NO. 5-5--COMBINED SUMMARY AND SIGNATURE PAGE"
+ },
+ {
+  "id": "chapter-repealed-by-statute-5-28-15",
+  "level": 5,
+  "title": "(Chapter Repealed by Statute) (5/28/15)"
+ },
+ {
+  "id": "example-no-5-6-repeal-page",
+  "level": 4,
+  "title": "EXAMPLE NO. 5-6--REPEAL PAGE"
+ },
+ {
+  "id": "chapter-repealed-by-statute-9-15-14",
+  "level": 5,
+  "title": "(Chapter Repealed by Statute) (9/15/14)"
+ },
+ {
+  "id": "example-no-5-7-simultaneous-amendment-and-compilation-of-cha",
+  "level": 4,
+  "title": "EXAMPLE NO. 5-7--SIMULTANEOUS AMENDMENT AND COMPILATION OF CHAPTER"
+ },
+ {
+  "id": "example-no-5-8-notice-of-change",
+  "level": 4,
+  "title": "EXAMPLE NO. 5-8--NOTICE OF CHANGE"
+ },
+ {
+  "id": "authorization-1-1-14",
+  "level": 5,
+  "title": "(Authorization) (1/1/14)"
+ },
+ {
+  "id": "example-no-5-9-notice-of-change",
+  "level": 4,
+  "title": "EXAMPLE NO. 5-9--NOTICE OF CHANGE"
+ },
+ {
+  "id": "authorization-1-1-14-2",
+  "level": 5,
+  "title": "(Authorization) (1/1/14)"
+ },
+ {
+  "id": "example-no-5-10-notice-of-change",
+  "level": 4,
+  "title": "EXAMPLE NO. 5-10--NOTICE OF CHANGE"
+ },
+ {
+  "id": "authorization-1-1-14-3",
+  "level": 5,
+  "title": "(Authorization) (1/1/14)"
+ },
+ {
+  "id": "example-no-5-11-notice-of-change",
+  "level": 4,
+  "title": "EXAMPLE NO. 5-11--NOTICE OF CHANGE"
+ },
+ {
+  "id": "implementation-1-1-14",
+  "level": 5,
+  "title": "(Implementation) (1/1/14)"
+ },
+ {
+  "id": "example-no-5-12-notice-of-change",
+  "level": 4,
+  "title": "EXAMPLE NO. 5-12--NOTICE OF CHANGE"
+ },
+ {
+  "id": "implementation-1-1-14-2",
+  "level": 5,
+  "title": "(Implementation) (1/1/14)"
+ },
+ {
+  "id": "example-no-5-13-notice-of-change",
+  "level": 4,
+  "title": "EXAMPLE NO. 5-13--NOTICE OF CHANGE"
+ },
+ {
+  "id": "implementation-1-1-14-3",
+  "level": 5,
+  "title": "(Implementation) (1/1/14)"
+ },
+ {
+  "id": "example-no-5-14-notice-of-change",
+  "level": 4,
+  "title": "EXAMPLE NO. 5-14--NOTICE OF CHANGE"
+ },
+ {
+  "id": "authorization-and-implementation-1-1-14",
+  "level": 5,
+  "title": "(Authorization and Implementation) (1/1/14)"
+ },
+ {
+  "id": "example-no-5-15-notice-of-change",
+  "level": 4,
+  "title": "EXAMPLE NO. 5-15--NOTICE OF CHANGE"
+ },
+ {
+  "id": "authorization-and-implementation-1-1-14-2",
+  "level": 5,
+  "title": "(Authorization and Implementation) (1/1/14)"
+ },
+ {
+  "id": "example-no-5-16-notice-of-change",
+  "level": 4,
+  "title": "EXAMPLE NO. 5-16--NOTICE OF CHANGE"
+ },
+ {
+  "id": "source-note-1-1-14",
+  "level": 5,
+  "title": "(Source Note) (1/1/14)"
+ },
+ {
+  "id": "example-no-5-17-notice-of-change",
+  "level": 4,
+  "title": "EXAMPLE NO. 5-17--NOTICE OF CHANGE"
+ },
+ {
+  "id": "source-note-authorization-and-implementation-1-1-14",
+  "level": 5,
+  "title": "(Source Note, Authorization, and Implementation) (1/1/14)"
+ },
+ {
+  "id": "00-5-5-5-compilation-of-title-tables-of-sections-affected-ev",
+  "level": 5,
+  "title": "§00-5.5-5 Compilation of title; tables of sections affected. Every time"
+ },
+ {
+  "id": "00-5-5-6-examples-of-simultaneous-amendment-and-compilation-",
+  "level": 5,
+  "title": "§00-5.5-6 Examples of simultaneous amendment and compilation of"
+ },
+ {
+  "id": "example-15",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-16",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-correct",
+  "level": 5,
+  "title": "Example: CORRECT"
+ },
+ {
+  "id": "incorrect-4",
+  "level": 5,
+  "title": "INCORRECT"
+ },
+ {
+  "id": "correct-5",
+  "level": 5,
+  "title": "CORRECT"
+ },
+ {
+  "id": "incorrect-5",
+  "level": 5,
+  "title": "INCORRECT"
+ },
+ {
+  "id": "example-correct-2",
+  "level": 5,
+  "title": "Example: CORRECT"
+ },
+ {
+  "id": "incorrect-6",
+  "level": 5,
+  "title": "INCORRECT"
+ },
+ {
+  "id": "example-correct-3",
+  "level": 5,
+  "title": "Example: CORRECT"
+ },
+ {
+  "id": "incorrect-7",
+  "level": 5,
+  "title": "INCORRECT"
+ },
+ {
+  "id": "example-correct-4",
+  "level": 5,
+  "title": "Example: CORRECT"
+ },
+ {
+  "id": "incorrect-8",
+  "level": 5,
+  "title": "INCORRECT"
+ },
+ {
+  "id": "00-6-4-7-amendments-simultaneous-amendment-and-compilation-o",
+  "level": 5,
+  "title": "§00-6-4.7 Amendments; simultaneous amendment and compilation of"
+ },
+ {
+  "id": "00-6-5-section-or-subsection-to-be-set-out-at-length-a-the",
+  "level": 5,
+  "title": "§00-6-5 Section or subsection to be set out at length. (a) The"
+ },
+ {
+  "id": "example-17",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-18",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-19",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-20",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-21",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-22",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-23",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-24",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-25",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-correct-5",
+  "level": 5,
+  "title": "Example: CORRECT"
+ },
+ {
+  "id": "incorrect-9",
+  "level": 5,
+  "title": "INCORRECT"
+ },
+ {
+  "id": "00-6-7-7-amendments-new-material-simultaneous-amendment-and-",
+  "level": 5,
+  "title": "§00-6-7.7 Amendments; new material; simultaneous amendment and compilation of chapter only; effect upon requirements of subchapter. (a)"
+ },
+ {
+  "id": "00-6-8-new-subchapters-or-larger-organizational-units-a-mate",
+  "level": 5,
+  "title": "§00-6-8 New subchapters or larger organizational units. (a) Material"
+ },
+ {
+  "id": "example-26",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-27",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "00-6-11-new-paragraphs-subparagraphs-and-clauses-the-additio",
+  "level": 5,
+  "title": "§00-6-11 New paragraphs, subparagraphs, and clauses. The addition"
+ },
+ {
+  "id": "example-28",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-29",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "00-6-13-7-amendments-repealed-material-simultaneous-amendmen",
+  "level": 5,
+  "title": "§00-6-13.7 Amendments; repealed material; simultaneous amendment and compilation of chapter only; effect upon requirements of"
+ },
+ {
+  "id": "00-6-14-repeal-of-subchapters-or-larger-organizational-units",
+  "level": 5,
+  "title": "§00-6-14 Repeal of subchapters or larger organizational units. (a)"
+ },
+ {
+  "id": "example-30",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-31",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-32",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "00-6-20-amendments-to-maps-forms-attachments-and-exhibits-a",
+  "level": 5,
+  "title": "§00-6-20 Amendments to maps, forms, attachments, and exhibits. (a)"
+ },
+ {
+  "id": "example-33",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "00-6-21-source-notes-sections-authorizing-and-implemented-a",
+  "level": 5,
+  "title": "§00-6-21 Source notes; sections authorizing and implemented. (a)"
+ },
+ {
+  "id": "example-34",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "00-6-21-5-dividing-existing-section-into-multiple-sections-a",
+  "level": 5,
+  "title": "§00-6-21.5 Dividing existing section into multiple sections. An existing"
+ },
+ {
+  "id": "example-35",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "00-6-22-statement-of-effect-of-bracketing-strikethrough-and",
+  "level": 5,
+  "title": "§00-6-22 Statement of effect of bracketing, strikethrough, and"
+ },
+ {
+  "id": "example-36",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-37",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "00-6-30-amending-a-section-when-chapter-is-compiled-example-",
+  "level": 5,
+  "title": "§00-6-30 Amending a section when chapter is compiled; example. (a)"
+ },
+ {
+  "id": "example-38",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "example-39",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "00-6-32-repealing-a-section-when-chapter-is-compiled-example",
+  "level": 5,
+  "title": "§00-6-32 Repealing a section when chapter is compiled; example. (a)"
+ },
+ {
+  "id": "example-40",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "00-8-9-filing-of-main-body-of-active-rules-lieutenant-govern",
+  "level": 5,
+  "title": "§00-8-9 Filing of main body of active rules; lieutenant governor. The"
+ },
+ {
+  "id": "00-8-10-filing-of-amendments-new-and-repealed-sections-and",
+  "level": 5,
+  "title": "§00-8-10 Filing of amendments, new and repealed sections, and"
+ },
+ {
+  "id": "00-8-11-filing-pages-of-inactive-rules-lieutenant-governor-a",
+  "level": 5,
+  "title": "§00-8-11 Filing pages of inactive rules; lieutenant governor. (a)"
+ },
+ {
+  "id": "example-41",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "00-8-13-storage-and-maintenance-of-rules-by-agencies-each",
+  "level": 5,
+  "title": "§00-8-13 Storage and maintenance of rules by agencies. Each"
+ },
+ {
+  "id": "00-9-3-official-copies-available-for-distribution-cost-regar",
+  "level": 5,
+  "title": "§00-9-3 Official copies available for distribution; cost. Regardless of"
+ },
+ {
+  "id": "00-10-3-examples-simultaneous-amendment-and-compilation-of",
+  "level": 5,
+  "title": "§00-10-3 Examples; simultaneous amendment and compilation of"
+ },
+ {
+  "id": "00-10-7-examples-conversion-of-emergency-and-interim-rules-t",
+  "level": 5,
+  "title": "§00-10-7 Examples; conversion of emergency and interim rules to"
+ },
+ {
+  "id": "example-no-10-1-adoption-of-new-chapter",
+  "level": 2,
+  "title": "EXAMPLE NO. 10-1--ADOPTION OF NEW CHAPTER"
+ },
+ {
+  "id": "standard-format-4-15-84",
+  "level": 5,
+  "title": "(Standard Format) (4/15/84)"
+ },
+ {
+  "id": "the-summary-page-shall-be-on-a-separate-sheet-of-paper",
+  "level": 5,
+  "title": "[The Summary Page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "two-sided-copy-begins-here",
+  "level": 5,
+  "title": "[Two-sided copy begins here]"
+ },
+ {
+  "id": "rules-continue",
+  "level": 5,
+  "title": "(Rules continue)"
+ },
+ {
+  "id": "rules-continue-2",
+  "level": 5,
+  "title": "(Rules continue)"
+ },
+ {
+  "id": "two-sided-copy-ends-here",
+  "level": 5,
+  "title": "[Two-sided copy ends here]"
+ },
+ {
+  "id": "the-signature-page-shall-be-a-separate-sheet-of-paper",
+  "level": 5,
+  "title": "[The signature page shall be a separate sheet of paper.]"
+ },
+ {
+  "id": "example-no-10-2-adoption-of-new-chapter",
+  "level": 2,
+  "title": "EXAMPLE NO. 10-2--ADOPTION OF NEW CHAPTER"
+ },
+ {
+  "id": "ramseyer-format-4-15-84",
+  "level": 5,
+  "title": "(Ramseyer Format) (4/15/84)"
+ },
+ {
+  "id": "rules-continue-3",
+  "level": 5,
+  "title": "(Rules continue)"
+ },
+ {
+  "id": "the-chapter-in-ramseyer-format-must-exactly-match-the-standa",
+  "level": 5,
+  "title": "[The chapter in Ramseyer format must exactly match the standard format.]"
+ },
+ {
+  "id": "the-provisions-on-this-page-should-begin-directly-after-the-",
+  "level": 5,
+  "title": "[The provisions on this page should begin directly after the last section of the chapter. If the chapter had not ended at end of the prior page, paragraph 2 would have begun on that page.]"
+ },
+ {
+  "id": "example-no-10-3-repeal-of-chapter",
+  "level": 2,
+  "title": "EXAMPLE NO. 10-3--REPEAL OF CHAPTER"
+ },
+ {
+  "id": "standard-format-6-8-15",
+  "level": 5,
+  "title": "(Standard Format) (6/8/15)"
+ },
+ {
+  "id": "the-summary-page-shall-be-on-a-separate-sheet-of-paper-2",
+  "level": 5,
+  "title": "[The Summary page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "the-repeal-page-shall-be-on-a-separate-sheet-of-paper",
+  "level": 5,
+  "title": "[The Repeal page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "the-signature-page-shall-be-on-a-separate-sheet-of-paper",
+  "level": 5,
+  "title": "[The Signature page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "example-no-10-4-repeal-of-chapter",
+  "level": 2,
+  "title": "EXAMPLE NO. 10-4--REPEAL OF CHAPTER"
+ },
+ {
+  "id": "ramseyer-format-6-8-15",
+  "level": 5,
+  "title": "(Ramseyer Format) (6/8/15)"
+ },
+ {
+  "id": "example-no-10-5-repeal-of-subtitle",
+  "level": 3,
+  "title": "EXAMPLE NO. 10-5--REPEAL OF SUBTITLE"
+ },
+ {
+  "id": "standard-format-5-19-14",
+  "level": 5,
+  "title": "(Standard Format) (5/19/14)"
+ },
+ {
+  "id": "the-summary-page-shall-be-on-a-separate-sheet-of-paper-3",
+  "level": 5,
+  "title": "[The Summary page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "the-repeal-page-shall-be-on-a-separate-sheet-of-paper-2",
+  "level": 5,
+  "title": "[The Repeal page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "the-repeal-page-shall-be-on-a-separate-sheet-of-paper-3",
+  "level": 5,
+  "title": "[The Repeal page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "the-repeal-page-shall-be-on-a-separate-sheet-of-paper-4",
+  "level": 5,
+  "title": "[The Repeal page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "the-repeal-page-shall-be-on-a-separate-sheet-of-paper-5",
+  "level": 5,
+  "title": "[The Repeal page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "the-repeal-page-shall-be-on-a-separate-sheet-of-paper-6",
+  "level": 5,
+  "title": "[The Repeal page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "the-repeal-page-shall-be-on-a-separate-sheet-of-paper-7",
+  "level": 5,
+  "title": "[The Repeal page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "the-signature-page-shall-be-on-a-separate-sheet-of-paper-2",
+  "level": 5,
+  "title": "[The Signature page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "example-no-10-6-repeal-of-subtitle",
+  "level": 2,
+  "title": "EXAMPLE NO. 10-6--REPEAL OF SUBTITLE"
+ },
+ {
+  "id": "ramseyer-format-5-19-14",
+  "level": 5,
+  "title": "(Ramseyer Format) (5/19/14)"
+ },
+ {
+  "id": "example-no-10-7-simultaneous-amendment-and-compilation-of-ch",
+  "level": 3,
+  "title": "EXAMPLE NO. 10-7--SIMULTANEOUS AMENDMENT AND COMPILATION OF CHAPTER"
+ },
+ {
+  "id": "standard-format-4-15-84-2",
+  "level": 5,
+  "title": "(Standard Format) (4/15/84)"
+ },
+ {
+  "id": "the-summary-page-shall-be-on-a-separate-sheet-of-paper-4",
+  "level": 5,
+  "title": "[The Summary page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "two-sided-copy-begins-here-2",
+  "level": 5,
+  "title": "[Two-sided copy begins here]"
+ },
+ {
+  "id": "chapter-analysis-continues",
+  "level": 5,
+  "title": "(Chapter analysis continues)"
+ },
+ {
+  "id": "if-the-chapter-has-a-historical-note-put-it-after-the-chapte",
+  "level": 5,
+  "title": "[If the chapter has a historical note, put it after the chapter analysis.]"
+ },
+ {
+  "id": "rules-continue-4",
+  "level": 5,
+  "title": "(Rules continue)"
+ },
+ {
+  "id": "rules-continue-5",
+  "level": 5,
+  "title": "(Rules continue)"
+ },
+ {
+  "id": "rules-continue-6",
+  "level": 5,
+  "title": "(Rules continue)"
+ },
+ {
+  "id": "the-signature-page-shall-be-on-a-separate-sheet-of-paper-3",
+  "level": 5,
+  "title": "[The Signature Page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "example-no-10-8-simultaneous-amendment-and-compilation-of-ch",
+  "level": 2,
+  "title": "EXAMPLE NO. 10-8--SIMULTANEOUS AMENDMENT AND COMPILATION OF CHAPTER"
+ },
+ {
+  "id": "ramseyer-format-4-15-84-2",
+  "level": 5,
+  "title": "(Ramseyer Format) (4/15/84)"
+ },
+ {
+  "id": "two-sided-copy-begins-here-3",
+  "level": 5,
+  "title": "[Two-sided copy begins here]"
+ },
+ {
+  "id": "chapter-analysis-continues-2",
+  "level": 5,
+  "title": "(Chapter analysis continues)"
+ },
+ {
+  "id": "if-the-chapter-has-a-historical-note-put-it-after-the-chapte-2",
+  "level": 5,
+  "title": "[If the chapter has a historical note, put it after the chapter analysis.]"
+ },
+ {
+  "id": "rules-continue-7",
+  "level": 5,
+  "title": "(Rules continue)"
+ },
+ {
+  "id": "rules-continue-8",
+  "level": 5,
+  "title": "(Rules continue)"
+ },
+ {
+  "id": "rules-continue-9",
+  "level": 5,
+  "title": "(Rules continue)"
+ },
+ {
+  "id": "note-if-a-new-section-is-being-added-at-the-time-of-compilat",
+  "level": 5,
+  "title": "[Note: If a new section is being added at the time of compilation, the source note should read: \"[Eff and comp ]\"]"
+ },
+ {
+  "id": "rules-continue-10",
+  "level": 5,
+  "title": "(Rules continue)"
+ },
+ {
+  "id": "example-no-10-9-simultaneous-amendment-and-compilation-of-ch",
+  "level": 2,
+  "title": "EXAMPLE NO. 10-9--SIMULTANEOUS AMENDMENT AND COMPILATION OF CHAPTER"
+ },
+ {
+  "id": "includes-repeal-of-a-subchapter-and-addition-of-a-new-subcha",
+  "level": 5,
+  "title": "Includes Repeal of a Subchapter and Addition of a New Subchapter (Standard Format) (9/29/14)"
+ },
+ {
+  "id": "the-summary-page-shall-be-on-a-separate-sheet-of-paper-5",
+  "level": 5,
+  "title": "[The Summary page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "the-summary-page-shall-be-on-a-separate-sheet-of-paper-6",
+  "level": 5,
+  "title": "[The Summary page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "two-sided-copy-begins-here-4",
+  "level": 5,
+  "title": "[Two-sided copy begins here]"
+ },
+ {
+  "id": "16-85-2-notification-and-filing-of-names-addresses-and-chang",
+  "level": 5,
+  "title": "§16-85-2 Notification and filing of names, addresses, and changes. Any"
+ },
+ {
+  "id": "16-85-7-to-16-85-12-repealed-r",
+  "level": 5,
+  "title": "§§16-85-7 to 16-85-12 Repealed. [R ]"
+ },
+ {
+  "id": "16-85-25-general-standards-for-categories-of-information-a-e",
+  "level": 5,
+  "title": "§16-85-25 General standards for categories of information. (a) Except as"
+ },
+ {
+  "id": "rules-continue-11",
+  "level": 5,
+  "title": "(Rules continue)"
+ },
+ {
+  "id": "16-85-50-automatic-inactivation-for-failing-to-be-under",
+  "level": 5,
+  "title": "§16-85-50 Automatic inactivation for failing to be under"
+ },
+ {
+  "id": "rules-continue-12",
+  "level": 5,
+  "title": "(Rules continue)"
+ },
+ {
+  "id": "16-85-101-administrative-practice-and-procedure-the-rules-of",
+  "level": 5,
+  "title": "§16-85-101 Administrative practice and procedure. The rules of"
+ },
+ {
+  "id": "and-for-denial-revocation-suspension-or-condition-of-license",
+  "level": 5,
+  "title": "and for denial, revocation, suspension, or condition of license or"
+ },
+ {
+  "id": "16-85-117-civil-and-criminal-sanctions-for-unlicensed-or-unc",
+  "level": 5,
+  "title": "§16-85-117 Civil and criminal sanctions for unlicensed or uncertified activity; fines; injunctive relief; damages; forfeiture. (a) Any"
+ },
+ {
+  "id": "the-signature-page-shall-be-on-a-separate-sheet-of-paper-4",
+  "level": 5,
+  "title": "[The Signature page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "example-no-10-10-simultaneous-amendment-and-compilation-of-c",
+  "level": 2,
+  "title": "EXAMPLE NO. 10-10--SIMULTANEOUS AMENDMENT AND COMPILATION OF CHAPTER"
+ },
+ {
+  "id": "includes-repeal-of-a-subchapter-and-addition-of-a-new-subcha-2",
+  "level": 5,
+  "title": "Includes Repeal of a Subchapter and Addition of a New Subchapter (Ramseyer Format) (9/29/14)"
+ },
+ {
+  "id": "chapter-analysis-continues-3",
+  "level": 5,
+  "title": "(Chapter analysis continues)"
+ },
+ {
+  "id": "16-85-2-notification-and-filing-of-names-addresses-and-chang-2",
+  "level": 5,
+  "title": "§16-85-2 Notification and filing of names, addresses, and changes. Any"
+ },
+ {
+  "id": "16-85-4-preliminary-review-and-investigation-a-the",
+  "level": 5,
+  "title": "§16-85-4 Preliminary review and investigation. (a) The"
+ },
+ {
+  "id": "rules-continue-13",
+  "level": 5,
+  "title": "(Rules continue)"
+ },
+ {
+  "id": "16-85-25-general-standards-for-categories-of-information-a",
+  "level": 5,
+  "title": "§16-85-25 General standards for categories of information. (a)"
+ },
+ {
+  "id": "16-85-36-credit-hour-cme-hours-definition-except-as",
+  "level": 5,
+  "title": "§16-85-36 [Credit hour;] CME hours: definition. Except as"
+ },
+ {
+  "id": "rules-continue-14",
+  "level": 5,
+  "title": "(Rules continue)"
+ },
+ {
+  "id": "16-85-51-revocation-limitation-suspension-or-denial-of",
+  "level": 5,
+  "title": "§16-85-51 Revocation, limitation, suspension, or denial of"
+ },
+ {
+  "id": "rules-continue-15",
+  "level": 5,
+  "title": "(Rules continue)"
+ },
+ {
+  "id": "rules-continue-16",
+  "level": 5,
+  "title": "(Rules continue)"
+ },
+ {
+  "id": "16-85-101-administrative-practice-and-procedure-the-rules-of-2",
+  "level": 5,
+  "title": "§16-85-101 Administrative practice and procedure. The rules of"
+ },
+ {
+  "id": "16-85-112-grounds-for-refusal-to-renew-reinstate-or-restore-",
+  "level": 5,
+  "title": "§16-85-112 Grounds for refusal to renew, reinstate, or restore, and for denial, revocation, suspension, or condition of license or certificate. In"
+ },
+ {
+  "id": "16-85-117-civil-and-criminal-sanctions-for-unlicensed-or-unc-2",
+  "level": 5,
+  "title": "§16-85-117 Civil and criminal sanctions for unlicensed or uncertified"
+ },
+ {
+  "id": "example-no-10-11-adopting-permanent-rules-to-replace-emergen",
+  "level": 2,
+  "title": "EXAMPLE NO. 10-11--ADOPTING PERMANENT RULES TO REPLACE EMERGENCY OR INTERIM RULES"
+ },
+ {
+  "id": "standard-format-10-8-14",
+  "level": 5,
+  "title": "(Standard Format) (10/8/14)"
+ },
+ {
+  "id": "the-summary-page-shall-be-on-a-separate-sheet-of-paper-7",
+  "level": 5,
+  "title": "[The Summary page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "the-repeal-page-shall-be-on-a-separate-sheet-of-paper-8",
+  "level": 5,
+  "title": "[The Repeal page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "the-signature-page-shall-be-on-a-separate-sheet-of-paper-5",
+  "level": 5,
+  "title": "[The Signature page shall be on a separate sheet of paper.]"
+ },
+ {
+  "id": "example-no-10-12-adopting-permanent-rules-to-replace-emergen",
+  "level": 2,
+  "title": "EXAMPLE NO. 10-12--ADOPTING PERMANENT RULES TO REPLACE EMERGENCY OR INTERIM RULES"
+ },
+ {
+  "id": "ramseyer-format-10-8-14",
+  "level": 5,
+  "title": "(Ramseyer Format) (10/8/14)"
+ },
+ {
+  "id": "example-no-10-13-suggested-approach-to-drafting-rules",
+  "level": 2,
+  "title": "EXAMPLE NO. 10-13--SUGGESTED APPROACH TO DRAFTING RULES"
+ },
+ {
+  "id": "6-10-15",
+  "level": 5,
+  "title": "(6/10/15)"
+ },
+ {
+  "id": "i-the-substantive-product",
+  "level": 5,
+  "title": "I. The Substantive Product"
+ },
+ {
+  "id": "a-what-is-the-administrative-rules-format",
+  "level": 5,
+  "title": "A. What is the Administrative Rules Format?"
+ },
+ {
+  "id": "b-what-is-the-administrative-rules-drafting-manual",
+  "level": 5,
+  "title": "B. What is the Administrative Rules Drafting Manual?"
+ },
+ {
+  "id": "c-the-contents-of-the-administrative-rules-drafting-manual-a",
+  "level": 5,
+  "title": "C. The Contents of the Administrative Rules Drafting Manual Are Set Out in the Administrative Rules Format, Which is Substantially Identical to the Format Used for the Hawaii"
+ },
+ {
+  "id": "d-for-purposes-of-complying-with-the-requirements-of-the-for",
+  "level": 5,
+  "title": "D. For Purposes of Complying with the Requirements of the Format:"
+ },
+ {
+  "id": "iv-format-for-rulemaking-actions-new-amended-repealed-chapte",
+  "level": 5,
+  "title": "IV. Format for Rulemaking Actions; New, Amended, Repealed Chapters"
+ },
+ {
+  "id": "a-two-versions-needed-for-each-rulemaking-action-one-in",
+  "level": 5,
+  "title": "A. Two Versions Needed for Each Rulemaking Action: One in"
+ },
+ {
+  "id": "b-do-all-rulemaking-actions-at-chapter-level-this-is-mandato",
+  "level": 5,
+  "title": "B. Do All Rulemaking Actions at Chapter Level. This is Mandatory for Any Rules Going to Public Hearing After"
+ },
+ {
+  "id": "v-notices-of-change",
+  "level": 5,
+  "title": "V. Notices of Change"
+ },
+ {
+  "id": "vi-after-draft-reviewed-and-approved-according-to-agency-and",
+  "level": 5,
+  "title": "VI. After Draft Reviewed and Approved According to Agency and Departmental (Internal) Requirements"
+ },
+ {
+  "id": "a-comply-with-requirements-of-governor-s-administrative",
+  "level": 5,
+  "title": "A. Comply with Requirements of Governor's Administrative"
+ },
+ {
+  "id": "b-agency-may-request-legislative-reference-bureau-to-review",
+  "level": 5,
+  "title": "B. Agency May Request Legislative Reference Bureau to Review"
+ },
+ {
+  "id": "c-after-revisions-made-pursuant-to-public-hearing-and-depart",
+  "level": 5,
+  "title": "C. After Revisions Made Pursuant to Public Hearing and Department Head Approves Final, Send to Governor's Office"
+ },
+ {
+  "id": "example-no-10-14-suggestions-for-preparation-of-rules",
+  "level": 2,
+  "title": "EXAMPLE NO. 10-14--SUGGESTIONS FOR PREPARATION OF RULES"
+ },
+ {
+  "id": "6-1-14",
+  "level": 5,
+  "title": "(6/1/14)"
+ },
+ {
+  "id": "i-drafting-rules",
+  "level": 5,
+  "title": "I. Drafting Rules"
+ },
+ {
+  "id": "ii-approval-for-public-hearing",
+  "level": 5,
+  "title": "II. Approval for Public Hearing"
+ },
+ {
+  "id": "iii-review-by-the-legislative-reference-bureau",
+  "level": 5,
+  "title": "III. Review by the Legislative Reference Bureau"
+ },
+ {
+  "id": "iv-public-notice-and-hearing",
+  "level": 5,
+  "title": "IV. Public Notice and Hearing"
+ },
+ {
+  "id": "v-final-copies-of-rules",
+  "level": 5,
+  "title": "V. Final Copies of Rules"
+ },
+ {
+  "id": "vi-approval-and-filing",
+  "level": 5,
+  "title": "VI. Approval and Filing"
+ },
+ {
+  "id": "vii-processing-and-distribution-to-legislative-reference-bur",
+  "level": 5,
+  "title": "VII. Processing and Distribution to Legislative Reference Bureau"
+ },
+ {
+  "id": "viii-notices-of-change",
+  "level": 5,
+  "title": "VIII. Notices of Change"
+ },
+ {
+  "id": "ix-distribution-of-rules-to-public",
+  "level": 5,
+  "title": "IX. Distribution of Rules to Public"
+ }
+]

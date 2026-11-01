@@ -1,0 +1,1202 @@
+[
+ {
+  "id": "minnesota-revisor-s-manual-with-styles-and-forms-2013-editio",
+  "level": 2,
+  "title": "MINNESOTA REVISOR'S MANUAL with Styles and Forms 2013 Edition"
+ },
+ {
+  "id": "published-by",
+  "level": 4,
+  "title": "Published by"
+ },
+ {
+  "id": "the-office-of-the-revisor-of-statutes-st-paul-minnesota",
+  "level": 4,
+  "title": "The Office of the Revisor of Statutes St. Paul, Minnesota"
+ },
+ {
+  "id": "foreword",
+  "level": 2,
+  "title": "FOREWORD"
+ },
+ {
+  "id": "contents",
+  "level": 4,
+  "title": "Contents"
+ },
+ {
+  "id": "chapter-1-introduction",
+  "level": 2,
+  "title": "Chapter 1 Introduction"
+ },
+ {
+  "id": "1-1-authority",
+  "level": 3,
+  "title": "1.1 AUTHORITY"
+ },
+ {
+  "id": "1-2-organization-and-use-of-the-manual",
+  "level": 3,
+  "title": "1.2 ORGANIZATION AND USE OF THE MANUAL"
+ },
+ {
+  "id": "chapter-2-bill-drafting",
+  "level": 2,
+  "title": "Chapter 2 Bill Drafting"
+ },
+ {
+  "id": "2-1-general-drafting-principles",
+  "level": 3,
+  "title": "2.1 GENERAL DRAFTING PRINCIPLES"
+ },
+ {
+  "id": "2-2-applying-certain-drafting-standards-and-recommendations",
+  "level": 3,
+  "title": "2.2 APPLYING CERTAIN DRAFTING STANDARDS AND RECOMMENDATIONS"
+ },
+ {
+  "id": "2-3-bill-form-examples",
+  "level": 3,
+  "title": "2.3 BILL FORM EXAMPLES"
+ },
+ {
+  "id": "2-4-bill-basics",
+  "level": 3,
+  "title": "2.4 BILL BASICS"
+ },
+ {
+  "id": "2-5-title",
+  "level": 3,
+  "title": "2.5 TITLE"
+ },
+ {
+  "id": "2-6-enacting-clause",
+  "level": 3,
+  "title": "2.6 ENACTING CLAUSE"
+ },
+ {
+  "id": "2-7-bill-organization",
+  "level": 3,
+  "title": "2.7 BILL ORGANIZATION"
+ },
+ {
+  "id": "2-8-proposed-section-coding",
+  "level": 3,
+  "title": "2.8 PROPOSED SECTION CODING"
+ },
+ {
+  "id": "2-9-headnotes",
+  "level": 3,
+  "title": "2.9 HEADNOTES"
+ },
+ {
+  "id": "2-10-displaying-new-and-amended-law",
+  "level": 3,
+  "title": "2.10 DISPLAYING NEW AND AMENDED LAW"
+ },
+ {
+  "id": "2-11-amending-law-enacted-or-proposed-to-be-enacted-within-t",
+  "level": 3,
+  "title": "2.11 AMENDING LAW ENACTED, OR PROPOSED TO BE ENACTED, WITHIN THE SAME SESSION"
+ },
+ {
+  "id": "amendment-to-previously-amended-uncoded-law",
+  "level": 4,
+  "title": "Amendment to previously amended uncoded law"
+ },
+ {
+  "id": "amendment-to-uncoded-law-amended-by-bill-not-yet-enacted-int",
+  "level": 4,
+  "title": "Amendment to uncoded law amended by bill not yet enacted into law"
+ },
+ {
+  "id": "amendment-to-new-coded-law",
+  "level": 4,
+  "title": "Amendment to new coded law"
+ },
+ {
+  "id": "amendment-to-new-coded-law-to-be-added-by-bill-not-yet-enact",
+  "level": 4,
+  "title": "Amendment to new coded law to be added by bill not yet enacted into law"
+ },
+ {
+  "id": "amendment-to-coded-law-amended-earlier-in-same-legislative-s",
+  "level": 4,
+  "title": "Amendment to coded law amended earlier in same legislative session"
+ },
+ {
+  "id": "amendment-to-coded-law-amended-by-bill-not-yet-enacted-into-",
+  "level": 4,
+  "title": "Amendment to coded law amended by bill not yet enacted into law"
+ },
+ {
+  "id": "amendment-to-new-uncoded-law",
+  "level": 4,
+  "title": "Amendment to new uncoded law"
+ },
+ {
+  "id": "2-12-removing-previously-enacted-amendments",
+  "level": 3,
+  "title": "2.12 REMOVING PREVIOUSLY ENACTED AMENDMENTS"
+ },
+ {
+  "id": "amendments-made-to-codified-law",
+  "level": 4,
+  "title": "Amendments made to codified law"
+ },
+ {
+  "id": "amendments-made-to-uncodified-law",
+  "level": 4,
+  "title": "Amendments made to uncodified law"
+ },
+ {
+  "id": "2-13-citation-or-short-title",
+  "level": 3,
+  "title": "2.13 CITATION OR SHORT TITLE"
+ },
+ {
+  "id": "2-14-statement-of-purpose-or-policy",
+  "level": 3,
+  "title": "2.14 STATEMENT OF PURPOSE OR POLICY"
+ },
+ {
+  "id": "2-15-interpretation-clause",
+  "level": 3,
+  "title": "2.15 INTERPRETATION CLAUSE"
+ },
+ {
+  "id": "2-16-definitions",
+  "level": 3,
+  "title": "2.16 DEFINITIONS"
+ },
+ {
+  "id": "2-17-severability-or-nonseverability-clause",
+  "level": 3,
+  "title": "2.17 SEVERABILITY OR NONSEVERABILITY CLAUSE"
+ },
+ {
+  "id": "2-18-saving-or-nonsaving-clause",
+  "level": 3,
+  "title": "2.18 SAVING OR NONSAVING CLAUSE"
+ },
+ {
+  "id": "2-19-appropriations",
+  "level": 3,
+  "title": "2.19 APPROPRIATIONS"
+ },
+ {
+  "id": "2-20-repealers",
+  "level": 3,
+  "title": "2.20 REPEALERS"
+ },
+ {
+  "id": "2-21-effective-dates",
+  "level": 3,
+  "title": "2.21 EFFECTIVE DATES"
+ },
+ {
+  "id": "2-22-examples-a-titles",
+  "level": 3,
+  "title": "2.22 EXAMPLES (a) Titles"
+ },
+ {
+  "id": "type-of-amendment-citation-beginning-with-amending",
+  "level": 4,
+  "title": "Type of amendment Citation beginning with “amending”"
+ },
+ {
+  "id": "type-of-amendment-citation-beginning-with-amending-2",
+  "level": 4,
+  "title": "Type of amendment Citation beginning with “amending”"
+ },
+ {
+  "id": "type-of-amendment-citation-beginning-with-amending-3",
+  "level": 4,
+  "title": "Type of amendment Citation beginning with “amending”"
+ },
+ {
+  "id": "type-of-addition-citation",
+  "level": 4,
+  "title": "Type of addition Citation"
+ },
+ {
+  "id": "type-of-repeal-citation-beginning-with-repealing",
+  "level": 4,
+  "title": "Type of repeal Citation beginning with “repealing”"
+ },
+ {
+  "id": "b-sections",
+  "level": 3,
+  "title": "(b) Sections"
+ },
+ {
+  "id": "c-repealers",
+  "level": 3,
+  "title": "(c) Repealers"
+ },
+ {
+  "id": "d-appropriation",
+  "level": 3,
+  "title": "(d) Appropriation"
+ },
+ {
+  "id": "e-effective-dates",
+  "level": 3,
+  "title": "(e) Effective dates"
+ },
+ {
+  "id": "chapter-3-particular-subjects",
+  "level": 2,
+  "title": "Chapter 3 Particular Subjects"
+ },
+ {
+  "id": "3-1-omnibus-bills",
+  "level": 3,
+  "title": "3.1 OMNIBUS BILLS"
+ },
+ {
+  "id": "appropriating-money-in-title-pg-13-appropriation",
+  "level": 4,
+  "title": "“Appropriating money” in title pg. 13 Appropriation"
+ },
+ {
+  "id": "pg-81",
+  "level": 4,
+  "title": "pg. 81"
+ },
+ {
+  "id": "individual-appropriation-item-pg-82",
+  "level": 4,
+  "title": "Individual appropriation item, pg. 82"
+ },
+ {
+  "id": "86-funds-from-which-appropriations-are-made-pg-84",
+  "level": 4,
+  "title": "86 Funds from which appropriations are made, pg. 84"
+ },
+ {
+  "id": "3-2-bonding",
+  "level": 3,
+  "title": "3.2 BONDING"
+ },
+ {
+  "id": "3-3-amendments-to-the-minnesota-constitution",
+  "level": 3,
+  "title": "3.3 AMENDMENTS TO THE MINNESOTA CONSTITUTION"
+ },
+ {
+  "id": "proposing-amendment-to-multiple-sections-cont",
+  "level": 4,
+  "title": "(Proposing amendment to multiple sections, cont.)"
+ },
+ {
+  "id": "proposing-amendment-to-multiple-sections-cont-2",
+  "level": 4,
+  "title": "(Proposing amendment to multiple sections, cont.)"
+ },
+ {
+  "id": "3-4-crimes-and-penalties",
+  "level": 3,
+  "title": "3.4 CRIMES AND PENALTIES"
+ },
+ {
+  "id": "3-5-special-laws",
+  "level": 3,
+  "title": "3.5 SPECIAL LAWS"
+ },
+ {
+  "id": "3-6-taxes",
+  "level": 3,
+  "title": "3.6 TAXES"
+ },
+ {
+  "id": "3-7-organization-of-state-government",
+  "level": 3,
+  "title": "3.7 ORGANIZATION OF STATE GOVERNMENT"
+ },
+ {
+  "id": "3-8-organization-of-counties-cities-and-metropolitan-governm",
+  "level": 3,
+  "title": "3.8 ORGANIZATION OF COUNTIES, CITIES, AND METROPOLITAN GOVERNMENT"
+ },
+ {
+  "id": "3-9-administrative-procedures",
+  "level": 3,
+  "title": "3.9 ADMINISTRATIVE PROCEDURES"
+ },
+ {
+  "id": "3-10-state-land-transfers",
+  "level": 3,
+  "title": "3.10 STATE LAND TRANSFERS"
+ },
+ {
+  "id": "3-11-state-parks-monuments-recreation-areas-and-waysides",
+  "level": 3,
+  "title": "3.11 STATE PARKS, MONUMENTS, RECREATION AREAS, AND WAYSIDES"
+ },
+ {
+  "id": "3-12-recodifications",
+  "level": 3,
+  "title": "3.12 RECODIFICATIONS"
+ },
+ {
+  "id": "3-13-instructions-to-the-revisor",
+  "level": 3,
+  "title": "3.13 INSTRUCTIONS TO THE REVISOR"
+ },
+ {
+  "id": "chapter-4-amendments",
+  "level": 2,
+  "title": "Chapter 4 Amendments"
+ },
+ {
+  "id": "4-1-introduction",
+  "level": 3,
+  "title": "4.1 INTRODUCTION"
+ },
+ {
+  "id": "4-2-amendment-form-examples",
+  "level": 3,
+  "title": "4.2 AMENDMENT FORM EXAMPLES"
+ },
+ {
+  "id": "4-3-the-amending-technique",
+  "level": 3,
+  "title": "4.3 THE AMENDING TECHNIQUE"
+ },
+ {
+  "id": "4-4-amendments-and-committee-reports",
+  "level": 3,
+  "title": "4.4 AMENDMENTS AND COMMITTEE REPORTS"
+ },
+ {
+  "id": "4-5-the-document-being-amended",
+  "level": 3,
+  "title": "4.5 THE DOCUMENT BEING AMENDED"
+ },
+ {
+  "id": "4-6-amendments-to-amendments",
+  "level": 3,
+  "title": "4.6 AMENDMENTS TO AMENDMENTS"
+ },
+ {
+  "id": "4-7-amendments-and-the-engrossing-process",
+  "level": 3,
+  "title": "4.7 AMENDMENTS AND THE ENGROSSING PROCESS"
+ },
+ {
+  "id": "4-8-examples",
+  "level": 3,
+  "title": "4.8 EXAMPLES"
+ },
+ {
+  "id": "minority-report",
+  "level": 3,
+  "title": "MINORITY REPORT"
+ },
+ {
+  "id": "delete-everything-amendment-with-delete-everything-title-ame",
+  "level": 4,
+  "title": "Delete everything amendment with delete everything title amendment, Continued"
+ },
+ {
+  "id": "chapter-5-engrossing",
+  "level": 2,
+  "title": "Chapter 5 Engrossing"
+ },
+ {
+  "id": "5-1-the-engrossing-process",
+  "level": 3,
+  "title": "5.1 THE ENGROSSING PROCESS"
+ },
+ {
+  "id": "5-2-origin-and-action-upon-documents-by-the-engrossing-proce",
+  "level": 3,
+  "title": "5.2 ORIGIN AND ACTION UPON DOCUMENTS BY THE ENGROSSING PROCESS"
+ },
+ {
+  "id": "5-3-examination-of-an-engrossment",
+  "level": 3,
+  "title": "5.3 EXAMINATION OF AN ENGROSSMENT"
+ },
+ {
+  "id": "5-4-unengrossable-amendments",
+  "level": 3,
+  "title": "5.4 UNENGROSSABLE AMENDMENTS"
+ },
+ {
+  "id": "5-5-identification-of-engrossments",
+  "level": 3,
+  "title": "5.5 IDENTIFICATION OF ENGROSSMENTS"
+ },
+ {
+  "id": "5-6-unofficial-engrossments",
+  "level": 3,
+  "title": "5.6 UNOFFICIAL ENGROSSMENTS"
+ },
+ {
+  "id": "5-7-examples",
+  "level": 3,
+  "title": "5.7 EXAMPLES"
+ },
+ {
+  "id": "chapter-6-resolutions",
+  "level": 2,
+  "title": "Chapter 6 Resolutions"
+ },
+ {
+  "id": "6-1-resolutions-generally",
+  "level": 3,
+  "title": "6.1 RESOLUTIONS; GENERALLY"
+ },
+ {
+  "id": "6-2-congratulatory-resolutions",
+  "level": 3,
+  "title": "6.2 CONGRATULATORY RESOLUTIONS"
+ },
+ {
+  "id": "congratulatory",
+  "level": 2,
+  "title": "Congratulatory"
+ },
+ {
+  "id": "simple",
+  "level": 2,
+  "title": "Simple"
+ },
+ {
+  "id": "memorial",
+  "level": 2,
+  "title": "Memorial"
+ },
+ {
+  "id": "concurrent",
+  "level": 2,
+  "title": "Concurrent"
+ },
+ {
+  "id": "joint",
+  "level": 2,
+  "title": "Joint"
+ },
+ {
+  "id": "6-3-simple-resolutions",
+  "level": 3,
+  "title": "6.3 SIMPLE RESOLUTIONS"
+ },
+ {
+  "id": "6-4-concurrent-resolutions",
+  "level": 3,
+  "title": "6.4 CONCURRENT RESOLUTIONS"
+ },
+ {
+  "id": "6-5-memorial-resolutions",
+  "level": 3,
+  "title": "6.5 MEMORIAL RESOLUTIONS"
+ },
+ {
+  "id": "6-6-joint-resolutions",
+  "level": 3,
+  "title": "6.6 JOINT RESOLUTIONS"
+ },
+ {
+  "id": "6-7-index-of-provisions-about-resolutions",
+  "level": 3,
+  "title": "6.7 INDEX OF PROVISIONS ABOUT RESOLUTIONS"
+ },
+ {
+  "id": "6-8-examples",
+  "level": 3,
+  "title": "6.8 EXAMPLES"
+ },
+ {
+  "id": "a-house-resolution",
+  "level": 3,
+  "title": "A House resolution"
+ },
+ {
+  "id": "a-house-resolution-2",
+  "level": 3,
+  "title": "A House resolution"
+ },
+ {
+  "id": "a-house-resolution-3",
+  "level": 3,
+  "title": "A House resolution"
+ },
+ {
+  "id": "a-senate-resolution",
+  "level": 3,
+  "title": "A Senate resolution"
+ },
+ {
+  "id": "chapter-7-interpretation-of-statutes-what-drafters-need-to-k",
+  "level": 2,
+  "title": "Chapter 7 Interpretation of Statutes What Drafters Need to Know"
+ },
+ {
+  "id": "7-1-the-purpose-of-this-chapter",
+  "level": 3,
+  "title": "7.1 THE PURPOSE OF THIS CHAPTER"
+ },
+ {
+  "id": "7-2-the-basics-minnesota-statutes-chapter-645",
+  "level": 3,
+  "title": "7.2 THE BASICS: MINNESOTA STATUTES, CHAPTER 645"
+ },
+ {
+  "id": "7-3-determining-legislative-intent",
+  "level": 3,
+  "title": "7.3 DETERMINING LEGISLATIVE INTENT"
+ },
+ {
+  "id": "7-4-additional-aids",
+  "level": 3,
+  "title": "7.4 ADDITIONAL AIDS"
+ },
+ {
+  "id": "7-5-conclusion",
+  "level": 3,
+  "title": "7.5 CONCLUSION"
+ },
+ {
+  "id": "chapter-8-clarity-in-drafting",
+  "level": 2,
+  "title": "Chapter 8 Clarity in Drafting"
+ },
+ {
+  "id": "8-1-the-question-of-audience",
+  "level": 3,
+  "title": "8.1 THE QUESTION OF AUDIENCE"
+ },
+ {
+  "id": "8-2-order-and-organization",
+  "level": 3,
+  "title": "8.2 ORDER AND ORGANIZATION"
+ },
+ {
+  "id": "8-3-headnotes",
+  "level": 3,
+  "title": "8.3 HEADNOTES"
+ },
+ {
+  "id": "8-4-section-subdivision-and-paragraph-length",
+  "level": 3,
+  "title": "8.4 SECTION, SUBDIVISION, AND PARAGRAPH LENGTH"
+ },
+ {
+  "id": "8-5-person",
+  "level": 3,
+  "title": "8.5 PERSON"
+ },
+ {
+  "id": "8-6-number",
+  "level": 3,
+  "title": "8.6 NUMBER"
+ },
+ {
+  "id": "8-7-voice",
+  "level": 3,
+  "title": "8.7 VOICE"
+ },
+ {
+  "id": "8-8-shall-must-and-other-verbs-of-command",
+  "level": 3,
+  "title": "8.8 SHALL, MUST, AND OTHER VERBS OF COMMAND"
+ },
+ {
+  "id": "8-9-ambiguity-an-overview",
+  "level": 3,
+  "title": "8.9 AMBIGUITY: AN OVERVIEW"
+ },
+ {
+  "id": "readings-on-ambiguity-and-vagueness",
+  "level": 4,
+  "title": "Readings on ambiguity and vagueness:"
+ },
+ {
+  "id": "readings-on-specific-problems-leading-to-ambiguity",
+  "level": 4,
+  "title": "Readings on specific problems leading to ambiguity:"
+ },
+ {
+  "id": "8-10-ambiguous-words",
+  "level": 3,
+  "title": "8.10 AMBIGUOUS WORDS"
+ },
+ {
+  "id": "8-11-ranges-of-numbers-days-dates-and-ages",
+  "level": 3,
+  "title": "8.11 RANGES OF NUMBERS, DAYS, DATES, AND AGES"
+ },
+ {
+  "id": "8-12-that-and-which",
+  "level": 3,
+  "title": "8.12 THAT AND WHICH"
+ },
+ {
+  "id": "8-13-serial-commas-and-ambiguity",
+  "level": 3,
+  "title": "8.13 SERIAL COMMAS AND AMBIGUITY"
+ },
+ {
+  "id": "8-14-ambiguity-at-the-sentence-level",
+  "level": 3,
+  "title": "8.14 AMBIGUITY AT THE SENTENCE LEVEL"
+ },
+ {
+  "id": "8-15-sentence-length",
+  "level": 3,
+  "title": "8.15 SENTENCE LENGTH"
+ },
+ {
+  "id": "8-16-intrusive-phrases-and-clauses",
+  "level": 3,
+  "title": "8.16 INTRUSIVE PHRASES AND CLAUSES"
+ },
+ {
+  "id": "8-17-conditions-and-exceptions",
+  "level": 3,
+  "title": "8.17 CONDITIONS AND EXCEPTIONS"
+ },
+ {
+  "id": "8-18-provisos",
+  "level": 3,
+  "title": "8.18 PROVISOS"
+ },
+ {
+  "id": "8-19-parallel-form",
+  "level": 3,
+  "title": "8.19 PARALLEL FORM"
+ },
+ {
+  "id": "8-20-and-and-or",
+  "level": 3,
+  "title": "8.20 AND AND OR"
+ },
+ {
+  "id": "8-21-tables",
+  "level": 3,
+  "title": "8.21 TABLES"
+ },
+ {
+  "id": "8-22-computations",
+  "level": 3,
+  "title": "8.22 COMPUTATIONS"
+ },
+ {
+  "id": "8-23-consistent-terms",
+  "level": 3,
+  "title": "8.23 CONSISTENT TERMS"
+ },
+ {
+  "id": "8-24-familiar-words",
+  "level": 3,
+  "title": "8.24 FAMILIAR WORDS"
+ },
+ {
+  "id": "8-25-verbose-obsolete-or-vague-terms",
+  "level": 3,
+  "title": "8.25 VERBOSE, OBSOLETE, OR VAGUE TERMS"
+ },
+ {
+  "id": "don-t-use-use",
+  "level": 4,
+  "title": "Don't Use Use"
+ },
+ {
+  "id": "8-26-wordy-expressions",
+  "level": 3,
+  "title": "8.26 WORDY EXPRESSIONS"
+ },
+ {
+  "id": "don-t-use-shorter",
+  "level": 4,
+  "title": "Don't Use Shorter"
+ },
+ {
+  "id": "8-27-overdrafting",
+  "level": 3,
+  "title": "8.27 OVERDRAFTING"
+ },
+ {
+  "id": "8-28-jargon",
+  "level": 3,
+  "title": "8.28 JARGON"
+ },
+ {
+  "id": "8-29-initialisms",
+  "level": 3,
+  "title": "8.29 INITIALISMS"
+ },
+ {
+  "id": "8-30-noun-strings",
+  "level": 3,
+  "title": "8.30 NOUN STRINGS"
+ },
+ {
+  "id": "don-t-use-use-2",
+  "level": 4,
+  "title": "Don't Use Use"
+ },
+ {
+  "id": "8-31-nominal-style-or-hidden-verbs",
+  "level": 3,
+  "title": "8.31 NOMINAL STYLE, OR “HIDDEN VERBS”"
+ },
+ {
+  "id": "nominal-verbal",
+  "level": 4,
+  "title": "Nominal Verbal"
+ },
+ {
+  "id": "8-32-gender-neutral-language",
+  "level": 3,
+  "title": "8.32 GENDER-NEUTRAL LANGUAGE"
+ },
+ {
+  "id": "chapter-9-punctuation-mechanics-style",
+  "level": 2,
+  "title": "Chapter 9 Punctuation, Mechanics, Style"
+ },
+ {
+  "id": "introduction",
+  "level": 3,
+  "title": "Introduction"
+ },
+ {
+  "id": "abbreviations",
+  "level": 3,
+  "title": "Abbreviations"
+ },
+ {
+  "id": "addresses",
+  "level": 3,
+  "title": "Addresses"
+ },
+ {
+  "id": "apostrophes",
+  "level": 3,
+  "title": "Apostrophes"
+ },
+ {
+  "id": "assure-ensure-and-insure",
+  "level": 3,
+  "title": "Assure, Ensure, and Insure"
+ },
+ {
+  "id": "be",
+  "level": 3,
+  "title": "Be"
+ },
+ {
+  "id": "brackets",
+  "level": 3,
+  "title": "Brackets"
+ },
+ {
+  "id": "capitalization",
+  "level": 3,
+  "title": "Capitalization"
+ },
+ {
+  "id": "the-words-federal-or-legislature",
+  "level": 4,
+  "title": "the words “federal” or “legislature.”"
+ },
+ {
+  "id": "clauses",
+  "level": 3,
+  "title": "Clauses"
+ },
+ {
+  "id": "coding",
+  "level": 3,
+  "title": "Coding"
+ },
+ {
+  "id": "colons",
+  "level": 3,
+  "title": "Colons"
+ },
+ {
+  "id": "commas",
+  "level": 3,
+  "title": "Commas"
+ },
+ {
+  "id": "compound-words-see-hyphens",
+  "level": 3,
+  "title": "Compound Words. See Hyphens"
+ },
+ {
+  "id": "dashes",
+  "level": 3,
+  "title": "Dashes"
+ },
+ {
+  "id": "data",
+  "level": 3,
+  "title": "Data"
+ },
+ {
+  "id": "dates",
+  "level": 3,
+  "title": "Dates"
+ },
+ {
+  "id": "fractions-see-numbers",
+  "level": 3,
+  "title": "Fractions. See Numbers"
+ },
+ {
+  "id": "geographic-names",
+  "level": 3,
+  "title": "Geographic Names"
+ },
+ {
+  "id": "hyphens",
+  "level": 3,
+  "title": "Hyphens"
+ },
+ {
+  "id": "is-are-see-data",
+  "level": 3,
+  "title": "Is/Are. See Data"
+ },
+ {
+  "id": "italics",
+  "level": 3,
+  "title": "Italics"
+ },
+ {
+  "id": "lists",
+  "level": 3,
+  "title": "Lists"
+ },
+ {
+  "id": "measurements",
+  "level": 3,
+  "title": "Measurements"
+ },
+ {
+  "id": "money",
+  "level": 3,
+  "title": "Money"
+ },
+ {
+  "id": "numbers",
+  "level": 3,
+  "title": "Numbers"
+ },
+ {
+  "id": "write-out-the-ordinal-numbers-one-to-ten-write-ordinal-numbe",
+  "level": 4,
+  "title": "Write out the ordinal numbers one to ten. Write ordinal numbers greater than ten in"
+ },
+ {
+  "id": "when-the-denominator-is-ten-or-less-write-the-fraction-in-wo",
+  "level": 4,
+  "title": "When the denominator is ten or less, write the fraction in words. When it is over ten, express"
+ },
+ {
+  "id": "official-titles",
+  "level": 3,
+  "title": "Official Titles"
+ },
+ {
+  "id": "paragraphs",
+  "level": 3,
+  "title": "Paragraphs"
+ },
+ {
+  "id": "parentheses",
+  "level": 3,
+  "title": "Parentheses"
+ },
+ {
+  "id": "percentages-see-numbers",
+  "level": 3,
+  "title": "Percentages. See Numbers"
+ },
+ {
+  "id": "periods",
+  "level": 3,
+  "title": "Periods"
+ },
+ {
+  "id": "punctuation",
+  "level": 3,
+  "title": "Punctuation"
+ },
+ {
+  "id": "quotation-marks",
+  "level": 3,
+  "title": "Quotation Marks"
+ },
+ {
+  "id": "designated-named-entitled-or-known-as",
+  "level": 4,
+  "title": "“designated,” “named,” “entitled,” or “known as.”"
+ },
+ {
+  "id": "roads",
+  "level": 3,
+  "title": "Roads"
+ },
+ {
+  "id": "number-capitalize-no",
+  "level": 4,
+  "title": "number. Capitalize “No.”"
+ },
+ {
+  "id": "such-as-legislative-routes-trunk-highways-city-streets-and-m",
+  "level": 4,
+  "title": "such as “legislative routes,” “trunk highways,” “city streets,” and “memorial bridges.”"
+ },
+ {
+  "id": "semicolons",
+  "level": 3,
+  "title": "Semicolons"
+ },
+ {
+  "id": "slashes",
+  "level": 3,
+  "title": "Slashes"
+ },
+ {
+  "id": "spelling",
+  "level": 3,
+  "title": "Spelling"
+ },
+ {
+  "id": "state-parks",
+  "level": 3,
+  "title": "State Parks"
+ },
+ {
+  "id": "strikeouts",
+  "level": 3,
+  "title": "Strikeouts"
+ },
+ {
+  "id": "subdivisions",
+  "level": 3,
+  "title": "Subdivisions"
+ },
+ {
+  "id": "symbols",
+  "level": 3,
+  "title": "Symbols"
+ },
+ {
+  "id": "tables",
+  "level": 3,
+  "title": "Tables"
+ },
+ {
+  "id": "temperature",
+  "level": 3,
+  "title": "Temperature"
+ },
+ {
+  "id": "that",
+  "level": 3,
+  "title": "That"
+ },
+ {
+  "id": "time-of-day",
+  "level": 3,
+  "title": "Time of Day"
+ },
+ {
+  "id": "underscoring",
+  "level": 3,
+  "title": "Underscoring"
+ },
+ {
+  "id": "which-see-that",
+  "level": 3,
+  "title": "Which. See That"
+ },
+ {
+  "id": "word-division-see-hyphens",
+  "level": 3,
+  "title": "Word Division. See Hyphens"
+ },
+ {
+  "id": "chapter-10-references",
+  "level": 2,
+  "title": "Chapter 10 References"
+ },
+ {
+  "id": "10-1-minnesota-statutes",
+  "level": 3,
+  "title": "10.1 MINNESOTA STATUTES"
+ },
+ {
+  "id": "10-2-laws-of-minnesota",
+  "level": 3,
+  "title": "10.2 LAWS OF MINNESOTA"
+ },
+ {
+  "id": "10-3-bills-not-yet-enacted-or-resolutions-not-yet-enacted",
+  "level": 3,
+  "title": "10.3 BILLS NOT YET ENACTED OR RESOLUTIONS NOT YET ENACTED"
+ },
+ {
+  "id": "10-4-minnesota-rules",
+  "level": 3,
+  "title": "10.4 MINNESOTA RULES"
+ },
+ {
+  "id": "10-5-state-constitution",
+  "level": 3,
+  "title": "10.5 STATE CONSTITUTION"
+ },
+ {
+  "id": "10-6-federal-laws-and-regulations",
+  "level": 3,
+  "title": "10.6 FEDERAL LAWS AND REGULATIONS"
+ },
+ {
+  "id": "10-7-safety-codes",
+  "level": 3,
+  "title": "10.7 SAFETY CODES"
+ },
+ {
+  "id": "10-8-court-rules",
+  "level": 3,
+  "title": "10.8 COURT RULES"
+ },
+ {
+  "id": "10-9-examples",
+  "level": 3,
+  "title": "10.9 EXAMPLES"
+ },
+ {
+  "id": "to-a-chapter-when-the-reference-is-within-the-same-chapter-t",
+  "level": 4,
+  "title": " To a chapter, when the reference is within the same chapter: this chapter"
+ },
+ {
+  "id": "to-a-section-when-the-reference-is-within-the-same-section-t",
+  "level": 4,
+  "title": " To a section, when the reference is within the same section: this section  To a subdivision, when the reference is within the same subdivision: this subdivision"
+ },
+ {
+  "id": "to-a-chapter-when-the-reference-is-within-the-same-chapter-t-2",
+  "level": 4,
+  "title": " To a chapter, when the reference is within the same chapter: this chapter"
+ },
+ {
+  "id": "to-a-part-when-the-reference-is-within-the-same-part-this-pa",
+  "level": 4,
+  "title": " To a part, when the reference is within the same part: this part"
+ },
+ {
+  "id": "to-a-subpart-when-the-reference-is-within-the-same-subpart-t",
+  "level": 4,
+  "title": " To a subpart, when the reference is within the same subpart: this subpart"
+ },
+ {
+  "id": "to-another-subpart-within-the-same-part-as-the-reference-sub",
+  "level": 4,
+  "title": " To another subpart within the same part as the reference: subpart 4"
+ },
+ {
+  "id": "to-another-item-within-the-same-subpart-as-the-reference-ite",
+  "level": 4,
+  "title": " To another item within the same subpart as the reference: item A"
+ },
+ {
+  "id": "compiled-form",
+  "level": 4,
+  "title": " Compiled form"
+ },
+ {
+  "id": "uncompiled-form-used-for-specific-section-appearing-on-a-sin",
+  "level": 4,
+  "title": " Uncompiled form (used for specific section appearing on a single page)"
+ },
+ {
+  "id": "uncompiled-form-used-for-inclusive-reference-to-entire-bill-",
+  "level": 4,
+  "title": " Uncompiled form (used for inclusive reference to entire bill or portion of it)"
+ },
+ {
+  "id": "public-law",
+  "level": 4,
+  "title": " Public law"
+ },
+ {
+  "id": "internal-revenue-code",
+  "level": 4,
+  "title": " Internal Revenue Code"
+ },
+ {
+  "id": "chapter-11-practical-aids-to-research-and-drafting",
+  "level": 2,
+  "title": "Chapter 11 Practical Aids to Research and Drafting"
+ },
+ {
+  "id": "11-1-finding-minnesota-law",
+  "level": 3,
+  "title": "11.1 FINDING MINNESOTA LAW"
+ },
+ {
+  "id": "11-2-finding-minnesota-bills-to-use-as-drafting-models",
+  "level": 3,
+  "title": "11.2 FINDING MINNESOTA BILLS TO USE AS DRAFTING MODELS"
+ },
+ {
+  "id": "11-3-finding-laws-or-bills-in-other-states",
+  "level": 3,
+  "title": "11.3 FINDING LAWS OR BILLS IN OTHER STATES"
+ },
+ {
+  "id": "11-4-finding-general-research-materials",
+  "level": 3,
+  "title": "11.4 FINDING GENERAL RESEARCH MATERIALS"
+ },
+ {
+  "id": "chapter-12-bibliography",
+  "level": 2,
+  "title": "Chapter 12 Bibliography"
+ },
+ {
+  "id": "1-drafting-of-laws-and-other-legal-documents",
+  "level": 3,
+  "title": "1. DRAFTING OF LAWS AND OTHER LEGAL DOCUMENTS"
+ },
+ {
+  "id": "2-readability-and-plain-english",
+  "level": 3,
+  "title": "2. READABILITY AND PLAIN ENGLISH"
+ },
+ {
+  "id": "3-statutory-interpretation",
+  "level": 3,
+  "title": "3. STATUTORY INTERPRETATION"
+ },
+ {
+  "id": "4-legislation",
+  "level": 3,
+  "title": "4. LEGISLATION"
+ },
+ {
+  "id": "5-legal-language-and-legal-writing",
+  "level": 3,
+  "title": "5. LEGAL LANGUAGE AND LEGAL WRITING"
+ },
+ {
+  "id": "6-gender-neutral-writing",
+  "level": 3,
+  "title": "6. GENDER-NEUTRAL WRITING"
+ },
+ {
+  "id": "index",
+  "level": 3,
+  "title": "INDEX"
+ }
+]

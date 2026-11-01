@@ -1,0 +1,297 @@
+[
+ {
+  "id": "richtlinie-für-die-rechtsetzung",
+  "level": 2,
+  "title": "Richtlinie für die Rechtsetzung"
+ },
+ {
+  "id": "inhaltsverzeichnis",
+  "level": 2,
+  "title": "Inhaltsverzeichnis"
+ },
+ {
+  "id": "1-gegenstand",
+  "level": 2,
+  "title": "1 Gegenstand"
+ },
+ {
+  "id": "2-erlassformen",
+  "level": 2,
+  "title": "2 Erlassformen"
+ },
+ {
+  "id": "2-1-verfassung",
+  "level": 3,
+  "title": "2.1 Verfassung"
+ },
+ {
+  "id": "2-2-gesetz",
+  "level": 3,
+  "title": "2.2 Gesetz"
+ },
+ {
+  "id": "2-3-verordnung",
+  "level": 3,
+  "title": "2.3 Verordnung"
+ },
+ {
+  "id": "2-4-standeskommissionsbeschluss",
+  "level": 3,
+  "title": "2.4 Standeskommissionsbeschluss"
+ },
+ {
+  "id": "2-5-reglement",
+  "level": 3,
+  "title": "2.5 Reglement"
+ },
+ {
+  "id": "2-6-normalarbeitsvertrag",
+  "level": 3,
+  "title": "2.6 Normalarbeitsvertrag"
+ },
+ {
+  "id": "2-7-vorschriften-ohne-normierungswirkung",
+  "level": 3,
+  "title": "2.7 Vorschriften ohne Normierungswirkung"
+ },
+ {
+  "id": "2-8-regelungen-im-zwischenbereich",
+  "level": 3,
+  "title": "2.8 Regelungen im Zwischenbereich"
+ },
+ {
+  "id": "2-9-konkordat-und-verwaltungsvereinbarung",
+  "level": 3,
+  "title": "2.9 Konkordat und Verwaltungsvereinbarung"
+ },
+ {
+  "id": "2-10-erlasse-der-bezirke-und-gemeinden",
+  "level": 3,
+  "title": "2.10 Erlasse der Bezirke und Gemeinden"
+ },
+ {
+  "id": "2-11-aufnahme-von-erlassen-in-die-gesetzessammlung",
+  "level": 3,
+  "title": "2.11 Aufnahme von Erlassen in die Gesetzessammlung"
+ },
+ {
+  "id": "3-aufbau-neuer-erlasse",
+  "level": 2,
+  "title": "3 Aufbau neuer Erlasse"
+ },
+ {
+  "id": "3-1-allgemeines",
+  "level": 3,
+  "title": "3.1 Allgemeines"
+ },
+ {
+  "id": "3-2-titel",
+  "level": 3,
+  "title": "3.2 Titel"
+ },
+ {
+  "id": "geodatengesetz-geodg",
+  "level": 4,
+  "title": "Geodatengesetz (GeoDG)"
+ },
+ {
+  "id": "3-3-ingress",
+  "level": 3,
+  "title": "3.3 Ingress"
+ },
+ {
+  "id": "geodatengesetz-geodg-2",
+  "level": 4,
+  "title": "Geodatengesetz (GeoDG)"
+ },
+ {
+  "id": "3-4-gliederung",
+  "level": 3,
+  "title": "3.4 Gliederung"
+ },
+ {
+  "id": "3-5-artikel",
+  "level": 3,
+  "title": "3.5 Artikel"
+ },
+ {
+  "id": "3-6-einleitung",
+  "level": 3,
+  "title": "3.6 Einleitung"
+ },
+ {
+  "id": "i-allgemeines",
+  "level": 4,
+  "title": "I. Allgemeines"
+ },
+ {
+  "id": "ii-organisation",
+  "level": 4,
+  "title": "II. Organisation"
+ },
+ {
+  "id": "iii-zuständigkeit",
+  "level": 4,
+  "title": "III. Zuständigkeit"
+ },
+ {
+  "id": "3-7-hauptteil",
+  "level": 3,
+  "title": "3.7 Hauptteil"
+ },
+ {
+  "id": "3-8-schlussbestimmungen",
+  "level": 3,
+  "title": "3.8 Schlussbestimmungen"
+ },
+ {
+  "id": "anhang-2-aufhebung-und-änderung-bisherigen-rechts",
+  "level": 4,
+  "title": "Anhang 2 Aufhebung und Änderung bisherigen Rechts"
+ },
+ {
+  "id": "3-9-inkraftsetzung-genehmigungen",
+  "level": 3,
+  "title": "3.9 Inkraftsetzung, Genehmigungen"
+ },
+ {
+  "id": "3-10-anhänge",
+  "level": 3,
+  "title": "3.10 Anhänge"
+ },
+ {
+  "id": "4-redaktion",
+  "level": 2,
+  "title": "4 Redaktion"
+ },
+ {
+  "id": "4-1-sprachliche-fassung-der-texte",
+  "level": 3,
+  "title": "4.1 Sprachliche Fassung der Texte"
+ },
+ {
+  "id": "4-2-verweise-auf-andere-erlasse",
+  "level": 3,
+  "title": "4.2 Verweise auf andere Erlasse"
+ },
+ {
+  "id": "4-3-verweise-im-gleichen-erlass",
+  "level": 3,
+  "title": "4.3 Verweise im gleichen Erlass"
+ },
+ {
+  "id": "4-4-wiederholung-übergeordneten-rechts",
+  "level": 3,
+  "title": "4.4 Wiederholung übergeordneten Rechts"
+ },
+ {
+  "id": "4-5-geschlechterneutralität",
+  "level": 3,
+  "title": "4.5 Geschlechterneutralität"
+ },
+ {
+  "id": "4-6-aufzählungen",
+  "level": 3,
+  "title": "4.6 Aufzählungen"
+ },
+ {
+  "id": "4-7-zahlen",
+  "level": 3,
+  "title": "4.7 Zahlen"
+ },
+ {
+  "id": "4-8-geldbeträge",
+  "level": 3,
+  "title": "4.8 Geldbeträge"
+ },
+ {
+  "id": "4-9-fussnoten",
+  "level": 3,
+  "title": "4.9 Fussnoten"
+ },
+ {
+  "id": "5-änderung-bestehender-erlasse",
+  "level": 2,
+  "title": "5 Änderung bestehender Erlasse"
+ },
+ {
+  "id": "5-1-totalrevision-oder-revision",
+  "level": 3,
+  "title": "5.1 Totalrevision oder Revision"
+ },
+ {
+  "id": "5-2-form",
+  "level": 3,
+  "title": "5.2 Form"
+ },
+ {
+  "id": "5-3-redaktion",
+  "level": 3,
+  "title": "5.3 Redaktion"
+ },
+ {
+  "id": "5-4-titel",
+  "level": 3,
+  "title": "5.4 Titel"
+ },
+ {
+  "id": "5-6-hauptteil",
+  "level": 3,
+  "title": "5.6 Hauptteil"
+ },
+ {
+  "id": "5-7-änderungen",
+  "level": 3,
+  "title": "5.7 Änderungen"
+ },
+ {
+  "id": "5-8-einfügen-oder-ändern-eines-anhangs",
+  "level": 3,
+  "title": "5.8 Einfügen oder Ändern eines Anhangs"
+ },
+ {
+  "id": "anhang-organigramm",
+  "level": 4,
+  "title": "Anhang Organigramm"
+ },
+ {
+  "id": "anhang",
+  "level": 4,
+  "title": "Anhang"
+ },
+ {
+  "id": "5-9-änderungen-und-aufhebung-anderer-erlasse",
+  "level": 3,
+  "title": "5.9 Änderungen und Aufhebung anderer Erlasse"
+ },
+ {
+  "id": "6-aufhebung-von-erlassen",
+  "level": 2,
+  "title": "6 Aufhebung von Erlassen"
+ },
+ {
+  "id": "grossratsbeschluss-betreffend-die-aufhebung-der-verordnung-z",
+  "level": 4,
+  "title": "Grossratsbeschluss betreffend die Aufhebung der Verordnung zum Bundesgesetz über die Gleichstellung von Frau und Mann"
+ },
+ {
+  "id": "7-rechtsetzungsvorhaben",
+  "level": 2,
+  "title": "7 Rechtsetzungsvorhaben"
+ },
+ {
+  "id": "7-1-planung",
+  "level": 3,
+  "title": "7.1 Planung"
+ },
+ {
+  "id": "7-2-vernehmlassungsverfahren",
+  "level": 3,
+  "title": "7.2 Vernehmlassungsverfahren"
+ },
+ {
+  "id": "7-3-berichte-und-botschaften",
+  "level": 3,
+  "title": "7.3 Berichte und Botschaften"
+ }
+]

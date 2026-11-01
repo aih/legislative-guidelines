@@ -1,0 +1,347 @@
+[
+ {
+  "id": "office-of-the-queensland-parliamentary-counsel",
+  "level": 3,
+  "title": "Office of the Queensland Parliamentary Counsel"
+ },
+ {
+  "id": "working-with-oqpc-on-queensland-legislation",
+  "level": 2,
+  "title": "Working with OQPC on Queensland legislation"
+ },
+ {
+  "id": "working-with-oqpc-on-queensland-legislation-2",
+  "level": 2,
+  "title": "Working with OQPC on Queensland legislation"
+ },
+ {
+  "id": "contents",
+  "level": 2,
+  "title": "Contents"
+ },
+ {
+  "id": "1-welcome",
+  "level": 2,
+  "title": "1. Welcome"
+ },
+ {
+  "id": "2-is-legislation-necessary",
+  "level": 2,
+  "title": "2. Is legislation necessary?"
+ },
+ {
+  "id": "controlling-the-volume-of-legislation",
+  "level": 3,
+  "title": "Controlling the volume of legislation"
+ },
+ {
+  "id": "administrative-matters",
+  "level": 3,
+  "title": "Administrative matters"
+ },
+ {
+  "id": "aspirational-statements",
+  "level": 3,
+  "title": "Aspirational statements"
+ },
+ {
+  "id": "3-drafting-is-a-team-project",
+  "level": 2,
+  "title": "3. Drafting is a team project"
+ },
+ {
+  "id": "4-drafter-s-role",
+  "level": 2,
+  "title": "4. Drafter’s role"
+ },
+ {
+  "id": "ensuring-legislation-achieves-policy-in-a-legally-effective-",
+  "level": 3,
+  "title": "Ensuring legislation achieves policy in a legally effective way"
+ },
+ {
+  "id": "5-instructor-s-role",
+  "level": 2,
+  "title": "5. Instructor’s role"
+ },
+ {
+  "id": "main-aspects-of-role",
+  "level": 3,
+  "title": "Main aspects of role"
+ },
+ {
+  "id": "understanding-of-particular-acts-of-general-application",
+  "level": 3,
+  "title": "Understanding of particular Acts of general application"
+ },
+ {
+  "id": "understanding-of-oqpc-s-reliance-on-aia-sia-and-reprints-act",
+  "level": 3,
+  "title": "Understanding of OQPC’s reliance on AIA, SIA and Reprints Act"
+ },
+ {
+  "id": "familiarity-with-governing-queensland-package",
+  "level": 3,
+  "title": "Familiarity with Governing Queensland package"
+ },
+ {
+  "id": "understanding-of-the-role-of-portfolio-committees",
+  "level": 3,
+  "title": "Understanding of the role of portfolio committees"
+ },
+ {
+  "id": "familiarity-with-other-matters",
+  "level": 3,
+  "title": "Familiarity with other matters"
+ },
+ {
+  "id": "what-the-instructor-should-be-able-to-do",
+  "level": 3,
+  "title": "What the instructor should be able to do"
+ },
+ {
+  "id": "6-developing-policy-and-the-timetable",
+  "level": 2,
+  "title": "6. Developing policy and the timetable"
+ },
+ {
+  "id": "instructor-translates-policy",
+  "level": 3,
+  "title": "Instructor translates policy"
+ },
+ {
+  "id": "considerations-for-instructor",
+  "level": 3,
+  "title": "Considerations for instructor"
+ },
+ {
+  "id": "establishing-a-practical-timetable",
+  "level": 3,
+  "title": "Establishing a practical timetable"
+ },
+ {
+  "id": "7-the-benefits-of-preparing-effective-drafting-instructions",
+  "level": 2,
+  "title": "7. The benefits of preparing effective drafting instructions"
+ },
+ {
+  "id": "whole-of-government-benefit",
+  "level": 3,
+  "title": "Whole-of-government benefit"
+ },
+ {
+  "id": "benefits-for-the-instructing-department",
+  "level": 3,
+  "title": "Benefits for the instructing department"
+ },
+ {
+  "id": "8-content-of-drafting-instructions",
+  "level": 2,
+  "title": "8. Content of drafting instructions"
+ },
+ {
+  "id": "format",
+  "level": 3,
+  "title": "Format"
+ },
+ {
+  "id": "authority-to-draft",
+  "level": 3,
+  "title": "Authority to draft"
+ },
+ {
+  "id": "legislative-priority",
+  "level": 3,
+  "title": "Legislative priority"
+ },
+ {
+  "id": "information-about-instructor",
+  "level": 3,
+  "title": "Information about instructor"
+ },
+ {
+  "id": "complete-accurate-and-comprehensive-instructions",
+  "level": 3,
+  "title": "Complete, accurate and comprehensive instructions"
+ },
+ {
+  "id": "instructions-should-represent-settled-policy",
+  "level": 3,
+  "title": "Instructions should represent settled policy"
+ },
+ {
+  "id": "principal-objectives",
+  "level": 3,
+  "title": "Principal objectives"
+ },
+ {
+  "id": "clarity-and-consistency",
+  "level": 3,
+  "title": "Clarity and consistency"
+ },
+ {
+  "id": "legislative-environment",
+  "level": 3,
+  "title": "Legislative environment"
+ },
+ {
+  "id": "related-matters",
+  "level": 3,
+  "title": "Related matters"
+ },
+ {
+  "id": "binding-on-the-state",
+  "level": 3,
+  "title": "Binding on the State"
+ },
+ {
+  "id": "consideration-of-flps",
+  "level": 3,
+  "title": "Consideration of FLPs"
+ },
+ {
+  "id": "political-sensitivity",
+  "level": 3,
+  "title": "Political sensitivity"
+ },
+ {
+  "id": "legal-opinions-and-case-law",
+  "level": 3,
+  "title": "Legal opinions and case law"
+ },
+ {
+  "id": "commencement-and-expiry",
+  "level": 3,
+  "title": "Commencement and expiry"
+ },
+ {
+  "id": "regulation-making-powers",
+  "level": 3,
+  "title": "Regulation-making powers"
+ },
+ {
+  "id": "penalties-for-offences",
+  "level": 3,
+  "title": "Penalties for offences"
+ },
+ {
+  "id": "penalties-and-children",
+  "level": 3,
+  "title": "Penalties and children"
+ },
+ {
+  "id": "savings-and-transitional-provisions",
+  "level": 3,
+  "title": "Savings and transitional provisions"
+ },
+ {
+  "id": "consequential-amendments",
+  "level": 3,
+  "title": "Consequential amendments"
+ },
+ {
+  "id": "consultation",
+  "level": 3,
+  "title": "Consultation"
+ },
+ {
+  "id": "other-matters-discussed-in-legislation-handbook",
+  "level": 3,
+  "title": "Other matters discussed in legislation handbook"
+ },
+ {
+  "id": "amendments-of-bills-after-introduction",
+  "level": 3,
+  "title": "Amendments of Bills after introduction"
+ },
+ {
+  "id": "9-examination-of-and-comments-on-draft-legislation",
+  "level": 2,
+  "title": "9. Examination of and comments on draft legislation"
+ },
+ {
+  "id": "considering-each-draft",
+  "level": 3,
+  "title": "Considering each draft"
+ },
+ {
+  "id": "steps-in-considering-draft",
+  "level": 3,
+  "title": "Steps in considering draft"
+ },
+ {
+  "id": "problems-with-authority-to-draft",
+  "level": 3,
+  "title": "Problems with authority to draft"
+ },
+ {
+  "id": "constructive-comments",
+  "level": 3,
+  "title": "Constructive comments"
+ },
+ {
+  "id": "explanation-of-problems",
+  "level": 3,
+  "title": "Explanation of problems"
+ },
+ {
+  "id": "need-to-focus-on-policy",
+  "level": 3,
+  "title": "Need to focus on policy"
+ },
+ {
+  "id": "10-departmental-drafts-not-encouraged",
+  "level": 2,
+  "title": "10. Departmental drafts not encouraged"
+ },
+ {
+  "id": "problems-caused-by-departmental-drafts",
+  "level": 3,
+  "title": "Problems caused by departmental drafts"
+ },
+ {
+  "id": "limited-circumstances-in-which-a-draft-can-be-helpful",
+  "level": 3,
+  "title": "Limited circumstances in which a draft can be helpful"
+ },
+ {
+  "id": "11-private-members",
+  "level": 2,
+  "title": "11. Private members"
+ },
+ {
+  "id": "drafting-for-private-members",
+  "level": 3,
+  "title": "Drafting for private members"
+ },
+ {
+  "id": "confidentiality",
+  "level": 3,
+  "title": "Confidentiality"
+ },
+ {
+  "id": "consultation-drafts",
+  "level": 3,
+  "title": "Consultation drafts"
+ },
+ {
+  "id": "explanatory-notes",
+  "level": 3,
+  "title": "Explanatory notes"
+ },
+ {
+  "id": "attachment-checklist-for-effective-drafting-instructions",
+  "level": 2,
+  "title": "Attachment Checklist for effective drafting instructions"
+ },
+ {
+  "id": "glossary",
+  "level": 2,
+  "title": "Glossary"
+ },
+ {
+  "id": "notes",
+  "level": 3,
+  "title": "Notes"
+ }
+]

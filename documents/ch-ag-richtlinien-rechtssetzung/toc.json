@@ -1,0 +1,867 @@
+[
+ {
+  "id": "regierungsrat-des-kantons-aargau-richtlinien-der-rechtssetzu",
+  "level": 3,
+  "title": "Regierungsrat des Kantons Aargau, Richtlinien der Rechtssetzung (RLRS)"
+ },
+ {
+  "id": "übersicht",
+  "level": 3,
+  "title": "Übersicht"
+ },
+ {
+  "id": "graphische-darstellung-des-rechtssetzungsverfahrens",
+  "level": 5,
+  "title": "Graphische Darstellung des Rechtssetzungsverfahrens"
+ },
+ {
+  "id": "1-einleitung-6",
+  "level": 5,
+  "title": "1 Einleitung 6"
+ },
+ {
+  "id": "2-allgemeine-weisungen-zur-rechtssetzung-9",
+  "level": 5,
+  "title": "2 Allgemeine Weisungen zur Rechtssetzung 9"
+ },
+ {
+  "id": "3-impulsphase-14",
+  "level": 5,
+  "title": "3 Impulsphase 14"
+ },
+ {
+  "id": "4-konzeptphase-20",
+  "level": 5,
+  "title": "4 Konzeptphase 20"
+ },
+ {
+  "id": "5-entwurfsphase-31",
+  "level": 5,
+  "title": "5 Entwurfsphase 31"
+ },
+ {
+  "id": "6-anhörungsphase-42",
+  "level": 5,
+  "title": "6 Anhörungsphase 42"
+ },
+ {
+  "id": "7-parlamentarisches-verfahren-46",
+  "level": 5,
+  "title": "7 Parlamentarisches Verfahren 46"
+ },
+ {
+  "id": "8-volksabstimmung-51",
+  "level": 5,
+  "title": "8 Volksabstimmung 51"
+ },
+ {
+  "id": "9-inkraftsetzung-und-publikation-53",
+  "level": 5,
+  "title": "9 Inkraftsetzung und Publikation 53"
+ },
+ {
+  "id": "abkürzungsverzeichnis-57",
+  "level": 5,
+  "title": "Abkürzungsverzeichnis 57"
+ },
+ {
+  "id": "anhänge",
+  "level": 5,
+  "title": "Anhänge"
+ },
+ {
+  "id": "inhaltsverzeichnis",
+  "level": 3,
+  "title": "Inhaltsverzeichnis"
+ },
+ {
+  "id": "1-einleitung-6-2",
+  "level": 5,
+  "title": "1 Einleitung 6"
+ },
+ {
+  "id": "2-allgemeine-weisungen-zur-rechtssetzung-9-2",
+  "level": 5,
+  "title": "2 Allgemeine Weisungen zur Rechtssetzung 9"
+ },
+ {
+  "id": "3-impulsphase-14-2",
+  "level": 5,
+  "title": "3 Impulsphase 14"
+ },
+ {
+  "id": "4-konzeptphase-20-2",
+  "level": 5,
+  "title": "4 Konzeptphase 20"
+ },
+ {
+  "id": "5-entwurfsphase-31-2",
+  "level": 5,
+  "title": "5 Entwurfsphase 31"
+ },
+ {
+  "id": "6-anhörungsphase-42-2",
+  "level": 5,
+  "title": "6 Anhörungsphase 42"
+ },
+ {
+  "id": "7-parlamentarisches-verfahren-46-2",
+  "level": 5,
+  "title": "7 Parlamentarisches Verfahren 46"
+ },
+ {
+  "id": "8-volksabstimmung-51-2",
+  "level": 5,
+  "title": "8 Volksabstimmung 51"
+ },
+ {
+  "id": "9-inkraftsetzung-und-publikation-53-2",
+  "level": 5,
+  "title": "9 Inkraftsetzung und Publikation 53"
+ },
+ {
+  "id": "abkürzungsverzeichnis-57-2",
+  "level": 5,
+  "title": "Abkürzungsverzeichnis 57"
+ },
+ {
+  "id": "1-einleitung",
+  "level": 4,
+  "title": "1 Einleitung"
+ },
+ {
+  "id": "1-1-zweck-der-richtlinien",
+  "level": 5,
+  "title": "1.1 Zweck der Richtlinien"
+ },
+ {
+  "id": "1-2-geltungsbereich-der-richtlinien",
+  "level": 5,
+  "title": "1.2 Geltungsbereich der Richtlinien"
+ },
+ {
+  "id": "1-2-1-adressatenkreis-persönlicher-geltungsbereich",
+  "level": 5,
+  "title": "1.2.1 Adressatenkreis (persönlicher Geltungsbereich)"
+ },
+ {
+  "id": "1-2-2-sachlicher-geltungsbereich",
+  "level": 5,
+  "title": "1.2.2 Sachlicher Geltungsbereich"
+ },
+ {
+  "id": "1-3-aufbau-der-richtlinien",
+  "level": 5,
+  "title": "1.3 Aufbau der Richtlinien"
+ },
+ {
+  "id": "1-4-hinweise-für-leserinnen-und-leser-in-zeitnot",
+  "level": 5,
+  "title": "1.4 Hinweise für Leserinnen und Leser in Zeitnot"
+ },
+ {
+  "id": "2-allgemeine-weisungen-zur-rechtssetzung",
+  "level": 4,
+  "title": "2 Allgemeine Weisungen zur Rechtssetzung"
+ },
+ {
+  "id": "2-1-verbindlichkeit-und-umsetzung-der-richtlinien",
+  "level": 5,
+  "title": "2.1 Verbindlichkeit und Umsetzung der Richtlinien"
+ },
+ {
+  "id": "2-1-1-weisungen-des-regierungsrats",
+  "level": 5,
+  "title": "2.1.1 Weisungen des Regierungsrats"
+ },
+ {
+  "id": "2-1-2-erläuterungen",
+  "level": 5,
+  "title": "2.1.2 Erläuterungen"
+ },
+ {
+  "id": "begründete-abweichungen-bleiben-auf-grund-der-kon-kreten-ums",
+  "level": 5,
+  "title": "Begründete Abweichungen bleiben auf- grund der kon- kreten Umstän- de möglich!"
+ },
+ {
+  "id": "2-2-rahmenorganisation-des-rechtssetzungsverfahrens",
+  "level": 5,
+  "title": "2.2 Rahmenorganisation des Rechtssetzungsverfahrens"
+ },
+ {
+  "id": "2-2-1-weisungen-des-regierungsrats",
+  "level": 5,
+  "title": "2.2.1 Weisungen des Regierungsrats"
+ },
+ {
+  "id": "2-2-2-erläuterungen",
+  "level": 5,
+  "title": "2.2.2 Erläuterungen"
+ },
+ {
+  "id": "2-3-ablauf-des-rechtssetzungsverfahrens",
+  "level": 5,
+  "title": "2.3 Ablauf des Rechtssetzungsverfahrens"
+ },
+ {
+  "id": "2-4-änderung-der-richtlinien",
+  "level": 5,
+  "title": "2.4 Änderung der Richtlinien"
+ },
+ {
+  "id": "2-4-1-weisungen-des-regierungsrats",
+  "level": 5,
+  "title": "2.4.1 Weisungen des Regierungsrats"
+ },
+ {
+  "id": "der-problem-lösungszyklus",
+  "level": 5,
+  "title": "Der Problem- lösungszyklus"
+ },
+ {
+  "id": "2-4-2-erläuterungen",
+  "level": 5,
+  "title": "2.4.2 Erläuterungen"
+ },
+ {
+  "id": "3-impulsphase",
+  "level": 4,
+  "title": "3 Impulsphase"
+ },
+ {
+  "id": "3-1-impulse-für-ein-kantonales-rechtssetzungsprojekt",
+  "level": 5,
+  "title": "3.1 Impulse für ein kantonales Rechtssetzungsprojekt"
+ },
+ {
+  "id": "3-1-1-rechtliche-vorgaben",
+  "level": 5,
+  "title": "3.1.1 Rechtliche Vorgaben"
+ },
+ {
+  "id": "3-1-2-erläuterungen",
+  "level": 5,
+  "title": "3.1.2 Erläuterungen"
+ },
+ {
+  "id": "3-2-problemwahrnehmung",
+  "level": 5,
+  "title": "3.2 Problemwahrnehmung"
+ },
+ {
+  "id": "3-2-1-weisungen-des-regierungsrats",
+  "level": 5,
+  "title": "3.2.1 Weisungen des Regierungsrats"
+ },
+ {
+  "id": "3-2-2-erläuterungen",
+  "level": 5,
+  "title": "3.2.2 Erläuterungen"
+ },
+ {
+  "id": "3-3-startschuss",
+  "level": 5,
+  "title": "3.3 Startschuss"
+ },
+ {
+  "id": "3-3-1-rechtliche-vorgaben",
+  "level": 5,
+  "title": "3.3.1 Rechtliche Vorgaben"
+ },
+ {
+  "id": "3-3-2-weisungen-des-regierungsrats",
+  "level": 5,
+  "title": "3.3.2 Weisungen des Regierungsrats"
+ },
+ {
+  "id": "m",
+  "level": 2,
+  "title": "M"
+ },
+ {
+  "id": "3-3-3-erläuterungen",
+  "level": 5,
+  "title": "3.3.3 Erläuterungen"
+ },
+ {
+  "id": "3-4-festlegen-der-vorgehensweise",
+  "level": 5,
+  "title": "3.4 Festlegen der Vorgehensweise"
+ },
+ {
+  "id": "3-4-1-weisungen-des-regierungsrats",
+  "level": 5,
+  "title": "3.4.1 Weisungen des Regierungsrats"
+ },
+ {
+  "id": "3-4-2-erläuterungen",
+  "level": 5,
+  "title": "3.4.2 Erläuterungen"
+ },
+ {
+  "id": "projekt-organisation",
+  "level": 5,
+  "title": "Projekt- organisation"
+ },
+ {
+  "id": "ablauf-planung",
+  "level": 5,
+  "title": "Ablauf- planung"
+ },
+ {
+  "id": "4-konzeptphase",
+  "level": 4,
+  "title": "4 Konzeptphase"
+ },
+ {
+  "id": "4-1-zweck-der-konzeptphase",
+  "level": 5,
+  "title": "4.1 Zweck der Konzeptphase"
+ },
+ {
+  "id": "4-2-einzelne-schritte-der-konzeptphase",
+  "level": 5,
+  "title": "4.2 Einzelne Schritte der Konzeptphase"
+ },
+ {
+  "id": "normkonzept-als-ziel-und-zwischen-produkt",
+  "level": 5,
+  "title": "Normkonzept als Ziel und Zwischen- produkt"
+ },
+ {
+  "id": "a-analyse-des-projektauftrags",
+  "level": 5,
+  "title": "A. Analyse des Projektauftrags"
+ },
+ {
+  "id": "b-feststellung-des-ist-zustands",
+  "level": 5,
+  "title": "B. Feststellung des IST-Zustands"
+ },
+ {
+  "id": "c-konkretisierung-und-bereini",
+  "level": 5,
+  "title": "C. Konkretisierung und Bereini-"
+ },
+ {
+  "id": "soll-zustand",
+  "level": 5,
+  "title": "(SOLL-Zustand)"
+ },
+ {
+  "id": "ziel",
+  "level": 5,
+  "title": "Ziel"
+ },
+ {
+  "id": "beispiel-für-eine-ziel-mittel",
+  "level": 5,
+  "title": "Beispiel für eine Ziel-Mittel-"
+ },
+ {
+  "id": "mittel-ziel-mittel-ziel-mittel",
+  "level": 5,
+  "title": "Mittel Ziel Mittel Ziel Mittel"
+ },
+ {
+  "id": "ziel-und-mittel",
+  "level": 5,
+  "title": "Ziel und Mittel"
+ },
+ {
+  "id": "steuerungsebene",
+  "level": 5,
+  "title": "Steuerungsebene"
+ },
+ {
+  "id": "steuerungstypen",
+  "level": 5,
+  "title": "Steuerungstypen"
+ },
+ {
+  "id": "d-variantensuche",
+  "level": 5,
+  "title": "D. Variantensuche"
+ },
+ {
+  "id": "steuerungs-instrumente",
+  "level": 5,
+  "title": "Steuerungs- instrumente"
+ },
+ {
+  "id": "steuerungsmodus",
+  "level": 5,
+  "title": "Steuerungsmodus"
+ },
+ {
+  "id": "neben-und-spätfolgen",
+  "level": 5,
+  "title": "Neben- und Spätfolgen"
+ },
+ {
+  "id": "steuerungsformen",
+  "level": 5,
+  "title": "Steuerungsformen:"
+ },
+ {
+  "id": "e-varianten-auswahl",
+  "level": 5,
+  "title": "E. Varianten- auswahl"
+ },
+ {
+  "id": "4-3-normkonzept",
+  "level": 5,
+  "title": "4.3 Normkonzept"
+ },
+ {
+  "id": "4-3-1-weisungen-des-regierungsrats",
+  "level": 5,
+  "title": "4.3.1 Weisungen des Regierungsrats"
+ },
+ {
+  "id": "4-3-2-erläuterungen",
+  "level": 5,
+  "title": "4.3.2 Erläuterungen"
+ },
+ {
+  "id": "4-4-bereinigung-und-genehmigung-des-normkonzepts",
+  "level": 5,
+  "title": "4.4 Bereinigung und Genehmigung des Normkonzepts"
+ },
+ {
+  "id": "4-4-1-rechtliche-vorgaben",
+  "level": 5,
+  "title": "4.4.1 Rechtliche Vorgaben"
+ },
+ {
+  "id": "4-4-2-weisungen-des-regierungsrats",
+  "level": 5,
+  "title": "4.4.2 Weisungen des Regierungsrats"
+ },
+ {
+  "id": "4-4-3-erläuterungen",
+  "level": 5,
+  "title": "4.4.3 Erläuterungen"
+ },
+ {
+  "id": "m-2",
+  "level": 2,
+  "title": "M"
+ },
+ {
+  "id": "5-entwurfsphase",
+  "level": 4,
+  "title": "5 Entwurfsphase"
+ },
+ {
+  "id": "5-1-verfassen-des-erlassentwurfs-durch-die-departemente",
+  "level": 5,
+  "title": "5.1 Verfassen des Erlassentwurfs durch die Departemente"
+ },
+ {
+  "id": "5-1-1-grundsätzliches-zur-erstellung-des-erlassentwurfs",
+  "level": 5,
+  "title": "5.1.1 Grundsätzliches zur Erstellung des Erlassentwurfs"
+ },
+ {
+  "id": "5-1-1-1-weisungen-des-regierungsrats",
+  "level": 5,
+  "title": "5.1.1.1 Weisungen des Regierungsrats"
+ },
+ {
+  "id": "5-1-1-2-erläuterungen",
+  "level": 5,
+  "title": "5.1.1.2 Erläuterungen"
+ },
+ {
+  "id": "a-grundsätze-der-erkennbarkeit-und-verständlichkeit",
+  "level": 5,
+  "title": "A. Grundsätze der Erkennbarkeit und Verständlichkeit"
+ },
+ {
+  "id": "b-gliederung",
+  "level": 5,
+  "title": "B. Gliederung"
+ },
+ {
+  "id": "d-normativer-ge-halt-der-rechtss-ätze",
+  "level": 5,
+  "title": "D. Normativer Ge- halt der Rechtss- ätze"
+ },
+ {
+  "id": "c-sprache-der-rechtssätze",
+  "level": 5,
+  "title": "C. Sprache der Rechtssätze"
+ },
+ {
+  "id": "5-1-2-zwingender-inhalt-des-erlassentwurfs",
+  "level": 5,
+  "title": "5.1.2 Zwingender Inhalt des Erlassentwurfs"
+ },
+ {
+  "id": "5-1-2-1-weisungen-des-regierungsrats",
+  "level": 5,
+  "title": "5.1.2.1 Weisungen des Regierungsrats"
+ },
+ {
+  "id": "e-form-des-erlas-sentwurfs",
+  "level": 5,
+  "title": "E. Form des Erlas- sentwurfs"
+ },
+ {
+  "id": "5-1-2-2-erläuterungen",
+  "level": 5,
+  "title": "5.1.2.2 Erläuterungen"
+ },
+ {
+  "id": "5-2-vorbereitung-der-beschlussfassung-durch-den-regie-rungsr",
+  "level": 5,
+  "title": "5.2 Vorbereitung der Beschlussfassung durch den Regie- rungsrat"
+ },
+ {
+  "id": "5-2-1-rechtliche-vorgaben",
+  "level": 5,
+  "title": "5.2.1 Rechtliche Vorgaben"
+ },
+ {
+  "id": "5-2-2-weisungen-des-regierungsrats",
+  "level": 5,
+  "title": "5.2.2 Weisungen des Regierungsrats"
+ },
+ {
+  "id": "5-3-departementsinterne-überprüfung-und-bereinigung",
+  "level": 5,
+  "title": "5.3 Departementsinterne Überprüfung und Bereinigung"
+ },
+ {
+  "id": "5-3-1-weisungen-des-regierungsrats",
+  "level": 5,
+  "title": "5.3.1 Weisungen des Regierungsrats"
+ },
+ {
+  "id": "5-3-2-erläuterungen",
+  "level": 5,
+  "title": "5.3.2 Erläuterungen"
+ },
+ {
+  "id": "5-4-mitberichtsverfahren-und-differenzbereinigung",
+  "level": 5,
+  "title": "5.4 Mitberichtsverfahren und Differenzbereinigung"
+ },
+ {
+  "id": "5-4-1-rechtliche-vorgaben",
+  "level": 5,
+  "title": "5.4.1 Rechtliche Vorgaben"
+ },
+ {
+  "id": "5-4-2-weisungen-des-regierungsrats",
+  "level": 5,
+  "title": "5.4.2 Weisungen des Regierungsrats"
+ },
+ {
+  "id": "5-4-3-erläuterungen",
+  "level": 5,
+  "title": "5.4.3 Erläuterungen"
+ },
+ {
+  "id": "5-5-beschluss-oder-freigabe-zur-anhörung",
+  "level": 5,
+  "title": "5.5 Beschluss oder Freigabe zur Anhörung"
+ },
+ {
+  "id": "5-5-1-rechtliche-vorgaben",
+  "level": 5,
+  "title": "5.5.1 Rechtliche Vorgaben"
+ },
+ {
+  "id": "5-5-2-erläuterungen",
+  "level": 5,
+  "title": "5.5.2 Erläuterungen"
+ },
+ {
+  "id": "m-3",
+  "level": 2,
+  "title": "M"
+ },
+ {
+  "id": "6-anhörungsphase",
+  "level": 4,
+  "title": "6 Anhörungsphase"
+ },
+ {
+  "id": "6-1-allgemeines",
+  "level": 5,
+  "title": "6.1 Allgemeines"
+ },
+ {
+  "id": "6-1-1-rechtliche-vorgaben",
+  "level": 5,
+  "title": "6.1.1 Rechtliche Vorgaben"
+ },
+ {
+  "id": "6-1-2-erläuterungen",
+  "level": 5,
+  "title": "6.1.2 Erläuterungen"
+ },
+ {
+  "id": "6-2-einleitung-des-anhörungsverfahrens-und-seine-publi-katio",
+  "level": 5,
+  "title": "6.2 Einleitung des Anhörungsverfahrens und seine Publi- kation"
+ },
+ {
+  "id": "6-2-1-weisungen-des-regierungsrats",
+  "level": 5,
+  "title": "6.2.1 Weisungen des Regierungsrats"
+ },
+ {
+  "id": "6-2-2-erläuterungen",
+  "level": 5,
+  "title": "6.2.2 Erläuterungen"
+ },
+ {
+  "id": "6-3-botschaft-an-den-grossen-rat",
+  "level": 5,
+  "title": "6.3 Botschaft an den Grossen Rat"
+ },
+ {
+  "id": "6-3-1-rechtliche-vorgaben",
+  "level": 5,
+  "title": "6.3.1 Rechtliche Vorgaben"
+ },
+ {
+  "id": "6-3-2-erläuterungen",
+  "level": 5,
+  "title": "6.3.2 Erläuterungen"
+ },
+ {
+  "id": "m-4",
+  "level": 2,
+  "title": "M"
+ },
+ {
+  "id": "7-parlamentarisches-verfahren",
+  "level": 4,
+  "title": "7 Parlamentarisches Verfahren"
+ },
+ {
+  "id": "7-1-beratung-durch-die-vorbereitende-kommission",
+  "level": 5,
+  "title": "7.1 Beratung durch die vorbereitende Kommission"
+ },
+ {
+  "id": "7-1-1-rechtliche-vorgaben",
+  "level": 5,
+  "title": "7.1.1 Rechtliche Vorgaben"
+ },
+ {
+  "id": "7-1-2-erläuterungen",
+  "level": 5,
+  "title": "7.1.2 Erläuterungen"
+ },
+ {
+  "id": "7-2-synopse-zu-den-anträgen-der-parlamentarischen-kommission",
+  "level": 5,
+  "title": "7.2 Synopse zu den Anträgen der parlamentarischen Kommission"
+ },
+ {
+  "id": "7-3-stellungnahme-des-regierungsrats",
+  "level": 5,
+  "title": "7.3 Stellungnahme des Regierungsrats"
+ },
+ {
+  "id": "7-4-beratung-durch-den-grossen-rat",
+  "level": 5,
+  "title": "7.4 Beratung durch den Grossen Rat"
+ },
+ {
+  "id": "7-4-1-rechtliche-vorgaben",
+  "level": 5,
+  "title": "7.4.1 Rechtliche Vorgaben"
+ },
+ {
+  "id": "7-4-2-erläuterungen",
+  "level": 5,
+  "title": "7.4.2 Erläuterungen"
+ },
+ {
+  "id": "7-5-botschaft-an-den-grossen-rat-zur-zweiten-beratung",
+  "level": 5,
+  "title": "7.5 Botschaft an den Grossen Rat zur zweiten Beratung"
+ },
+ {
+  "id": "7-5-1-rechtliche-vorgaben",
+  "level": 5,
+  "title": "7.5.1 Rechtliche Vorgaben"
+ },
+ {
+  "id": "7-5-2-erläuterungen",
+  "level": 5,
+  "title": "7.5.2 Erläuterungen"
+ },
+ {
+  "id": "m-5",
+  "level": 2,
+  "title": "M"
+ },
+ {
+  "id": "7-6-zweite-beratung-durch-den-grossen-rat",
+  "level": 5,
+  "title": "7.6 Zweite Beratung durch den Grossen Rat"
+ },
+ {
+  "id": "7-6-1-rechtliche-vorgaben",
+  "level": 5,
+  "title": "7.6.1 Rechtliche Vorgaben"
+ },
+ {
+  "id": "7-6-2-erläuterungen",
+  "level": 5,
+  "title": "7.6.2 Erläuterungen"
+ },
+ {
+  "id": "m-6",
+  "level": 2,
+  "title": "M"
+ },
+ {
+  "id": "7-7-redaktionslesung",
+  "level": 5,
+  "title": "7.7 Redaktionslesung"
+ },
+ {
+  "id": "7-7-1-rechtliche-vorgaben",
+  "level": 5,
+  "title": "7.7.1 Rechtliche Vorgaben"
+ },
+ {
+  "id": "7-7-2-erläuterungen",
+  "level": 5,
+  "title": "7.7.2 Erläuterungen"
+ },
+ {
+  "id": "8-volksabstimmung",
+  "level": 4,
+  "title": "8 Volksabstimmung"
+ },
+ {
+  "id": "8-1-vorbereitung-der-abstimmungsvorlagen",
+  "level": 5,
+  "title": "8.1 Vorbereitung der Abstimmungsvorlagen"
+ },
+ {
+  "id": "8-1-1-rechtliche-vorgaben",
+  "level": 5,
+  "title": "8.1.1 Rechtliche Vorgaben"
+ },
+ {
+  "id": "8-1-2-weisungen-des-regierungsrats",
+  "level": 5,
+  "title": "8.1.2 Weisungen des Regierungsrats"
+ },
+ {
+  "id": "8-1-3-erläuterungen",
+  "level": 5,
+  "title": "8.1.3 Erläuterungen"
+ },
+ {
+  "id": "8-2-volksabstimmung",
+  "level": 5,
+  "title": "8.2 Volksabstimmung"
+ },
+ {
+  "id": "m-7",
+  "level": 2,
+  "title": "M"
+ },
+ {
+  "id": "9-inkraftsetzung-und-publikation",
+  "level": 4,
+  "title": "9 Inkraftsetzung und Publikation"
+ },
+ {
+  "id": "9-1-genehmigung-durch-den-bund",
+  "level": 5,
+  "title": "9.1 Genehmigung durch den Bund"
+ },
+ {
+  "id": "9-1-1-rechtliche-vorgaben",
+  "level": 5,
+  "title": "9.1.1 Rechtliche Vorgaben"
+ },
+ {
+  "id": "9-1-2-erläuterungen",
+  "level": 5,
+  "title": "9.1.2 Erläuterungen"
+ },
+ {
+  "id": "9-2-inkraftsetzung",
+  "level": 5,
+  "title": "9.2 Inkraftsetzung"
+ },
+ {
+  "id": "9-2-1-weisungen-des-regierungsrats",
+  "level": 5,
+  "title": "9.2.1 Weisungen des Regierungsrats"
+ },
+ {
+  "id": "m-m",
+  "level": 2,
+  "title": "M M"
+ },
+ {
+  "id": "9-2-2-erläuterungen",
+  "level": 5,
+  "title": "9.2.2 Erläuterungen"
+ },
+ {
+  "id": "9-3-publikation",
+  "level": 5,
+  "title": "9.3 Publikation"
+ },
+ {
+  "id": "9-3-1-rechtliche-vorgaben",
+  "level": 5,
+  "title": "9.3.1 Rechtliche Vorgaben"
+ },
+ {
+  "id": "9-3-2-weisung-des-regierungsrats",
+  "level": 5,
+  "title": "9.3.2 Weisung des Regierungsrats"
+ },
+ {
+  "id": "9-3-3-erläuterungen",
+  "level": 5,
+  "title": "9.3.3 Erläuterungen"
+ },
+ {
+  "id": "a-generelles",
+  "level": 5,
+  "title": "A. Generelles"
+ },
+ {
+  "id": "b-ordentliche-publikation",
+  "level": 5,
+  "title": "B. Ordentliche Publikation"
+ },
+ {
+  "id": "9-4-bewährung-des-neuen-rechts",
+  "level": 5,
+  "title": "9.4 Bewährung des neuen Rechts"
+ },
+ {
+  "id": "c-ausserordentli-che-publikations-formen",
+  "level": 5,
+  "title": "C. Ausserordentli- che Publikations- formen"
+ },
+ {
+  "id": "d-informelle-veröffentlichung",
+  "level": 5,
+  "title": "D. Informelle Veröffentlichung"
+ },
+ {
+  "id": "abkürzungsverzeichnis",
+  "level": 4,
+  "title": "Abkürzungsverzeichnis"
+ }
+]

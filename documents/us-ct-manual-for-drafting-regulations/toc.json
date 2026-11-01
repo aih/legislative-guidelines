@@ -1,0 +1,527 @@
+[
+ {
+  "id": "state-of-connecticut",
+  "level": 2,
+  "title": "STATE OF CONNECTICUT"
+ },
+ {
+  "id": "manual-for-drafting-regulations",
+  "level": 2,
+  "title": "MANUAL FOR DRAFTING REGULATIONS"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 2,
+  "title": "TABLE OF CONTENTS"
+ },
+ {
+  "id": "i-standard-format-for-proposed-regulations",
+  "level": 5,
+  "title": "I. Standard Format for Proposed Regulations"
+ },
+ {
+  "id": "ii-other-drafting-considerations",
+  "level": 5,
+  "title": "II. Other Drafting Considerations"
+ },
+ {
+  "id": "agency-checklist-for-drafting-regulations",
+  "level": 2,
+  "title": "AGENCY CHECKLIST FOR DRAFTING REGULATIONS"
+ },
+ {
+  "id": "statutory-authority",
+  "level": 3,
+  "title": "Statutory Authority"
+ },
+ {
+  "id": "current-regulations-statement-of-purpose-and-effective-dates",
+  "level": 3,
+  "title": "Current Regulations, Statement of Purpose and Effective Dates"
+ },
+ {
+  "id": "text-and-language-conventions-numbering-and-lettering",
+  "level": 3,
+  "title": "Text and Language Conventions, Numbering and Lettering"
+ },
+ {
+  "id": "drafting",
+  "level": 3,
+  "title": "Drafting"
+ },
+ {
+  "id": "proofreading",
+  "level": 3,
+  "title": "Proofreading"
+ },
+ {
+  "id": "preface",
+  "level": 2,
+  "title": "PREFACE"
+ },
+ {
+  "id": "introduction",
+  "level": 2,
+  "title": "INTRODUCTION"
+ },
+ {
+  "id": "part-a-statutory-authority",
+  "level": 2,
+  "title": "PART A: STATUTORY AUTHORITY"
+ },
+ {
+  "id": "summary",
+  "level": 3,
+  "title": "Summary"
+ },
+ {
+  "id": "generally",
+  "level": 3,
+  "title": "Generally"
+ },
+ {
+  "id": "citing-the-proper-statute-as-authority-for-adopting-regulati",
+  "level": 3,
+  "title": "Citing the Proper Statute as Authority for Adopting Regulations"
+ },
+ {
+  "id": "exceeding-statutory-authority",
+  "level": 3,
+  "title": "Exceeding Statutory Authority"
+ },
+ {
+  "id": "broad-delegation-of-authority-in-section-14-312",
+  "level": 5,
+  "title": "BROAD delegation of authority in section 14-312:"
+ },
+ {
+  "id": "discussion-an-agency-with-this-type-of-authority-could-addre",
+  "level": 5,
+  "title": "Discussion: An agency with this type of authority could address almost any aspect of the subject matter of chapter 249 – Traffic Control and Highway Safety – provided the regulations are necessary to \"make effective the"
+ },
+ {
+  "id": "limited-delegation-of-authority-in-section-16a-15a",
+  "level": 5,
+  "title": "LIMITED delegation of authority in section 16a-15a:"
+ },
+ {
+  "id": "discussion-if-an-agency-with-this-type-of-authority-included",
+  "level": 5,
+  "title": "Discussion: If an agency with this type of authority included in its regulation any aspect of the subject matter beyond the notification provisions specified in the statute, the agency would be exceeding the authority delegated to it by the"
+ },
+ {
+  "id": "regardless-of-whether-the-authorizing-statute-is-broad-or-re",
+  "level": 5,
+  "title": "Regardless of whether the authorizing statute is broad or restrictive, certain types of provisions require specific statutory authority:"
+ },
+ {
+  "id": "in-addition-because-it-is-the-statutes-that-confer-regulator",
+  "level": 5,
+  "title": "In addition, because it is the statutes that confer regulatory authority upon an agency, it is never appropriate to use the term, \"Notwithstanding the Connecticut General Statutes\" in"
+ },
+ {
+  "id": "failure-to-implement-the-law-as-directed-by-statutory-author",
+  "level": 3,
+  "title": "Failure to Implement the Law as Directed by Statutory Authority"
+ },
+ {
+  "id": "guidelines-standards-and-other-agency-directives",
+  "level": 3,
+  "title": "\"Guidelines\", \"Standards\" and Other Agency Directives"
+ },
+ {
+  "id": "part-b-language-convention-usage",
+  "level": 2,
+  "title": "PART B: LANGUAGE CONVENTION & USAGE"
+ },
+ {
+  "id": "current-regulation-in-effect-on-the-eregulations-system-the-",
+  "level": 5,
+  "title": "current regulation in effect on the eRegulations System. The Regulations of Connecticut"
+ },
+ {
+  "id": "https-eregulations-ct-gov-eregsportal",
+  "level": 5,
+  "title": "https://eregulations.ct.gov/eRegsPortal/"
+ },
+ {
+  "id": "i-standard-format-for-proposed-regulations-formatting",
+  "level": 3,
+  "title": "► I. STANDARD FORMAT FOR PROPOSED REGULATIONS Formatting"
+ },
+ {
+  "id": "separating-proposed-regulations-into-sections",
+  "level": 3,
+  "title": "Separating Proposed Regulations into Sections"
+ },
+ {
+  "id": "introductory-language",
+  "level": 3,
+  "title": "Introductory Language"
+ },
+ {
+  "id": "amending-a-regulation-a-series-of-sections-of-regulations-or",
+  "level": 5,
+  "title": "Amending a regulation, a series of sections of regulations or a specific unit of a regulation"
+ },
+ {
+  "id": "or",
+  "level": 5,
+  "title": "OR"
+ },
+ {
+  "id": "or-2",
+  "level": 5,
+  "title": "OR"
+ },
+ {
+  "id": "discussion-the-first-example-presents-another-way-to-refer-t",
+  "level": 5,
+  "title": "Discussion: The first example presents another way to refer to a specific unit of a regulation, as discussed on page 26. Because the format in the first example is"
+ },
+ {
+  "id": "to-avoid",
+  "level": 4,
+  "title": " TO AVOID:"
+ },
+ {
+  "id": "to-avoid-2",
+  "level": 4,
+  "title": " TO AVOID:"
+ },
+ {
+  "id": "discussion-because-the-introductory-language-states-that-sub",
+  "level": 5,
+  "title": "Discussion: Because the introductory language states that subsection (g) is being amended, all of subsection (g) (i.e., subdivisions (1), (2) and so forth) should be shown. Alternatively, the introductory language could state that"
+ },
+ {
+  "id": "sec-36a-647-7-violation-of-provisions",
+  "level": 5,
+  "title": "Sec. 36a-647-7. Violation of provisions"
+ },
+ {
+  "id": "adding-a-new-regulation-or-adding-a-new-unit-to-a-regulation",
+  "level": 5,
+  "title": "Adding a new regulation or adding a new unit to a regulation"
+ },
+ {
+  "id": "or-3",
+  "level": 5,
+  "title": "OR"
+ },
+ {
+  "id": "or-4",
+  "level": 5,
+  "title": "OR"
+ },
+ {
+  "id": "repealing-an-entire-section-or-sections-of-the-regulations-o",
+  "level": 5,
+  "title": "Repealing an entire section or sections of the Regulations of the Connecticut State Agencies"
+ },
+ {
+  "id": "or-5",
+  "level": 5,
+  "title": "OR"
+ },
+ {
+  "id": "or-6",
+  "level": 5,
+  "title": "OR"
+ },
+ {
+  "id": "section-or-sections-being-repealed-amend-any-regulations-con",
+  "level": 5,
+  "title": "section or sections being repealed, amend any regulations containing such references"
+ },
+ {
+  "id": "deleting-a-subsection-or-subdivision-of-a-regulation",
+  "level": 5,
+  "title": "Deleting a subsection or subdivision of a regulation"
+ },
+ {
+  "id": "deleting-and-adding-language",
+  "level": 3,
+  "title": "Deleting and Adding Language"
+ },
+ {
+  "id": "deleting-language",
+  "level": 5,
+  "title": "Deleting language"
+ },
+ {
+  "id": "do-a-search-of-the-regulations-of-connecticut-state-agencies",
+  "level": 5,
+  "title": "Do a search of the Regulations of Connecticut State Agencies for any references to the unit designator being changed, amend any regulations containing such references accordingly"
+ },
+ {
+  "id": "adding-language",
+  "level": 5,
+  "title": "Adding language"
+ },
+ {
+  "id": "sequence",
+  "level": 5,
+  "title": "Sequence"
+ },
+ {
+  "id": "subdividing-sections-into-smaller-units",
+  "level": 3,
+  "title": "Subdividing Sections into Smaller Units"
+ },
+ {
+  "id": "the-anatomy-of-a-section",
+  "level": 5,
+  "title": "The Anatomy of a Section"
+ },
+ {
+  "id": "exceptions",
+  "level": 5,
+  "title": "Exceptions:"
+ },
+ {
+  "id": "transferring-or-renumbering-sections-of-a-regulation",
+  "level": 3,
+  "title": "Transferring or Renumbering Sections of a Regulation"
+ },
+ {
+  "id": "correlated-table",
+  "level": 5,
+  "title": "Correlated Table"
+ },
+ {
+  "id": "citing-regulations",
+  "level": 3,
+  "title": "Citing Regulations"
+ },
+ {
+  "id": "citing-units-of-a-regulation",
+  "level": 5,
+  "title": "Citing Units of a Regulation"
+ },
+ {
+  "id": "or-7",
+  "level": 5,
+  "title": "OR"
+ },
+ {
+  "id": "citing-another-unit-within-the-same-regulation",
+  "level": 5,
+  "title": "Citing Another Unit Within the Same Regulation"
+ },
+ {
+  "id": "or-8",
+  "level": 5,
+  "title": "OR"
+ },
+ {
+  "id": "citing-another-connecticut-regulation",
+  "level": 5,
+  "title": "Citing Another Connecticut Regulation"
+ },
+ {
+  "id": "do-not-use-ambiguous-references-never-use-these-regulations-",
+  "level": 5,
+  "title": "Do Not Use Ambiguous References Never use \"these regulations\", \"the above\", \"the below\", \"hereinafter\" or any similar"
+ },
+ {
+  "id": "citing-the-connecticut-general-statutes",
+  "level": 3,
+  "title": "Citing the Connecticut General Statutes"
+ },
+ {
+  "id": "citing-a-specific-unit-within-a-section-of-the-connecticut-g",
+  "level": 5,
+  "title": "Citing a Specific Unit Within a Section of the Connecticut General Statutes"
+ },
+ {
+  "id": "or-9",
+  "level": 5,
+  "title": "OR"
+ },
+ {
+  "id": "never-insert-as-amended-from-time-to-time-after-a-citation-t",
+  "level": 5,
+  "title": "Never Insert \"As Amended from Time to Time\" After a Citation to the Connecticut General Statutes"
+ },
+ {
+  "id": "assigning-temporary-section-numbers-to-new-regulations",
+  "level": 5,
+  "title": "Assigning Temporary Section Numbers to New Regulations"
+ },
+ {
+  "id": "never-copy-or-paraphrase-the-connecticut-general-statutes",
+  "level": 5,
+  "title": "Never Copy or Paraphrase the Connecticut General Statutes"
+ },
+ {
+  "id": "to-avoid-3",
+  "level": 4,
+  "title": " TO AVOID:"
+ },
+ {
+  "id": "discussion-it-is-preferable-to-say-5-nursing-services-has-th",
+  "level": 5,
+  "title": "Discussion: It is preferable to say, \"(5) \"Nursing services\" has the same meaning as provided in section 20-87a of the Connecticut General Statutes.\" Generally, it is more accurate to cite to the definition in the Connecticut General Statutes rather than copying the text that appears in the Connecticut"
+ },
+ {
+  "id": "to-avoid-4",
+  "level": 4,
+  "title": " TO AVOID:"
+ },
+ {
+  "id": "discussion-the-italicized-language-in-the-proposed-regulatio",
+  "level": 5,
+  "title": "Discussion: The italicized language in the proposed regulation repeats the language of the statute rather than citing more generally to the right of entry requirements set forth in said subsection. If the language in the cited subsection is amended by legislation, the regulation will no longer be consistent and will need to be amended accordingly, whereas by citing to the right of entry requirements in the statute, the regulation will not need to be amended"
+ },
+ {
+  "id": "citing-federal-regulations-and-federal-statutes",
+  "level": 3,
+  "title": "Citing Federal Regulations and Federal Statutes"
+ },
+ {
+  "id": "using-as-amended-from-time-to-time-after-a-citation-to-feder",
+  "level": 5,
+  "title": "Using \"As Amended from Time to Time\" After a Citation to Federal Regulations or Federal Statutes"
+ },
+ {
+  "id": "ii-other-drafting-considerations-2",
+  "level": 3,
+  "title": "►II. OTHER DRAFTING CONSIDERATIONS"
+ },
+ {
+  "id": "statement-of-purpose",
+  "level": 3,
+  "title": "Statement of Purpose"
+ },
+ {
+  "id": "b-summary-of-the-main-provision-of-the-proposed-amendment-th",
+  "level": 5,
+  "title": "B. Summary of the main provision of the proposed amendment. The main"
+ },
+ {
+  "id": "c-the-legal-effects-of-the-proposed-amendment-on-existing-re",
+  "level": 5,
+  "title": "C. The legal effects of the proposed amendment on existing regulations or other"
+ },
+ {
+  "id": "notwithstanding-clauses-exceptions-or-provisos",
+  "level": 3,
+  "title": "\"Notwithstanding\" Clauses, Exceptions or Provisos"
+ },
+ {
+  "id": "note-the-agency-does-not-have-the-authority-to-notwithstand-",
+  "level": 5,
+  "title": "NOTE: The agency does not have the authority to \"notwithstand\" provisions of the Connecticut General Statutes, a federal regulation or a federal statute in a regulation. The"
+ },
+ {
+  "id": "retroactivity-and-effective-dates",
+  "level": 3,
+  "title": "Retroactivity and Effective Dates"
+ },
+ {
+  "id": "consistent-use-of-terms",
+  "level": 3,
+  "title": "Consistent Use of Terms"
+ },
+ {
+  "id": "definitions",
+  "level": 3,
+  "title": "Definitions"
+ },
+ {
+  "id": "when-to-define-a-term",
+  "level": 5,
+  "title": "When to Define a Term"
+ },
+ {
+  "id": "placement-of-definitions",
+  "level": 5,
+  "title": "Placement of Definitions"
+ },
+ {
+  "id": "or-10",
+  "level": 5,
+  "title": "OR"
+ },
+ {
+  "id": "or-11",
+  "level": 5,
+  "title": "OR"
+ },
+ {
+  "id": "capitalization",
+  "level": 5,
+  "title": "Capitalization"
+ },
+ {
+  "id": "punctuation",
+  "level": 5,
+  "title": "Punctuation"
+ },
+ {
+  "id": "form",
+  "level": 5,
+  "title": "Form"
+ },
+ {
+  "id": "plain-english",
+  "level": 3,
+  "title": "Plain English"
+ },
+ {
+  "id": "grammar",
+  "level": 3,
+  "title": "Grammar"
+ },
+ {
+  "id": "and-vs-or",
+  "level": 5,
+  "title": "\"And\" vs. \"Or\""
+ },
+ {
+  "id": "discussion-an-individual-can-qualify-as-an-allied-health-pro",
+  "level": 5,
+  "title": "Discussion: An individual can qualify as an allied health professional either by"
+ },
+ {
+  "id": "discussion-here-both-requirements-must-be-met-for-an-individ",
+  "level": 5,
+  "title": "Discussion: Here, both requirements must be met for an individual to qualify as"
+ },
+ {
+  "id": "shall-vs-must-vs-will",
+  "level": 5,
+  "title": "\"Shall\" vs. \"Must\" vs. \"Will\""
+ },
+ {
+  "id": "use-complete-sentences",
+  "level": 5,
+  "title": "Use Complete Sentences"
+ },
+ {
+  "id": "active-voice",
+  "level": 3,
+  "title": "Active Voice"
+ },
+ {
+  "id": "timeframes",
+  "level": 3,
+  "title": "Timeframes"
+ },
+ {
+  "id": "gender-neutral-language",
+  "level": 3,
+  "title": "Gender Neutral Language"
+ },
+ {
+  "id": "numbers",
+  "level": 3,
+  "title": "Numbers"
+ },
+ {
+  "id": "index",
+  "level": 3,
+  "title": "INDEX"
+ }
+]

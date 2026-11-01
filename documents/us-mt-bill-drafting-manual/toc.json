@@ -1,0 +1,1177 @@
+[
+ {
+  "id": "bill-drafting-manual",
+  "level": 2,
+  "title": "Bill Drafting Manual"
+ },
+ {
+  "id": "2026-montana",
+  "level": 2,
+  "title": "2026 Montana"
+ },
+ {
+  "id": "montana-bill-drafting-manual",
+  "level": 2,
+  "title": "MONTANA Bill Drafting Manual"
+ },
+ {
+  "id": "2026",
+  "level": 2,
+  "title": "2026"
+ },
+ {
+  "id": "montana-legislative-services-division",
+  "level": 3,
+  "title": "Montana Legislative Services Division"
+ },
+ {
+  "id": "code-commissioner-and-director-of-legal-services",
+  "level": 3,
+  "title": "Code Commissioner and Director of Legal Services"
+ },
+ {
+  "id": "legislative-technical-editors",
+  "level": 3,
+  "title": "Legislative Technical Editors"
+ },
+ {
+  "id": "printing-and-distribution",
+  "level": 3,
+  "title": "Printing and Distribution"
+ },
+ {
+  "id": "preface",
+  "level": 2,
+  "title": "PREFACE"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 2,
+  "title": "TABLE OF CONTENTS"
+ },
+ {
+  "id": "chapter-1-bill-drafting-generally",
+  "level": 3,
+  "title": "Chapter 1. Bill Drafting Generally"
+ },
+ {
+  "id": "chapter-2-style-and-language",
+  "level": 3,
+  "title": "Chapter 2. Style and Language"
+ },
+ {
+  "id": "chapter-3-form-guide",
+  "level": 3,
+  "title": "Chapter 3. Form Guide"
+ },
+ {
+  "id": "chapter-4-the-bill-and-its-parts",
+  "level": 3,
+  "title": "Chapter 4. The Bill and Its Parts"
+ },
+ {
+  "id": "chapter-5-special-types-of-bills",
+  "level": 3,
+  "title": "Chapter 5. Special Types of Bills"
+ },
+ {
+  "id": "chapter-6-bills-with-special-provisions",
+  "level": 3,
+  "title": "Chapter 6. Bills With Special Provisions"
+ },
+ {
+  "id": "chapter-7-resolutions",
+  "level": 3,
+  "title": "Chapter 7. Resolutions"
+ },
+ {
+  "id": "chapter-8-bill-amendments",
+  "level": 3,
+  "title": "Chapter 8. Bill Amendments"
+ },
+ {
+  "id": "chapter-9-selected-provisions-relating-to-bill-drafting",
+  "level": 3,
+  "title": "Chapter 9. Selected Provisions Relating to Bill Drafting"
+ },
+ {
+  "id": "chapter-10-subject-areas-in-bill-drafting",
+  "level": 3,
+  "title": "Chapter 10. Subject Areas in Bill Drafting"
+ },
+ {
+  "id": "chapter-11-electronic-bill-drafting",
+  "level": 3,
+  "title": "Chapter 11. Electronic Bill Drafting"
+ },
+ {
+  "id": "appendix-a",
+  "level": 3,
+  "title": "Appendix A"
+ },
+ {
+  "id": "appendix-b",
+  "level": 3,
+  "title": "Appendix B"
+ },
+ {
+  "id": "appendix-c",
+  "level": 3,
+  "title": "Appendix C"
+ },
+ {
+  "id": "appendix-d",
+  "level": 3,
+  "title": "Appendix D"
+ },
+ {
+  "id": "appendix-e",
+  "level": 3,
+  "title": "Appendix E"
+ },
+ {
+  "id": "appendix-f",
+  "level": 3,
+  "title": "Appendix F"
+ },
+ {
+  "id": "appendix-g",
+  "level": 3,
+  "title": "Appendix G"
+ },
+ {
+  "id": "appendix-h",
+  "level": 3,
+  "title": "Appendix H"
+ },
+ {
+  "id": "appendix-i",
+  "level": 3,
+  "title": "Appendix I"
+ },
+ {
+  "id": "appendix-j",
+  "level": 3,
+  "title": "Appendix J"
+ },
+ {
+  "id": "appendix-k",
+  "level": 3,
+  "title": "Appendix K"
+ },
+ {
+  "id": "appendix-l",
+  "level": 3,
+  "title": "Appendix L"
+ },
+ {
+  "id": "appendix-m",
+  "level": 3,
+  "title": "Appendix M"
+ },
+ {
+  "id": "appendix-n",
+  "level": 3,
+  "title": "Appendix N"
+ },
+ {
+  "id": "appendix-o",
+  "level": 3,
+  "title": "Appendix O"
+ },
+ {
+  "id": "appendix-p",
+  "level": 3,
+  "title": "Appendix P"
+ },
+ {
+  "id": "appendix-q",
+  "level": 3,
+  "title": "Appendix Q"
+ },
+ {
+  "id": "appendix-r",
+  "level": 3,
+  "title": "Appendix R"
+ },
+ {
+  "id": "appendix-s",
+  "level": 3,
+  "title": "Appendix S"
+ },
+ {
+  "id": "appendix-t",
+  "level": 3,
+  "title": "Appendix T"
+ },
+ {
+  "id": "appendix-u",
+  "level": 3,
+  "title": "Appendix U"
+ },
+ {
+  "id": "chapter-1-bill-drafting-generally-2",
+  "level": 2,
+  "title": "CHAPTER 1 Bill Drafting Generally"
+ },
+ {
+  "id": "1-1-policy-and-the-bill-drafter",
+  "level": 3,
+  "title": "1-1. Policy and the Bill Drafter"
+ },
+ {
+  "id": "1-2-constitutionality-statutory-provisions",
+  "level": 3,
+  "title": "1-2. Constitutionality — Statutory Provisions"
+ },
+ {
+  "id": "1-3-indian-issues",
+  "level": 3,
+  "title": "1-3. Indian Issues"
+ },
+ {
+  "id": "1-4-research-and-drafting",
+  "level": 3,
+  "title": "1-4. Research and Drafting"
+ },
+ {
+  "id": "1-5-organization",
+  "level": 3,
+  "title": "1-5. Organization"
+ },
+ {
+  "id": "1-6-preparation-of-bill-drafts",
+  "level": 3,
+  "title": "1-6. Preparation of Bill Drafts"
+ },
+ {
+  "id": "1-7-drafting-aids",
+  "level": 3,
+  "title": "1-7. Drafting Aids"
+ },
+ {
+  "id": "1-8-use-of-online-internal-reference-list",
+  "level": 3,
+  "title": "1-8. Use of Online Internal Reference List"
+ },
+ {
+  "id": "1-9-bill-drafter-checklist",
+  "level": 3,
+  "title": "1-9. Bill Drafter Checklist"
+ },
+ {
+  "id": "style-and-language",
+  "level": 2,
+  "title": "Style and Language"
+ },
+ {
+  "id": "2-1-introduction",
+  "level": 3,
+  "title": "2-1. Introduction"
+ },
+ {
+  "id": "2-2-word-choice",
+  "level": 3,
+  "title": "2-2. Word Choice"
+ },
+ {
+  "id": "2-3-tense",
+  "level": 3,
+  "title": "2-3. Tense"
+ },
+ {
+  "id": "2-4-shall-must-and-may",
+  "level": 3,
+  "title": "2-4. Shall, Must, and May"
+ },
+ {
+  "id": "preferred",
+  "level": 3,
+  "title": "preferred"
+ },
+ {
+  "id": "2-5-negatives",
+  "level": 3,
+  "title": "2-5. Negatives"
+ },
+ {
+  "id": "2-6-voice",
+  "level": 3,
+  "title": "2-6. Voice"
+ },
+ {
+  "id": "2-7-number",
+  "level": 3,
+  "title": "2-7. Number"
+ },
+ {
+  "id": "preferred-2",
+  "level": 3,
+  "title": "preferred"
+ },
+ {
+  "id": "2-8-articles-and-such",
+  "level": 3,
+  "title": "2-8. Articles and \"Such\""
+ },
+ {
+  "id": "2-9-pronouns",
+  "level": 3,
+  "title": "2-9. Pronouns"
+ },
+ {
+  "id": "2-10-gender",
+  "level": 3,
+  "title": "2-10. Gender"
+ },
+ {
+  "id": "ways-to-make-terms-gender-neutral",
+  "level": 3,
+  "title": "WAYS TO MAKE TERMS GENDER NEUTRAL"
+ },
+ {
+  "id": "old-term-gender-neutral-term",
+  "level": 3,
+  "title": "Old Term Gender-Neutral Term"
+ },
+ {
+  "id": "2-11-redundant-adjectives-and-adverbs",
+  "level": 3,
+  "title": "2-11. Redundant Adjectives and Adverbs"
+ },
+ {
+  "id": "2-12-consistency",
+  "level": 3,
+  "title": "2-12. Consistency"
+ },
+ {
+  "id": "2-13-provisos",
+  "level": 3,
+  "title": "2-13. Provisos"
+ },
+ {
+  "id": "2-14-the-exception",
+  "level": 3,
+  "title": "2-14. The Exception"
+ },
+ {
+  "id": "2-15-use-of-that-or-which",
+  "level": 3,
+  "title": "2-15. Use of \"That\" or \"Which\""
+ },
+ {
+  "id": "2-16-if-when-where-or-whenever",
+  "level": 3,
+  "title": "2-16. If, When, Where, or Whenever"
+ },
+ {
+  "id": "2-17-internal-references",
+  "level": 3,
+  "title": "2-17. Internal References"
+ },
+ {
+  "id": "2-18-use-of-this-act",
+  "level": 3,
+  "title": "2-18. Use of \"This Act\""
+ },
+ {
+  "id": "2-19-words-to-be-avoided",
+  "level": 3,
+  "title": "2-19. Words to Be Avoided"
+ },
+ {
+  "id": "avoid-use",
+  "level": 3,
+  "title": "Avoid Use"
+ },
+ {
+  "id": "2-20-citations",
+  "level": 3,
+  "title": "2-20. Citations"
+ },
+ {
+  "id": "form-guide",
+  "level": 2,
+  "title": "Form Guide"
+ },
+ {
+  "id": "3-1-capitalization",
+  "level": 3,
+  "title": "3-1. Capitalization"
+ },
+ {
+  "id": "preambles",
+  "level": 3,
+  "title": "preambles:"
+ },
+ {
+  "id": "3-2-punctuation",
+  "level": 3,
+  "title": "3-2. Punctuation"
+ },
+ {
+  "id": "3-3-abbreviations-and-acronyms",
+  "level": 3,
+  "title": "3-3. Abbreviations and Acronyms"
+ },
+ {
+  "id": "3-4-numbers",
+  "level": 3,
+  "title": "3-4. Numbers"
+ },
+ {
+  "id": "3-5-classes-grades-and-other-classifications",
+  "level": 3,
+  "title": "3-5. Classes, Grades, and Other Classifications"
+ },
+ {
+  "id": "3-6-dates-fiscal-years",
+  "level": 3,
+  "title": "3-6. Dates — Fiscal Years"
+ },
+ {
+  "id": "3-7-bill-titles-and-catchlines",
+  "level": 3,
+  "title": "3-7. Bill Titles and Catchlines"
+ },
+ {
+  "id": "3-8-amending-text",
+  "level": 3,
+  "title": "3-8. Amending Text"
+ },
+ {
+  "id": "3-9-striking-and-adding-subsection-references",
+  "level": 3,
+  "title": "3-9. Striking and Adding Subsection References"
+ },
+ {
+  "id": "in-section-text",
+  "level": 3,
+  "title": "in Section Text"
+ },
+ {
+  "id": "subsections",
+  "level": 3,
+  "title": "Subsections"
+ },
+ {
+  "id": "3-10-references-to-mca-sections",
+  "level": 3,
+  "title": "3-10. References to MCA Sections"
+ },
+ {
+  "id": "the-bill-and-its-parts",
+  "level": 2,
+  "title": "The Bill and Its Parts"
+ },
+ {
+  "id": "4-1-introduction",
+  "level": 3,
+  "title": "4-1. Introduction"
+ },
+ {
+  "id": "4-2-bill-arrangement",
+  "level": 3,
+  "title": "4-2. Bill Arrangement"
+ },
+ {
+  "id": "4-3-bill-identification",
+  "level": 3,
+  "title": "4-3. Bill Identification"
+ },
+ {
+  "id": "4-4-title",
+  "level": 3,
+  "title": "4-4. Title"
+ },
+ {
+  "id": "superseded",
+  "level": 3,
+  "title": "Superseded"
+ },
+ {
+  "id": "termination-dates",
+  "level": 3,
+  "title": "Termination Dates"
+ },
+ {
+  "id": "4-5-preamble",
+  "level": 3,
+  "title": "4-5. Preamble"
+ },
+ {
+  "id": "4-6-enacting-clause",
+  "level": 3,
+  "title": "4-6. Enacting Clause"
+ },
+ {
+  "id": "4-7-short-title",
+  "level": 3,
+  "title": "4-7. Short Title"
+ },
+ {
+  "id": "4-8-purpose-section",
+  "level": 3,
+  "title": "4-8. Purpose Section"
+ },
+ {
+  "id": "4-9-definitions",
+  "level": 3,
+  "title": "4-9. Definitions"
+ },
+ {
+  "id": "procedures-to-aid-identification-of-missing",
+  "level": 3,
+  "title": "procedures to aid identification of missing"
+ },
+ {
+  "id": "4-10-organization-of-provisions",
+  "level": 3,
+  "title": "4-10. Organization of Provisions"
+ },
+ {
+  "id": "4-11-new-sections-catchlines",
+  "level": 3,
+  "title": "4-11. New Sections — Catchlines"
+ },
+ {
+  "id": "appointment-powers-and-duties-1-the",
+  "level": 3,
+  "title": "appointment -- powers and duties. (1) The"
+ },
+ {
+  "id": "4-12-amendatory-language",
+  "level": 3,
+  "title": "4-12. Amendatory Language"
+ },
+ {
+  "id": "4-13-designating-new-sections",
+  "level": 3,
+  "title": "4-13. Designating New Sections"
+ },
+ {
+  "id": "4-14-name-change-amendments",
+  "level": 3,
+  "title": "4-14. Name Change Amendments"
+ },
+ {
+  "id": "4-15-outline-style-and-spacing",
+  "level": 3,
+  "title": "4-15. Outline Style and Spacing"
+ },
+ {
+  "id": "example-2-7-506-duties-of-department-the",
+  "level": 3,
+  "title": "example 2-7-506. Duties of department. The"
+ },
+ {
+  "id": "must-be-used-to-justify-continued-inclusion-on",
+  "level": 3,
+  "title": "must be used to justify continued inclusion on"
+ },
+ {
+  "id": "structure",
+  "level": 3,
+  "title": "structure:"
+ },
+ {
+  "id": "structure-2",
+  "level": 3,
+  "title": "structure:"
+ },
+ {
+  "id": "example-2-15-1512-boards-and-offices-associated",
+  "level": 3,
+  "title": "example 2-15-1512. Boards and offices associated"
+ },
+ {
+  "id": "4-16-penalty",
+  "level": 3,
+  "title": "4-16. Penalty"
+ },
+ {
+  "id": "4-17-repealer",
+  "level": 3,
+  "title": "4-17. Repealer"
+ },
+ {
+  "id": "example-15-1-230-temporary-report-on-income",
+  "level": 3,
+  "title": "example 15-1-230. (Temporary) Report on income"
+ },
+ {
+  "id": "example-2-15-3114-temporary-funding-of",
+  "level": 3,
+  "title": "example 2-15-3114. (Temporary) Funding of"
+ },
+ {
+  "id": "2-15-3114-effective-july-1-2029-funding",
+  "level": 3,
+  "title": "2-15-3114. (Effective July 1, 2029) Funding"
+ },
+ {
+  "id": "4-18-transition",
+  "level": 3,
+  "title": "4-18. Transition"
+ },
+ {
+  "id": "4-19-placement-and-applicability-codification-instruction-di",
+  "level": 3,
+  "title": "4-19. Placement and Applicability — Codification Instruction — Directions to Code Commissioner"
+ },
+ {
+  "id": "4-20-coordination-instruction",
+  "level": 3,
+  "title": "4-20. Coordination Instruction"
+ },
+ {
+  "id": "20-9-426-preparation-and-form-of-ballots",
+  "level": 3,
+  "title": "\"20-9-426. Preparation and form of ballots"
+ },
+ {
+  "id": "authority-for-management-of-court-ordered",
+  "level": 3,
+  "title": "authority for management of court-ordered"
+ },
+ {
+  "id": "4-21-saving-clause",
+  "level": 3,
+  "title": "4-21. Saving Clause"
+ },
+ {
+  "id": "4-22-severability-section",
+  "level": 3,
+  "title": "4-22. Severability Section"
+ },
+ {
+  "id": "4-23-nonseverability-section",
+  "level": 3,
+  "title": "4-23. Nonseverability Section"
+ },
+ {
+  "id": "4-24-extraordinary-vote-provision",
+  "level": 3,
+  "title": "4-24. Extraordinary Vote Provision"
+ },
+ {
+  "id": "4-25-contingent-voidness",
+  "level": 3,
+  "title": "4-25. Contingent Voidness"
+ },
+ {
+  "id": "4-26-effective-date",
+  "level": 3,
+  "title": "4-26. Effective Date"
+ },
+ {
+  "id": "immediate",
+  "level": 3,
+  "title": "(immediate)"
+ },
+ {
+  "id": "4-27-applicability-date",
+  "level": 3,
+  "title": "4-27. Applicability Date"
+ },
+ {
+  "id": "4-28-termination",
+  "level": 3,
+  "title": "4-28. Termination"
+ },
+ {
+  "id": "special-types-of-bills",
+  "level": 2,
+  "title": "Special Types of Bills"
+ },
+ {
+  "id": "5-1-validating-bills",
+  "level": 3,
+  "title": "5-1. Validating Bills"
+ },
+ {
+  "id": "5-2-compacts",
+  "level": 3,
+  "title": "5-2. Compacts"
+ },
+ {
+  "id": "5-3-uniform-or-model-acts",
+  "level": 3,
+  "title": "5-3. Uniform or Model Acts"
+ },
+ {
+  "id": "5-4-constitutional-amendments",
+  "level": 3,
+  "title": "5-4. Constitutional Amendments"
+ },
+ {
+  "id": "5-5-referendums",
+  "level": 3,
+  "title": "5-5. Referendums"
+ },
+ {
+  "id": "5-6-bills-requiring-extraordinary-votes",
+  "level": 3,
+  "title": "5-6. Bills Requiring Extraordinary Votes"
+ },
+ {
+  "id": "5-7-bills-affecting-administrative-rules",
+  "level": 3,
+  "title": "5-7. Bills Affecting Administrative Rules"
+ },
+ {
+  "id": "bills-with-special-provisions",
+  "level": 2,
+  "title": "Bills With Special Provisions"
+ },
+ {
+  "id": "6-1-bills-with-fiscal-impact",
+  "level": 3,
+  "title": "6-1. Bills With Fiscal Impact"
+ },
+ {
+  "id": "or",
+  "level": 3,
+  "title": "or"
+ },
+ {
+  "id": "6-2-local-government-impact-unfunded-mandate",
+  "level": 3,
+  "title": "6-2. Local Government Impact — Unfunded Mandate"
+ },
+ {
+  "id": "6-3-bills-granting-rulemaking-authority",
+  "level": 3,
+  "title": "6-3. Bills Granting Rulemaking Authority"
+ },
+ {
+  "id": "6-4-bills-creating-a-new-agency",
+  "level": 3,
+  "title": "6-4. Bills Creating a New Agency"
+ },
+ {
+  "id": "6-5-bills-making-legislative-appointments",
+  "level": 3,
+  "title": "6-5. Bills Making Legislative Appointments"
+ },
+ {
+  "id": "6-6-bills-creating-new-workers-compensation-exemptions",
+  "level": 3,
+  "title": "6-6. Bills Creating New Workers' Compensation Exemptions"
+ },
+ {
+  "id": "6-7-bills-creating-licensing-boards",
+  "level": 3,
+  "title": "6-7. Bills Creating Licensing Boards"
+ },
+ {
+  "id": "6-8-bills-requiring-reports-to-the-legislature",
+  "level": 3,
+  "title": "6-8. Bills Requiring Reports to the Legislature"
+ },
+ {
+  "id": "for-a-new-report-to-the-legislature-that-will-be-recurring",
+  "level": 3,
+  "title": "For a new report to the Legislature that will be recurring"
+ },
+ {
+  "id": "for-an-existing-report-that-is-being-retained-but-is-being",
+  "level": 3,
+  "title": "For an existing report that is being retained but is being"
+ },
+ {
+  "id": "resolutions",
+  "level": 2,
+  "title": "Resolutions"
+ },
+ {
+  "id": "7-1-simple-resolution",
+  "level": 3,
+  "title": "7-1. Simple Resolution"
+ },
+ {
+  "id": "7-2-joint-resolution",
+  "level": 3,
+  "title": "7-2. Joint Resolution"
+ },
+ {
+  "id": "7-3-resolutions-to-request-interim-studies",
+  "level": 3,
+  "title": "7-3. Resolutions to Request Interim Studies"
+ },
+ {
+  "id": "7-4-montana-honor-and-remember-act",
+  "level": 3,
+  "title": "7-4. Montana Honor and Remember Act"
+ },
+ {
+  "id": "7-5-prohibition-on-submission-to-electorate",
+  "level": 3,
+  "title": "7-5. Prohibition on Submission to Electorate"
+ },
+ {
+  "id": "bill-amendments",
+  "level": 2,
+  "title": "Bill Amendments"
+ },
+ {
+  "id": "8-1-introduction",
+  "level": 3,
+  "title": "8-1. Introduction"
+ },
+ {
+  "id": "8-2-reminders-when-amending-bills",
+  "level": 3,
+  "title": "8-2. Reminders When Amending Bills"
+ },
+ {
+  "id": "8-3-substitute-bill",
+  "level": 3,
+  "title": "8-3. Substitute Bill"
+ },
+ {
+  "id": "8-4-governor-s-amendments",
+  "level": 3,
+  "title": "8-4. Governor's Amendments"
+ },
+ {
+  "id": "selected-provisions-relating-to-bill-drafting",
+  "level": 2,
+  "title": "Selected Provisions Relating to Bill Drafting"
+ },
+ {
+  "id": "9-1-montana-constitution",
+  "level": 3,
+  "title": "9-1. Montana Constitution"
+ },
+ {
+  "id": "9-2-montana-code-annotated",
+  "level": 3,
+  "title": "9-2. Montana Code Annotated"
+ },
+ {
+  "id": "subject-areas-in-bill-drafting",
+  "level": 2,
+  "title": "Subject Areas in Bill Drafting"
+ },
+ {
+  "id": "10-1-health-insurance-statutes-and-mandates",
+  "level": 3,
+  "title": "10-1. Health Insurance Statutes and Mandates"
+ },
+ {
+  "id": "electronic-bill-drafting",
+  "level": 2,
+  "title": "Electronic Bill Drafting"
+ },
+ {
+  "id": "11-1-bill-drafting-system",
+  "level": 3,
+  "title": "11-1. Bill Drafting System"
+ },
+ {
+  "id": "11-2-electronic-search-capabilities",
+  "level": 3,
+  "title": "11-2. Electronic Search Capabilities"
+ },
+ {
+  "id": "list-of-appendices",
+  "level": 2,
+  "title": "List of Appendices"
+ },
+ {
+  "id": "appendix-a-2",
+  "level": 3,
+  "title": "Appendix A"
+ },
+ {
+  "id": "appendix-b-2",
+  "level": 3,
+  "title": "Appendix B"
+ },
+ {
+  "id": "appendix-c-2",
+  "level": 3,
+  "title": "Appendix C"
+ },
+ {
+  "id": "appendix-d-2",
+  "level": 3,
+  "title": "Appendix D"
+ },
+ {
+  "id": "appendix-e-2",
+  "level": 3,
+  "title": "Appendix E"
+ },
+ {
+  "id": "appendix-f-2",
+  "level": 3,
+  "title": "Appendix F"
+ },
+ {
+  "id": "appendix-g-2",
+  "level": 3,
+  "title": "Appendix G"
+ },
+ {
+  "id": "appendix-h-2",
+  "level": 3,
+  "title": "Appendix H"
+ },
+ {
+  "id": "appendix-i-2",
+  "level": 3,
+  "title": "Appendix I"
+ },
+ {
+  "id": "appendix-j-2",
+  "level": 3,
+  "title": "Appendix J"
+ },
+ {
+  "id": "appendix-k-2",
+  "level": 3,
+  "title": "Appendix K"
+ },
+ {
+  "id": "appendix-l-2",
+  "level": 3,
+  "title": "Appendix L"
+ },
+ {
+  "id": "appendix-m-2",
+  "level": 3,
+  "title": "Appendix M"
+ },
+ {
+  "id": "appendix-n-2",
+  "level": 3,
+  "title": "Appendix N"
+ },
+ {
+  "id": "appendix-o-2",
+  "level": 3,
+  "title": "Appendix O"
+ },
+ {
+  "id": "appendix-p-2",
+  "level": 3,
+  "title": "Appendix P"
+ },
+ {
+  "id": "appendix-q-2",
+  "level": 3,
+  "title": "Appendix Q"
+ },
+ {
+  "id": "appendix-r-2",
+  "level": 3,
+  "title": "Appendix R"
+ },
+ {
+  "id": "appendix-s-2",
+  "level": 3,
+  "title": "Appendix S"
+ },
+ {
+  "id": "appendix-t-2",
+  "level": 3,
+  "title": "Appendix T"
+ },
+ {
+  "id": "appendix-u-2",
+  "level": 3,
+  "title": "Appendix U"
+ },
+ {
+  "id": "index",
+  "level": 2,
+  "title": "Index"
+ },
+ {
+  "id": "abbreviations-and-acronyms-3-3-administrative-rules-see-also",
+  "level": 3,
+  "title": "Abbreviations and Acronyms, 3-3 Administrative rules, See also Rulemaking authority"
+ },
+ {
+  "id": "agencies",
+  "level": 3,
+  "title": "Agencies"
+ },
+ {
+  "id": "numbers",
+  "level": 3,
+  "title": "numbers"
+ },
+ {
+  "id": "bill-drafting-checklist-report-1-9",
+  "level": 3,
+  "title": "Bill Drafting Checklist Report, 1-9"
+ },
+ {
+  "id": "code-commissioner",
+  "level": 3,
+  "title": "Code commissioner"
+ },
+ {
+  "id": "constitution-montana",
+  "level": 3,
+  "title": "Constitution, Montana"
+ },
+ {
+  "id": "contingency-sections",
+  "level": 3,
+  "title": "Contingency sections"
+ },
+ {
+  "id": "federal-laws-or-regulations",
+  "level": 3,
+  "title": "Federal laws or regulations"
+ },
+ {
+  "id": "folio",
+  "level": 3,
+  "title": "Folio"
+ },
+ {
+  "id": "format",
+  "level": 3,
+  "title": "Format"
+ },
+ {
+  "id": "also-appropriation-bills",
+  "level": 3,
+  "title": "also Appropriation bills"
+ },
+ {
+  "id": "governor",
+  "level": 3,
+  "title": "Governor"
+ },
+ {
+  "id": "highway-revenue-for-nonhighway-purposes-bills",
+  "level": 3,
+  "title": "Highway revenue for nonhighway purposes, bills"
+ },
+ {
+  "id": "introduced-bills",
+  "level": 3,
+  "title": "Introduced bills"
+ },
+ {
+  "id": "joint-rules-of-the-legislature",
+  "level": 3,
+  "title": "Joint Rules of the Legislature"
+ },
+ {
+  "id": "laws-of-montana-see-session-laws-laws-of-other-states-as-aid",
+  "level": 3,
+  "title": "Laws of Montana, See Session Laws Laws of other states as aid in drafting, 1-7(3) Legislative appointments, 6-5"
+ },
+ {
+  "id": "legislative-committees",
+  "level": 3,
+  "title": "Legislative committees"
+ },
+ {
+  "id": "legislative-services-division",
+  "level": 3,
+  "title": "Legislative Services Division"
+ },
+ {
+  "id": "section",
+  "level": 3,
+  "title": "section"
+ },
+ {
+  "id": "repeal",
+  "level": 3,
+  "title": "Repeal"
+ },
+ {
+  "id": "new-section-numbers-see-mca-section-numbers-new-sections",
+  "level": 3,
+  "title": "New section numbers, See MCA section numbers New sections"
+ },
+ {
+  "id": "numbering-of-bill-sections-sequential-11-1",
+  "level": 3,
+  "title": "Numbering of bill sections, sequential, 11-1"
+ },
+ {
+  "id": "instructions",
+  "level": 3,
+  "title": "instructions"
+ },
+ {
+  "id": "placement-and-applicability-of-new-law-4-19-policy-and-the-d",
+  "level": 3,
+  "title": "Placement and applicability of new law, 4-19 Policy and the drafter, 1-1"
+ },
+ {
+  "id": "preparation-of-bill-drafts-1-6",
+  "level": 3,
+  "title": "Preparation of bill drafts, 1-6"
+ },
+ {
+  "id": "private-organization",
+  "level": 3,
+  "title": "Private organization"
+ },
+ {
+  "id": "redraft-of-submitted-bills-1-1-references-to-mca-sections-3-",
+  "level": 3,
+  "title": "Redraft of submitted bills, 1-1 References to MCA sections, 3-10"
+ },
+ {
+  "id": "renumbering",
+  "level": 3,
+  "title": "Renumbering"
+ },
+ {
+  "id": "repeal-2",
+  "level": 3,
+  "title": "Repeal"
+ },
+ {
+  "id": "reports-to-legislature",
+  "level": 3,
+  "title": "Reports to Legislature"
+ },
+ {
+  "id": "research-and-drafting-1-4",
+  "level": 3,
+  "title": "Research and drafting, 1-4"
+ },
+ {
+  "id": "substitute-bills",
+  "level": 3,
+  "title": "Substitute bills"
+ },
+ {
+  "id": "rulemaking-authority-see-also-administrative-rules",
+  "level": 3,
+  "title": "Rulemaking authority, See also Administrative rules"
+ },
+ {
+  "id": "rules-see-administrative-rules-joint-rules-of-the-legislatur",
+  "level": 3,
+  "title": "Rules, See Administrative rules; Joint Rules of the Legislature"
+ },
+ {
+  "id": "tax-expenditure-legislation-and-purpose-section-4-8",
+  "level": 3,
+  "title": "Tax expenditure legislation and purpose section, 4-8"
+ },
+ {
+  "id": "tobacco-settlement-trust-fund-principal-interest-and",
+  "level": 3,
+  "title": "Tobacco settlement trust fund principal, interest, and"
+ },
+ {
+  "id": "published-by-montana-legislative-services-division",
+  "level": 2,
+  "title": "Published By Montana Legislative Services Division"
+ }
+]

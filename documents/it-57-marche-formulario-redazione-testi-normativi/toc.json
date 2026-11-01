@@ -1,0 +1,792 @@
+[
+ {
+  "id": "formulario-per-la-redazione-dei-testi-normativi",
+  "level": 2,
+  "title": "Formulario per la redazione dei testi normativi"
+ },
+ {
+  "id": "presentazione",
+  "level": 3,
+  "title": "PRESENTAZIONE"
+ },
+ {
+  "id": "1-linguaggio-normativo",
+  "level": 2,
+  "title": "1. LINGUAGGIO NORMATIVO"
+ },
+ {
+  "id": "1-1-relazioni-congiuntive",
+  "level": 2,
+  "title": "1.1 Relazioni congiuntive"
+ },
+ {
+  "id": "definizioni-formule-standard",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "1-2-relazioni-disgiuntive",
+  "level": 2,
+  "title": "1.2 Relazioni disgiuntive"
+ },
+ {
+  "id": "definizioni-formule-standard-2",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "definizioni-formule-standard-3",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "1-3-definizioni",
+  "level": 2,
+  "title": "1.3 Definizioni"
+ },
+ {
+  "id": "definizioni-formule-standard-4",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "2-riferimenti-o-rinvii",
+  "level": 2,
+  "title": "2. RIFERIMENTI O RINVII"
+ },
+ {
+  "id": "2-1-riferimenti-privi-di-funzione-normativa",
+  "level": 2,
+  "title": "2.1 Riferimenti privi di funzione normativa"
+ },
+ {
+  "id": "definizioni-formule-standard-5",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "2-2-riferimenti-con-funzione-normativa",
+  "level": 2,
+  "title": "2.2 Riferimenti con funzione normativa"
+ },
+ {
+  "id": "2-2-1-rinvio-formale-o-mobile",
+  "level": 2,
+  "title": "2.2.1 Rinvio formale o mobile"
+ },
+ {
+  "id": "definizioni-formule-standard-6",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "2-2-2-rinvio-materiale-o-fisso",
+  "level": 2,
+  "title": "2.2.2 Rinvio materiale o fisso"
+ },
+ {
+  "id": "definizioni-formule-standard-7",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "2-3-riferimenti-ad-atti-modificati",
+  "level": 2,
+  "title": "2.3 Riferimenti ad atti modificati"
+ },
+ {
+  "id": "definizioni-formule-standard-8",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "3-modifiche",
+  "level": 2,
+  "title": "3. MODIFICHE"
+ },
+ {
+  "id": "3-1-sostituzioni",
+  "level": 2,
+  "title": "3.1 Sostituzioni"
+ },
+ {
+  "id": "definizioni-formule-standard-9",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-sostituzione-dell-articolo-lr",
+  "level": 3,
+  "title": "Art. … (Sostituzione dell’articolo … lr …)"
+ },
+ {
+  "id": "art",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "definizioni-formule-standard-10",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-2",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-3",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-4",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "definizioni-formule-standard-11",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-5",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "3-2-inserimento-di-articoli",
+  "level": 2,
+  "title": "3.2 Inserimento di articoli"
+ },
+ {
+  "id": "definizioni-formule-standard-12",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-6",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-7",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "definizioni-formule-standard-13",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-8",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-9",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "3-3-inserimento-di-commi",
+  "level": 2,
+  "title": "3.3 Inserimento di commi"
+ },
+ {
+  "id": "definizioni-formule-standard-14",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-10",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-11",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-12",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "definizioni-formule-standard-15",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-13",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "3-4-inserimento-di-lettere-o-numeri-o-parole-all-interno-di-",
+  "level": 2,
+  "title": "3.4 Inserimento di lettere o numeri o parole all’interno di un comma"
+ },
+ {
+  "id": "definizioni-formule-standard-16",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-14",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-15",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-16",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "definizioni-formule-standard-17",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-17",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "3-5-deroghe",
+  "level": 2,
+  "title": "3.5 Deroghe"
+ },
+ {
+  "id": "definizioni-formule-standard-18",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-18",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "3-6-proroghe-sospensioni-e-differimenti",
+  "level": 2,
+  "title": "3.6 Proroghe, sospensioni e differimenti"
+ },
+ {
+  "id": "definizioni-formule-standard-19",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-19",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "definizioni-formule-standard-20",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-20",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-21",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "definizioni-formule-standard-21",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "3-7-abrogazioni",
+  "level": 2,
+  "title": "3.7 Abrogazioni"
+ },
+ {
+  "id": "definizioni-formule-standard-22",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "3-8-delegificazione",
+  "level": 2,
+  "title": "3.8 Delegificazione"
+ },
+ {
+  "id": "definizioni-formule-standard-23",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-22",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "definizioni-formule-standard-24",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-23",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-24",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "4-rapporti-con-l-unione-europea",
+  "level": 2,
+  "title": "4. RAPPORTI CON L’UNIONE EUROPEA"
+ },
+ {
+  "id": "4-1-disposizioni-per-la-sospensione-degli-effetti",
+  "level": 2,
+  "title": "4.1 Disposizioni per la sospensione degli effetti"
+ },
+ {
+  "id": "definizioni-formule-standard-25",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-25",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "4-2-disposizioni-sul-de-minimis",
+  "level": 2,
+  "title": "4.2 Disposizioni sul “de minimis”"
+ },
+ {
+  "id": "definizioni-formule-standard-26",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-26",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "4-3-disposizioni-sul-de-minimis-nel-settore-dell-agricoltura",
+  "level": 2,
+  "title": "4.3 Disposizioni sul “de minimis” nel settore dell’agricoltura e della pesca"
+ },
+ {
+  "id": "definizioni-formule-standard-27",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-27",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "4-4-aiuti-applicati-sulla-base-di-un-regolamento-di-esenzion",
+  "level": 2,
+  "title": "4.4 Aiuti applicati sulla base di un regolamento di esenzione"
+ },
+ {
+  "id": "definizioni-formule-standard-28",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-28",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "definizioni-formule-standard-29",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "5-struttura-degli-articoli-relativi-alle-funzioni-amministra",
+  "level": 2,
+  "title": "5. STRUTTURA DEGLI ARTICOLI RELATIVI ALLE FUNZIONI AMMINISTRATIVE"
+ },
+ {
+  "id": "5-1-conferimenti-di-funzioni-amministrative",
+  "level": 2,
+  "title": "5.1 Conferimenti di funzioni amministrative"
+ },
+ {
+  "id": "definizioni-formule-standard-30",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-29",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-30",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "definizioni-formule-standard-31",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-31",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "definizioni-formule-standard-32",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-32",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "5-2-funzioni-amministrative-relative-a-leggi-di-spesa-progra",
+  "level": 2,
+  "title": "5.2 Funzioni amministrative relative a leggi di spesa. Programma regionale"
+ },
+ {
+  "id": "definizioni-formule-standard-33",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-33",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "definizioni-formule-standard-34",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-34",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-35",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "6-struttura-degli-articoli-relativi-ai-procedimenti-amminist",
+  "level": 2,
+  "title": "6. STRUTTURA DEGLI ARTICOLI RELATIVI AI PROCEDIMENTI AMMINISTRATIVI RICORRENTI"
+ },
+ {
+  "id": "6-1-disposizioni-relative-al-procedimento-di-concessione-dei",
+  "level": 2,
+  "title": "6.1 Disposizioni relative al procedimento di concessione dei contributi"
+ },
+ {
+  "id": "definizioni-formule-standard-35",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-1",
+  "level": 3,
+  "title": "Art. 1"
+ },
+ {
+  "id": "art-2-2",
+  "level": 3,
+  "title": "Art. 2"
+ },
+ {
+  "id": "art-3-2",
+  "level": 3,
+  "title": "Art. 3"
+ },
+ {
+  "id": "definizioni-formule-standard-36",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-4-2",
+  "level": 3,
+  "title": "Art. 4"
+ },
+ {
+  "id": "art-5-2",
+  "level": 3,
+  "title": "Art. 5"
+ },
+ {
+  "id": "definizioni-formule-standard-37",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-6-2",
+  "level": 3,
+  "title": "Art. 6"
+ },
+ {
+  "id": "art-7-2",
+  "level": 3,
+  "title": "Art. 7"
+ },
+ {
+  "id": "6-2-vincolo-di-destinazione",
+  "level": 2,
+  "title": "6.2 Vincolo di destinazione"
+ },
+ {
+  "id": "definizioni-formule-standard-38",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-36",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "6-3-disposizioni-relative-al-procedimento-di-iscrizione-ad-a",
+  "level": 2,
+  "title": "6.3 Disposizioni relative al procedimento di iscrizione ad albi"
+ },
+ {
+  "id": "definizioni-formule-standard-39",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-37",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-38",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "definizioni-formule-standard-40",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-39",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "definizioni-formule-standard-41",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "6-4-disposizioni-sul-silenzio-significativo",
+  "level": 2,
+  "title": "6.4 Disposizioni sul silenzio significativo"
+ },
+ {
+  "id": "definizioni-formule-standard-42",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-40",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-41",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "definizioni-formule-standard-43",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "7-disposizioni-sugli-organi-collegiali",
+  "level": 2,
+  "title": "7. DISPOSIZIONI SUGLI ORGANI COLLEGIALI"
+ },
+ {
+  "id": "7-1-organi-collegiali-non-elettivi",
+  "level": 2,
+  "title": "7.1 Organi collegiali non elettivi"
+ },
+ {
+  "id": "definizioni-formule-standard-44",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-42",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "definizioni-formule-standard-45",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-43",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-44",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "definizioni-formule-standard-46",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-45",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "7-2-organi-collegiali-elettivi",
+  "level": 2,
+  "title": "7.2 Organi collegiali elettivi"
+ },
+ {
+  "id": "definizioni-formule-standard-47",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-46",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-47",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "definizioni-formule-standard-48",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-48",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "art-49",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "c",
+  "level": 2,
+  "title": "c) …"
+ },
+ {
+  "id": "8-clausole-valutative",
+  "level": 2,
+  "title": "8. CLAUSOLE VALUTATIVE"
+ },
+ {
+  "id": "definizioni-formule-standard-49",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-50",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "9-disposizioni-finanziarie",
+  "level": 2,
+  "title": "9. DISPOSIZIONI FINANZIARIE"
+ },
+ {
+  "id": "9-1-disposizioni-finanziarie-relative-a-spese-a-carattere-co",
+  "level": 2,
+  "title": "9.1 Disposizioni finanziarie relative a spese a carattere continuativo o ricorrente decorrenti dall’esercizio finanziario successivo"
+ },
+ {
+  "id": "definizioni-formule-standard-50",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-51",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "9-2-disposizioni-finanziarie-relative-a-spese-a-carattere-co",
+  "level": 2,
+  "title": "9.2 Disposizioni finanziarie relative a spese a carattere continuativo o ricorrente decorrenti dall’esercizio finanziario corrente"
+ },
+ {
+  "id": "definizioni-formule-standard-51",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-52",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "9-3-disposizioni-finanziarie-relative-a-spese-a-carattere-pl",
+  "level": 2,
+  "title": "9.3 Disposizioni finanziarie relative a spese a carattere pluriennale"
+ },
+ {
+  "id": "definizioni-formule-standard-52",
+  "level": 3,
+  "title": "Definizioni Formule standard"
+ },
+ {
+  "id": "art-53",
+  "level": 3,
+  "title": "Art. …"
+ },
+ {
+  "id": "allegati",
+  "level": 3,
+  "title": "ALLEGATI"
+ },
+ {
+  "id": "profilo-giuridico",
+  "level": 3,
+  "title": "Profilo giuridico"
+ }
+]

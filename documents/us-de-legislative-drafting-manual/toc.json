@@ -1,0 +1,2667 @@
+[
+ {
+  "id": "delaware-general-assembly-delaware-legislative-drafting-manu",
+  "level": 2,
+  "title": "Delaware General Assembly DELAWARE LEGISLATIVE DRAFTING MANUAL 2024 Edition"
+ },
+ {
+  "id": "delaware-legislative-drafting-manual",
+  "level": 2,
+  "title": "DELAWARE LEGISLATIVE DRAFTING MANUAL"
+ },
+ {
+  "id": "2024-edition",
+  "level": 3,
+  "title": "2024 Edition"
+ },
+ {
+  "id": "published-by",
+  "level": 3,
+  "title": "Published by"
+ },
+ {
+  "id": "mark-j-cutrona-director",
+  "level": 4,
+  "title": "Mark J. Cutrona, Director"
+ },
+ {
+  "id": "edited-by-holly-vaughn-wagner-deputy-director",
+  "level": 3,
+  "title": "Edited by Holly Vaughn Wagner, Deputy Director"
+ },
+ {
+  "id": "preface",
+  "level": 2,
+  "title": "PREFACE"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 2,
+  "title": "TABLE OF CONTENTS"
+ },
+ {
+  "id": "part-i-introduction",
+  "level": 2,
+  "title": "PART I: INTRODUCTION"
+ },
+ {
+  "id": "chapter-1-purpose-audience-and-organization-of-this-manual",
+  "level": 3,
+  "title": "Chapter 1: Purpose, Audience, and Organization of this Manual."
+ },
+ {
+  "id": "the-drafting-process-apply-the-stand-ards-of-this-manual-and",
+  "level": 5,
+  "title": "the drafting process, apply the stand- ards of this manual and do not as- sume the drafter before you did so or"
+ },
+ {
+  "id": "chapter-2-notes-to-drafters-outside-legislative-hall",
+  "level": 3,
+  "title": "Chapter 2: Notes to Drafters Outside Legislative Hall."
+ },
+ {
+  "id": "part-ii-initial-considerations-in-the-drafting-process",
+  "level": 2,
+  "title": "PART II: INITIAL CONSIDERATIONS IN THE DRAFTING PROCESS"
+ },
+ {
+  "id": "chapter-1-understanding-legislative-drafting",
+  "level": 3,
+  "title": "Chapter 1: Understanding Legislative Drafting."
+ },
+ {
+  "id": "chapter-2-basic-steps-in-the-drafting-process",
+  "level": 3,
+  "title": "Chapter 2: Basic Steps in the Drafting Process."
+ },
+ {
+  "id": "chapter-3-the-proper-legal-source-material",
+  "level": 3,
+  "title": "Chapter 3: The Proper Legal Source Material."
+ },
+ {
+  "id": "part-iii-choosing-the-correct-legislative-vehicle",
+  "level": 2,
+  "title": "PART III: CHOOSING THE CORRECT LEGISLATIVE VEHICLE"
+ },
+ {
+  "id": "chapter-1-legislative-vehicles",
+  "level": 3,
+  "title": "Chapter 1: Legislative Vehicles."
+ },
+ {
+  "id": "chapter-2-bills",
+  "level": 3,
+  "title": "Chapter 2: Bills."
+ },
+ {
+  "id": "section-1-types-of-bills",
+  "level": 4,
+  "title": "Section 1: Types of Bills."
+ },
+ {
+  "id": "a-general-bills",
+  "level": 4,
+  "title": "A. General Bills."
+ },
+ {
+  "id": "b-special-bills",
+  "level": 4,
+  "title": "B. Special Bills."
+ },
+ {
+  "id": "1-local-bills",
+  "level": 4,
+  "title": "1. Local Bills."
+ },
+ {
+  "id": "2-private-bills",
+  "level": 4,
+  "title": "2. Private Bills."
+ },
+ {
+  "id": "3-appropriation-bills",
+  "level": 4,
+  "title": "3. Appropriation Bills."
+ },
+ {
+  "id": "section-2-parts-of-a-bill",
+  "level": 4,
+  "title": "Section 2: Parts of a Bill."
+ },
+ {
+  "id": "a-caption",
+  "level": 4,
+  "title": "A. Caption."
+ },
+ {
+  "id": "co-prime-sponsors-line",
+  "level": 5,
+  "title": "Co-Prime Sponsors Line:"
+ },
+ {
+  "id": "co-sponsors-line-shown-below-sponsor",
+  "level": 5,
+  "title": "Co-Sponsors Line (Shown Below Sponsor):"
+ },
+ {
+  "id": "b-bill-title",
+  "level": 4,
+  "title": "B. Bill Title."
+ },
+ {
+  "id": "general-reference-to-the-delaware-code",
+  "level": 5,
+  "title": "General Reference to the Delaware Code:"
+ },
+ {
+  "id": "general-reference-to-the-delaware-constitution",
+  "level": 5,
+  "title": "General Reference to the Delaware Constitution:"
+ },
+ {
+  "id": "broad-bill-title",
+  "level": 5,
+  "title": "Broad Bill Title:"
+ },
+ {
+  "id": "narrow-bill-title",
+  "level": 5,
+  "title": "Narrow Bill Title:"
+ },
+ {
+  "id": "c-preamble",
+  "level": 4,
+  "title": "C. Preamble."
+ },
+ {
+  "id": "d-enactment-clause",
+  "level": 4,
+  "title": "D. Enactment Clause."
+ },
+ {
+  "id": "simple-majority-enactment-clause",
+  "level": 5,
+  "title": "Simple Majority Enactment Clause:"
+ },
+ {
+  "id": "super-majority-enactment-clause",
+  "level": 5,
+  "title": "Super-Majority Enactment Clause:"
+ },
+ {
+  "id": "e-body-of-the-bill",
+  "level": 4,
+  "title": "E. Body of the Bill."
+ },
+ {
+  "id": "f-declaration-of-purpose",
+  "level": 4,
+  "title": "F. Declaration of Purpose."
+ },
+ {
+  "id": "g-definitions",
+  "level": 4,
+  "title": "G. Definitions."
+ },
+ {
+  "id": "definition-section-preceded-by-introductory-language",
+  "level": 5,
+  "title": "Definition Section Preceded by Introductory Language:"
+ },
+ {
+  "id": "do",
+  "level": 5,
+  "title": "Do:"
+ },
+ {
+  "id": "don-t",
+  "level": 5,
+  "title": "Don’t:"
+ },
+ {
+  "id": "h-basic-provisions",
+  "level": 4,
+  "title": "H. Basic Provisions."
+ },
+ {
+  "id": "i-penalties",
+  "level": 4,
+  "title": "I. Penalties."
+ },
+ {
+  "id": "criminal-penalty",
+  "level": 5,
+  "title": "Criminal Penalty:"
+ },
+ {
+  "id": "civil-penalty",
+  "level": 5,
+  "title": "Civil Penalty:"
+ },
+ {
+  "id": "administrative-penalty",
+  "level": 5,
+  "title": "Administrative Penalty:"
+ },
+ {
+  "id": "j-effective-date-contingent-effective-date-and-implementatio",
+  "level": 4,
+  "title": "J. Effective Date, Contingent Effective Date, and Implementation Date."
+ },
+ {
+  "id": "specific-effective-date",
+  "level": 5,
+  "title": "Specific Effective Date:"
+ },
+ {
+  "id": "limited-effective-date-sections",
+  "level": 5,
+  "title": "Limited Effective Date Sections:"
+ },
+ {
+  "id": "limited-effective-date-applying-only-to-specific-provisions",
+  "level": 5,
+  "title": "Limited Effective Date Applying Only to Specific Provisions:"
+ },
+ {
+  "id": "effective-date-contingent-on-the-passage-of-2nd-leg-of-const",
+  "level": 5,
+  "title": "Effective Date Contingent on the Passage of 2nd Leg of Constitutional Amendment:"
+ },
+ {
+  "id": "don-t-2",
+  "level": 5,
+  "title": "Don’t:"
+ },
+ {
+  "id": "straightforward-effective-date",
+  "level": 5,
+  "title": "Straightforward Effective Date:"
+ },
+ {
+  "id": "delayed-effective-date-for-only-1-provision",
+  "level": 5,
+  "title": "Delayed Effective Date for Only 1 Provision:"
+ },
+ {
+  "id": "k-applicability-clause",
+  "level": 4,
+  "title": "K. Applicability Clause."
+ },
+ {
+  "id": "as-drafted-in-the-bill",
+  "level": 5,
+  "title": "As drafted in the bill:"
+ },
+ {
+  "id": "as-appears-in-code-online",
+  "level": 5,
+  "title": "As appears in Code online:"
+ },
+ {
+  "id": "l-sunset-clause-and-contingent-sunset-clause",
+  "level": 4,
+  "title": "L. Sunset Clause and Contingent Sunset Clause."
+ },
+ {
+  "id": "hidden-sunset-clauses",
+  "level": 5,
+  "title": "Hidden Sunset Clauses:"
+ },
+ {
+  "id": "contingent-sunset-date",
+  "level": 5,
+  "title": "Contingent Sunset Date:"
+ },
+ {
+  "id": "a-sunset-clause-or-a-contingent-sunset-clause-should-appear-",
+  "level": 5,
+  "title": "A sunset clause or a contingent sunset clause should appear in a separate Section at the end"
+ },
+ {
+  "id": "m-savings-clause",
+  "level": 4,
+  "title": "M. Savings Clause."
+ },
+ {
+  "id": "n-grandfather-clause",
+  "level": 4,
+  "title": "N. Grandfather Clause."
+ },
+ {
+  "id": "o-interpretation-clause",
+  "level": 4,
+  "title": "O. Interpretation Clause."
+ },
+ {
+  "id": "interpretation-clause-to-be-codified",
+  "level": 5,
+  "title": "Interpretation Clause to be Codified:"
+ },
+ {
+  "id": "interpretation-clause-included-in-laws-of-delaware",
+  "level": 5,
+  "title": "Interpretation Clause Included in Laws of Delaware:"
+ },
+ {
+  "id": "p-severability-clause",
+  "level": 4,
+  "title": "P. Severability Clause."
+ },
+ {
+  "id": "severability-clause",
+  "level": 5,
+  "title": "Severability Clause:"
+ },
+ {
+  "id": "non-severability-clause",
+  "level": 5,
+  "title": "Non-Severability Clause:"
+ },
+ {
+  "id": "q-repealing-clause",
+  "level": 4,
+  "title": "Q. Repealing Clause."
+ },
+ {
+  "id": "general-repealer-general-repealers-are-not-recommended",
+  "level": 5,
+  "title": "General Repealer (general repealers are not recommended):"
+ },
+ {
+  "id": "partial-repealer",
+  "level": 5,
+  "title": "Partial Repealer:"
+ },
+ {
+  "id": "limiting-repealer",
+  "level": 5,
+  "title": "Limiting Repealer:"
+ },
+ {
+  "id": "r-appropriations",
+  "level": 4,
+  "title": "R. Appropriations."
+ },
+ {
+  "id": "supplementary-appropriation-clause",
+  "level": 5,
+  "title": "Supplementary Appropriation Clause:"
+ },
+ {
+  "id": "s-short-title",
+  "level": 4,
+  "title": "S. Short Title."
+ },
+ {
+  "id": "short-title-in-a-comprehensive-enactment",
+  "level": 5,
+  "title": "Short Title in a Comprehensive Enactment:"
+ },
+ {
+  "id": "short-title-used-as-a-dedication",
+  "level": 5,
+  "title": "Short Title Used as a Dedication:"
+ },
+ {
+  "id": "t-synopsis",
+  "level": 4,
+  "title": "T. Synopsis."
+ },
+ {
+  "id": "u-author",
+  "level": 4,
+  "title": "U. Author."
+ },
+ {
+  "id": "v-footer",
+  "level": 4,
+  "title": "V. Footer."
+ },
+ {
+  "id": "section-3-special-types-of-bills",
+  "level": 4,
+  "title": "Section 3: Special Types of Bills."
+ },
+ {
+  "id": "a-constitutional-amendments",
+  "level": 4,
+  "title": "A. Constitutional Amendments."
+ },
+ {
+  "id": "bill-title-for-a-constitutional-amendment-in-the-first-leg",
+  "level": 5,
+  "title": "Bill Title for a Constitutional Amendment in the First Leg:"
+ },
+ {
+  "id": "bill-title-for-a-constitutional-amendment-in-the-second-leg",
+  "level": 5,
+  "title": "Bill Title for a Constitutional Amendment in the Second Leg:"
+ },
+ {
+  "id": "b-charter-amendments",
+  "level": 4,
+  "title": "B. Charter Amendments."
+ },
+ {
+  "id": "bill-title-for-a-charter-amendment",
+  "level": 5,
+  "title": "Bill Title for a Charter Amendment:"
+ },
+ {
+  "id": "bill-title-for-a-charter-amendment-with-reference-to-the-law",
+  "level": 5,
+  "title": "Bill Title for a Charter Amendment (with reference to the Laws of Delaware):"
+ },
+ {
+  "id": "section-4-bills-with-special-provisions",
+  "level": 4,
+  "title": "Section 4: Bills with Special Provisions."
+ },
+ {
+  "id": "a-bills-with-super-majority-vote-requirements",
+  "level": 4,
+  "title": "A. Bills with Super-Majority Vote Requirements."
+ },
+ {
+  "id": "three-fifths-3-5-of-all-members-elected-to-each-house",
+  "level": 5,
+  "title": "three-fifths (3/5) of all members elected to each house"
+ },
+ {
+  "id": "two-thirds-2-3-of-all-members-elected-to-each-house",
+  "level": 5,
+  "title": "two-thirds (2/3) of all members elected to each house"
+ },
+ {
+  "id": "three-fourths-3-4-of-all-members-elected-to-each-house",
+  "level": 5,
+  "title": "three-fourths (3/4) of all members elected to each house"
+ },
+ {
+  "id": "b-bills-creating-regulatory-agencies-boards-commissions-coun",
+  "level": 4,
+  "title": "B. Bills Creating Regulatory Agencies, Boards, Commissions, Coun- cils, or Similar Entities."
+ },
+ {
+  "id": "1-language-for-legislation-establishing-a-new-regulatory-ent",
+  "level": 4,
+  "title": "1. Language for legislation establishing a new regulatory entity."
+ },
+ {
+  "id": "2-language-for-member-qualifications",
+  "level": 4,
+  "title": "2. Language for member qualifications."
+ },
+ {
+  "id": "3-language-for-term-limitations-including-staggered-terms",
+  "level": 4,
+  "title": "3. Language for term limitations, including staggered terms."
+ },
+ {
+  "id": "5-conflict-of-interest-language-for-officers",
+  "level": 4,
+  "title": "5. Conflict-of-interest language for officers."
+ },
+ {
+  "id": "6-language-for-persons-desiring-to-be-licensed",
+  "level": 4,
+  "title": "6. Language for persons desiring to be licensed."
+ },
+ {
+  "id": "7-language-for-notice-and-service-of-process",
+  "level": 4,
+  "title": "7. Language for notice and service of process."
+ },
+ {
+  "id": "8-using-appoint-and-required-language-for-granting-authority",
+  "level": 4,
+  "title": "8. Using “appoint” and required language for granting authority to name a person to serve on a board, commission, task force, etc."
+ },
+ {
+  "id": "9-defining-quorum",
+  "level": 4,
+  "title": "9. Defining quorum."
+ },
+ {
+  "id": "10-other-provisions-common-to-boards-commissions-councils-et",
+  "level": 4,
+  "title": "10. Other provisions common to boards, commissions, councils, etc."
+ },
+ {
+  "id": "c-bills-with-fiscal-impacts",
+  "level": 4,
+  "title": "C. Bills with Fiscal Impacts."
+ },
+ {
+  "id": "d-bills-amending-the-laws-of-delaware",
+  "level": 4,
+  "title": "D. Bills Amending the Laws of Delaware."
+ },
+ {
+  "id": "to-amend-chapter-349-volume-78-of-the-laws-of-delaware",
+  "level": 5,
+  "title": "To amend Chapter 349, Volume 78 of the Laws of Delaware:"
+ },
+ {
+  "id": "to-amend-section-5-of-chapter-349-volume-78-of-the-laws-of-d",
+  "level": 5,
+  "title": "To amend Section 5 of Chapter 349, Volume 78 of the Laws of Delaware:"
+ },
+ {
+  "id": "amendment-to-a-provision-contained-only-in-the-laws-of-delaw",
+  "level": 5,
+  "title": "amendment to a provision contained only in the Laws of Delaware is necessary and go by the following example: Assume Chapter 349, Volume 78 of the Laws of Delaware states: Section"
+ },
+ {
+  "id": "further-assume-that-in-2014-the-general-assembly-acted-to-ex",
+  "level": 5,
+  "title": "Further assume that in 2014 the General Assembly acted to extend the sunset to June 30, 2016, and the Governor signed the legislation, which is found in Chapter 235, Volume 79 of the Laws of Delaware. To extend the sunset date again:"
+ },
+ {
+  "id": "to-change-the-sunset-date-of-an-enacted-bill-from-june-30-20",
+  "level": 5,
+  "title": "To change the sunset date of an enacted bill from June 30, 2014, to June 30, 2016:"
+ },
+ {
+  "id": "of-the-laws-of-delaware-and-making-the-additional-changes-us",
+  "level": 5,
+  "title": "of the Laws of Delaware and making the additional changes using"
+ },
+ {
+  "id": "strike-through-to-indicate-existing-language-being-removed-b",
+  "level": 5,
+  "title": "strike through to indicate existing language being removed by the bill and italicized double underline to indicate new language added by the bill, as follows:"
+ },
+ {
+  "id": "chapter-3-substitute-bills",
+  "level": 3,
+  "title": "Chapter 3: Substitute Bills."
+ },
+ {
+  "id": "chapter-4-amendments",
+  "level": 3,
+  "title": "Chapter 4: Amendments."
+ },
+ {
+  "id": "tempt-to-amend-the-engrossed-form-of-a",
+  "level": 5,
+  "title": "tempt to amend the engrossed form of a"
+ },
+ {
+  "id": "amendment-striking-an-entire-amendment",
+  "level": 5,
+  "title": "Amendment Striking an Entire Amendment:"
+ },
+ {
+  "id": "amendment-striking-an-amendment-by-line-numbers",
+  "level": 5,
+  "title": "Amendment Striking an Amendment by Line Numbers:"
+ },
+ {
+  "id": "revised-synopsis-in-substitute-bill-explaining-the-revision",
+  "level": 5,
+  "title": "Revised Synopsis in Substitute Bill, Explaining the Revision:"
+ },
+ {
+  "id": "chapter-5-resolutions",
+  "level": 3,
+  "title": "Chapter 5: Resolutions."
+ },
+ {
+  "id": "section-1-resolutions",
+  "level": 4,
+  "title": "Section 1: Resolutions."
+ },
+ {
+  "id": "matical-convention-regarding-the-placement-of-punctuation-wi",
+  "level": 5,
+  "title": "matical convention regarding the placement of punctuation within quotation marks and in-"
+ },
+ {
+  "id": "resolving-clause",
+  "level": 5,
+  "title": "Resolving Clause:"
+ },
+ {
+  "id": "a-simple-resolution",
+  "level": 4,
+  "title": "A. Simple Resolution."
+ },
+ {
+  "id": "b-concurrent-resolution",
+  "level": 4,
+  "title": "B. Concurrent Resolution."
+ },
+ {
+  "id": "c-joint-resolution",
+  "level": 4,
+  "title": "C. Joint Resolution."
+ },
+ {
+  "id": "section-2-resolutions-creating-task-forces",
+  "level": 4,
+  "title": "Section 2: Resolutions Creating Task Forces."
+ },
+ {
+  "id": "when-drafting-legislation-that-creates-a-task-force-do-all-o",
+  "level": 5,
+  "title": "When drafting legislation that creates a task force, do all of the following:"
+ },
+ {
+  "id": "that-the-task-force-provide-certain-information",
+  "level": 5,
+  "title": "that the task force provide certain information"
+ },
+ {
+  "id": "providing-the-task-force-with-a-reasonable-amount-of-time-to",
+  "level": 5,
+  "title": "providing the task force with a reasonable amount of time to conduct their business"
+ },
+ {
+  "id": "of-the-members-draft-the-membership-list-using-one-reference",
+  "level": 5,
+  "title": "of the members, draft the membership list using one reference to the members and enabling"
+ },
+ {
+  "id": "task-force-membership-where-members-serve-by-virtue-of-posit",
+  "level": 5,
+  "title": "Task Force Membership Where Members Serve by Virtue of Position: Do:"
+ },
+ {
+  "id": "don-t-3",
+  "level": 5,
+  "title": "Don’t:"
+ },
+ {
+  "id": "part-iv-strike-through-and-underline",
+  "level": 2,
+  "title": "PART IV: STRIKE THROUGH AND UNDERLINE"
+ },
+ {
+  "id": "chapter-1-bills",
+  "level": 3,
+  "title": "Chapter 1: Bills."
+ },
+ {
+  "id": "1-prefatory-language",
+  "level": 4,
+  "title": "1. Prefatory language."
+ },
+ {
+  "id": "failure-to-underline-the-language-you-want-added-to-the-code",
+  "level": 5,
+  "title": "Failure to underline the language you want added to the Code can- not be fixed by the Code Revisors and will result in the language not be-"
+ },
+ {
+  "id": "2-amount-of-exist-ing-text-to-include",
+  "level": 4,
+  "title": "2. Amount of exist- ing text to include."
+ },
+ {
+  "id": "see-part-vi-ch-2-drafting-rule-25-b-for-a-discussion-of-this",
+  "level": 5,
+  "title": "See Part VI, Ch. 2, Drafting Rule 25(b) for a discussion of this language"
+ },
+ {
+  "id": "3-amending-listing-sections",
+  "level": 4,
+  "title": "3. Amending “listing” sections."
+ },
+ {
+  "id": "4-show-deleted-text-first",
+  "level": 4,
+  "title": "4. Show deleted text first."
+ },
+ {
+  "id": "5-how-much-text-to-delete",
+  "level": 4,
+  "title": "5. How much text to delete."
+ },
+ {
+  "id": "6-make-changes-to-entire-words-numbers-and-internal-hierarch",
+  "level": 4,
+  "title": "6. Make changes to entire words, numbers, and internal hierarchy designations."
+ },
+ {
+  "id": "when-used-in-the-criminal-code",
+  "level": 5,
+  "title": "When used in the Criminal Code:"
+ },
+ {
+  "id": "c-when-renumbering-or-relettering-is-required-include-the-pa",
+  "level": 5,
+  "title": "c. When renumbering or relettering is required, include the paren-"
+ },
+ {
+  "id": "7-when-underline-is-required",
+  "level": 4,
+  "title": "7. When underline is required."
+ },
+ {
+  "id": "8-when-underline-is-not-required",
+  "level": 4,
+  "title": "8. When underline is not required."
+ },
+ {
+  "id": "chapter-2-resolutions",
+  "level": 3,
+  "title": "Chapter 2: Resolutions."
+ },
+ {
+  "id": "part-v-amendment-format",
+  "level": 2,
+  "title": "PART V: AMENDMENT FORMAT"
+ },
+ {
+  "id": "a-rules-for-drafting-amendments-generally",
+  "level": 4,
+  "title": "A. Rules for drafting amendments, generally."
+ },
+ {
+  "id": "if-senate-bill-no-465-states-on-line-45",
+  "level": 5,
+  "title": "If Senate Bill No. 465 states on line 45:"
+ },
+ {
+  "id": "and-the-amendment-is-to-remove-proof-of-ownership-use-the-fo",
+  "level": 5,
+  "title": "and the amendment is to remove “proof of ownership,” use the follow- ing instructional language:"
+ },
+ {
+  "id": "if-house-bill-no-417-creates-a-new-definition-section-on-lin",
+  "level": 5,
+  "title": "If House Bill No. 417 creates a new definition section on lines 105 through 122 of the bill, designates the definitions (1) through (10), and a new defined term, “individual,” is to be inserted after line 115 and be- fore line 116, draft the following instructional language and amendment:"
+ },
+ {
+  "id": "b-rules-for-drafting-amendments-specific-examples",
+  "level": 4,
+  "title": "B. Rules for drafting amendments, specific examples."
+ },
+ {
+  "id": "1-deleting-new-text-added-by-the-bill",
+  "level": 4,
+  "title": "1. Deleting new text added by the bill."
+ },
+ {
+  "id": "if-senate-bill-no-465-states-on-line-45-2",
+  "level": 5,
+  "title": "If Senate Bill No. 465 states on line 45:"
+ },
+ {
+  "id": "to-remove-proof-of-ownership-use-the-following-instructional",
+  "level": 5,
+  "title": "to remove “proof of ownership,” use the following instructional language:"
+ },
+ {
+  "id": "2-replace-new-text-added-by-the-bill",
+  "level": 4,
+  "title": "2. Replace new text added by the bill."
+ },
+ {
+  "id": "if-senate-bill-no-465-states-on-line-45-3",
+  "level": 5,
+  "title": "If Senate Bill No. 465 states on line 45:"
+ },
+ {
+  "id": "to-replace-proof-of-ownership-with-current-business-license-",
+  "level": 5,
+  "title": "to replace “proof of ownership” with “current business license,” use the fol- lowing instructional language:"
+ },
+ {
+  "id": "3-reinserting-source-material-text-deleted-by-the-bill",
+  "level": 4,
+  "title": "3. Reinserting source material text deleted by the bill."
+ },
+ {
+  "id": "if-house-bill-no-417-states-on-lines-17-through-19",
+  "level": 5,
+  "title": "If House Bill No. 417 states on lines 17 through 19:"
+ },
+ {
+  "id": "to-reinsert-the-deleted-text-use-the-following-instructional",
+  "level": 5,
+  "title": "to reinsert the deleted text, use the following instructional language:"
+ },
+ {
+  "id": "4-deleting-additional-source-material-text-in-the-bill",
+  "level": 4,
+  "title": "4. Deleting additional source material text in the bill."
+ },
+ {
+  "id": "if-senate-bill-no-465-states-on-line-45-4",
+  "level": 5,
+  "title": "If Senate Bill No. 465 states on line 45:"
+ },
+ {
+  "id": "to-remove-and-the-filing-fee-from-the-source-material-use-th",
+  "level": 5,
+  "title": "to remove “and the filing fee” from the source material, use the following in- structional language:"
+ },
+ {
+  "id": "5-deleting-additional-source-material-text-in-the-bill-and-r",
+  "level": 4,
+  "title": "5. Deleting additional source material text in the bill and replac- ing it with new text."
+ },
+ {
+  "id": "if-senate-bill-no-465-states-on-line-45-5",
+  "level": 5,
+  "title": "If Senate Bill No. 465 states on line 45:"
+ },
+ {
+  "id": "to-delete-15-and-replace-it-with-20-use-the-following-instru",
+  "level": 5,
+  "title": "to delete “15” and replace it with “20,” use the following instructional lan- guage:"
+ },
+ {
+  "id": "6-inserting-additional-text-into-a-source-material-provision",
+  "level": 4,
+  "title": "6. Inserting additional text into a source material provision."
+ },
+ {
+  "id": "if-senate-bill-no-465-states-on-line-45-6",
+  "level": 5,
+  "title": "If Senate Bill No. 465 states on line 45:"
+ },
+ {
+  "id": "use-the-following-instructional-language",
+  "level": 5,
+  "title": "use the following instructional language:"
+ },
+ {
+  "id": "7-deleting-additional-source-material-text-not-in-a-bill",
+  "level": 4,
+  "title": "7. Deleting additional source material text not in a bill."
+ },
+ {
+  "id": "if-a-bill-that-amends-101-d-beginning-on-line-3-of-the-bill-",
+  "level": 5,
+  "title": "If a bill that amends § 101(d) beginning on line 3 of the bill where the amendment drafter now wants to delete a portion of subsection (c), the appropriate instructional language is:"
+ },
+ {
+  "id": "8-inserting-an-additional-new-provision-into-the-bill",
+  "level": 4,
+  "title": "8. Inserting an additional new provision into the bill."
+ },
+ {
+  "id": "in-a-bill-that-adds-a-new-code-section-with-subsections-a-th",
+  "level": 5,
+  "title": "In a bill that adds a new Code section with subsections (a) through (c) and ends on line 55 before another bill Section beginning on line 56, the appro- priate instructional language is:"
+ },
+ {
+  "id": "to-include-an-effective-date-in-the-bill-the-appropriate-ins",
+  "level": 5,
+  "title": "To include an effective date in the bill, the appropriate instructional language is:"
+ },
+ {
+  "id": "9-deleting-multiple-lines-or-an-entire-section-from-the-bill",
+  "level": 4,
+  "title": "9. Deleting multiple lines or an entire Section from the bill."
+ },
+ {
+  "id": "10-in-serting-multi-ple-words-into-a-sentence-or-provision",
+  "level": 4,
+  "title": "10. In- serting multi- ple words into a sentence or provision."
+ },
+ {
+  "id": "11-striking-other-amendments",
+  "level": 4,
+  "title": "11. Striking other amendments."
+ },
+ {
+  "id": "amendment-striking-an-entire-amendment-2",
+  "level": 5,
+  "title": "Amendment Striking an Entire Amendment:"
+ },
+ {
+  "id": "amendment-striking-an-amendment-by-line-numbers-2",
+  "level": 5,
+  "title": "Amendment Striking an Amendment by Line Numbers:"
+ },
+ {
+  "id": "12-amending-the-enactment-clause",
+  "level": 4,
+  "title": "12. Amending the enactment clause."
+ },
+ {
+  "id": "amendment-to-the-enactment-clause",
+  "level": 5,
+  "title": "Amendment to the Enactment Clause:"
+ },
+ {
+  "id": "13-adding-whereas-clauses-to-a-bill-introduced-without-them",
+  "level": 4,
+  "title": "13. Adding whereas clauses to a bill introduced without them."
+ },
+ {
+  "id": "amendment-to-add-whereas-clauses",
+  "level": 5,
+  "title": "Amendment to Add Whereas Clauses:"
+ },
+ {
+  "id": "14-adding-or-removing-a-bill-section",
+  "level": 4,
+  "title": "14. Adding or removing a bill section."
+ },
+ {
+  "id": "d-amendment-to-an-amendment",
+  "level": 4,
+  "title": "D. Amendment to an amendment."
+ },
+ {
+  "id": "e-amendment-to-a-bill-as-amended",
+  "level": 4,
+  "title": "E. Amendment to a bill, as amended."
+ },
+ {
+  "id": "instructional-language-for-an-amendment-to-the-original-bill",
+  "level": 5,
+  "title": "Instructional Language for an Amendment to the Original Bill:"
+ },
+ {
+  "id": "instructional-language-for-an-amendment-to-the-amendment-to-",
+  "level": 5,
+  "title": "Instructional Language for an Amendment to the Amendment to Original Bill Made by the Other Chamber:"
+ },
+ {
+  "id": "part-vi-formatting-style-grammar-and-other-principles-of-goo",
+  "level": 2,
+  "title": "PART VI: FORMATTING, STYLE, GRAMMAR, AND OTHER PRINCIPLES OF GOOD LEGISLA- TIVE DRAFTING"
+ },
+ {
+  "id": "chapter-1-formatting-rules",
+  "level": 3,
+  "title": "Chapter 1: Formatting Rules."
+ },
+ {
+  "id": "rule-1-use-microsoft-word",
+  "level": 4,
+  "title": "Rule 1. Use Microsoft Word."
+ },
+ {
+  "id": "rule-2-track-changes-function",
+  "level": 4,
+  "title": "Rule 2. Track Changes Function."
+ },
+ {
+  "id": "rule-3-fonts",
+  "level": 4,
+  "title": "Rule 3. Fonts."
+ },
+ {
+  "id": "rule-4-paragraphing-and-spacing",
+  "level": 4,
+  "title": "Rule 4. Paragraphing and Spacing."
+ },
+ {
+  "id": "rule-5-hierarchy-and-indentation",
+  "level": 4,
+  "title": "Rule 5. Hierarchy and Indentation."
+ },
+ {
+  "id": "rule-6-auto-numbering-and-auto-lettering",
+  "level": 4,
+  "title": "Rule 6. Auto Numbering and Auto Lettering."
+ },
+ {
+  "id": "rule-7-line-numbers-page-numbers-tables-and-section-breaks",
+  "level": 4,
+  "title": "Rule 7. Line Numbers, Page Numbers, Tables, and Section Breaks."
+ },
+ {
+  "id": "chapter-2-drafting-rules",
+  "level": 3,
+  "title": "Chapter 2: Drafting Rules."
+ },
+ {
+  "id": "rule-1-clarity-and-readability",
+  "level": 4,
+  "title": "Rule 1. Clarity and Readability."
+ },
+ {
+  "id": "comment",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-2-brevity-and-simplicity",
+  "level": 4,
+  "title": "Rule 2. Brevity and Simplicity."
+ },
+ {
+  "id": "comment-2",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-3-consistency",
+  "level": 4,
+  "title": "Rule 3. Consistency."
+ },
+ {
+  "id": "comment-3",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-4-sentence-structure",
+  "level": 4,
+  "title": "Rule 4. Sentence Structure."
+ },
+ {
+  "id": "comment-4",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-5-subject-of-sentence",
+  "level": 4,
+  "title": "Rule 5. Subject of Sentence."
+ },
+ {
+  "id": "rule-6-tense-voice-number-and-mood",
+  "level": 4,
+  "title": "Rule 6. Tense, Voice, Number, and Mood."
+ },
+ {
+  "id": "comment-5",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "active-v-passive-voice",
+  "level": 5,
+  "title": "Active v. Passive Voice"
+ },
+ {
+  "id": "rule-7-gender",
+  "level": 4,
+  "title": "Rule 7. Gender."
+ },
+ {
+  "id": "comment-6",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "guide-to-gender-silencing-statutory-terms-avoid-the-gender-b",
+  "level": 5,
+  "title": "Guide to Gender-Silencing Statutory Terms Avoid the Gender-Based Term Use the Gender-Neutral Term"
+ },
+ {
+  "id": "rule-8-people-first-language",
+  "level": 4,
+  "title": "Rule 8. People First Language."
+ },
+ {
+  "id": "avoid-these-terms-and-phrases-use-these-terms-and-phrases-in",
+  "level": 5,
+  "title": "Avoid These Terms and Phrases Use These Terms and Phrases Instead"
+ },
+ {
+  "id": "rule-8a-referencing-delaware-governmental-bodies-in-delaware",
+  "level": 4,
+  "title": "Rule 8A. Referencing Delaware Governmental Bodies in Delaware Law."
+ },
+ {
+  "id": "rule-9-choice-of-words-and-phrases",
+  "level": 4,
+  "title": "Rule 9. Choice of Words and Phrases."
+ },
+ {
+  "id": "in-this-example-each-is-appropriate-only-if-the-failure-of-a",
+  "level": 5,
+  "title": "In this example, “each” is appropriate only if the failure of an owner to at-"
+ },
+ {
+  "id": "such-as-the-validity-of-the-meeting-if-the-only-legal-conseq",
+  "level": 5,
+  "title": "such as the validity of the meeting. If the only legal consequence is to the"
+ },
+ {
+  "id": "rule-10-use-of-and-or-and-and-or",
+  "level": 4,
+  "title": "Rule 10. Use of “And,” “Or,” and “And/Or.”"
+ },
+ {
+  "id": "comment-7",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "do-not-ever-use-and-or",
+  "level": 4,
+  "title": "Do not ever use “and/or.”"
+ },
+ {
+  "id": "rule-11-use-of-shall-must-may-and-substitutes",
+  "level": 4,
+  "title": "Rule 11. Use of “Shall,” “Must,” “May,” and Substitutes."
+ },
+ {
+  "id": "proper-use-of-shall",
+  "level": 5,
+  "title": "Proper use of “shall”:"
+ },
+ {
+  "id": "use-to-mean",
+  "level": 5,
+  "title": "Use To Mean"
+ },
+ {
+  "id": "how-to-use-must-active-verb-in-the-passive-voice",
+  "level": 5,
+  "title": "How to Use “Must” Active Verb in the Passive Voice:"
+ },
+ {
+  "id": "inactive-verb",
+  "level": 5,
+  "title": "Inactive Verb:"
+ },
+ {
+  "id": "inanimate-subject",
+  "level": 5,
+  "title": "Inanimate Subject:"
+ },
+ {
+  "id": "how-to-use-may-granting-power",
+  "level": 5,
+  "title": "How to Use “May” Granting Power:"
+ },
+ {
+  "id": "granting-privilege",
+  "level": 5,
+  "title": "Granting Privilege:"
+ },
+ {
+  "id": "granting-a-right",
+  "level": 5,
+  "title": "Granting a Right:"
+ },
+ {
+  "id": "should-is-properly-used-in-legislative-drafting-to-state-a-d",
+  "level": 5,
+  "title": "“Should” is properly used in legislative drafting to state a duty to take"
+ },
+ {
+  "id": "comment-8",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-12-use-of-shall-not-may-not-and-must-not",
+  "level": 4,
+  "title": "Rule 12. Use of “Shall Not,” “May Not,” and “Must Not.”"
+ },
+ {
+  "id": "inactive-verb-2",
+  "level": 5,
+  "title": "Inactive Verb:"
+ },
+ {
+  "id": "active-verb-in-the-passive-voice",
+  "level": 5,
+  "title": "Active Verb in the Passive Voice:"
+ },
+ {
+  "id": "comment-9",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-13-use-of-which-and-that",
+  "level": 4,
+  "title": "Rule 13. Use of “Which” and “That.”"
+ },
+ {
+  "id": "which-introducing-a-nonrestrictive-relative-clause",
+  "level": 5,
+  "title": "Which, introducing a nonrestrictive relative clause:"
+ },
+ {
+  "id": "that-introducing-a-restrictive-clause-intended-to-modify-the",
+  "level": 5,
+  "title": "That, introducing a restrictive clause intended to modify the nearer of two possible antecedents:"
+ },
+ {
+  "id": "which-introducing-a-restrictive-relative-clause-intended-to-",
+  "level": 5,
+  "title": "Which, introducing a restrictive relative clause intended to modify the remote antecedent:"
+ },
+ {
+  "id": "comment-10",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-13a-use-of-who-versus-use-of-that-and-which",
+  "level": 4,
+  "title": "Rule 13A. Use of “Who” Versus Use of “That” and “Which.”"
+ },
+ {
+  "id": "rule-14-use-of-such",
+  "level": 4,
+  "title": "Rule 14. Use of “Such.”"
+ },
+ {
+  "id": "to-express-for-example",
+  "level": 5,
+  "title": "To express “for example”:"
+ },
+ {
+  "id": "to-express-of-that-kind",
+  "level": 5,
+  "title": "To express “of that kind.”"
+ },
+ {
+  "id": "comment-11",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-15-use-of-if-when-whenever-and-where",
+  "level": 4,
+  "title": "Rule 15. Use of “If,” “When,” “Whenever,” and “Where.”"
+ },
+ {
+  "id": "if-regarding-a-condition-that-may-never-occur",
+  "level": 5,
+  "title": "“If” – regarding a condition that may never occur:"
+ },
+ {
+  "id": "when-regarding-a-condition-that-is-certain-to-occur",
+  "level": 5,
+  "title": "“When” – regarding a condition that is certain to occur:"
+ },
+ {
+  "id": "whenever-if-a-condition-may-occur-more-than-once",
+  "level": 5,
+  "title": "“Whenever” – if a condition may occur more than once:"
+ },
+ {
+  "id": "rule-16-use-of-only-and-other-modifiers",
+  "level": 4,
+  "title": "Rule 16. Use of “Only” and Other Modifiers."
+ },
+ {
+  "id": "only-modifies-intersections-and-commands-the-department-to-p",
+  "level": 5,
+  "title": "“Only” modifies “intersections” and commands the Department to plac-"
+ },
+ {
+  "id": "only-modifies-traffic-control-devices-and-prohibits-the-depa",
+  "level": 5,
+  "title": "“Only” modifies “traffic-control devices” and prohibits the Department"
+ },
+ {
+  "id": "only-modifies-place-and-limits-the-department-to-placing-tra",
+  "level": 5,
+  "title": "“Only” modifies “place” and limits the Department to placing traffic-con-"
+ },
+ {
+  "id": "comment-12",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-17-abbreviations",
+  "level": 4,
+  "title": "Rule 17. Abbreviations."
+ },
+ {
+  "id": "rule-18-capitalization",
+  "level": 4,
+  "title": "Rule 18. Capitalization."
+ },
+ {
+  "id": "comment-13",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-19-numbers",
+  "level": 4,
+  "title": "Rule 19. Numbers."
+ },
+ {
+  "id": "values-over-999-99-include-commas-as-appropriate-1-000-value",
+  "level": 5,
+  "title": "Values over $999.99 include commas as appropriate: “$1,000” Values under $10 are written as dollars and cents: “$3.00” Values under $1.00 are expressed as cents: “50 cents” Note: The plural form of money is “moneys,” not “monies.”"
+ },
+ {
+  "id": "in-sequences-connected-by-through-the-sequence-includes-the-",
+  "level": 5,
+  "title": "In sequences connected by “through” the sequence includes the first and last number mentioned. In this example, 1,001 is the first, or lowest, weight covered"
+ },
+ {
+  "id": "don-t-hyphenate-when-the-age-is-part-of-an-adjective-phrase-",
+  "level": 5,
+  "title": "Don’t hyphenate when the age is part of an adjective phrase after the noun:"
+ },
+ {
+  "id": "do-hyphenate-when-the-age-is-an-adjective-that-comes-before-",
+  "level": 5,
+  "title": "Do hyphenate when the age is an adjective that comes before the noun and modifies the noun, or when the age is a noun:"
+ },
+ {
+  "id": "when-indicating-a-specific-starting-age-be-sure-to-indicate-",
+  "level": 5,
+  "title": "When indicating a specific starting age, be sure to indicate that it is the start of a"
+ },
+ {
+  "id": "don-t-use-antiquated-language-of-writing-an-age",
+  "level": 5,
+  "title": "Don’t use antiquated language of writing an age:"
+ },
+ {
+  "id": "comment-14",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-20-plurals",
+  "level": 4,
+  "title": "Rule 20. Plurals."
+ },
+ {
+  "id": "singular-plural",
+  "level": 5,
+  "title": "Singular Plural"
+ },
+ {
+  "id": "rule-21-possessives",
+  "level": 4,
+  "title": "Rule 21. Possessives."
+ },
+ {
+  "id": "possessive-form-of-a-plural-noun-ending-in-s",
+  "level": 5,
+  "title": "Possessive Form of a Plural Noun Ending in “S”:"
+ },
+ {
+  "id": "rule-22-prefixes",
+  "level": 4,
+  "title": "Rule 22. Prefixes."
+ },
+ {
+  "id": "prefixes-without-hyphens",
+  "level": 5,
+  "title": "Prefixes Without Hyphens:"
+ },
+ {
+  "id": "comment-15",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-23-punctuation",
+  "level": 4,
+  "title": "Rule 23. Punctuation."
+ },
+ {
+  "id": "comment-16",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-24-compounding-words-and-hyphenation",
+  "level": 4,
+  "title": "Rule 24. Compounding Words and Hyphenation."
+ },
+ {
+  "id": "comment-17",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-25-definitions-generally",
+  "level": 4,
+  "title": "Rule 25. Definitions: Generally."
+ },
+ {
+  "id": "definition-section-example",
+  "level": 5,
+  "title": "Definition Section Example:"
+ },
+ {
+  "id": "code-provision-example",
+  "level": 5,
+  "title": "Code Provision Example:"
+ },
+ {
+  "id": "comment-18",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-26-definitions-use-of-means-and-includes",
+  "level": 4,
+  "title": "Rule 26. Definitions: Use of “Means” and “Includes.”"
+ },
+ {
+  "id": "means",
+  "level": 5,
+  "title": "Means:"
+ },
+ {
+  "id": "includes",
+  "level": 5,
+  "title": "Includes:"
+ },
+ {
+  "id": "if-wages-is-defined-in-the-legislation-add-the-following-to-",
+  "level": 5,
+  "title": "If “wages” is defined in the legislation, add the following to the defini-"
+ },
+ {
+  "id": "comment-19",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "do-not-ever-use-including-but-not-limited-to",
+  "level": 5,
+  "title": "Do not ever use “including but not limited to”"
+ },
+ {
+  "id": "rule-27-parallel-construction",
+  "level": 4,
+  "title": "Rule 27. Parallel Construction."
+ },
+ {
+  "id": "comment-20",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-28-limitations-exceptions-qualifications-and-conditions",
+  "level": 4,
+  "title": "Rule 28. Limitations, Exceptions, Qualifications, and Conditions."
+ },
+ {
+  "id": "begin-the-sentence-with-the-limitation",
+  "level": 5,
+  "title": "Begin the sentence with the limitation:"
+ },
+ {
+  "id": "comment-21",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-29-series-and-tabulations",
+  "level": 4,
+  "title": "Rule 29. Series and Tabulations."
+ },
+ {
+  "id": "do-2",
+  "level": 5,
+  "title": "Do:"
+ },
+ {
+  "id": "don-t-leave-an-undesignated-paragraph",
+  "level": 5,
+  "title": "Don’t leave an undesignated paragraph:"
+ },
+ {
+  "id": "comment-22",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-29a-amending-a-tabulated-list",
+  "level": 4,
+  "title": "Rule 29A. Amending a Tabulated List."
+ },
+ {
+  "id": "do-not-draft-an-undesignated-para-graph-or-sentence-it-is-di",
+  "level": 5,
+  "title": "Do not draft an undesignated para- graph or sentence; it is difficult, if not impossible, to interpret to which part of the provision the undesignated"
+ },
+ {
+  "id": "if-a-statute-states",
+  "level": 5,
+  "title": "If a statute states:"
+ },
+ {
+  "id": "to-remove-only-mastiffs-from-the-list",
+  "level": 5,
+  "title": "To remove only mastiffs from the list:"
+ },
+ {
+  "id": "comment-23",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-29b-amending-an-undesignated-list",
+  "level": 4,
+  "title": "Rule 29B. Amending an Undesignated List."
+ },
+ {
+  "id": "rule-29c-enumeration-provisions-and-include",
+  "level": 4,
+  "title": "Rule 29C. Enumeration Provisions and “Include.”"
+ },
+ {
+  "id": "exclusive-enumeration-provision",
+  "level": 5,
+  "title": "Exclusive Enumeration Provision:"
+ },
+ {
+  "id": "nonexclusive-enumeration-provision",
+  "level": 5,
+  "title": "Nonexclusive Enumeration Provision:"
+ },
+ {
+  "id": "nonexclusive-enumeration-provision-with-some-limitation",
+  "level": 5,
+  "title": "Nonexclusive Enumeration Provision with Some Limitation:"
+ },
+ {
+  "id": "comment-24",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-29d-drafting-series-tabulations-and-enumeration-provisi",
+  "level": 4,
+  "title": "Rule 29D. Drafting Series, Tabulations, and Enumeration Provisions to Avoid the Doctrine of the Last Antecedent."
+ },
+ {
+  "id": "list-followed-by-a-qualifying-phrase",
+  "level": 5,
+  "title": "List Followed by a Qualifying Phrase:"
+ },
+ {
+  "id": "in-the-example-above-statutory-construction-would-hold-that-",
+  "level": 5,
+  "title": "In the example above, statutory construction would hold that “under 3 tons” applies only to “trucks,” not “boats” or “tractors.”"
+ },
+ {
+  "id": "drafting-a-qualifying-phrase-that-applies-only-to-1-item-giv",
+  "level": 5,
+  "title": "Drafting a Qualifying Phrase that Applies Only to 1 Item Given:"
+ },
+ {
+  "id": "draft-as",
+  "level": 5,
+  "title": "Draft as:"
+ },
+ {
+  "id": "drafting-a-qualifying-phrase-that-applies-to-each-item-in-th",
+  "level": 5,
+  "title": "Drafting a Qualifying Phrase that Applies to Each Item in the List Given:"
+ },
+ {
+  "id": "draft-as-2",
+  "level": 5,
+  "title": "Draft as:"
+ },
+ {
+  "id": "or",
+  "level": 5,
+  "title": "or"
+ },
+ {
+  "id": "rule-30-maintaining-the-stability-of-the-code",
+  "level": 4,
+  "title": "Rule 30. Maintaining the Stability of the Code."
+ },
+ {
+  "id": "units-of-the-code",
+  "level": 5,
+  "title": "Units of the Code:"
+ },
+ {
+  "id": "structure-of-and-names-for-the-internal-hierarchy-of-a-secti",
+  "level": 5,
+  "title": "Structure of and Names for the Internal Hierarchy of a Section (See For- matting Rule 5 for more details):"
+ },
+ {
+  "id": "101-this-level-is-called-a-section",
+  "level": 5,
+  "title": "§ 101. [this level is called a section]"
+ },
+ {
+  "id": "paragraphs",
+  "level": 5,
+  "title": "paragraphs]"
+ },
+ {
+  "id": "in-sections-with-an-undesignated-first-subsection-no-subsect",
+  "level": 5,
+  "title": "In sections with an undesignated first subsection (no “subsection” desig- nation, typical with definition sections), the first level is still referred to as “paragraph.”"
+ },
+ {
+  "id": "inserting-a-new-section-or-chapter",
+  "level": 5,
+  "title": "Inserting a New Section or Chapter:"
+ },
+ {
+  "id": "comment-25",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-30a-amending-a-code-section-versioned-by-an-effective-d",
+  "level": 4,
+  "title": "Rule 30A. Amending a Code Section “Versioned” by an Effective Date."
+ },
+ {
+  "id": "comment-26",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-30b-transferring-an-entire-unit-of-the-code",
+  "level": 4,
+  "title": "Rule 30B. Transferring an Entire Unit of the Code."
+ },
+ {
+  "id": "transferring-an-entire-unit-of-the-code",
+  "level": 5,
+  "title": "Transferring an Entire Unit of the Code:"
+ },
+ {
+  "id": "given-a-need-to-transfer-chapter-80-from-title-3-to-title-16",
+  "level": 5,
+  "title": "Given a need to transfer Chapter 80 from Title 3 to Title 16, where Chap- ter 80 will become Chapter 30E, draft the following prefatory language:"
+ },
+ {
+  "id": "be-transferred-currently-exists-and-title-16-the-highest-uni",
+  "level": 5,
+  "title": "be transferred currently exists;] and Title 16 [the highest unit of the Code"
+ },
+ {
+  "id": "unit-of-the-code-receiving-the-existing-chapter",
+  "level": 5,
+  "title": "unit of the Code receiving the existing Chapter]"
+ },
+ {
+  "id": "note-the-bolded-bracketed-text-is-provided-as-additional-con",
+  "level": 5,
+  "title": "Note: The bolded, bracketed text is provided as additional context for"
+ },
+ {
+  "id": "transferring-an-entire-unit-of-the-code-and-making-changes-t",
+  "level": 5,
+  "title": "Transferring an Entire Unit of the Code and Making Changes to the Lan- guage in the Unit (based on the example in subsection (a) of this rule):"
+ },
+ {
+  "id": "comment-27",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-31-internal-references-to-code-provisions-or-sections-o",
+  "level": 4,
+  "title": "Rule 31. Internal References to Code Provisions or Sections of Legislation: Generally."
+ },
+ {
+  "id": "if-the-definition-involved-will-not-otherwise-apply",
+  "level": 5,
+  "title": "If the definition involved will not otherwise apply:"
+ },
+ {
+  "id": "a-1-a-1-a-1-a-1-a-or-a-1-a-1-a-i",
+  "level": 5,
+  "title": "“(a)(1)a.1.”, “(a)(1)a.1.A.”, or “(a)(1)a.1.A.I.”"
+ },
+ {
+  "id": "do-3",
+  "level": 5,
+  "title": "Do:"
+ },
+ {
+  "id": "don-t-4",
+  "level": 5,
+  "title": "Don’t:"
+ },
+ {
+  "id": "in-paragraph-a-1-and-referring-to-paragraph-a-1-a",
+  "level": 5,
+  "title": "In paragraph (a)(1), and referring to paragraph (a)(1)a.:"
+ },
+ {
+  "id": "if-referencing-paragraph-a-1-a-in-paragraph-a-1-a",
+  "level": 5,
+  "title": "If referencing paragraph (a)(1)a. in paragraph (a)(1)a.:"
+ },
+ {
+  "id": "comment-28",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-31a-internal-references-to-the-delaware-constitution-de",
+  "level": 4,
+  "title": "Rule 31A. Internal References to the Delaware Constitution, Delaware Regulations, or Federal Law."
+ },
+ {
+  "id": "rule-32-internal-references-to-code-provisions-or-sections-o",
+  "level": 4,
+  "title": "Rule 32. Internal References to Code Provisions or Sections of Legislation: Incorporation by Reference."
+ },
+ {
+  "id": "comment-29",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-32a-internal-references-to-code-provisions-or-sections-",
+  "level": 4,
+  "title": "Rule 32A. Internal References to Code Provisions or Sections of Legisla- tion: Checking for Accuracy."
+ },
+ {
+  "id": "assuming-all-of-the-following",
+  "level": 5,
+  "title": "Assuming all of the following:"
+ },
+ {
+  "id": "include-201-b-434-d-and-704-e-in-the-draft-legislation-and-c",
+  "level": 5,
+  "title": "Include §§ 201(b), 434(d), and 704(e) in the draft legislation and change"
+ },
+ {
+  "id": "or-add-the-new-subsection-as-101-d-instead-of-101-a-which-av",
+  "level": 5,
+  "title": "Or, add the new subsection as § 101(d) instead of § 101(a), which avoids the need to amend internal references to the existing"
+ },
+ {
+  "id": "assume-all-of-the-following",
+  "level": 5,
+  "title": "Assume all of the following:"
+ },
+ {
+  "id": "the-bill-should-include-a-section-repealing-1124-that-makes-",
+  "level": 5,
+  "title": "The bill should include a section repealing § 1124 that makes the following corresponding revision to § 1125:"
+ },
+ {
+  "id": "assume-all-of-the-following-2",
+  "level": 5,
+  "title": "Assume all of the following:"
+ },
+ {
+  "id": "the-bill-should-include-a-section-that-inserts-repealed-afte",
+  "level": 5,
+  "title": "The bill should include a section that inserts “[repealed]” after the reference to § 835 in § 4201:"
+ },
+ {
+  "id": "comment-30",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-33-order-of-arrangement-of-legislative-provisions",
+  "level": 4,
+  "title": "Rule 33. Order of Arrangement of Legislative Provisions."
+ },
+ {
+  "id": "comment-31",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "rule-34-model-acts",
+  "level": 4,
+  "title": "Rule 34. Model Acts."
+ },
+ {
+  "id": "rule-35-interstate-compacts",
+  "level": 4,
+  "title": "Rule 35. Interstate Compacts."
+ },
+ {
+  "id": "rule-36-drafting-criminal-laws",
+  "level": 4,
+  "title": "Rule 36. Drafting Criminal Laws."
+ },
+ {
+  "id": "when-reference-to-the-class-of-offense-sufficiently-provides",
+  "level": 5,
+  "title": "When reference to the class of offense sufficiently provides the penalty:"
+ },
+ {
+  "id": "when-a-specific-penalty-different-from-the-general-penalty-f",
+  "level": 5,
+  "title": "When a specific penalty, different from the general penalty for a class of offense, is needed:"
+ },
+ {
+  "id": "here-knowingly-is-the-adverbial-mens-rea-and-push-shove-and",
+  "level": 5,
+  "title": "Here, “knowingly” is the adverbial mens rea and “push,” “shove,” and"
+ },
+ {
+  "id": "rule-37-proofreading",
+  "level": 4,
+  "title": "Rule 37. Proofreading."
+ },
+ {
+  "id": "delaware-does-not-have-a-centralized-proofreading-of-fice-on",
+  "level": 5,
+  "title": "Delaware does not have a centralized proofreading of- fice; one of the most im- portant steps for a legislative drafter is to"
+ },
+ {
+  "id": "proofread-proofread-proofread",
+  "level": 3,
+  "title": "proofread proofread proofread"
+ },
+ {
+  "id": "before-releasing-legislation",
+  "level": 5,
+  "title": "before releasing legislation"
+ },
+ {
+  "id": "comment-32",
+  "level": 5,
+  "title": "Comment"
+ },
+ {
+  "id": "it-is-essential-that-someone-other-than-the-drafter-review-t",
+  "level": 5,
+  "title": "It is essential that someone other than the drafter review the legislation before release. An"
+ },
+ {
+  "id": "rule-38-drafting-health-insurance-laws",
+  "level": 4,
+  "title": "Rule 38. Drafting Health Insurance Laws."
+ },
+ {
+  "id": "rule-39-drafting-special-license-plate-laws",
+  "level": 4,
+  "title": "Rule 39. Drafting Special License Plate Laws."
+ },
+ {
+  "id": "chapter-3-additional-observations-guidelines-and-word-usage-",
+  "level": 3,
+  "title": "Chapter 3: Additional Observations, Guidelines, and Word Usage Examples."
+ },
+ {
+  "id": "section-1-additional-observations",
+  "level": 4,
+  "title": "Section 1: Additional Observations."
+ },
+ {
+  "id": "section-2-general-guidelines-for-drafting",
+  "level": 4,
+  "title": "Section 2: General Guidelines for Drafting."
+ },
+ {
+  "id": "avoid-using-redundant-couplets",
+  "level": 5,
+  "title": "AVOID USING REDUNDANT COUPLETS"
+ },
+ {
+  "id": "avoid-the-following-indefinite-words",
+  "level": 5,
+  "title": "AVOID THE FOLLOWING INDEFINITE WORDS"
+ },
+ {
+  "id": "use-plain-english",
+  "level": 5,
+  "title": "USE PLAIN ENGLISH"
+ },
+ {
+  "id": "superfluous-or-verbose-use-instead",
+  "level": 5,
+  "title": "superfluous, or verbose Use instead"
+ },
+ {
+  "id": "superfluous-or-verbose-use-instead-2",
+  "level": 5,
+  "title": "superfluous, or verbose Use instead"
+ },
+ {
+  "id": "superfluous-or-verbose-use-instead-3",
+  "level": 5,
+  "title": "superfluous, or verbose Use instead"
+ },
+ {
+  "id": "superfluous-or-verbose-use-instead-4",
+  "level": 5,
+  "title": "superfluous, or verbose Use instead"
+ },
+ {
+  "id": "superfluous-or-verbose-use-instead-5",
+  "level": 5,
+  "title": "superfluous, or verbose Use instead"
+ },
+ {
+  "id": "section-3-word-usage-examples",
+  "level": 4,
+  "title": "Section 3: Word Usage Examples."
+ },
+ {
+  "id": "a-capitalization-examples",
+  "level": 4,
+  "title": "A. Capitalization Examples."
+ },
+ {
+  "id": "section-limits-itself-to-one-county-earlier-in-the-section",
+  "level": 5,
+  "title": "section limits itself to one county, earlier in the section)"
+ },
+ {
+  "id": "b-compounding-hyphenation-and-spelling-examples",
+  "level": 4,
+  "title": "B. Compounding, Hyphenation, and Spelling Examples."
+ },
+ {
+  "id": "c-words-frequently-confused",
+  "level": 4,
+  "title": "C. Words Frequently Confused."
+ },
+ {
+  "id": "part-vii-the-legislative-process",
+  "level": 2,
+  "title": "PART VII: THE LEGISLATIVE PROCESS"
+ },
+ {
+  "id": "chapter-1-draft-release-numbering-printing-and-preparation",
+  "level": 3,
+  "title": "Chapter 1: Draft Release, Numbering, Printing, and Preparation."
+ },
+ {
+  "id": "once-legislation-is-released-the-drafter-loses-control-over-",
+  "level": 5,
+  "title": "Once legislation is released, the drafter loses control over the legislation and the ability to alter it without either the sponsor striking it or the sponsor or another legislator amending"
+ },
+ {
+  "id": "chapter-2-action-in-the-chamber-of-origin",
+  "level": 3,
+  "title": "Chapter 2: Action in the Chamber of Origin."
+ },
+ {
+  "id": "chapter-3-action-in-the-second-chamber",
+  "level": 3,
+  "title": "Chapter 3: Action in the Second Chamber."
+ },
+ {
+  "id": "chapter-4-additional-action-in-the-chamber-of-origin-or-seco",
+  "level": 3,
+  "title": "Chapter 4: Additional Action in the Chamber of Origin or Second Chamber."
+ },
+ {
+  "id": "chapter-5-engrossment",
+  "level": 3,
+  "title": "Chapter 5: Engrossment."
+ },
+ {
+  "id": "chapter-6-enrollment",
+  "level": 3,
+  "title": "Chapter 6: Enrollment."
+ },
+ {
+  "id": "chapter-7-the-role-of-the-governor",
+  "level": 3,
+  "title": "Chapter 7: The Role of the Governor."
+ },
+ {
+  "id": "governor-s-choices-under-section-18-of-article-iii",
+  "level": 5,
+  "title": "Governor’s Choices Under Section 18 of Article III:"
+ },
+ {
+  "id": "while-not-directly-related-to-the-governor-s-role-in-the-leg",
+  "level": 5,
+  "title": "While not directly related to the Governor’s role in the legislative process, the dis- cussion of “final adjournment” raises the following points:"
+ },
+ {
+  "id": "chapter-8-veto-override",
+  "level": 3,
+  "title": "Chapter 8. Veto Override."
+ },
+ {
+  "id": "order-of-business-on-the-next-legislative-day-the-house-of-o",
+  "level": 5,
+  "title": "order of business on the next legislative day the house of origin is in session.208"
+ },
+ {
+  "id": "governor-s-veto-must-be-taken-by-the-yeas-and-nays-217-passa",
+  "level": 5,
+  "title": "Governor’s veto, must be taken by “the yeas and nays.”217 Passage requires the affirmative vote of three-fifths of all the members elected to that"
+ },
+ {
+  "id": "that-house-must-send-the-bill-with-the-governor-s-objections",
+  "level": 5,
+  "title": "that house must send the bill with the Governor’s objections to the second house, which must then follow many of the same procedures to override the Governor’s veto.219 If the second"
+ },
+ {
+  "id": "chapter-9-role-of-lieutenant-governor-in-breaking-a-tie",
+  "level": 3,
+  "title": "Chapter 9. Role of Lieutenant Governor in Breaking a Tie."
+ },
+ {
+  "id": "chapter-10-the-role-of-the-code-revisors",
+  "level": 3,
+  "title": "Chapter 10: The Role of the Code Revisors."
+ },
+ {
+  "id": "appendices",
+  "level": 2,
+  "title": "APPENDICES"
+ },
+ {
+  "id": "appendix-a-1-senate-bill",
+  "level": 3,
+  "title": "Appendix A-1: Senate Bill"
+ },
+ {
+  "id": "appendix-a-2-house-bill",
+  "level": 3,
+  "title": "Appendix A-2: House Bill"
+ },
+ {
+  "id": "appendix-a-3-senate-amendment-to-a-senate-bill",
+  "level": 3,
+  "title": "Appendix A-3: Senate Amendment to a Senate Bill"
+ },
+ {
+  "id": "appendix-a-4-house-amendment-to-a-house-bill",
+  "level": 3,
+  "title": "Appendix A-4: House Amendment to a House Bill"
+ },
+ {
+  "id": "appendix-a-5-house-amendment-to-a-house-amendment-to-a-house",
+  "level": 3,
+  "title": "Appendix A-5: House Amendment to a House Amendment to a House Bill"
+ },
+ {
+  "id": "appendix-a-6-senate-amendment-to-a-house-bill-as-amended",
+  "level": 3,
+  "title": "Appendix A-6: Senate Amendment to a House Bill, as Amended"
+ },
+ {
+  "id": "appendix-a-7-bill-to-amend-the-laws-of-delaware",
+  "level": 3,
+  "title": "Appendix A-7: Bill to Amend the Laws of Delaware"
+ },
+ {
+  "id": "appendix-a-8-substitute-and-original-bill",
+  "level": 3,
+  "title": "Appendix A-8: Substitute and Original Bill"
+ },
+ {
+  "id": "appendix-a-9-constitutional-amendment-first-leg",
+  "level": 3,
+  "title": "Appendix A-9: Constitutional Amendment – First Leg"
+ },
+ {
+  "id": "appendix-a-10-constitutional-amendment-second-leg",
+  "level": 3,
+  "title": "Appendix A-10: Constitutional Amendment – Second Leg"
+ },
+ {
+  "id": "appendix-a-11-bill-to-amend-town-charter",
+  "level": 3,
+  "title": "Appendix A-11: Bill to Amend Town Charter"
+ },
+ {
+  "id": "appendix-a-12-supplemental-appropriations-bill",
+  "level": 3,
+  "title": "Appendix A-12: Supplemental Appropriations Bill"
+ },
+ {
+  "id": "appendix-a-13-simple-resolution-proclaiming-a-week-of-honor",
+  "level": 3,
+  "title": "Appendix A-13: Simple Resolution Proclaiming a Week of Honor"
+ },
+ {
+  "id": "appendix-a-14-simple-resolution-requesting-a-government-body",
+  "level": 3,
+  "title": "Appendix A-14: Simple Resolution Requesting a Government Body Act"
+ },
+ {
+  "id": "appendix-a-15-concurrent-resolution",
+  "level": 3,
+  "title": "Appendix A-15: Concurrent Resolution"
+ },
+ {
+  "id": "appendix-a-16-joint-resolution",
+  "level": 3,
+  "title": "Appendix A-16: Joint Resolution"
+ },
+ {
+  "id": "appendix-a-17-frequently-used-boilerplate-language",
+  "level": 3,
+  "title": "Appendix A-17: Frequently Used Boilerplate Language"
+ },
+ {
+  "id": "boxes-to-check-in-delis-when-drafting-legislation",
+  "level": 4,
+  "title": "Boxes to Check in DELIS When Drafting Legislation"
+ },
+ {
+  "id": "prefatory-or-instructional-language",
+  "level": 4,
+  "title": "Prefatory or Instructional Language"
+ },
+ {
+  "id": "amend-existing-delaware-code-section",
+  "level": 5,
+  "title": "Amend existing Delaware Code section"
+ },
+ {
+  "id": "add-new-delaware-code-section-to-existing-subchapter",
+  "level": 5,
+  "title": "Add new Delaware Code section to existing subchapter"
+ },
+ {
+  "id": "add-new-delaware-code-section-to-existing-chapter",
+  "level": 5,
+  "title": "Add new Delaware Code section to existing chapter"
+ },
+ {
+  "id": "add-new-delaware-code-chapter-to-existing-title",
+  "level": 5,
+  "title": "Add new Delaware Code chapter to existing title"
+ },
+ {
+  "id": "amend-existing-definition-section-in-delaware-code",
+  "level": 5,
+  "title": "Amend existing definition section in Delaware Code"
+ },
+ {
+  "id": "repeal-existing-portion-of-delaware-code-without-using-strik",
+  "level": 5,
+  "title": "Repeal existing portion of Delaware Code without using strike through; use only to repeal large amount of text"
+ },
+ {
+  "id": "repeal-existing-provision-of-delaware-code-and-make-new-addi",
+  "level": 5,
+  "title": "Repeal existing provision of Delaware Code and make new additions"
+ },
+ {
+  "id": "reorganize-the-delaware-code",
+  "level": 5,
+  "title": "Reorganize the Delaware Code"
+ },
+ {
+  "id": "commonly-used-language",
+  "level": 4,
+  "title": "Commonly Used Language"
+ },
+ {
+  "id": "introductory-language-to-create-definition-section-or-subsec",
+  "level": 5,
+  "title": "Introductory language to create definition section or subsection"
+ },
+ {
+  "id": "give-act-specific-name-or-short-title",
+  "level": 5,
+  "title": "Give Act specific name or short title"
+ },
+ {
+  "id": "create-state-agency-s-authority-to-regulate",
+  "level": 5,
+  "title": "Create state agency’s authority to regulate"
+ },
+ {
+  "id": "ages",
+  "level": 5,
+  "title": "Ages"
+ },
+ {
+  "id": "cite-to-named-federal-law",
+  "level": 5,
+  "title": "Cite to named federal law"
+ },
+ {
+  "id": "signal-to-code-revisors-to-insert-a-date-into-the-law-once-e",
+  "level": 5,
+  "title": "Signal to Code Revisors to insert a date into the law, once enacted When inserted date is date law is effective based on effective date or contingent effective date provision in bill"
+ },
+ {
+  "id": "when-inserted-date-is-date-law-is-implemented-based-on-imple",
+  "level": 5,
+  "title": "When inserted date is date law is implemented based on implementation date provision in bill"
+ },
+ {
+  "id": "when-inserted-date-is-date-the-law-is-enacted",
+  "level": 5,
+  "title": "When inserted date is date the law is enacted"
+ },
+ {
+  "id": "create-government-official-s-authority-to-appoint-member-to-",
+  "level": 5,
+  "title": "Create government official’s authority to appoint member to state entity based on list of names provided by nongovernmental entity"
+ },
+ {
+  "id": "delayed-effective-date-delayed-implementation-date-contingen",
+  "level": 4,
+  "title": "Delayed Effective Date, Delayed Implementation Date, Contingent Effective Date"
+ },
+ {
+  "id": "delay-effect-of-bill-or-bill-section-for-specific-amount-of-",
+  "level": 5,
+  "title": "Delay effect of bill or bill Section for specific amount of time or until date certain"
+ },
+ {
+  "id": "delay-effect-of-bill-or-bill-section-to-give-state-agency-ti",
+  "level": 5,
+  "title": "Delay effect of bill or bill Section to give state agency time to create needed regulations"
+ },
+ {
+  "id": "make-effective-date-of-bill-or-bill-section-contingent-on-ha",
+  "level": 5,
+  "title": "Make effective date of bill or bill Section contingent on happening of future action or event"
+ },
+ {
+  "id": "permit-bill-or-bill-section-to-become-effective-when-state-a",
+  "level": 5,
+  "title": "Permit bill or bill Section to become effective when state agency is prepared for implementation"
+ },
+ {
+  "id": "delay-implementation-for-specific-amount-of-time-or-until-da",
+  "level": 5,
+  "title": "Delay implementation for specific amount of time or until date certain"
+ },
+ {
+  "id": "contingent-effective-date-to-address-a-conflict-or-intersect",
+  "level": 5,
+  "title": "Contingent effective date to address a conflict or intersection with another bill"
+ },
+ {
+  "id": "sunset-clause",
+  "level": 4,
+  "title": "Sunset Clause"
+ },
+ {
+  "id": "immunity",
+  "level": 4,
+  "title": "Immunity"
+ },
+ {
+  "id": "civil-penalties",
+  "level": 4,
+  "title": "Civil Penalties"
+ },
+ {
+  "id": "creating-crimes-or-criminal-penalties",
+  "level": 4,
+  "title": "Creating Crimes or Criminal Penalties"
+ },
+ {
+  "id": "create-a-crime",
+  "level": 5,
+  "title": "Create a crime"
+ },
+ {
+  "id": "create-criminal-penalty-when-reference-to-the-class-of-offen",
+  "level": 5,
+  "title": "Create criminal penalty when reference to the class of offense is sufficient to provide the penalty"
+ },
+ {
+  "id": "create-criminal-penalty-when-a-specific-penalty-different-fr",
+  "level": 5,
+  "title": "Create criminal penalty when a specific penalty, different from the general penalty for a class of offense is needed"
+ },
+ {
+  "id": "citation-to-the-delaware-administrative-code-in-the-delaware",
+  "level": 4,
+  "title": "Citation to the Delaware Administrative Code, in the Delaware Code"
+ },
+ {
+  "id": "citation-to-a-specific-regulation-as-a-whole",
+  "level": 5,
+  "title": "Citation to a specific regulation as a whole"
+ },
+ {
+  "id": "citation-to-a-specific-section-of-a-specific-regulation",
+  "level": 5,
+  "title": "Citation to a specific section of a specific regulation"
+ },
+ {
+  "id": "report-required",
+  "level": 4,
+  "title": "Report required"
+ },
+ {
+  "id": "resolution-be-it-resolved-boilerplate",
+  "level": 4,
+  "title": "Resolution “Be it Resolved” Boilerplate"
+ },
+ {
+  "id": "simple-resolution",
+  "level": 5,
+  "title": "Simple resolution"
+ },
+ {
+  "id": "concurrent-resolution",
+  "level": 5,
+  "title": "Concurrent resolution"
+ },
+ {
+  "id": "joint-resolution",
+  "level": 5,
+  "title": "Joint resolution"
+ },
+ {
+  "id": "synopsis",
+  "level": 4,
+  "title": "Synopsis"
+ },
+ {
+  "id": "when-making-changes-to-existing-law-to-conform-to-the-drafti",
+  "level": 5,
+  "title": "When making changes to existing law to conform to the Drafting Manual"
+ },
+ {
+  "id": "when-including-a-delayed-effective-date-delayed-implementati",
+  "level": 5,
+  "title": "When including a delayed effective date, delayed implementation date, or a contingent effective date, include similar language in the synopsis"
+ },
+ {
+  "id": "in-a-substitute-to-a-bill-include-the-following-to-note-what",
+  "level": 5,
+  "title": "In a substitute to a bill, include the following to note what has changed:"
+ },
+ {
+  "id": "first-leg-of-an-amendment-to-the-delaware-constitution",
+  "level": 5,
+  "title": "First leg of an amendment to the Delaware Constitution"
+ },
+ {
+  "id": "second-leg-of-an-amendment-to-the-delaware-constitution",
+  "level": 5,
+  "title": "Second leg of an amendment to the Delaware Constitution"
+ },
+ {
+  "id": "bill-requiring-a-super-majority-vote-general-language-to-tai",
+  "level": 5,
+  "title": "Bill requiring a super-majority vote General language to tailor to specific situation"
+ },
+ {
+  "id": "create-a-new-crime-or-expand-an-existing-crime-that-is-withi",
+  "level": 5,
+  "title": "Create a new crime or expand an existing crime that is within the criminal jurisdiction of an inferior court"
+ },
+ {
+  "id": "borrow-money-or-create-a-debt",
+  "level": 5,
+  "title": "Borrow money or create a debt"
+ },
+ {
+  "id": "appropriate-money-to-or-issue-or-loan-bonds-of-this-state-to",
+  "level": 5,
+  "title": "Appropriate money to or issue or loan bonds of this State to a county, municipality, or cor-"
+ },
+ {
+  "id": "municipality-or-corporation",
+  "level": 5,
+  "title": "municipality, or corporation"
+ },
+ {
+  "id": "appropriation-money-not-reverting",
+  "level": 5,
+  "title": "Appropriation, money not reverting"
+ },
+ {
+  "id": "increase-existing-tax-or-license-fee",
+  "level": 5,
+  "title": "Increase existing tax or license fee"
+ },
+ {
+  "id": "create-new-tax-or-license-fee",
+  "level": 5,
+  "title": "Create new tax or license fee"
+ },
+ {
+  "id": "amend-general-corporation-law",
+  "level": 5,
+  "title": "Amend general corporation law"
+ },
+ {
+  "id": "amend-municipal-charter-directly",
+  "level": 5,
+  "title": "Amend municipal charter directly"
+ },
+ {
+  "id": "amend-municipal-charter-indirectly",
+  "level": 5,
+  "title": "Amend municipal charter indirectly"
+ },
+ {
+  "id": "amend-delaware-constitution",
+  "level": 5,
+  "title": "Amend Delaware Constitution"
+ },
+ {
+  "id": "appendix-a-17-1-frequently-used-boilerplate-language-for-pro",
+  "level": 3,
+  "title": "Appendix A-17.1: Frequently Used Boilerplate Language for Provisions Common to Updating or Creating a Board, Commission, Council, or Similar Entity. 251"
+ },
+ {
+  "id": "appointments-with-input-from-non-governmental-entities",
+  "level": 5,
+  "title": "APPOINTMENTS WITH INPUT FROM NON-GOVERNMENTAL ENTITIES"
+ },
+ {
+  "id": "compensation-reimbursement",
+  "level": 5,
+  "title": "COMPENSATION/REIMBURSEMENT"
+ },
+ {
+  "id": "council-makeup",
+  "level": 5,
+  "title": "COUNCIL MAKEUP"
+ },
+ {
+  "id": "designees",
+  "level": 5,
+  "title": "DESIGNEES"
+ },
+ {
+  "id": "geographic-and-other-diversities-as-a-priority",
+  "level": 5,
+  "title": "GEOGRAPHIC AND OTHER DIVERSITIES AS A PRIORITY"
+ },
+ {
+  "id": "party-balance",
+  "level": 5,
+  "title": "PARTY BALANCE"
+ },
+ {
+  "id": "powers",
+  "level": 5,
+  "title": "POWERS"
+ },
+ {
+  "id": "quorum",
+  "level": 5,
+  "title": "QUORUM"
+ },
+ {
+  "id": "removal-from-office",
+  "level": 5,
+  "title": "REMOVAL FROM OFFICE"
+ },
+ {
+  "id": "reports",
+  "level": 5,
+  "title": "REPORTS"
+ },
+ {
+  "id": "selecting-chair",
+  "level": 5,
+  "title": "SELECTING CHAIR"
+ },
+ {
+  "id": "staffing",
+  "level": 5,
+  "title": "STAFFING"
+ },
+ {
+  "id": "statewide-meetings-required",
+  "level": 5,
+  "title": "STATEWIDE MEETINGS REQUIRED"
+ },
+ {
+  "id": "term-limits",
+  "level": 5,
+  "title": "TERM LIMITS"
+ },
+ {
+  "id": "appendix-a-18-background-license-plate-proceeds-benefit-a-co",
+  "level": 3,
+  "title": "Appendix A-18: Background License Plate – Proceeds Benefit a Corporation, County, or Municipality"
+ },
+ {
+  "id": "appendix-a-19-background-license-plate-proceeds-benefit-a-st",
+  "level": 3,
+  "title": "Appendix A-19: Background License Plate – Proceeds Benefit a State Entity or the General Fund"
+ },
+ {
+  "id": "appendix-a-20-organizational-license-plate",
+  "level": 3,
+  "title": "Appendix A-20: Organizational License Plate"
+ },
+ {
+  "id": "appendix-b-standard-form-for-a-resolution-to-establish-a-tas",
+  "level": 3,
+  "title": "Appendix B: Standard Form for a Resolution to Establish a Task Force (or other ad hoc entity)"
+ },
+ {
+  "id": "appendix-c-standard-form-for-a-resolution-extending-the-date",
+  "level": 3,
+  "title": "Appendix C: Standard Form for a Resolution Extending the Date by which the Findings and Recommendations Report of a Task Force is Due (or other ad hoc entity)"
+ },
+ {
+  "id": "appendix-d-important-delaware-cases-for-bill-drafting",
+  "level": 3,
+  "title": "Appendix D: Important Delaware Cases for Bill Drafting"
+ },
+ {
+  "id": "bill-title-requirements",
+  "level": 4,
+  "title": "Bill Title Requirements"
+ },
+ {
+  "id": "binding-one-general-assembly-may-not-bind-another",
+  "level": 4,
+  "title": "Binding; One General Assembly May Not Bind Another"
+ },
+ {
+  "id": "drafting-manual-cited-in-case-law",
+  "level": 4,
+  "title": "Drafting Manual Cited in Case Law"
+ },
+ {
+  "id": "enactment-clauses-constitutional-super-majority-vote-require",
+  "level": 4,
+  "title": "Enactment Clauses & Constitutional Super-majority Vote Requirements"
+ },
+ {
+  "id": "state-agency-as-person",
+  "level": 4,
+  "title": "State Agency as “Person”"
+ },
+ {
+  "id": "state-offices-and-officers",
+  "level": 4,
+  "title": "State Offices and Officers"
+ },
+ {
+  "id": "statutory-interpretation",
+  "level": 4,
+  "title": "Statutory Interpretation"
+ },
+ {
+  "id": "separation-of-powers-limits-on-delegation-of-legislative-pow",
+  "level": 4,
+  "title": "Separation of Powers: Limits on Delegation of Legislative Power"
+ },
+ {
+  "id": "separation-of-powers-limit-on-power-of-the-general-assembly",
+  "level": 4,
+  "title": "Separation of Powers: Limit on Power of the General Assembly"
+ },
+ {
+  "id": "section",
+  "level": 3,
+  "title": "* * * * *"
+ },
+ {
+  "id": "appendix-e-1-check-list-bill-drafting",
+  "level": 3,
+  "title": "Appendix E-1: Check List – Bill Drafting"
+ },
+ {
+  "id": "appendix-e-2-check-list-amendment-drafting",
+  "level": 3,
+  "title": "Appendix E-2: Check List – Amendment Drafting"
+ },
+ {
+  "id": "appendix-e-3-check-list-resolution-drafting",
+  "level": 3,
+  "title": "Appendix E-3: Check List – Resolution Drafting"
+ },
+ {
+  "id": "appendix-f-interpretations-of-statutes-title-1-chapter-3",
+  "level": 3,
+  "title": "Appendix F: Interpretations of Statutes (Title 1, Chapter 3)"
+ },
+ {
+  "id": "appendix-g-super-majority-vote-requirements",
+  "level": 3,
+  "title": "Appendix G: Super-Majority Vote Requirements"
+ },
+ {
+  "id": "three-fifths-3-5-of-all-the-members-elected-to-each-house",
+  "level": 5,
+  "title": "three-fifths (3/5) of all the members elected to each house"
+ },
+ {
+  "id": "two-thirds-2-3-of-all-the-members-elected-to-each-house",
+  "level": 5,
+  "title": "two-thirds (2/3) of all the members elected to each house"
+ },
+ {
+  "id": "two-thirds-2-3-of-all-the-members-elected-to-each-house-cont",
+  "level": 5,
+  "title": "two-thirds (2/3) of all the members elected to each house (cont’d)"
+ },
+ {
+  "id": "three-fourths-3-4-of-all-the-members-elected-to-each-house",
+  "level": 5,
+  "title": "three-fourths (3/4) of all the members elected to each house"
+ },
+ {
+  "id": "required-super-majority-votes",
+  "level": 5,
+  "title": "Required Super-Majority Votes"
+ },
+ {
+  "id": "appendix-h-glossary-of-legislative-terms",
+  "level": 3,
+  "title": "Appendix H: Glossary of Legislative Terms"
+ },
+ {
+  "id": "appendix-i-memorandum-and-model-language-for-drafting-health",
+  "level": 3,
+  "title": "Appendix I: Memorandum and Model Language for Drafting Health Insurance Laws"
+ },
+ {
+  "id": "index",
+  "level": 2,
+  "title": "INDEX"
+ },
+ {
+  "id": "appointments",
+  "level": 5,
+  "title": "appointments"
+ },
+ {
+  "id": "contingent-effective-dates-reasons-to",
+  "level": 5,
+  "title": "contingent effective dates, reasons to"
+ },
+ {
+  "id": "shall-not-do-not-use-95",
+  "level": 5,
+  "title": "shall not, do not use, 95"
+ }
+]

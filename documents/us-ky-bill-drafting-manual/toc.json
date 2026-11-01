@@ -1,0 +1,2027 @@
+[
+ {
+  "id": "bill-drafting-manual-kentucky-general-assembly",
+  "level": 2,
+  "title": "Bill Drafting Manual Kentucky General Assembly"
+ },
+ {
+  "id": "informational-bulletin-no-117-revised-november-2023",
+  "level": 2,
+  "title": "Informational Bulletin No. 117 Revised November 2023"
+ },
+ {
+  "id": "bill-drafting-manual",
+  "level": 2,
+  "title": "Bill Drafting Manual"
+ },
+ {
+  "id": "kentucky-general-assembly",
+  "level": 2,
+  "title": "Kentucky General Assembly"
+ },
+ {
+  "id": "informational-bulletin-no-117",
+  "level": 4,
+  "title": "Informational Bulletin No. 117"
+ },
+ {
+  "id": "legislative-research-commission",
+  "level": 4,
+  "title": "Legislative Research Commission"
+ },
+ {
+  "id": "foreword",
+  "level": 2,
+  "title": "Foreword"
+ },
+ {
+  "id": "contents",
+  "level": 2,
+  "title": "Contents"
+ },
+ {
+  "id": "chapter-1",
+  "level": 2,
+  "title": "Chapter 1"
+ },
+ {
+  "id": "preliminary-considerations",
+  "level": 3,
+  "title": "Preliminary Considerations"
+ },
+ {
+  "id": "legislative-drafting-service",
+  "level": 4,
+  "title": "Legislative Drafting Service"
+ },
+ {
+  "id": "overview-preparation-of-proposed-legislation",
+  "level": 4,
+  "title": "Overview—Preparation Of Proposed Legislation"
+ },
+ {
+  "id": "assignment-for-drafting-of-proposed-legislation",
+  "level": 4,
+  "title": "Assignment For Drafting Of Proposed Legislation"
+ },
+ {
+  "id": "confidentiality",
+  "level": 4,
+  "title": "Confidentiality"
+ },
+ {
+  "id": "timeliness",
+  "level": 4,
+  "title": "Timeliness"
+ },
+ {
+  "id": "research-and-reference-lrc-library",
+  "level": 4,
+  "title": "Research And Reference—LRC Library"
+ },
+ {
+  "id": "the-drafter-s-job",
+  "level": 4,
+  "title": "The Drafter’s Job"
+ },
+ {
+  "id": "getting-started-relationship-of-legislator-or-committee-and-",
+  "level": 4,
+  "title": "Getting Started—Relationship Of Legislator Or Committee And Drafter"
+ },
+ {
+  "id": "subsequent-changes-to-the-original-draft",
+  "level": 4,
+  "title": "Subsequent Changes To The Original Draft"
+ },
+ {
+  "id": "chapter-2",
+  "level": 2,
+  "title": "Chapter 2"
+ },
+ {
+  "id": "form-of-bills",
+  "level": 3,
+  "title": "Form Of Bills"
+ },
+ {
+  "id": "title",
+  "level": 4,
+  "title": "Title"
+ },
+ {
+  "id": "constitutional-provisions",
+  "level": 4,
+  "title": "Constitutional Provisions"
+ },
+ {
+  "id": "validity-of-title",
+  "level": 4,
+  "title": "Validity Of Title"
+ },
+ {
+  "id": "title-amendment",
+  "level": 4,
+  "title": "Title Amendment"
+ },
+ {
+  "id": "wording-of-titles",
+  "level": 4,
+  "title": "Wording Of Titles"
+ },
+ {
+  "id": "title-of-bill-amending-or-repealing-krs-sections",
+  "level": 4,
+  "title": "Title Of Bill Amending Or Repealing KRS Sections"
+ },
+ {
+  "id": "title-of-bill-declaring-an-emergency",
+  "level": 4,
+  "title": "Title Of Bill Declaring An Emergency"
+ },
+ {
+  "id": "considerations-for-including-and-making-an-appropriation-the",
+  "level": 4,
+  "title": "Considerations For Including “And Making An Appropriation Therefor” In The Title Of A Bill"
+ },
+ {
+  "id": "examples",
+  "level": 4,
+  "title": "Examples"
+ },
+ {
+  "id": "preamble",
+  "level": 4,
+  "title": "Preamble"
+ },
+ {
+  "id": "preamble-not-to-be-codified",
+  "level": 4,
+  "title": "Preamble Not To Be Codified"
+ },
+ {
+  "id": "enacting-clause",
+  "level": 4,
+  "title": "Enacting Clause"
+ },
+ {
+  "id": "amending-existing-statutes",
+  "level": 4,
+  "title": "Amending Existing Statutes"
+ },
+ {
+  "id": "steps-to-take-before-amending-existing-law",
+  "level": 4,
+  "title": "Steps To Take Before Amending Existing Law"
+ },
+ {
+  "id": "searchable-lrc-databases",
+  "level": 4,
+  "title": "Searchable LRC Databases"
+ },
+ {
+  "id": "section-51-of-the-kentucky-constitution",
+  "level": 4,
+  "title": "Section 51 Of The Kentucky Constitution"
+ },
+ {
+  "id": "conforming-amendments-overview",
+  "level": 4,
+  "title": "Conforming Amendments—Overview"
+ },
+ {
+  "id": "internal-renumbering-of-existing-krs-sections-in-a-bill-draf",
+  "level": 4,
+  "title": "Internal Renumbering Of Existing KRS Sections In A Bill Draft— Conforming Amendments"
+ },
+ {
+  "id": "proposed-repeal-of-krs-section-conforming-amendments",
+  "level": 4,
+  "title": "Proposed Repeal Of KRS Section—Conforming Amendments"
+ },
+ {
+  "id": "interdependent-statutes",
+  "level": 4,
+  "title": "Interdependent Statutes"
+ },
+ {
+  "id": "krs-effective-dates-reference-to-federal-law",
+  "level": 4,
+  "title": "KRS Effective Dates—Reference To Federal Law"
+ },
+ {
+  "id": "format-for-amendments-to-existing-sections",
+  "level": 4,
+  "title": "Format For Amendments To Existing Sections"
+ },
+ {
+  "id": "use-of-underlining-and-bracketing",
+  "level": 4,
+  "title": "Use Of Underlining And Bracketing"
+ },
+ {
+  "id": "creating-new-statutes",
+  "level": 4,
+  "title": "Creating New Statutes"
+ },
+ {
+  "id": "as-used-in-sections-1-to-12-of-this-act-weight-means-net-wei",
+  "level": 4,
+  "title": "As used in Sections 1 to 12 of this Act, “weight” means net weight. If any commodity is sold on the basis of weight, the net weight of the commodity shall be employed, and all"
+ },
+ {
+  "id": "repealing-and-reenacting-existing-statutes",
+  "level": 4,
+  "title": "Repealing And Reenacting Existing Statutes"
+ },
+ {
+  "id": "repeal-and-reenactment-uses",
+  "level": 4,
+  "title": "Repeal And Reenactment Uses"
+ },
+ {
+  "id": "body-of-the-bill",
+  "level": 4,
+  "title": "Body Of The Bill"
+ },
+ {
+  "id": "relation-of-bill-s-provisions-to-the-title",
+  "level": 4,
+  "title": "Relation Of Bill’s Provisions To The Title"
+ },
+ {
+  "id": "sections-of-the-bill",
+  "level": 4,
+  "title": "Sections Of The Bill"
+ },
+ {
+  "id": "minimum-requirements",
+  "level": 4,
+  "title": "Minimum Requirements"
+ },
+ {
+  "id": "organization-and-arrangement",
+  "level": 4,
+  "title": "Organization And Arrangement"
+ },
+ {
+  "id": "bills-creating-a-new-range-of-statutes",
+  "level": 4,
+  "title": "Bills Creating A New Range Of Statutes"
+ },
+ {
+  "id": "bills-containing-krs-sections-from-several-krs-chapters",
+  "level": 4,
+  "title": "Bills Containing KRS Sections From Several KRS Chapters"
+ },
+ {
+  "id": "penalties",
+  "level": 4,
+  "title": "Penalties"
+ },
+ {
+  "id": "clarity-in-creation-of-penalties",
+  "level": 4,
+  "title": "Clarity In Creation Of Penalties"
+ },
+ {
+  "id": "example-from-the-penal-code",
+  "level": 4,
+  "title": "Example From The Penal Code"
+ },
+ {
+  "id": "history",
+  "level": 4,
+  "title": "History"
+ },
+ {
+  "id": "offenses-penal-code",
+  "level": 4,
+  "title": "Offenses—Penal Code"
+ },
+ {
+  "id": "offenses-outside-the-penal-code",
+  "level": 4,
+  "title": "Offenses—Outside The Penal Code"
+ },
+ {
+  "id": "fines-and-imprisonment",
+  "level": 4,
+  "title": "Fines And Imprisonment"
+ },
+ {
+  "id": "additional-monetary-penalties",
+  "level": 4,
+  "title": "Additional Monetary Penalties"
+ },
+ {
+  "id": "nonmonetary-penalties",
+  "level": 4,
+  "title": "Nonmonetary Penalties"
+ },
+ {
+  "id": "prohibited-penalties",
+  "level": 4,
+  "title": "Prohibited Penalties"
+ },
+ {
+  "id": "effectiveness-of-chosen-penalties",
+  "level": 4,
+  "title": "Effectiveness Of Chosen Penalties"
+ },
+ {
+  "id": "costs-of-imposition-of-penalties",
+  "level": 4,
+  "title": "Costs Of Imposition Of Penalties"
+ },
+ {
+  "id": "conclusion",
+  "level": 4,
+  "title": "Conclusion"
+ },
+ {
+  "id": "statute-repeal-clauses",
+  "level": 4,
+  "title": "Statute Repeal Clauses"
+ },
+ {
+  "id": "catchlines-and-importance-of-using-the-word-repealed",
+  "level": 4,
+  "title": "Catchlines And Importance Of Using The Word “Repealed”"
+ },
+ {
+  "id": "repealing-legislation-enacted-during-an-ongoing-session",
+  "level": 4,
+  "title": "Repealing Legislation Enacted During An Ongoing Session"
+ },
+ {
+  "id": "effective-date-of-repeals",
+  "level": 4,
+  "title": "Effective Date Of Repeals"
+ },
+ {
+  "id": "conformity-check",
+  "level": 4,
+  "title": "Conformity Check"
+ },
+ {
+  "id": "implied-repeals",
+  "level": 4,
+  "title": "Implied Repeals"
+ },
+ {
+  "id": "emergency-clause-or-delayed-effective-date",
+  "level": 4,
+  "title": "Emergency Clause Or Delayed Effective Date"
+ },
+ {
+  "id": "emergency-clause",
+  "level": 4,
+  "title": "Emergency Clause"
+ },
+ {
+  "id": "delayed-effective-date-to-correspond-to-fiscal-or-calendar-y",
+  "level": 4,
+  "title": "Delayed Effective Date To Correspond To Fiscal Or Calendar Year"
+ },
+ {
+  "id": "general-guidance-on-statutory-construction",
+  "level": 4,
+  "title": "General Guidance On Statutory Construction"
+ },
+ {
+  "id": "use-of-bill-drafts-from-previous-sessions",
+  "level": 4,
+  "title": "Use Of Bill Drafts From Previous Sessions"
+ },
+ {
+  "id": "use-of-bill-drafts-from-other-jurisdictions",
+  "level": 4,
+  "title": "Use Of Bill Drafts From Other Jurisdictions"
+ },
+ {
+  "id": "chapter-3",
+  "level": 2,
+  "title": "Chapter 3"
+ },
+ {
+  "id": "principles-of-drafting",
+  "level": 3,
+  "title": "Principles Of Drafting"
+ },
+ {
+  "id": "introduction-style-and-language",
+  "level": 4,
+  "title": "Introduction—Style And Language"
+ },
+ {
+  "id": "use-of-shall-and-may",
+  "level": 4,
+  "title": "Use Of “Shall” And “May”"
+ },
+ {
+  "id": "tense-and-voice",
+  "level": 4,
+  "title": "Tense And Voice"
+ },
+ {
+  "id": "choice-of-words-and-phrases",
+  "level": 4,
+  "title": "Choice Of Words And Phrases"
+ },
+ {
+  "id": "phrases-to-avoid",
+  "level": 4,
+  "title": "Phrases To Avoid"
+ },
+ {
+  "id": "expressions-of-limitation",
+  "level": 4,
+  "title": "Expressions Of Limitation"
+ },
+ {
+  "id": "provided-that",
+  "level": 4,
+  "title": "“Provided That”"
+ },
+ {
+  "id": "gender-neutral-language",
+  "level": 4,
+  "title": "Gender-Neutral Language"
+ },
+ {
+  "id": "punctuation",
+  "level": 4,
+  "title": "Punctuation"
+ },
+ {
+  "id": "spelling",
+  "level": 4,
+  "title": "Spelling"
+ },
+ {
+  "id": "capitalization",
+  "level": 4,
+  "title": "Capitalization"
+ },
+ {
+  "id": "numbers",
+  "level": 4,
+  "title": "Numbers"
+ },
+ {
+  "id": "references-to-time-and-dates",
+  "level": 4,
+  "title": "References to Time and Dates"
+ },
+ {
+  "id": "monetary-amounts",
+  "level": 4,
+  "title": "Monetary Amounts"
+ },
+ {
+  "id": "abbreviations",
+  "level": 4,
+  "title": "Abbreviations"
+ },
+ {
+  "id": "definitions",
+  "level": 4,
+  "title": "Definitions"
+ },
+ {
+  "id": "statutory-definitions",
+  "level": 4,
+  "title": "Statutory Definitions"
+ },
+ {
+  "id": "use-of-the-singular-extends-to-the-plural",
+  "level": 4,
+  "title": "Use Of The Singular Extends To The Plural"
+ },
+ {
+  "id": "citations",
+  "level": 4,
+  "title": "Citations"
+ },
+ {
+  "id": "references-to-kentucky-law",
+  "level": 4,
+  "title": "References To Kentucky Law"
+ },
+ {
+  "id": "citing-federal-statutes-and-regulations",
+  "level": 4,
+  "title": "Citing Federal Statutes And Regulations"
+ },
+ {
+  "id": "session-laws",
+  "level": 4,
+  "title": "Session Laws"
+ },
+ {
+  "id": "divisions-within-a-bill",
+  "level": 4,
+  "title": "Divisions Within A Bill"
+ },
+ {
+  "id": "section-breakdown",
+  "level": 4,
+  "title": "Section Breakdown"
+ },
+ {
+  "id": "purpose-clause-or-policy-declaration",
+  "level": 4,
+  "title": "Purpose Clause Or Policy Declaration"
+ },
+ {
+  "id": "severability-clause",
+  "level": 4,
+  "title": "Severability Clause"
+ },
+ {
+  "id": "short-title",
+  "level": 4,
+  "title": "Short Title"
+ },
+ {
+  "id": "consistency-and-parallelism",
+  "level": 4,
+  "title": "Consistency And Parallelism"
+ },
+ {
+  "id": "internal-references-within-a-bill",
+  "level": 4,
+  "title": "Internal References Within A Bill"
+ },
+ {
+  "id": "catchlines",
+  "level": 4,
+  "title": "Catchlines"
+ },
+ {
+  "id": "conformity-checks",
+  "level": 4,
+  "title": "Conformity Checks"
+ },
+ {
+  "id": "conflicts",
+  "level": 4,
+  "title": "Conflicts"
+ },
+ {
+  "id": "examples-no-conflict",
+  "level": 4,
+  "title": "Examples—No Conflict"
+ },
+ {
+  "id": "examples-conflict",
+  "level": 4,
+  "title": "Examples—Conflict"
+ },
+ {
+  "id": "the-role-of-the-staff-concerning-conflicts",
+  "level": 4,
+  "title": "The Role Of The Staff Concerning Conflicts"
+ },
+ {
+  "id": "chapter-4",
+  "level": 2,
+  "title": "Chapter 4"
+ },
+ {
+  "id": "special-types-of-legislative-drafting",
+  "level": 3,
+  "title": "Special Types Of Legislative Drafting"
+ },
+ {
+  "id": "constitutional-amendments",
+  "level": 4,
+  "title": "Constitutional Amendments"
+ },
+ {
+  "id": "classification-of-cities",
+  "level": 4,
+  "title": "Classification Of Cities"
+ },
+ {
+  "id": "judicial-legislation",
+  "level": 4,
+  "title": "Judicial Legislation"
+ },
+ {
+  "id": "creating-agencies-boards-or-commissions",
+  "level": 4,
+  "title": "Creating Agencies, Boards, Or Commissions"
+ },
+ {
+  "id": "examples-2",
+  "level": 4,
+  "title": "Examples"
+ },
+ {
+  "id": "points-to-remember",
+  "level": 4,
+  "title": "Points To Remember"
+ },
+ {
+  "id": "authority-to-promulgate-administrative-regulations",
+  "level": 4,
+  "title": "Authority To Promulgate Administrative Regulations"
+ },
+ {
+  "id": "the-commissioner-may-promulgate-administrative-regulations-i",
+  "level": 4,
+  "title": "The commissioner may promulgate administrative regulations in accordance with KRS"
+ },
+ {
+  "id": "the-department-may-establish-license-fees-by-the-promulgatio",
+  "level": 4,
+  "title": "The department may establish license fees by the promulgation of administrative"
+ },
+ {
+  "id": "the-cabinet-shall-promulgate-administrative-regulations-in-a",
+  "level": 4,
+  "title": "The cabinet shall promulgate administrative regulations in accordance with KRS"
+ },
+ {
+  "id": "bills-that-reorganize-the-executive-branch",
+  "level": 4,
+  "title": "Bills That Reorganize The Executive Branch"
+ },
+ {
+  "id": "krs-12-020",
+  "level": 4,
+  "title": "KRS 12.020"
+ },
+ {
+  "id": "search-for-affected-statutes",
+  "level": 4,
+  "title": "Search For Affected Statutes"
+ },
+ {
+  "id": "what-needs-to-be-codified",
+  "level": 4,
+  "title": "What Needs To Be Codified?"
+ },
+ {
+  "id": "noncodified-provisions",
+  "level": 4,
+  "title": "Noncodified Provisions"
+ },
+ {
+  "id": "appropriations",
+  "level": 4,
+  "title": "Appropriations"
+ },
+ {
+  "id": "budget-bills",
+  "level": 4,
+  "title": "Budget Bills"
+ },
+ {
+  "id": "appropriations-in-other-bills",
+  "level": 4,
+  "title": "Appropriations In Other Bills"
+ },
+ {
+  "id": "votes-needed-for-enactment",
+  "level": 4,
+  "title": "Votes Needed For Enactment"
+ },
+ {
+  "id": "title-2",
+  "level": 4,
+  "title": "Title"
+ },
+ {
+  "id": "what-is-an-appropriation",
+  "level": 4,
+  "title": "What Is An Appropriation?"
+ },
+ {
+  "id": "creating-or-changing-a-source-of-revenue",
+  "level": 4,
+  "title": "Creating Or Changing A Source Of Revenue"
+ },
+ {
+  "id": "tax-imposed-by-section-2-of-this-act-state-appropriations-gi",
+  "level": 4,
+  "title": "tax imposed by Section 2 of this Act, state appropriations, gifts, grants, and federal"
+ },
+ {
+  "id": "for-bill-drafters-employed-by-the-legislative-research-commi",
+  "level": 4,
+  "title": "for bill drafters employed by the Legislative Research Commission and for no other"
+ },
+ {
+  "id": "administrative-hearings",
+  "level": 4,
+  "title": "Administrative Hearings"
+ },
+ {
+  "id": "krs-chapter-13b",
+  "level": 4,
+  "title": "KRS Chapter 13B"
+ },
+ {
+  "id": "drafting-bills-relating-to-administrative-hearings",
+  "level": 4,
+  "title": "Drafting Bills Relating To Administrative Hearings"
+ },
+ {
+  "id": "chapter-5",
+  "level": 2,
+  "title": "Chapter 5"
+ },
+ {
+  "id": "form-of-resolutions",
+  "level": 3,
+  "title": "Form Of Resolutions"
+ },
+ {
+  "id": "contents-of-a-resolution",
+  "level": 4,
+  "title": "Contents Of A Resolution"
+ },
+ {
+  "id": "simple-resolutions",
+  "level": 4,
+  "title": "Simple Resolutions"
+ },
+ {
+  "id": "example",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "be-it-resolved-by-the-house-of-representatives-of-the-genera",
+  "level": 4,
+  "title": "Be it resolved by the House of Representatives of the General Assembly of the Commonwealth of Kentucky:"
+ },
+ {
+  "id": "concurrent-resolutions",
+  "level": 4,
+  "title": "Concurrent Resolutions"
+ },
+ {
+  "id": "example-2",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "be-it-resolved-by-the-house-of-representatives-of-the-genera-2",
+  "level": 4,
+  "title": "Be it resolved by the House of Representatives of the General Assembly of the Commonwealth of Kentucky, the Senate concurring therein:"
+ },
+ {
+  "id": "joint-resolutions",
+  "level": 4,
+  "title": "Joint Resolutions"
+ },
+ {
+  "id": "example-3",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "be-it-resolved-by-the-general-assembly-of-the-commonwealth-o",
+  "level": 4,
+  "title": "Be it resolved by the General Assembly of the Commonwealth of Kentucky:"
+ },
+ {
+  "id": "special-types-of-resolutions",
+  "level": 4,
+  "title": "Special Types Of Resolutions"
+ },
+ {
+  "id": "petitions",
+  "level": 4,
+  "title": "Petitions"
+ },
+ {
+  "id": "directives-to-state-agencies",
+  "level": 4,
+  "title": "Directives To State Agencies"
+ },
+ {
+  "id": "confirmation-of-appointments",
+  "level": 4,
+  "title": "Confirmation Of Appointments"
+ },
+ {
+  "id": "example-4",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "be-it-resolved-by-the-senate-of-the-general-assembly-of-the-",
+  "level": 4,
+  "title": "Be it resolved by the Senate of the General Assembly of the Commonwealth of Kentucky:"
+ },
+ {
+  "id": "study-resolutions",
+  "level": 4,
+  "title": "Study Resolutions"
+ },
+ {
+  "id": "forms-of-study-task-force-resolutions",
+  "level": 4,
+  "title": "Forms Of Study/Task Force Resolutions"
+ },
+ {
+  "id": "studies-involving-other-committees",
+  "level": 4,
+  "title": "Studies Involving Other Committees"
+ },
+ {
+  "id": "title-3",
+  "level": 4,
+  "title": "Title"
+ },
+ {
+  "id": "examples-3",
+  "level": 4,
+  "title": "Examples"
+ },
+ {
+  "id": "preamble-2",
+  "level": 4,
+  "title": "Preamble"
+ },
+ {
+  "id": "resolving-clause",
+  "level": 4,
+  "title": "Resolving Clause"
+ },
+ {
+  "id": "body",
+  "level": 4,
+  "title": "Body"
+ },
+ {
+  "id": "membership-of-legislative-task-forces-special-committees",
+  "level": 4,
+  "title": "Membership Of Legislative Task Forces/Special Committees"
+ },
+ {
+  "id": "membership-of-executive-or-judicial-branch-task-forces",
+  "level": 4,
+  "title": "Membership Of Executive Or Judicial Branch Task Forces"
+ },
+ {
+  "id": "study-expenses",
+  "level": 4,
+  "title": "Study Expenses"
+ },
+ {
+  "id": "frequency-of-meetings",
+  "level": 4,
+  "title": "Frequency Of Meetings"
+ },
+ {
+  "id": "force-of-law",
+  "level": 4,
+  "title": "Force Of Law"
+ },
+ {
+  "id": "consultants",
+  "level": 4,
+  "title": "Consultants"
+ },
+ {
+  "id": "specification-of-study-questions-and-deadlines",
+  "level": 4,
+  "title": "Specification Of Study Questions And Deadlines"
+ },
+ {
+  "id": "recommendations-or-not",
+  "level": 4,
+  "title": "Recommendations Or Not?"
+ },
+ {
+  "id": "staff-studies",
+  "level": 4,
+  "title": "Staff Studies"
+ },
+ {
+  "id": "legislator-studies",
+  "level": 4,
+  "title": "Legislator Studies"
+ },
+ {
+  "id": "report-study-deadlines",
+  "level": 4,
+  "title": "Report/Study Deadlines"
+ },
+ {
+  "id": "language-required-in-all-study-resolutions",
+  "level": 4,
+  "title": "Language Required In All Study Resolutions"
+ },
+ {
+  "id": "directing-studies-in-bills-including-via-amendments",
+  "level": 4,
+  "title": "Directing Studies In Bills, Including Via Amendments"
+ },
+ {
+  "id": "example-5",
+  "level": 4,
+  "title": "Example"
+ },
+ {
+  "id": "indexing-study-resolutions-for-the-legislative-record",
+  "level": 4,
+  "title": "Indexing Study Resolutions For The Legislative Record"
+ },
+ {
+  "id": "legislative-citations",
+  "level": 4,
+  "title": "Legislative Citations"
+ },
+ {
+  "id": "chapter-6",
+  "level": 2,
+  "title": "Chapter 6"
+ },
+ {
+  "id": "constitutional-considerations",
+  "level": 3,
+  "title": "Constitutional Considerations"
+ },
+ {
+  "id": "rights-of-individuals",
+  "level": 4,
+  "title": "Rights Of Individuals"
+ },
+ {
+  "id": "special-and-local-legislation",
+  "level": 4,
+  "title": "Special And Local Legislation"
+ },
+ {
+  "id": "revenue-appropriations-and-debt",
+  "level": 4,
+  "title": "Revenue, Appropriations, And Debt"
+ },
+ {
+  "id": "public-officers",
+  "level": 4,
+  "title": "Public Officers"
+ },
+ {
+  "id": "other-limitations",
+  "level": 4,
+  "title": "Other Limitations"
+ },
+ {
+  "id": "chapter-7",
+  "level": 2,
+  "title": "Chapter 7"
+ },
+ {
+  "id": "amendments-and-substitutes",
+  "level": 3,
+  "title": "Amendments And Substitutes"
+ },
+ {
+  "id": "the-amendment-form",
+  "level": 4,
+  "title": "The Amendment Form"
+ },
+ {
+  "id": "the-heading-on-the-amendment-form",
+  "level": 4,
+  "title": "The Heading On The Amendment Form"
+ },
+ {
+  "id": "processing-the-amendment-form",
+  "level": 4,
+  "title": "Processing The Amendment Form"
+ },
+ {
+  "id": "methods-of-amending",
+  "level": 4,
+  "title": "Methods Of Amending"
+ },
+ {
+  "id": "changing-a-current-krs-section-as-amended-by-the-bill",
+  "level": 4,
+  "title": "Changing A Current KRS Section, As Amended By The Bill"
+ },
+ {
+  "id": "changing-proposed-new-krs-sections-or-noncodified-sections-i",
+  "level": 4,
+  "title": "Changing Proposed New KRS Sections Or Noncodified Sections In A Bill"
+ },
+ {
+  "id": "bill-title",
+  "level": 4,
+  "title": "Bill Title"
+ },
+ {
+  "id": "committee-substitutes",
+  "level": 4,
+  "title": "Committee Substitutes"
+ },
+ {
+  "id": "piggyback-amendments",
+  "level": 4,
+  "title": "Piggyback Amendments"
+ },
+ {
+  "id": "creating-amendments-and-amendment-summaries-the-highlights",
+  "level": 4,
+  "title": "Creating Amendments And Amendment Summaries: The Highlights"
+ },
+ {
+  "id": "types-of-amendments",
+  "level": 4,
+  "title": "Types Of Amendments"
+ },
+ {
+  "id": "think-first-then-draft",
+  "level": 4,
+  "title": "Think First, Then Draft"
+ },
+ {
+  "id": "amendment-drafting",
+  "level": 4,
+  "title": "Amendment Drafting"
+ },
+ {
+  "id": "the-amendment-review",
+  "level": 4,
+  "title": "The Amendment Review"
+ },
+ {
+  "id": "the-amendment-summary",
+  "level": 4,
+  "title": "The Amendment Summary"
+ },
+ {
+  "id": "chapter-8",
+  "level": 2,
+  "title": "Chapter 8"
+ },
+ {
+  "id": "preparing-summaries-for-the-legislative-record",
+  "level": 3,
+  "title": "Preparing Summaries For The Legislative Record"
+ },
+ {
+  "id": "bills-and-resolutions",
+  "level": 4,
+  "title": "Bills And Resolutions"
+ },
+ {
+  "id": "mechanics-of-preparation-of-summaries",
+  "level": 4,
+  "title": "Mechanics Of Preparation Of Summaries"
+ },
+ {
+  "id": "preparing-a-bill-summary",
+  "level": 4,
+  "title": "Preparing A Bill Summary"
+ },
+ {
+  "id": "format-and-word-usage-for-a-bill-summary",
+  "level": 4,
+  "title": "Format And Word Usage For A Bill Summary"
+ },
+ {
+  "id": "summarizing-amendments-to-existing-sections",
+  "level": 4,
+  "title": "Summarizing Amendments To Existing Sections"
+ },
+ {
+  "id": "summarizing-repealers",
+  "level": 4,
+  "title": "Summarizing Repealers"
+ },
+ {
+  "id": "summarizing-constitutional-amendments",
+  "level": 4,
+  "title": "Summarizing Constitutional Amendments"
+ },
+ {
+  "id": "summarizing-resolutions",
+  "level": 4,
+  "title": "Summarizing Resolutions"
+ },
+ {
+  "id": "summarizing-companion-or-same-as-bills",
+  "level": 4,
+  "title": "Summarizing Companion or “Same As” Bills"
+ },
+ {
+  "id": "indexing-bill-summaries",
+  "level": 4,
+  "title": "Indexing Bill Summaries"
+ },
+ {
+  "id": "amendments",
+  "level": 4,
+  "title": "Amendments"
+ },
+ {
+  "id": "the-amendment-summary-form",
+  "level": 4,
+  "title": "The Amendment Summary Form"
+ },
+ {
+  "id": "relationship-to-original-bill-summary",
+  "level": 4,
+  "title": "Relationship To Original Bill Summary"
+ },
+ {
+  "id": "summarizing-piggyback-amendments",
+  "level": 4,
+  "title": "Summarizing Piggyback Amendments"
+ },
+ {
+  "id": "summarizing-title-amendments",
+  "level": 4,
+  "title": "Summarizing Title Amendments"
+ },
+ {
+  "id": "summarizing-technical-corrections",
+  "level": 4,
+  "title": "Summarizing Technical Corrections"
+ },
+ {
+  "id": "summarizing-committee-substitutes",
+  "level": 4,
+  "title": "Summarizing Committee Substitutes"
+ },
+ {
+  "id": "summarizing-emergency-and-special-effective-date-amendments",
+  "level": 4,
+  "title": "Summarizing Emergency And Special Effective Date Amendments"
+ },
+ {
+  "id": "summarizing-same-as-amendments",
+  "level": 4,
+  "title": "Summarizing “Same As” Amendments"
+ },
+ {
+  "id": "indexing-amendment-summaries",
+  "level": 4,
+  "title": "Indexing Amendment Summaries"
+ },
+ {
+  "id": "chapter-9",
+  "level": 2,
+  "title": "Chapter 9"
+ },
+ {
+  "id": "production-of-bills",
+  "level": 3,
+  "title": "Production Of Bills"
+ },
+ {
+  "id": "form-of-bills-2",
+  "level": 4,
+  "title": "Form Of Bills"
+ },
+ {
+  "id": "entry-of-bills-into-lrc-s-computerized-bill-preparation-syst",
+  "level": 4,
+  "title": "Entry Of Bills Into LRC’s Computerized Bill Preparation System"
+ },
+ {
+  "id": "bills-requiring-a-r-or-budget-staff-review",
+  "level": 4,
+  "title": "Bills Requiring A&R Or Budget Staff Review"
+ },
+ {
+  "id": "review-and-processing-of-bills",
+  "level": 4,
+  "title": "Review And Processing Of Bills"
+ },
+ {
+  "id": "careful-proofing-of-bills",
+  "level": 4,
+  "title": "Careful Proofing Of Bills"
+ },
+ {
+  "id": "appendix-a",
+  "level": 2,
+  "title": "Appendix A"
+ },
+ {
+  "id": "final-checklist-for-drafters",
+  "level": 3,
+  "title": "Final Checklist For Drafters"
+ },
+ {
+  "id": "appendix-b",
+  "level": 2,
+  "title": "Appendix B"
+ },
+ {
+  "id": "sample-bill-formats",
+  "level": 3,
+  "title": "Sample Bill Formats"
+ },
+ {
+  "id": "example-1",
+  "level": 4,
+  "title": "Example 1"
+ },
+ {
+  "id": "be-it-enacted-by-the-general-assembly-of-the-commonwealth-of",
+  "level": 4,
+  "title": "Be it enacted by the General Assembly of the Commonwealth of Kentucky:"
+ },
+ {
+  "id": "a-text",
+  "level": 4,
+  "title": "a. Text"
+ },
+ {
+  "id": "b-text",
+  "level": 4,
+  "title": "b. Text"
+ },
+ {
+  "id": "text",
+  "level": 4,
+  "title": "Text"
+ },
+ {
+  "id": "notes",
+  "level": 4,
+  "title": "Notes"
+ },
+ {
+  "id": "example-2-2",
+  "level": 4,
+  "title": "Example 2"
+ },
+ {
+  "id": "enacting-be-it-enacted-by-the-general-assembly-of-the-common",
+  "level": 4,
+  "title": "Enacting Be it enacted by the General Assembly of the Commonwealth of Kentucky: Clause"
+ },
+ {
+  "id": "as-used-in-sections-1-to-4-of-this-act-unless-the-context-re",
+  "level": 4,
+  "title": "As used in Sections 1 to 4 of this Act, unless the context requires otherwise:"
+ },
+ {
+  "id": "to-conform",
+  "level": 4,
+  "title": "To Conform"
+ },
+ {
+  "id": "construction-clauses",
+  "level": 4,
+  "title": "Construction Clauses"
+ },
+ {
+  "id": "appendix-c",
+  "level": 2,
+  "title": "Appendix C"
+ },
+ {
+  "id": "list-of-preferred-spellings-and-usages",
+  "level": 3,
+  "title": "List Of Preferred Spellings And Usages"
+ },
+ {
+  "id": "numerical-expressions-monetary-amounts",
+  "level": 4,
+  "title": "Numerical Expressions—Monetary Amounts"
+ },
+ {
+  "id": "numerical-expressions-percentages",
+  "level": 4,
+  "title": "Numerical Expressions—Percentages"
+ },
+ {
+  "id": "numerical-expressions-time",
+  "level": 4,
+  "title": "Numerical Expressions—Time"
+ },
+ {
+  "id": "numerical-expressions-date",
+  "level": 4,
+  "title": "Numerical Expressions—Date"
+ },
+ {
+  "id": "appendix-d",
+  "level": 2,
+  "title": "Appendix D"
+ },
+ {
+  "id": "examples-of-use-of-capitalization",
+  "level": 3,
+  "title": "Examples Of Use Of Capitalization"
+ },
+ {
+  "id": "a",
+  "level": 4,
+  "title": "-A-"
+ },
+ {
+  "id": "b",
+  "level": 4,
+  "title": "-B-"
+ },
+ {
+  "id": "c",
+  "level": 4,
+  "title": "-C-"
+ },
+ {
+  "id": "d",
+  "level": 4,
+  "title": "-D-"
+ },
+ {
+  "id": "e",
+  "level": 4,
+  "title": "-E-"
+ },
+ {
+  "id": "f",
+  "level": 4,
+  "title": "-F-"
+ },
+ {
+  "id": "g",
+  "level": 4,
+  "title": "-G-"
+ },
+ {
+  "id": "h",
+  "level": 4,
+  "title": "-H-"
+ },
+ {
+  "id": "i",
+  "level": 4,
+  "title": "-I-"
+ },
+ {
+  "id": "j",
+  "level": 4,
+  "title": "-J-"
+ },
+ {
+  "id": "k",
+  "level": 4,
+  "title": "-K-"
+ },
+ {
+  "id": "l",
+  "level": 4,
+  "title": "-L-"
+ },
+ {
+  "id": "m",
+  "level": 4,
+  "title": "-M-"
+ },
+ {
+  "id": "n",
+  "level": 4,
+  "title": "-N-"
+ },
+ {
+  "id": "o",
+  "level": 4,
+  "title": "-O-"
+ },
+ {
+  "id": "p",
+  "level": 4,
+  "title": "-P-"
+ },
+ {
+  "id": "q",
+  "level": 4,
+  "title": "-Q-"
+ },
+ {
+  "id": "r",
+  "level": 4,
+  "title": "-R-"
+ },
+ {
+  "id": "s",
+  "level": 4,
+  "title": "-S-"
+ },
+ {
+  "id": "t",
+  "level": 4,
+  "title": "-T-"
+ },
+ {
+  "id": "u",
+  "level": 4,
+  "title": "-U-"
+ },
+ {
+  "id": "v",
+  "level": 4,
+  "title": "-V-"
+ },
+ {
+  "id": "w",
+  "level": 4,
+  "title": "-W-"
+ },
+ {
+  "id": "x",
+  "level": 4,
+  "title": "-X-"
+ },
+ {
+  "id": "y",
+  "level": 4,
+  "title": "-Y-"
+ },
+ {
+  "id": "z",
+  "level": 4,
+  "title": "-Z-"
+ },
+ {
+  "id": "appendix-e",
+  "level": 2,
+  "title": "Appendix E"
+ },
+ {
+  "id": "bill-drafting-glossary-items",
+  "level": 3,
+  "title": "Bill Drafting Glossary Items"
+ },
+ {
+  "id": "constitutional-create",
+  "level": 4,
+  "title": "Constitutional Create"
+ },
+ {
+  "id": "constitutional-create-as",
+  "level": 4,
+  "title": "Constitutional Create As"
+ },
+ {
+  "id": "constitutional-language",
+  "level": 4,
+  "title": "Constitutional Language"
+ },
+ {
+  "id": "constitutional-repeal",
+  "level": 4,
+  "title": "Constitutional Repeal"
+ },
+ {
+  "id": "kentucky-rules-of-evidence-create",
+  "level": 4,
+  "title": "Kentucky Rules Of Evidence Create"
+ },
+ {
+  "id": "new-kre-range",
+  "level": 4,
+  "title": "New KRE Range"
+ },
+ {
+  "id": "emergency-clause-2",
+  "level": 4,
+  "title": "Emergency Clause"
+ },
+ {
+  "id": "study-boilerplate",
+  "level": 4,
+  "title": "Study Boilerplate"
+ },
+ {
+  "id": "study-language-replacing-the-entire-text-of-a-house-bill",
+  "level": 4,
+  "title": "Study Language Replacing The Entire Text Of A House Bill"
+ },
+ {
+  "id": "study-language-replacing-the-entire-text-of-senate-bill",
+  "level": 4,
+  "title": "Study Language Replacing The Entire Text Of Senate Bill"
+ },
+ {
+  "id": "study-language-being-added-to-the-text-of-senate-bill",
+  "level": 4,
+  "title": "Study Language Being Added To The Text Of Senate Bill"
+ },
+ {
+  "id": "study-language-being-added-to-the-text-of-a-house-bill",
+  "level": 4,
+  "title": "Study Language Being Added To The Text Of A House Bill"
+ },
+ {
+  "id": "whereas",
+  "level": 4,
+  "title": "Whereas"
+ },
+ {
+  "id": "new-krs-range",
+  "level": 4,
+  "title": "New KRS Range"
+ },
+ {
+  "id": "create-chapter-subchapter",
+  "level": 4,
+  "title": "Create Chapter/Subchapter"
+ },
+ {
+  "id": "create-chapter-subtitle",
+  "level": 4,
+  "title": "Create Chapter/Subtitle"
+ },
+ {
+  "id": "create-chapter-article",
+  "level": 4,
+  "title": "Create Chapter/Article"
+ },
+ {
+  "id": "appendix-f",
+  "level": 2,
+  "title": "Appendix F"
+ },
+ {
+  "id": "cross-reference-list-for-index-headings-for-the-legislative-",
+  "level": 3,
+  "title": "Cross-Reference List For Index Headings For The Legislative Record"
+ },
+ {
+  "id": "appendix-g",
+  "level": 2,
+  "title": "Appendix G"
+ },
+ {
+  "id": "sample-memorandum-concerning-potential-constitutional-issue",
+  "level": 3,
+  "title": "Sample Memorandum Concerning Potential Constitutional Issue"
+ },
+ {
+  "id": "appendix-h",
+  "level": 2,
+  "title": "Appendix H"
+ },
+ {
+  "id": "highlights-of-legislative-grammar",
+  "level": 3,
+  "title": "Highlights Of Legislative Grammar"
+ },
+ {
+  "id": "active-vs-passive-voice",
+  "level": 4,
+  "title": "Active Vs. Passive Voice"
+ },
+ {
+  "id": "capitalization-2",
+  "level": 4,
+  "title": "Capitalization"
+ },
+ {
+  "id": "compound-sentences",
+  "level": 4,
+  "title": "Compound Sentences"
+ },
+ {
+  "id": "compound-subjects-and-predicates",
+  "level": 4,
+  "title": "Compound Subjects And Predicates"
+ },
+ {
+  "id": "dangling-and-misplaced-modifiers",
+  "level": 4,
+  "title": "Dangling And Misplaced Modifiers"
+ },
+ {
+  "id": "introductory-elements",
+  "level": 4,
+  "title": "Introductory Elements"
+ },
+ {
+  "id": "numbers-in-parentheses",
+  "level": 4,
+  "title": "Numbers In Parentheses"
+ },
+ {
+  "id": "outline-form",
+  "level": 4,
+  "title": "Outline Form"
+ },
+ {
+  "id": "parallelism",
+  "level": 4,
+  "title": "Parallelism"
+ },
+ {
+  "id": "phrasal-adjectives",
+  "level": 4,
+  "title": "Phrasal Adjectives"
+ },
+ {
+  "id": "phrasal-adjective-hyphenation-exceptions",
+  "level": 4,
+  "title": "Phrasal Adjective Hyphenation Exceptions"
+ },
+ {
+  "id": "punctuation-2",
+  "level": 4,
+  "title": "Punctuation"
+ },
+ {
+  "id": "comma-use-in-dates",
+  "level": 4,
+  "title": "Comma Use In Dates"
+ },
+ {
+  "id": "perils-of-poor-punctuation",
+  "level": 4,
+  "title": "Perils Of Poor Punctuation"
+ },
+ {
+  "id": "punctuating-essential-and-nonessential-clauses",
+  "level": 4,
+  "title": "Punctuating Essential And Nonessential Clauses"
+ },
+ {
+  "id": "punctuation-and-quotation-marks",
+  "level": 4,
+  "title": "Punctuation And Quotation Marks"
+ },
+ {
+  "id": "shall-may-should-and-must",
+  "level": 4,
+  "title": "Shall, May, Should, And Must"
+ },
+ {
+  "id": "shall-may",
+  "level": 4,
+  "title": "Shall/May"
+ },
+ {
+  "id": "should-must",
+  "level": 4,
+  "title": "Should/Must"
+ },
+ {
+  "id": "similar-words",
+  "level": 4,
+  "title": "Similar Words"
+ },
+ {
+  "id": "affect-effect",
+  "level": 4,
+  "title": "Affect/Effect"
+ },
+ {
+  "id": "assure-ensure-insure",
+  "level": 4,
+  "title": "Assure/Ensure/Insure"
+ },
+ {
+  "id": "comprise-compose",
+  "level": 4,
+  "title": "Comprise/Compose"
+ },
+ {
+  "id": "therefore-therefor",
+  "level": 4,
+  "title": "Therefore/Therefor"
+ },
+ {
+  "id": "subject-verb-agreement",
+  "level": 4,
+  "title": "Subject-Verb Agreement"
+ },
+ {
+  "id": "what-to-call-parts-of-a-bill-section",
+  "level": 4,
+  "title": "What To Call Parts Of A Bill Section"
+ },
+ {
+  "id": "words-and-prefixes-to-use-and-avoid",
+  "level": 4,
+  "title": "Words And Prefixes To Use And Avoid"
+ },
+ {
+  "id": "herein",
+  "level": 4,
+  "title": "Herein"
+ },
+ {
+  "id": "this-act",
+  "level": 4,
+  "title": "This Act"
+ },
+ {
+  "id": "appendix-i",
+  "level": 2,
+  "title": "Appendix I"
+ },
+ {
+  "id": "sample-amendment-language",
+  "level": 3,
+  "title": "Sample Amendment Language"
+ },
+ {
+  "id": "language-by-deleting-and-inserting-insert-a-new-section-in-t",
+  "level": 4,
+  "title": "language by deleting and inserting. Insert a new section in the middle of the bill and"
+ },
+ {
+  "id": "the-fiscal-court-the-state-local-finance-officer-shall-forwa",
+  "level": 4,
+  "title": "the fiscal court. The state local finance officer shall forward a copy of each county budget received to the Auditor of Public Accounts.”; and"
+ },
+ {
+  "id": "2-the-fiscal-court-may-transfer-money-from-one-1-budget-fund",
+  "level": 4,
+  "title": "“(2) The fiscal court may transfer money from one (1) budget fund to another to provide for emergencies or increases or decreases in county employment in accordance with"
+ },
+ {
+  "id": "restoring-bracketed-and-struck-through-language-and-replacin",
+  "level": 4,
+  "title": "restoring bracketed and struck-through language, and replacing a sentence of new"
+ },
+ {
+  "id": "applicable-renumbering-the-subsequent-section-s-accordingly-",
+  "level": 4,
+  "title": "applicable, renumbering the subsequent section(s) accordingly. Remember to check for"
+ },
+ {
+  "id": "appendix-j",
+  "level": 2,
+  "title": "Appendix J"
+ },
+ {
+  "id": "rules-of-codification",
+  "level": 3,
+  "title": "Rules Of Codification"
+ },
+ {
+  "id": "appendix-k",
+  "level": 2,
+  "title": "Appendix K"
+ },
+ {
+  "id": "a-drafter-s-detailed-review-of-bill-and-resolution-drafts-wh",
+  "level": 3,
+  "title": "A Drafter’s Detailed Review Of Bill And Resolution Drafts: What We’re Looking For In Statute Revision"
+ },
+ {
+  "id": "validation",
+  "level": 4,
+  "title": "Validation"
+ },
+ {
+  "id": "title-4",
+  "level": 4,
+  "title": "Title"
+ },
+ {
+  "id": "enacting-or-resolving-clause",
+  "level": 4,
+  "title": "Enacting Or Resolving Clause"
+ },
+ {
+  "id": "br-number",
+  "level": 4,
+  "title": "BR Number"
+ },
+ {
+  "id": "format",
+  "level": 4,
+  "title": "Format"
+ },
+ {
+  "id": "section-lead-in-language",
+  "level": 4,
+  "title": "Section Lead-In Language"
+ },
+ {
+  "id": "organization-and-clarity",
+  "level": 4,
+  "title": "Organization And Clarity"
+ },
+ {
+  "id": "capitalization-3",
+  "level": 4,
+  "title": "Capitalization"
+ },
+ {
+  "id": "punctuation-3",
+  "level": 4,
+  "title": "Punctuation"
+ },
+ {
+  "id": "numbers-2",
+  "level": 4,
+  "title": "Numbers"
+ },
+ {
+  "id": "spelling-2",
+  "level": 4,
+  "title": "Spelling"
+ },
+ {
+  "id": "word-use",
+  "level": 4,
+  "title": "Word Use"
+ },
+ {
+  "id": "definitions-2",
+  "level": 4,
+  "title": "Definitions"
+ },
+ {
+  "id": "ranges",
+  "level": 4,
+  "title": "Ranges"
+ },
+ {
+  "id": "constitutionality",
+  "level": 4,
+  "title": "Constitutionality"
+ },
+ {
+  "id": "internal-references",
+  "level": 4,
+  "title": "Internal References"
+ },
+ {
+  "id": "gender-neutral-language-2",
+  "level": 4,
+  "title": "Gender-Neutral Language"
+ },
+ {
+  "id": "notifying-others-about-bills-on-particular-subjects",
+  "level": 4,
+  "title": "Notifying Others About Bills On Particular Subjects"
+ },
+ {
+  "id": "appropriations-2",
+  "level": 4,
+  "title": "Appropriations"
+ },
+ {
+  "id": "effective-date",
+  "level": 4,
+  "title": "Effective Date"
+ },
+ {
+  "id": "forms",
+  "level": 4,
+  "title": "Forms"
+ },
+ {
+  "id": "resolutions",
+  "level": 4,
+  "title": "Resolutions"
+ },
+ {
+  "id": "index",
+  "level": 2,
+  "title": "Index"
+ },
+ {
+  "id": "a-2",
+  "level": 4,
+  "title": "-A-"
+ },
+ {
+  "id": "b-2",
+  "level": 4,
+  "title": "-B-"
+ },
+ {
+  "id": "c-2",
+  "level": 4,
+  "title": "-C-"
+ },
+ {
+  "id": "d-2",
+  "level": 4,
+  "title": "-D-"
+ },
+ {
+  "id": "e-2",
+  "level": 4,
+  "title": "-E-"
+ },
+ {
+  "id": "f-2",
+  "level": 4,
+  "title": "-F-"
+ },
+ {
+  "id": "g-2",
+  "level": 4,
+  "title": "-G-"
+ },
+ {
+  "id": "h-2",
+  "level": 4,
+  "title": "-H-"
+ },
+ {
+  "id": "i-2",
+  "level": 4,
+  "title": "-I-"
+ },
+ {
+  "id": "j-2",
+  "level": 4,
+  "title": "-J-"
+ },
+ {
+  "id": "k-2",
+  "level": 4,
+  "title": "-K-"
+ },
+ {
+  "id": "l-2",
+  "level": 4,
+  "title": "-L-"
+ },
+ {
+  "id": "m-2",
+  "level": 4,
+  "title": "-M-"
+ },
+ {
+  "id": "n-2",
+  "level": 4,
+  "title": "-N-"
+ },
+ {
+  "id": "o-2",
+  "level": 4,
+  "title": "-O-"
+ },
+ {
+  "id": "p-2",
+  "level": 4,
+  "title": "-P-"
+ },
+ {
+  "id": "q-2",
+  "level": 4,
+  "title": "-Q-"
+ },
+ {
+  "id": "r-2",
+  "level": 4,
+  "title": "-R-"
+ },
+ {
+  "id": "s-2",
+  "level": 4,
+  "title": "-S-"
+ },
+ {
+  "id": "t-2",
+  "level": 4,
+  "title": "-T-"
+ },
+ {
+  "id": "u-2",
+  "level": 4,
+  "title": "-U-"
+ },
+ {
+  "id": "v-2",
+  "level": 4,
+  "title": "-V-"
+ },
+ {
+  "id": "w-2",
+  "level": 4,
+  "title": "-W-"
+ },
+ {
+  "id": "x-2",
+  "level": 4,
+  "title": "-X-"
+ },
+ {
+  "id": "y-2",
+  "level": 4,
+  "title": "-Y-"
+ },
+ {
+  "id": "z-2",
+  "level": 4,
+  "title": "-Z-"
+ },
+ {
+  "id": "legislative-research-commission-2",
+  "level": 3,
+  "title": "Legislative Research Commission"
+ }
+]

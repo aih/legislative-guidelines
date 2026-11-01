@@ -1,0 +1,4217 @@
+[
+ {
+  "id": "legislative-drafting-manual",
+  "level": 2,
+  "title": "Legislative Drafting Manual"
+ },
+ {
+  "id": "legislative-drafting-manual-2",
+  "level": 2,
+  "title": "Legislative Drafting Manual"
+ },
+ {
+  "id": "legislative-council-service-september-22-2015",
+  "level": 5,
+  "title": "Legislative Council Service September 22, 2015"
+ },
+ {
+  "id": "legislative-drafting-manual-3",
+  "level": 2,
+  "title": "Legislative Drafting Manual"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 5,
+  "title": "TABLE OF CONTENTS"
+ },
+ {
+  "id": "table-of-contents-2",
+  "level": 5,
+  "title": "TABLE OF CONTENTS"
+ },
+ {
+  "id": "table-of-contents-3",
+  "level": 5,
+  "title": "TABLE OF CONTENTS"
+ },
+ {
+  "id": "table-of-contents-4",
+  "level": 5,
+  "title": "TABLE OF CONTENTS"
+ },
+ {
+  "id": "table-of-contents-5",
+  "level": 5,
+  "title": "TABLE OF CONTENTS"
+ },
+ {
+  "id": "appendix-a-provisions-of-common-bills-215",
+  "level": 5,
+  "title": "Appendix A – Provisions of Common Bills ............................................... 215"
+ },
+ {
+  "id": "appendix-b-assignment-of-compilation-numbers-223",
+  "level": 5,
+  "title": "Appendix B – Assignment of Compilation Numbers ............................. 223"
+ },
+ {
+  "id": "appendix-d-the-general-appropriation-act-231",
+  "level": 5,
+  "title": "Appendix D – The General Appropriation Act ........................................ 231"
+ },
+ {
+  "id": "foreword",
+  "level": 3,
+  "title": "FOREWORD"
+ },
+ {
+  "id": "the-legislative-drafting-manual-has-been-written-to-help-leg",
+  "level": 5,
+  "title": "The Legislative Drafting Manual has been written to help legislative employees and others to prepare bills, memorials, resolutions, amendments and other legislative documents in conformance with New Mexico legislative drafting style. The New Mexico drafting style is driven by a simple directive:"
+ },
+ {
+  "id": "a-law-should-be-easily-understood-by-those-who-must-enforce-",
+  "level": 5,
+  "title": "A law should be easily understood by those who must enforce or administer it and by those who must abide by its provisions."
+ },
+ {
+  "id": "chapter-1-bills-drafting",
+  "level": 2,
+  "title": "CHAPTER 1: BILLS — DRAFTING"
+ },
+ {
+  "id": "guidelines-and-bill-preparation",
+  "level": 4,
+  "title": "GUIDELINES AND BILL PREPARATION"
+ },
+ {
+  "id": "legislative-drafting-is-more-art-than-science-it-is-not-poss",
+  "level": 5,
+  "title": "Legislative drafting is more art than science. It is not possible to set forth a succession of steps that, if followed, will produce a good bill draft. Substance, objectives and legislative tactics often dictate the form and style of a bill draft. The drafter may select from among several alternatives the particular approach that will best accomplish the goal of the requester. Like an artist, the drafter must master the tools and materials of the drafter's art, and this is the purpose of a drafting manual."
+ },
+ {
+  "id": "drafting-guidelines",
+  "level": 5,
+  "title": "Drafting Guidelines"
+ },
+ {
+  "id": "every-dog-found-trespassing-on-inclosed-land-unaccompanied-b",
+  "level": 5,
+  "title": "\"Every dog found trespassing on inclosed land unaccompanied by the registered owner of such dog or other person who shall on being asked give his true name and address may then and there be destroyed by such occupier or by his orders.\""
+ },
+ {
+  "id": "use-appropriate-words-and-avoid-the-use-of-jargon-whenever-p",
+  "level": 5,
+  "title": "Use appropriate words and avoid the use of jargon whenever possible. The words of the"
+ },
+ {
+  "id": "write-to-be-understood-by-those-who-are-supposed-to-administ",
+  "level": 5,
+  "title": "Write to be understood by those who are supposed to administer or obey the provisions"
+ },
+ {
+  "id": "beware-of-taking-a-provision-of-law-out-of-context-and-placi",
+  "level": 5,
+  "title": "Beware of taking a provision of law out of context and placing it in a bill draft. The lifted"
+ },
+ {
+  "id": "disregarded-if-a-drafter-needs-to-violate-the-rules-the-draf",
+  "level": 5,
+  "title": "disregarded. If a drafter needs to violate the rules, the drafter should be able to explain"
+ },
+ {
+  "id": "bill-preparation",
+  "level": 5,
+  "title": "Bill Preparation"
+ },
+ {
+  "id": "introduction-of-bills",
+  "level": 5,
+  "title": "Introduction of Bills"
+ },
+ {
+  "id": "prefiling-bills",
+  "level": 5,
+  "title": "Prefiling Bills"
+ },
+ {
+  "id": "printing-of-a-bill",
+  "level": 5,
+  "title": "Printing of a Bill"
+ },
+ {
+  "id": "referral-to-committees",
+  "level": 5,
+  "title": "Referral to Committees"
+ },
+ {
+  "id": "final-passage-of-a-bill",
+  "level": 5,
+  "title": "Final Passage of a Bill"
+ },
+ {
+  "id": "enrolling-engrossing-a-bill",
+  "level": 5,
+  "title": "Enrolling & Engrossing a Bill"
+ },
+ {
+  "id": "action-by-the-governor",
+  "level": 5,
+  "title": "Action by the Governor"
+ },
+ {
+  "id": "assignment-of-session-law-chapter-numbers",
+  "level": 5,
+  "title": "Assignment of Session Law Chapter Numbers"
+ },
+ {
+  "id": "zoos",
+  "level": 5,
+  "title": "Zoos"
+ },
+ {
+  "id": "202-files",
+  "level": 5,
+  "title": "202 Files"
+ },
+ {
+  "id": "confidentiality-and-neutrality",
+  "level": 5,
+  "title": "Confidentiality and Neutrality"
+ },
+ {
+  "id": "neither-the-director-nor-any-employee-of-the-council-service",
+  "level": 5,
+  "title": "Neither the director nor any employee of the council service shall reveal to any person outside of the service the contents or nature of any request or statement for service, except with the consent of the person making such request or statement. They shall not urge or oppose any legislation, nor give to any member of the legislature advice concerning the economic or social effect of any bill or proposed bill except upon the request of such member."
+ },
+ {
+  "id": "chapter-2-session-laws-nmsa-1978",
+  "level": 2,
+  "title": "CHAPTER 2: SESSION LAWS, NMSA 1978,"
+ },
+ {
+  "id": "histories-and-citations",
+  "level": 4,
+  "title": "HISTORIES AND CITATIONS"
+ },
+ {
+  "id": "new-mexico-statutes-are-published-in-two-forms-the-session-l",
+  "level": 5,
+  "title": "New Mexico statutes are published in two forms: the session laws and the New Mexico Statutes Annotated, 1978 Compilation, known as \"the Compilation\" or more commonly as \"the Comp\" and referred to as NMSA 1978 in statutory and other references."
+ },
+ {
+  "id": "session-laws",
+  "level": 5,
+  "title": "Session Laws"
+ },
+ {
+  "id": "the-comp-nmsa-1978",
+  "level": 5,
+  "title": "The Comp — NMSA 1978"
+ },
+ {
+  "id": "new-mexico-statutes-annotated-1978",
+  "level": 5,
+  "title": "New Mexico Statutes Annotated, 1978"
+ },
+ {
+  "id": "organization-of-the-comp",
+  "level": 5,
+  "title": "Organization of the Comp"
+ },
+ {
+  "id": "compiler-s-notes",
+  "level": 5,
+  "title": "Compiler's Notes"
+ },
+ {
+  "id": "1953-citations",
+  "level": 5,
+  "title": "1953 Citations"
+ },
+ {
+  "id": "example-1953-citations",
+  "level": 5,
+  "title": "Example: 1953 Citations"
+ },
+ {
+  "id": "example-compiler-s-note",
+  "level": 5,
+  "title": "Example: Compiler's Note"
+ },
+ {
+  "id": "compilations",
+  "level": 5,
+  "title": "Compilations"
+ },
+ {
+  "id": "code-1915",
+  "level": 5,
+  "title": "Code 1915"
+ },
+ {
+  "id": "compilation-list",
+  "level": 5,
+  "title": "Compilation List"
+ },
+ {
+  "id": "code-1915-2",
+  "level": 5,
+  "title": "Code 1915"
+ },
+ {
+  "id": "must-always-check-the",
+  "level": 5,
+  "title": "must always check the"
+ },
+ {
+  "id": "example-being-laws-section-19-3-3-nmsa-1978-as-amended-by-co",
+  "level": 5,
+  "title": "Example: Being Laws — Section 19-3-3 NMSA 1978, as amended by Code 1915"
+ },
+ {
+  "id": "example-being-laws-section-4-3-3-nmsa-1978-as-amended-by-cod",
+  "level": 5,
+  "title": "Example: Being Laws — Section 4-3-3 NMSA 1978, as amended by Code 1915"
+ },
+ {
+  "id": "citation-of-new-mexico-law",
+  "level": 5,
+  "title": "Citation of New Mexico Law"
+ },
+ {
+  "id": "comp-numbers",
+  "level": 5,
+  "title": "Comp Numbers"
+ },
+ {
+  "id": "example-comp-number-in-bill",
+  "level": 5,
+  "title": "Example: Comp Number in Bill"
+ },
+ {
+  "id": "histories",
+  "level": 5,
+  "title": "Histories"
+ },
+ {
+  "id": "example-being-laws-repeal-section",
+  "level": 5,
+  "title": "Example: Being Laws — Repeal Section"
+ },
+ {
+  "id": "examples-being-laws-not-amended-amended",
+  "level": 5,
+  "title": "Examples: Being Laws — Not Amended & Amended"
+ },
+ {
+  "id": "example-being-laws-section-14-59-2-nmsa-1978",
+  "level": 5,
+  "title": "Example: Being Laws — Section 14-59-2 NMSA 1978"
+ },
+ {
+  "id": "assignment-of-comp-numbers",
+  "level": 5,
+  "title": "Assignment of Comp Numbers"
+ },
+ {
+  "id": "the-following-history-shows-that-the-drafter-assigned-the-co",
+  "level": 5,
+  "title": "The following history shows that the drafter assigned the Comp number when the drafter"
+ },
+ {
+  "id": "example-being-laws-section-14-59-2-nmsa-1978-as-amended",
+  "level": 5,
+  "title": "Example: Being Laws — Section 14-59-2 NMSA 1978, As Amended"
+ },
+ {
+  "id": "example-section-22-10a-20-nmsa-1978-drafter-assigned-comp-nu",
+  "level": 5,
+  "title": "Example: Section 22-10A-20 NMSA 1978 — Drafter-Assigned Comp Number"
+ },
+ {
+  "id": "unusual-histories",
+  "level": 5,
+  "title": "Unusual Histories"
+ },
+ {
+  "id": "multiple-amendments-in-the-same-year-reconciling-zoos",
+  "level": 5,
+  "title": "Multiple Amendments in the Same Year – Reconciling Zoos"
+ },
+ {
+  "id": "example-duplicate-enactment-section-1-4-5-1-nmsa-1978",
+  "level": 5,
+  "title": "Example: Duplicate Enactment — Section 1-4-5.1 NMSA 1978"
+ },
+ {
+  "id": "example-1953-enactment-section-3-29-1-nmsa-1978",
+  "level": 5,
+  "title": "Example: 1953 Enactment — Section 3-29-1 NMSA 1978"
+ },
+ {
+  "id": "repeal-and-reenactment-histories",
+  "level": 5,
+  "title": "Repeal and Reenactment Histories"
+ },
+ {
+  "id": "45-1990-ch-124-12-1990-ch-125-1",
+  "level": 5,
+  "title": "§ 45; 1990, ch. 124, § 12; 1990, ch. 125, § 1"
+ },
+ {
+  "id": "section-45-and-by-laws-1990-chapter-124-section-12-and-also-",
+  "level": 5,
+  "title": "Section 45 and by Laws 1990, Chapter 124, Section 12 and also by Laws 1990, Chapter 125, Section 1) Example: Multiple Amendments in Same Year — Section 7-1-2 NMSA 1978"
+ },
+ {
+  "id": "section-22-13-1-nmsa-1978",
+  "level": 5,
+  "title": "Section 22-13-1 NMSA 1978"
+ },
+ {
+  "id": "section-1-14-18-nmsa-1978",
+  "level": 5,
+  "title": "Section 1-14-18 NMSA 1978"
+ },
+ {
+  "id": "examples-repeals-and-reenactments",
+  "level": 5,
+  "title": "Examples: Repeals and Reenactments"
+ },
+ {
+  "id": "historical-oddity",
+  "level": 5,
+  "title": "Historical Oddity"
+ },
+ {
+  "id": "session-law-citations",
+  "level": 5,
+  "title": "Session Law Citations"
+ },
+ {
+  "id": "examples-citation-to-session-law-subdivisions",
+  "level": 5,
+  "title": "Examples: Citation to Session Law Subdivisions"
+ },
+ {
+  "id": "example-being-laws-section-1-14-16-nmsa-1978-repeal-and-reen",
+  "level": 5,
+  "title": "Example: Being Laws — Section 1-14-16 NMSA 1978 — Repeal and Reenactment"
+ },
+ {
+  "id": "example-section-42-4-1-nmsa-1978",
+  "level": 5,
+  "title": "Example: Section 42-4-1 NMSA 1978"
+ },
+ {
+  "id": "citation-to-the-constitution-of-new-mexico",
+  "level": 5,
+  "title": "Citation to the Constitution of New Mexico"
+ },
+ {
+  "id": "cross-reference-to-another-bill-of-same-session",
+  "level": 5,
+  "title": "Cross-Reference to Another Bill of Same Session"
+ },
+ {
+  "id": "internal-citations",
+  "level": 5,
+  "title": "Internal Citations"
+ },
+ {
+  "id": "example-citation-to-another-bill-of-same-session",
+  "level": 5,
+  "title": "Example: Citation to Another Bill of Same Session"
+ },
+ {
+  "id": "examples-citation-to-the-constitution-of-new-mexico",
+  "level": 5,
+  "title": "Examples: Citation to the Constitution of New Mexico"
+ },
+ {
+  "id": "cross-reference-citations",
+  "level": 5,
+  "title": "Cross-Reference Citations"
+ },
+ {
+  "id": "example-citation-to-chapter-and-article",
+  "level": 5,
+  "title": "Example: Citation to Chapter and Article"
+ },
+ {
+  "id": "example-citation-to-section",
+  "level": 5,
+  "title": "Example: Citation to Section"
+ },
+ {
+  "id": "example-citation-to-subdivision-of-a-compiled-section",
+  "level": 5,
+  "title": "Example: Citation to Subdivision of a Compiled Section"
+ },
+ {
+  "id": "example-citation-to-comp-number-no-being-laws",
+  "level": 5,
+  "title": "Example: Citation to Comp Number — No \"Being Laws\""
+ },
+ {
+  "id": "use-of-cross-references",
+  "level": 5,
+  "title": "Use of Cross-References"
+ },
+ {
+  "id": "federal-citations",
+  "level": 5,
+  "title": "Federal Citations"
+ },
+ {
+  "id": "use",
+  "level": 5,
+  "title": "Use:"
+ },
+ {
+  "id": "do-not-use",
+  "level": 5,
+  "title": "Do not use:"
+ },
+ {
+  "id": "examples-cross-references-to-existing-law",
+  "level": 5,
+  "title": "Examples: Cross-References to Existing Law"
+ },
+ {
+  "id": "example-federal-short-title-citation",
+  "level": 5,
+  "title": "Example: Federal Short Title Citation"
+ },
+ {
+  "id": "citation-of-court-cases",
+  "level": 5,
+  "title": "Citation of Court Cases"
+ },
+ {
+  "id": "codification-or-revision",
+  "level": 5,
+  "title": "Codification or Revision"
+ },
+ {
+  "id": "examples-citation-of-court-cases",
+  "level": 5,
+  "title": "Examples: Citation of Court Cases"
+ },
+ {
+  "id": "provisions-pertaining-to-drafting-issues",
+  "level": 5,
+  "title": "Provisions Pertaining to Drafting Issues"
+ },
+ {
+  "id": "constitution-of-new-mexico",
+  "level": 5,
+  "title": "Constitution of New Mexico"
+ },
+ {
+  "id": "article-section-provisions",
+  "level": 5,
+  "title": "Article Section Provisions"
+ },
+ {
+  "id": "constitution-of-new-mexico-continued",
+  "level": 5,
+  "title": "Constitution of New Mexico Continued"
+ },
+ {
+  "id": "article-section-provisions-2",
+  "level": 5,
+  "title": "Article Section Provisions"
+ },
+ {
+  "id": "statutory-provisions",
+  "level": 5,
+  "title": "Statutory Provisions"
+ },
+ {
+  "id": "section-provisions",
+  "level": 5,
+  "title": "Section Provisions"
+ },
+ {
+  "id": "legislative-rules",
+  "level": 5,
+  "title": "Legislative Rules"
+ },
+ {
+  "id": "chapter-3-bill-basics-standards",
+  "level": 2,
+  "title": "CHAPTER 3: BILL BASICS — STANDARDS,"
+ },
+ {
+  "id": "parts-of-bill-and-format",
+  "level": 3,
+  "title": "PARTS OF BILL AND FORMAT"
+ },
+ {
+  "id": "a-bill-is-the-vehicle-used-to-propose-laws-to-state-it-succi",
+  "level": 5,
+  "title": "A bill is the vehicle used to propose laws. To state it succinctly, a bill proposes laws to mandate, prohibit or authorize certain acts. Under these three broad categories, bills create, empower, impose duties or obligations, prohibit acts, appropriate money or do any combination of these things."
+ },
+ {
+  "id": "no-law-shall-be-passed-except-by-bill-and-no-bill-shall-be-s",
+  "level": 5,
+  "title": "\"No law shall be passed except by bill, and no bill shall be so altered or amended on its passage through either house as to change its original purpose.\"."
+ },
+ {
+  "id": "standards",
+  "level": 5,
+  "title": "Standards"
+ },
+ {
+  "id": "bill-paper",
+  "level": 5,
+  "title": "Bill Paper"
+ },
+ {
+  "id": "discussion-draft",
+  "level": 5,
+  "title": "Discussion Draft"
+ },
+ {
+  "id": "52nd-legislature-state-of-new-mexico-second-session-2016",
+  "level": 5,
+  "title": "52ND LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2016"
+ },
+ {
+  "id": "example-bill-paper-discussion-draft",
+  "level": 5,
+  "title": "Example: Bill Paper — Discussion Draft"
+ },
+ {
+  "id": "parts-of-bill",
+  "level": 5,
+  "title": "Parts of Bill"
+ },
+ {
+  "id": "some-parts-of-bill-are-mandatory-such-as-the-heading-title-e",
+  "level": 5,
+  "title": "Some parts of bill are mandatory, such as the heading, title, enacting clause and main"
+ },
+ {
+  "id": "top-of-the-bill",
+  "level": 5,
+  "title": "Top of the Bill"
+ },
+ {
+  "id": "heading",
+  "level": 5,
+  "title": "Heading"
+ },
+ {
+  "id": "parts-of-bill-order-top-of-the-bill",
+  "level": 5,
+  "title": "Parts of Bill Order Top of the Bill"
+ },
+ {
+  "id": "body-of-the-bill",
+  "level": 5,
+  "title": "Body of the Bill"
+ },
+ {
+  "id": "back-of-the-bill",
+  "level": 5,
+  "title": "Back of the Bill"
+ },
+ {
+  "id": "endorsement-line",
+  "level": 5,
+  "title": "Endorsement Line"
+ },
+ {
+  "id": "example-endorsement-governor-s-or-state-agency-bill",
+  "level": 5,
+  "title": "Example: Endorsement - Governor's or State Agency Bill"
+ },
+ {
+  "id": "example-committee-endorsement",
+  "level": 5,
+  "title": "Example: Committee Endorsement"
+ },
+ {
+  "id": "52nd-legislature-state-of-new-mexico-second-session-2016-2",
+  "level": 5,
+  "title": "52ND LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2016"
+ },
+ {
+  "id": "example-heading",
+  "level": 5,
+  "title": "Example: Heading"
+ },
+ {
+  "id": "title",
+  "level": 5,
+  "title": "Title"
+ },
+ {
+  "id": "one-subject",
+  "level": 5,
+  "title": "One Subject"
+ },
+ {
+  "id": "example-title",
+  "level": 5,
+  "title": "Example: Title"
+ },
+ {
+  "id": "drafting-a-general-title",
+  "level": 5,
+  "title": "Drafting a General Title"
+ },
+ {
+  "id": "a-note-of-warning-the-more-detailed-the-title-the-more-dange",
+  "level": 5,
+  "title": "A note of warning: the more detailed the title, the more danger there is of omitting reference to a"
+ },
+ {
+  "id": "relating-to-clause",
+  "level": 5,
+  "title": "\"Relating To\" Clause"
+ },
+ {
+  "id": "do-not-put-and-in-the-relating-to-clause-to-do",
+  "level": 5,
+  "title": "Do not put \"AND\" in the relating to clause. To do"
+ },
+ {
+  "id": "title-drafting-key-points",
+  "level": 5,
+  "title": "Title Drafting Key Points"
+ },
+ {
+  "id": "a-title-should-state-the-general",
+  "level": 5,
+  "title": "A title should state the general"
+ },
+ {
+  "id": "the-broad-category-is-stated",
+  "level": 5,
+  "title": "The broad category is stated"
+ },
+ {
+  "id": "a-title-should-state-the-broad",
+  "level": 5,
+  "title": " A title should state the broad"
+ },
+ {
+  "id": "a-title-should-not-include",
+  "level": 5,
+  "title": "A title should not include"
+ },
+ {
+  "id": "or-carries-an-emergency-clause-the",
+  "level": 5,
+  "title": "or carries an emergency clause, the"
+ },
+ {
+  "id": "repealing-and-enacting-sections-of-the-nmsa",
+  "level": 5,
+  "title": "REPEALING AND ENACTING SECTIONS OF THE NMSA"
+ },
+ {
+  "id": "contents-of-the-bill",
+  "level": 5,
+  "title": "Contents of the Bill"
+ },
+ {
+  "id": "quick-reference",
+  "level": 5,
+  "title": "Quick Reference"
+ },
+ {
+  "id": "required-language-customary-language",
+  "level": 5,
+  "title": "Required Language ̶ Customary Language"
+ },
+ {
+  "id": "working-title",
+  "level": 5,
+  "title": "Working Title"
+ },
+ {
+  "id": "titles-and-court-decisions",
+  "level": 5,
+  "title": "Titles and Court Decisions"
+ },
+ {
+  "id": "here-as-in-frohmiller-if-the-title-had-stated-only-an-act-re",
+  "level": 5,
+  "title": "Here, as in Frohmiller, if the title had stated only 'An Act Relating to Taxation,' it would have been broad in scope and perhaps alerted its readers to anticipate anything in that field. . . . The natural reaction of the reader is to conclude that the specific references in the title limit the broad subject. (82 N.M., at 16)"
+ },
+ {
+  "id": "catch-phrases-in-titles",
+  "level": 5,
+  "title": "Catch Phrases in Titles"
+ },
+ {
+  "id": "it-is-not-necessary-to-recite-that-the-bill-amends-repeals-o",
+  "level": 5,
+  "title": "It is not necessary to recite that the bill amends, repeals or enacts sections of the NMSA"
+ },
+ {
+  "id": "example-catch-phrase-one-action-multiple-sections",
+  "level": 5,
+  "title": "Example: Catch Phrase — One Action — Multiple Sections"
+ },
+ {
+  "id": "example-catch-phrase-multiple-actions-nmsa-and-session-law",
+  "level": 5,
+  "title": "Example: Catch Phrase — Multiple Actions — NMSA and Session Law"
+ },
+ {
+  "id": "example-no-catch-phrase",
+  "level": 5,
+  "title": "Example: No Catch Phrase"
+ },
+ {
+  "id": "title-covering-enactment-of-new-sections-or-provisions",
+  "level": 5,
+  "title": "Title Covering Enactment of New Sections or Provisions"
+ },
+ {
+  "id": "amending-sections-stated-in-title",
+  "level": 5,
+  "title": "Amending Sections Stated in Title"
+ },
+ {
+  "id": "example-new-sections-and-provisions-in-title",
+  "level": 5,
+  "title": "Example: New Sections and Provisions in Title"
+ },
+ {
+  "id": "example-adoption-of-new-compact",
+  "level": 5,
+  "title": "Example: Adoption of New Compact"
+ },
+ {
+  "id": "amending-specific-nmsa-sections-stated-in-title",
+  "level": 5,
+  "title": "Amending Specific NMSA Sections Stated in Title"
+ },
+ {
+  "id": "their-histories-the-parenthetical-listing-of-the-session-law",
+  "level": 5,
+  "title": "(their histories). The parenthetical listing of the session law citations must parallel the"
+ },
+ {
+  "id": "example-amending-sections-of-act-stated-in-title",
+  "level": 5,
+  "title": "Example: Amending Sections of Act Stated in Title"
+ },
+ {
+  "id": "example-amending-phrase-not-stated-in-title",
+  "level": 5,
+  "title": "Example: Amending Phrase Not Stated in Title"
+ },
+ {
+  "id": "example-amending-nmsa-section-in-title-being-laws-statement-",
+  "level": 5,
+  "title": "Example: Amending NMSA Section in Title — Being Laws & Statement of Action"
+ },
+ {
+  "id": "example-comp-numbers-in-title",
+  "level": 5,
+  "title": "Example: Comp Numbers in Title"
+ },
+ {
+  "id": "repealing-stated-in-title",
+  "level": 5,
+  "title": "Repealing Stated in Title"
+ },
+ {
+  "id": "repealing-specific-sections-stated-in-title",
+  "level": 5,
+  "title": "Repealing Specific Sections Stated in Title"
+ },
+ {
+  "id": "example-repealing-specific-section-in-title",
+  "level": 5,
+  "title": "Example: Repealing Specific Section in Title"
+ },
+ {
+  "id": "examples-repealing-stated-in-titles",
+  "level": 5,
+  "title": "Examples: Repealing Stated in Titles"
+ },
+ {
+  "id": "amending-and-repealing-specific-sections-stated-in-title",
+  "level": 5,
+  "title": "Amending and Repealing Specific Sections Stated in Title"
+ },
+ {
+  "id": "example-amending-and-repealing-specific-sections-stated-in-t",
+  "level": 5,
+  "title": "Example: Amending and Repealing Specific Sections Stated in Title"
+ },
+ {
+  "id": "example-repealing-specific-sections-in-title-reference-to-su",
+  "level": 5,
+  "title": "Example: Repealing Specific Sections in Title — Reference to Subject"
+ },
+ {
+  "id": "reconciled-zoos",
+  "level": 5,
+  "title": "Reconciled Zoos"
+ },
+ {
+  "id": "notification-of-conflicting-amendments-in-title",
+  "level": 5,
+  "title": "Notification of Conflicting Amendments in Title"
+ },
+ {
+  "id": "example-reconciling-conflicting-amendments-to-same-section-o",
+  "level": 5,
+  "title": "Example: Reconciling Conflicting Amendments to Same Section of Law"
+ },
+ {
+  "id": "enacting-clause",
+  "level": 5,
+  "title": "Enacting Clause"
+ },
+ {
+  "id": "body-of-the-bill-2",
+  "level": 5,
+  "title": "Body of the Bill"
+ },
+ {
+  "id": "example-enacting-clause",
+  "level": 5,
+  "title": "Example: Enacting Clause"
+ },
+ {
+  "id": "short-titles",
+  "level": 5,
+  "title": "Short Titles"
+ },
+ {
+  "id": "codes",
+  "level": 5,
+  "title": "Codes"
+ },
+ {
+  "id": "short-title-section",
+  "level": 5,
+  "title": "Short Title Section"
+ },
+ {
+  "id": "examples-short-titles",
+  "level": 5,
+  "title": "Examples: Short Titles"
+ },
+ {
+  "id": "short-title-conversion",
+  "level": 5,
+  "title": "Short Title Conversion"
+ },
+ {
+  "id": "example-short-title-new-and-amendatory-sections",
+  "level": 5,
+  "title": "Example: Short Title — New and Amendatory Sections"
+ },
+ {
+  "id": "example-short-title-entire-bill",
+  "level": 5,
+  "title": "Example: Short Title — Entire Bill"
+ },
+ {
+  "id": "short-title-and-application-of-definitions",
+  "level": 5,
+  "title": "Short Title and Application of Definitions"
+ },
+ {
+  "id": "example-short-title-conversion-all-inclusive-reference-prefe",
+  "level": 5,
+  "title": "Example: Short Title Conversion — All-Inclusive Reference — Preferred"
+ },
+ {
+  "id": "example-short-title-conversion-specific-reference-narrow",
+  "level": 5,
+  "title": "Example: Short Title Conversion — Specific Reference — Narrow"
+ },
+ {
+  "id": "legislative-findings-and-purpose-of-act-sections",
+  "level": 5,
+  "title": "Legislative Findings and Purpose of Act Sections"
+ },
+ {
+  "id": "example-purpose-section-citing-constitution-of-new-mexico",
+  "level": 5,
+  "title": "Example: Purpose Section — Citing Constitution of New Mexico"
+ },
+ {
+  "id": "example-legislative-findings-and-purpose",
+  "level": 5,
+  "title": "Example: Legislative Findings and Purpose"
+ },
+ {
+  "id": "definition-sections",
+  "level": 5,
+  "title": "Definition Sections"
+ },
+ {
+  "id": "do-not-define-words-that-are-being-used-in-their",
+  "level": 5,
+  "title": "Do not define words that are being used in their"
+ },
+ {
+  "id": "definition-drafting-key-points",
+  "level": 5,
+  "title": "Definition Drafting Key Points"
+ },
+ {
+  "id": "do-not-put-substantive-law-in",
+  "level": 5,
+  "title": " Do not put substantive law in"
+ },
+ {
+  "id": "context-of-defined-terms",
+  "level": 5,
+  "title": "Context of Defined Terms"
+ },
+ {
+  "id": "rules-of-statutory-construction",
+  "level": 5,
+  "title": "Rules of Statutory Construction"
+ },
+ {
+  "id": "example-definition-section",
+  "level": 5,
+  "title": "Example: Definition Section"
+ },
+ {
+  "id": "main-provision-sections",
+  "level": 5,
+  "title": "Main Provision Sections"
+ },
+ {
+  "id": "example-main-provision",
+  "level": 5,
+  "title": "Example: Main Provision"
+ },
+ {
+  "id": "penalty-sections",
+  "level": 5,
+  "title": "Penalty Sections"
+ },
+ {
+  "id": "classification-of-crime",
+  "level": 5,
+  "title": "Classification of Crime"
+ },
+ {
+  "id": "special-penalties",
+  "level": 5,
+  "title": "Special Penalties"
+ },
+ {
+  "id": "felonies-and-misdemeanors",
+  "level": 5,
+  "title": "Felonies and Misdemeanors"
+ },
+ {
+  "id": "crimes-within-the-criminal-code",
+  "level": 5,
+  "title": "Crimes Within the Criminal Code"
+ },
+ {
+  "id": "crimes-outside-the-criminal-code",
+  "level": 5,
+  "title": "Crimes Outside the Criminal Code"
+ },
+ {
+  "id": "example-criminal-penalty-within-the-criminal-code-chapter-30",
+  "level": 5,
+  "title": "Example: Criminal Penalty — Within the Criminal Code (Chapter 30 NMSA 1978)"
+ },
+ {
+  "id": "example-sentencing-authority-reference",
+  "level": 5,
+  "title": "Example: Sentencing Authority Reference"
+ },
+ {
+  "id": "standard-penalty-clause",
+  "level": 5,
+  "title": "Standard Penalty Clause"
+ },
+ {
+  "id": "example-standard-penalty-clause",
+  "level": 5,
+  "title": "Example: Standard Penalty Clause"
+ },
+ {
+  "id": "example-criminal-penalties-outside-criminal-code-misdemeanor",
+  "level": 5,
+  "title": "Example: Criminal Penalties Outside Criminal Code — Misdemeanor"
+ },
+ {
+  "id": "placement-of-penalty",
+  "level": 5,
+  "title": "Placement of Penalty"
+ },
+ {
+  "id": "corporate-penalties",
+  "level": 5,
+  "title": "Corporate Penalties"
+ },
+ {
+  "id": "civil-penalties",
+  "level": 5,
+  "title": "Civil Penalties"
+ },
+ {
+  "id": "example-criminal-penalties-outside-criminal-code-felony",
+  "level": 5,
+  "title": "Example: Criminal Penalties Outside Criminal Code — Felony"
+ },
+ {
+  "id": "administrative-penalties",
+  "level": 5,
+  "title": "Administrative Penalties"
+ },
+ {
+  "id": "penalties-stated-in-title",
+  "level": 5,
+  "title": "Penalties Stated in Title"
+ },
+ {
+  "id": "example-civil-penalty",
+  "level": 5,
+  "title": "Example: Civil Penalty"
+ },
+ {
+  "id": "liberal-interpretation-sections",
+  "level": 5,
+  "title": "Liberal Interpretation Sections"
+ },
+ {
+  "id": "example-penalties-stated-in-title",
+  "level": 5,
+  "title": "Example: Penalties Stated in Title"
+ },
+ {
+  "id": "example-liberal-interpretation-section-short-title-act",
+  "level": 5,
+  "title": "Example: Liberal Interpretation Section — Short Title Act"
+ },
+ {
+  "id": "example-liberal-interpretation-section-sections-of-an-act",
+  "level": 5,
+  "title": "Example: Liberal Interpretation Section — Sections of an Act"
+ },
+ {
+  "id": "saving-clause-sections",
+  "level": 5,
+  "title": "Saving Clause Sections"
+ },
+ {
+  "id": "cumulative-additional-or-supplemental-remedies",
+  "level": 5,
+  "title": "Cumulative, Additional or Supplemental Remedies"
+ },
+ {
+  "id": "grandfather-clauses",
+  "level": 5,
+  "title": "Grandfather Clauses"
+ },
+ {
+  "id": "example-saving-clause-section",
+  "level": 5,
+  "title": "Example: Saving Clause Section"
+ },
+ {
+  "id": "back-of-the-bill-2",
+  "level": 5,
+  "title": "Back of the Bill"
+ },
+ {
+  "id": "temporary-provision-sections",
+  "level": 5,
+  "title": "Temporary Provision Sections"
+ },
+ {
+  "id": "example-temporary-provision-records-transfer",
+  "level": 5,
+  "title": "Example: Temporary Provision — Records Transfer"
+ },
+ {
+  "id": "example-temporary-provision-transfer-of-functions-personnel-",
+  "level": 5,
+  "title": "Example: Temporary Provision — Transfer of Functions, Personnel, Property, Contracts & References"
+ },
+ {
+  "id": "example-temporary-provision-task-force",
+  "level": 5,
+  "title": "Example: Temporary Provision —Task Force"
+ },
+ {
+  "id": "appropriation-sections",
+  "level": 5,
+  "title": "Appropriation Sections"
+ },
+ {
+  "id": "general-appropriation-acts",
+  "level": 5,
+  "title": "General Appropriation Acts"
+ },
+ {
+  "id": "appropriations-required-language",
+  "level": 5,
+  "title": "Appropriations — Required Language"
+ },
+ {
+  "id": "new-agency-appropriations",
+  "level": 5,
+  "title": "New Agency Appropriations"
+ },
+ {
+  "id": "reversion-clauses",
+  "level": 5,
+  "title": "Reversion Clauses"
+ },
+ {
+  "id": "reverting-funds",
+  "level": 5,
+  "title": "Reverting Funds"
+ },
+ {
+  "id": "example-appropriation-single-fiscal-year-reverting",
+  "level": 5,
+  "title": "Example: Appropriation — Single Fiscal Year — Reverting"
+ },
+ {
+  "id": "example-standard-reversion-clause",
+  "level": 5,
+  "title": "Example: Standard Reversion Clause"
+ },
+ {
+  "id": "nonreverting-funds",
+  "level": 5,
+  "title": "Nonreverting Funds"
+ },
+ {
+  "id": "unexpended-or-unencumbered-balances",
+  "level": 5,
+  "title": "Unexpended or Unencumbered Balances"
+ },
+ {
+  "id": "example-appropriation-nonreverting",
+  "level": 5,
+  "title": "Example: Appropriation — Nonreverting"
+ },
+ {
+  "id": "examples-unexpended-unencumbered-balances",
+  "level": 5,
+  "title": "Examples: Unexpended & Unencumbered Balances"
+ },
+ {
+  "id": "multiple-year-appropriations",
+  "level": 5,
+  "title": "Multiple Year Appropriations"
+ },
+ {
+  "id": "reversion-clauses-2",
+  "level": 5,
+  "title": "Reversion Clauses"
+ },
+ {
+  "id": "money-appropriated-for-one-year-2017",
+  "level": 5,
+  "title": "Money Appropriated for One Year (2017):"
+ },
+ {
+  "id": "money-appropriated-for-two-or-more-years-2017-2020",
+  "level": 5,
+  "title": "Money Appropriated for Two or More Years (2017-2020):"
+ },
+ {
+  "id": "nonreverting-funds-2",
+  "level": 5,
+  "title": "Nonreverting Funds:"
+ },
+ {
+  "id": "appropriation-must-be-stated-in-title",
+  "level": 5,
+  "title": "Appropriation Must Be Stated in Title"
+ },
+ {
+  "id": "earmarked-revenue-creating-a-fund",
+  "level": 5,
+  "title": "Earmarked Revenue — Creating a Fund"
+ },
+ {
+  "id": "example-appropriation-multiple-fiscal-years-reverting",
+  "level": 5,
+  "title": "Example: Appropriation — Multiple Fiscal Years — Reverting"
+ },
+ {
+  "id": "example-appropriation-in-title",
+  "level": 5,
+  "title": "Example: Appropriation in Title"
+ },
+ {
+  "id": "special-requirements",
+  "level": 5,
+  "title": "Special Requirements"
+ },
+ {
+  "id": "example-earmarked-revenue-creating-a-fund-making-an-appropri",
+  "level": 5,
+  "title": "Example: Earmarked Revenue — Creating a Fund — Making an Appropriation"
+ },
+ {
+  "id": "example-earmarked-revenue-making-an-appropriation",
+  "level": 5,
+  "title": "Example: Earmarked Revenue — Making an Appropriation"
+ },
+ {
+  "id": "fiscal-years",
+  "level": 5,
+  "title": "Fiscal Years"
+ },
+ {
+  "id": "example-appropriation-special-requirements-of-fund-potential",
+  "level": 5,
+  "title": "Example: Appropriation — Special Requirements of Fund — Potential Problem"
+ },
+ {
+  "id": "citations-to-fiscal-years",
+  "level": 5,
+  "title": "Citations to Fiscal Years"
+ },
+ {
+  "id": "repeal-sections",
+  "level": 5,
+  "title": "Repeal Sections"
+ },
+ {
+  "id": "severability-sections",
+  "level": 5,
+  "title": "Severability Sections"
+ },
+ {
+  "id": "example-repeal-section",
+  "level": 5,
+  "title": "Example: Repeal Section"
+ },
+ {
+  "id": "applicability-sections",
+  "level": 5,
+  "title": "Applicability Sections"
+ },
+ {
+  "id": "example-severability-section",
+  "level": 5,
+  "title": "Example: Severability Section"
+ },
+ {
+  "id": "example-not-severable",
+  "level": 5,
+  "title": "Example: Not Severable"
+ },
+ {
+  "id": "example-applicability-section-taxation",
+  "level": 5,
+  "title": "Example: Applicability Section — Taxation"
+ },
+ {
+  "id": "example-applicability-section-taxation-2",
+  "level": 5,
+  "title": "Example: Applicability Section — Taxation"
+ },
+ {
+  "id": "effective-date-sections",
+  "level": 5,
+  "title": "Effective Date Sections"
+ },
+ {
+  "id": "example-applicability-section-insurance-code",
+  "level": 5,
+  "title": "Example: Applicability Section — Insurance Code"
+ },
+ {
+  "id": "example-applicability-section-different-dates-for-different-",
+  "level": 5,
+  "title": "Example: Applicability Section — Different Dates for Different Sections"
+ },
+ {
+  "id": "multiple-effective-dates",
+  "level": 5,
+  "title": "Multiple Effective Dates"
+ },
+ {
+  "id": "contingent-effective-dates",
+  "level": 5,
+  "title": "Contingent Effective Dates"
+ },
+ {
+  "id": "example-effective-date-section",
+  "level": 5,
+  "title": "Example: Effective Date Section"
+ },
+ {
+  "id": "example-multiple-effective-dates",
+  "level": 5,
+  "title": "Example: Multiple Effective Dates"
+ },
+ {
+  "id": "notification-of-occurrence-of-event",
+  "level": 5,
+  "title": "Notification of Occurrence of Event"
+ },
+ {
+  "id": "example-contingent-effective-date",
+  "level": 5,
+  "title": "Example: Contingent Effective Date"
+ },
+ {
+  "id": "example-contingent-effective-date-notification",
+  "level": 5,
+  "title": "Example: Contingent Effective Date — Notification"
+ },
+ {
+  "id": "delayed-effective-dates",
+  "level": 5,
+  "title": "Delayed Effective Dates"
+ },
+ {
+  "id": "example-contingent-effective-date-notification-2",
+  "level": 5,
+  "title": "Example: Contingent Effective Date — Notification"
+ },
+ {
+  "id": "example-standard-delayed-effective-date-section",
+  "level": 5,
+  "title": "Example: Standard Delayed Effective Date Section"
+ },
+ {
+  "id": "example-amending-session-law-to-change-delayed-effective-dat",
+  "level": 5,
+  "title": "Example: Amending Session Law to Change Delayed Effective Date"
+ },
+ {
+  "id": "effective-date-and-emergency-clause",
+  "level": 5,
+  "title": "Effective Date and Emergency Clause"
+ },
+ {
+  "id": "emergency-clause-sections",
+  "level": 5,
+  "title": "Emergency Clause Sections"
+ },
+ {
+  "id": "emergency-clause-must-be-stated-in-title",
+  "level": 5,
+  "title": "Emergency Clause Must be Stated in Title"
+ },
+ {
+  "id": "example-emergency-clause-in-title",
+  "level": 5,
+  "title": "Example: Emergency Clause in Title"
+ },
+ {
+  "id": "example-effective-date-and-emergency-clause",
+  "level": 5,
+  "title": "Example: Effective Date and Emergency Clause"
+ },
+ {
+  "id": "bill-format-and-subdivisions",
+  "level": 5,
+  "title": "Bill Format and Subdivisions"
+ },
+ {
+  "id": "example-section-subdivisions",
+  "level": 5,
+  "title": "Example: Section Subdivisions"
+ },
+ {
+  "id": "example-emergency-clause",
+  "level": 5,
+  "title": "Example: Emergency Clause"
+ },
+ {
+  "id": "section-headings",
+  "level": 5,
+  "title": "Section Headings"
+ },
+ {
+  "id": "example-section-heading-no-subdivisions",
+  "level": 5,
+  "title": "Example: Section Heading — No Subdivisions"
+ },
+ {
+  "id": "example-section-heading-section-with-subdivisions",
+  "level": 5,
+  "title": "Example: Section Heading — Section with Subdivisions"
+ },
+ {
+  "id": "chapter-4-bills-legislative",
+  "level": 2,
+  "title": "CHAPTER 4: BILLS — LEGISLATIVE"
+ },
+ {
+  "id": "actions",
+  "level": 3,
+  "title": "ACTIONS"
+ },
+ {
+  "id": "each-section-of-a-bill-performs-a-legislative-action-upon-re",
+  "level": 5,
+  "title": "Each section of a bill performs a legislative action. Upon receiving a request for a bill, a drafter must determine what sections should be included in the bill to achieve its purpose."
+ },
+ {
+  "id": "enacting-a-new-section",
+  "level": 5,
+  "title": "Enacting a New Section"
+ },
+ {
+  "id": "new-material-designation",
+  "level": 5,
+  "title": "New Material Designation"
+ },
+ {
+  "id": "key-points-new-material",
+  "level": 5,
+  "title": "Key Points: New Material"
+ },
+ {
+  "id": "new-material-and-the-assignment-of-comp-numbers",
+  "level": 5,
+  "title": "New Material and the Assignment of Comp Numbers"
+ },
+ {
+  "id": "example-new-material-assignment-of-comp-number",
+  "level": 5,
+  "title": "Example: New Material — Assignment of Comp Number"
+ },
+ {
+  "id": "quotation-marks",
+  "level": 5,
+  "title": "Quotation Marks"
+ },
+ {
+  "id": "example-new-section-no-comp-number-or-placement-instructions",
+  "level": 5,
+  "title": "Example: New Section — No Comp Number or Placement Instructions"
+ },
+ {
+  "id": "placing-new-section-in-existing-short-title-act",
+  "level": 5,
+  "title": "Placing New Section in Existing Short Title Act"
+ },
+ {
+  "id": "example-new-material-section-placement-in-short-title-act-wi",
+  "level": 5,
+  "title": "Example: New Material Section — Placement in Short Title Act — With Comp Number"
+ },
+ {
+  "id": "example-new-material-section-placement-in-short-title-act-no",
+  "level": 5,
+  "title": "Example: New Material Section — Placement in Short Title Act — No Comp Number"
+ },
+ {
+  "id": "new-material-and-amendatory-sections-in-same-bill",
+  "level": 5,
+  "title": "New Material and Amendatory Sections in Same Bill"
+ },
+ {
+  "id": "example-new-material-sections-placed-in-short-title-act-not-",
+  "level": 5,
+  "title": "Example: New Material Sections — Placed in Short Title Act & Not Placed"
+ },
+ {
+  "id": "example-new-material-section-and-amendatory-section",
+  "level": 5,
+  "title": "Example: New Material Section and Amendatory Section"
+ },
+ {
+  "id": "new-material-repeal-and-enact-new-section",
+  "level": 5,
+  "title": "New Material — Repeal and Enact New Section"
+ },
+ {
+  "id": "example-new-material-repeal-and-enact-new",
+  "level": 5,
+  "title": "Example: New Material — Repeal and Enact New"
+ },
+ {
+  "id": "short-title-coverage",
+  "level": 5,
+  "title": "Short Title Coverage"
+ },
+ {
+  "id": "new-section-stated-in-title-of-bill",
+  "level": 5,
+  "title": "New Section Stated in Title of Bill"
+ },
+ {
+  "id": "amending-existing-law",
+  "level": 5,
+  "title": "Amending Existing Law"
+ },
+ {
+  "id": "example-addition-of-new-section-stated-in-title",
+  "level": 5,
+  "title": "Example: Addition of New Section Stated in Title"
+ },
+ {
+  "id": "bracketing-and-underscoring",
+  "level": 5,
+  "title": "Bracketing and Underscoring"
+ },
+ {
+  "id": "example-amendatory-section",
+  "level": 5,
+  "title": "Example: Amendatory Section"
+ },
+ {
+  "id": "correct-format-changing-tense-ending-or-spelling",
+  "level": 5,
+  "title": "Correct Format & Changing Tense, Ending or Spelling"
+ },
+ {
+  "id": "examples-incorrect",
+  "level": 5,
+  "title": "Examples: Incorrect:"
+ },
+ {
+  "id": "correct",
+  "level": 5,
+  "title": "Correct:"
+ },
+ {
+  "id": "incorrect",
+  "level": 5,
+  "title": "Incorrect:"
+ },
+ {
+  "id": "correct-2",
+  "level": 5,
+  "title": "Correct:"
+ },
+ {
+  "id": "changing-possessive-case",
+  "level": 5,
+  "title": "Changing Possessive Case"
+ },
+ {
+  "id": "example-bracketing-line-throughs-and-underscoring",
+  "level": 5,
+  "title": "Example: Bracketing, Line-Throughs and Underscoring"
+ },
+ {
+  "id": "examples",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "changing-money-amounts",
+  "level": 5,
+  "title": "Changing Money Amounts"
+ },
+ {
+  "id": "examples-incorrect-2",
+  "level": 5,
+  "title": "Examples: Incorrect:"
+ },
+ {
+  "id": "correct-3",
+  "level": 5,
+  "title": "Correct:"
+ },
+ {
+  "id": "changing-capitalization",
+  "level": 5,
+  "title": "Changing Capitalization"
+ },
+ {
+  "id": "example",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "bracketing-and-underscoring-guidelines",
+  "level": 5,
+  "title": "Bracketing and Underscoring Guidelines"
+ },
+ {
+  "id": "parentheses-are-never-used-in",
+  "level": 5,
+  "title": "Parentheses are never used in"
+ },
+ {
+  "id": "bracketed-material-comes-before",
+  "level": 5,
+  "title": "Bracketed material comes before"
+ },
+ {
+  "id": "example-incorrect-bracketing-and-underscoring",
+  "level": 5,
+  "title": "Example: Incorrect Bracketing and Underscoring"
+ },
+ {
+  "id": "changing-capitalization-and-punctuation",
+  "level": 5,
+  "title": "Changing Capitalization and Punctuation"
+ },
+ {
+  "id": "examples-2",
+  "level": 5,
+  "title": "Examples:"
+ },
+ {
+  "id": "inserting-or-deleting-entire-subsections-paragraphs-or-subpa",
+  "level": 5,
+  "title": "Inserting or Deleting Entire Subsections, Paragraphs or Subparagraphs"
+ },
+ {
+  "id": "session-law-reads",
+  "level": 5,
+  "title": "Session law reads:"
+ },
+ {
+  "id": "when-amending-change-to",
+  "level": 5,
+  "title": "When amending, change to:"
+ },
+ {
+  "id": "amending-section-with-delayed-effective-date",
+  "level": 5,
+  "title": "Amending Section with Delayed Effective Date"
+ },
+ {
+  "id": "example-inserting-or-deleting-entire-subsections",
+  "level": 5,
+  "title": "Example: Inserting or Deleting Entire Subsections"
+ },
+ {
+  "id": "reconciled-zoos-2",
+  "level": 5,
+  "title": "Reconciled Zoos"
+ },
+ {
+  "id": "example-amending-a-section-with-delayed-effective-date",
+  "level": 5,
+  "title": "Example: Amending a Section with Delayed Effective Date"
+ },
+ {
+  "id": "amending-session-law",
+  "level": 5,
+  "title": "Amending Session Law"
+ },
+ {
+  "id": "repealing-existing-law",
+  "level": 5,
+  "title": "Repealing Existing Law"
+ },
+ {
+  "id": "example-repeal-section-part-of-larger-bill",
+  "level": 5,
+  "title": "Example: Repeal Section — Part of Larger Bill"
+ },
+ {
+  "id": "example-amending-session-law",
+  "level": 5,
+  "title": "Example: Amending Session Law"
+ },
+ {
+  "id": "example-repealing-multiple-nmsa-1978-sections",
+  "level": 5,
+  "title": "Example: Repealing Multiple NMSA 1978 Sections"
+ },
+ {
+  "id": "example-repealing-multiple-nmsa-1978-sections-2",
+  "level": 5,
+  "title": "Example: Repealing Multiple NMSA 1978 Sections"
+ },
+ {
+  "id": "example-title-of-a-repeal-bill",
+  "level": 5,
+  "title": "Example: Title of a Repeal Bill"
+ },
+ {
+  "id": "delayed-repeal",
+  "level": 5,
+  "title": "Delayed Repeal"
+ },
+ {
+  "id": "example-delayed-repeal-section-example-repeal-section-only-s",
+  "level": 5,
+  "title": "Example: Delayed Repeal Section Example: Repeal Section — Only Section of Bill"
+ },
+ {
+  "id": "amending-section-and-repealing-same-section-in-same-bill",
+  "level": 5,
+  "title": "Amending Section and Repealing Same Section in Same Bill"
+ },
+ {
+  "id": "example-complicated-delayed-repeal-section-multiple-effectiv",
+  "level": 5,
+  "title": "Example: Complicated Delayed Repeal Section — Multiple Effective Dates"
+ },
+ {
+  "id": "sunset-provisions",
+  "level": 5,
+  "title": "Sunset Provisions"
+ },
+ {
+  "id": "sunset-begins-july-1-of-an-odd-numbered-year-and-repeal-occu",
+  "level": 5,
+  "title": "Sunset begins July 1 of an odd-numbered year and repeal occurs July 1 of the next even-"
+ },
+ {
+  "id": "example-amending-section-and-repealing-same-section-in-same-",
+  "level": 5,
+  "title": "Example: Amending Section and Repealing Same Section in Same Bill"
+ },
+ {
+  "id": "repealing-existing-section-and-enacting-new-section",
+  "level": 5,
+  "title": "Repealing Existing Section and Enacting New Section"
+ },
+ {
+  "id": "example-correct-sunset-provision",
+  "level": 5,
+  "title": "Example: Correct Sunset Provision"
+ },
+ {
+  "id": "example-being-laws-repeal-and-reenactment",
+  "level": 5,
+  "title": "Example: Being Laws − Repeal and Reenactment"
+ },
+ {
+  "id": "example-history-with-repeal-and-reenactment",
+  "level": 5,
+  "title": "Example: History with Repeal and Reenactment"
+ },
+ {
+  "id": "example-repeal-and-reenactment-section",
+  "level": 5,
+  "title": "Example: Repeal and Reenactment Section"
+ },
+ {
+  "id": "recompiling-existing-law",
+  "level": 5,
+  "title": "Recompiling Existing Law"
+ },
+ {
+  "id": "temporary-provision",
+  "level": 5,
+  "title": "Temporary Provision"
+ },
+ {
+  "id": "example-recompiling-sections-temporary-provision",
+  "level": 5,
+  "title": "Example: Recompiling Sections — Temporary Provision"
+ },
+ {
+  "id": "recompiling-section-to-another-chapter-article-or-short-titl",
+  "level": 5,
+  "title": "Recompiling Section to Another Chapter, Article or Short Title Act"
+ },
+ {
+  "id": "example-recompiling-sections",
+  "level": 5,
+  "title": "Example: Recompiling Sections"
+ },
+ {
+  "id": "recompiling-and-amending-existing-law",
+  "level": 5,
+  "title": "Recompiling and Amending Existing Law"
+ },
+ {
+  "id": "the-placement-order-of-each-such-section-in-the-bill-is-dete",
+  "level": 5,
+  "title": "The placement order of each such section in the bill is determined by the new Comp"
+ },
+ {
+  "id": "example-recompiling-instructions-to-compiler-insertion-in-ch",
+  "level": 5,
+  "title": "Example: Recompiling — Instructions to Compiler — Insertion in Chapter"
+ },
+ {
+  "id": "example-recompiling-instructions-to-compiler-insertion-in-sh",
+  "level": 5,
+  "title": "Example: Recompiling — Instructions to Compiler — Insertion in Short Title Act"
+ },
+ {
+  "id": "example-recompiling-and-amending",
+  "level": 5,
+  "title": "Example: Recompiling and Amending"
+ },
+ {
+  "id": "combination-of-sections",
+  "level": 5,
+  "title": "Combination of Sections"
+ },
+ {
+  "id": "uniform-acts-and-model-legislation",
+  "level": 5,
+  "title": "Uniform Acts and Model Legislation"
+ },
+ {
+  "id": "the-legislative-council-service-drafter-is-expected-to-confo",
+  "level": 5,
+  "title": "The Legislative Council Service drafter is expected to conform these proposals to New Mexico style and format in the same way the drafter would conform any other draft"
+ },
+ {
+  "id": "bill-samples",
+  "level": 5,
+  "title": "Bill Samples"
+ },
+ {
+  "id": "chapter-5-substitute-bills",
+  "level": 3,
+  "title": "CHAPTER 5: SUBSTITUTE BILLS"
+ },
+ {
+  "id": "a-substitute-may-be-made-for-a-bill-whenever-the-bill-is-ope",
+  "level": 5,
+  "title": "A substitute may be made for a bill whenever the bill is open to amendment. If adopted, the substitute takes the place of the original bill. Article 4, Section 15 of the Constitution of New Mexico, which states that no bill shall be so altered or amended on its passage as to change its original purpose, applies to substitute bills. The subject matter of the substitute must be substantively related to the subject matter of the original bill."
+ },
+ {
+  "id": "format-of-substitute-bills",
+  "level": 5,
+  "title": "Format of Substitute Bills"
+ },
+ {
+  "id": "committee-substitutes-heading",
+  "level": 5,
+  "title": "Committee Substitutes Heading"
+ },
+ {
+  "id": "substitutes-for-multiple-bills",
+  "level": 5,
+  "title": "Substitutes for Multiple Bills"
+ },
+ {
+  "id": "52nd-legislature-state-of-new-mexico-second-session-2016-exa",
+  "level": 5,
+  "title": "52ND LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2016 Example: Heading of Committee Substitute"
+ },
+ {
+  "id": "slugs",
+  "level": 5,
+  "title": "Slugs"
+ },
+ {
+  "id": "52nd-legislature-state-of-new-mexico-second-session-2016-exa-2",
+  "level": 5,
+  "title": "52ND LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2016 Example: Committee Substitute for Multiple Bills"
+ },
+ {
+  "id": "52nd-legislature-state-of-new-mexico-second-session-2016-exa-3",
+  "level": 5,
+  "title": "52ND LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2016 Example: Heading for Substitute for Single Bill"
+ },
+ {
+  "id": "no-endorsement-lines",
+  "level": 5,
+  "title": "No Endorsement Lines"
+ },
+ {
+  "id": "example-slug-substitute-for-single-bill",
+  "level": 5,
+  "title": "Example: Slug — Substitute for Single Bill"
+ },
+ {
+  "id": "example-slug-substitute-for-multiple-bills",
+  "level": 5,
+  "title": "Example: Slug — Substitute for Multiple Bills"
+ },
+ {
+  "id": "52nd-legislature-state-of-new-mexico-second-session-2016-exa-4",
+  "level": 5,
+  "title": "52ND LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2016 Example: Heading for Committee Substitute for Multiple Bills"
+ },
+ {
+  "id": "substitute-bill-title",
+  "level": 5,
+  "title": "Substitute Bill Title"
+ },
+ {
+  "id": "body-of-substitute-bill",
+  "level": 5,
+  "title": "Body of Substitute Bill"
+ },
+ {
+  "id": "floor-substitutes-heading",
+  "level": 5,
+  "title": "Floor Substitutes Heading"
+ },
+ {
+  "id": "52nd-legislature-state-of-new-mexico-second-session-2016-exa-5",
+  "level": 5,
+  "title": "52ND LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2016 Example: Floor Substitute Heading"
+ },
+ {
+  "id": "slugs-2",
+  "level": 5,
+  "title": "Slugs"
+ },
+ {
+  "id": "labels",
+  "level": 5,
+  "title": "Labels"
+ },
+ {
+  "id": "example-slug-floor-substitute",
+  "level": 5,
+  "title": "Example: Slug — Floor Substitute"
+ },
+ {
+  "id": "52nd-legislature-state-of-new-mexico-second-session-2016-exa-6",
+  "level": 5,
+  "title": "52ND LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2016 Example: Heading — Floor Substitute"
+ },
+ {
+  "id": "preparation-of-substitute-bills-for-introduction",
+  "level": 5,
+  "title": "Preparation of Substitute Bills for Introduction"
+ },
+ {
+  "id": "generic-bills",
+  "level": 5,
+  "title": "Generic Bills"
+ },
+ {
+  "id": "bill-title",
+  "level": 5,
+  "title": "Bill Title"
+ },
+ {
+  "id": "example-substitute-bill-label",
+  "level": 5,
+  "title": "Example: Substitute Bill Label"
+ },
+ {
+  "id": "generic-bill-substitutes",
+  "level": 5,
+  "title": "Generic Bill Substitutes"
+ },
+ {
+  "id": "52nd-legislature-state-of-new-mexico-second-session-2016-3",
+  "level": 5,
+  "title": "52ND LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2016"
+ },
+ {
+  "id": "example-generic-bill-upon-introduction",
+  "level": 5,
+  "title": "Example: Generic Bill Upon Introduction"
+ },
+ {
+  "id": "substitute-title",
+  "level": 5,
+  "title": "Substitute Title"
+ },
+ {
+  "id": "example-generic-bill-substitute-title",
+  "level": 5,
+  "title": "Example: Generic Bill Substitute Title"
+ },
+ {
+  "id": "52nd-legislature-state-of-new-mexico-second-session-2016-exa-7",
+  "level": 5,
+  "title": "52ND LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2016 Example: Generic Bill Substitute — Heading"
+ },
+ {
+  "id": "chapter-6-amendments",
+  "level": 2,
+  "title": "CHAPTER 6: AMENDMENTS"
+ },
+ {
+  "id": "amendments-are-used-to-make-changes-to-bills-resolutions-and",
+  "level": 5,
+  "title": "Amendments are used to make changes to bills, resolutions and memorials during the legislative process. As with substitute bills, amendments may come from a committee or from the floor."
+ },
+ {
+  "id": "proposed-amendment-directed-to-a-committee",
+  "level": 5,
+  "title": "Proposed Amendment Directed to a Committee"
+ },
+ {
+  "id": "committee-amendment-heading",
+  "level": 5,
+  "title": "Committee Amendment Heading"
+ },
+ {
+  "id": "example-lead-in-committee-amendment-previously-amended-bill",
+  "level": 5,
+  "title": "Example: Lead-In — Committee Amendment — Previously Amended Bill"
+ },
+ {
+  "id": "example-heading-committee-amendment",
+  "level": 5,
+  "title": "Example: Heading — Committee Amendment"
+ },
+ {
+  "id": "body-of-a-committee-amendment",
+  "level": 5,
+  "title": "Body of a Committee Amendment"
+ },
+ {
+  "id": "committee-amendment-closing",
+  "level": 5,
+  "title": "Committee Amendment Closing"
+ },
+ {
+  "id": "example-lead-in-multiple-amendments",
+  "level": 5,
+  "title": "Example: Lead-In — Multiple Amendments"
+ },
+ {
+  "id": "example-lead-in-one-amendment",
+  "level": 5,
+  "title": "Example: Lead-In — One Amendment"
+ },
+ {
+  "id": "second-page-slugs",
+  "level": 5,
+  "title": "Second Page — Slugs"
+ },
+ {
+  "id": "floor-amendments",
+  "level": 5,
+  "title": "Floor Amendments"
+ },
+ {
+  "id": "example-slug-for-a-simple-bill-previously-amended",
+  "level": 5,
+  "title": "Example: Slug for a Simple Bill — Previously Amended"
+ },
+ {
+  "id": "example-slug-for-a-simple-bill-not-previously-amended",
+  "level": 5,
+  "title": "Example: Slug for a Simple Bill — Not Previously Amended"
+ },
+ {
+  "id": "example-committee-amendment-closing",
+  "level": 5,
+  "title": "Example: Committee Amendment Closing"
+ },
+ {
+  "id": "floor-amendment-heading",
+  "level": 5,
+  "title": "Floor Amendment Heading"
+ },
+ {
+  "id": "body-of-a-floor-amendment",
+  "level": 5,
+  "title": "Body of a Floor Amendment"
+ },
+ {
+  "id": "example-floor-amendment-heading",
+  "level": 5,
+  "title": "Example: Floor Amendment Heading"
+ },
+ {
+  "id": "floor-amendment-closing",
+  "level": 5,
+  "title": "Floor Amendment Closing"
+ },
+ {
+  "id": "second-page-slugs-2",
+  "level": 5,
+  "title": "Second Page — Slugs"
+ },
+ {
+  "id": "example-slug-for-a-simple-bill",
+  "level": 5,
+  "title": "Example: Slug for a Simple Bill"
+ },
+ {
+  "id": "example-floor-amendment-closing",
+  "level": 5,
+  "title": "Example: Floor Amendment Closing"
+ },
+ {
+  "id": "committee-reports-with-amendments",
+  "level": 5,
+  "title": "Committee Reports with Amendments"
+ },
+ {
+  "id": "committee-report-heading",
+  "level": 5,
+  "title": "Committee Report Heading"
+ },
+ {
+  "id": "example-committee-report-heading-senate-committee",
+  "level": 5,
+  "title": "Example: Committee Report Heading — Senate Committee"
+ },
+ {
+  "id": "example-slug-for-a-substitute-bill-previously-amended",
+  "level": 5,
+  "title": "Example: Slug for a Substitute Bill — Previously Amended"
+ },
+ {
+  "id": "body-of-a-committee-report",
+  "level": 5,
+  "title": "Body of a Committee Report"
+ },
+ {
+  "id": "committee-report-closing",
+  "level": 5,
+  "title": "Committee Report Closing"
+ },
+ {
+  "id": "example-committee-report-closing",
+  "level": 5,
+  "title": "Example: Committee Report Closing"
+ },
+ {
+  "id": "second-page-slugs-3",
+  "level": 5,
+  "title": "Second Page — Slugs"
+ },
+ {
+  "id": "action-by-committee",
+  "level": 5,
+  "title": "Action by Committee"
+ },
+ {
+  "id": "preparation-of-committee-report",
+  "level": 5,
+  "title": "Preparation of Committee Report"
+ },
+ {
+  "id": "example-slug-for-a-simple-bill-2",
+  "level": 5,
+  "title": "Example: Slug for a Simple Bill"
+ },
+ {
+  "id": "distribution",
+  "level": 5,
+  "title": "Distribution"
+ },
+ {
+  "id": "conference-committee-reports",
+  "level": 5,
+  "title": "Conference Committee Reports"
+ },
+ {
+  "id": "language-and-technical-requirements",
+  "level": 5,
+  "title": "Language and Technical Requirements"
+ },
+ {
+  "id": "page-and-line-numbers",
+  "level": 5,
+  "title": "Page and Line Numbers"
+ },
+ {
+  "id": "example-specified-page-and-line-numbers",
+  "level": 5,
+  "title": "Example: Specified Page and Line Numbers"
+ },
+ {
+  "id": "use-of-markers",
+  "level": 5,
+  "title": "Use of Markers"
+ },
+ {
+  "id": "example-incorrect-and-correct-amendments-use-of-markers",
+  "level": 5,
+  "title": "Example: Incorrect and Correct Amendments — Use of Markers"
+ },
+ {
+  "id": "example-use-of-markers",
+  "level": 5,
+  "title": "Example: Use of Markers"
+ },
+ {
+  "id": "example-incorrect-and-correct-amendments-use-of-markers-2",
+  "level": 5,
+  "title": "Example: Incorrect and Correct Amendments — Use of Markers"
+ },
+ {
+  "id": "example-incorrect-and-correct-amendments-use-of-markers-3",
+  "level": 5,
+  "title": "Example: Incorrect and Correct Amendments — Use of Markers"
+ },
+ {
+  "id": "example-striking-language-no-marker-needed",
+  "level": 5,
+  "title": "Example: Striking Language — No Marker Needed"
+ },
+ {
+  "id": "amending-to-change-money-amounts",
+  "level": 5,
+  "title": "Amending to Change Money Amounts"
+ },
+ {
+  "id": "global-e-e-instruction-changing-money-amounts",
+  "level": 5,
+  "title": "Global E&E Instruction — Changing Money Amounts"
+ },
+ {
+  "id": "amending-to-add-or-delete-subdivisions",
+  "level": 5,
+  "title": "Amending to Add or Delete Subdivisions"
+ },
+ {
+  "id": "example-amendment-to-change-money-amount",
+  "level": 5,
+  "title": "Example: Amendment to Change Money Amount"
+ },
+ {
+  "id": "example-global-e-e-instruction-subtotals-and-totals",
+  "level": 5,
+  "title": "Example: Global E&E Instruction — Subtotals and Totals"
+ },
+ {
+  "id": "example-the-bill",
+  "level": 5,
+  "title": "Example: The Bill"
+ },
+ {
+  "id": "example-the-bill-2",
+  "level": 5,
+  "title": "Example: The Bill"
+ },
+ {
+  "id": "example-amendments-adding-a-new-subsection",
+  "level": 5,
+  "title": "Example: Amendments — Adding a New Subsection"
+ },
+ {
+  "id": "renumber-or-reletter-instruction",
+  "level": 5,
+  "title": "Renumber or Reletter Instruction"
+ },
+ {
+  "id": "example-amendments-deleting-a-subsection",
+  "level": 5,
+  "title": "Example: Amendments — Deleting a Subsection"
+ },
+ {
+  "id": "example-the-amendments-reletter-instruction",
+  "level": 5,
+  "title": "Example: The Amendments — Reletter Instruction"
+ },
+ {
+  "id": "example-the-bill-3",
+  "level": 5,
+  "title": "Example: The Bill"
+ },
+ {
+  "id": "global-e-e-instruction-for-subdivision-changes",
+  "level": 5,
+  "title": "Global E&E Instruction for Subdivision Changes"
+ },
+ {
+  "id": "example-global-e-e-instruction-reletter",
+  "level": 5,
+  "title": "Example: Global E&E Instruction — Reletter"
+ },
+ {
+  "id": "example-amendments-renumber",
+  "level": 5,
+  "title": "Example: Amendments — Renumber"
+ },
+ {
+  "id": "amending-to-remove-a-section",
+  "level": 5,
+  "title": "Amending to Remove a Section"
+ },
+ {
+  "id": "amending-to-add-a-compiled-section-zoo",
+  "level": 5,
+  "title": "Amending to Add a Compiled Section (Zoo)"
+ },
+ {
+  "id": "example-amendments-to-remove-entire-section",
+  "level": 5,
+  "title": "Example: Amendments to Remove Entire Section"
+ },
+ {
+  "id": "example-amendments-to-remove-sections-citing-line-numbers",
+  "level": 5,
+  "title": "Example: Amendments to Remove Sections, Citing Line Numbers"
+ },
+ {
+  "id": "in-an-amendment-unless-an-entire-existing-section-of-law-a-z",
+  "level": 5,
+  "title": "in an amendment unless an entire existing section of law (a zoo) is being added to the bill"
+ },
+ {
+  "id": "amending-to-add-multiple-sections",
+  "level": 5,
+  "title": "Amending to Add Multiple Sections"
+ },
+ {
+  "id": "example-adding-entire-compiled-section-zoo",
+  "level": 5,
+  "title": "Example: Adding Entire Compiled Section (Zoo)"
+ },
+ {
+  "id": "global-e-e-instruction-for-section-changes",
+  "level": 5,
+  "title": "Global E&E Instruction for Section Changes"
+ },
+ {
+  "id": "example-adding-multiple-sections",
+  "level": 5,
+  "title": "Example: Adding Multiple Sections"
+ },
+ {
+  "id": "amending-to-add-a-new-material-section",
+  "level": 5,
+  "title": "Amending to Add a New Material Section"
+ },
+ {
+  "id": "insertion-after-line-25",
+  "level": 5,
+  "title": "Insertion After Line 25"
+ },
+ {
+  "id": "example-amendments-after-line-25",
+  "level": 5,
+  "title": "Example: Amendments — After Line 25"
+ },
+ {
+  "id": "example-adding-a-new-material-section",
+  "level": 5,
+  "title": "Example: Adding a New Material Section"
+ },
+ {
+  "id": "end-of-bill-insertion",
+  "level": 5,
+  "title": "End of Bill Insertion"
+ },
+ {
+  "id": "amending-cross-references",
+  "level": 5,
+  "title": "Amending Cross-References"
+ },
+ {
+  "id": "example-the-bill-4",
+  "level": 5,
+  "title": "Example: The Bill"
+ },
+ {
+  "id": "example-amendment-insertion-at-end-of-bill",
+  "level": 5,
+  "title": "Example: Amendment — Insertion at End of Bill"
+ },
+ {
+  "id": "quotation-marks-2",
+  "level": 5,
+  "title": "Quotation Marks"
+ },
+ {
+  "id": "punctuation-and-capitalization",
+  "level": 5,
+  "title": "Punctuation and Capitalization"
+ },
+ {
+  "id": "striking-previous-amendments",
+  "level": 5,
+  "title": "Striking Previous Amendments"
+ },
+ {
+  "id": "example-amendments-punctuation",
+  "level": 5,
+  "title": "Example: Amendments — Punctuation"
+ },
+ {
+  "id": "restoring-bracketed-language-and-striking-underscored-langua",
+  "level": 5,
+  "title": "Restoring Bracketed Language and Striking Underscored Language"
+ },
+ {
+  "id": "examples-striking-previous-amendments",
+  "level": 5,
+  "title": "Examples: Striking Previous Amendments"
+ },
+ {
+  "id": "example-amendment-restoring-bracketed-language",
+  "level": 5,
+  "title": "Example: Amendment — Restoring Bracketed Language"
+ },
+ {
+  "id": "example-the-bill-5",
+  "level": 5,
+  "title": "Example: The Bill"
+ },
+ {
+  "id": "mock-up-bills",
+  "level": 5,
+  "title": "Mock-Up Bills"
+ },
+ {
+  "id": "examples-amendments-restoring-bracketed-language-striking-un",
+  "level": 5,
+  "title": "Examples: Amendments — Restoring Bracketed Language — Striking Underscored Language"
+ },
+ {
+  "id": "52nd-legislature-state-of-new-mexico-second-session-2016-4",
+  "level": 5,
+  "title": "52ND LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2016"
+ },
+ {
+  "id": "mock-up",
+  "level": 5,
+  "title": "MOCK-UP"
+ },
+ {
+  "id": "example-mock-up-bill-heading",
+  "level": 5,
+  "title": "Example: Mock-Up Bill Heading"
+ },
+ {
+  "id": "example-mock-up-disclaimer-top-of-second-subsequent-pages",
+  "level": 5,
+  "title": "Example: Mock-Up Disclaimer — Top of Second & Subsequent Pages"
+ },
+ {
+  "id": "enrolled-and-engrossed-bills",
+  "level": 5,
+  "title": "Enrolled and Engrossed Bills"
+ },
+ {
+  "id": "certificate-of-correction",
+  "level": 5,
+  "title": "Certificate of Correction"
+ },
+ {
+  "id": "signature-page",
+  "level": 5,
+  "title": "Signature Page"
+ },
+ {
+  "id": "approval-date",
+  "level": 5,
+  "title": "Approval Date"
+ },
+ {
+  "id": "example-signature-page",
+  "level": 5,
+  "title": "Example: Signature Page"
+ },
+ {
+  "id": "example-approval-date",
+  "level": 5,
+  "title": "Example: Approval Date"
+ },
+ {
+  "id": "the-journal",
+  "level": 5,
+  "title": "The Journal"
+ },
+ {
+  "id": "legislative-reference-documents",
+  "level": 5,
+  "title": "Legislative Reference Documents"
+ },
+ {
+  "id": "daily-bill-locator",
+  "level": 5,
+  "title": "Daily Bill Locator"
+ },
+ {
+  "id": "subject-index",
+  "level": 5,
+  "title": "Subject Index"
+ },
+ {
+  "id": "sponsors-list",
+  "level": 5,
+  "title": "Sponsors List"
+ },
+ {
+  "id": "multiple-sponsors-list",
+  "level": 5,
+  "title": "Multiple Sponsors List"
+ },
+ {
+  "id": "conflicts-list",
+  "level": 5,
+  "title": "Conflicts List"
+ },
+ {
+  "id": "chapter-7-resolutions",
+  "level": 3,
+  "title": "CHAPTER 7: RESOLUTIONS"
+ },
+ {
+  "id": "a-resolution-is-a-formal-declaration-of-the-legislature-conc",
+  "level": 5,
+  "title": "A resolution is a formal declaration of the legislature concerning a certain subject that it cannot or does not wish to control by law. Resolutions are either simple, joint or concurrent and require no action on the part of the governor. By far, the most common resolution is a joint resolution proposing to amend the Constitution of New Mexico."
+ },
+ {
+  "id": "simple-resolutions",
+  "level": 5,
+  "title": "Simple Resolutions"
+ },
+ {
+  "id": "heading-2",
+  "level": 5,
+  "title": "Heading"
+ },
+ {
+  "id": "title-2",
+  "level": 5,
+  "title": "Title"
+ },
+ {
+  "id": "whereas-paragraphs",
+  "level": 5,
+  "title": "WHEREAS Paragraphs"
+ },
+ {
+  "id": "example-simple-resolution-title",
+  "level": 5,
+  "title": "Example: Simple Resolution Title"
+ },
+ {
+  "id": "52nd-legislature-state-of-new-mexico-second-session-2016-5",
+  "level": 5,
+  "title": "52ND LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2016"
+ },
+ {
+  "id": "example-simple-resolution-heading",
+  "level": 5,
+  "title": "Example: Simple Resolution Heading"
+ },
+ {
+  "id": "resolving-clause",
+  "level": 5,
+  "title": "Resolving Clause"
+ },
+ {
+  "id": "joint-resolutions",
+  "level": 5,
+  "title": "Joint Resolutions"
+ },
+ {
+  "id": "example-resolving-clause",
+  "level": 5,
+  "title": "Example: Resolving Clause"
+ },
+ {
+  "id": "example-whereas-paragraphs",
+  "level": 5,
+  "title": "Example: WHEREAS Paragraphs"
+ },
+ {
+  "id": "heading-3",
+  "level": 5,
+  "title": "Heading"
+ },
+ {
+  "id": "constitutional-amendments",
+  "level": 5,
+  "title": "Constitutional Amendments"
+ },
+ {
+  "id": "title-on-ballot",
+  "level": 5,
+  "title": "Title on Ballot"
+ },
+ {
+  "id": "52nd-legislature-state-of-new-mexico-second-session-2016-6",
+  "level": 5,
+  "title": "52ND LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2016"
+ },
+ {
+  "id": "example-joint-resolution-heading",
+  "level": 5,
+  "title": "Example: Joint Resolution Heading"
+ },
+ {
+  "id": "resolving-clause-2",
+  "level": 5,
+  "title": "Resolving Clause"
+ },
+ {
+  "id": "sections-in-constitutional-amendments",
+  "level": 5,
+  "title": "Sections in Constitutional Amendments"
+ },
+ {
+  "id": "example-constitutional-amendment-amending-existing-section",
+  "level": 5,
+  "title": "Example: Constitutional Amendment — Amending Existing Section"
+ },
+ {
+  "id": "example-title-and-resolving-clause",
+  "level": 5,
+  "title": "Example: Title and Resolving Clause"
+ },
+ {
+  "id": "election-section",
+  "level": 5,
+  "title": "Election Section"
+ },
+ {
+  "id": "example-election-section",
+  "level": 5,
+  "title": "Example: Election Section"
+ },
+ {
+  "id": "example-constitutional-amendment-repealing-existing-section-",
+  "level": 5,
+  "title": "Example: Constitutional Amendment — Repealing Existing Section & Adding New"
+ },
+ {
+  "id": "example-constitutional-amendment-repealing-existing-section",
+  "level": 5,
+  "title": "Example: Constitutional Amendment — Repealing Existing Section"
+ },
+ {
+  "id": "example-constitutional-amendment-adding-new-section",
+  "level": 5,
+  "title": "Example: Constitutional Amendment — Adding New Section"
+ },
+ {
+  "id": "single-subject-requirement",
+  "level": 5,
+  "title": "Single-Subject Requirement"
+ },
+ {
+  "id": "other-joint-resolutions",
+  "level": 5,
+  "title": "Other Joint Resolutions"
+ },
+ {
+  "id": "title-and-whereas-paragraphs",
+  "level": 5,
+  "title": "Title and WHEREAS Paragraphs"
+ },
+ {
+  "id": "resolving-clauses",
+  "level": 5,
+  "title": "Resolving Clauses"
+ },
+ {
+  "id": "example-joint-resolution-title-and-whereas-paragraphs",
+  "level": 5,
+  "title": "Example: Joint Resolution Title and WHEREAS Paragraphs"
+ },
+ {
+  "id": "transmittal-clause",
+  "level": 5,
+  "title": "Transmittal Clause"
+ },
+ {
+  "id": "example-joint-resolution-resolving-clause-property-exchange",
+  "level": 5,
+  "title": "Example: Joint Resolution Resolving Clause — Property Exchange"
+ },
+ {
+  "id": "example-be-it-further-resolved-transmittal-clause",
+  "level": 5,
+  "title": "Example: BE IT FURTHER RESOLVED Transmittal Clause"
+ },
+ {
+  "id": "concurrent-resolutions",
+  "level": 5,
+  "title": "Concurrent Resolutions"
+ },
+ {
+  "id": "heading-4",
+  "level": 5,
+  "title": "Heading"
+ },
+ {
+  "id": "example-resolving-clause-ratifying-federal-constitutional-am",
+  "level": 5,
+  "title": "Example: Resolving Clause Ratifying Federal Constitutional Amendment"
+ },
+ {
+  "id": "52nd-legislature-state-of-new-mexico-second-session-2016-7",
+  "level": 5,
+  "title": "52ND LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2016"
+ },
+ {
+  "id": "example-concurrent-resolution-heading",
+  "level": 5,
+  "title": "Example: Concurrent Resolution Heading"
+ },
+ {
+  "id": "title-3",
+  "level": 5,
+  "title": "Title"
+ },
+ {
+  "id": "resolving-clause-3",
+  "level": 5,
+  "title": "Resolving Clause"
+ },
+ {
+  "id": "concurring-phrase",
+  "level": 5,
+  "title": "Concurring Phrase"
+ },
+ {
+  "id": "example-concurrent-resolution-title",
+  "level": 5,
+  "title": "Example: Concurrent Resolution Title"
+ },
+ {
+  "id": "example-concurrent-resolution-resolving-clause",
+  "level": 5,
+  "title": "Example: Concurrent Resolution Resolving Clause"
+ },
+ {
+  "id": "chapter-8-memorials",
+  "level": 2,
+  "title": "CHAPTER 8: MEMORIALS"
+ },
+ {
+  "id": "a-memorial-is-an-expression-of-legislative-desire-usually-ad",
+  "level": 5,
+  "title": "A memorial is an expression of legislative desire, usually addressed to another governmental body, in the form of a petition or declaration of intent. Memorials are either simple or joint and require no action on the part of the governor."
+ },
+ {
+  "id": "simple-memorials",
+  "level": 5,
+  "title": "Simple Memorials"
+ },
+ {
+  "id": "heading-5",
+  "level": 5,
+  "title": "Heading"
+ },
+ {
+  "id": "title-4",
+  "level": 5,
+  "title": "Title"
+ },
+ {
+  "id": "whereas-paragraphs-2",
+  "level": 5,
+  "title": "WHEREAS Paragraphs"
+ },
+ {
+  "id": "52nd-legislature-state-of-new-mexico-second-session-2016-8",
+  "level": 5,
+  "title": "52ND LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2016"
+ },
+ {
+  "id": "example-memorial-heading",
+  "level": 5,
+  "title": "Example: Memorial Heading"
+ },
+ {
+  "id": "example-memorial-title",
+  "level": 5,
+  "title": "Example: Memorial Title"
+ },
+ {
+  "id": "example-whereas-paragraphs-2",
+  "level": 5,
+  "title": "Example: WHEREAS Paragraphs"
+ },
+ {
+  "id": "resolving-clauses-2",
+  "level": 5,
+  "title": "Resolving Clauses"
+ },
+ {
+  "id": "example-simple-memorial-resolving-clause",
+  "level": 5,
+  "title": "Example: Simple Memorial Resolving Clause"
+ },
+ {
+  "id": "example-subsequent-resolving-paragraphs",
+  "level": 5,
+  "title": "Example: Subsequent Resolving Paragraphs"
+ },
+ {
+  "id": "transmittal-clause-2",
+  "level": 5,
+  "title": "Transmittal Clause"
+ },
+ {
+  "id": "joint-memorials",
+  "level": 5,
+  "title": "Joint Memorials"
+ },
+ {
+  "id": "heading-6",
+  "level": 5,
+  "title": "Heading"
+ },
+ {
+  "id": "example-transmittal-clause-single-recepient",
+  "level": 5,
+  "title": "Example: Transmittal Clause — Single Recepient"
+ },
+ {
+  "id": "example-transmittal-clause-multiple-recipients",
+  "level": 5,
+  "title": "Example: Transmittal Clause — Multiple Recipients"
+ },
+ {
+  "id": "title-5",
+  "level": 5,
+  "title": "Title"
+ },
+ {
+  "id": "whereas-paragraphs-3",
+  "level": 5,
+  "title": "WHEREAS Paragraphs"
+ },
+ {
+  "id": "52nd-legislature-state-of-new-mexico-second-session-2016-9",
+  "level": 5,
+  "title": "52ND LEGISLATURE - STATE OF NEW MEXICO - SECOND SESSION, 2016"
+ },
+ {
+  "id": "example-joint-memorial-heading",
+  "level": 5,
+  "title": "Example: Joint Memorial Heading"
+ },
+ {
+  "id": "example-joint-memorial-title",
+  "level": 5,
+  "title": "Example: Joint Memorial Title"
+ },
+ {
+  "id": "resolving-clauses-3",
+  "level": 5,
+  "title": "Resolving Clauses"
+ },
+ {
+  "id": "example-whereas-paragraphs-3",
+  "level": 5,
+  "title": "Example: WHEREAS Paragraphs"
+ },
+ {
+  "id": "example-joint-memorial-resolving-clause",
+  "level": 5,
+  "title": "Example: Joint Memorial Resolving Clause"
+ },
+ {
+  "id": "transmittal-clause-3",
+  "level": 5,
+  "title": "Transmittal Clause"
+ },
+ {
+  "id": "example-subsequent-resolving-paragraphs-2",
+  "level": 5,
+  "title": "Example: Subsequent Resolving Paragraphs"
+ },
+ {
+  "id": "preparation-of-memorials",
+  "level": 5,
+  "title": "Preparation of Memorials"
+ },
+ {
+  "id": "certificates-of-condolence-congratulations-and-recognition",
+  "level": 5,
+  "title": "Certificates of Condolence, Congratulations and Recognition"
+ },
+ {
+  "id": "example-transmittal-clause",
+  "level": 5,
+  "title": "Example: Transmittal Clause"
+ },
+ {
+  "id": "chapter-9-legislative-style-and",
+  "level": 3,
+  "title": "CHAPTER 9: LEGISLATIVE STYLE AND"
+ },
+ {
+  "id": "language-provisions-and-information-memoranda",
+  "level": 4,
+  "title": "LANGUAGE PROVISIONS AND INFORMATION MEMORANDA"
+ },
+ {
+  "id": "the-legislative-council-service-uses-a-number-of-reference-b",
+  "level": 5,
+  "title": "The Legislative Council Service uses a number of reference books as spelling, style and grammar guides. The American Heritage Dictionary of the English Language is its primary language authority. The Proofing Office also uses Fowler's Modern English Usage for questions of grammar and syntax, making sure to convert British English to American English. Proofreaders also consult certain provisions of The Elements of Style by Strunk and White and The Chicago Manual of Style and other grammar reference books."
+ },
+ {
+  "id": "general-language-guidelines",
+  "level": 5,
+  "title": "General Language Guidelines"
+ },
+ {
+  "id": "statutory-construction",
+  "level": 5,
+  "title": "Statutory Construction"
+ },
+ {
+  "id": "number",
+  "level": 5,
+  "title": "Number"
+ },
+ {
+  "id": "voice",
+  "level": 5,
+  "title": "Voice"
+ },
+ {
+  "id": "tense",
+  "level": 5,
+  "title": "Tense"
+ },
+ {
+  "id": "examples-present-tense-usage",
+  "level": 5,
+  "title": "Examples: Present Tense Usage"
+ },
+ {
+  "id": "example-active-and-passive-voice",
+  "level": 5,
+  "title": "Example: Active and Passive Voice"
+ },
+ {
+  "id": "example-singular-noun-usage",
+  "level": 5,
+  "title": "Example: Singular Noun Usage"
+ },
+ {
+  "id": "gender-neutrality",
+  "level": 5,
+  "title": "Gender Neutrality"
+ },
+ {
+  "id": "parallel-construction",
+  "level": 5,
+  "title": "Parallel Construction"
+ },
+ {
+  "id": "cross-references",
+  "level": 5,
+  "title": "Cross-References"
+ },
+ {
+  "id": "example-correcting-gender-specific-language",
+  "level": 5,
+  "title": "Example: Correcting Gender-Specific Language"
+ },
+ {
+  "id": "word-usage",
+  "level": 5,
+  "title": "Word Usage"
+ },
+ {
+  "id": "state-of-new-mexico",
+  "level": 5,
+  "title": "State of New Mexico"
+ },
+ {
+  "id": "and-and-or",
+  "level": 5,
+  "title": "\"And\" and \"Or\""
+ },
+ {
+  "id": "shall-may-and-will",
+  "level": 5,
+  "title": "\"Shall\", \"May\" and \"Will\""
+ },
+ {
+  "id": "example-permissive",
+  "level": 5,
+  "title": "Example: Permissive"
+ },
+ {
+  "id": "example-use-of-or-both",
+  "level": 5,
+  "title": "Example: Use of \"or both\""
+ },
+ {
+  "id": "example-mandatory",
+  "level": 5,
+  "title": "Example: Mandatory"
+ },
+ {
+  "id": "a-an-and-the",
+  "level": 5,
+  "title": "\"A\", \"An\" and \"The\""
+ },
+ {
+  "id": "such-said-aforesaid-and-whatsoever",
+  "level": 5,
+  "title": "\"Such\", \"Said\", \"Aforesaid\" and \"Whatsoever\""
+ },
+ {
+  "id": "that",
+  "level": 5,
+  "title": "\"That\""
+ },
+ {
+  "id": "rule",
+  "level": 5,
+  "title": "\"Rule\""
+ },
+ {
+  "id": "this-act",
+  "level": 5,
+  "title": "\"This Act\""
+ },
+ {
+  "id": "example-reference-to-section",
+  "level": 5,
+  "title": "Example: Reference to Section"
+ },
+ {
+  "id": "example-reference-to-specific-prohibited-behavior",
+  "level": 5,
+  "title": "Example: Reference to Specific Prohibited Behavior"
+ },
+ {
+  "id": "example-comp-number-reference",
+  "level": 5,
+  "title": "Example: Comp Number Reference"
+ },
+ {
+  "id": "example-short-title-reference",
+  "level": 5,
+  "title": "Example: Short Title Reference"
+ },
+ {
+  "id": "example-qualification",
+  "level": 5,
+  "title": "Example: Qualification"
+ },
+ {
+  "id": "acceptable-use-of-this-act-or-that-act",
+  "level": 5,
+  "title": "Acceptable Use of \"This Act\" or \"That Act\""
+ },
+ {
+  "id": "example-subsequent-reference",
+  "level": 5,
+  "title": "Example: Subsequent Reference"
+ },
+ {
+  "id": "example-creating-short-title",
+  "level": 5,
+  "title": "Example: Creating Short Title"
+ },
+ {
+  "id": "example-effective-date-section-2",
+  "level": 5,
+  "title": "Example: Effective Date Section"
+ },
+ {
+  "id": "example-emergency-clause-2",
+  "level": 5,
+  "title": "Example: Emergency Clause"
+ },
+ {
+  "id": "example-applicability-section",
+  "level": 5,
+  "title": "Example: Applicability Section"
+ },
+ {
+  "id": "amending-this-act",
+  "level": 5,
+  "title": "Amending \"This Act\""
+ },
+ {
+  "id": "example-temporary-provisions-appropriations",
+  "level": 5,
+  "title": "Example: Temporary Provisions & Appropriations"
+ },
+ {
+  "id": "example-severability-section-2",
+  "level": 5,
+  "title": "Example: Severability Section"
+ },
+ {
+  "id": "example-amending-this-act",
+  "level": 5,
+  "title": "Example: Amending \"This Act\""
+ },
+ {
+  "id": "herein-hereinbefore-hereinafter-above-and-below",
+  "level": 5,
+  "title": "\"Herein\", \"Hereinbefore\", \"Hereinafter\", \"Above\" and \"Below\""
+ },
+ {
+  "id": "including-but-not-limited-to",
+  "level": 5,
+  "title": "\"Including, But Not Limited To\""
+ },
+ {
+  "id": "commonly-misused-words",
+  "level": 5,
+  "title": "Commonly Misused Words"
+ },
+ {
+  "id": "british-spelling",
+  "level": 5,
+  "title": "British Spelling"
+ },
+ {
+  "id": "examples-misused-words",
+  "level": 5,
+  "title": "Examples: Misused Words"
+ },
+ {
+  "id": "abbreviations-and-acronyms",
+  "level": 5,
+  "title": "Abbreviations and Acronyms"
+ },
+ {
+  "id": "concise-language",
+  "level": 5,
+  "title": "Concise Language"
+ },
+ {
+  "id": "use-avoid",
+  "level": 5,
+  "title": "Use Avoid"
+ },
+ {
+  "id": "examples-use-of-concise-or-preferred-language",
+  "level": 5,
+  "title": "Examples: Use of Concise or Preferred Language"
+ },
+ {
+  "id": "use-avoid-2",
+  "level": 5,
+  "title": "Use Avoid"
+ },
+ {
+  "id": "capitalization",
+  "level": 5,
+  "title": "Capitalization"
+ },
+ {
+  "id": "use-avoid-3",
+  "level": 5,
+  "title": "Use Avoid"
+ },
+ {
+  "id": "all-caps",
+  "level": 5,
+  "title": "All Caps"
+ },
+ {
+  "id": "example-2",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "proper-names",
+  "level": 5,
+  "title": "Proper Names"
+ },
+ {
+  "id": "short-title-acts",
+  "level": 5,
+  "title": "Short Title Acts"
+ },
+ {
+  "id": "initial-caps",
+  "level": 5,
+  "title": "Initial Caps"
+ },
+ {
+  "id": "do-not-capitalize-general-political-subdivisions-or-geograph",
+  "level": 5,
+  "title": "Do Not Capitalize General Political Subdivisions or Geographic Areas whether used in conjunction with a proper name or not"
+ },
+ {
+  "id": "capitalize",
+  "level": 5,
+  "title": "Capitalize"
+ },
+ {
+  "id": "derivatives-of-proper-names",
+  "level": 5,
+  "title": "Derivatives of Proper Names"
+ },
+ {
+  "id": "specific-laws-chapters-articles-sections-and-section-subsect",
+  "level": 5,
+  "title": "Specific Laws, Chapters, Articles, Sections and Section Subsections"
+ },
+ {
+  "id": "divisions-of-calendar",
+  "level": 5,
+  "title": "Divisions of Calendar"
+ },
+ {
+  "id": "do-not-capitalize-boards-commissions-institutions-and-other-",
+  "level": 5,
+  "title": "Do Not Capitalize Boards, Commissions, Institutions and Other Bodies"
+ },
+ {
+  "id": "titles-of-officials-whether-elective-or-appointive-unless-th",
+  "level": 5,
+  "title": "Titles of Officials, whether elective or appointive, unless the title is used in addressing them"
+ },
+ {
+  "id": "time-of-day",
+  "level": 5,
+  "title": "Time of Day"
+ },
+ {
+  "id": "presentation-copies",
+  "level": 5,
+  "title": "Presentation Copies"
+ },
+ {
+  "id": "punctuation",
+  "level": 5,
+  "title": "Punctuation"
+ },
+ {
+  "id": "commas",
+  "level": 5,
+  "title": "Commas"
+ },
+ {
+  "id": "do-not-capitalize",
+  "level": 5,
+  "title": "Do Not Capitalize"
+ },
+ {
+  "id": "the-first-letter-of-the-first-word-of-subdivisions-following",
+  "level": 5,
+  "title": "The First Letter of the First Word of Subdivisions Following a Colon"
+ },
+ {
+  "id": "derivatives-of-proper-names-with-acquired-independent-meanin",
+  "level": 5,
+  "title": "Derivatives of Proper Names with Acquired Independent Meanings"
+ },
+ {
+  "id": "semicolons",
+  "level": 5,
+  "title": "Semicolons"
+ },
+ {
+  "id": "example-semicolons-ending-subdivisions",
+  "level": 5,
+  "title": "Example: Semicolons Ending Subdivisions"
+ },
+ {
+  "id": "example-semicolons-in-title",
+  "level": 5,
+  "title": "Example: Semicolons in Title"
+ },
+ {
+  "id": "example-no-penultimate-comma",
+  "level": 5,
+  "title": "Example: No Penultimate Comma"
+ },
+ {
+  "id": "colons",
+  "level": 5,
+  "title": "Colons"
+ },
+ {
+  "id": "quotation-marks-3",
+  "level": 5,
+  "title": "Quotation Marks"
+ },
+ {
+  "id": "example-amendatory-section-and-quotation-marks",
+  "level": 5,
+  "title": "Example: Amendatory Section and Quotation Marks"
+ },
+ {
+  "id": "examples-quotation-marks",
+  "level": 5,
+  "title": "Examples: Quotation Marks"
+ },
+ {
+  "id": "example-semicolons-in-compound-lists",
+  "level": 5,
+  "title": "Example: Semicolons in Compound Lists"
+ },
+ {
+  "id": "example-defined-term-and-quotation-marks",
+  "level": 5,
+  "title": "Example: Defined Term and Quotation Marks"
+ },
+ {
+  "id": "example-new-material-lead-in-and-quotation-marks",
+  "level": 5,
+  "title": "Example: New Material Lead-In and Quotation Marks"
+ },
+ {
+  "id": "examples-creations-and-quotation-marks",
+  "level": 5,
+  "title": "Examples: Creations and Quotation Marks"
+ },
+ {
+  "id": "hyphens-and-dashes",
+  "level": 5,
+  "title": "Hyphens and Dashes"
+ },
+ {
+  "id": "examples-compound-words",
+  "level": 5,
+  "title": "Examples: Compound Words"
+ },
+ {
+  "id": "examples-ly-adjectives",
+  "level": 5,
+  "title": "Examples: \"ly\" Adjectives"
+ },
+ {
+  "id": "examples-compound-adjectives",
+  "level": 5,
+  "title": "Examples: Compound Adjectives"
+ },
+ {
+  "id": "example-comp-number",
+  "level": 5,
+  "title": "Example: Comp Number"
+ },
+ {
+  "id": "examples-fractions",
+  "level": 5,
+  "title": "Examples: Fractions"
+ },
+ {
+  "id": "examples-compound-numbers",
+  "level": 5,
+  "title": "Examples: Compound Numbers"
+ },
+ {
+  "id": "dashes",
+  "level": 5,
+  "title": "Dashes"
+ },
+ {
+  "id": "information-memoranda",
+  "level": 5,
+  "title": "Information Memoranda"
+ },
+ {
+  "id": "heading-7",
+  "level": 5,
+  "title": "Heading"
+ },
+ {
+  "id": "examples-hyphen-use",
+  "level": 5,
+  "title": "Examples: Hyphen Use"
+ },
+ {
+  "id": "example-section-heading-and-dashes",
+  "level": 5,
+  "title": "Example: Section Heading and Dashes"
+ },
+ {
+  "id": "disclaimers",
+  "level": 5,
+  "title": "Disclaimers"
+ },
+ {
+  "id": "example-information-memoranda-to-from-and-subject-lines",
+  "level": 5,
+  "title": "Example: Information Memoranda — To, From and Subject Lines"
+ },
+ {
+  "id": "example-information-memoranda-disclaimer-arguments-for-again",
+  "level": 5,
+  "title": "Example: Information Memoranda — Disclaimer: Arguments For & Against"
+ },
+ {
+  "id": "example-information-memoranda-standard-disclaimer-request-fo",
+  "level": 5,
+  "title": "Example: Information Memoranda — Standard Disclaimer: Request for Information & Bill Analysis"
+ },
+ {
+  "id": "example-information-memoranda-disclaimer-talking-points-op-e",
+  "level": 5,
+  "title": "Example: Information Memoranda — Disclaimer: Talking Points, Op-Ed, Pros & Cons"
+ },
+ {
+  "id": "chapter-10-money-and-numbers-in",
+  "level": 3,
+  "title": "CHAPTER 10: MONEY AND NUMBERS IN"
+ },
+ {
+  "id": "legislative-documents",
+  "level": 4,
+  "title": "LEGISLATIVE DOCUMENTS"
+ },
+ {
+  "id": "there-are-specific-rules-for-writing-amounts-of-money-and-nu",
+  "level": 5,
+  "title": "There are specific rules for writing amounts of money and numbers when drafting legislation. These rules are intended to provide clarity and, in some cases, redundancy to ensure accuracy."
+ },
+ {
+  "id": "money",
+  "level": 5,
+  "title": "Money"
+ },
+ {
+  "id": "numbers",
+  "level": 5,
+  "title": "Numbers"
+ },
+ {
+  "id": "amounts-from-one-dollar-1-00-through-ninety-nine-dollars-nin",
+  "level": 5,
+  "title": "Amounts from one dollar ($1.00) through ninety-nine dollars ninety-nine cents ($99.99):"
+ },
+ {
+  "id": "amounts-of-one-hundred-dollars-100-or-more",
+  "level": 5,
+  "title": "Amounts of one hundred dollars ($100) or more:"
+ },
+ {
+  "id": "amounts-less-than-one-dollar-1-00",
+  "level": 5,
+  "title": "Amounts less than one dollar ($1.00):"
+ },
+ {
+  "id": "examples-money-amounts",
+  "level": 5,
+  "title": "Examples: Money Amounts"
+ },
+ {
+  "id": "example-reference-to-article-of-the-constitution-of-new-new-",
+  "level": 5,
+  "title": "Example: Reference to Article of the Constitution of New New Mexico"
+ },
+ {
+  "id": "mills",
+  "level": 5,
+  "title": "Mills"
+ },
+ {
+  "id": "dates",
+  "level": 5,
+  "title": "Dates"
+ },
+ {
+  "id": "statutory-references",
+  "level": 5,
+  "title": "Statutory References"
+ },
+ {
+  "id": "numbers-in-bill-text",
+  "level": 5,
+  "title": "Numbers in Bill Text"
+ },
+ {
+  "id": "examples-mills",
+  "level": 5,
+  "title": "Examples: Mills"
+ },
+ {
+  "id": "examples-statutes",
+  "level": 5,
+  "title": "Examples: Statutes"
+ },
+ {
+  "id": "examples-dates",
+  "level": 5,
+  "title": "Examples: Dates"
+ },
+ {
+  "id": "example-reference-to-federal-title-number",
+  "level": 5,
+  "title": "Example: Reference to Federal Title Number"
+ },
+ {
+  "id": "example-conversion-of-roman-numeral",
+  "level": 5,
+  "title": "Example: Conversion of Roman Numeral"
+ },
+ {
+  "id": "numbers-in-non-legislation-text",
+  "level": 5,
+  "title": "Numbers in Non-Legislation Text"
+ },
+ {
+  "id": "formulas-charts-and-tables",
+  "level": 5,
+  "title": "Formulas, Charts and Tables"
+ },
+ {
+  "id": "example-formula-use-do-not-use",
+  "level": 5,
+  "title": "Example: Formula Use Do Not Use"
+ },
+ {
+  "id": "examples-numbers-in-bills",
+  "level": 5,
+  "title": "Examples: Numbers in Bills"
+ },
+ {
+  "id": "example-number-in-non-legislation-text",
+  "level": 5,
+  "title": "Example: Number in Non-Legislation Text"
+ },
+ {
+  "id": "forms",
+  "level": 5,
+  "title": "Forms"
+ },
+ {
+  "id": "example-table",
+  "level": 5,
+  "title": "Example: Table"
+ },
+ {
+  "id": "example-chart",
+  "level": 5,
+  "title": "Example: Chart"
+ },
+ {
+  "id": "example-form",
+  "level": 5,
+  "title": "Example: Form"
+ },
+ {
+  "id": "chapter-11-word-processing-and-format",
+  "level": 3,
+  "title": "CHAPTER 11: WORD PROCESSING AND FORMAT"
+ },
+ {
+  "id": "bills-resolutions-and-memorials-are-all-typed-in-the-same-ma",
+  "level": 5,
+  "title": "Bills, resolutions and memorials are all typed in the same manner. For simplicity's sake, this chapter will use bills as examples. Spacing"
+ },
+ {
+  "id": "indentation",
+  "level": 5,
+  "title": "Indentation"
+ },
+ {
+  "id": "paper",
+  "level": 5,
+  "title": "Paper"
+ },
+ {
+  "id": "page-numbering-bills",
+  "level": 5,
+  "title": "Page Numbering — Bills"
+ },
+ {
+  "id": "example-page-number-bottom-of-page",
+  "level": 5,
+  "title": "Example: Page Number — Bottom of Page"
+ },
+ {
+  "id": "example-page-number-last-page",
+  "level": 5,
+  "title": "Example: Page Number — Last Page"
+ },
+ {
+  "id": "reports-and-amendments",
+  "level": 5,
+  "title": "Reports and Amendments"
+ },
+ {
+  "id": "example-senate-floor-amendment-to-house-bill-435-as-amended",
+  "level": 5,
+  "title": "Example: Senate Floor Amendment to House Bill 435, as amended"
+ },
+ {
+  "id": "example-house-appropriations-and-finance-committee-report-on",
+  "level": 5,
+  "title": "Example: House Appropriations and Finance Committee Report on Senate Judiciary Committee Substitute for Senate Bill 113, as amended"
+ },
+ {
+  "id": "example-house-appropriations-and-finance-committee-report-on-2",
+  "level": 5,
+  "title": "Example: House Appropriations and Finance Committee Report on House Bill 43"
+ },
+ {
+  "id": "slug-lines",
+  "level": 5,
+  "title": "Slug Lines"
+ },
+ {
+  "id": "copies",
+  "level": 5,
+  "title": "Copies"
+ },
+ {
+  "id": "colors",
+  "level": 5,
+  "title": "Colors"
+ },
+ {
+  "id": "bill-jackets",
+  "level": 5,
+  "title": "Bill Jackets"
+ },
+ {
+  "id": "examples-slugs",
+  "level": 5,
+  "title": "Examples: Slugs"
+ },
+ {
+  "id": "labels-2",
+  "level": 5,
+  "title": "Labels"
+ },
+ {
+  "id": "assembly",
+  "level": 5,
+  "title": "Assembly"
+ },
+ {
+  "id": "examples-label",
+  "level": 5,
+  "title": "Examples: Label"
+ },
+ {
+  "id": "examples-labels",
+  "level": 5,
+  "title": "Examples: Labels"
+ },
+ {
+  "id": "sponsors-names",
+  "level": 5,
+  "title": "Sponsors' Names"
+ },
+ {
+  "id": "standing-committee-acronyms",
+  "level": 5,
+  "title": "Standing Committee Acronyms"
+ },
+ {
+  "id": "house-standing-committees",
+  "level": 5,
+  "title": "House Standing Committees"
+ },
+ {
+  "id": "senate-standing-committees",
+  "level": 5,
+  "title": "Senate Standing Committees"
+ },
+ {
+  "id": "appendix-a-provisions-of-common-bills",
+  "level": 2,
+  "title": "Appendix A: Provisions of Common Bills"
+ },
+ {
+  "id": "appendix-a-provisions-of-common-bills-2",
+  "level": 3,
+  "title": "APPENDIX A: PROVISIONS OF COMMON BILLS"
+ },
+ {
+  "id": "there-are-several-types-of-bills-that-are-so-common-that-a-d",
+  "level": 5,
+  "title": "There are several types of bills that are so common that a discussion of required contents will be helpful to the seasoned pro as well as the beginning drafter. The items listed should not be considered exhaustive; their inclusion or exclusion depends upon the request."
+ },
+ {
+  "id": "boards-and-commissions",
+  "level": 5,
+  "title": "Boards and Commissions"
+ },
+ {
+  "id": "drafting-considerations",
+  "level": 5,
+  "title": "Drafting Considerations"
+ },
+ {
+  "id": "appendix-a-provisions-of-common-bills-3",
+  "level": 2,
+  "title": "Appendix A: Provisions of Common Bills"
+ },
+ {
+  "id": "appendix-a-provisions-of-common-bills-4",
+  "level": 2,
+  "title": "Appendix A: Provisions of Common Bills"
+ },
+ {
+  "id": "licensing-acts",
+  "level": 5,
+  "title": "Licensing Acts"
+ },
+ {
+  "id": "licensing-boards",
+  "level": 5,
+  "title": "Licensing Boards"
+ },
+ {
+  "id": "licensure",
+  "level": 5,
+  "title": "Licensure"
+ },
+ {
+  "id": "appendix-a-provisions-of-common-bills-5",
+  "level": 2,
+  "title": "Appendix A: Provisions of Common Bills"
+ },
+ {
+  "id": "miscellaneous-considerations",
+  "level": 5,
+  "title": "Miscellaneous Considerations"
+ },
+ {
+  "id": "executive-reorganization",
+  "level": 5,
+  "title": "Executive Reorganization"
+ },
+ {
+  "id": "creating-or-reorganizing-department-or-agency",
+  "level": 5,
+  "title": "Creating or Reorganizing Department or Agency"
+ },
+ {
+  "id": "appendix-a-provisions-of-common-bills-6",
+  "level": 2,
+  "title": "Appendix A: Provisions of Common Bills"
+ },
+ {
+  "id": "capital-outlay",
+  "level": 5,
+  "title": "Capital Outlay"
+ },
+ {
+  "id": "general-issues",
+  "level": 5,
+  "title": "General Issues"
+ },
+ {
+  "id": "appendix-a-provisions-of-common-bills-7",
+  "level": 2,
+  "title": "Appendix A: Provisions of Common Bills"
+ },
+ {
+  "id": "authorization-for-bonds",
+  "level": 5,
+  "title": "Authorization for Bonds"
+ },
+ {
+  "id": "tax-bills",
+  "level": 5,
+  "title": "Tax Bills"
+ },
+ {
+  "id": "motor-vehicle-code",
+  "level": 5,
+  "title": "Motor Vehicle Code"
+ },
+ {
+  "id": "appendix-a-provisions-of-common-bills-8",
+  "level": 2,
+  "title": "Appendix A: Provisions of Common Bills"
+ },
+ {
+  "id": "funds",
+  "level": 5,
+  "title": "Funds"
+ },
+ {
+  "id": "judgeships",
+  "level": 5,
+  "title": "Judgeships"
+ },
+ {
+  "id": "appendix-a-provisions-of-common-bills-9",
+  "level": 2,
+  "title": "Appendix A: Provisions of Common Bills"
+ },
+ {
+  "id": "appendix-b-assignment-of-compilation-numbers",
+  "level": 2,
+  "title": "Appendix B: Assignment of Compilation Numbers"
+ },
+ {
+  "id": "appendix-b-assignment-of",
+  "level": 3,
+  "title": "APPENDIX B: ASSIGNMENT OF"
+ },
+ {
+  "id": "compilation-numbers",
+  "level": 4,
+  "title": "COMPILATION NUMBERS"
+ },
+ {
+  "id": "new-mexico-compilation-commission-the-assignment-of-comp-num",
+  "level": 5,
+  "title": "New Mexico Compilation Commission The assignment of Comp numbers is a function of the New Mexico Compilation Commission acting through the official compiler. The drafter should try to refrain from assigning Comp numbers as a matter of general practice. In certain cases, such as repeal and reenactment, the drafter may be risking conflicts and confusion in statutory cross-references, court cases or agency rules. A drafter can find and fix statutory cross-references in the same bill; however, court cases and agency rules are beyond the drafter's purview."
+ },
+ {
+  "id": "appendix-b-assignment-of-compilation-numbers-2",
+  "level": 2,
+  "title": "Appendix B: Assignment of Compilation Numbers"
+ },
+ {
+  "id": "assignment-of-comp-numbers-by-drafter",
+  "level": 5,
+  "title": "Assignment of Comp Numbers by Drafter"
+ },
+ {
+  "id": "new-material-designation-2",
+  "level": 5,
+  "title": "New Material Designation"
+ },
+ {
+  "id": "example-comp-number-assigned",
+  "level": 5,
+  "title": "Example: Comp Number Assigned"
+ },
+ {
+  "id": "appendix-b-assignment-of-compilation-numbers-3",
+  "level": 2,
+  "title": "Appendix B: Assignment of Compilation Numbers"
+ },
+ {
+  "id": "example-comp-number-assigned-placement-in-existing-short-tit",
+  "level": 5,
+  "title": "Example: Comp Number Assigned — Placement in Existing Short Title Act"
+ },
+ {
+  "id": "appendix-c-internal-citations",
+  "level": 2,
+  "title": "Appendix C: Internal Citations"
+ },
+ {
+  "id": "appendix-c-internal-citations-2",
+  "level": 3,
+  "title": "APPENDIX C: INTERNAL CITATIONS"
+ },
+ {
+  "id": "there-are-occasions-when-the-drafter-must-draft-citations-wi",
+  "level": 5,
+  "title": "There are occasions when the drafter must draft citations within a bill, resolution, memorial or memorandum. Rigid rules on citation style are difficult to develop and may create more confusion than resolution. Some suggestions, however, are offered for the most common situations."
+ },
+ {
+  "id": "constitutional-provisions",
+  "level": 5,
+  "title": "Constitutional Provisions"
+ },
+ {
+  "id": "reference-preferred-citation",
+  "level": 5,
+  "title": "Reference Preferred Citation"
+ },
+ {
+  "id": "appendix-c-internal-citations-3",
+  "level": 2,
+  "title": "Appendix C: Internal Citations"
+ },
+ {
+  "id": "federal-provisions",
+  "level": 5,
+  "title": "Federal Provisions"
+ },
+ {
+  "id": "state-provisions",
+  "level": 5,
+  "title": "State Provisions"
+ },
+ {
+  "id": "compiled-sections-of-law",
+  "level": 5,
+  "title": "Compiled Sections of Law"
+ },
+ {
+  "id": "reference-preferred-citation-2",
+  "level": 5,
+  "title": "Reference Preferred Citation"
+ },
+ {
+  "id": "other-examples",
+  "level": 5,
+  "title": "Other Examples:"
+ },
+ {
+  "id": "example-compiled-law",
+  "level": 5,
+  "title": "Example: Compiled Law"
+ },
+ {
+  "id": "appendix-c-internal-citations-4",
+  "level": 2,
+  "title": "Appendix C: Internal Citations"
+ },
+ {
+  "id": "noncompiled-sections-of-law",
+  "level": 5,
+  "title": "Noncompiled Sections of Law"
+ },
+ {
+  "id": "footnotes-and-parenthetical-citations",
+  "level": 5,
+  "title": "Footnotes and Parenthetical Citations"
+ },
+ {
+  "id": "short-titles-2",
+  "level": 5,
+  "title": "Short Titles"
+ },
+ {
+  "id": "example-broad-reference",
+  "level": 5,
+  "title": "Example: Broad Reference"
+ },
+ {
+  "id": "example-new-material-section",
+  "level": 5,
+  "title": "Example: New Material Section"
+ },
+ {
+  "id": "example-specific-section",
+  "level": 5,
+  "title": "Example: Specific Section"
+ },
+ {
+  "id": "example-example-session-law",
+  "level": 5,
+  "title": "Example: Example: Session Law"
+ },
+ {
+  "id": "appendix-c-internal-citations-5",
+  "level": 2,
+  "title": "Appendix C: Internal Citations"
+ },
+ {
+  "id": "judicial-decisions",
+  "level": 5,
+  "title": "Judicial Decisions"
+ },
+ {
+  "id": "court-of-decision-cite-as",
+  "level": 5,
+  "title": "Court of Decision Cite As"
+ },
+ {
+  "id": "appendix-d-the-general-appropriation-act-appendix-d-the-gene",
+  "level": 2,
+  "title": "Appendix D: The General Appropriation Act APPENDIX D: THE GENERAL"
+ },
+ {
+  "id": "appropriation-act",
+  "level": 3,
+  "title": "APPROPRIATION ACT"
+ },
+ {
+  "id": "the-general-appropriation-act-follows-as-well-as-it-can-the-",
+  "level": 5,
+  "title": "The general appropriation act follows, as well as it can, the style and standards adopted for all other bills. However, there are certain requirements peculiar to this important piece of legislation, particularly those stated in the Constitution of New Mexico and those necessary because of the space allotted for columnar material. Some deviations from accepted style are necessary. Following are facts and foibles about House Bill 2."
+ },
+ {
+  "id": "house-bill-2",
+  "level": 5,
+  "title": "House Bill 2"
+ },
+ {
+  "id": "appendix-d-the-general-appropriation-act",
+  "level": 2,
+  "title": "Appendix D: The General Appropriation Act"
+ },
+ {
+  "id": "sections-of-house-bill-2",
+  "level": 5,
+  "title": "Sections of House Bill 2"
+ },
+ {
+  "id": "appendix-d-the-general-appropriation-act-2",
+  "level": 2,
+  "title": "Appendix D: The General Appropriation Act"
+ },
+ {
+  "id": "format-of-house-bill-2",
+  "level": 5,
+  "title": "Format of House Bill 2"
+ },
+ {
+  "id": "substitute-for-house-bill-2",
+  "level": 5,
+  "title": "Substitute for House Bill 2"
+ },
+ {
+  "id": "funding",
+  "level": 5,
+  "title": "Funding"
+ },
+ {
+  "id": "budget-chart-of-accounts",
+  "level": 5,
+  "title": "Budget Chart of Accounts"
+ },
+ {
+  "id": "appendix-d-the-general-appropriation-act-3",
+  "level": 2,
+  "title": "Appendix D: The General Appropriation Act"
+ },
+ {
+  "id": "index",
+  "level": 3,
+  "title": "INDEX"
+ },
+ {
+  "id": "index-index",
+  "level": 2,
+  "title": "Index Index"
+ },
+ {
+  "id": "a",
+  "level": 5,
+  "title": "A"
+ },
+ {
+  "id": "b",
+  "level": 5,
+  "title": "B"
+ },
+ {
+  "id": "index-2",
+  "level": 2,
+  "title": "Index"
+ },
+ {
+  "id": "c",
+  "level": 5,
+  "title": "C"
+ },
+ {
+  "id": "index-3",
+  "level": 2,
+  "title": "Index"
+ },
+ {
+  "id": "d",
+  "level": 5,
+  "title": "D"
+ },
+ {
+  "id": "e",
+  "level": 5,
+  "title": "E"
+ },
+ {
+  "id": "index-4",
+  "level": 2,
+  "title": "Index"
+ },
+ {
+  "id": "f",
+  "level": 5,
+  "title": "F"
+ },
+ {
+  "id": "g",
+  "level": 5,
+  "title": "G"
+ },
+ {
+  "id": "h",
+  "level": 5,
+  "title": "H"
+ },
+ {
+  "id": "index-5",
+  "level": 2,
+  "title": "Index"
+ },
+ {
+  "id": "i",
+  "level": 5,
+  "title": "I"
+ },
+ {
+  "id": "j",
+  "level": 5,
+  "title": "J"
+ },
+ {
+  "id": "k-l",
+  "level": 5,
+  "title": "K L"
+ },
+ {
+  "id": "m",
+  "level": 5,
+  "title": "M"
+ },
+ {
+  "id": "index-6",
+  "level": 2,
+  "title": "Index"
+ },
+ {
+  "id": "n",
+  "level": 5,
+  "title": "N"
+ },
+ {
+  "id": "o",
+  "level": 5,
+  "title": "O"
+ },
+ {
+  "id": "p",
+  "level": 5,
+  "title": "P"
+ },
+ {
+  "id": "index-7",
+  "level": 2,
+  "title": "Index"
+ },
+ {
+  "id": "q",
+  "level": 5,
+  "title": "Q"
+ },
+ {
+  "id": "r",
+  "level": 5,
+  "title": "R"
+ },
+ {
+  "id": "s",
+  "level": 5,
+  "title": "S"
+ },
+ {
+  "id": "index-8",
+  "level": 2,
+  "title": "Index"
+ },
+ {
+  "id": "t",
+  "level": 5,
+  "title": "T"
+ },
+ {
+  "id": "u",
+  "level": 5,
+  "title": "U"
+ },
+ {
+  "id": "v",
+  "level": 5,
+  "title": "V"
+ },
+ {
+  "id": "w",
+  "level": 5,
+  "title": "W"
+ },
+ {
+  "id": "index-9",
+  "level": 2,
+  "title": "Index"
+ },
+ {
+  "id": "x-y",
+  "level": 5,
+  "title": "X Y"
+ },
+ {
+  "id": "z",
+  "level": 5,
+  "title": "Z"
+ },
+ {
+  "id": "drafter-s-checklist",
+  "level": 5,
+  "title": "DRAFTER'S CHECKLIST"
+ },
+ {
+  "id": "legislative-council-service-september-22-2015-2",
+  "level": 5,
+  "title": "Legislative Council Service September 22, 2015"
+ }
+]
