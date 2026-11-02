@@ -28,13 +28,14 @@ Site: <https://legdraft.linkedlegislation.org/> (deployed from `main` by GitHub 
 | `data/guidelines.schema.json` | Formal JSON Schema (Draft 2020-12) validating `data/guidelines.yml`. |
 | `data/comparative_matrix.yml` | Cross-jurisdictional comparative matrix data across 10 benchmark drafting manuals. |
 | `data/retrieval.json` | Download record per document: date, final URL, HTTP status, size, SHA-256, or the error. |
-| `documents/<id>/original.*` | Downloaded original. Kept locally; not committed. |
+| `documents/<id>/original.*` | Downloaded original. Not committed; kept locally and, when `ORIGINALS_S3_BUCKET` is set, in S3. |
 | `documents/<id>/content.html`, `toc.json` | Converted HTML and table of contents. Committed. `text.txt` is kept locally. |
 | `scripts/catalog.py` | Loads and merges the catalog files. |
 | `scripts/validate_catalog.py` | Validates the catalog files against `data/guidelines.schema.json`. |
 | `scripts/evaluate_bill.py` | CLI and local HTTP API engine for evaluating draft bills against guidelines (1–10 score). |
 | `scripts/fetch.py` | Downloads originals listed in the catalog. |
 | `scripts/convert.py` | Converts PDF, HTML and Word originals to structured HTML. |
+| `scripts/originals_store.py` | Uploads originals to and downloads them from an S3 bucket. |
 | `scripts/build_site.py` | Generates the static site in `dist/`. |
 | `scripts/export_opensearch.py` | Writes an OpenSearch bulk file (one document per section) and optionally loads it. |
 | `site_src/` | Site templates (`index.html`, `auditor.html`, `compare.html`, `guideline.html`, etc.), CSS and JS. |
@@ -84,6 +85,25 @@ a body under 2 KB, or an HTML page where the catalog's `original_format` is PDF 
 pages, bot challenges, login pages or landing pages that a moved document redirects to. When a site blocks automated
 downloads, save the document in a browser and import it with `fetch.py <id> --file <path>`; see
 [`research/manual-downloads.md`](research/manual-downloads.md) for the current list and procedure.
+
+### Storing originals in S3
+
+Originals (about 300 MB for the current catalog) are kept out of git. To keep them in an S3 bucket, set
+`ORIGINALS_S3_BUCKET` (and optionally `ORIGINALS_S3_PREFIX`, default `originals/`) with AWS credentials available to
+boto3 (`AWS_PROFILE`, access keys, or an instance role):
+
+```sh
+export ORIGINALS_S3_BUCKET=<bucket>
+.venv/bin/python scripts/originals_store.py push        # upload local originals not yet in the bucket
+.venv/bin/python scripts/fetch.py <id>                  # also uploads; records s3_uri in data/retrieval.json
+.venv/bin/python scripts/convert.py --from-s3 <id>      # downloads a missing original, then converts
+.venv/bin/python scripts/originals_store.py pull [ids]  # download originals missing locally
+.venv/bin/python scripts/originals_store.py list
+```
+
+Objects are stored at `<prefix><id>/original.<ext>` with the file's SHA-256 in the object metadata; `push` skips
+objects whose SHA-256 already matches. The IAM principal needs `s3:ListBucket` on the bucket and `s3:GetObject`,
+`s3:PutObject` and `s3:DeleteObject` on the prefix. When `ORIGINALS_S3_BUCKET` is unset, nothing changes.
 
 `tests/test_documents.py` fails for any converted document under 1,000 words or whose opening text matches a block
 or login page.

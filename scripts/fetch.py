@@ -9,6 +9,9 @@ Entries with a `crawl` block are multi-page HTML guides: pages linked from the
 source URL whose URL starts with `crawl.prefix` are saved as
 documents/<id>/pages/NNN.html, in link order.
 
+When ORIGINALS_S3_BUCKET is set, each saved original is also uploaded to S3
+(see scripts/originals_store.py) and its s3:// URI is recorded as `s3_uri`.
+
 Usage:
     python scripts/fetch.py               # fetch everything not yet retrieved
     python scripts/fetch.py --force       # re-download everything
@@ -31,6 +34,8 @@ from urllib.parse import urljoin, urldefrag
 import requests
 import yaml
 from bs4 import BeautifulSoup
+
+import originals_store
 
 ROOT = Path(__file__).resolve().parent.parent
 CATALOG = ROOT / "data" / "guidelines.yml"
@@ -228,6 +233,17 @@ def import_file(entry: dict, path: Path, url: str | None) -> dict:
     return record
 
 
+def store_original(record: dict, doc_id: str) -> None:
+    """Upload the saved original to S3 when ORIGINALS_S3_BUCKET is set."""
+    if record.get("error") or not originals_store.enabled():
+        return
+    path = ROOT / record["file"]
+    try:
+        record["s3_uri"] = originals_store.upload(doc_id, path)
+    except Exception as exc:  # the local copy is kept; report and continue
+        print(f"{doc_id:50s} S3 upload failed: {type(exc).__name__}: {exc}")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("ids", nargs="*", help="only fetch these catalog ids")
@@ -245,6 +261,7 @@ def main() -> int:
         if entry is None:
             parser.error(f"{args.ids[0]} is not in the catalog")
         record = import_file(entry, args.file.expanduser(), args.url)
+        store_original(record, entry["id"])
         print(f"{entry['id']:50s} {record.get('error') or record['format'] + ' ' + format(record['bytes'], ',') + ' bytes'}")
         if record.get("error"):
             return 1
@@ -260,6 +277,7 @@ def main() -> int:
         if not args.force and not args.ids and retrieval.get(gid, {}).get("sha256"):
             continue
         record = fetch_entry(session, entry)
+        store_original(record, gid)
         retrieval[gid] = record
         status = record.get("error") or f"{record['format']} {record['bytes']:,} bytes"
         print(f"{gid:50s} {status}")
