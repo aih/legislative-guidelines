@@ -1,0 +1,707 @@
+[
+ {
+  "id": "notes-for-guidance-on-the-preparation-of-statutory-rules",
+  "level": 2,
+  "title": "Notes for Guidance on the Preparation of Statutory Rules"
+ },
+ {
+  "id": "last-updated-on-august-24-2026",
+  "level": 5,
+  "title": "Last updated on August 24, 2026"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 3,
+  "title": "Table of Contents"
+ },
+ {
+  "id": "useful-addresses",
+  "level": 2,
+  "title": "Useful addresses"
+ },
+ {
+  "id": "part-1-introduction",
+  "level": 2,
+  "title": "Part 1: Introduction"
+ },
+ {
+  "id": "1-1-role-of-office-of-the-chief-parliamentary-counsel",
+  "level": 4,
+  "title": "1.1: Role of Office of the Chief Parliamentary Counsel"
+ },
+ {
+  "id": "1-2-definition-of-statutory-rule-in-the-subordinate-legislat",
+  "level": 4,
+  "title": "1.2: Definition of statutory rule in the Subordinate Legislation Act 1994"
+ },
+ {
+  "id": "1-3-background-material",
+  "level": 4,
+  "title": "1.3: Background material"
+ },
+ {
+  "id": "subordinate-legislation-act-1994",
+  "level": 5,
+  "title": "Subordinate Legislation Act 1994"
+ },
+ {
+  "id": "interpretation-of-legislation-act-1984",
+  "level": 5,
+  "title": "Interpretation of Legislation Act 1984"
+ },
+ {
+  "id": "charter-of-human-rights-and-responsibilities-act-2006",
+  "level": 5,
+  "title": "Charter of Human Rights and Responsibilities Act 2006"
+ },
+ {
+  "id": "subordinate-legislation-regulations-2024-s-r-no-51-2024",
+  "level": 5,
+  "title": "Subordinate Legislation Regulations 2024 (S.R. No. 51/2024)"
+ },
+ {
+  "id": "subordinate-legislation-act-1994-guidelines",
+  "level": 5,
+  "title": "Subordinate Legislation Act 1994 Guidelines"
+ },
+ {
+  "id": "parliamentary-committee-reports-on-subordinate-legislation",
+  "level": 5,
+  "title": "Parliamentary Committee Reports on Subordinate Legislation"
+ },
+ {
+  "id": "d-c-pearce-and-s-argument-delegated-legislation-in-australia",
+  "level": 5,
+  "title": "D.C. Pearce and S. Argument, Delegated Legislation in Australia (LexisNexis Butterworths)"
+ },
+ {
+  "id": "tables-of-statutory-rules",
+  "level": 5,
+  "title": "Tables of statutory rules"
+ },
+ {
+  "id": "brv-better-regulation-victoria-website",
+  "level": 5,
+  "title": "BRV (Better Regulation Victoria) website"
+ },
+ {
+  "id": "1-4-glossary-of-terms-used-in-these-notes",
+  "level": 4,
+  "title": "1.4: Glossary of terms used in these Notes"
+ },
+ {
+  "id": "charter-act-means-the-charter-of-human-rights-and-responsibi",
+  "level": 5,
+  "title": "Charter Act means the Charter of Human Rights and Responsibilities Act 2006"
+ },
+ {
+  "id": "ila-means-the-interpretation-of-legislation-act-1984",
+  "level": 5,
+  "title": "ILA means the Interpretation of Legislation Act 1984"
+ },
+ {
+  "id": "1-5-matters-suitable-for-statutory-rules",
+  "level": 4,
+  "title": "1.5: Matters suitable for statutory rules"
+ },
+ {
+  "id": "1-6-manner-of-making-statutory-rules",
+  "level": 4,
+  "title": "1.6: Manner of making statutory rules"
+ },
+ {
+  "id": "part-2-consultation-requirements-under-the-sla",
+  "level": 2,
+  "title": "Part 2: Consultation requirements under the SLA"
+ },
+ {
+  "id": "2-1-regulatory-impact-statements-ris",
+  "level": 4,
+  "title": "2.1: Regulatory Impact Statements (RIS)"
+ },
+ {
+  "id": "2-2-exemption-from-ris",
+  "level": 4,
+  "title": "2.2: Exemption from RIS"
+ },
+ {
+  "id": "2-3-minister-s-exemption-certificate-section-8-sla",
+  "level": 4,
+  "title": "2.3: Minister's exemption certificate (section 8 SLA)"
+ },
+ {
+  "id": "2-4-premier-s-exemption-certificate-section-9-sla",
+  "level": 4,
+  "title": "2.4: Premier's exemption certificate (section 9 SLA)"
+ },
+ {
+  "id": "2-5-competition-policy",
+  "level": 4,
+  "title": "2.5: Competition Policy"
+ },
+ {
+  "id": "part-3-ocpc-s-requirements",
+  "level": 2,
+  "title": "Part 3: OCPC's requirements"
+ },
+ {
+  "id": "3-1-draft-statutory-rule-for-settling",
+  "level": 4,
+  "title": "3.1: Draft statutory rule for settling"
+ },
+ {
+  "id": "3-2-settling-process",
+  "level": 4,
+  "title": "3.2: Settling process"
+ },
+ {
+  "id": "3-3-printing",
+  "level": 4,
+  "title": "3.3: Printing"
+ },
+ {
+  "id": "3-4-request-for-proof-copy",
+  "level": 4,
+  "title": "3.4: Request for proof copy"
+ },
+ {
+  "id": "3-5-request-for-submission-copy",
+  "level": 4,
+  "title": "3.5: Request for submission copy"
+ },
+ {
+  "id": "3-6-section-13-certificate",
+  "level": 4,
+  "title": "3.6: Section 13 certificate"
+ },
+ {
+  "id": "part-4-form-and-content-of-statutory-rules",
+  "level": 2,
+  "title": "Part 4: Form and content of statutory rules"
+ },
+ {
+  "id": "4-1-language-and-style",
+  "level": 4,
+  "title": "4.1: Language and style"
+ },
+ {
+  "id": "4-2-some-general-tips",
+  "level": 4,
+  "title": "4.2: Some general tips"
+ },
+ {
+  "id": "4-3-authorising-act-and-charter-act",
+  "level": 4,
+  "title": "4.3: Authorising Act and Charter Act"
+ },
+ {
+  "id": "4-4-commencement",
+  "level": 4,
+  "title": "4.4: Commencement"
+ },
+ {
+  "id": "4-5-forms-plans-maps-etc",
+  "level": 4,
+  "title": "4.5: Forms, plans, maps etc."
+ },
+ {
+  "id": "4-6-what-is-incorporated-material",
+  "level": 4,
+  "title": "4.6: What is Incorporated Material?"
+ },
+ {
+  "id": "4-7-table-of-applied-adopted-or-incorporated-matter-required",
+  "level": 4,
+  "title": "4.7: Table of Applied, Adopted or Incorporated Matter Required by Subordinate Legislation Regulations"
+ },
+ {
+  "id": "4-8-requirements-of-section-32-of-the-ila-for-incorporated-m",
+  "level": 4,
+  "title": "4.8: Requirements of section 32 of the ILA for incorporated material"
+ },
+ {
+  "id": "4-9-procedures-for-lodging-matter-applied-adopted-or-incorpo",
+  "level": 4,
+  "title": "4.9: Procedures for lodging matter applied, adopted or incorporated by or in a subordinate instrument with the Clerk of the Parliaments"
+ },
+ {
+  "id": "insert-title-of-sr-or-subordinate-instrument-and-number-if-a",
+  "level": 5,
+  "title": "[Insert title of SR or subordinate instrument and number (if available)]"
+ },
+ {
+  "id": "4-10-stand-alone-transitional-regulations",
+  "level": 4,
+  "title": "4.10: Stand alone transitional regulations"
+ },
+ {
+  "id": "part-5-sunsetting-and-extension-regulations",
+  "level": 2,
+  "title": "Part 5: Sunsetting and extension Regulations"
+ },
+ {
+  "id": "5-1-sunsetting-statutory-rules-10-year-expiry",
+  "level": 4,
+  "title": "5.1: Sunsetting statutory rules: 10 year expiry"
+ },
+ {
+  "id": "5-2-extending-the-operation-of-sunsetting-rules-extension-re",
+  "level": 4,
+  "title": "5.2: Extending the operation of sunsetting rules (extension regulations)"
+ },
+ {
+  "id": "part-6-other-material-required-for-making",
+  "level": 2,
+  "title": "Part 6: Other material required for making"
+ },
+ {
+  "id": "6-1-explanatory-memorandum",
+  "level": 4,
+  "title": "6.1: Explanatory memorandum"
+ },
+ {
+  "id": "6-2-minister-s-certificates-under-the-sla",
+  "level": 4,
+  "title": "6.2: Minister's certificates under the SLA"
+ },
+ {
+  "id": "6-3-no-ris-required",
+  "level": 4,
+  "title": "6.3: No RIS required"
+ },
+ {
+  "id": "exemption-certificate",
+  "level": 5,
+  "title": "Exemption certificate"
+ },
+ {
+  "id": "consultation-certificate-section-6",
+  "level": 5,
+  "title": "Consultation Certificate: section 6"
+ },
+ {
+  "id": "6-4-ris-required-certificates-and-notices",
+  "level": 4,
+  "title": "6.4: RIS required—certificates and notices"
+ },
+ {
+  "id": "consultation-certificate",
+  "level": 5,
+  "title": "Consultation Certificate"
+ },
+ {
+  "id": "compliance-certificate",
+  "level": 5,
+  "title": "Compliance Certificate"
+ },
+ {
+  "id": "notices",
+  "level": 5,
+  "title": "Notices"
+ },
+ {
+  "id": "competition-policy-certificate",
+  "level": 5,
+  "title": "Competition policy certificate"
+ },
+ {
+  "id": "6-5-infringement-offence-consultation-certificate",
+  "level": 4,
+  "title": "6.5: Infringement offence consultation certificate"
+ },
+ {
+  "id": "6-6-human-rights-certificates-and-human-rights-exemption-cer",
+  "level": 4,
+  "title": "6.6: Human rights certificates and human rights exemption certificates"
+ },
+ {
+  "id": "6-7-composite-certificates",
+  "level": 4,
+  "title": "6.7: Composite certificates"
+ },
+ {
+  "id": "6-8-premier-s-exemption-certificate",
+  "level": 4,
+  "title": "6.8: Premier's exemption certificate"
+ },
+ {
+  "id": "part-7-making-and-afterwards",
+  "level": 2,
+  "title": "Part 7: Making and afterwards"
+ },
+ {
+  "id": "7-1-submission-to-the-governor-in-council",
+  "level": 4,
+  "title": "7.1: Submission to the Governor in Council"
+ },
+ {
+  "id": "7-2-printing-and-publication-of-made-statutory-rules",
+  "level": 4,
+  "title": "7.2: Printing and publication of made statutory rules"
+ },
+ {
+  "id": "7-3-rules-to-be-tabled-in-parliament-and-given-to-members",
+  "level": 4,
+  "title": "7.3: Rules to be tabled in Parliament and given to members"
+ },
+ {
+  "id": "7-4-requirements-of-sarc",
+  "level": 4,
+  "title": "7.4: Requirements of SARC"
+ },
+ {
+  "id": "7-5-tabling-of-incorporated-material-under-section-32-ila",
+  "level": 4,
+  "title": "7.5: Tabling of incorporated material under section 32 ILA"
+ },
+ {
+  "id": "7-6-availability-of-statutory-rules",
+  "level": 4,
+  "title": "7.6: Availability of statutory rules"
+ },
+ {
+  "id": "appendices",
+  "level": 2,
+  "title": "Appendices"
+ },
+ {
+  "id": "appendix-1-statutory-rules-style",
+  "level": 2,
+  "title": "Appendix 1: Statutory rules—style"
+ },
+ {
+  "id": "order-of-provisions-framework",
+  "level": 5,
+  "title": "Order of provisions—framework"
+ },
+ {
+  "id": "1-title",
+  "level": 4,
+  "title": "1: Title"
+ },
+ {
+  "id": "2-types-of-clauses",
+  "level": 4,
+  "title": "2: Types of clauses"
+ },
+ {
+  "id": "objectives",
+  "level": 5,
+  "title": "Objectives"
+ },
+ {
+  "id": "authorising-provision",
+  "level": 5,
+  "title": "Authorising provision"
+ },
+ {
+  "id": "commencement-clause",
+  "level": 5,
+  "title": "Commencement clause"
+ },
+ {
+  "id": "principal-statutory-rule",
+  "level": 5,
+  "title": "Principal statutory rule"
+ },
+ {
+  "id": "revocation-clause",
+  "level": 5,
+  "title": "Revocation clause"
+ },
+ {
+  "id": "definition-clause",
+  "level": 5,
+  "title": "Definition clause"
+ },
+ {
+  "id": "expiry-or-revocation-clause",
+  "level": 5,
+  "title": "Expiry or Revocation clause"
+ },
+ {
+  "id": "endnotes-and-footnotes",
+  "level": 5,
+  "title": "Endnotes and footnotes"
+ },
+ {
+  "id": "amending-style",
+  "level": 5,
+  "title": "Amending style"
+ },
+ {
+  "id": "5-fees-and-charges",
+  "level": 4,
+  "title": "5: Fees and charges"
+ },
+ {
+  "id": "6-penalties",
+  "level": 4,
+  "title": "6: Penalties"
+ },
+ {
+  "id": "appendix-2",
+  "level": 2,
+  "title": "Appendix 2"
+ },
+ {
+  "id": "form-1-new-principal-statutory-rule-made-by-the-governor-in-",
+  "level": 4,
+  "title": "Form 1: New principal statutory rule made by the Governor in Council"
+ },
+ {
+  "id": "guardianship-and-administration-act-1986-guardianship-and-ad",
+  "level": 5,
+  "title": "Guardianship and Administration Act 1986 Guardianship and Administration (Fees) Regulations 2026"
+ },
+ {
+  "id": "1-objective",
+  "level": 5,
+  "title": "1 Objective"
+ },
+ {
+  "id": "2-authorising-provision",
+  "level": 5,
+  "title": "2 Authorising provision"
+ },
+ {
+  "id": "3-commencement",
+  "level": 5,
+  "title": "3 Commencement"
+ },
+ {
+  "id": "4-revocation",
+  "level": 5,
+  "title": "4 Revocation"
+ },
+ {
+  "id": "5-definitions",
+  "level": 5,
+  "title": "5 Definitions"
+ },
+ {
+  "id": "6-assessment-of-fortnightly-income",
+  "level": 5,
+  "title": "6 Assessment of fortnightly income"
+ },
+ {
+  "id": "7-annual-fees",
+  "level": 5,
+  "title": "7 Annual fees"
+ },
+ {
+  "id": "8-when-fees-payable",
+  "level": 5,
+  "title": "8 When fees payable"
+ },
+ {
+  "id": "9-waiver-of-fees",
+  "level": 5,
+  "title": "9 Waiver of fees"
+ },
+ {
+  "id": "10-fees-for-last-financial-year",
+  "level": 5,
+  "title": "10 Fees for last financial year"
+ },
+ {
+  "id": "endnotes",
+  "level": 5,
+  "title": "ENDNOTES"
+ },
+ {
+  "id": "form-2-amending-statutory-rule-made-by-the-governor-in-counc",
+  "level": 4,
+  "title": "Form 2: Amending statutory rule made by the Governor in Council"
+ },
+ {
+  "id": "road-safety-act-1986-road-safety-general-amendment-regulatio",
+  "level": 5,
+  "title": "Road Safety Act 1986 Road Safety (General) Amendment Regulations 2026"
+ },
+ {
+  "id": "1-objectives",
+  "level": 5,
+  "title": "1 Objectives"
+ },
+ {
+  "id": "2-authorising-provision-2",
+  "level": 5,
+  "title": "2 Authorising provision"
+ },
+ {
+  "id": "3-commencement-2",
+  "level": 5,
+  "title": "3 Commencement"
+ },
+ {
+  "id": "4-principal-regulations",
+  "level": 5,
+  "title": "4 Principal Regulations"
+ },
+ {
+  "id": "5-categories-of-motor-vehicles",
+  "level": 5,
+  "title": "5 Categories of motor vehicles"
+ },
+ {
+  "id": "6-demerit-points",
+  "level": 5,
+  "title": "6 Demerit points"
+ },
+ {
+  "id": "endnotes-2",
+  "level": 5,
+  "title": "ENDNOTES"
+ },
+ {
+  "id": "form-3-extension-regulations",
+  "level": 4,
+  "title": "Form 3: Extension regulations"
+ },
+ {
+  "id": "subordinate-legislation-act-1994-subordinate-legislation-pat",
+  "level": 5,
+  "title": "Subordinate Legislation Act 1994 Subordinate Legislation (Pathology Services Accreditation Regulations 2016) Extension Regulations 2026"
+ },
+ {
+  "id": "1-objective-2",
+  "level": 5,
+  "title": "1 Objective"
+ },
+ {
+  "id": "2-authorising-provision-3",
+  "level": 5,
+  "title": "2 Authorising provision"
+ },
+ {
+  "id": "3-extension-of-operation",
+  "level": 5,
+  "title": "3 Extension of operation"
+ },
+ {
+  "id": "4-expiry",
+  "level": 5,
+  "title": "4 Expiry"
+ },
+ {
+  "id": "4-revocation-2",
+  "level": 5,
+  "title": "4 Revocation"
+ },
+ {
+  "id": "endnotes-3",
+  "level": 5,
+  "title": "ENDNOTES"
+ },
+ {
+  "id": "form-4-endnote-for-fee-units",
+  "level": 4,
+  "title": "Form 4: Endnote for fee units"
+ },
+ {
+  "id": "form-5-endnote-for-penalty-units",
+  "level": 4,
+  "title": "Form 5: Endnote for penalty units"
+ },
+ {
+  "id": "appendix-1-statutory-rules-style-2",
+  "level": 2,
+  "title": "Appendix 1: Statutory rules—style"
+ },
+ {
+  "id": "1-inserting",
+  "level": 4,
+  "title": "1: Inserting"
+ },
+ {
+  "id": "part-5a-licences",
+  "level": 3,
+  "title": "\"Part 5A—Licences\"."
+ },
+ {
+  "id": "division-3a-licence-applications",
+  "level": 4,
+  "title": "\"Division 3A—Licence applications\"."
+ },
+ {
+  "id": "x-new-regulation-58-inserted",
+  "level": 5,
+  "title": "X New regulation 58 inserted"
+ },
+ {
+  "id": "58-payment-of-licence-fee",
+  "level": 5,
+  "title": "\"58 Payment of licence fee"
+ },
+ {
+  "id": "2-substituting",
+  "level": 4,
+  "title": "2: Substituting"
+ },
+ {
+  "id": "part-5-licences",
+  "level": 3,
+  "title": "\"Part 5—Licences\"."
+ },
+ {
+  "id": "division-3-licence-applications",
+  "level": 4,
+  "title": "\"Division 3—Licence applications\"."
+ },
+ {
+  "id": "y-regulation-57-substituted",
+  "level": 5,
+  "title": "Y Regulation 57 substituted"
+ },
+ {
+  "id": "57-payment-of-licence-fee",
+  "level": 5,
+  "title": "\"57 Payment of licence fee"
+ },
+ {
+  "id": "substitute",
+  "level": 5,
+  "title": "substitute—"
+ },
+ {
+  "id": "substitute-2",
+  "level": 5,
+  "title": "substitute—"
+ },
+ {
+  "id": "substitute-3",
+  "level": 5,
+  "title": "substitute—"
+ },
+ {
+  "id": "substitute-4",
+  "level": 5,
+  "title": "substitute—"
+ },
+ {
+  "id": "part-5-licences-2",
+  "level": 3,
+  "title": "\"Part 5—Licences\"."
+ },
+ {
+  "id": "substitute-5",
+  "level": 5,
+  "title": "substitute—"
+ },
+ {
+  "id": "division-3-licence-applications-2",
+  "level": 4,
+  "title": "\"Division 3—Licence applications\"."
+ },
+ {
+  "id": "3-revoking",
+  "level": 4,
+  "title": "3: Revoking"
+ },
+ {
+  "id": "4-references-to-schedules-and-tables",
+  "level": 4,
+  "title": "4: References to Schedules and Tables"
+ }
+]

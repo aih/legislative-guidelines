@@ -1,0 +1,442 @@
+[
+ {
+  "id": "der-senat-von-berlin",
+  "level": 2,
+  "title": "Der Senat von Berlin"
+ },
+ {
+  "id": "gemeinsame-geschäftsordnung-für-die-berliner-verwaltung-beso",
+  "level": 2,
+  "title": "Gemeinsame Geschäftsordnung für die Berliner Verwaltung, Besonderer Teil (GGO II)1"
+ },
+ {
+  "id": "i-allgemeines",
+  "level": 3,
+  "title": "I. Allgemeines"
+ },
+ {
+  "id": "ii-verkehr-nach-außen",
+  "level": 3,
+  "title": "II. Verkehr nach außen"
+ },
+ {
+  "id": "iii-verkehr-mit-dem-senat",
+  "level": 3,
+  "title": "III. Verkehr mit dem Senat"
+ },
+ {
+  "id": "iv-verkehr-mit-dem-rat-der-bürgermeister",
+  "level": 3,
+  "title": "IV. Verkehr mit dem Rat der Bürgermeister"
+ },
+ {
+  "id": "v-verkehr-mit-dem-abgeordnetenhaus",
+  "level": 3,
+  "title": "V. Verkehr mit dem Abgeordnetenhaus"
+ },
+ {
+  "id": "vi-mitwirkung-bei-der-gesetzgebung",
+  "level": 3,
+  "title": "VI. Mitwirkung bei der Gesetzgebung"
+ },
+ {
+  "id": "vii-rechtsverordnungen",
+  "level": 3,
+  "title": "VII. Rechtsverordnungen"
+ },
+ {
+  "id": "viii-verwaltungsvorschriften-und-rundschreiben",
+  "level": 3,
+  "title": "VIII. Verwaltungsvorschriften und Rundschreiben"
+ },
+ {
+  "id": "ix-veröffentlichung-in-amtlichen-blättern",
+  "level": 3,
+  "title": "IX. Veröffentlichung in amtlichen Blättern"
+ },
+ {
+  "id": "x-schlussvorschriften",
+  "level": 3,
+  "title": "X. Schlussvorschriften"
+ },
+ {
+  "id": "i-allgemeines-2",
+  "level": 3,
+  "title": "I. Allgemeines"
+ },
+ {
+  "id": "1-anwendungsbereich",
+  "level": 3,
+  "title": "§ 1 – Anwendungsbereich"
+ },
+ {
+  "id": "ii-verkehr-nach-außen-2",
+  "level": 3,
+  "title": "II. Verkehr nach außen"
+ },
+ {
+  "id": "2-vertretung-berlins-nach-außen",
+  "level": 3,
+  "title": "§ 2 – Vertretung Berlins nach außen"
+ },
+ {
+  "id": "3-verkehr-mit-organen-des-bundes",
+  "level": 3,
+  "title": "§ 3 – Verkehr mit Organen des Bundes"
+ },
+ {
+  "id": "4-verkehr-mit-behörden-anderer-bundesländer",
+  "level": 3,
+  "title": "§ 4 – Verkehr mit Behörden anderer Bundesländer"
+ },
+ {
+  "id": "5-abschluss-von-staatsverträgen-und-verwaltungsvereinbarunge",
+  "level": 3,
+  "title": "§ 5 – Abschluss von Staatsverträgen und Verwaltungsvereinbarungen"
+ },
+ {
+  "id": "6-verkehr-mit-deutschen-auslandsvertretungen-mit-ausländisch",
+  "level": 3,
+  "title": "§ 6 – Verkehr mit deutschen Auslandsvertretungen, mit ausländischen Dienststellen im Ausland und ausländischen Vertretungen im Inland"
+ },
+ {
+  "id": "iii-verkehr-mit-dem-senat-2",
+  "level": 3,
+  "title": "III. Verkehr mit dem Senat"
+ },
+ {
+  "id": "7-senatsvorlagen",
+  "level": 3,
+  "title": "§ 7 – Senatsvorlagen"
+ },
+ {
+  "id": "8-besprechungspunkte",
+  "level": 3,
+  "title": "§ 8 – Besprechungspunkte"
+ },
+ {
+  "id": "9-form-und-gliederung-der-senatsvorlagen",
+  "level": 3,
+  "title": "§ 9 – Form und Gliederung der Senatsvorlagen"
+ },
+ {
+  "id": "10-vorbereitung-von-senatsvorlagen",
+  "level": 3,
+  "title": "§ 10 – Vorbereitung von Senatsvorlagen"
+ },
+ {
+  "id": "11-staatssekretärskonferenz",
+  "level": 3,
+  "title": "§ 11 – Staatssekretärskonferenz"
+ },
+ {
+  "id": "12-einbringung-von-senatsvorlagen",
+  "level": 3,
+  "title": "§ 12 – Einbringung von Senatsvorlagen"
+ },
+ {
+  "id": "13-ausschüsse-des-senats",
+  "level": 3,
+  "title": "§ 13 – Ausschüsse des Senats"
+ },
+ {
+  "id": "14-vertretung-der-senatsbeschlüsse",
+  "level": 3,
+  "title": "§ 14 – Vertretung der Senatsbeschlüsse"
+ },
+ {
+  "id": "15-unterrichtung-der-öffentlichkeit",
+  "level": 3,
+  "title": "§ 15 – Unterrichtung der Öffentlichkeit"
+ },
+ {
+  "id": "iv-verkehr-mit-dem-rat-der-bürgermeister-2",
+  "level": 3,
+  "title": "IV. Verkehr mit dem Rat der Bürgermeister"
+ },
+ {
+  "id": "16-beteiligung-des-rats-der-bürgermeister",
+  "level": 3,
+  "title": "§ 16 – Beteiligung des Rats der Bürgermeister"
+ },
+ {
+  "id": "17-einbringung-von-vorlagen-an-den-rat-der-bürgermeister",
+  "level": 3,
+  "title": "§ 17 – Einbringung von Vorlagen an den Rat der Bürgermeister"
+ },
+ {
+  "id": "18-form-und-gliederung-der-vorlagen",
+  "level": 3,
+  "title": "§ 18 – Form und Gliederung der Vorlagen"
+ },
+ {
+  "id": "19-mitwirkung-in-ausschüssen-des-rats-der-bürgermeister",
+  "level": 3,
+  "title": "§ 19 – Mitwirkung in Ausschüssen des Rats der Bürgermeister"
+ },
+ {
+  "id": "20-behandlung-der-beratungsergebnisse-des-rats-der-bürgermei",
+  "level": 3,
+  "title": "§ 20 – Behandlung der Beratungsergebnisse des Rats der Bürgermeister"
+ },
+ {
+  "id": "v-verkehr-mit-dem-abgeordnetenhaus-2",
+  "level": 3,
+  "title": "V. Verkehr mit dem Abgeordnetenhaus"
+ },
+ {
+  "id": "21-zuständigkeit-und-vertretung-des-senats",
+  "level": 3,
+  "title": "§ 21 – Zuständigkeit und Vertretung des Senats"
+ },
+ {
+  "id": "22-teilnahme-an-sitzungen-des-abgeordnetenhauses-und-seiner-",
+  "level": 3,
+  "title": "§ 22 – Teilnahme an Sitzungen des Abgeordnetenhauses und seiner Ausschüsse"
+ },
+ {
+  "id": "23-schriftverkehr-mit-dem-abgeordnetenhaus-und-seinen-aussch",
+  "level": 3,
+  "title": "§ 23 – Schriftverkehr mit dem Abgeordnetenhaus und seinen Ausschüssen"
+ },
+ {
+  "id": "24-vorlagen-zur-beschlussfassung",
+  "level": 3,
+  "title": "§ 24 – Vorlagen zur Beschlussfassung"
+ },
+ {
+  "id": "25-wahlvorlagen",
+  "level": 3,
+  "title": "§ 25 – Wahlvorlagen"
+ },
+ {
+  "id": "26-haushaltsangelegenheiten",
+  "level": 3,
+  "title": "§ 26 – Haushaltsangelegenheiten"
+ },
+ {
+  "id": "27-vorlagen-über-vermögensgeschäfte",
+  "level": 3,
+  "title": "§ 27 – Vorlagen über Vermögensgeschäfte"
+ },
+ {
+  "id": "28-vorlagen-zur-kenntnisnahme-und-berichte-die-der-senat-von",
+  "level": 3,
+  "title": "§ 28 – Vorlagen zur Kenntnisnahme und Berichte, die der Senat von sich aus einbringt"
+ },
+ {
+  "id": "29-vorlagen-zur-kenntnisnahme-nach-artikel-50-vvb",
+  "level": 3,
+  "title": "§ 29 – Vorlagen zur Kenntnisnahme nach Artikel 50 VvB"
+ },
+ {
+  "id": "30-durchführung-der-beschlüsse-des-abgeordnetenhauses",
+  "level": 3,
+  "title": "§ 30 – Durchführung der Beschlüsse des Abgeordnetenhauses"
+ },
+ {
+  "id": "31-schriftliche-anfragen",
+  "level": 3,
+  "title": "§ 31 – Schriftliche Anfragen"
+ },
+ {
+  "id": "32-hilfe-bei-der-ermittlung-der-finanziellen-auswirkungen-vo",
+  "level": 3,
+  "title": "§ 32 – Hilfe bei der Ermittlung der finanziellen Auswirkungen von Anträgen"
+ },
+ {
+  "id": "33-behandlung-von-anträgen-aus-der-mitte-des-abgeordnetenhau",
+  "level": 3,
+  "title": "§ 33 – Behandlung von Anträgen aus der Mitte des Abgeordnetenhauses und sonstiger Verhandlungsunterlagen"
+ },
+ {
+  "id": "34-petitionen",
+  "level": 3,
+  "title": "§ 34 – Petitionen"
+ },
+ {
+  "id": "vi-mitwirkung-bei-der-gesetzgebung-2",
+  "level": 3,
+  "title": "VI. Mitwirkung bei der Gesetzgebung"
+ },
+ {
+  "id": "35-gesetzesfolgenabschätzung",
+  "level": 3,
+  "title": "§ 35 – Gesetzesfolgenabschätzung"
+ },
+ {
+  "id": "35a-gesetzesvorlagen-mit-regelungen-zur-aufnahme-oder-ausübu",
+  "level": 3,
+  "title": "§ 35a – Gesetzesvorlagen mit Regelungen zur Aufnahme oder Ausübung eines Berufs"
+ },
+ {
+  "id": "36-unterrichtung-des-regierenden-bürgermeisters-bzw-der-regi",
+  "level": 3,
+  "title": "§ 36 – Unterrichtung des Regierenden Bürgermeisters bzw. der Regierenden Bürgermeisterin"
+ },
+ {
+  "id": "37-beteiligung-anderer-mitglieder-des-senats",
+  "level": 3,
+  "title": "§ 37 – Beteiligung anderer Mitglieder des Senats"
+ },
+ {
+  "id": "38-kontaktaufnahme-zu-anderen-ländern",
+  "level": 3,
+  "title": "§ 38 – Kontaktaufnahme zu anderen Ländern"
+ },
+ {
+  "id": "39-anhörung-beteiligter-fachkreise-und-verbände",
+  "level": 3,
+  "title": "§ 39 – Anhörung beteiligter Fachkreise und Verbände"
+ },
+ {
+  "id": "40-vertraulichkeit-der-entwürfe",
+  "level": 3,
+  "title": "§ 40 – Vertraulichkeit der Entwürfe"
+ },
+ {
+  "id": "41-vorlage-an-den-senat",
+  "level": 3,
+  "title": "§ 41 – Vorlage an den Senat"
+ },
+ {
+  "id": "42-vorlage-an-das-abgeordnetenhaus",
+  "level": 3,
+  "title": "§ 42 – Vorlage an das Abgeordnetenhaus"
+ },
+ {
+  "id": "43-gesetzesanträge",
+  "level": 3,
+  "title": "§ 43 – Gesetzesanträge"
+ },
+ {
+  "id": "43a-gesetzesvorlagen-im-rahmen-von-volksbegehren",
+  "level": 3,
+  "title": "§ 43a – Gesetzesvorlagen im Rahmen von Volksbegehren"
+ },
+ {
+  "id": "44-verlangen-auf-vornahme-der-dritten-lesung",
+  "level": 3,
+  "title": "§ 44 – Verlangen auf Vornahme der dritten Lesung"
+ },
+ {
+  "id": "45-verkündung-und-weiterleitung-der-ausfertigungsurkunde",
+  "level": 3,
+  "title": "§ 45 – Verkündung und Weiterleitung der Ausfertigungsurkunde"
+ },
+ {
+  "id": "46-aufbewahrung-der-ausfertigungsurkunde",
+  "level": 3,
+  "title": "§ 46 – Aufbewahrung der Ausfertigungsurkunde"
+ },
+ {
+  "id": "47-prüfung-des-veröffentlichten-wortlauts",
+  "level": 3,
+  "title": "§ 47 – Prüfung des veröffentlichten Wortlauts"
+ },
+ {
+  "id": "vii-rechtsverordnungen-2",
+  "level": 3,
+  "title": "VII. Rechtsverordnungen"
+ },
+ {
+  "id": "48-allgemeines",
+  "level": 3,
+  "title": "§ 48 – Allgemeines"
+ },
+ {
+  "id": "49-vorbesprechung-mit-ausschüssen-des-abgeordnetenhauses",
+  "level": 3,
+  "title": "§ 49 – Vorbesprechung mit Ausschüssen des Abgeordnetenhauses"
+ },
+ {
+  "id": "50-vorlage-der-entwürfe-von-rechtsverordnungen",
+  "level": 3,
+  "title": "§ 50 – Vorlage der Entwürfe von Rechtsverordnungen"
+ },
+ {
+  "id": "51-unterzeichnung-und-verkündung",
+  "level": 3,
+  "title": "§ 51 – Unterzeichnung und Verkündung"
+ },
+ {
+  "id": "52-vorlage-an-das-abgeordnetenhaus",
+  "level": 3,
+  "title": "§ 52 – Vorlage an das Abgeordnetenhaus"
+ },
+ {
+  "id": "53-verfahren-der-abstimmung-zwischen-abgeordnetenhaus-und-se",
+  "level": 3,
+  "title": "§ 53 – Verfahren der Abstimmung zwischen Abgeordnetenhaus und Senat im Falle einer Ermächtigung im Sinne des Artikels 80 Absatz 4 GG (sog. Verordnungsvertretende Landesgesetze)"
+ },
+ {
+  "id": "viii-verwaltungsvorschriften-und-rundschreiben-2",
+  "level": 3,
+  "title": "VIII. Verwaltungsvorschriften und Rundschreiben"
+ },
+ {
+  "id": "54-regelungswirkung",
+  "level": 3,
+  "title": "§ 54 – Regelungswirkung"
+ },
+ {
+  "id": "55-anschrift",
+  "level": 3,
+  "title": "§ 55 – Anschrift"
+ },
+ {
+  "id": "56-bekanntgabe-von-verwaltungsvorschriften-und-rundschreiben",
+  "level": 3,
+  "title": "§ 56 – Bekanntgabe von Verwaltungsvorschriften und Rundschreiben"
+ },
+ {
+  "id": "ix-veröffentlichung-in-amtlichen-blättern-2",
+  "level": 3,
+  "title": "IX. Veröffentlichung in amtlichen Blättern"
+ },
+ {
+  "id": "57-gesetz-und-verordnungsblatt",
+  "level": 3,
+  "title": "§ 57 – Gesetz- und Verordnungsblatt"
+ },
+ {
+  "id": "58-amtsblatt",
+  "level": 3,
+  "title": "§ 58 – Amtsblatt"
+ },
+ {
+  "id": "x-schlussvorschriften-2",
+  "level": 3,
+  "title": "X. Schlussvorschriften"
+ },
+ {
+  "id": "59-regelungen-zur-abfassung-von-gesetzen-rechtsverordnungen-",
+  "level": 3,
+  "title": "§ 59 – Regelungen zur Abfassung von Gesetzen, Rechtsverordnungen und Verwaltungsvorschriften; Gesetzesfolgenabschätzung"
+ },
+ {
+  "id": "60-muster-mehrabdrucke-und-übermittlungswege-einschließlich-",
+  "level": 3,
+  "title": "§ 60 – Muster, Mehrabdrucke und Übermittlungswege einschließlich SIDOK-Fachverfahren und Erprobung elektronischer Übermittlungen"
+ },
+ {
+  "id": "61-inkrafttreten-außerkrafttreten",
+  "level": 3,
+  "title": "§ 61 – Inkrafttreten, Außerkrafttreten"
+ },
+ {
+  "id": "regelungen-zur-abfassung-von-gesetzen-rechtsverordnungen-und",
+  "level": 3,
+  "title": "Regelungen zur Abfassung von Gesetzen, Rechtsverordnungen und Verwaltungsvorschriften"
+ },
+ {
+  "id": "fragenkatalog-für-die-gesetzesfolgenabschätzung-35-ggo-ii",
+  "level": 3,
+  "title": "Fragenkatalog für die Gesetzesfolgenabschätzung (§ 35 GGO II)"
+ },
+ {
+  "id": "prüfraster-für-die-verhältnismäßigkeitsprüfung-und-weitere-m",
+  "level": 3,
+  "title": "Prüfraster für die Verhältnismäßigkeitsprüfung und weitere Maßnahmen bei Gesetzesvorlagen mit Regelungen zur Aufnahme oder Ausübung eines Berufs (§ 35a)"
+ }
+]

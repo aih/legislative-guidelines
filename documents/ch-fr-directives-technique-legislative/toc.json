@@ -1,0 +1,2932 @@
+[
+ {
+  "id": "fribourg-juillet-2015",
+  "level": 4,
+  "title": "Fribourg, juillet 2015"
+ },
+ {
+  "id": "directives-de-technique-législative-avant-propos",
+  "level": 4,
+  "title": "Directives de technique législative — Avant-propos"
+ },
+ {
+  "id": "cette-nouvelle-édition-des-directives-de-technique-législati",
+  "level": 4,
+  "title": "Cette nouvelle édition des Directives de technique législative (DTL) se compose d’une partie consacrée à la rédaction (DTL A : guide et fiches complémentaires) et d’une partie consacrée à la saisie (DTL B : aide-mémoire et fiches complémentaires). Le guide contient les règles de rédaction les plus couramment utilisées. L’aide-mémoire, qui contient les principales règles de saisie, a été conçu pour pouvoir être imprimé au format A5 et conservé ainsi près d’un ordinateur. Les fiches apportent des précisions sur le contexte constitutionnel et législatif ou traitent de cas plus rares ou plus complexes, dans le domaine de la rédaction et de la saisie. Ces documents remplacent le classeur noir établi en 2002. Leur diffusion n’est assurée que sous forme électronique."
+ },
+ {
+  "id": "nb-pour-ne-pas-alourdir-le-texte-par-de-multiples-répétition",
+  "level": 5,
+  "title": "NB : Pour ne pas alourdir le texte par de multiples répétitions, il n’est pas fait mention, dans les DTL, des numéros systématiques des actes législatifs cités. L’inscription de leur abréviation officielle ou d’un mot de leur titre suffit pour une recherche efficace de l’acte concerné dans la BDLF."
+ },
+ {
+  "id": "le-service-de-législation-et-le-secteur-publications-officie",
+  "level": 4,
+  "title": "Le Service de législation et le Secteur Publications officielles de la Chancellerie d’Etat"
+ },
+ {
+  "id": "table-des-matières",
+  "level": 2,
+  "title": "Table des matières"
+ },
+ {
+  "id": "dtl-objet",
+  "level": 4,
+  "title": "DTL Objet"
+ },
+ {
+  "id": "a-rédaction",
+  "level": 5,
+  "title": "A Rédaction"
+ },
+ {
+  "id": "b-saisie",
+  "level": 5,
+  "title": "B Saisie"
+ },
+ {
+  "id": "2",
+  "level": 4,
+  "title": "2"
+ },
+ {
+  "id": "sommaire-du-guide",
+  "level": 3,
+  "title": "Sommaire du guide"
+ },
+ {
+  "id": "3",
+  "level": 4,
+  "title": "3"
+ },
+ {
+  "id": "directives-de-technique-législative",
+  "level": 4,
+  "title": "Directives de technique législative —"
+ },
+ {
+  "id": "guide-de-rédaction",
+  "level": 2,
+  "title": "Guide de rédaction"
+ },
+ {
+  "id": "état-juillet-2015",
+  "level": 4,
+  "title": "(état : juillet 2015)"
+ },
+ {
+  "id": "version-1-décembre-2014-version-1-1-février-2015-ajout-a-25-",
+  "level": 5,
+  "title": "Version 1 décembre 2014 Version 1.1 février 2015 (ajout A 25) Version 1.2 août 2015 (rectification de renvois dans la DTL A 01 p. 17 à 19)"
+ },
+ {
+  "id": "4",
+  "level": 4,
+  "title": "4"
+ },
+ {
+  "id": "1",
+  "level": 4,
+  "title": "1."
+ },
+ {
+  "id": "introduction",
+  "level": 3,
+  "title": "Introduction"
+ },
+ {
+  "id": "1-1-objet-et-nature-des-dtl-les-dtl-précisent-les-règles-à-s",
+  "level": 4,
+  "title": "1.1. Objet et nature des DTL Les DTL précisent les règles à suivre pour l’élaboration et la publication des actes législatifs cantonaux fribourgeois. Elles visent aussi à instaurer une manière uniforme de saisir ces textes tout au long du processus et quelle que soit l’autorité d’adoption de l’acte à publier (Grand Conseil, Conseil d’Etat, autorités judiciaires, Directions, établissements). Les DTL ont un caractère obligatoire. Toutefois, comme elles tendent à régler les questions qui se posent le plus couramment dans la pratique, une certaine souplesse reste de mise en présence de situations particulières."
+ },
+ {
+  "id": "1-2-bases-légales-des-dtl-l-élaboration-et-la-publication-de",
+  "level": 4,
+  "title": "1.2. Bases légales des DTL L’élaboration et la publication des actes législatifs sont réglées spécifiquement par : > le règlement du 24 mai 2005 sur l’élaboration des actes législatifs (REAL) ; > la loi du 16 octobre 2001 sur la publication des actes législatifs (LPAL) ; > le règlement du 11 décembre 2001 sur la publication des actes législatifs (RPAL)."
+ },
+ {
+  "id": "1-3-assistance-les-actes-législatifs-devraient-être-rédigés-",
+  "level": 4,
+  "title": "1.3. Assistance Les actes législatifs devraient être rédigés par des juristes et/ou en collaboration étroite avec les conseillers ou conseillères juridiques de la Direction chargée du dossier. Le Service de législation et le secteur Publications officielles de la Chancellerie d’Etat prêtent volontiers leur concours pour examiner les cas qui ne sont pas réglés par les DTL ou qui semblent mériter une dérogation."
+ },
+ {
+  "id": "1-4-mode-de-citation-les-dtl-sont-citées-par-le-biais-de-leu",
+  "level": 4,
+  "title": "1.4. Mode de citation Les DTL sont citées par le biais de leurs numéros de référence. Dans les fiches, le renvoi à une autre fiche est mentionné ainsi [A 02-04] et le renvoi à l’intérieur de la même fiche [ 04]. Dans la correspondance, on ajoute la mention DTL : par ex. DTL A 02 (référence à la fiche en entier) ou DTL A 02-04 (référence à un élément précis)."
+ },
+ {
+  "id": "1-5-références-législatives-pour-ne-pas-alourdir-le-texte-il",
+  "level": 4,
+  "title": "1.5. Références législatives Pour ne pas alourdir le texte, il n’est pas fait mention, dans les DTL, des numéros systématiques des actes législatifs cités. L’inscription de leur abréviation officielle ou d’un mot de leur titre suffit pour une recherche efficace de l’acte concerné dans la BDLF."
+ },
+ {
+  "id": "5",
+  "level": 4,
+  "title": "5"
+ },
+ {
+  "id": "2-2",
+  "level": 4,
+  "title": "2."
+ },
+ {
+  "id": "organisation-des-travaux",
+  "level": 3,
+  "title": "Organisation des travaux"
+ },
+ {
+  "id": "2-1-planification",
+  "level": 4,
+  "title": "2.1. Planification"
+ },
+ {
+  "id": "les-responsables-des-projets-veilleront-à-ne-pas-sous-estime",
+  "level": 4,
+  "title": "Les responsables des projets veilleront à ne pas sous-estimer le temps nécessaire pour chaque étape du processus législatif, y compris la traduction. La planification tiendra compte :"
+ },
+ {
+  "id": "fiches-complémentaires",
+  "level": 4,
+  "title": "Fiches complémentaires"
+ },
+ {
+  "id": "2-2-délais-impératifs-les-délais-impératifs-suivants-sont-fi",
+  "level": 4,
+  "title": "2.2. Délais impératifs Les délais impératifs suivants sont fixés pour la remise des textes :"
+ },
+ {
+  "id": "la-chancellerie-et-le-secrétariat-du-grand-conseil-établisse",
+  "level": 5,
+  "title": "* La Chancellerie et le Secrétariat du Grand Conseil établissent et diffusent une liste annuelle des dates à respecter en fonction de l’agenda des séances du Conseil d’Etat et des sessions du Grand Conseil."
+ },
+ {
+  "id": "au-moins-dix-jours-avant-la-date-limite-d-inscription-à-l-or",
+  "level": 4,
+  "title": "> au moins dix jours avant la date limite d’inscription à l’ordre du jour du Conseil d’Etat (soit quinze jours avant cette séance)*"
+ },
+ {
+  "id": "art-14-real",
+  "level": 5,
+  "title": "- (art. 14 REAL)"
+ },
+ {
+  "id": "à-la-chancellerie",
+  "level": 4,
+  "title": "> à la Chancellerie"
+ },
+ {
+  "id": "s-ils-comportent-des-subventions-ou-d-autres-incidences-fina",
+  "level": 5,
+  "title": "- s’ils comportent des subventions ou d’autres incidences financières (art. 40 RFE et art. 5 RSub)"
+ },
+ {
+  "id": "à-la-dfin",
+  "level": 4,
+  "title": "> à la DFIN"
+ },
+ {
+  "id": "au-plus-tard-le-1er-décembre",
+  "level": 4,
+  "title": "> au plus tard le 1er décembre"
+ },
+ {
+  "id": "pour-les-actes-qui-doivent-entrer-en-vigueur-le-1er-janvier-",
+  "level": 5,
+  "title": "pour les actes qui doivent entrer en vigueur le 1er janvier suivant"
+ },
+ {
+  "id": "à-la-chancellerie-2",
+  "level": 4,
+  "title": "> à la Chancellerie"
+ },
+ {
+  "id": "dans-les-délais-des-articles-110-et-suivants-lgc-au-grand-co",
+  "level": 4,
+  "title": "> dans les délais des articles 110 et suivants LGC > au Grand Conseil"
+ },
+ {
+  "id": "6",
+  "level": 4,
+  "title": "6"
+ },
+ {
+  "id": "2-3-procédure-de-consultation-le-real-art-22ss-distingue-la-",
+  "level": 4,
+  "title": "2.3. Procédure de consultation Le REAL (art. 22ss) distingue : > la consultation externe (ordinaire ou restreinte) ; > la consultation interne."
+ },
+ {
+  "id": "les-actes-d-une-certaine-importance-doivent-faire-l-objet-d-",
+  "level": 4,
+  "title": "Les actes d’une certaine importance doivent faire l’objet d’une consultation externe. > Le dossier de consultation est établi dans les deux langues officielles, sous formes imprimée et électronique. > La Chancellerie d’Etat gère un répertoire des destinataires ordinaires des consultations. > L’ouverture de la consultation est soumise à l’autorisation du Conseil d’Etat. > D’ordinaire, le délai de réponse est de trois mois à compter de la date d’envoi des documents."
+ },
+ {
+  "id": "la-consultation-externe-peut-être-restreinte-lorsqu-elle-por",
+  "level": 4,
+  "title": "La consultation externe peut être restreinte lorsqu’elle porte sur un point technique particulier ou qu’elle ne concerne qu’un nombre très limité de destinataires externes à l’administration. > L’autorisation du Conseil d’Etat n’est pas nécessaire. > Le dossier de consultation peut être réalisé en une seule langue. > La consultation peut avoir lieu uniquement sous forme électronique."
+ },
+ {
+  "id": "une-consultation-interne-a-lieu-si-le-projet-présente-une-ce",
+  "level": 4,
+  "title": "Une consultation interne a lieu si le projet présente une certaine importance, mais n’a que des incidences mineures pour les organisations externes à l’administration. > Elle relève de la compétence des Directions. > Elle a lieu, autant que possible, par voie électronique. > Sa durée est, d’ordinaire, de quatre semaines. Fiche complémentaire"
+ },
+ {
+  "id": "2-4-quelques-conseils-il-faut-planifier-en-remontant-le-temp",
+  "level": 4,
+  "title": "2.4. Quelques conseils > Il faut planifier en remontant le temps depuis la date d’adoption ou d’entrée en vigueur (souhaitée ou imposée). > Les personnes chargées des traductions dans les Directions seront associées suffisamment tôt aux travaux, d’une part, pour qu’elles puissent planifier leurs tâches et, d’autre part, pour qu’il soit possible de tenir compte d’éventuelles incidences sur le texte-source. Les deux versions linguistiques ont la même valeur juridique et doivent être disponibles simultanément. > Les actes périodiques se fondent le plus souvent sur une version antérieure dont le contenu n’est modifié que sur des points limités. Il est généralement possible de faciliter le travail des organes de publication en indiquant clairement les passages repris et en soumettant ces actes assez tôt au Conseil d’Etat, notamment pour éviter les périodes de surcharge."
+ },
+ {
+  "id": "7",
+  "level": 4,
+  "title": "7"
+ },
+ {
+  "id": "3-2",
+  "level": 4,
+  "title": "3."
+ },
+ {
+  "id": "choix-de-la-forme-de-l-acte",
+  "level": 3,
+  "title": "Choix de la forme de l’acte"
+ },
+ {
+  "id": "3-1-grand-conseil-le-grand-conseil-adopte-les-actes-législat",
+  "level": 4,
+  "title": "3.1. Grand Conseil Le Grand Conseil adopte les actes législatifs suivants : > les décrets proposant des dispositions constitutionnelles ; > les lois ; > les ordonnances parlementaires. Les actes non législatifs du Grand Conseil prennent la forme d’un décret simple ou soumis au referendum (aux conditions des articles 45 et 46 Cst.)"
+ },
+ {
+  "id": "3-2-conseil-d-etat-le-conseil-d-etat-adopte-les-actes-législ",
+  "level": 4,
+  "title": "3.2. Conseil d’Etat Le Conseil d’Etat adopte les actes législatifs de sa compétence sous la forme de l’ordonnance."
+ },
+ {
+  "id": "ces-actes-peuvent-aussi-revêtir-la-forme-d-un-règlement-nota",
+  "level": 4,
+  "title": "Ces actes peuvent aussi revêtir la forme d’un règlement, notamment lorsqu’ils groupent les dispositions d’exécution d’une loi, ou celle d’un tarif, s’ils contiennent essentiellement des règles financières."
+ },
+ {
+  "id": "la-dénomination-arrêté-est-réservée-aux-actes-non-législatif",
+  "level": 4,
+  "title": "La dénomination « arrêté » est réservée aux actes non législatifs (décisions) du Conseil d’Etat."
+ },
+ {
+  "id": "3-3-autres-autorités-les-actes-législatifs-des-directions-et",
+  "level": 4,
+  "title": "3.3. Autres autorités Les actes législatifs des Directions et des autres autorités administratives revêtent la forme d’une ordonnance."
+ },
+ {
+  "id": "les-actes-législatifs-des-autorités-judiciaires-revêtent-en-",
+  "level": 4,
+  "title": "Les actes législatifs des autorités judiciaires revêtent, en principe, la forme d’un règlement."
+ },
+ {
+  "id": "exceptionnellement-des-règles-essentiellement-financières-pe",
+  "level": 4,
+  "title": "Exceptionnellement, des règles essentiellement financières peuvent prendre la forme d’un tarif."
+ },
+ {
+  "id": "fiche-complémentaire",
+  "level": 4,
+  "title": "Fiche complémentaire"
+ },
+ {
+  "id": "3-4-conventions-intercantonales-l-acte-par-lequel-le-grand-c",
+  "level": 4,
+  "title": "3.4. Conventions intercantonales L’acte par lequel le Grand Conseil approuve l’adhésion à une convention ou la dénonce revêt la forme d’une loi si la convention contient des règles de droit (c’est le cas le plus fréquent) et celle d’un décret dans les autres cas."
+ },
+ {
+  "id": "dans-les-cas-où-la-compétence-appartient-au-conseil-d-etat-l",
+  "level": 4,
+  "title": "Dans les cas où la compétence appartient au Conseil d’Etat, l’acte revêt la forme d’une ordonnance si la convention contient des règles de droit et, sinon, celle d’un arrêté."
+ },
+ {
+  "id": "fiche-complémentaire-2",
+  "level": 4,
+  "title": "Fiche complémentaire"
+ },
+ {
+  "id": "8",
+  "level": 4,
+  "title": "8"
+ },
+ {
+  "id": "4-2",
+  "level": 4,
+  "title": "4."
+ },
+ {
+  "id": "principaux-éléments-d-un-acte-législatif",
+  "level": 3,
+  "title": "Principaux éléments d’un acte législatif"
+ },
+ {
+  "id": "4-1-titre-de-l-acte",
+  "level": 4,
+  "title": "4.1. Titre de l’acte"
+ },
+ {
+  "id": "4-1-1-eléments-du-titre",
+  "level": 4,
+  "title": "4.1.1. Eléments du titre"
+ },
+ {
+  "id": "forme-juridique-loi-date-d-adoption-du-7-novembre-1991-objet",
+  "level": 5,
+  "title": "forme juridique Loi date d’adoption du 7 novembre 1991 objet et abréviation"
+ },
+ {
+  "id": "sur-la-protection-des-biens-culturels-lpbc",
+  "level": 4,
+  "title": "sur la protection des biens culturels (LPBC)"
+ },
+ {
+  "id": "les-actes-qui-ne-sont-pas-pris-par-le-grand-conseil-ou-le-co",
+  "level": 4,
+  "title": "Les actes qui ne sont pas pris par le Grand Conseil ou le Conseil d’Etat mentionnent l’autorité d’adoption immédiatement après la forme juridique de l’acte. Les Directions et les unités administratives ne sont alors désignées que par leur abréviation officielle (leur nom complet apparaît au début du préambule)."
+ },
+ {
+  "id": "exemples",
+  "level": 4,
+  "title": "Exemples :"
+ },
+ {
+  "id": "4-1-2-formulation-du-titre-le-titre-doit-être-formulé-de-man",
+  "level": 4,
+  "title": "4.1.2. Formulation du titre Le titre doit être formulé de manière concise, mais suffisamment informative pour désigner clairement l’objet traité dans l’acte."
+ },
+ {
+  "id": "s-il-s-agit-d-un-acte-d-application-d-une-loi-fédérale-ou-d-",
+  "level": 4,
+  "title": "S’il s’agit d’un acte d’application d’une loi fédérale ou d’un règlement d’exécution d’une loi cantonale, on peut d’ordinaire omettre cette précision dans le titre."
+ },
+ {
+  "id": "les-titres-des-actes-abrogatoires-ou-modificateurs-font-appa",
+  "level": 4,
+  "title": "Les titres des actes abrogatoires ou modificateurs font apparaître cette qualité dans la formulation de l’objet (par ex. abrogeant l’ordonnance sur … / modifiant la loi sur ...)."
+ },
+ {
+  "id": "fiche-complémentaire-3",
+  "level": 4,
+  "title": "Fiche complémentaire"
+ },
+ {
+  "id": "4-1-3-abréviation-du-titre-les-actes-appelés-à-être-souvent-",
+  "level": 4,
+  "title": "4.1.3. Abréviation du titre Les actes appelés à être souvent cités (par ex. dans des décisions) sont pourvus d’une abréviation, ajoutée, entre parenthèses, à la fin du titre. Elle est composée d’ordinaire des lettres initiales des mots importants du titre. Règlement du Tribunal cantonal du"
+ },
+ {
+  "id": "ordonnance-saav-du",
+  "level": 4,
+  "title": "Ordonnance SAAV du"
+ },
+ {
+  "id": "9-pour-éviter-les-équivoques-elle-doit-être-unique-en-droit-",
+  "level": 4,
+  "title": "9 Pour éviter les équivoques, elle doit être unique en droit fribourgeois et ne pas risquer d’être confondue avec une abréviation officielle fédérale."
+ },
+ {
+  "id": "contrairement-à-la-pratique-fédérale-il-n-y-a-normalement-pa",
+  "level": 4,
+  "title": "Contrairement à la pratique fédérale, il n’y a normalement pas lieu de créer en plus un titre abrégé."
+ },
+ {
+  "id": "fiche-complémentaire-4",
+  "level": 4,
+  "title": "Fiche complémentaire"
+ },
+ {
+  "id": "4-2-préambule",
+  "level": 4,
+  "title": "4.2. Préambule"
+ },
+ {
+  "id": "4-2-1-pour-un-acte-du-grand-conseil",
+  "level": 4,
+  "title": "4.2.1. Pour un acte du Grand Conseil"
+ },
+ {
+  "id": "autorité-d-adoption-le-grand-conseil-du-canton-de-fribourg",
+  "level": 5,
+  "title": "autorité d’adoption Le Grand Conseil du canton de Fribourg"
+ },
+ {
+  "id": "références-légales-vu-la-loi-fédérale-du-sur",
+  "level": 5,
+  "title": "références légales Vu la loi fédérale du ... sur ... ;"
+ },
+ {
+  "id": "autres-références-vu-le-message-du-conseil-d-etat-du",
+  "level": 5,
+  "title": "autres références Vu le message du Conseil d’Etat du ... ;"
+ },
+ {
+  "id": "autorité-de-proposition-sur-la-proposition-de-cette-autorité",
+  "level": 5,
+  "title": "autorité de proposition Sur la proposition de cette autorité,"
+ },
+ {
+  "id": "verbe-introductif-décrète",
+  "level": 5,
+  "title": "verbe introductif Décrète :"
+ },
+ {
+  "id": "4-2-2-pour-un-acte-du-conseil-d-etat",
+  "level": 4,
+  "title": "4.2.2. Pour un acte du Conseil d’Etat"
+ },
+ {
+  "id": "autorité-d-adoption-le-conseil-d-etat-du-canton-de-fribourg",
+  "level": 5,
+  "title": "autorité d’adoption Le Conseil d’Etat du canton de Fribourg"
+ },
+ {
+  "id": "références-légales-vu-la-loi-du-sur",
+  "level": 5,
+  "title": "références légales Vu la loi du ... sur ... ;"
+ },
+ {
+  "id": "autres-références-vu-le-préavis-de-la-commission-cantonale",
+  "level": 5,
+  "title": "autres références Vu le préavis de la commission cantonale ... ;"
+ },
+ {
+  "id": "motifs-facultatifs-considérant",
+  "level": 5,
+  "title": "motifs (facultatifs) Considérant :"
+ },
+ {
+  "id": "en-raison-de-la-situation-financière-de-l-etat-de-nouvelles-",
+  "level": 4,
+  "title": "En raison de la situation financière de l’Etat, de nouvelles mesures d’économie doivent être prises ..."
+ },
+ {
+  "id": "autorité-de-proposition-sur-la-proposition-de-la-direction",
+  "level": 5,
+  "title": "autorité de proposition Sur la proposition de la Direction ...,"
+ },
+ {
+  "id": "verbe-introductif-arrête",
+  "level": 5,
+  "title": "verbe introductif Arrête :"
+ },
+ {
+  "id": "nb-les-blocs-de-texte-correspondant-à-ces-préambules-sont-di",
+  "level": 5,
+  "title": "NB : Les blocs de texte correspondant à ces préambules sont disponibles dans le modèle Word uniforme [ B 01 Aide-mémoire pour la saisie]"
+ },
+ {
+  "id": "10-le-verbe-introductif-varie-suivant-l-autorité-d-adoption-",
+  "level": 4,
+  "title": "10 Le verbe introductif varie suivant l’autorité d’adoption : > Le Grand Conseil « Décrète » ; >Le Conseil d’Etat « Arrête » (y compris dans une ordonnance) ; > Toute autre autorité « Adopte ce qui suit ». Les « Vu » mentionnent en premier lieu les références légales sur lesquelles se fonde l’acte. Elles sont limitées aux bases légales spécifiques à la matière traitée dans l’acte en cause. Suivant les cas, il convient de se référer à un acte entier ou à des dispositions spécifiques, voire à une modification d’un acte."
+ },
+ {
+  "id": "les-autres-vu-sont-principalement-la-référence-obligatoire-a",
+  "level": 4,
+  "title": "Les autres Vu sont principalement la référence obligatoire au message du Conseil d’Etat, dans les actes du Grand Conseil, ou la référence à des préavis prévus par une loi."
+ },
+ {
+  "id": "il-n-y-a-pas-de-considérant-dans-les-actes-du-grand-conseil-",
+  "level": 4,
+  "title": "Il n’y a pas de considérant dans les actes du Grand Conseil. Dans les autres cas, un considérant ne doit être introduit que s’il est vraiment nécessaire et doit rester bref."
+ },
+ {
+  "id": "dans-les-actes-du-conseil-d-etat-l-autorité-de-proposition-e",
+  "level": 4,
+  "title": "Dans les actes du Conseil d’Etat, l’autorité de proposition est en principe l’une des sept Directions, qui doit être mentionnée avec son nom complet."
+ },
+ {
+  "id": "fiche-complémentaire-5",
+  "level": 4,
+  "title": "Fiche complémentaire"
+ },
+ {
+  "id": "4-3-subdivisions-de-l-acte-pour-faciliter-la-lecture-du-text",
+  "level": 4,
+  "title": "4.3. Subdivisions de l’acte Pour faciliter la lecture du texte et la référence à une disposition donnée, les règles de droit sont présentées sous forme d’articles. Chaque article est identifié par un numéro. Sauf dans les actes courts et pour l’article unique d’une subdivision, l’article est également pourvu d’un titre médian qui en décrit le plus succinctement possible le contenu. Selon la longueur et la complexité de la matière, les articles sont groupés en chapitres et sections. > Les actes courts n’ont pas de subdivisions supérieures à l’article. > Les actes de moyenne longueur ont généralement des subdivisions limitées à un intitulé avec une numérotation arabe. > Les actes plus longs peuvent avoir des titres nommés (TITRE, CHAPITRE, SECTION) suivis, le cas échéant, d’autres subdivisions simplement numérotées. Fiches complémentaires"
+ },
+ {
+  "id": "11",
+  "level": 4,
+  "title": "11"
+ },
+ {
+  "id": "4-4-articles-abrogatoires-et-modificateurs",
+  "level": 4,
+  "title": "4.4. Articles abrogatoires et modificateurs"
+ },
+ {
+  "id": "4-4-1-emplacement-et-ordre",
+  "level": 4,
+  "title": "4.4.1. Emplacement et ordre"
+ },
+ {
+  "id": "les-articles-abrogatoires-et-modificateurs-peuvent-se-trouve",
+  "level": 4,
+  "title": "Les articles abrogatoires et modificateurs peuvent se trouver soit dans les dispositions finales d’un acte ordinaire, soit dans un acte édicté spécialement à cet effet (acte abrogatoire ou modificateur). Lorsque les modifications sont nombreuses ou volumineuses, il est préférable de les insérer dans une annexe ; il faut alors prévoir dans les dispositions finales un article qui fait le relais vers cette annexe."
+ },
+ {
+  "id": "en-règle-générale-l-article-abrogatoire-précède-le-ou-les-ar",
+  "level": 4,
+  "title": "En règle générale, l'article abrogatoire précède le ou les articles modificateurs. Lorsque plusieurs actes sont abrogés ou modifiés, leur énumération suit d’ordinaire l’ordre des numéros systématiques de ces actes."
+ },
+ {
+  "id": "4-4-2-articles-abrogatoires-les-actes-à-abroger-doivent-être",
+  "level": 4,
+  "title": "4.4.2. Articles abrogatoires Les actes à abroger doivent être cités expressément. La clause abrogatoire générale (formule telle que « toutes les dispositions contraires à la présente loi sont abrogées ») est donc prohibée. La clause abrogatoire mentionne le titre de l'acte abrogé (sans son éventuelle abréviation) et sa référence au RSF."
+ },
+ {
+  "id": "exemple-1-art-31-abrogation",
+  "level": 5,
+  "title": "Exemple 1 Art. 31 Abrogation"
+ },
+ {
+  "id": "exemple-2-art-254-abrogations",
+  "level": 5,
+  "title": "Exemple 2 Art. 254 Abrogations"
+ },
+ {
+  "id": "12",
+  "level": 4,
+  "title": "12"
+ },
+ {
+  "id": "4-4-3-articles-modificateurs-les-articles-modificateurs-comm",
+  "level": 4,
+  "title": "4.4.3. Articles modificateurs Les articles modificateurs commencent par une clause modificatrice, qui mentionne le titre de l'acte modifié (sans son éventuelle abréviation) et sa référence au RSF (ou, à défaut, au ROF). Dans les dispositions finales, l'article modificateur est doté du titre médian « Modification ». Si plusieurs actes sont modifiés, chaque acte modifié fait l'objet d'un"
+ },
+ {
+  "id": "article-modificateur-pour-lui-seul-le-premier-article-porte-",
+  "level": 4,
+  "title": "article modificateur pour lui seul ; le premier article porte le titre médian commun « Modifications »."
+ },
+ {
+  "id": "la-présentation-des-modifications-doit-permettre-de-distingu",
+  "level": 4,
+  "title": "La présentation des modifications doit permettre de distinguer clairement ce qui est texte légal des différents éléments indicatifs ou explicatifs."
+ },
+ {
+  "id": "art-78-al-2-3-et-4",
+  "level": 5,
+  "title": "Art. 78 al. 2, 3 et 4"
+ },
+ {
+  "id": "intitulé-du-chapitre-8",
+  "level": 5,
+  "title": "Intitulé du Chapitre 8"
+ },
+ {
+  "id": "s-il-y-a-lieu-d-insérer-un-nouvel-article-avec-un-numéro-int",
+  "level": 4,
+  "title": "S’il y a lieu d’insérer un nouvel article avec un numéro intercalaire, il faut le numéroter au moyen de lettres minuscules et l’accompagner de la mention (nouveau)."
+ },
+ {
+  "id": "fiche-complémentaire-6",
+  "level": 4,
+  "title": "Fiche complémentaire"
+ },
+ {
+  "id": "13-en-cas-de-modification-temporaire-d-articles-par-ex-en-ca",
+  "level": 4,
+  "title": "13 En cas de modification temporaire d’articles (par ex. en cas de mesures d’économie limitées dans le temps), les organes qui gèrent le RSF ajoutent une note technique rappelant ce caractère temporaire. A l’échéance du délai de validité de la modification temporaire, ces organes remettent l’ancien texte et suppriment la note technique. Il est donc important que la durée de la modification temporaire soit clairement précisée dans l’acte introduisant une telle modification."
+ },
+ {
+  "id": "4-5-clauses-référendaires",
+  "level": 4,
+  "title": "4.5. Clauses référendaires"
+ },
+ {
+  "id": "4-5-1-principes-seuls-les-lois-et-certains-décrets-sont-susc",
+  "level": 4,
+  "title": "4.5.1. Principes Seuls les lois et certains décrets sont susceptibles d’être soumis à un referendum. Pour clarifier l’exercice des droits politiques, l’article 149 LGC prévoit que « les actes du Grand Conseil comportent une clause finale qui mentionne expressément s’ils sont soumis ou non au referendum et, le cas échéant, le ou les types de referendum concernés »."
+ },
+ {
+  "id": "les-clauses-référendaires-peuvent-être-insérées-dans-la-disp",
+  "level": 4,
+  "title": "Les clauses référendaires peuvent être insérées : > dans la disposition relative à l’entrée en vigueur de l’acte, ou ; > dans une disposition séparée, qui aura le titre médian : « Referendum »."
+ },
+ {
+  "id": "l-article-197-al-1-let-g-lgc-prévoit-en-outre-que-la-questio",
+  "level": 4,
+  "title": "L’article 197 al. 1 let. g LGC prévoit en outre que la question de la soumission ou non au referendum est exposée dans le message. Les montants déterminants pour le calcul du referendum financier figurent dans une ordonnance, publiée annuellement après l’adoption des comptes par le Grand Conseil à sa session de mai."
+ },
+ {
+  "id": "14",
+  "level": 4,
+  "title": "14"
+ },
+ {
+  "id": "4-5-2-clauses-référendaires-à-utiliser",
+  "level": 4,
+  "title": "4.5.2. Clauses référendaires à utiliser"
+ },
+ {
+  "id": "acte-type-s-de-referendum-clause",
+  "level": 4,
+  "title": "Acte Type(s) de referendum Clause"
+ },
+ {
+  "id": "loi",
+  "level": 3,
+  "title": "Loi"
+ },
+ {
+  "id": "décret",
+  "level": 3,
+  "title": "Décret***"
+ },
+ {
+  "id": "cas-spéciaux",
+  "level": 3,
+  "title": "Cas spéciaux"
+ },
+ {
+  "id": "15",
+  "level": 4,
+  "title": "15"
+ },
+ {
+  "id": "4-6-entrée-en-vigueur-la-date-d-entrée-en-vigueur-fait-l-obj",
+  "level": 4,
+  "title": "4.6. Entrée en vigueur La date d’entrée en vigueur fait l’objet du dernier article de l’acte."
+ },
+ {
+  "id": "d-ordinaire-le-grand-conseil-laisse-au-conseil-d-etat-le-soi",
+  "level": 4,
+  "title": "D’ordinaire, le Grand Conseil laisse au Conseil d’Etat le soin de fixer la date d’entrée en vigueur des actes soumis à l’exercice des droits politiques ; cette date est alors fixée lors de la promulgation de l’acte (= décision qui constate le respect des règles sur l’exercice des droits politiques). La formule usuelle prend l’une des formes suivantes :"
+ },
+ {
+  "id": "ou",
+  "level": 4,
+  "title": "ou"
+ },
+ {
+  "id": "ou-2",
+  "level": 4,
+  "title": "ou"
+ },
+ {
+  "id": "l-article-19-al-3-et-4-lpal-prescrit-notamment-ce-qui-suit",
+  "level": 4,
+  "title": "L’article 19 al. 3 et 4 LPAL prescrit notamment ce qui suit :"
+ },
+ {
+  "id": "en-conséquence-il-faut-proscrire-la-formule-il-elle-entre-en",
+  "level": 4,
+  "title": "En conséquence, > il faut proscrire la formule : \"Il/Elle entre en vigueur immédiatement\" (sauf pour les décrets non soumis au referendum) ; > la date d’entrée en vigueur devrait, autant que possible, être le 1er janvier ou le 1er juillet (dates déterminantes des mises à jour du RSF) ; > à défaut, il faut choisir le premier jour d’un mois postérieur à la publication dans le Recueil officiel fribourgeois (ROF) ; > la Direction qui propose exceptionnellement une entrée en vigueur antérieure à la date présumée de publication de l’acte dans le ROF doit exposer brièvement en quoi cela est indispensable et juridiquement justifié."
+ },
+ {
+  "id": "le-droit-intercantonal-et-les-actes-urgents-posent-des-quest",
+  "level": 5,
+  "title": "Le droit intercantonal et les actes urgents posent des questions spécifiques traitées dans les"
+ },
+ {
+  "id": "fiches-complémentaires-2",
+  "level": 4,
+  "title": "fiches complémentaires"
+ },
+ {
+  "id": "16-pour-les-actes-de-durée-limitée-par-ex-les-actes-pris-ann",
+  "level": 4,
+  "title": "16 Pour les actes de durée limitée (par ex. les actes pris annuellement ou les décrets autorisant un crédit d’engagement), il faut mentionner leur date d’entrée en vigueur et leur date d’expiration, afin que l’acte puisse être retiré du RSF et de la BDLF sans qu’une abrogation formelle soit nécessaire."
+ },
+ {
+  "id": "4-7-signatures-dans-le-rof-l-acte-se-termine-par-la-mention-",
+  "level": 4,
+  "title": "4.7. Signatures Dans le ROF, l’acte se termine par la mention des signataires officiels ; elle est introduite par la Chancellerie lors de la publication dans le ROF. Il est donc inutile que les Directions les insèrent dans leurs projets."
+ },
+ {
+  "id": "4-8-approbation-fédérale-la-constitution-fédérale-exige-que-",
+  "level": 4,
+  "title": "4.8. Approbation fédérale La Constitution fédérale exige que : > la Constitution cantonale et ses modifications reçoivent la garantie de l’Assemblée fédérale ; > les conventions intercantonales soient portées à la connaissance de la Confédération et des autres cantons, qui peuvent élever une réclamation ; > d’éventuels accords internationaux soient portés à la connaissance de la Confédération préalablement à leur conclusion ; > d’autres actes législatifs cantonaux obtiennent une approbation fédérale ou soient portés à la connaissance des autorités fédérales compétentes, lorsque le droit fédéral le prévoit."
+ },
+ {
+  "id": "si-le-droit-fédéral-exige-expressément-l-approbation-d-un-ac",
+  "level": 4,
+  "title": "Si le droit fédéral exige expressément l’approbation d’un acte législatif cantonal, celle-ci est une condition de validité de l’acte. Il y a donc lieu de prendre à temps les mesures pour que cette approbation puisse être obtenue au plus tard lors de la promulgation de l’acte. Fiches complémentaires"
+ },
+ {
+  "id": "5-2",
+  "level": 4,
+  "title": "5."
+ },
+ {
+  "id": "dispositions-particulières",
+  "level": 3,
+  "title": "Dispositions particulières"
+ },
+ {
+  "id": "5-1-dispositions-d-organisation-la-désignation-des-direction",
+  "level": 4,
+  "title": "5.1. Dispositions d’organisation La désignation des Directions et des unités administratives compétentes diffère selon que l’on se trouve dans une ordonnance ou dans une loi."
+ },
+ {
+  "id": "dans-une-loi-on-utilise-une-formule-neutre-car-l-organisatio",
+  "level": 4,
+  "title": "Dans une loi, on utilise une formule neutre, car l’organisation de l’administration est de la compétence du Conseil d’Etat. Elle est introduite par des expressions telles que :"
+ },
+ {
+  "id": "la-direction-chargée-de-compétente-en-matière-de-ci-après-la",
+  "level": 4,
+  "title": "« la Direction chargée de / compétente en matière de … (ci-après : la Direction) » « le service chargé de / compétent en matière de … (ci-après : le Service) »"
+ },
+ {
+  "id": "la-matière-concernée-correspond-en-principe-à-l-une-des-attr",
+  "level": 4,
+  "title": "La matière concernée correspond en principe à l’une des attributions figurant dans l’ordonnance fixant les attributions des Directions (OADir)."
+ },
+ {
+  "id": "17-dans-les-publications-officielles-la-formule-neutre-est-c",
+  "level": 4,
+  "title": "17 Dans les publications officielles, la formule neutre est complétée par une note technique qui mentionne de quelle Direction ou unité il s’agit actuellement. Cette note ne doit pas figurer dans les projets de loi ou de décret. Elle est insérée et tenue à jour par les organes chargés du ROF, du RSF et de la BDLF."
+ },
+ {
+  "id": "en-revanche-les-directions-et-les-unités-administratives-son",
+  "level": 4,
+  "title": "En revanche, les Directions et les unités administratives sont nommées expressément dans les actes du Conseil d’Etat ou d’une autre autorité (Direction, établissement, …)."
+ },
+ {
+  "id": "la-formule-explicite-comporte-le-nom-officiel-complet-suivi-",
+  "level": 4,
+  "title": "La formule explicite comporte le nom officiel complet suivi, en cas de besoin, soit d’une formule abrégée :"
+ },
+ {
+  "id": "exemples-la-direction-de-ci-après-la-direction",
+  "level": 5,
+  "title": "Exemples « la Direction de … (ci-après : la Direction) »"
+ },
+ {
+  "id": "le-service-de-ci-après-le-service",
+  "level": 4,
+  "title": "« le Service de … (ci-après : le Service) »"
+ },
+ {
+  "id": "soit-de-son-abréviation-officielle-pour-faciliter-la-lecture",
+  "level": 4,
+  "title": "soit de son abréviation officielle (pour faciliter la lecture ou pour éviter des cas d’ambiguïté) :"
+ },
+ {
+  "id": "exemples-la-direction-de-la-sécurité-et-de-la-justice-ci-apr",
+  "level": 5,
+  "title": "Exemples « la Direction de la sécurité et de la justice (ci-après : la DSJ) »"
+ },
+ {
+  "id": "le-service-de-législation-ci-après-le-sleg",
+  "level": 4,
+  "title": "« le Service de législation (ci-après : le SLeg) »"
+ },
+ {
+  "id": "la-formule-complète-doit-être-utilisée-en-principe-la-premiè",
+  "level": 4,
+  "title": "La formule complète doit être utilisée, en principe, la première fois qu’il est fait référence à la Direction ou à l’unité administrative concernée. Elle n’est répétée dans la suite du texte que :  si le chapitre ou la section sur l’organisation apparaît ultérieurement, ou  s’il y a trop peu de cas pour justifier l’introduction d’une formule neutre abrégée (« ci- après : … »), ou  pour lever une ambiguïté (par ex. deux Directions sont citées dans le même article). ***"
+ },
+ {
+  "id": "une-nouvelle-unité-administrative-devrait-être-instituée-par",
+  "level": 4,
+  "title": "Une nouvelle unité administrative devrait être instituée par une ordonnance du Conseil d’Etat, et non par une loi ou un décret. Font exception : les établissements personnalisés et les autres unités rattachées administrativement."
+ },
+ {
+  "id": "la-dénomination-de-la-nouvelle-unité-administrative-doit-aus",
+  "level": 4,
+  "title": "La dénomination de la nouvelle unité administrative doit aussi être introduite dans la réglementation générale d’organisation (notamment dans l’ordonnance désignant les unités administratives des Directions du Conseil d'Etat et de la Chancellerie d'Etat). Elle doit être répercutée également sur l’ensemble de la législation spéciale (adaptation terminologique à préparer à l’aide de la Banque de données de la législation fribourgeoise)."
+ },
+ {
+  "id": "fiche-complémentaire-7",
+  "level": 4,
+  "title": "Fiche complémentaire"
+ },
+ {
+  "id": "18",
+  "level": 4,
+  "title": "18"
+ },
+ {
+  "id": "5-2-dispositions-relatives-à-des-commissions-la-création-d-u",
+  "level": 4,
+  "title": "5.2. Dispositions relatives à des commissions La création d’une commission permanente (ou l’attribution de compétences à une commission établie par un autre acte législatif) doit faire l’objet d’une règle spécifique ; celle-ci devrait se situer dans les dispositions sur l’organisation. Le règlement sur l’organisation et le fonctionnement des commissions de l’Etat (ROFC) fixe déjà un cadre relativement complet, auquel il ne faut pas déroger sans des motifs bien établis. Il n’y a pas lieu non plus de répéter dans la législation spéciale les règles générales, sauf nécessité particulière (par ex. pour donner le contexte d’une dérogation ou d’un complément à ces règles). Il peut en revanche être utile de faire un renvoi didactique au ROFC. Fiche complémentaire"
+ },
+ {
+  "id": "5-3-dispositions-relatives-aux-subventions-la-loi-du-17-nove",
+  "level": 4,
+  "title": "5.3. Dispositions relatives aux subventions La loi du 17 novembre 1999 sur les subventions (LSub) consacre un chapitre aux principes applicables en matière de législation (art. 10 à 21, cf. notamment l’art. 13), auquel il y a lieu de se référer lors de la préparation de dispositions concernant les subventions. En outre, le règlement du 22 août 2000 sur les subventions (RSub) contient une section 3, intitulée : « Principes applicables en matière de législation (art. 5 à 10) », qui précise les règles de la loi. Fiche complémentaire"
+ },
+ {
+  "id": "5-4-dispositions-relatives-aux-voies-de-droit-en-matière-de-",
+  "level": 4,
+  "title": "5.4. Dispositions relatives aux voies de droit En matière de voies de droit (soit le moyen de droit ordinaire qui est ouvert contre une décision, l’autorité compétente pour en connaître et le délai pour l’utiliser), il faut prendre en compte que : > dans la plupart des cas, le système ordinaire prévu par le code de procédure et de juridiction administrative (CPJA) convient et suffit ; > les éventuelles règles spéciales doivent reposer sur une base légale suffisante ; > parmi les règles spéciales envisageables, l’institution d’une voie de réclamation paraît judicieuse dans certaines situations, tandis que celle d’un recours au Conseil d’Etat est en principe déconseillée. Fiche complémentaire"
+ },
+ {
+  "id": "19",
+  "level": 4,
+  "title": "19"
+ },
+ {
+  "id": "5-5-dispositions-pénales-lorsqu-on-envisage-des-sanctions-pé",
+  "level": 4,
+  "title": "5.5. Dispositions pénales Lorsqu’on envisage des sanctions pénales, il faut notamment : > examiner préalablement la nécessité d’une telle mesure ; > prévoir une base légale suffisante (loi au sens formel) ; > déterminer de manière précise les éléments constitutifs de l’infraction ; > ne pas répéter des règles posées par la loi d’application du code pénal ; > renvoyer, en principe, aux règles ordinaires de procédure et de juridiction pénale, en utilisant, si possible, la formule standard :"
+ },
+ {
+  "id": "la-poursuite-et-le-jugement-des-infractions-ont-lieu-conform",
+  "level": 5,
+  "title": "La poursuite et le jugement des infractions ont lieu conformément à la loi sur la justice."
+ },
+ {
+  "id": "fiche-complémentaire-8",
+  "level": 4,
+  "title": "Fiche complémentaire"
+ },
+ {
+  "id": "5-6-droit-transitoire-il-faut-examiner-soigneusement-si-des-",
+  "level": 4,
+  "title": "5.6. Droit transitoire Il faut examiner soigneusement si des situations durables ou des procédures en cours risquent d’être affectées par le changement de législation proposé (sur le fond et sous l’angle procédural) et, le cas échéant, prévoir les solutions adéquates : reconnaissance de droits acquis, indemnisation, prolongation de l’application de l’ancien droit dans ces cas, par exemple. De même, on examinera si la mise en œuvre requiert un certain temps (par ex. pour adapter les applications informatiques, pour engager ou former le personnel concerné ou pour permettre aux communes de s’adapter aux nouvelles règles). On prévoira alors par exemple un délai transitoire ou une entrée en vigueur différée de certains articles. L’éventuelle application du nouveau droit à des faits qui se sont produits avant celui-ci doit être expressément réglée ; cette rétroactivité n’est admissible qu’à des conditions très restrictives. En revanche, il n’y a pas lieu d’introduire des dispositions pour prescrire que : > le nouveau droit s’applique aux faits postérieurs à son entrée en vigueur ; > l’ancien droit reste applicable aux faits qui se sont produits durant sa période de validité. Emplacement des dispositions transitoires : > le droit transitoire est en principe introduit à la fin de l’acte, avant les dispositions abrogatoires et modificatrices ; > le droit transitoire relatif à une modification est en principe intégré dans l’acte modifié. Fiche complémentaire"
+ },
+ {
+  "id": "20",
+  "level": 4,
+  "title": "20"
+ },
+ {
+  "id": "6-2",
+  "level": 4,
+  "title": "6."
+ },
+ {
+  "id": "clarté-et-cohérence",
+  "level": 3,
+  "title": "Clarté et cohérence"
+ },
+ {
+  "id": "le-texte-est-rédigé-de-manière-claire-et-concise-art-10-al-1",
+  "level": 4,
+  "title": "Le texte est rédigé de manière claire et concise (art. 10 al. 1 REAL), en tenant compte de ses destinataires. Le respect des règles suivantes contribue à atteindre cet objectif : > une idée, une phrase ; > pas plus de deux phrases par alinéa ; > pas plus de trois alinéas par article. La terminologie utilisée est cohérente tant entre les dispositions d’un même acte qu’entre cet acte et le reste de la législation, en particulier dans le même domaine (art. 10 al. 2 REAL). Il ne faut pas reproduire les règles du droit supérieur, car le Grand Conseil ou le Conseil d’Etat risque de modifier cette règle sans se rendre compte que ce n’est pas de sa compétence. En outre, une reproduction partielle risque de faire oublier d’autres règles du droit supérieur (par ex. des conditions supplémentaires). Au besoin, on procède donc par un renvoi à l’acte supérieur, soit dans le texte de la disposition, soit dans le titre médian (mention de la disposition appliquée). Fiche complémentaire"
+ },
+ {
+  "id": "autant-que-possible-les-projets-sont-rédigés-dans-des-termes",
+  "level": 4,
+  "title": "Autant que possible, les projets sont rédigés dans des termes et des structures de phrases facilitant le respect du caractère bilingue de la législation (art. 11 al. 3 REAL). Les Directions établissent les textes dans les deux langues officielles et veillent à la concordance entre les versions linguistiques. La Chancellerie d’Etat en assure la vérification (art. 5 let. e, 11 al. 1 et 15 let. d REAL)."
+ },
+ {
+  "id": "7-2",
+  "level": 4,
+  "title": "7."
+ },
+ {
+  "id": "formulation-non-sexiste",
+  "level": 3,
+  "title": "Formulation non sexiste"
+ },
+ {
+  "id": "7-1-principes-la-formulation-respecte-l-égalité-des-genres-e",
+  "level": 4,
+  "title": "7.1. Principes La formulation respecte l’égalité des genres, en fonction du génie propre à chaque langue et du contexte rédactionnel, sans nuire à l’intelligibilité ni à la lisibilité du texte (art. 10 al. 3 REAL). Les Recommandations concernant l’égalité linguistique entre femmes et hommes ainsi que leur annexe contenant une liste d’équivalents féminins des noms masculins de profession, titre, fonction ou grade (approuvées par le Conseil d’Etat en 1998) sont publiées sur le site de la Chancellerie d’Etat (http://www.fr.ch/publ), car ces règles valent pour l’ensemble des actes officiels de l’Etat (correspondance, publications, décisions, actes législatifs). Dans le domaine législatif, il en découle les règles qui suivent. La formulation non sexiste s’applique prioritairement à tout nouveau texte législatif ou à toute révision générale d’un texte législatif. Il y a aussi lieu de profiter des révisions partielles pour introduire la formulation non sexiste dans l’ensemble de l’acte principalement touché si cela ne requiert pas un travail disproportionné ou, à tout le moins, d’utiliser la formulation neutre dans les articles directement touchés."
+ },
+ {
+  "id": "21-la-méthode-retenue-peut-être-la-formulation-neutre-et-ou-",
+  "level": 4,
+  "title": "21 La méthode retenue peut être : > la formulation neutre et/ou l’élimination de la notion de sexe ; > les doublets ; > les définitions légales. Toutefois, les définitions légales générales (comme « Dans le présent acte, la forme masculine s’applique aussi bien aux hommes qu’aux femmes ») sont à proscrire. Au besoin, on peut aussi combiner ces méthodes. Pour des raisons de lisibilité, il est souhaitable de retenir en priorité la formulation neutre et/ou l’élimination de la notion de genre."
+ },
+ {
+  "id": "7-2-règles-concernant-les-doublets-le-genre-masculin-est-men",
+  "level": 4,
+  "title": "7.2. Règles concernant les doublets Le genre masculin est mentionné en premier."
+ },
+ {
+  "id": "7-3-graphie-des-noms-les-doublets-sont-utilisés-en-version-i",
+  "level": 4,
+  "title": "7.3. Graphie des noms Les doublets sont utilisés en version intégrale (par ex. le collaborateur ou la collaboratrice), sauf si la différenciation entre les dénominations féminines et masculines n’est pas perceptible phonétiquement. Dans ce dernier cas, les lettres qui marquent le féminin sont distinguées par un trait d’union insécable (CTRL+MAJ+trait d’union), au singulier comme au pluriel."
+ },
+ {
+  "id": "dans-les-tableaux-énumérant-de-nombreuses-fonctions-on-utili",
+  "level": 4,
+  "title": "Dans les tableaux énumérant de nombreuses fonctions, on utilise toutefois une barre oblique dans toutes les hypothèses."
+ },
+ {
+  "id": "7-4-graphie-des-adjectifs-et-participes-au-singulier-on-util",
+  "level": 4,
+  "title": "7.4. Graphie des adjectifs et participes Au singulier, on utilise un doublet abrégé, même lorsqu’il n’y a pas homophonie. Le pronom est répété pour chaque genre."
+ },
+ {
+  "id": "au-pluriel-l-adjectif-ou-le-participe-commun-se-met-toujours",
+  "level": 4,
+  "title": "Au pluriel, l’adjectif ou le participe commun se met toujours au masculin. On utilise le pronom masculin pour désigner collectivement les deux genres."
+ },
+ {
+  "id": "22",
+  "level": 4,
+  "title": "22"
+ },
+ {
+  "id": "8-2",
+  "level": 4,
+  "title": "8."
+ },
+ {
+  "id": "notes-d-auteur-e-et-notes-techniques",
+  "level": 3,
+  "title": "Notes d’auteur-e et notes techniques"
+ },
+ {
+  "id": "a-une-note-d-auteur-e-peut-exceptionnellement-être-introduit",
+  "level": 4,
+  "title": "a) Une note d’auteur-e peut, exceptionnellement, être introduite par la Direction ou l’unité administrative qui rédige un projet afin d’apporter une information matérielle (par ex. si, pour des raisons de lisibilité, on utilise un seul genre dans un article au lieu du doublet utilisé dans le reste de l’acte). Elle est caractérisée graphiquement par l’usage de l’astérisque comme symbole de l’appel de note et de la note. b) Les notes techniques sont introduites exclusivement par les organes chargés des publications officielles, soit la Chancellerie d’Etat et le Service de législation. Elles ont généralement une portée purement informative (nom actuel d’une Direction, rappel de la durée de validité limitée d’un article prévue dans une disposition finale, annulation d’une norme par un arrêt du Tribunal fédéral, etc.). Elles sont caractérisées graphiquement par l’usage de chiffres arabes comme symbole. La numérotation recommence à chaque article. Les Directions et leurs unités administratives ne doivent pas introduire ni reproduire des notes techniques dans leurs projets, notamment pour indiquer la dénomination actuelle d’une Direction ou d’une unité administrative. Fiche complémentaire"
+ },
+ {
+  "id": "9",
+  "level": 4,
+  "title": "9."
+ },
+ {
+  "id": "bilinguisme-et-traduction",
+  "level": 3,
+  "title": "Bilinguisme et traduction"
+ },
+ {
+  "id": "les-documents-mis-en-consultation-en-dehors-de-l-administrat",
+  "level": 4,
+  "title": "Les documents mis en consultation en dehors de l’administration cantonale ainsi que ceux qui sont distribués aux membres du Grand Conseil (notamment rapports, messages et projets) doivent être disponibles simultanément dans les deux langues officielles (art. 18 al. 2 LPAL). La publication des actes législatifs a lieu simultanément dans les deux langues officielles du canton (art. 18 al. 1 LPAL) et les deux versions linguistiques font foi de manière égale (art. 20 LPAL). Le bilinguisme doit également être respecté s’agissant des informations au sujet des actes législatifs ou de la procédure législative qui doivent être fournies au public ou aux milieux concernés (art. 2s. OInf). L’organisation de la traduction au sein de l’Etat et l’octroi de mandats externes font l’objet de directives, disponibles sur le site Internet du secteur Traduction de la Chancellerie d’Etat (http://www.fr.ch/cha/fr/pub/presentation/organisation/traduction.htm)."
+ },
+ {
+  "id": "23",
+  "level": 4,
+  "title": "23"
+ },
+ {
+  "id": "10",
+  "level": 4,
+  "title": "10."
+ },
+ {
+  "id": "publication-et-information-du-public",
+  "level": 3,
+  "title": "Publication et information du public"
+ },
+ {
+  "id": "selon-un-vieil-adage-français-nul-n-est-censé-ignorer-la-loi",
+  "level": 4,
+  "title": "Selon un vieil adage français, « Nul n’est censé ignorer la loi ». A cette fin, les actes législatifs sont publiés dans les collections officielles. Fiche complémentaire"
+ },
+ {
+  "id": "en-outre-le-public-et-les-milieux-particulièrement-concernés",
+  "level": 4,
+  "title": "En outre, le public et les milieux particulièrement concernés doivent être informés au sujet des principaux actes législatifs ou de la procédure législative y relative en vertu des articles 17 al. 3 LPAL et 2 al. 2, 8, 9, 26 al. 3 et 45 al. 4 LOCEA. Les organes de l’Etat appliqueront à cette fin les règles relatives à l’information du public prévues par la LInf, l’OInf et les directives qui les mettent en œuvre. Voir à ce sujet le site du Bureau de l’information de la Chancellerie d’Etat. (http://www.fr.ch/cha/fr/pub/presentation/organisation/bureau_information.htm)."
+ },
+ {
+  "id": "11-2",
+  "level": 4,
+  "title": "11."
+ },
+ {
+  "id": "contenu-des-messages-et-rapports-explicatifs",
+  "level": 3,
+  "title": "Contenu des messages et rapports explicatifs"
+ },
+ {
+  "id": "les-principales-exigences-quant-au-contenu-des-messages-figu",
+  "level": 4,
+  "title": "Les principales exigences quant au contenu des messages figurent aux articles 197 LGC et 8 LFE. Pour les rapports explicatifs, voir l’article 13 al. 2 REAL. Fiche complémentaire"
+ },
+ {
+  "id": "12-2",
+  "level": 4,
+  "title": "12."
+ },
+ {
+  "id": "initiative-du-canton-à-l-assemblée-fédérale",
+  "level": 3,
+  "title": "Initiative du canton à l’Assemblée fédérale"
+ },
+ {
+  "id": "tout-canton-peut-proposer-au-moyen-d-une-initiative-qu-une-c",
+  "level": 4,
+  "title": "Tout canton peut proposer, au moyen d'une initiative, qu'une commission des Chambres fédérales élabore un projet d'acte. Dans notre canton, cette initiative est de la compétence du Grand Conseil, dont la décision prend la forme d’un décret simple, qui présente quelques spécificités. Fiche complémentaire"
+ },
+ {
+  "id": "fiche-type-pour-la-planification-d-une-loi",
+  "level": 3,
+  "title": "Fiche type pour la planification d’une loi"
+ },
+ {
+  "id": "quinze-jours",
+  "level": 5,
+  "title": "(- quinze jours)"
+ },
+ {
+  "id": "aperçu-du-processus-législatif",
+  "level": 3,
+  "title": "Aperçu du processus législatif"
+ },
+ {
+  "id": "a-adoption-d-une-loi-ou-d-un-décret",
+  "level": 4,
+  "title": "A. Adoption d’une loi ou d’un décret"
+ },
+ {
+  "id": "b-adoption-d-une-ordonnance-ou-d-un-règlement",
+  "level": 4,
+  "title": "B. Adoption d’une ordonnance ou d’un règlement"
+ },
+ {
+  "id": "genres-d-actes-législatifs",
+  "level": 3,
+  "title": "Genres d’actes législatifs"
+ },
+ {
+  "id": "a-selon-la-forme",
+  "level": 4,
+  "title": "A. Selon la forme"
+ },
+ {
+  "id": "b-selon-l-autorité-d-adoption",
+  "level": 4,
+  "title": "B. Selon l’autorité d’adoption"
+ },
+ {
+  "id": "1-actes-du-grand-conseil",
+  "level": 4,
+  "title": "1. Actes du Grand Conseil"
+ },
+ {
+  "id": "nota-bene",
+  "level": 5,
+  "title": "Nota bene"
+ },
+ {
+  "id": "la-constitution",
+  "level": 5,
+  "title": "La Constitution"
+ },
+ {
+  "id": "la-loi",
+  "level": 5,
+  "title": "La loi"
+ },
+ {
+  "id": "l-ordonnance-parlementaire",
+  "level": 5,
+  "title": "L’ordonnance parlementaire"
+ },
+ {
+  "id": "les-conventions-intercantonales-et-internationales",
+  "level": 5,
+  "title": "Les conventions intercantonales et internationales"
+ },
+ {
+  "id": "2-actes-du-conseil-d-etat",
+  "level": 4,
+  "title": "2. Actes du Conseil d’Etat"
+ },
+ {
+  "id": "3-actes-d-autres-autorités",
+  "level": 4,
+  "title": "3. Actes d’autres autorités"
+ },
+ {
+  "id": "publication-des-actes-législatifs",
+  "level": 3,
+  "title": "Publication des actes législatifs"
+ },
+ {
+  "id": "a-organes-de-publication",
+  "level": 4,
+  "title": "A. Organes de publication"
+ },
+ {
+  "id": "chronologiquement-dans-le-recueil-officiel-fribourgeois-rof-",
+  "level": 4,
+  "title": "> chronologiquement dans le Recueil officiel fribourgeois (ROF) et son"
+ },
+ {
+  "id": "systématiquement",
+  "level": 4,
+  "title": "> systématiquement"
+ },
+ {
+  "id": "b-modes-de-publication",
+  "level": 4,
+  "title": "B. Modes de publication"
+ },
+ {
+  "id": "publication-ordinaire",
+  "level": 4,
+  "title": "Publication ordinaire"
+ },
+ {
+  "id": "publication-restreinte",
+  "level": 4,
+  "title": "Publication restreinte"
+ },
+ {
+  "id": "publication-extraordinaire",
+  "level": 4,
+  "title": "Publication extraordinaire"
+ },
+ {
+  "id": "initiatives-et-referendums-au-niveau-cantonal",
+  "level": 3,
+  "title": "Initiatives et referendums au niveau cantonal"
+ },
+ {
+  "id": "a-initiative",
+  "level": 4,
+  "title": "A. Initiative"
+ },
+ {
+  "id": "b-referendum",
+  "level": 4,
+  "title": "B. Referendum"
+ },
+ {
+  "id": "c-conditions-générales",
+  "level": 4,
+  "title": "C. Conditions générales"
+ },
+ {
+  "id": "initiatives-populaires",
+  "level": 2,
+  "title": "Initiatives populaires"
+ },
+ {
+  "id": "conventions-intercantonales",
+  "level": 3,
+  "title": "Conventions intercantonales"
+ },
+ {
+  "id": "sommaire",
+  "level": 5,
+  "title": "Sommaire"
+ },
+ {
+  "id": "a-procédure-d-adhésion",
+  "level": 4,
+  "title": "A. Procédure d’adhésion"
+ },
+ {
+  "id": "1-autorité-compétente-pour-l-adhésion",
+  "level": 4,
+  "title": "1. Autorité compétente pour l’adhésion"
+ },
+ {
+  "id": "2-rôles-lors-des-négociations",
+  "level": 4,
+  "title": "2. Rôles lors des négociations"
+ },
+ {
+  "id": "3-ratification-et-information-à-la-confédération",
+  "level": 4,
+  "title": "3. Ratification et information à la Confédération"
+ },
+ {
+  "id": "4-entrée-en-vigueur-et-informations-subséquentes",
+  "level": 4,
+  "title": "4. Entrée en vigueur et informations subséquentes"
+ },
+ {
+  "id": "5-procédure-en-cas-de-dénonciation-par-le-canton-de-fribourg",
+  "level": 4,
+  "title": "5. Procédure en cas de dénonciation par le canton de Fribourg"
+ },
+ {
+  "id": "b-l-acte-d-adhésion",
+  "level": 4,
+  "title": "B. L’acte d’adhésion"
+ },
+ {
+  "id": "1-forme",
+  "level": 4,
+  "title": "1. Forme"
+ },
+ {
+  "id": "2-titre",
+  "level": 4,
+  "title": "2. Titre"
+ },
+ {
+  "id": "loi-2",
+  "level": 5,
+  "title": "Loi"
+ },
+ {
+  "id": "portant-adhésion-à-la-convention-intercantonale-sur",
+  "level": 5,
+  "title": "portant adhésion à la convention intercantonale sur …"
+ },
+ {
+  "id": "3-vu",
+  "level": 4,
+  "title": "3. Vu"
+ },
+ {
+  "id": "4-contenu-de-l-acte-d-adhésion",
+  "level": 4,
+  "title": "4. Contenu de l’acte d’adhésion"
+ },
+ {
+  "id": "5-dates-d-entrée-en-vigueur",
+  "level": 4,
+  "title": "5. Dates d’entrée en vigueur"
+ },
+ {
+  "id": "6-traduction-de-la-convention",
+  "level": 4,
+  "title": "6. Traduction de la convention"
+ },
+ {
+  "id": "7-clause-de-délégation-en-faveur-du-conseil-d-etat",
+  "level": 4,
+  "title": "7. Clause de délégation en faveur du Conseil d’Etat ?"
+ },
+ {
+  "id": "d-ordinaire-il-n-y-a-donc-pas-besoin-de-prévoir-une-clause-d",
+  "level": 5,
+  "title": "D’ordinaire, il n’y a donc pas besoin de prévoir une clause de délégation en"
+ },
+ {
+  "id": "on-retiendra-dans-ce-cas-une-formule-de-ce-type",
+  "level": 5,
+  "title": "On retiendra dans ce cas une formule de ce type :"
+ },
+ {
+  "id": "droit-intercantonal-cadre-législatif",
+  "level": 3,
+  "title": "Droit intercantonal – Cadre législatif"
+ },
+ {
+  "id": "sommaire-2",
+  "level": 5,
+  "title": "Sommaire"
+ },
+ {
+  "id": "a-abréviations",
+  "level": 4,
+  "title": "A. Abréviations"
+ },
+ {
+  "id": "b-aperçu",
+  "level": 4,
+  "title": "B. Aperçu"
+ },
+ {
+  "id": "1-le-droit-fédéral",
+  "level": 5,
+  "title": "1. Le droit fédéral"
+ },
+ {
+  "id": "2-le-droit-fribourgeois",
+  "level": 5,
+  "title": "2. Le droit fribourgeois"
+ },
+ {
+  "id": "3-le-droit-intercantonal",
+  "level": 5,
+  "title": "3. Le droit intercantonal"
+ },
+ {
+  "id": "3-1-les-conventions-cadres",
+  "level": 5,
+  "title": "3.1 Les « conventions cadres »"
+ },
+ {
+  "id": "3-2-les-autres-conventions-intercantonales",
+  "level": 5,
+  "title": "3.2 Les autres conventions intercantonales"
+ },
+ {
+  "id": "c-présentation-de-la-lconv",
+  "level": 4,
+  "title": "C. Présentation de la LConv"
+ },
+ {
+  "id": "1-champ-d-application-art-2-lconv",
+  "level": 5,
+  "title": "1. Champ d’application (art. 2 LConv)"
+ },
+ {
+  "id": "2-procédure",
+  "level": 5,
+  "title": "2. Procédure"
+ },
+ {
+  "id": "2-1-la-mise-sur-pied-de-la-convention-art-4-al-2-6-al-1-8-10",
+  "level": 5,
+  "title": "2.1 La mise sur pied de la convention (art. 4 al. 2, 6 al. 1, 8, 10ss LConv)"
+ },
+ {
+  "id": "2-2-l-approbation-de-l-adhésion",
+  "level": 5,
+  "title": "2.2 L’approbation de l’adhésion"
+ },
+ {
+  "id": "2-3-la-publication-et-la-promulgation",
+  "level": 5,
+  "title": "2.3 La publication et la promulgation"
+ },
+ {
+  "id": "2-4-la-ratification-art-14-lconv",
+  "level": 5,
+  "title": "2.4 La ratification (art. 14 LConv)"
+ },
+ {
+  "id": "2-5-la-mise-en-œuvre-art-15-lconv",
+  "level": 5,
+  "title": "2.5 La mise en œuvre (art. 15 LConv)"
+ },
+ {
+  "id": "2-6-la-dénonciation",
+  "level": 5,
+  "title": "2.6 La dénonciation"
+ },
+ {
+  "id": "3-inventaire-art-18-lconv",
+  "level": 5,
+  "title": "3. Inventaire (art. 18 LConv)"
+ },
+ {
+  "id": "d-cas-soumis-à-l-aci",
+  "level": 4,
+  "title": "D. Cas soumis à l’ACI"
+ },
+ {
+  "id": "1-champ-d-application-et-objet",
+  "level": 5,
+  "title": "1. Champ d’application et objet"
+ },
+ {
+  "id": "l-aci-s-applique",
+  "level": 5,
+  "title": "L’ACI s’applique :"
+ },
+ {
+  "id": "2-particularités-de-la-procédure",
+  "level": 5,
+  "title": "2. Particularités de la procédure"
+ },
+ {
+  "id": "e-cas-soumis-à-la-coparl",
+  "level": 4,
+  "title": "E. Cas soumis à la CoParl"
+ },
+ {
+  "id": "1-champ-d-application-et-objet-2",
+  "level": 5,
+  "title": "1. Champ d’application et objet"
+ },
+ {
+  "id": "2-particularités-de-la-coparl",
+  "level": 5,
+  "title": "2. Particularités de la CoParl"
+ },
+ {
+  "id": "3-nouveautés-introduites-en-2011",
+  "level": 5,
+  "title": "3. Nouveautés introduites en 2011"
+ },
+ {
+  "id": "f-relations-entre-la-lconv-et-les-conventions-cadres",
+  "level": 4,
+  "title": "F. Relations entre la LConv et les « conventions cadres »"
+ },
+ {
+  "id": "1-le-principe",
+  "level": 5,
+  "title": "1. Le principe"
+ },
+ {
+  "id": "2-les-spécialités",
+  "level": 4,
+  "title": "2. Les spécialités"
+ },
+ {
+  "id": "procédures-de-consultation-tableau-synoptique",
+  "level": 3,
+  "title": "Procédures de consultation – Tableau synoptique"
+ },
+ {
+  "id": "externe-interne-ordinaire-restreinte",
+  "level": 5,
+  "title": "EXTERNE INTERNE Ordinaire Restreinte"
+ },
+ {
+  "id": "cas",
+  "level": 4,
+  "title": "Cas"
+ },
+ {
+  "id": "actes-d-une-certaine",
+  "level": 5,
+  "title": "Actes d’une certaine"
+ },
+ {
+  "id": "technique-ou-peu-de-destinataires-externes-31-pratiquement-p",
+  "level": 5,
+  "title": "Technique ou peu de destinataires externes (31) Pratiquement pas d’incidences externes (32 1)"
+ },
+ {
+  "id": "autorisation",
+  "level": 4,
+  "title": "Autorisation"
+ },
+ {
+  "id": "destinataires",
+  "level": 4,
+  "title": "Destinataires"
+ },
+ {
+  "id": "directement-concernés-23-1",
+  "level": 5,
+  "title": "Directement concernés (23 1)"
+ },
+ {
+  "id": "notamment-communes-et-partis",
+  "level": 5,
+  "title": "notamment communes et partis"
+ },
+ {
+  "id": "autres-24-not-l-al-2",
+  "level": 5,
+  "title": "Autres (24, not. l’al. 2)"
+ },
+ {
+  "id": "cercle-restreint-de-destinataires-externes-absolument-obliga",
+  "level": 5,
+  "title": "Cercle restreint de destinataires externes Absolument obligatoires"
+ },
+ {
+  "id": "relativement-obligatoires",
+  "level": 5,
+  "title": "Relativement obligatoires"
+ },
+ {
+  "id": "répertoire-des-destinataires-ordinaires-cha-23-4-32",
+  "level": 5,
+  "title": "Répertoire des destinataires ordinaires – CHA (23 4) -- (32)"
+ },
+ {
+  "id": "dossier",
+  "level": 4,
+  "title": "Dossier"
+ },
+ {
+  "id": "français-allemand-25-1-une-langue-suffit",
+  "level": 5,
+  "title": "Français + allemand (25 1) Une langue suffit"
+ },
+ {
+  "id": "une-langue-suffit-11-2",
+  "level": 5,
+  "title": "Une langue suffit (11 2)"
+ },
+ {
+  "id": "papier-et-électronique",
+  "level": 5,
+  "title": "Papier et électronique"
+ },
+ {
+  "id": "eventuellement-seulement",
+  "level": 5,
+  "title": "Eventuellement seulement"
+ },
+ {
+  "id": "d-ordinaire-électronique-33",
+  "level": 5,
+  "title": "D’ordinaire, électronique (33)"
+ },
+ {
+  "id": "disponible-sur-internet-30-facultatif-31-3-aucune-obligation",
+  "level": 5,
+  "title": "Disponible sur Internet (30) Facultatif (31 3) (aucune obligation)"
+ },
+ {
+  "id": "délai",
+  "level": 4,
+  "title": "Délai"
+ },
+ {
+  "id": "périodes-de-vacances",
+  "level": 5,
+  "title": "périodes de vacances"
+ },
+ {
+  "id": "notamment-tenir-compte-des-périodes-de-vacances",
+  "level": 5,
+  "title": "notamment tenir compte des périodes de vacances"
+ },
+ {
+  "id": "annonce",
+  "level": 4,
+  "title": "Annonce"
+ },
+ {
+  "id": "réponse",
+  "level": 4,
+  "title": "Réponse"
+ },
+ {
+  "id": "papier-et-si-possible",
+  "level": 5,
+  "title": "Papier et si possible"
+ },
+ {
+  "id": "directions-électronique-d-ordinaire-liste-des-unités-et-orga",
+  "level": 5,
+  "title": "Directions = électronique d’ordinaire + liste des unités et organismes"
+ },
+ {
+  "id": "eventuellement-seulement-2",
+  "level": 5,
+  "title": "Eventuellement seulement"
+ },
+ {
+  "id": "electronique-d-ordinaire",
+  "level": 5,
+  "title": "Electronique d’ordinaire"
+ },
+ {
+  "id": "liste-des-unités-et-organismes-consultés-33-3",
+  "level": 5,
+  "title": "liste des unités et organismes consultés (33 3)"
+ },
+ {
+  "id": "evaluation-et-suite",
+  "level": 4,
+  "title": "Evaluation et suite"
+ },
+ {
+  "id": "rapport-de-synthèse-éventuel-29-2",
+  "level": 5,
+  "title": "Rapport de synthèse éventuel (29 2)"
+ },
+ {
+  "id": "rapport-de-synthèse-éventuel",
+  "level": 5,
+  "title": "Rapport de synthèse éventuel"
+ },
+ {
+  "id": "approbation-fédérale-procédure-cantonale",
+  "level": 3,
+  "title": "Approbation fédérale – Procédure cantonale"
+ },
+ {
+  "id": "a-constitution-cantonale",
+  "level": 4,
+  "title": "A. Constitution cantonale"
+ },
+ {
+  "id": "b-conventions-intercantonales",
+  "level": 4,
+  "title": "B. Conventions intercantonales"
+ },
+ {
+  "id": "c-conventions-contraires-aux-intérêts-de-notre-canton",
+  "level": 4,
+  "title": "C. Conventions contraires aux intérêts de notre canton"
+ },
+ {
+  "id": "d-accords-internationaux",
+  "level": 4,
+  "title": "D. Accords internationaux"
+ },
+ {
+  "id": "e-actes-législatifs-soumis-à-approbation",
+  "level": 4,
+  "title": "E. Actes législatifs soumis à approbation"
+ },
+ {
+  "id": "1-opérations-relevant-de-la-direction-concernée",
+  "level": 4,
+  "title": "1. Opérations relevant de la Direction concernée"
+ },
+ {
+  "id": "2-opérations-relevant-de-la-chancellerie-d-etat",
+  "level": 4,
+  "title": "2. Opérations relevant de la Chancellerie d’Etat"
+ },
+ {
+  "id": "f-autres-actes-législatifs-à-porter-à-la-connaissance-des-au",
+  "level": 4,
+  "title": "F. Autres actes législatifs à porter à la connaissance des autorités fédérales"
+ },
+ {
+  "id": "approbation-fédérale-règles-fédérales",
+  "level": 3,
+  "title": "Approbation fédérale - Règles fédérales"
+ },
+ {
+  "id": "1-la-constitution-cantonale",
+  "level": 3,
+  "title": "1. La Constitution cantonale"
+ },
+ {
+  "id": "1-1-cas",
+  "level": 4,
+  "title": "1.1. Cas"
+ },
+ {
+  "id": "1-2-caractère-juridique",
+  "level": 4,
+  "title": "1.2. Caractère juridique"
+ },
+ {
+  "id": "1-3-autorité-fédérale-compétente",
+  "level": 4,
+  "title": "1.3. Autorité fédérale compétente"
+ },
+ {
+  "id": "1-4-procédure-fédérale",
+  "level": 4,
+  "title": "1.4. Procédure fédérale"
+ },
+ {
+  "id": "1-5-démarches-cantonales",
+  "level": 4,
+  "title": "1.5. Démarches cantonales"
+ },
+ {
+  "id": "2-conventions-intercantonales",
+  "level": 3,
+  "title": "2. Conventions intercantonales"
+ },
+ {
+  "id": "2-1-cas",
+  "level": 4,
+  "title": "2.1. Cas"
+ },
+ {
+  "id": "2-2-caractère-juridique",
+  "level": 4,
+  "title": "2.2. Caractère juridique"
+ },
+ {
+  "id": "2-3-autorité-fédérale-compétente",
+  "level": 4,
+  "title": "2.3. Autorité fédérale compétente"
+ },
+ {
+  "id": "2-4-procédure-fédérale",
+  "level": 4,
+  "title": "2.4. Procédure fédérale"
+ },
+ {
+  "id": "2-5-démarches-cantonales",
+  "level": 4,
+  "title": "2.5. Démarches cantonales"
+ },
+ {
+  "id": "3-autres-actes-législatifs",
+  "level": 3,
+  "title": "3. Autres actes législatifs"
+ },
+ {
+  "id": "3-1-généralités",
+  "level": 4,
+  "title": "3.1. Généralités"
+ },
+ {
+  "id": "3-2-caractère-juridique",
+  "level": 4,
+  "title": "3.2. Caractère juridique"
+ },
+ {
+  "id": "3-3-autorité-fédérale-compétente",
+  "level": 4,
+  "title": "3.3. Autorité fédérale compétente"
+ },
+ {
+  "id": "3-4-procédure-fédérale",
+  "level": 4,
+  "title": "3.4. Procédure fédérale"
+ },
+ {
+  "id": "3-5-démarches-cantonales",
+  "level": 4,
+  "title": "3.5. Démarches cantonales"
+ },
+ {
+  "id": "3-6-liste-des-cas",
+  "level": 4,
+  "title": "3.6. Liste des cas"
+ },
+ {
+  "id": "4-accords-internationaux",
+  "level": 3,
+  "title": "4. Accords internationaux"
+ },
+ {
+  "id": "4-1-cas",
+  "level": 4,
+  "title": "4.1. Cas"
+ },
+ {
+  "id": "4-2-caractère-juridique",
+  "level": 4,
+  "title": "4.2. Caractère juridique"
+ },
+ {
+  "id": "4-3-autorité-fédérale-compétente",
+  "level": 4,
+  "title": "4.3. Autorité fédérale compétente"
+ },
+ {
+  "id": "4-4-procédure-fédérale",
+  "level": 4,
+  "title": "4.4. Procédure fédérale"
+ },
+ {
+  "id": "4-5-démarches-cantonales",
+  "level": 4,
+  "title": "4.5. Démarches cantonales"
+ },
+ {
+  "id": "messages-du-conseil-d-etat-au-grand-conseil",
+  "level": 3,
+  "title": "Messages du Conseil d’Etat au Grand Conseil"
+ },
+ {
+  "id": "procédure-en-cas-d-urgence",
+  "level": 3,
+  "title": "Procédure en cas d’urgence"
+ },
+ {
+  "id": "a-en-cas-de-circonstances-extraordinaires",
+  "level": 4,
+  "title": "A. En cas de circonstances extraordinaires"
+ },
+ {
+  "id": "b-mise-en-œuvre-du-droit-fédéral",
+  "level": 4,
+  "title": "B. Mise en œuvre du droit fédéral"
+ },
+ {
+  "id": "c-procédure-parlementaire-accélérée",
+  "level": 4,
+  "title": "C. Procédure parlementaire accélérée"
+ },
+ {
+  "id": "d-publication-extraordinaire-et-referendum",
+  "level": 4,
+  "title": "D. Publication extraordinaire et referendum"
+ },
+ {
+  "id": "formulation-du-titre-exemples",
+  "level": 3,
+  "title": "Formulation du titre (exemples)"
+ },
+ {
+  "id": "1-principes",
+  "level": 4,
+  "title": "1. Principes"
+ },
+ {
+  "id": "2-actes-d-application-ou-d-exécution",
+  "level": 4,
+  "title": "2. Actes d’application ou d’exécution"
+ },
+ {
+  "id": "loi-du-16-novembre-1965-sur-les-prestations-complémentaires-",
+  "level": 5,
+  "title": "Loi du 16 novembre 1965 sur les prestations complémentaires à"
+ },
+ {
+  "id": "règlement-du-27-juin-1995-sur-l-enseignement-secondaire-supé",
+  "level": 5,
+  "title": "Règlement du 27 juin 1995 sur l’enseignement secondaire supérieur"
+ },
+ {
+  "id": "loi-du-d-application-de-la-loi-fédérale-sur-l-assurance-chôm",
+  "level": 5,
+  "title": "Loi du ... d’application de la loi fédérale sur l’assurance-chômage"
+ },
+ {
+  "id": "loi-du-d-application-de-la-loi-fédérale-du-25-juin-1982-sur-",
+  "level": 5,
+  "title": "Loi du ... d’application de la loi fédérale du 25 juin 1982 sur l’assurance-chômage obligatoire et l’indemnité en cas d’insolvabilité"
+ },
+ {
+  "id": "3-actes-abrogatoires-ou-modificateurs",
+  "level": 4,
+  "title": "3. Actes abrogatoires ou modificateurs"
+ },
+ {
+  "id": "loi-3",
+  "level": 5,
+  "title": "Loi"
+ },
+ {
+  "id": "modifiant-la-loi-sur-les-impôts-cantonaux-directs",
+  "level": 5,
+  "title": "modifiant la loi sur les impôts cantonaux directs"
+ },
+ {
+  "id": "loi-4",
+  "level": 5,
+  "title": "Loi"
+ },
+ {
+  "id": "modifiant-la-loi-d-application-du-code-civil-suisse-obligati",
+  "level": 5,
+  "title": "modifiant la loi d’application du code civil suisse (obligation d’entretien)"
+ },
+ {
+  "id": "loi-5",
+  "level": 5,
+  "title": "Loi"
+ },
+ {
+  "id": "modifiant-certaines-dispositions-dans-le-domaine-des-droits-",
+  "level": 5,
+  "title": "modifiant certaines dispositions dans le domaine des droits réels"
+ },
+ {
+  "id": "règlement-du-tribunal-cantonal-sur-son-organisation-interne-",
+  "level": 5,
+  "title": "Règlement du Tribunal cantonal sur son organisation interne et la manière de rendre ses décisions"
+ },
+ {
+  "id": "ordonnance-dfin-relative-à-la-perception-des-créances-fiscal",
+  "level": 5,
+  "title": "Ordonnance DFIN relative à la perception des créances fiscales"
+ },
+ {
+  "id": "comment-créer-une-abréviation",
+  "level": 3,
+  "title": "Comment créer une abréviation ?"
+ },
+ {
+  "id": "1-méthodes",
+  "level": 4,
+  "title": "1. Méthodes"
+ },
+ {
+  "id": "2-unicité-de-l-abréviation",
+  "level": 4,
+  "title": "2. Unicité de l’abréviation"
+ },
+ {
+  "id": "loi-6",
+  "level": 5,
+  "title": "Loi"
+ },
+ {
+  "id": "sur-les-eaux-lceaux",
+  "level": 5,
+  "title": "sur les eaux (LCEaux)"
+ },
+ {
+  "id": "3-graphie",
+  "level": 4,
+  "title": "3. Graphie"
+ },
+ {
+  "id": "4-lettres-indiquant-la-forme-juridique-de-l-acte",
+  "level": 4,
+  "title": "4. Lettres indiquant la forme juridique de l’acte"
+ },
+ {
+  "id": "5-actes-d-application-ou-d-exécution",
+  "level": 4,
+  "title": "5. Actes d’application ou d’exécution"
+ },
+ {
+  "id": "préambule-précisions-et-exemples",
+  "level": 3,
+  "title": "Préambule - précisions et exemples"
+ },
+ {
+  "id": "1-les-vu",
+  "level": 3,
+  "title": "1. Les « Vu »"
+ },
+ {
+  "id": "a-références-légales",
+  "level": 4,
+  "title": "A. Références légales"
+ },
+ {
+  "id": "b-références-à-la-constitution-a-constitution-fédérale",
+  "level": 4,
+  "title": "B. Références à la Constitution a) Constitution fédérale"
+ },
+ {
+  "id": "b-constitution-fribourgeoise",
+  "level": 4,
+  "title": "b) Constitution fribourgeoise"
+ },
+ {
+  "id": "c-autres-références",
+  "level": 4,
+  "title": "C. Autres références"
+ },
+ {
+  "id": "2-considérant",
+  "level": 3,
+  "title": "2. Considérant"
+ },
+ {
+  "id": "3-autorité-de-proposition",
+  "level": 3,
+  "title": "3. Autorité de proposition"
+ },
+ {
+  "id": "4-actes-abrogatoires-ou-modificateurs",
+  "level": 3,
+  "title": "4. Actes abrogatoires ou modificateurs"
+ },
+ {
+  "id": "composantes-des-articles",
+  "level": 3,
+  "title": "Composantes des articles"
+ },
+ {
+  "id": "1-numéro",
+  "level": 4,
+  "title": "1. Numéro"
+ },
+ {
+  "id": "art-1-art-2",
+  "level": 5,
+  "title": "Art. 1 Art. 2"
+ },
+ {
+  "id": "2-titre-médian",
+  "level": 4,
+  "title": "2. Titre médian"
+ },
+ {
+  "id": "3-corps-de-l-article",
+  "level": 4,
+  "title": "3. Corps de l’article"
+ },
+ {
+  "id": "dispositions-générales",
+  "level": 3,
+  "title": "Dispositions générales"
+ },
+ {
+  "id": "dispositions-d-organisation",
+  "level": 3,
+  "title": "Dispositions d’organisation"
+ },
+ {
+  "id": "1-rappel",
+  "level": 4,
+  "title": "1. Rappel"
+ },
+ {
+  "id": "2-institution-d-une-nouvelle-unité-administrative",
+  "level": 4,
+  "title": "2. Institution d’une nouvelle unité administrative"
+ },
+ {
+  "id": "3-dénomination-des-unités",
+  "level": 4,
+  "title": "3. Dénomination des unités"
+ },
+ {
+  "id": "4-attributions-des-directions-et-des-unités-administratives",
+  "level": 4,
+  "title": "4. Attributions des Directions et des unités administratives"
+ },
+ {
+  "id": "a-répartition-horizontale-entre-les-directions",
+  "level": 4,
+  "title": "A. Répartition horizontale (entre les Directions)"
+ },
+ {
+  "id": "b-répartition-verticale-entre-les-différents-niveaux-hiérarc",
+  "level": 4,
+  "title": "B. Répartition verticale (entre les différents niveaux hiérarchiques)"
+ },
+ {
+  "id": "la-réglementation-d-organisation-des-unités-administratives-",
+  "level": 5,
+  "title": "La réglementation d’organisation des unités administratives d’une Direction"
+ },
+ {
+  "id": "5-emplacement",
+  "level": 4,
+  "title": "5. Emplacement"
+ },
+ {
+  "id": "6-bases-légales",
+  "level": 4,
+  "title": "6. Bases légales"
+ },
+ {
+  "id": "droit-relatif-aux-commissions",
+  "level": 3,
+  "title": "Droit relatif aux commissions"
+ },
+ {
+  "id": "cadre-préexistant",
+  "level": 4,
+  "title": "Cadre préexistant"
+ },
+ {
+  "id": "rappel-de-quelques-principes",
+  "level": 4,
+  "title": "Rappel de quelques principes"
+ },
+ {
+  "id": "dispositions-sur-l-octroi-de-subventions",
+  "level": 3,
+  "title": "Dispositions sur l’octroi de subventions"
+ },
+ {
+  "id": "voies-de-droit",
+  "level": 3,
+  "title": "Voies de droit"
+ },
+ {
+  "id": "1-principe",
+  "level": 4,
+  "title": "1. Principe"
+ },
+ {
+  "id": "2-règles-spéciales",
+  "level": 4,
+  "title": "2. Règles spéciales"
+ },
+ {
+  "id": "3-réclamation",
+  "level": 4,
+  "title": "3. Réclamation"
+ },
+ {
+  "id": "4-recours-au-conseil-d-etat",
+  "level": 4,
+  "title": "4. Recours au Conseil d’Etat"
+ },
+ {
+  "id": "5-emplacement-2",
+  "level": 4,
+  "title": "5. Emplacement"
+ },
+ {
+  "id": "dispositions-pénales",
+  "level": 3,
+  "title": "Dispositions pénales"
+ },
+ {
+  "id": "1-infractions-visées",
+  "level": 4,
+  "title": "1. Infractions visées"
+ },
+ {
+  "id": "2-nécessité-d-une-sanction-pénale",
+  "level": 4,
+  "title": "2. Nécessité d’une sanction pénale"
+ },
+ {
+  "id": "3-base-légale",
+  "level": 4,
+  "title": "3. Base légale"
+ },
+ {
+  "id": "4-formulation-et-structure",
+  "level": 4,
+  "title": "4. Formulation et structure"
+ },
+ {
+  "id": "5-conditions-de-la-répression",
+  "level": 4,
+  "title": "5. Conditions de la répression"
+ },
+ {
+  "id": "6-procédure-et-juridiction",
+  "level": 4,
+  "title": "6. Procédure et juridiction"
+ },
+ {
+  "id": "7-emplacement",
+  "level": 4,
+  "title": "7. Emplacement"
+ },
+ {
+  "id": "droit-transitoire-cas-d-application",
+  "level": 3,
+  "title": "Droit transitoire – Cas d’application"
+ },
+ {
+  "id": "1-situations-durables",
+  "level": 4,
+  "title": "1. Situations durables"
+ },
+ {
+  "id": "2-rétroactivité-proprement-dite",
+  "level": 4,
+  "title": "2. Rétroactivité proprement dite"
+ },
+ {
+  "id": "3-mise-en-œuvre-d-une-nouvelle-législation",
+  "level": 4,
+  "title": "3. Mise en œuvre d’une nouvelle législation"
+ },
+ {
+  "id": "4-droit-transitoire-relatif-à-une-modification",
+  "level": 4,
+  "title": "4. Droit transitoire relatif à une modification"
+ },
+ {
+  "id": "dtl-a-25-version-révisée",
+  "level": 4,
+  "title": "DTL A 25 (version révisée)"
+ },
+ {
+  "id": "initiative-du-canton-à-l-assemblée-fédérale-2",
+  "level": 3,
+  "title": "Initiative du canton à l’Assemblée fédérale"
+ },
+ {
+  "id": "a-aperçu-des-règles-fédérales",
+  "level": 4,
+  "title": "A. Aperçu des règles fédérales"
+ },
+ {
+  "id": "b-procédure-cantonale",
+  "level": 4,
+  "title": "B. Procédure cantonale"
+ },
+ {
+  "id": "dtl-a-25-version-révisée-2",
+  "level": 4,
+  "title": "DTL A 25 (version révisée)"
+ },
+ {
+  "id": "directives-de-technique-législative-2",
+  "level": 4,
+  "title": "Directives de technique législative —"
+ },
+ {
+  "id": "aide-mémoire-pour-la-saisie",
+  "level": 2,
+  "title": "Aide-mémoire pour la saisie"
+ },
+ {
+  "id": "état-décembre-2014",
+  "level": 4,
+  "title": "(état : décembre 2014)"
+ },
+ {
+  "id": "sommaire-3",
+  "level": 4,
+  "title": "Sommaire"
+ },
+ {
+  "id": "section",
+  "level": 4,
+  "title": ""
+ },
+ {
+  "id": "l-application-automatique-des-styles-lors-de-la-frappe-doive",
+  "level": 5,
+  "title": "l’application automatique des styles (lors de la frappe) doivent être désactivées !"
+ },
+ {
+  "id": "considérant1",
+  "level": 5,
+  "title": "Considérant1)"
+ },
+ {
+  "id": "titre-premier-dispositions-générales",
+  "level": 5,
+  "title": "TITRE PREMIER Dispositions générales"
+ },
+ {
+  "id": "chapitre-premier-champ-d-application",
+  "level": 5,
+  "title": "CHAPITRE PREMIER Champ d’application"
+ },
+ {
+  "id": "chapitre-premier-publications-officielles",
+  "level": 5,
+  "title": "CHAPITRE PREMIER Publications officielles"
+ },
+ {
+  "id": "entre-le-numéro-en-gras-et-le-titre-médian-titre-de-l-articl",
+  "level": 5,
+  "title": "entre le numéro (en gras) et le titre médian (titre de l’article) :"
+ },
+ {
+  "id": "dans-les-énumérations",
+  "level": 5,
+  "title": "dans les énumérations :"
+ },
+ {
+  "id": "chapitre-premier-champ-d-application-2",
+  "level": 5,
+  "title": "CHAPITRE PREMIER Champ d’application"
+ },
+ {
+  "id": "art-16-al-2",
+  "level": 5,
+  "title": "Art. 16 al. 2"
+ },
+ {
+  "id": "art-78-al-2-3-et-4-2",
+  "level": 5,
+  "title": "Art. 78 al. 2, 3 et 4"
+ },
+ {
+  "id": "intitulé-du-chapitre-8-2",
+  "level": 5,
+  "title": "Intitulé du Chapitre 8"
+ },
+ {
+  "id": "annexe-1-accepter-le-répertoire-des-modèles",
+  "level": 5,
+  "title": "Annexe 1 : Accepter le répertoire des modèles"
+ },
+ {
+  "id": "annexe-2-options-de-mise-en-forme-automatique-composition-co",
+  "level": 5,
+  "title": "Annexe 2 : Options de mise en forme automatique (composition/correction automatique)"
+ },
+ {
+  "id": "modifications-règles-de-présentation",
+  "level": 3,
+  "title": "Modifications – Règles de présentation"
+ },
+ {
+  "id": "1-mise-en-évidence-des-modifications",
+  "level": 4,
+  "title": "1. Mise en évidence des modifications"
+ },
+ {
+  "id": "art-78-al-2-3-et-4-3",
+  "level": 5,
+  "title": "Art. 78 al. 2, 3 et 4"
+ },
+ {
+  "id": "intitulé-du-chapitre-8-3",
+  "level": 5,
+  "title": "Intitulé du chapitre 8"
+ },
+ {
+  "id": "2-modifications-insérées-dans-une-annexe",
+  "level": 4,
+  "title": "2. Modifications insérées dans une annexe"
+ },
+ {
+  "id": "annexe-modifications-de-lois",
+  "level": 5,
+  "title": "ANNEXE Modifications de lois"
+ },
+ {
+  "id": "art-25-al-1",
+  "level": 5,
+  "title": "Art. 25 al. 1"
+ },
+ {
+  "id": "3-modifications-relatives-à-des-articles",
+  "level": 4,
+  "title": "3. Modifications relatives à des articles"
+ },
+ {
+  "id": "a-insertion-d-un-nouvel-article",
+  "level": 4,
+  "title": "A. Insertion d’un nouvel article"
+ },
+ {
+  "id": "b-modification-partielle-d-un-article",
+  "level": 4,
+  "title": "B. Modification partielle d’un article"
+ },
+ {
+  "id": "art-1-al-2-3e-phr-et-al-4",
+  "level": 5,
+  "title": "Art. 1 al. 2, 3e phr., et al. 4"
+ },
+ {
+  "id": "art-28-al-2-et-3-let-d",
+  "level": 5,
+  "title": "Art. 28 al. 2 et 3 let. d"
+ },
+ {
+  "id": "art-34-titre-médian-et-al-1bis-nouveau",
+  "level": 5,
+  "title": "Art. 34 titre médian et al. 1bis (nouveau)"
+ },
+ {
+  "id": "art-78-2e-phr-nouvelle",
+  "level": 5,
+  "title": "Art. 78, 2e phr. (nouvelle)"
+ },
+ {
+  "id": "art-117-al-1-phr-intr-et-al-2",
+  "level": 5,
+  "title": "Art. 117 al. 1, phr. intr., et al. 2"
+ },
+ {
+  "id": "art-39-let-a",
+  "level": 5,
+  "title": "Art. 39 let. a"
+ },
+ {
+  "id": "art-151-al-3-2e-phr-nouvelle",
+  "level": 5,
+  "title": "Art. 151 al. 3, 2e phr. (nouvelle)"
+ },
+ {
+  "id": "art-3-let-c",
+  "level": 5,
+  "title": "Art. 3 let. c"
+ },
+ {
+  "id": "art-5-al-1",
+  "level": 5,
+  "title": "Art. 5 al. 1"
+ },
+ {
+  "id": "art-8-al-4",
+  "level": 5,
+  "title": "Art. 8 al. 4"
+ },
+ {
+  "id": "c-modification-totale-d-un-article",
+  "level": 4,
+  "title": "C. Modification totale d’un article"
+ },
+ {
+  "id": "4-modification-du-titre-et-du-préambule",
+  "level": 4,
+  "title": "4. Modification du titre et du préambule"
+ },
+ {
+  "id": "titre",
+  "level": 5,
+  "title": "Titre"
+ },
+ {
+  "id": "5-modifications-de-subdivisions-de-l-acte",
+  "level": 4,
+  "title": "5. Modifications de subdivisions de l’acte"
+ },
+ {
+  "id": "chapitre-quatrième-art-212-à-222",
+  "level": 5,
+  "title": "Chapitre quatrième (art. 212 à 222)"
+ },
+ {
+  "id": "insertion-d-une-nouvelle-section-après-l-article-00",
+  "level": 5,
+  "title": "Insertion d’une nouvelle section après l’article 00"
+ },
+ {
+  "id": "intitulé-de-la-section-8",
+  "level": 5,
+  "title": "Intitulé de la Section 8"
+ },
+ {
+  "id": "6-problèmes-particuliers",
+  "level": 4,
+  "title": "6. Problèmes particuliers"
+ },
+ {
+  "id": "a-groupement-de-modifications",
+  "level": 4,
+  "title": "A. Groupement de modifications"
+ },
+ {
+  "id": "remplacement-de-termes",
+  "level": 5,
+  "title": "Remplacement de termes"
+ },
+ {
+  "id": "art-23-2e-phr-art-111-al-3",
+  "level": 5,
+  "title": "Art. 23, 2e phr. Art. 111 al. 3"
+ },
+ {
+  "id": "art-44-al-4-art-225-al-2-let-b",
+  "level": 5,
+  "title": "Art. 44 al. 4 Art. 225 al. 2 let. b"
+ },
+ {
+  "id": "b-groupement-d-abrogations",
+  "level": 4,
+  "title": "B. Groupement d’abrogations"
+ },
+ {
+  "id": "art-3-à-9",
+  "level": 5,
+  "title": "Art. 3 à 9"
+ },
+ {
+  "id": "art-3-7-et-10",
+  "level": 5,
+  "title": "Art. 3, 7 et 10"
+ },
+ {
+  "id": "art-121-et-126-al-3-2e-phr-et-al-4",
+  "level": 5,
+  "title": "Art. 121 et 126 al. 3, 2e phr., et al. 4"
+ },
+ {
+  "id": "c-modification-dans-une-seule-langue",
+  "level": 4,
+  "title": "C. Modification dans une seule langue"
+ },
+ {
+  "id": "art-63-abs-1",
+  "level": 5,
+  "title": "Art. 63 Abs. 1"
+ },
+ {
+  "id": "formulation-des-renvois",
+  "level": 3,
+  "title": "Formulation des renvois"
+ },
+ {
+  "id": "a-renvois-internes",
+  "level": 3,
+  "title": "A. Renvois internes"
+ },
+ {
+  "id": "b-renvois-externes",
+  "level": 3,
+  "title": "B. Renvois externes"
+ },
+ {
+  "id": "1-renvoi-à-un-acte-entier",
+  "level": 4,
+  "title": "1. Renvoi à un acte entier"
+ },
+ {
+  "id": "2-renvoi-à-une-disposition",
+  "level": 4,
+  "title": "2. Renvoi à une disposition"
+ },
+ {
+  "id": "3-mention-dans-le-titre-médian",
+  "level": 4,
+  "title": "3. Mention dans le titre médian"
+ },
+ {
+  "id": "vu-la-loi-du-2-décembre-2008-sur-l-aménagement-du-territoire",
+  "level": 5,
+  "title": "Vu la loi du 2 décembre 2008 sur l’aménagement du territoire et les constructions (LATeC) ;"
+ },
+ {
+  "id": "chapitre-2-qualification-art-8-latec",
+  "level": 5,
+  "title": "CHAPITRE 2 Qualification (art. 8 LATeC)"
+ },
+ {
+  "id": "emploi-d-abréviations",
+  "level": 3,
+  "title": "Emploi d’abréviations"
+ },
+ {
+  "id": "a-règles-générales",
+  "level": 3,
+  "title": "A. Règles générales"
+ },
+ {
+  "id": "b-point-abréviatif",
+  "level": 3,
+  "title": "B. Point abréviatif"
+ },
+ {
+  "id": "c-références-à-des-articles-ou-à-des-parties-d-articles",
+  "level": 3,
+  "title": "C. Références à des articles ou à des parties d’articles"
+ },
+ {
+  "id": "d-montant-en-francs",
+  "level": 3,
+  "title": "D. Montant en francs"
+ },
+ {
+  "id": "listes-d-abréviations-usuelles",
+  "level": 3,
+  "title": "Listes d’abréviations usuelles"
+ },
+ {
+  "id": "cf-confer",
+  "level": 4,
+  "title": "cf. confer"
+ },
+ {
+  "id": "cm-centimètre",
+  "level": 4,
+  "title": "cm centimètre"
+ },
+ {
+  "id": "ct-centime",
+  "level": 4,
+  "title": "ct. centime"
+ },
+ {
+  "id": "dm-décimètre",
+  "level": 4,
+  "title": "dm décimètre"
+ },
+ {
+  "id": "dr",
+  "level": 5,
+  "title": "Dr"
+ },
+ {
+  "id": "docteur-médecin-et-titre-académique-dresse-doctoresse-médeci",
+  "level": 4,
+  "title": "Docteur (médecin et titre académique) Dresse Doctoresse (médecin)"
+ },
+ {
+  "id": "doctoreure-titre-académique",
+  "level": 4,
+  "title": "Doctoreure (titre académique)"
+ },
+ {
+  "id": "env-environ",
+  "level": 4,
+  "title": "env. environ"
+ },
+ {
+  "id": "etc-et-caetera",
+  "level": 4,
+  "title": "etc. et caetera"
+ },
+ {
+  "id": "ex-exemple-ou-exemplaire",
+  "level": 4,
+  "title": "ex. exemple ou exemplaire"
+ },
+ {
+  "id": "fig-figure",
+  "level": 4,
+  "title": "fig. figure"
+ },
+ {
+  "id": "fr-franc",
+  "level": 4,
+  "title": "fr. franc"
+ },
+ {
+  "id": "g-gramme",
+  "level": 4,
+  "title": "g gramme"
+ },
+ {
+  "id": "h-heure",
+  "level": 4,
+  "title": "h heure"
+ },
+ {
+  "id": "kg-kilogramme-ou-kilo",
+  "level": 4,
+  "title": "kg kilogramme ou kilo"
+ },
+ {
+  "id": "km-kilomètre",
+  "level": 4,
+  "title": "km kilomètre"
+ },
+ {
+  "id": "l-litre",
+  "level": 4,
+  "title": "l litre"
+ },
+ {
+  "id": "m-mètre",
+  "level": 4,
+  "title": "m mètre"
+ },
+ {
+  "id": "mg-milligramme",
+  "level": 4,
+  "title": "mg milligramme"
+ },
+ {
+  "id": "min-minute",
+  "level": 4,
+  "title": "min minute"
+ },
+ {
+  "id": "mm-millimètre",
+  "level": 4,
+  "title": "mm millimètre"
+ },
+ {
+  "id": "m-monsieur-mm-messieurs",
+  "level": 4,
+  "title": "M. Monsieur MM. Messieurs"
+ },
+ {
+  "id": "mme-madame",
+  "level": 4,
+  "title": "Mme Madame"
+ },
+ {
+  "id": "mmes-mesdames",
+  "level": 5,
+  "title": "Mmes Mesdames"
+ },
+ {
+  "id": "nb-nota-bene",
+  "level": 4,
+  "title": "NB nota bene"
+ },
+ {
+  "id": "numéro",
+  "level": 4,
+  "title": "numéro"
+ },
+ {
+  "id": "p-ex-ou-par-ex-par-exemple",
+  "level": 4,
+  "title": "p. ex. ou par ex. par exemple"
+ },
+ {
+  "id": "p-page-pp-pages",
+  "level": 4,
+  "title": "p. page pp. pages"
+ },
+ {
+  "id": "pt-point-pts-points",
+  "level": 4,
+  "title": "pt point pts points"
+ },
+ {
+  "id": "s-seconde",
+  "level": 4,
+  "title": "s seconde"
+ },
+ {
+  "id": "s-et-suivant-et-suivante-ss-et-suivants-et-suivantes",
+  "level": 4,
+  "title": "s. et suivant (et suivante) ss et suivants (et suivantes)"
+ },
+ {
+  "id": "sa-société-anonyme",
+  "level": 4,
+  "title": "SA société anonyme"
+ },
+ {
+  "id": "t-tonne",
+  "level": 4,
+  "title": "t tonne"
+ },
+ {
+  "id": "ier-ire-iie",
+  "level": 5,
+  "title": "Ier, Ire, IIe, ..."
+ },
+ {
+  "id": "premier-première-deuxième",
+  "level": 4,
+  "title": "premier, première, deuxième, ..."
+ },
+ {
+  "id": "emploi-des-majuscules-et-des-minuscules-autorités-fonctions",
+  "level": 3,
+  "title": "Emploi des majuscules et des minuscules (autorités, fonctions, ...)"
+ },
+ {
+  "id": "1-autorités-fonctions-et-actes-législatifs",
+  "level": 3,
+  "title": "1. Autorités, fonctions et actes législatifs"
+ },
+ {
+  "id": "1-1-autorités",
+  "level": 4,
+  "title": "1.1. Autorités"
+ },
+ {
+  "id": "précisions-et-exceptions",
+  "level": 5,
+  "title": "Précisions et exceptions"
+ },
+ {
+  "id": "1-2-fonctions",
+  "level": 4,
+  "title": "1.2. Fonctions"
+ },
+ {
+  "id": "exceptions",
+  "level": 5,
+  "title": "Exceptions"
+ },
+ {
+  "id": "1-3-actes-législatifs",
+  "level": 4,
+  "title": "1.3. Actes législatifs"
+ },
+ {
+  "id": "2-lettres-accentuées",
+  "level": 3,
+  "title": "2. Lettres accentuées"
+ },
+ {
+  "id": "3-titres-médians",
+  "level": 3,
+  "title": "3. Titres médians"
+ },
+ {
+  "id": "noms-d-autorités-d-institutions-ou-d-autres-entités",
+  "level": 3,
+  "title": "Noms d’autorités, d’institutions ou d’autres entités"
+ },
+ {
+  "id": "désignant-les-unités-administratives-des-directions-du-conse",
+  "level": 5,
+  "title": "désignant les unités administratives des Directions du Conseil d'Etat et de la"
+ },
+ {
+  "id": "composition-des-nombres-et-de-certaines-unités",
+  "level": 3,
+  "title": "Composition des nombres et de certaines unités"
+ },
+ {
+  "id": "adjectifs-numéraux-ordinaux",
+  "level": 4,
+  "title": "Adjectifs numéraux ordinaux"
+ },
+ {
+  "id": "age-et-durée",
+  "level": 4,
+  "title": "Age et durée"
+ },
+ {
+  "id": "altitudes",
+  "level": 4,
+  "title": "Altitudes"
+ },
+ {
+  "id": "citations",
+  "level": 4,
+  "title": "Citations"
+ },
+ {
+  "id": "composition-de-commissions",
+  "level": 4,
+  "title": "Composition de commissions"
+ },
+ {
+  "id": "dates",
+  "level": 4,
+  "title": "Dates"
+ },
+ {
+  "id": "degrés-de-température-ou-d-angles",
+  "level": 4,
+  "title": "Degrés de température ou d’angles"
+ },
+ {
+  "id": "dispositions-légales",
+  "level": 4,
+  "title": "Dispositions légales"
+ },
+ {
+  "id": "distances-altitudes-hauteurs-largeurs-longueurs-profondeurs",
+  "level": 4,
+  "title": "Distances (altitudes, hauteurs, largeurs, longueurs, profondeurs)"
+ },
+ {
+  "id": "durée",
+  "level": 4,
+  "title": "Durée"
+ },
+ {
+  "id": "fractions",
+  "level": 4,
+  "title": "Fractions"
+ },
+ {
+  "id": "hauteurs",
+  "level": 4,
+  "title": "Hauteurs"
+ },
+ {
+  "id": "heures",
+  "level": 4,
+  "title": "Heures"
+ },
+ {
+  "id": "largeurs",
+  "level": 4,
+  "title": "Largeurs"
+ },
+ {
+  "id": "longueurs",
+  "level": 4,
+  "title": "Longueurs"
+ },
+ {
+  "id": "mesures",
+  "level": 4,
+  "title": "Mesures"
+ },
+ {
+  "id": "montants-en-francs-et-en-centimes",
+  "level": 4,
+  "title": "Montants en francs et en centimes"
+ },
+ {
+  "id": "numérotation-des-subdivisions-message-ou-rapport",
+  "level": 4,
+  "title": "Numérotation des subdivisions (message ou rapport)"
+ },
+ {
+  "id": "périodes",
+  "level": 4,
+  "title": "Périodes"
+ },
+ {
+  "id": "poids-et-mesures",
+  "level": 4,
+  "title": "Poids et mesures"
+ },
+ {
+  "id": "pourcentages",
+  "level": 4,
+  "title": "Pourcentages"
+ },
+ {
+  "id": "profondeurs",
+  "level": 4,
+  "title": "Profondeurs"
+ },
+ {
+  "id": "références-citations",
+  "level": 4,
+  "title": "Références, citations"
+ },
+ {
+  "id": "séparation-de-chiffres-et-fractions",
+  "level": 4,
+  "title": "Séparation de chiffres et fractions"
+ },
+ {
+  "id": "surfaces-et-volumes",
+  "level": 4,
+  "title": "Surfaces et volumes"
+ },
+ {
+  "id": "unités-composées",
+  "level": 4,
+  "title": "Unités composées"
+ },
+ {
+  "id": "insertion-de-notes",
+  "level": 3,
+  "title": "Insertion de notes"
+ },
+ {
+  "id": "a-notes-d-auteur-e",
+  "level": 4,
+  "title": "A. Notes d’auteur-e"
+ },
+ {
+  "id": "exemples-2",
+  "level": 4,
+  "title": "Exemples"
+ },
+ {
+  "id": "art-20",
+  "level": 5,
+  "title": "Art. 20"
+ },
+ {
+  "id": "b-notes-techniques",
+  "level": 4,
+  "title": "B. Notes techniques"
+ },
+ {
+  "id": "cas-des-formules-neutres",
+  "level": 5,
+  "title": "Cas des formules neutres"
+ },
+ {
+  "id": "exemples-3",
+  "level": 4,
+  "title": "Exemples"
+ },
+ {
+  "id": "loi-7",
+  "level": 4,
+  "title": "Loi"
+ },
+ {
+  "id": "sur-la-circonscription-des-justices-de-paix-1",
+  "level": 4,
+  "title": "sur la circonscription des justices de paix 1)"
+ },
+ {
+  "id": "utilité-de-l-ancien-modèle-loi_ord-dot",
+  "level": 3,
+  "title": "Utilité de l’ancien modèle Loi_Ord.dot"
+ },
+ {
+  "id": "1-installation-comme-complément",
+  "level": 4,
+  "title": "1. Installation comme complément"
+ },
+ {
+  "id": "2-utilisation-de-la-barre",
+  "level": 4,
+  "title": "2. Utilisation de la barre"
+ },
+ {
+  "id": "3-récupérer-et-corriger-le-document",
+  "level": 4,
+  "title": "3. Récupérer et corriger le document"
+ }
+]

@@ -1,0 +1,772 @@
+[
+ {
+  "id": "nö-legistische-richtlinien-2-0-1-5",
+  "level": 2,
+  "title": "NÖ Legistische Richtlinien 2 0 1 5"
+ },
+ {
+  "id": "stand-1-februar-2021",
+  "level": 2,
+  "title": "Stand: 1. Februar 2021"
+ },
+ {
+  "id": "planung-von-rechtsvorschriften",
+  "level": 3,
+  "title": "Planung von Rechtsvorschriften"
+ },
+ {
+  "id": "p-r-ü-f-l-i-s-t-e-p-l-a-n-u-n-g-s-p-h-a-s-e",
+  "level": 3,
+  "title": "P r ü f l i s t e P l a n u n g s p h a s e"
+ },
+ {
+  "id": "sprachliche-gestaltung",
+  "level": 3,
+  "title": "Sprachliche Gestaltung"
+ },
+ {
+  "id": "keine-fenster",
+  "level": 3,
+  "title": "Keine Fenster"
+ },
+ {
+  "id": "formale-und-technische-gestaltung",
+  "level": 3,
+  "title": "Formale und technische Gestaltung"
+ },
+ {
+  "id": "gesetze",
+  "level": 3,
+  "title": "Gesetze:"
+ },
+ {
+  "id": "verordnungen",
+  "level": 3,
+  "title": "Verordnungen:"
+ },
+ {
+  "id": "kundmachungen",
+  "level": 3,
+  "title": "Kundmachungen:"
+ },
+ {
+  "id": "abschnitt-1-ziele-anwendungsbereich-und-vollziehung-des-gese",
+  "level": 3,
+  "title": "Abschnitt 1 Ziele, Anwendungsbereich und Vollziehung des Gesetzes"
+ },
+ {
+  "id": "2-verhältnis-dieses-gesetzes-zu-anderen-rechtsvorschriften",
+  "level": 3,
+  "title": "§ 2 Verhältnis dieses Gesetzes zu anderen Rechtsvorschriften"
+ },
+ {
+  "id": "3-angemessene-gesamtbaukosten",
+  "level": 3,
+  "title": "§ 3 Angemessene Gesamtbaukosten"
+ },
+ {
+  "id": "47-schlussbestimmungen",
+  "level": 3,
+  "title": "§ 47 Schlussbestimmungen"
+ },
+ {
+  "id": "8-schlussbestimmungen",
+  "level": 3,
+  "title": "§ 8 Schlussbestimmungen"
+ },
+ {
+  "id": "gesetze-2",
+  "level": 3,
+  "title": "Gesetze:"
+ },
+ {
+  "id": "art-xxxv",
+  "level": 3,
+  "title": "„Art. XXXV"
+ },
+ {
+  "id": "verordnungen-2",
+  "level": 3,
+  "title": "Verordnungen:"
+ },
+ {
+  "id": "kundmachungen-2",
+  "level": 3,
+  "title": "Kundmachungen:"
+ },
+ {
+  "id": "5a-bewilligungspflicht",
+  "level": 3,
+  "title": "„§ 5a Bewilligungspflicht"
+ },
+ {
+  "id": "gesetze-3",
+  "level": 3,
+  "title": "Gesetze:"
+ },
+ {
+  "id": "verordnungen-3",
+  "level": 3,
+  "title": "Verordnungen:"
+ },
+ {
+  "id": "kundmachungen-3",
+  "level": 3,
+  "title": "Kundmachungen"
+ },
+ {
+  "id": "begutachtungsverfahren",
+  "level": 3,
+  "title": "Begutachtungsverfahren"
+ },
+ {
+  "id": "begutachtungsverfahren-2",
+  "level": 3,
+  "title": "Begutachtungsverfahren?"
+ },
+ {
+  "id": "bundesdienststellen",
+  "level": 3,
+  "title": "Bundesdienststellen"
+ },
+ {
+  "id": "bundeskanzleramt-und-bundesministerien",
+  "level": 3,
+  "title": "Bundeskanzleramt und Bundesministerien"
+ },
+ {
+  "id": "ämter-der-landesregierungen",
+  "level": 3,
+  "title": "Ämter der Landesregierungen"
+ },
+ {
+  "id": "interessenvertretungen",
+  "level": 3,
+  "title": "Interessenvertretungen"
+ },
+ {
+  "id": "gesetzliche-interessenvertretungen",
+  "level": 3,
+  "title": "Gesetzliche Interessenvertretungen"
+ },
+ {
+  "id": "je-nach-dem-sachlichen-gehalt-des-gesetzes-oder",
+  "level": 3,
+  "title": "Je nach dem sachlichen Gehalt des Gesetzes- oder"
+ },
+ {
+  "id": "nö-anwaltschaften-nö-umweltanwaltschaft",
+  "level": 3,
+  "title": "NÖ Anwaltschaften NÖ Umweltanwaltschaft"
+ },
+ {
+  "id": "nö-kinder-und-jugendanwaltschaft",
+  "level": 3,
+  "title": "NÖ Kinder- und Jugendanwaltschaft"
+ },
+ {
+  "id": "nö-patienten-und-pflegeanwaltschaft",
+  "level": 3,
+  "title": "NÖ Patienten- und Pflegeanwaltschaft"
+ },
+ {
+  "id": "nö-monitoringausschuss",
+  "level": 3,
+  "title": "NÖ Monitoringausschuss"
+ },
+ {
+  "id": "vertretung-der-interessen-der-jugend-der-familien-sowie-der-",
+  "level": 3,
+  "title": "Vertretung der Interessen der Jugend, der Familien sowie der Seniorinnen und Senioren"
+ },
+ {
+  "id": "nö-gleichbehandlungskommission",
+  "level": 3,
+  "title": "NÖ Gleichbehandlungskommission"
+ },
+ {
+  "id": "sonstige-betroffene-stellen",
+  "level": 3,
+  "title": "Sonstige betroffene Stellen"
+ },
+ {
+  "id": "zweck-des-motivenberichtes",
+  "level": 3,
+  "title": "Zweck des Motivenberichtes"
+ },
+ {
+  "id": "gliederung-des-motivenberichtes",
+  "level": 3,
+  "title": "Gliederung des Motivenberichtes"
+ },
+ {
+  "id": "allgemeiner-teil",
+  "level": 3,
+  "title": "Allgemeiner Teil"
+ },
+ {
+  "id": "pflicht-zur-mitteilung-technischer-vorschriften",
+  "level": 3,
+  "title": "Pflicht zur Mitteilung technischer Vorschriften"
+ },
+ {
+  "id": "vorbereitung-der-mitteilung",
+  "level": 3,
+  "title": "Vorbereitung der Mitteilung"
+ },
+ {
+  "id": "informationsverfahren-und-stillhaltefristen",
+  "level": 3,
+  "title": "Informationsverfahren und Stillhaltefristen"
+ },
+ {
+  "id": "unterlassen",
+  "level": 3,
+  "title": "unterlassen?"
+ },
+ {
+  "id": "weitere-verfahrensvorschriften",
+  "level": 3,
+  "title": "Weitere Verfahrensvorschriften"
+ },
+ {
+  "id": "aktivitätenkatalog",
+  "level": 3,
+  "title": "Aktivitätenkatalog"
+ },
+ {
+  "id": "pflicht-zur-mitteilung-von-anforderungen",
+  "level": 3,
+  "title": "Pflicht zur Mitteilung von Anforderungen"
+ },
+ {
+  "id": "vorbereitung-der-mitteilung-2",
+  "level": 3,
+  "title": "Vorbereitung der Mitteilung"
+ },
+ {
+  "id": "zeitpunkt-der-mitteilung",
+  "level": 3,
+  "title": "Zeitpunkt der Mitteilung"
+ },
+ {
+  "id": "keine-stillhaltefristen",
+  "level": 3,
+  "title": "Keine Stillhaltefristen"
+ },
+ {
+  "id": "aktivitätenkatalog-2",
+  "level": 3,
+  "title": "Aktivitätenkatalog"
+ },
+ {
+  "id": "regierungsvorlage",
+  "level": 3,
+  "title": "Regierungsvorlage"
+ },
+ {
+  "id": "amt-der-niederösterreichischen-landesregierung",
+  "level": 2,
+  "title": "Amt der Niederösterreichischen Landesregierung"
+ },
+ {
+  "id": "muster-zu-punkt-5-2-motivenbericht",
+  "level": 3,
+  "title": "Muster zu Punkt 5.2 (Motivenbericht)"
+ },
+ {
+  "id": "behandlung-von-gesetzesentwürfen-im-landtag",
+  "level": 3,
+  "title": "Behandlung von Gesetzesentwürfen im Landtag"
+ },
+ {
+  "id": "sitzungsakt-für-die-verordnung-der-landesregierung",
+  "level": 3,
+  "title": "Sitzungsakt für die Verordnung der Landesregierung"
+ },
+ {
+  "id": "sitzungsakt-für-die-vereinbarung-gem-art-15a-b-vg",
+  "level": 3,
+  "title": "Sitzungsakt für die Vereinbarung gem. Art. 15a B-VG"
+ },
+ {
+  "id": "bzw-des-landeshauptmannes",
+  "level": 3,
+  "title": "bzw. des Landeshauptmannes"
+ },
+ {
+  "id": "verlautbarung-im-landesgesetzblatt",
+  "level": 3,
+  "title": "Verlautbarung im Landesgesetzblatt"
+ },
+ {
+  "id": "richtlinie-eu-2015-1535",
+  "level": 2,
+  "title": "Richtlinie (EU) 2015/1535"
+ },
+ {
+  "id": "notificación-oznámení-notifikation-notifizierung-teavitamine",
+  "level": 2,
+  "title": "Notificación - Oznámení - Notifikation - Notifizierung - Teavitamine - Γνωστοποίηση - Notification - Notification - Notifica - Pieteikums - Pranešimas - Bejelentés - Notifika - Kennisgeving - Zawiadomienie - Notificacão - Hlásenie-Obvestilo - Ilmoitus - Anmälan - Нотификация - Notifikacija"
+ },
+ {
+  "id": "land-sprache",
+  "level": 3,
+  "title": "Land Sprache"
+ },
+ {
+  "id": "3a-zuständiger-dienst",
+  "level": 3,
+  "title": "3A. Zuständiger Dienst"
+ },
+ {
+  "id": "3b-urheberdienst",
+  "level": 3,
+  "title": "3B. Urheberdienst"
+ },
+ {
+  "id": "einleitung-des-dringlichkeitsverfahrens",
+  "level": 3,
+  "title": "Einleitung des Dringlichkeitsverfahrens"
+ },
+ {
+  "id": "gründe-für-dringlichkeitsverfahren",
+  "level": 3,
+  "title": "Gründe für Dringlichkeitsverfahren"
+ },
+ {
+  "id": "folgenabschätzungen",
+  "level": 3,
+  "title": "Folgenabschätzungen"
+ },
+ {
+  "id": "tbt-und-sps-übereinkommen",
+  "level": 3,
+  "title": "TBT- und SPS-Übereinkommen"
+ },
+ {
+  "id": "tbt-übereinkommen",
+  "level": 3,
+  "title": "TBT-Übereinkommen"
+ },
+ {
+  "id": "sps-übereinkommen",
+  "level": 3,
+  "title": "SPS-Übereinkommen"
+ },
+ {
+  "id": "anleitung-zum-ausfüllen-des-elektronischen-16-punkte-formula",
+  "level": 2,
+  "title": "Anleitung zum Ausfüllen des elektronischen 16-Punkte- Formulars im PDF-Format"
+ },
+ {
+  "id": "einführung",
+  "level": 2,
+  "title": "Einführung"
+ },
+ {
+  "id": "1-konfiguration",
+  "level": 2,
+  "title": "1. Konfiguration"
+ },
+ {
+  "id": "2-beschreibung-des-formulars",
+  "level": 2,
+  "title": "2. Beschreibung des Formulars"
+ },
+ {
+  "id": "3-validierung-des-formulars",
+  "level": 2,
+  "title": "3. Validierung des Formulars"
+ },
+ {
+  "id": "4-formularversion",
+  "level": 2,
+  "title": "4. Formularversion"
+ },
+ {
+  "id": "formblatt-a",
+  "level": 3,
+  "title": "FORMBLATT A"
+ },
+ {
+  "id": "berufsverband-______________________________________________",
+  "level": 3,
+  "title": "Berufsverband) ______________________________________________"
+ },
+ {
+  "id": "anforderung-aufgeführt-ist",
+  "level": 3,
+  "title": "Anforderung aufgeführt ist"
+ },
+ {
+  "id": "gegebenenfalls-angabe-dass-es-sich-bei-der-mitgeteilten-anfo",
+  "level": 3,
+  "title": "gegebenenfalls Angabe, dass es sich bei der mitgeteilten Anforderung um eine „horizontale“ Anforderung handelt, die in allgemeiner Weise für eine Reihe von Dienstleistungstätigkeiten gilt)"
+ },
+ {
+  "id": "von-beschränkungen-aufgrund-der-bevölkerungszahl-oder-bestim",
+  "level": 3,
+  "title": "von Beschränkungen aufgrund der Bevölkerungszahl oder bestimmter Mindestentfernungen zwischen Dienstleistungserbringern"
+ },
+ {
+  "id": "rechtsform-zu-wählen",
+  "level": 3,
+  "title": "Rechtsform zu wählen"
+ },
+ {
+  "id": "gesellschaftsvermögen",
+  "level": 3,
+  "title": "Gesellschaftsvermögen"
+ },
+ {
+  "id": "dienstleistungstätigkeit-aufgrund-ihrer-besonderheiten-besti",
+  "level": 3,
+  "title": "Dienstleistungstätigkeit aufgrund ihrer Besonderheiten bestimmten"
+ },
+ {
+  "id": "die-bereiche-betreffen-die-von-der-richtlinie-2005-36-eg-erf",
+  "level": 3,
+  "title": "die Bereiche betreffen, die von der Richtlinie 2005/36/EG erfasst werden oder solchen, die in anderen Gemeinschaftsrechtsakten vorgesehen sind"
+ },
+ {
+  "id": "niederlassungen-zu-unterhalten",
+  "level": 3,
+  "title": "Niederlassungen zu unterhalten"
+ },
+ {
+  "id": "die-der-dienstleistungserbringer-zu-beachten-hat",
+  "level": 3,
+  "title": "die der Dienstleistungserbringer zu beachten hat"
+ },
+ {
+  "id": "dienstleistung-bestimmte-andere-dienstleistungen-zu-erbringe",
+  "level": 3,
+  "title": "Dienstleistung bestimmte andere Dienstleistungen zu erbringen"
+ },
+ {
+  "id": "aufgabe-die-einer-dienstleistung-von-allgemeinem-wirtschaftl",
+  "level": 3,
+  "title": "Aufgabe, die einer Dienstleistung von allgemeinem wirtschaftlichen Interesse anvertraut ist (gemäß Artikel 15 Absatz 4)?"
+ },
+ {
+  "id": "9a-um-welche-dienstleistung-von-allgemeinem-wirtschaftlichem",
+  "level": 3,
+  "title": "9a. Um welche Dienstleistung von allgemeinem wirtschaftlichem Interesse handelt es sich?"
+ },
+ {
+  "id": "9b-welche-aufgabe-ist-der-dienstleistung-von-allgemeinem-wir",
+  "level": 3,
+  "title": "9b. Welche Aufgabe ist der Dienstleistung von allgemeinem wirtschaftlichem Interesse anvertraut und warum ist diese Anforderung für die Erfüllung dieser besonderen Aufgabe erforderlich?"
+ },
+ {
+  "id": "die-mitgeteilte-anforderung-1",
+  "level": 3,
+  "title": "die mitgeteilte Anforderung?1"
+ },
+ {
+  "id": "anforderung-als-nicht-diskriminierend-bzw-als-zur-erreichung",
+  "level": 3,
+  "title": "Anforderung als nicht diskriminierend bzw. als zur Erreichung des angestrebten Ziels geeignet und warum kann dieses Ziel nicht durch eine weniger einschränkende Maßnahme erreicht werden?"
+ },
+ {
+  "id": "formblatt-b",
+  "level": 3,
+  "title": "FORMBLATT B"
+ },
+ {
+  "id": "berufsverband-______________________________________________-2",
+  "level": 3,
+  "title": "Berufsverband) ______________________________________________"
+ },
+ {
+  "id": "anforderung-aufgeführt-ist-2",
+  "level": 3,
+  "title": "Anforderung aufgeführt ist"
+ },
+ {
+  "id": "gegebenenfalls-angabe-dass-es-sich-bei-der-mitgeteilten-anfo-2",
+  "level": 3,
+  "title": "gegebenenfalls Angabe, dass es sich bei der mitgeteilten Anforderung um eine „horizontale“ Anforderung handelt, die in allgemeiner Weise für eine Reihe von Dienstleistungstätigkeiten gilt)"
+ },
+ {
+  "id": "zuständigen-behörde-in-unserem-hoheitsgebiet-eine-erklärung-",
+  "level": 3,
+  "title": "zuständigen Behörde in unserem Hoheitsgebiet eine Erklärung abzugeben oder gegenüber einer Behörde etwas anzuzeigen"
+ },
+ {
+  "id": "über-eine-anschrift-zu-verfügen-oder-einen-vertreter-zu-bene",
+  "level": 3,
+  "title": "über eine Anschrift zu verfügen oder einen Vertreter zu benennen"
+ },
+ {
+  "id": "abzuschließen-oder-über-eine-gleichwertige-oder-vergleichbar",
+  "level": 3,
+  "title": "abzuschließen oder über eine gleichwertige oder vergleichbare Sicherheit zu verfügen"
+ },
+ {
+  "id": "section",
+  "level": 3,
+  "title": "* * * *"
+ },
+ {
+  "id": "von-beschränkungen-aufgrund-der-bevölkerungszahl-oder-bestim-2",
+  "level": 3,
+  "title": "von Beschränkungen aufgrund der Bevölkerungszahl oder bestimmter Mindestentfernungen zwischen Dienstleistungserbringern"
+ },
+ {
+  "id": "rechtsform-zu-wählen-2",
+  "level": 3,
+  "title": "Rechtsform zu wählen"
+ },
+ {
+  "id": "gesellschaftsvermögen-2",
+  "level": 3,
+  "title": "Gesellschaftsvermögen"
+ },
+ {
+  "id": "dienstleistungstätigkeit-aufgrund-ihrer-besonderheiten-besti-2",
+  "level": 3,
+  "title": "Dienstleistungstätigkeit aufgrund ihrer Besonderheiten bestimmten"
+ },
+ {
+  "id": "die-bereiche-betreffen-die-von-der-richtlinie-2005-36-eg-erf-2",
+  "level": 3,
+  "title": "die Bereiche betreffen, die von der Richtlinie 2005/36/EG erfasst werden oder solchen, die in anderen Gemeinschaftsrechtsakten vorgesehen sind"
+ },
+ {
+  "id": "niederlassungen-zu-unterhalten-2",
+  "level": 3,
+  "title": "Niederlassungen zu unterhalten"
+ },
+ {
+  "id": "die-der-dienstleistungserbringer-zu-beachten-hat-2",
+  "level": 3,
+  "title": "die der Dienstleistungserbringer zu beachten hat"
+ },
+ {
+  "id": "dienstleistung-bestimmte-andere-dienstleistungen-zu-erbringe-2",
+  "level": 3,
+  "title": "Dienstleistung bestimmte andere Dienstleistungen zu erbringen"
+ },
+ {
+  "id": "section-2",
+  "level": 3,
+  "title": "* * * *"
+ },
+ {
+  "id": "mitgliedstaats-eine-niederlassung-zu-unterhalten",
+  "level": 3,
+  "title": "Mitgliedstaats eine Niederlassung zu unterhalten"
+ },
+ {
+  "id": "behörde-eine-genehmigung-zu-beantragen-einschließlich-der-ve",
+  "level": 3,
+  "title": "Behörde eine Genehmigung zu beantragen, einschließlich der Verpflichtung zur Eintragung in ein Register oder zur Mitgliedschaft in einem Berufsverband oder einer Berufsvereinigung in unserem Hoheitsgebiet, außer in den in der Dienstleistungsrichtlinie oder anderen Rechtsvorschriften der Gemeinschaft vorgesehenen Fällen"
+ },
+ {
+  "id": "einschließlich-geschäftsräumen-oder-einer-kanzlei-die-der-di",
+  "level": 3,
+  "title": "einschließlich Geschäftsräumen oder einer Kanzlei, die der Dienstleistungserbringer zur Erbringung der betreffenden Leistungen benötigt"
+ },
+ {
+  "id": "der-beziehungen-zwischen-dem-dienstleistungserbringer-und-de",
+  "level": 3,
+  "title": "der Beziehungen zwischen dem Dienstleistungserbringer und dem Dienstleistungsempfänger, die eine selbständige Tätigkeit des Dienstleistungserbringers verhindert oder einschränkt"
+ },
+ {
+  "id": "zuständigen-behörden-einen-besonderen-ausweis-für-die-ausübu",
+  "level": 3,
+  "title": "zuständigen Behörden einen besonderen Ausweis für die Ausübung einer Dienstleistungstätigkeit ausstellen zu lassen"
+ },
+ {
+  "id": "ausrüstungsgegenständen-und-materialien-die-integraler-besta",
+  "level": 3,
+  "title": "Ausrüstungsgegenständen und Materialien, die integraler Bestandteil der Dienstleistung sind, es sei denn, diese Anforderungen sind für den Schutz der Gesundheit und die Sicherheit am Arbeitsplatz notwendig"
+ },
+ {
+  "id": "dienstleistungsrichtlinie-vorgeschriebene-anforderung",
+  "level": 3,
+  "title": "Dienstleistungsrichtlinie vorgeschriebene Anforderung"
+ },
+ {
+  "id": "section-3",
+  "level": 3,
+  "title": "* * * *"
+ },
+ {
+  "id": "auferlegte-verpflichtung",
+  "level": 3,
+  "title": "auferlegte Verpflichtung"
+ },
+ {
+  "id": "grenzüberschreitender-dienstleistungen-wird-als-gerechtferti",
+  "level": 3,
+  "title": "grenzüberschreitender Dienstleistungen wird als gerechtfertigt erachtet aus Gründen:"
+ },
+ {
+  "id": "anforderung-auf-erbringer-grenzüberschreitender-dienstleistu",
+  "level": 3,
+  "title": "Anforderung auf Erbringer grenzüberschreitender Dienstleistungen als nicht diskriminierend und als zur Erreichung des angestrebten Ziels geeignet und warum kann dieses Ziel nicht durch eine weniger einschränkende Maßnahme erreicht werden?"
+ },
+ {
+  "id": "dienstleistungsrichtlinie-die-sowohl-auf-erbringer-grenzüber",
+  "level": 3,
+  "title": "Dienstleistungsrichtlinie, die sowohl auf Erbringer grenzüberschreitender Dienstleistungen als auch auf in Ihrem Mitgliedstaat niedergelassene Dienstleistungserbringer anwendbar ist, und wird sie für die Zwecke sowohl von Artikel 39 Absatz 5 als auch von Artikel 15 Absatz 7 mitgeteilt?"
+ },
+ {
+  "id": "übergangs-und-schlussbestimmungen",
+  "level": 3,
+  "title": "Übergangs- und Schlussbestimmungen"
+ },
+ {
+  "id": "manifest-europäischer-städte-zum-bündnis-mit-den-indianervöl",
+  "level": 3,
+  "title": "MANIFEST EUROPÄISCHER STÄDTE ZUM BÜNDNIS MIT DEN INDIANERVÖLKERN AMAZONIENS"
+ },
+ {
+  "id": "das-bündnis-europäischer-städte",
+  "level": 3,
+  "title": "Das Bündnis europäischer Städte"
+ },
+ {
+  "id": "keine-unnötigen-co2-emissionen",
+  "level": 3,
+  "title": "Keine unnötigen CO2-Emissionen"
+ },
+ {
+  "id": "wir-unterstützen-das-bündnis-der-indianervölker-amazoniens",
+  "level": 3,
+  "title": "Wir unterstützen das Bündnis der Indianervölker Amazoniens"
+ },
+ {
+  "id": "bündnis-der-europäischen-städte-und-der-indianervölker-amazo",
+  "level": 3,
+  "title": "BÜNDNIS DER EUROPÄISCHEN STÄDTE UND DER INDIANERVÖLKER AMAZONIENS"
+ },
+ {
+  "id": "des-klimas-und-des-lebens-der-menschheit",
+  "level": 3,
+  "title": "DES KLIMAS UND DES LEBENS DER MENSCHHEIT"
+ },
+ {
+  "id": "amt-der-niederösterreichischen-landesregierung-gruppe-land-u",
+  "level": 3,
+  "title": "AMT DER NIEDERÖSTERREICHISCHEN LANDESREGIERUNG Gruppe Land- und Forstwirtschaft - Abteilung Agrarrecht"
+ },
+ {
+  "id": "sitzung",
+  "level": 2,
+  "title": "SITZUNG"
+ },
+ {
+  "id": "antrag-sitzungsbogen",
+  "level": 3,
+  "title": "Antrag (Sitzungsbogen)"
+ },
+ {
+  "id": "schreiben-an-landtag",
+  "level": 3,
+  "title": "Schreiben an Landtag"
+ },
+ {
+  "id": "amt-der-niederösterreichischen-landesregierung-2",
+  "level": 3,
+  "title": "AMT DER NIEDERÖSTERREICHISCHEN LANDESREGIERUNG"
+ },
+ {
+  "id": "schreiben-konsultationsmechanismus-nach-beschluss-lreg",
+  "level": 3,
+  "title": "Schreiben Konsultationsmechanismus nach Beschluss LReg"
+ },
+ {
+  "id": "amt-der-niederösterreichischen-landesregierung-3",
+  "level": 3,
+  "title": "AMT DER NIEDERÖSTERREICHISCHEN LANDESREGIERUNG"
+ },
+ {
+  "id": "einer-woche",
+  "level": 3,
+  "title": "einer Woche"
+ },
+ {
+  "id": "amt-der-niederösterreichischen-landesregierung-gruppe-land-u-2",
+  "level": 3,
+  "title": "AMT DER NIEDERÖSTERREICHISCHEN LANDESREGIERUNG Gruppe Land- und Forstwirtschaft - Abteilung Agrarrecht"
+ },
+ {
+  "id": "sitzung-2",
+  "level": 2,
+  "title": "SITZUNG"
+ },
+ {
+  "id": "antrag-sitzungsbogen-2",
+  "level": 3,
+  "title": "Antrag (Sitzungsbogen)"
+ },
+ {
+  "id": "amt-der-niederösterreichischen-landesregierung-gruppe-land-u-3",
+  "level": 3,
+  "title": "AMT DER NIEDERÖSTERREICHISCHEN LANDESREGIERUNG Gruppe Land- und Forstwirtschaft - Abteilung Agrarrecht"
+ },
+ {
+  "id": "sitzung-3",
+  "level": 2,
+  "title": "SITZUNG"
+ },
+ {
+  "id": "antrag-sitzungsbogen-3",
+  "level": 3,
+  "title": "Antrag (Sitzungsbogen)"
+ },
+ {
+  "id": "zuschrift-an-landtag",
+  "level": 3,
+  "title": "Zuschrift an Landtag"
+ },
+ {
+  "id": "amt-der-niederösterreichischen-landesregierung-4",
+  "level": 3,
+  "title": "AMT DER NIEDERÖSTERREICHISCHEN LANDESREGIERUNG"
+ },
+ {
+  "id": "amt-der-niederösterreichischen-landesregierung-gruppe-land-u-4",
+  "level": 3,
+  "title": "AMT DER NIEDERÖSTERREICHISCHEN LANDESREGIERUNG Gruppe Land- und Forstwirtschaft - Abteilung Agrarrecht"
+ },
+ {
+  "id": "versendung-eines-gesetzesentwurfes",
+  "level": 3,
+  "title": "Versendung eines Gesetzesentwurfes"
+ },
+ {
+  "id": "vier-wochen",
+  "level": 3,
+  "title": "vier Wochen"
+ },
+ {
+  "id": "versendung-eines-beschlussreifen-verordnungsentwurfes",
+  "level": 3,
+  "title": "Versendung eines beschlussreifen Verordnungsentwurfes"
+ },
+ {
+  "id": "vier-wochen-2",
+  "level": 3,
+  "title": "vier Wochen"
+ },
+ {
+  "id": "mustertexte-samt-prozesse-für-die-erledigung-an-die-lad1-vd-",
+  "level": 3,
+  "title": "Mustertexte samt Prozesse für die Erledigung an die LAD1-VD zur Verlautbarung einer Vereinbarung nach Art. 15a B-VG"
+ },
+ {
+  "id": "a-vereinbarung-mit-der-genehmigung-des-landtages",
+  "level": 3,
+  "title": "A. Vereinbarung mit der Genehmigung des Landtages"
+ },
+ {
+  "id": "b-vereinbarungen-ohne-genehmigung-des-landtages",
+  "level": 3,
+  "title": "B. Vereinbarungen ohne Genehmigung des Landtages"
+ }
+]

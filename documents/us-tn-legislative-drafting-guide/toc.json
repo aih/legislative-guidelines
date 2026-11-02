@@ -1,0 +1,817 @@
+[
+ {
+  "id": "legislative-drafting-guide",
+  "level": 2,
+  "title": "LEGISLATIVE DRAFTING GUIDE"
+ },
+ {
+  "id": "114th-general-assembly-office-of-legal-services",
+  "level": 2,
+  "title": "114th General Assembly OFFICE of LEGAL SERVICES"
+ },
+ {
+  "id": "our-mission",
+  "level": 2,
+  "title": "Our Mission:"
+ },
+ {
+  "id": "to-provide-to-the-members-of-the-general-assembly-legal-anal",
+  "level": 2,
+  "title": "To provide to the members of the General Assembly legal analysis and advice; as well as research, drafting, library, and codification services; all in a professional, confidential, and non-partisan manner."
+ },
+ {
+  "id": "upon-request-ols-will-provide-an-outside-drafter-with-an-ele",
+  "level": 3,
+  "title": "Upon request, OLS will provide an outside drafter with an electronic template to use"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 2,
+  "title": "TABLE OF CONTENTS"
+ },
+ {
+  "id": "introduction",
+  "level": 2,
+  "title": "INTRODUCTION"
+ },
+ {
+  "id": "chapter-1-preparation",
+  "level": 2,
+  "title": "CHAPTER 1: PREPARATION"
+ },
+ {
+  "id": "chapter-1-c-e-1",
+  "level": 3,
+  "title": "CHAPTER 1(c)-(e)(1)"
+ },
+ {
+  "id": "chapter-1-e-2-f-1",
+  "level": 3,
+  "title": "CHAPTER 1(e)(2)-(f)(1)"
+ },
+ {
+  "id": "chapter-1-f-2",
+  "level": 3,
+  "title": "CHAPTER 1(f)(2)"
+ },
+ {
+  "id": "chapter-2-form-and-style",
+  "level": 2,
+  "title": "CHAPTER 2: FORM AND STYLE"
+ },
+ {
+  "id": "chapter-2-b-4-c-4",
+  "level": 3,
+  "title": "CHAPTER 2(b)(4)-(c)(4)"
+ },
+ {
+  "id": "chapter-2-c-5-d-2",
+  "level": 3,
+  "title": "CHAPTER 2(c)(5)-(d)(2)"
+ },
+ {
+  "id": "chapter-2-d-3-d-9",
+  "level": 3,
+  "title": "CHAPTER 2(d)(3)-(d)(9)"
+ },
+ {
+  "id": "chapter-2-d-10-e-1-a",
+  "level": 3,
+  "title": "CHAPTER 2(d)(10)-(e)(1)(A)"
+ },
+ {
+  "id": "correct",
+  "level": 3,
+  "title": "CORRECT:"
+ },
+ {
+  "id": "incorrect",
+  "level": 3,
+  "title": "INCORRECT:"
+ },
+ {
+  "id": "chapter-2-e-1-b-e-1-f",
+  "level": 3,
+  "title": "CHAPTER 2(e)(1)(B)-(e)(1)(F)"
+ },
+ {
+  "id": "chapter-2-e-2-e-2-c",
+  "level": 3,
+  "title": "CHAPTER 2(e)(2)-(e)(2)(C)"
+ },
+ {
+  "id": "chapter-2-e-2-c-e-3-a",
+  "level": 3,
+  "title": "CHAPTER 2(e)(2)(C)-(e)(3)(A)"
+ },
+ {
+  "id": "chapter-2-e-3-a-e-3-b",
+  "level": 3,
+  "title": "CHAPTER 2(e)(3)(A)-(e)(3)(B)"
+ },
+ {
+  "id": "non-list",
+  "level": 3,
+  "title": "NON-LIST"
+ },
+ {
+  "id": "list",
+  "level": 3,
+  "title": "LIST"
+ },
+ {
+  "id": "chapter-2-e-3-b-e-3-c",
+  "level": 3,
+  "title": "CHAPTER 2(e)(3)(B)-(e)(3)(C)"
+ },
+ {
+  "id": "list-2",
+  "level": 3,
+  "title": "LIST"
+ },
+ {
+  "id": "lists-of-items-not-in-subdivisions",
+  "level": 3,
+  "title": "LISTS OF ITEMS NOT IN SUBDIVISIONS"
+ },
+ {
+  "id": "chapter-2-e-3-c-e-3-e",
+  "level": 3,
+  "title": "CHAPTER 2(e)(3)(C)-(e)(3)(E)"
+ },
+ {
+  "id": "list-of-items-in-subdivisions",
+  "level": 3,
+  "title": "LIST OF ITEMS IN SUBDIVISIONS"
+ },
+ {
+  "id": "chapter-2-e-4-e-5-c",
+  "level": 3,
+  "title": "CHAPTER 2(e)(4)-(e)(5)(C)"
+ },
+ {
+  "id": "setting-out-language-in-a-directory-sentence",
+  "level": 3,
+  "title": "SETTING OUT LANGUAGE IN A DIRECTORY SENTENCE"
+ },
+ {
+  "id": "setting-out-language-below-a-directory-clause",
+  "level": 3,
+  "title": "SETTING OUT LANGUAGE BELOW A DIRECTORY CLAUSE"
+ },
+ {
+  "id": "chapter-2-e-5-c-f-1",
+  "level": 3,
+  "title": "CHAPTER 2(e)(5)(C)-(f)(1)"
+ },
+ {
+  "id": "no-punctuation-within-the-text-being-deleted",
+  "level": 3,
+  "title": "NO PUNCTUATION WITHIN THE TEXT BEING DELETED"
+ },
+ {
+  "id": "punctuation-within-the-text-being-deleted",
+  "level": 3,
+  "title": "PUNCTUATION WITHIN THE TEXT BEING DELETED"
+ },
+ {
+  "id": "chapter-2-f-2-f-5",
+  "level": 3,
+  "title": "CHAPTER 2(f)(2)-(f)(5)"
+ },
+ {
+  "id": "chapter-2-f-6-f-7-c",
+  "level": 3,
+  "title": "CHAPTER 2(f)(6)-(f)(7)(C)"
+ },
+ {
+  "id": "chapter-2-f-7-c-f-8",
+  "level": 3,
+  "title": "CHAPTER 2(f)(7)(C)-(f)(8)"
+ },
+ {
+  "id": "chapter-2-f-8-g-1",
+  "level": 3,
+  "title": "CHAPTER 2(f)(8)-(g)(1)"
+ },
+ {
+  "id": "chapter-2-g-2-g-7",
+  "level": 3,
+  "title": "CHAPTER 2(g)(2)-(g)(7)"
+ },
+ {
+  "id": "chapter-2-g-8-g-13-a",
+  "level": 3,
+  "title": "CHAPTER 2(g)(8)-(g)(13)(A)"
+ },
+ {
+  "id": "chapter-2-g-13-b-g-14-c",
+  "level": 3,
+  "title": "CHAPTER 2(g)(13)(B)-(g)(14)(C)"
+ },
+ {
+  "id": "chapter-2-g-14-c-i-g-14-c-v",
+  "level": 3,
+  "title": "CHAPTER 2(g)(14)(C)(i)-(g)(14)(C)(v)"
+ },
+ {
+  "id": "chapter-3-plain-language",
+  "level": 2,
+  "title": "CHAPTER 3: PLAIN LANGUAGE"
+ },
+ {
+  "id": "superfluous-or-verbose-preferred-superfluous-or-verbose-pref",
+  "level": 3,
+  "title": "Superfluous or Verbose Preferred Superfluous or Verbose Preferred"
+ },
+ {
+  "id": "chapter-3-a-1-d-b-1-a",
+  "level": 3,
+  "title": "CHAPTER 3(a)(1)(D)-(b)(1)(A)"
+ },
+ {
+  "id": "incorrect-2",
+  "level": 3,
+  "title": "INCORRECT:"
+ },
+ {
+  "id": "correct-2",
+  "level": 3,
+  "title": "CORRECT:"
+ },
+ {
+  "id": "correct-3",
+  "level": 3,
+  "title": "CORRECT:"
+ },
+ {
+  "id": "incorrect-3",
+  "level": 3,
+  "title": "INCORRECT:"
+ },
+ {
+  "id": "chapter-3-b-1-b-b-1-d",
+  "level": 3,
+  "title": "CHAPTER 3(b)(1)(B)-(b)(1)(D)"
+ },
+ {
+  "id": "positive",
+  "level": 3,
+  "title": "POSITIVE:"
+ },
+ {
+  "id": "negative",
+  "level": 3,
+  "title": "NEGATIVE:"
+ },
+ {
+  "id": "correct-4",
+  "level": 3,
+  "title": "CORRECT:"
+ },
+ {
+  "id": "incorrect-4",
+  "level": 3,
+  "title": "INCORRECT:"
+ },
+ {
+  "id": "chapter-3-b-1-e-b-3",
+  "level": 3,
+  "title": "CHAPTER 3(b)(1)(E)-(b)(3)"
+ },
+ {
+  "id": "active",
+  "level": 3,
+  "title": "ACTIVE:"
+ },
+ {
+  "id": "passive",
+  "level": 3,
+  "title": "PASSIVE:"
+ },
+ {
+  "id": "chapter-3-b-3-c-3",
+  "level": 3,
+  "title": "CHAPTER 3(b)(3)-(c)(3)"
+ },
+ {
+  "id": "correct-5",
+  "level": 3,
+  "title": "CORRECT:"
+ },
+ {
+  "id": "incorrect-5",
+  "level": 3,
+  "title": "INCORRECT:"
+ },
+ {
+  "id": "chapter-3-c-4-d-8",
+  "level": 3,
+  "title": "CHAPTER 3(c)(4)-(d)(8)"
+ },
+ {
+  "id": "chapter-3-d-9-e-2",
+  "level": 3,
+  "title": "CHAPTER 3(d)(9)-(e)(2)"
+ },
+ {
+  "id": "chapter-4-code-provisions",
+  "level": 2,
+  "title": "CHAPTER 4: CODE PROVISIONS"
+ },
+ {
+  "id": "3-12-112-3-12-1-12-title-chapter-part-section",
+  "level": 3,
+  "title": "§ 3-12-112 = 3 - 12 - 1 12 Title Chapter Part Section"
+ },
+ {
+  "id": "chapter-4-a-4-a-5",
+  "level": 3,
+  "title": "CHAPTER 4(a)(4)-(a)(5)"
+ },
+ {
+  "id": "incorrect-6",
+  "level": 3,
+  "title": "INCORRECT:"
+ },
+ {
+  "id": "correct-6",
+  "level": 3,
+  "title": "CORRECT:"
+ },
+ {
+  "id": "chapter-4-a-6-b-2",
+  "level": 3,
+  "title": "CHAPTER 4(a)(6)-(b)(2)"
+ },
+ {
+  "id": "codified-version-of-the-statute",
+  "level": 3,
+  "title": "CODIFIED VERSION OF THE STATUTE:"
+ },
+ {
+  "id": "incorrect-7",
+  "level": 3,
+  "title": "INCORRECT:"
+ },
+ {
+  "id": "correct-7",
+  "level": 3,
+  "title": "CORRECT:"
+ },
+ {
+  "id": "chapter-4-b-3-b-5-a",
+  "level": 3,
+  "title": "CHAPTER 4(b)(3)-(b)(5)(A)"
+ },
+ {
+  "id": "chapter-4-b-5-b-b-6-b",
+  "level": 3,
+  "title": "CHAPTER 4(b)(5)(B)-(b)(6)(B)"
+ },
+ {
+  "id": "5-6-104",
+  "level": 3,
+  "title": "§ 5-6-104"
+ },
+ {
+  "id": "chapter-4-b-6-c-b-6-e",
+  "level": 3,
+  "title": "CHAPTER 4(b)(6)(C)-(b)(6)(E)"
+ },
+ {
+  "id": "chapter-4-b-6-f-b-6-g",
+  "level": 3,
+  "title": "CHAPTER 4(b)(6)(F)-(b)(6)(G)"
+ },
+ {
+  "id": "cross-reference-provision-being-drafted-and-cross-referenced",
+  "level": 3,
+  "title": "Cross Reference Provision Being Drafted and Cross-Referenced Are Not Within Any of the Same Designations Cross Reference is Within the Provision Being Drafted Cross-Reference and Provision Being Drafted Share a Higher Designation"
+ },
+ {
+  "id": "single-subdivision-tier",
+  "level": 3,
+  "title": "Single Subdivision Tier"
+ },
+ {
+  "id": "chapter-4-b-7-b-7-f",
+  "level": 3,
+  "title": "CHAPTER 4(b)(7)-(b)(7)(F)"
+ },
+ {
+  "id": "chapter-4-b-7-f-b-9-a",
+  "level": 3,
+  "title": "CHAPTER 4(b)(7)(F)-(b)(9)(A)"
+ },
+ {
+  "id": "chapter-4-b-9-b-c",
+  "level": 3,
+  "title": "CHAPTER 4(b)(9)(B)-(c)"
+ },
+ {
+  "id": "chapter-4-c-1-c-2-c",
+  "level": 3,
+  "title": "CHAPTER 4(c)(1)-(c)(2)(C)"
+ },
+ {
+  "id": "chapter-4-c-2-d-d-1",
+  "level": 3,
+  "title": "CHAPTER 4(c)(2)(D)-(d)(1)"
+ },
+ {
+  "id": "chapter-4-d-1-d-3",
+  "level": 3,
+  "title": "CHAPTER 4(d)(1)-(d)(3)"
+ },
+ {
+  "id": "section-not-listed",
+  "level": 3,
+  "title": "SECTION NOT LISTED"
+ },
+ {
+  "id": "section-listed",
+  "level": 3,
+  "title": "SECTION LISTED"
+ },
+ {
+  "id": "chapter-4-d-3-d-4",
+  "level": 3,
+  "title": "CHAPTER 4(d)(3)-(d)(4)"
+ },
+ {
+  "id": "amendatory-language",
+  "level": 3,
+  "title": "AMENDATORY LANGUAGE"
+ },
+ {
+  "id": "statute",
+  "level": 3,
+  "title": "STATUTE"
+ },
+ {
+  "id": "chapter-4-d-4-d-6",
+  "level": 3,
+  "title": "CHAPTER 4(d)(4)-(d)(6)"
+ },
+ {
+  "id": "chapter-4-d-6-d-6-b",
+  "level": 3,
+  "title": "CHAPTER 4(d)(6)-(d)(6)(B)"
+ },
+ {
+  "id": "chapter-5-general-bills",
+  "level": 3,
+  "title": "CHAPTER 5: GENERAL BILLS"
+ },
+ {
+  "id": "chapter-5-b-2-b-3-a",
+  "level": 3,
+  "title": "CHAPTER 5(b)(2)-(b)(3)(A)"
+ },
+ {
+  "id": "chapter-5-b-3-b-b-4-b",
+  "level": 3,
+  "title": "CHAPTER 5(b)(3)(B)-(b)(4)(B)"
+ },
+ {
+  "id": "amendatory-language-of-the-bill",
+  "level": 3,
+  "title": "Amendatory Language of the Bill:"
+ },
+ {
+  "id": "search-of-citation-would-catch",
+  "level": 3,
+  "title": "Search of Citation Would Catch:"
+ },
+ {
+  "id": "search-of-citation-would-not-catch",
+  "level": 3,
+  "title": "Search of Citation Would Not Catch:"
+ },
+ {
+  "id": "this-additional-subject-search-required",
+  "level": 3,
+  "title": "This Additional Subject Search Required:"
+ },
+ {
+  "id": "chapter-5-b-4-b-b-6",
+  "level": 3,
+  "title": "CHAPTER 5(b)(4)(B)-(b)(6)"
+ },
+ {
+  "id": "single-subject",
+  "level": 3,
+  "title": "SINGLE SUBJECT:"
+ },
+ {
+  "id": "multiple-subjects",
+  "level": 3,
+  "title": "MULTIPLE SUBJECTS:"
+ },
+ {
+  "id": "original-multiple-subjects",
+  "level": 3,
+  "title": "ORIGINAL MULTIPLE SUBJECTS:"
+ },
+ {
+  "id": "new-single-subject",
+  "level": 3,
+  "title": "NEW SINGLE SUBJECT:"
+ },
+ {
+  "id": "narrow-subject-bill-does",
+  "level": 3,
+  "title": "NARROW SUBJECT (bill does):"
+ },
+ {
+  "id": "broad-subject-bill-is-about",
+  "level": 3,
+  "title": "BROAD SUBJECT (bill is about):"
+ },
+ {
+  "id": "chapter-5-c-e",
+  "level": 3,
+  "title": "CHAPTER 5(c)-(e)"
+ },
+ {
+  "id": "whereas-throughout-the-years-the-intrepid-and-valiant-member",
+  "level": 3,
+  "title": "WHEREAS, throughout the years, the intrepid and valiant members of the United"
+ },
+ {
+  "id": "states-armed-forces-have-continued-to-inspire-our-confidence",
+  "level": 3,
+  "title": "States armed forces have continued to inspire our confidence, loyalty, and support; and"
+ },
+ {
+  "id": "eastern-europe-and-the-middle-east-our-armed-forces-have-uns",
+  "level": 3,
+  "title": "Eastern Europe, and the Middle East, our armed forces have unselfishly paid the price of"
+ },
+ {
+  "id": "freedom-for-their-friends-and-families-and-for-all-of-us-and",
+  "level": 3,
+  "title": "freedom for their friends and families and for all of us; and"
+ },
+ {
+  "id": "whereas-it-is-most-appropriate-that-we-should-honor-those-co",
+  "level": 3,
+  "title": "WHEREAS, it is most appropriate that we should honor those courageous men and"
+ },
+ {
+  "id": "women-who-have-made-many-sacrifices-to-preserve-the-blessed-",
+  "level": 3,
+  "title": "women who have made many sacrifices to preserve the blessed freedoms we enjoy today"
+ },
+ {
+  "id": "and-that-our-progeny-will-hopefully-continue-to-cherish-for-",
+  "level": 3,
+  "title": "and that our progeny will hopefully continue to cherish for generations to come; and"
+ },
+ {
+  "id": "highway-27-in-the-city-of-dayton-and-rhea-county-that-is-not",
+  "level": 3,
+  "title": "Highway 27 in the City of Dayton and Rhea County that is not otherwise designated in"
+ },
+ {
+  "id": "memory-of-those-brave-sons-and-daughters-who-sacrificed-pers",
+  "level": 3,
+  "title": "memory of those brave sons and daughters who sacrificed personal concerns and their"
+ },
+ {
+  "id": "safety-with-many-of-them-giving-their-lives-so-that-we-may-e",
+  "level": 3,
+  "title": "safety, with many of them giving their lives, so that we may enjoy the many bounties of"
+ },
+ {
+  "id": "chapter-5-e-1-e-2-a",
+  "level": 3,
+  "title": "CHAPTER 5(e)(1)-(e)(2)(A)"
+ },
+ {
+  "id": "68-120-205-enforcement-of-part-date-for-compliance-waivers-a",
+  "level": 3,
+  "title": "68-120-205. Enforcement of part - Date for compliance - Waivers as to particular"
+ },
+ {
+  "id": "46-1-108-purchase-and-subdivision-of-land-sale-of-lots-appro",
+  "level": 3,
+  "title": "46-1-108. Purchase and subdivision of land – Sale of lots – Approval of location for"
+ },
+ {
+  "id": "chapter-5-e-2-a-e-2-b-iii",
+  "level": 3,
+  "title": "CHAPTER 5(e)(2)(A)-(e)(2)(B)(iii)"
+ },
+ {
+  "id": "a-definition-should-be-used",
+  "level": 3,
+  "title": "A DEFINITION SHOULD BE USED:"
+ },
+ {
+  "id": "a-definition-should-not-be-used-if",
+  "level": 3,
+  "title": "A DEFINITION SHOULD NOT BE USED IF:"
+ },
+ {
+  "id": "chapter-5-e-2-b-iii-e-2-b-vi",
+  "level": 3,
+  "title": "CHAPTER 5(e)(2)(B)(iii)-(e)(2)(B)(vi)"
+ },
+ {
+  "id": "definition",
+  "level": 3,
+  "title": "DEFINITION"
+ },
+ {
+  "id": "elements",
+  "level": 3,
+  "title": "ELEMENTS"
+ },
+ {
+  "id": "chapter-5-e-2-b-vii-e-4",
+  "level": 3,
+  "title": "CHAPTER 5(e)(2)(B)(vii)-(e)(4)"
+ },
+ {
+  "id": "chapter-5-e-5-b",
+  "level": 3,
+  "title": "CHAPTER 5(e)(5)(B)"
+ },
+ {
+  "id": "correct-8",
+  "level": 3,
+  "title": "CORRECT:"
+ },
+ {
+  "id": "chapter-5-e-5-c-e-6",
+  "level": 3,
+  "title": "CHAPTER 5(e)(5)(C)-(e)(6)"
+ },
+ {
+  "id": "chapter-5-e-7-e-7-c",
+  "level": 3,
+  "title": "CHAPTER 5(e)(7)-(e)(7)(C)"
+ },
+ {
+  "id": "chapter-5-e-7-c-e-8-a",
+  "level": 3,
+  "title": "CHAPTER 5(e)(7)(C)-(e)(8)(A)"
+ },
+ {
+  "id": "drafted-according-to-modern-drafting-principles",
+  "level": 3,
+  "title": "drafted according to modern drafting principles.]"
+ },
+ {
+  "id": "chapter-5-e-8-b-e-8-d",
+  "level": 3,
+  "title": "CHAPTER 5(e)(8)(B)-(e)(8)(D)"
+ },
+ {
+  "id": "chapter-5-e-8-d-e-8-e",
+  "level": 3,
+  "title": "CHAPTER 5(e)(8)(D)-(e)(8)(E)"
+ },
+ {
+  "id": "chapter-6-amendments",
+  "level": 2,
+  "title": "CHAPTER 6: AMENDMENTS"
+ },
+ {
+  "id": "amend-senate-bill-no-____-house-bill-no-____",
+  "level": 3,
+  "title": "Amend Senate Bill No. ____ House Bill No. ____"
+ },
+ {
+  "id": "chapter-6-b-4-c-1",
+  "level": 3,
+  "title": "CHAPTER 6(b)(4)-(c)(1)"
+ },
+ {
+  "id": "correct-9",
+  "level": 3,
+  "title": "CORRECT"
+ },
+ {
+  "id": "66-29-104",
+  "level": 2,
+  "title": "66-29-104."
+ },
+ {
+  "id": "incorrect-8",
+  "level": 3,
+  "title": "INCORRECT"
+ },
+ {
+  "id": "chapter-6-c-2-d",
+  "level": 3,
+  "title": "CHAPTER 6(c)(2)-(d)"
+ },
+ {
+  "id": "chapter-6-e-e-2",
+  "level": 3,
+  "title": "CHAPTER 6(e)-(e)(2)"
+ },
+ {
+  "id": "chapter-7-review",
+  "level": 2,
+  "title": "CHAPTER 7: REVIEW"
+ },
+ {
+  "id": "bill-amendment-drafter-s-checklist",
+  "level": 3,
+  "title": "BILL AMENDMENT DRAFTER'S CHECKLIST"
+ },
+ {
+  "id": "n-a",
+  "level": 3,
+  "title": "N/A"
+ },
+ {
+  "id": "appendix-a-sample-bill",
+  "level": 2,
+  "title": "APPENDIX A: SAMPLE BILL"
+ },
+ {
+  "id": "caption-preamble",
+  "level": 3,
+  "title": "CAPTION PREAMBLE"
+ },
+ {
+  "id": "enacting-clause",
+  "level": 3,
+  "title": "ENACTING CLAUSE"
+ },
+ {
+  "id": "short-title",
+  "level": 3,
+  "title": "SHORT TITLE"
+ },
+ {
+  "id": "definitions",
+  "level": 3,
+  "title": "DEFINITIONS"
+ },
+ {
+  "id": "body",
+  "level": 3,
+  "title": "BODY"
+ },
+ {
+  "id": "penalties-severability-clause",
+  "level": 3,
+  "title": "PENALTIES SEVERABILITY CLAUSE"
+ },
+ {
+  "id": "effective-date-drafting-number",
+  "level": 3,
+  "title": "EFFECTIVE DATE DRAFTING NUMBER"
+ },
+ {
+  "id": "appendix-b-sample-amendment",
+  "level": 2,
+  "title": "APPENDIX B: SAMPLE AMENDMENT"
+ },
+ {
+  "id": "header",
+  "level": 3,
+  "title": "HEADER"
+ },
+ {
+  "id": "directory-language",
+  "level": 3,
+  "title": "DIRECTORY LANGUAGE"
+ },
+ {
+  "id": "drafting-number",
+  "level": 3,
+  "title": "DRAFTING NUMBER"
+ },
+ {
+  "id": "appendix-c-bill-formatting-instructions",
+  "level": 2,
+  "title": "APPENDIX C: BILL FORMATTING INSTRUCTIONS"
+ },
+ {
+  "id": "appendix-d-departments-of-the-state-of-tennessee",
+  "level": 2,
+  "title": "APPENDIX D: DEPARTMENTS OF THE STATE OF TENNESSEE"
+ },
+ {
+  "id": "appendix-e-general-assembly-designation-by-year",
+  "level": 2,
+  "title": "APPENDIX E: GENERAL ASSEMBLY DESIGNATION BY YEAR"
+ },
+ {
+  "id": "g-a-years-g-a-years",
+  "level": 3,
+  "title": "G.A. Years G.A. Years"
+ },
+ {
+  "id": "g-a-years-g-a-years-2",
+  "level": 3,
+  "title": "G.A. Years G.A. Years"
+ }
+]

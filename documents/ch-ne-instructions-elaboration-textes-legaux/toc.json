@@ -1,0 +1,332 @@
+[
+ {
+  "id": "instructions-du-service-juridique-de-l-etat",
+  "level": 2,
+  "title": "Instructions du service juridique de l'Etat"
+ },
+ {
+  "id": "concernant-l-élaboration-et-la-rédaction",
+  "level": 2,
+  "title": "concernant l'élaboration et la rédaction"
+ },
+ {
+  "id": "des-textes-légaux-et-réglementaires",
+  "level": 2,
+  "title": "des textes légaux et réglementaires"
+ },
+ {
+  "id": "du-1er-janvier-2003",
+  "level": 2,
+  "title": "(Du 1er janvier 2003)"
+ },
+ {
+  "id": "table-des-matieres",
+  "level": 2,
+  "title": "TABLE DES MATIERES"
+ },
+ {
+  "id": "1-dispositions-generales-3",
+  "level": 3,
+  "title": "1. DISPOSITIONS GENERALES ...................................................................................... 3"
+ },
+ {
+  "id": "2-definitions-3",
+  "level": 3,
+  "title": "2. DEFINITIONS .................................................................................................................. 3"
+ },
+ {
+  "id": "3-redaction-des-textes-legaux-et-reglementaires-4",
+  "level": 3,
+  "title": "3. REDACTION DES TEXTES LEGAUX ET REGLEMENTAIRES ............................. 4"
+ },
+ {
+  "id": "4-dispositions-finales-14",
+  "level": 3,
+  "title": "4. DISPOSITIONS FINALES ............................................................................................. 14"
+ },
+ {
+  "id": "remarque-liminaire",
+  "level": 2,
+  "title": "REMARQUE LIMINAIRE"
+ },
+ {
+  "id": "1-dispositions-generales",
+  "level": 2,
+  "title": "1. DISPOSITIONS GENERALES"
+ },
+ {
+  "id": "1-1-champ-d-application",
+  "level": 3,
+  "title": "1.1. Champ d'application"
+ },
+ {
+  "id": "1-2-avis-au-service-juridique",
+  "level": 3,
+  "title": "1.2. Avis au service juridique"
+ },
+ {
+  "id": "1-3-contrôle-des-textes",
+  "level": 3,
+  "title": "1.3. Contrôle des textes"
+ },
+ {
+  "id": "2-definitions",
+  "level": 2,
+  "title": "2. DEFINITIONS"
+ },
+ {
+  "id": "2-1-lois",
+  "level": 3,
+  "title": "2.1. Lois"
+ },
+ {
+  "id": "2-2-décrets",
+  "level": 3,
+  "title": "2.2. Décrets"
+ },
+ {
+  "id": "2-3-règlements",
+  "level": 3,
+  "title": "2.3. Règlements"
+ },
+ {
+  "id": "2-4-arrêtés",
+  "level": 3,
+  "title": "2.4. Arrêtés"
+ },
+ {
+  "id": "2-5-directives",
+  "level": 3,
+  "title": "2.5. Directives"
+ },
+ {
+  "id": "3-redaction-des-textes-legaux-et-reglementaires",
+  "level": 2,
+  "title": "3. REDACTION DES TEXTES LEGAUX ET REGLEMENTAIRES"
+ },
+ {
+  "id": "3-1-règles-générales-structures",
+  "level": 3,
+  "title": "3.1. Règles générales – Structures"
+ },
+ {
+  "id": "3-1-1-titre",
+  "level": 3,
+  "title": "3.1.1. Titre"
+ },
+ {
+  "id": "3-1-2-date",
+  "level": 3,
+  "title": "3.1.2. Date"
+ },
+ {
+  "id": "3-1-3-préambule",
+  "level": 3,
+  "title": "3.1.3. Préambule"
+ },
+ {
+  "id": "3-1-4-notes-marginales-et-numérotation-des-articles",
+  "level": 3,
+  "title": "3.1.4. Notes marginales et numérotation des articles"
+ },
+ {
+  "id": "article-premier",
+  "level": 4,
+  "title": "Article premier"
+ },
+ {
+  "id": "art-2",
+  "level": 4,
+  "title": "Art. 2"
+ },
+ {
+  "id": "art-3a",
+  "level": 4,
+  "title": "Art. 3a"
+ },
+ {
+  "id": "art-3b",
+  "level": 4,
+  "title": "Art. 3b"
+ },
+ {
+  "id": "3-1-5-paragraphes-et-alinéas",
+  "level": 3,
+  "title": "3.1.5. Paragraphes et alinéas"
+ },
+ {
+  "id": "3-1-6-enumérations",
+  "level": 3,
+  "title": "3.1.6. Enumérations"
+ },
+ {
+  "id": "3-1-7-abréviations",
+  "level": 3,
+  "title": "3.1.7. Abréviations"
+ },
+ {
+  "id": "3-1-8-abrogation",
+  "level": 3,
+  "title": "3.1.8. Abrogation"
+ },
+ {
+  "id": "3-1-9-publication",
+  "level": 3,
+  "title": "3.1.9. Publication"
+ },
+ {
+  "id": "3-1-10-lieu-et-date",
+  "level": 3,
+  "title": "3.1.10. Lieu et date"
+ },
+ {
+  "id": "3-1-11-signatures",
+  "level": 3,
+  "title": "3.1.11. Signatures"
+ },
+ {
+  "id": "3-1-12-soumission-au-référendum",
+  "level": 3,
+  "title": "3.1.12. Soumission au référendum"
+ },
+ {
+  "id": "3-1-13-entrée-en-vigueur-et-promulgation",
+  "level": 3,
+  "title": "3.1.13. Entrée en vigueur et promulgation"
+ },
+ {
+  "id": "3-1-14-approbation-fédérale",
+  "level": 3,
+  "title": "3.1.14. Approbation fédérale"
+ },
+ {
+  "id": "3-2-modification-abrogation-et-adjonction-d-un-texte-législa",
+  "level": 3,
+  "title": "3.2. Modification, abrogation et adjonction d'un texte législatif ou réglementaire"
+ },
+ {
+  "id": "3-2-1-modification",
+  "level": 3,
+  "title": "3.2.1. Modification"
+ },
+ {
+  "id": "3-2-1-1-modification-d-un-terme-ou-d-une-expression",
+  "level": 3,
+  "title": "3.2.1.1. Modification d'un terme ou d'une expression"
+ },
+ {
+  "id": "3-2-1-2-modification-d-un-titre",
+  "level": 3,
+  "title": "3.2.1.2. Modification d'un titre"
+ },
+ {
+  "id": "chapitre-2-subventions",
+  "level": 3,
+  "title": "CHAPITRE 2 Subventions"
+ },
+ {
+  "id": "3-2-1-3-modification-d-une-note-marginale",
+  "level": 3,
+  "title": "3.2.1.3. Modification d'une note marginale"
+ },
+ {
+  "id": "3-2-1-4-modification-d-articles",
+  "level": 3,
+  "title": "3.2.1.4. Modification d'articles"
+ },
+ {
+  "id": "3-2-1-5-modification-d-alinéas",
+  "level": 3,
+  "title": "3.2.1.5. Modification d'alinéas"
+ },
+ {
+  "id": "3-2-2-abrogation",
+  "level": 3,
+  "title": "3.2.2. Abrogation"
+ },
+ {
+  "id": "3-2-3-adjonction",
+  "level": 3,
+  "title": "3.2.3. Adjonction"
+ },
+ {
+  "id": "3-2-3-1-adjonction-d-articles-nouveaux",
+  "level": 3,
+  "title": "3.2.3.1. Adjonction d'articles nouveaux"
+ },
+ {
+  "id": "3-2-3-2-adjonction-de-nouveaux-alinéas",
+  "level": 3,
+  "title": "3.2.3.2. Adjonction de nouveaux alinéas"
+ },
+ {
+  "id": "4-dispositions-finales",
+  "level": 2,
+  "title": "4. DISPOSITIONS FINALES"
+ },
+ {
+  "id": "4-1-abrogation",
+  "level": 3,
+  "title": "4.1. Abrogation"
+ },
+ {
+  "id": "4-2-entrée-en-vigueur",
+  "level": 3,
+  "title": "4.2. Entrée en vigueur"
+ },
+ {
+  "id": "rapport-du-conseil-d-etat-directives-rédactionnelles-et-bure",
+  "level": 3,
+  "title": "Rapport du Conseil d'Etat – Directives rédactionnelles et bureautiques"
+ },
+ {
+  "id": "attention-nouveaute-dans-les-rapports-depuis-le-09-06-10-voi",
+  "level": 4,
+  "title": "ATTENTION: NOUVEAUTE DANS LES RAPPORTS DEPUIS LE 09.06.10, VOIR PAGE 3!"
+ },
+ {
+  "id": "i-introduction-2",
+  "level": 4,
+  "title": "I. INTRODUCTION 2"
+ },
+ {
+  "id": "ii-directives-rédactionnelles-2",
+  "level": 4,
+  "title": "II. DIRECTIVES RÉDACTIONNELLES 2"
+ },
+ {
+  "id": "iii-directives-bureautiques-4",
+  "level": 4,
+  "title": "III. DIRECTIVES BUREAUTIQUES 4"
+ },
+ {
+  "id": "veuillez-vous-adresser-au-service-du-grand-conseil-janelise-",
+  "level": 4,
+  "title": "veuillez vous adresser au service du Grand Conseil (janelise.pug@ne.ch, tél. interne"
+ },
+ {
+  "id": "i-introduction",
+  "level": 3,
+  "title": "I. Introduction"
+ },
+ {
+  "id": "ii-directives-rédactionnelles",
+  "level": 3,
+  "title": "II. Directives rédactionnelles"
+ },
+ {
+  "id": "nouveaute-depuis-le-09-06-10",
+  "level": 3,
+  "title": "NOUVEAUTE DEPUIS LE 09.06.10"
+ },
+ {
+  "id": "iii-directives-bureautiques",
+  "level": 3,
+  "title": "III. Directives bureautiques"
+ },
+ {
+  "id": "remarque-importante",
+  "level": 3,
+  "title": "Remarque importante:"
+ }
+]

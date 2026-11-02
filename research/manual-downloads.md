@@ -95,6 +95,55 @@ These need a URL found and entered as `source_url` in `data/guidelines.yml` befo
 | `eu-interinstitutional-style-guide` | Interinstitutional Style Guide (EU) | <https://style-guide.europa.eu/en/> | HTTP 403. A multi-page website; saving the home page captures only the table of contents. Check the site for a PDF edition; otherwise leave the entry as source link only. |
 | `au-opc-drafting-directions` | OPC Drafting Directions (Australia) | <https://www.opc.gov.au/drafting-resources/drafting-directions> | No `source_url` in the catalog. A series of separate PDF and DOCX documents; the catalog entry needs splitting into one entry per direction, or one chosen document, before it can be downloaded. |
 
+## Sub-national entries
+
+As of 2026-11-01, `scripts/fetch.py` downloaded 141 of the 150 sub-national entries with a `source_url`, and 137 were converted. The same procedure applies; edit `data/subnational.yml` instead of `data/guidelines.yml`.
+
+### Download failed
+
+| id | Document | URL | Problem |
+|---|---|---|---|
+| `au-act-amending-guide` | Amending Guide (Australian Capital Territory) | <https://www.pco.act.gov.au/__data/assets/pdf_file/0015/2216022/Amending-Guide.pdf> | HTTP 403 |
+| `au-act-developing-legislation-working-with-pco` | Developing Legislation and Working with PCO (Australian Capital Territory) | <https://www.pco.act.gov.au/__data/assets/pdf_file/0003/2216037/Developing-Legislation-and-Working-with-PCO.pdf> | HTTP 403 |
+| `au-act-drafting-practice-guide` | Drafting Practice Guide (Australian Capital Territory) | <https://www.pco.act.gov.au/__data/assets/pdf_file/0017/2216042/Drafting-Practice-Guide-V2024-1.pdf> | HTTP 403 |
+| `au-act-spelling-abbreviations-symbols-guide` | Spelling, Abbreviations and Symbols Guide (Australian Capital Territory) | <https://www.pco.act.gov.au/__data/assets/pdf_file/0007/2216077/Spelling,-Abbreviations-and-Symbols-Guide-V2024-1.pdf> | HTTP 403 |
+| `au-act-words-and-phrases-guide` | Words and Phrases Guide: A Guide to Plain Legal Language (Australian Capital Territory) | <https://www.pco.act.gov.au/__data/assets/pdf_file/0020/2216081/Words-and-Phrases.pdf> | HTTP 403 |
+| `au-tas-guidelines-preparation-statutory-rules` | Guidelines for the preparation of statutory rules (Tasmania) | <https://nla.gov.au/nla.obj-1382146190/view> | Viewer or bot-check page instead of the PDF. |
+| `br-mg-manual-de-redacao-parlamentar` | Manual de Redação Parlamentar (Minas Gerais) | <https://dspace.almg.gov.br/bitstream/11037/5229/5/Manual%20de%20reda%C3%A7%C3%A3o%20parlamentar%20-%203%C2%AA%20Edi%C3%A7%C3%A3o.pdf> | Viewer or bot-check page instead of the PDF. |
+| `es-ga-directrices-tecnica-normativa` | Directrices de técnica normativa / Directrices de técnica normativa (Xunta de Ga (Galicia) | <https://www.xunta.gal/dog/Publicados/2014/20141114/AnuncioG0244-061114-0010_es.pdf> | HTTP 500 |
+| `in-kl-kerala-law-department-manual` | The Kerala Law Department Manual (Kerala) | <https://lawsect.kerala.gov.in/images/law_dept_manu_eng.pdf> | Connection reset. |
+
+### Downloaded, no usable text
+
+| id | Document | URL | Problem |
+|---|---|---|---|
+| `ch-sh-richtlinien-gestaltung-erlasse` | Richtlinien für die Gestaltung kantonaler Erlasse (Schaffhausen) | <https://www.zfr.uzh.ch/dam/jcr:96bd6e4c-b447-4eed-a719-e2a2219c6ada/Schaffhausen.pdf> | Scanned PDF with no text layer; needs OCR (Tesseract is not installed in the conversion environment). |
+| `us-va-legislators-guide-division-legislative-services` | A Legislator's Guide to the Division of Legislative Services (Virginia) | <https://dls.virginia.gov/pubs/LegisGuideToDLS.pdf> | PDF text is mostly images (345 words extracted); needs OCR. |
+| `us-al-drafting-style-manual` | Drafting Style Manual (Alabama) | <https://alison.legislature.state.al.us/lsa/legal-division/manual> | *JavaScript* page; the downloaded HTML has no text. Save with **Webpage, Complete**. |
+| `us-nc-legislative-drafting-process` | The Bill Drafting Process (Legislative Drafting Division) (North Carolina) | <https://sites.ncleg.gov/legislativedrafting/the-drafting-process/> | The page is a 181-word overview. The entry may need a different document or removal. |
+
+### No usable source URL
+
+| id | Document | URL | Problem |
+|---|---|---|---|
+| `at-8-vbg-legistische-richtlinien-2022` | Legistische Richtlinien 2022 (Vorarlberg) | <https://vorarlberg.at/-/legislation-tasks-and-services> | See `notes` and `currency.note` for the URL found by search. |
+| `au-nsw-drafting-practice-documents` | PCO drafting practice documents (DP series) (New South Wales) | <https://legislation.nsw.gov.au/information> | See `notes` and `currency.note` for the URL found by search. |
+| `br-ma-manual-de-elaboracao-de-proposicoes-legislativas` | Manual de Elaboração de Proposições Legislativas (Maranhão) | <https://www.al.ma.leg.br/> | See `notes` and `currency.note` for the URL found by search. |
+| `br-mg-manual-de-redacao-e-tecnica-legislativa-executivo` | Manual de Redação e Técnica Legislativa do Poder Executivo (Minas Gerais) | <https://www.governo.mg.gov.br/> | See `notes` and `currency.note` for the URL found by search. |
+| `es-ct-manual-elaboracio-normes` | Manual d'elaboració de normes de la Generalitat de Catalunya (Catalonia) | <https://presidencia.bibliotecadigital.gencat.cat/handle/20.500.14623/1298> | See `notes` and `currency.note` for the URL found by search. |
+| `jp-47-bunsho-hoki-jimu-no-tebiki` | 文書・法規事務の手引き (Okinawa Prefecture) | <https://ci.nii.ac.jp/ncid/BA89887246> | See `notes` and `currency.note` for the URL found by search. |
+| `mx-oax-manual-de-tecnica-legislativa` | Manual de Técnica Legislativa (Oaxaca) | <https://www.congresooaxaca.gob.mx/> | See `notes` and `currency.note` for the URL found by search. |
+| `my-sarawak-legislative-drafting-manual` | Sarawak Legislative Drafting Manual (Sarawak) | <https://www.theborneopost.com/2026/09/19/sarawak-launches-legislative-drafting-manual/> | See `notes` and `currency.note` for the URL found by search. |
+| `us-il-bill-drafting-manual` | Illinois Bill Drafting Manual (Illinois) | <https://lrb.ilga.gov/> | See `notes` and `currency.note` for the URL found by search. |
+| `us-in-administrative-rules-drafting-manual` | Administrative Rules Drafting Manual (Indiana) | <https://iar.iga.in.gov/> | See `notes` and `currency.note` for the URL found by search. |
+| `us-in-drafting-manual-general-assembly` | Drafting Manual for the Indiana General Assembly (Indiana) | <https://iga.in.gov/publications/bill_drafting_manual> | See `notes` and `currency.note` for the URL found by search. |
+| `us-la-house-drafting-style-usage-manual` | Drafting Style and Usage Manual (Louisiana) | <https://house.louisiana.gov/> | See `notes` and `currency.note` for the URL found by search. |
+| `us-mo-essentials-of-bill-drafting` | The Essentials of Bill Drafting in the Missouri General Assembly (Missouri) | <https://lr.mo.gov/> | See `notes` and `currency.note` for the URL found by search. |
+| `us-nh-drafting-procedure-manual-administrative-rules` | Drafting and Procedure Manual for Administrative Rules (New Hampshire) | <https://www.gc.nh.gov/rules> | See `notes` and `currency.note` for the URL found by search. |
+| `us-pa-legislative-drafting-manual` | Legislative Drafting Manual (101 Pa. Code, Part I, Subpart C) (Pennsylvania) | <https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/101/subpartICtoc.html> | See `notes` and `currency.note` for the URL found by search. |
+| `us-wi-administrative-rules-procedures-manual` | Administrative Rules Procedures Manual (Wisconsin) | <https://legis.wisconsin.gov/lc/rules-clearinghouse/rules-clearinghouse/> | See `notes` and `currency.note` for the URL found by search. |
+| `us-wi-bill-drafting-manual` | Wisconsin Bill Drafting Manual (Wisconsin) | <https://docs.legis.wisconsin.gov/statutes/drafting_manual/> | See `notes` and `currency.note` for the URL found by search. |
+
 ## Imported by hand
 
 | id | File | Notes |

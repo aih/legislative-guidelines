@@ -1,0 +1,677 @@
+[
+ {
+  "id": "the-idaho-rule-writer-s-manual",
+  "level": 2,
+  "title": "The Idaho Rule Writer’s Manual"
+ },
+ {
+  "id": "a-guide-for-drafting-and-promulgating-administrative-rules-i",
+  "level": 3,
+  "title": "A Guide for Drafting and Promulgating Administrative Rules in the State of Idaho"
+ },
+ {
+  "id": "brad-little-governor",
+  "level": 3,
+  "title": "BRAD LITTLE GOVERNOR"
+ },
+ {
+  "id": "alex-adams-administrator-division-of-financial-management",
+  "level": 3,
+  "title": "Alex Adams, Administrator Division of Financial Management"
+ },
+ {
+  "id": "brad-hunt-administrative-rules-coordinator",
+  "level": 3,
+  "title": "Brad Hunt Administrative Rules Coordinator"
+ },
+ {
+  "id": "304-n-8th-street",
+  "level": 3,
+  "title": "304 N. 8th Street"
+ },
+ {
+  "id": "p-o-box-83720-boise-idaho-83720-0032-208-334-3900-email-admi",
+  "level": 3,
+  "title": "P.O. Box 83720 Boise, Idaho 83720-0032 (208) 334-3900 Email: adminrules@dfm.idaho.gov http://www.adminrules.idaho.gov"
+ },
+ {
+  "id": "office-of-the-administrative-rules-coordinator",
+  "level": 2,
+  "title": "OFFICE OF THE ADMINISTRATIVE RULES COORDINATOR"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 2,
+  "title": "Table of Contents"
+ },
+ {
+  "id": "the-idaho-rule-writer-s-manual-2",
+  "level": 3,
+  "title": "The Idaho Rule Writer’s Manual"
+ },
+ {
+  "id": "administrative-law-overview",
+  "level": 2,
+  "title": "ADMINISTRATIVE LAW OVERVIEW"
+ },
+ {
+  "id": "the-administrative-procedure-act",
+  "level": 3,
+  "title": "THE ADMINISTRATIVE PROCEDURE ACT"
+ },
+ {
+  "id": "title-67-chapter-52-idaho-code",
+  "level": 4,
+  "title": "Title 67, Chapter 52, Idaho Code"
+ },
+ {
+  "id": "sections-67-5201-through-67-5292",
+  "level": 5,
+  "title": "Sections 67-5201 through 67-5292"
+ },
+ {
+  "id": "hierarchy-of-state-documents",
+  "level": 3,
+  "title": "HIERARCHY OF STATE DOCUMENTS"
+ },
+ {
+  "id": "negotiated-rulemaking",
+  "level": 2,
+  "title": "NEGOTIATED RULEMAKING"
+ },
+ {
+  "id": "what-is-negotiated-rulemaking",
+  "level": 5,
+  "title": "What Is Negotiated Rulemaking?"
+ },
+ {
+  "id": "the-notice-of-intent-to-promulgate-a-rule-negotiated-rulemak",
+  "level": 5,
+  "title": "The “Notice of Intent to Promulgate a Rule” (Negotiated Rulemaking)"
+ },
+ {
+  "id": "meeting-format",
+  "level": 5,
+  "title": "Meeting Format"
+ },
+ {
+  "id": "what-are-the-advantages-to-negotiated-rulemaking",
+  "level": 5,
+  "title": "What Are the Advantages to Negotiated Rulemaking?"
+ },
+ {
+  "id": "proposed-rulemaking",
+  "level": 2,
+  "title": "PROPOSED RULEMAKING"
+ },
+ {
+  "id": "what-is-a-proposed-rule",
+  "level": 5,
+  "title": "What is a Proposed Rule?"
+ },
+ {
+  "id": "the-administrative-rules-request-form-arrf-division-of-finan",
+  "level": 5,
+  "title": "The Administrative Rules Request Form (ARRF) - Division of Financial Management"
+ },
+ {
+  "id": "filing-a-proposed-rulemaking-with-the-rules-coordinator-for-",
+  "level": 5,
+  "title": "Filing a Proposed Rulemaking with the Rules Coordinator for Publication in the Bulletin"
+ },
+ {
+  "id": "fee-rules-cost-benefit-analysis",
+  "level": 5,
+  "title": "Fee Rules - Cost/Benefit Analysis"
+ },
+ {
+  "id": "negotiated-rulemaking-2",
+  "level": 5,
+  "title": "Negotiated Rulemaking"
+ },
+ {
+  "id": "incorporation-by-reference",
+  "level": 5,
+  "title": "Incorporation by Reference"
+ },
+ {
+  "id": "can-a-proposed-rule-be-enforced-when-is-it-of-full-force-and",
+  "level": 5,
+  "title": "Can a Proposed Rule Be Enforced? When Is It of Full Force and Effect?"
+ },
+ {
+  "id": "vacating-a-proposed-rulemaking",
+  "level": 5,
+  "title": "Vacating a Proposed Rulemaking"
+ },
+ {
+  "id": "moratorium-on-proposed-rulemaking",
+  "level": 5,
+  "title": "Moratorium on Proposed Rulemaking"
+ },
+ {
+  "id": "newspaper-legal-notice",
+  "level": 5,
+  "title": "Newspaper Legal Notice"
+ },
+ {
+  "id": "temporary-rule",
+  "level": 2,
+  "title": "TEMPORARY RULE"
+ },
+ {
+  "id": "what-is-a-temporary-rule",
+  "level": 5,
+  "title": "What is a Temporary Rule?"
+ },
+ {
+  "id": "publication-of-a-temporary-rule-in-the-bulletin",
+  "level": 5,
+  "title": "Publication of a Temporary Rule in the Bulletin"
+ },
+ {
+  "id": "a-temporary-rule-imposing-a-fee-or-charge",
+  "level": 5,
+  "title": "A Temporary Rule Imposing a Fee or Charge"
+ },
+ {
+  "id": "how-long-is-a-temporary-rule-effective",
+  "level": 5,
+  "title": "How Long is a Temporary Rule Effective?"
+ },
+ {
+  "id": "temporary-and-proposed-rulemaking-concurrent-rulemaking-and-",
+  "level": 5,
+  "title": "Temporary and Proposed Rulemaking - Concurrent Rulemaking and Bulletin Publication"
+ },
+ {
+  "id": "rescission-of-a-temporary-rule",
+  "level": 5,
+  "title": "Rescission of a Temporary Rule"
+ },
+ {
+  "id": "pending-rule",
+  "level": 2,
+  "title": "PENDING RULE"
+ },
+ {
+  "id": "what-is-a-pending-rule",
+  "level": 5,
+  "title": "What Is a Pending Rule?"
+ },
+ {
+  "id": "when-does-a-pending-rule-become-a-final-rule",
+  "level": 5,
+  "title": "When Does a Pending Rule Become a Final Rule?"
+ },
+ {
+  "id": "publication-of-a-notice-of-rulemaking-adoption-of-pending-ru",
+  "level": 5,
+  "title": "Publication of a Notice of Rulemaking - Adoption of Pending Rule"
+ },
+ {
+  "id": "when-fees-or-charges-are-imposed",
+  "level": 5,
+  "title": "When Fees or Charges Are Imposed"
+ },
+ {
+  "id": "correcting-a-pending-rule-prior-to-legislative-review",
+  "level": 5,
+  "title": "Correcting a Pending Rule Prior to Legislative Review"
+ },
+ {
+  "id": "making-corrections-to-codified-rules",
+  "level": 5,
+  "title": "Making Corrections to Codified Rules"
+ },
+ {
+  "id": "final-rule",
+  "level": 2,
+  "title": "FINAL RULE"
+ },
+ {
+  "id": "what-is-a-final-rule",
+  "level": 5,
+  "title": "What Is a Final Rule?"
+ },
+ {
+  "id": "legislative-review-of-rules",
+  "level": 2,
+  "title": "LEGISLATIVE REVIEW OF RULES"
+ },
+ {
+  "id": "germane-joint-subcommittee-interim-review",
+  "level": 5,
+  "title": "GERMANE JOINT SUBCOMMITTEE - INTERIM REVIEW"
+ },
+ {
+  "id": "germane-committee-rules-review-legislative-session",
+  "level": 5,
+  "title": "GERMANE COMMITTEE RULES REVIEW - LEGISLATIVE SESSION"
+ },
+ {
+  "id": "what-is-reviewed-by-the-committees",
+  "level": 5,
+  "title": "What Is Reviewed by the Committees?"
+ },
+ {
+  "id": "the-legislative-rules-review-books",
+  "level": 5,
+  "title": "The Legislative Rules Review Books"
+ },
+ {
+  "id": "incorporation-by-reference-2",
+  "level": 2,
+  "title": "INCORPORATION BY REFERENCE"
+ },
+ {
+  "id": "public-participation-in-rulemaking",
+  "level": 2,
+  "title": "PUBLIC PARTICIPATION IN RULEMAKING"
+ },
+ {
+  "id": "written-comments",
+  "level": 5,
+  "title": "WRITTEN COMMENTS"
+ },
+ {
+  "id": "a-comment-period-of-not-less-than-twenty-one-21-days-for-all",
+  "level": 5,
+  "title": "a comment period of not less than twenty-one (21) days for all proposed rulemakings. The"
+ },
+ {
+  "id": "public-hearings",
+  "level": 5,
+  "title": "PUBLIC HEARINGS"
+ },
+ {
+  "id": "public-hearing-vs-negotiated-rulemaking",
+  "level": 5,
+  "title": "Public Hearing vs Negotiated Rulemaking"
+ },
+ {
+  "id": "the-rulemaking-record",
+  "level": 2,
+  "title": "THE RULEMAKING RECORD"
+ },
+ {
+  "id": "the-rulemaking-record-must-be-maintained-and-available-for-p",
+  "level": 5,
+  "title": "The rulemaking record must be maintained and available for public inspection"
+ },
+ {
+  "id": "rule-numbering-and-docketing-system",
+  "level": 2,
+  "title": "RULE NUMBERING AND DOCKETING SYSTEM"
+ },
+ {
+  "id": "how-to-use-the-idaho-administrative-code-and-bulletin",
+  "level": 5,
+  "title": "HOW TO USE THE IDAHO ADMINISTRATIVE CODE AND BULLETIN"
+ },
+ {
+  "id": "docketing-system-used-in-rulemaking",
+  "level": 2,
+  "title": "DOCKETING SYSTEM USED IN RULEMAKING"
+ },
+ {
+  "id": "rule-organization-and-formatting",
+  "level": 2,
+  "title": "RULE ORGANIZATION AND FORMATTING"
+ },
+ {
+  "id": "the-cover-sheet",
+  "level": 4,
+  "title": "THE COVER SHEET"
+ },
+ {
+  "id": "organization-within-the-chapter-required-sections",
+  "level": 4,
+  "title": "ORGANIZATION WITHIN THE CHAPTER - REQUIRED SECTIONS"
+ },
+ {
+  "id": "section-and-subsection-formatting",
+  "level": 4,
+  "title": "SECTION AND SUBSECTION FORMATTING"
+ },
+ {
+  "id": "reserved-sections",
+  "level": 4,
+  "title": "RESERVED SECTIONS"
+ },
+ {
+  "id": "example",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "reserved",
+  "level": 5,
+  "title": "(RESERVED)"
+ },
+ {
+  "id": "break-in-continuity-of-sections",
+  "level": 4,
+  "title": "BREAK IN CONTINUITY OF SECTIONS"
+ },
+ {
+  "id": "bulletin-only",
+  "level": 5,
+  "title": "(Bulletin Only)"
+ },
+ {
+  "id": "legislative-format",
+  "level": 4,
+  "title": "LEGISLATIVE FORMAT"
+ },
+ {
+  "id": "example-2",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "effective-dates",
+  "level": 4,
+  "title": "EFFECTIVE DATES"
+ },
+ {
+  "id": "use-of-effective-dates",
+  "level": 5,
+  "title": "Use of Effective Dates"
+ },
+ {
+  "id": "use-of-plain-language",
+  "level": 2,
+  "title": "USE OF PLAIN LANGUAGE"
+ },
+ {
+  "id": "what-is-plain-language",
+  "level": 5,
+  "title": "What is Plain Language?"
+ },
+ {
+  "id": "plain-language",
+  "level": 5,
+  "title": "Plain language:"
+ },
+ {
+  "id": "some-basic-guidelines-for-writing-in-plain-language",
+  "level": 5,
+  "title": "Some Basic Guidelines for Writing in Plain Language"
+ },
+ {
+  "id": "example-3",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "rule-writing-style-format-and-content",
+  "level": 2,
+  "title": "RULE WRITING STYLE, FORMAT, AND CONTENT"
+ },
+ {
+  "id": "introduction",
+  "level": 4,
+  "title": "INTRODUCTION"
+ },
+ {
+  "id": "general-rule-writing-guidelines",
+  "level": 4,
+  "title": "GENERAL RULE WRITING GUIDELINES"
+ },
+ {
+  "id": "style",
+  "level": 4,
+  "title": "STYLE"
+ },
+ {
+  "id": "consistency",
+  "level": 4,
+  "title": "CONSISTENCY"
+ },
+ {
+  "id": "simplicity",
+  "level": 4,
+  "title": "SIMPLICITY"
+ },
+ {
+  "id": "clarity",
+  "level": 4,
+  "title": "CLARITY"
+ },
+ {
+  "id": "repeal-rewrites-and-new-chapters",
+  "level": 4,
+  "title": "REPEAL, REWRITES, AND NEW CHAPTERS"
+ },
+ {
+  "id": "renumbering",
+  "level": 4,
+  "title": "RENUMBERING"
+ },
+ {
+  "id": "content-general-guidelines-and-content-related-issues",
+  "level": 3,
+  "title": "CONTENT - GENERAL GUIDELINES AND CONTENT RELATED ISSUES"
+ },
+ {
+  "id": "number-and-gender",
+  "level": 4,
+  "title": "NUMBER AND GENDER"
+ },
+ {
+  "id": "singular-and-plural",
+  "level": 5,
+  "title": "Singular and Plural"
+ },
+ {
+  "id": "third-person",
+  "level": 5,
+  "title": "Third Person"
+ },
+ {
+  "id": "gender",
+  "level": 5,
+  "title": "Gender"
+ },
+ {
+  "id": "punctuation",
+  "level": 4,
+  "title": "PUNCTUATION"
+ },
+ {
+  "id": "capitalization",
+  "level": 4,
+  "title": "CAPITALIZATION"
+ },
+ {
+  "id": "general",
+  "level": 5,
+  "title": "General"
+ },
+ {
+  "id": "capitalize",
+  "level": 5,
+  "title": "Capitalize"
+ },
+ {
+  "id": "do-not-capitalize",
+  "level": 5,
+  "title": "Do Not Capitalize"
+ },
+ {
+  "id": "numbers-in-text",
+  "level": 4,
+  "title": "NUMBERS IN TEXT"
+ },
+ {
+  "id": "general-numerical-text",
+  "level": 5,
+  "title": "General Numerical Text"
+ },
+ {
+  "id": "time",
+  "level": 5,
+  "title": "Time"
+ },
+ {
+  "id": "references-to-idaho-code-idaho-administrative-code-and-other",
+  "level": 4,
+  "title": "REFERENCES TO IDAHO CODE, IDAHO ADMINISTRATIVE CODE, AND OTHER LAWS"
+ },
+ {
+  "id": "ordinal-numbers-first-second-etc",
+  "level": 4,
+  "title": "ORDINAL NUMBERS - FIRST, SECOND, ETC."
+ },
+ {
+  "id": "singular-verb-to-express-dollars",
+  "level": 5,
+  "title": "SINGULAR VERB TO EXPRESS DOLLARS"
+ },
+ {
+  "id": "formulas",
+  "level": 4,
+  "title": "FORMULAS"
+ },
+ {
+  "id": "words-and-phrases",
+  "level": 4,
+  "title": "WORDS AND PHRASES"
+ },
+ {
+  "id": "exceptions",
+  "level": 5,
+  "title": "Exceptions"
+ },
+ {
+  "id": "conditions",
+  "level": 5,
+  "title": "Conditions"
+ },
+ {
+  "id": "limitations",
+  "level": 5,
+  "title": "Limitations"
+ },
+ {
+  "id": "provisos",
+  "level": 5,
+  "title": "Provisos"
+ },
+ {
+  "id": "enumerations",
+  "level": 5,
+  "title": "Enumerations"
+ },
+ {
+  "id": "official-titles",
+  "level": 5,
+  "title": "Official Titles"
+ },
+ {
+  "id": "specific-terms",
+  "level": 5,
+  "title": "Specific Terms"
+ },
+ {
+  "id": "citations-to-other-rules-or-codes",
+  "level": 4,
+  "title": "CITATIONS TO OTHER RULES OR CODES"
+ },
+ {
+  "id": "legal-notice-newspaper-publication",
+  "level": 2,
+  "title": "LEGAL NOTICE - NEWSPAPER PUBLICATION"
+ },
+ {
+  "id": "rule-promulgation-step-by-step-procedures",
+  "level": 3,
+  "title": "RULE PROMULGATION: STEP-BY-STEP PROCEDURES"
+ },
+ {
+  "id": "contact-list",
+  "level": 2,
+  "title": "CONTACT LIST"
+ },
+ {
+  "id": "office-of-the-administrative-rules-coordinator-2",
+  "level": 5,
+  "title": "Office of the Administrative Rules Coordinator"
+ },
+ {
+  "id": "https-adminrules-idaho-gov",
+  "level": 5,
+  "title": "https://adminrules.idaho.gov"
+ },
+ {
+  "id": "division-of-financial-management",
+  "level": 5,
+  "title": "Division of Financial Management"
+ },
+ {
+  "id": "www-dfm-idaho-gov",
+  "level": 5,
+  "title": "www.dfm.idaho.gov/"
+ },
+ {
+  "id": "legislative-services-offices",
+  "level": 5,
+  "title": "Legislative Services Offices"
+ },
+ {
+  "id": "www-legislature-idaho-gov",
+  "level": 5,
+  "title": "www.legislature.idaho.gov/"
+ },
+ {
+  "id": "useful-websites",
+  "level": 2,
+  "title": "USEFUL WEBSITES"
+ },
+ {
+  "id": "office-of-the-administrative-rules-coordinator-3",
+  "level": 4,
+  "title": "Office of the Administrative Rules Coordinator"
+ },
+ {
+  "id": "rulemaking-notice-templates-and-forms",
+  "level": 5,
+  "title": "Rulemaking Notice Templates and Forms"
+ },
+ {
+  "id": "division-of-financial-management-dfm",
+  "level": 4,
+  "title": "Division of Financial Management (DFM)"
+ },
+ {
+  "id": "dfm-s-administrative-rules-request-form-arrf",
+  "level": 5,
+  "title": "DFM’s Administrative Rules Request Form (ARRF)"
+ },
+ {
+  "id": "idaho-state-legislature",
+  "level": 4,
+  "title": "Idaho State Legislature"
+ },
+ {
+  "id": "idaho-code",
+  "level": 5,
+  "title": "Idaho Code"
+ },
+ {
+  "id": "idaho-administrative-procedure-act",
+  "level": 5,
+  "title": "Idaho Administrative Procedure Act"
+ },
+ {
+  "id": "links-to-administrative-rules",
+  "level": 4,
+  "title": "Links to Administrative Rules"
+ },
+ {
+  "id": "idaho-rules-of-administrative-procedure-of-the-attorney-gene",
+  "level": 5,
+  "title": "Idaho Rules of Administrative Procedure of the Attorney General - IDAPA 04.11.01"
+ }
+]

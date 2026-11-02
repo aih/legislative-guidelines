@@ -1,0 +1,1602 @@
+[
+ {
+  "id": "manual",
+  "level": 2,
+  "title": "MANUAL"
+ },
+ {
+  "id": "of",
+  "level": 2,
+  "title": "OF"
+ },
+ {
+  "id": "legislative-drafting",
+  "level": 2,
+  "title": "LEGISLATIVE DRAFTING"
+ },
+ {
+  "id": "for-the-use-of-legislative-staff",
+  "level": 2,
+  "title": "For the use of Legislative Staff"
+ },
+ {
+  "id": "legislative-affairs-agency",
+  "level": 2,
+  "title": "Legislative Affairs Agency"
+ },
+ {
+  "id": "2025",
+  "level": 2,
+  "title": "2025"
+ },
+ {
+  "id": "p-r-e-f-a-c-e",
+  "level": 2,
+  "title": "P R E F A C E"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 4,
+  "title": "TABLE OF CONTENTS"
+ },
+ {
+  "id": "part-i",
+  "level": 2,
+  "title": "PART I"
+ },
+ {
+  "id": "general-information",
+  "level": 2,
+  "title": "GENERAL INFORMATION"
+ },
+ {
+  "id": "chapter-1-authority-of-drafting-manual",
+  "level": 4,
+  "title": "CHAPTER 1. AUTHORITY OF DRAFTING MANUAL"
+ },
+ {
+  "id": "chapter-2-the-division-of-legal-and-research-services",
+  "level": 4,
+  "title": "CHAPTER 2. THE DIVISION OF LEGAL AND RESEARCH SERVICES"
+ },
+ {
+  "id": "neutrality-and-confidentiality",
+  "level": 4,
+  "title": "NEUTRALITY AND CONFIDENTIALITY"
+ },
+ {
+  "id": "requests-for-bills-and-resolutions",
+  "level": 4,
+  "title": "REQUESTS FOR BILLS AND RESOLUTIONS"
+ },
+ {
+  "id": "requests-for-new-versions-of-measures",
+  "level": 4,
+  "title": "REQUESTS FOR NEW VERSIONS OF MEASURES"
+ },
+ {
+  "id": "legal-opinions",
+  "level": 4,
+  "title": "LEGAL OPINIONS"
+ },
+ {
+  "id": "editing-of-alaska-statutes-and-session-laws",
+  "level": 4,
+  "title": "EDITING OF ALASKA STATUTES AND SESSION LAWS"
+ },
+ {
+  "id": "considerations-for-drafting-of-bills",
+  "level": 4,
+  "title": "CONSIDERATIONS FOR DRAFTING OF BILLS"
+ },
+ {
+  "id": "part-ii",
+  "level": 2,
+  "title": "PART II"
+ },
+ {
+  "id": "drafting-rules-for-bills-and-other-measures",
+  "level": 2,
+  "title": "DRAFTING RULES FOR BILLS AND OTHER MEASURES"
+ },
+ {
+  "id": "chapter-1-parts-of-a-bill",
+  "level": 3,
+  "title": "CHAPTER 1. PARTS OF A BILL"
+ },
+ {
+  "id": "official-heading-sponsors",
+  "level": 4,
+  "title": "OFFICIAL HEADING; SPONSORS"
+ },
+ {
+  "id": "title-and-single-subject",
+  "level": 4,
+  "title": "TITLE AND SINGLE SUBJECT"
+ },
+ {
+  "id": "enacting-clause",
+  "level": 4,
+  "title": "ENACTING CLAUSE"
+ },
+ {
+  "id": "order-of-bill-sections",
+  "level": 4,
+  "title": "ORDER OF BILL SECTIONS"
+ },
+ {
+  "id": "short-title-purpose-and-findings",
+  "level": 4,
+  "title": "SHORT TITLE, PURPOSE, AND FINDINGS"
+ },
+ {
+  "id": "body-of-the-bill-permanent-law",
+  "level": 4,
+  "title": "BODY OF THE BILL - PERMANENT LAW"
+ },
+ {
+  "id": "sec-44-19-142-director-the-division-of-policy-development-an",
+  "level": 4,
+  "title": "Sec. 44.19.142. Director. The division of policy development and"
+ },
+ {
+  "id": "sec-16-30-020-director-board-may-exempt-animals-the",
+  "level": 4,
+  "title": "Sec. 16.30.020. Director [BOARD] may exempt animals. The"
+ },
+ {
+  "id": "short-title-codified",
+  "level": 4,
+  "title": "SHORT TITLE (CODIFIED)"
+ },
+ {
+  "id": "repealers-and-special-and-temporary-sections",
+  "level": 4,
+  "title": "REPEALERS AND SPECIAL AND TEMPORARY SECTIONS"
+ },
+ {
+  "id": "chapter-2-other-drafting-requirements",
+  "level": 3,
+  "title": "CHAPTER 2. OTHER DRAFTING REQUIREMENTS"
+ },
+ {
+  "id": "particular-subject-areas",
+  "level": 4,
+  "title": "PARTICULAR SUBJECT AREAS"
+ },
+ {
+  "id": "senate-bill-no-103",
+  "level": 4,
+  "title": "SENATE BILL NO. 103"
+ },
+ {
+  "id": "style-grammar-and-word-usage-alphabetically",
+  "level": 4,
+  "title": "STYLE, GRAMMAR, AND WORD USAGE (alphabetically)"
+ },
+ {
+  "id": "chapter-3-drafting-other-legislative-measures",
+  "level": 3,
+  "title": "CHAPTER 3. DRAFTING OTHER LEGISLATIVE MEASURES"
+ },
+ {
+  "id": "citations",
+  "level": 4,
+  "title": "CITATIONS"
+ },
+ {
+  "id": "committee-substitutes",
+  "level": 4,
+  "title": "COMMITTEE SUBSTITUTES"
+ },
+ {
+  "id": "conference-committee-substitutes",
+  "level": 4,
+  "title": "CONFERENCE COMMITTEE SUBSTITUTES"
+ },
+ {
+  "id": "fiscal-notes",
+  "level": 4,
+  "title": "FISCAL NOTES"
+ },
+ {
+  "id": "floor-amendments",
+  "level": 4,
+  "title": "FLOOR AMENDMENTS"
+ },
+ {
+  "id": "letters-of-intent",
+  "level": 4,
+  "title": "LETTERS OF INTENT"
+ },
+ {
+  "id": "resolutions",
+  "level": 4,
+  "title": "RESOLUTIONS"
+ },
+ {
+  "id": "sponsor-substitutes",
+  "level": 4,
+  "title": "SPONSOR SUBSTITUTES"
+ },
+ {
+  "id": "part-iii",
+  "level": 2,
+  "title": "PART III"
+ },
+ {
+  "id": "clerical-preparation-of-bills-resolutions-and-citations",
+  "level": 2,
+  "title": "CLERICAL PREPARATION OF BILLS, RESOLUTIONS, AND CITATIONS"
+ },
+ {
+  "id": "chapter-1-bills",
+  "level": 3,
+  "title": "CHAPTER 1. BILLS"
+ },
+ {
+  "id": "type-and-color",
+  "level": 4,
+  "title": "Type and color"
+ },
+ {
+  "id": "paper-and-margins",
+  "level": 4,
+  "title": "Paper and margins"
+ },
+ {
+  "id": "copies-and-attachments-required",
+  "level": 4,
+  "title": "Copies and attachments required"
+ },
+ {
+  "id": "page-numbering",
+  "level": 4,
+  "title": "Page numbering"
+ },
+ {
+  "id": "footer",
+  "level": 4,
+  "title": "Footer"
+ },
+ {
+  "id": "jackets",
+  "level": 4,
+  "title": "Jackets"
+ },
+ {
+  "id": "work-order-numbers",
+  "level": 4,
+  "title": "Work order numbers"
+ },
+ {
+  "id": "bill-heading",
+  "level": 4,
+  "title": "Bill heading"
+ },
+ {
+  "id": "funding-information",
+  "level": 4,
+  "title": "Funding information"
+ },
+ {
+  "id": "original-sponsors",
+  "level": 4,
+  "title": "Original sponsors"
+ },
+ {
+  "id": "title",
+  "level": 4,
+  "title": "Title"
+ },
+ {
+  "id": "a-bill",
+  "level": 4,
+  "title": "A BILL"
+ },
+ {
+  "id": "for-an-act-entitled",
+  "level": 4,
+  "title": "FOR AN ACT ENTITLED"
+ },
+ {
+  "id": "line-numbers",
+  "level": 4,
+  "title": "Line numbers"
+ },
+ {
+  "id": "enacting-clause-2",
+  "level": 4,
+  "title": "Enacting clause"
+ },
+ {
+  "id": "be-it-enacted-by-the-legislature-of-the-state-of-alaska",
+  "level": 4,
+  "title": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "body-of-the-bill",
+  "level": 4,
+  "title": "Body of the bill"
+ },
+ {
+  "id": "section-number-asterisk-and-indentation",
+  "level": 4,
+  "title": "Section number, asterisk, and indentation"
+ },
+ {
+  "id": "be-it-enacted-by-the-legislature-of-the-state-of-alaska-2",
+  "level": 4,
+  "title": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "section-heading",
+  "level": 4,
+  "title": "Section heading"
+ },
+ {
+  "id": "section-body",
+  "level": 4,
+  "title": "Section body"
+ },
+ {
+  "id": "amending-existing-sections",
+  "level": 4,
+  "title": "Amending existing sections"
+ },
+ {
+  "id": "adding-new-sections",
+  "level": 4,
+  "title": "Adding new sections"
+ },
+ {
+  "id": "repealing-and-reenacting-existing-sections",
+  "level": 4,
+  "title": "Repealing and reenacting existing sections"
+ },
+ {
+  "id": "repealed-sections",
+  "level": 4,
+  "title": "Repealed sections"
+ },
+ {
+  "id": "indentation-for-bills-and-resolutions",
+  "level": 4,
+  "title": "Indentation for bills and resolutions"
+ },
+ {
+  "id": "chapter-2-resolutions",
+  "level": 3,
+  "title": "CHAPTER 2. RESOLUTIONS"
+ },
+ {
+  "id": "heading",
+  "level": 4,
+  "title": "Heading"
+ },
+ {
+  "id": "a-resolution",
+  "level": 4,
+  "title": "A RESOLUTION"
+ },
+ {
+  "id": "title-2",
+  "level": 4,
+  "title": "Title"
+ },
+ {
+  "id": "introductory-resolve",
+  "level": 4,
+  "title": "Introductory resolve"
+ },
+ {
+  "id": "be-it-resolved-by-the-legislature-of-the-state-of-alaska",
+  "level": 4,
+  "title": "BE IT RESOLVED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "be-it-resolved-by-the-house-of-representatives-or-senate",
+  "level": 4,
+  "title": "BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES (or SENATE):"
+ },
+ {
+  "id": "whereas-clauses",
+  "level": 4,
+  "title": "\"WHEREAS\" clauses"
+ },
+ {
+  "id": "distribution-of-resolutions",
+  "level": 4,
+  "title": "Distribution of resolutions"
+ },
+ {
+  "id": "chapter-3-amendments",
+  "level": 3,
+  "title": "CHAPTER 3. AMENDMENTS"
+ },
+ {
+  "id": "type-and-color-2",
+  "level": 4,
+  "title": "Type and color"
+ },
+ {
+  "id": "paper",
+  "level": 4,
+  "title": "Paper"
+ },
+ {
+  "id": "headers-and-footers",
+  "level": 4,
+  "title": "Headers and footers"
+ },
+ {
+  "id": "amendment-heading",
+  "level": 4,
+  "title": "Amendment heading"
+ },
+ {
+  "id": "body-of-the-amendment",
+  "level": 4,
+  "title": "Body of the amendment"
+ },
+ {
+  "id": "chapter-4-legislative-citations",
+  "level": 3,
+  "title": "CHAPTER 4. LEGISLATIVE CITATIONS"
+ },
+ {
+  "id": "title-3",
+  "level": 4,
+  "title": "Title"
+ },
+ {
+  "id": "honoring",
+  "level": 4,
+  "title": "HONORING"
+ },
+ {
+  "id": "juneau-douglas-drill-team",
+  "level": 4,
+  "title": "JUNEAU-DOUGLAS DRILL TEAM"
+ },
+ {
+  "id": "text",
+  "level": 4,
+  "title": "Text"
+ },
+ {
+  "id": "draft-and-final",
+  "level": 4,
+  "title": "Draft and final"
+ },
+ {
+  "id": "part-iv",
+  "level": 2,
+  "title": "PART IV"
+ },
+ {
+  "id": "procedure-after-introduction-of-bills-and-resolutions",
+  "level": 2,
+  "title": "PROCEDURE AFTER INTRODUCTION OF BILLS AND RESOLUTIONS"
+ },
+ {
+  "id": "chapter-1-notations-added-substitutes-amendments",
+  "level": 3,
+  "title": "CHAPTER 1. NOTATIONS ADDED; SUBSTITUTES; AMENDMENTS"
+ },
+ {
+  "id": "bill-or-resolution-number",
+  "level": 4,
+  "title": "Bill or resolution number"
+ },
+ {
+  "id": "chapter-number",
+  "level": 4,
+  "title": "Chapter number"
+ },
+ {
+  "id": "special-designations",
+  "level": 4,
+  "title": "Special designations"
+ },
+ {
+  "id": "first-special-session",
+  "level": 4,
+  "title": "FIRST SPECIAL SESSION"
+ },
+ {
+  "id": "second-special-session",
+  "level": 4,
+  "title": "SECOND SPECIAL SESSION"
+ },
+ {
+  "id": "bill-or-resolution-abbreviated-designation",
+  "level": 4,
+  "title": "Bill or resolution abbreviated designation"
+ },
+ {
+  "id": "date-introduced-and-committee-assignment",
+  "level": 4,
+  "title": "Date introduced and committee assignment"
+ },
+ {
+  "id": "committee-abbreviations",
+  "level": 4,
+  "title": "Committee abbreviations"
+ },
+ {
+  "id": "committee-substitutes-2",
+  "level": 4,
+  "title": "Committee substitutes"
+ },
+ {
+  "id": "cs-for-house-bill-no-1-jud",
+  "level": 4,
+  "title": "CS FOR HOUSE BILL NO. 1(JUD)"
+ },
+ {
+  "id": "cs-for-house-bill-no-1-fin",
+  "level": 4,
+  "title": "CS FOR HOUSE BILL NO. 1(FIN)"
+ },
+ {
+  "id": "senate-cs-for-cs-for-house-bill-no-1-jud",
+  "level": 4,
+  "title": "SENATE CS FOR CS FOR HOUSE BILL NO. 1(JUD)"
+ },
+ {
+  "id": "senate-cs-for-house-bill-no-1-jud",
+  "level": 4,
+  "title": "SENATE CS FOR HOUSE BILL NO. 1(JUD)"
+ },
+ {
+  "id": "2d-cs-for-house-bill-no-1-tra",
+  "level": 4,
+  "title": "2d CS FOR HOUSE BILL NO. 1(TRA)"
+ },
+ {
+  "id": "sponsor-substitutes-2",
+  "level": 4,
+  "title": "Sponsor substitutes"
+ },
+ {
+  "id": "corrected-versions",
+  "level": 4,
+  "title": "Corrected versions"
+ },
+ {
+  "id": "chapter-2-engrossment",
+  "level": 4,
+  "title": "CHAPTER 2. ENGROSSMENT"
+ },
+ {
+  "id": "bill-designations",
+  "level": 4,
+  "title": "Bill designations"
+ },
+ {
+  "id": "house-bill-no-1-am",
+  "level": 4,
+  "title": "HOUSE BILL NO. 1 am"
+ },
+ {
+  "id": "house-bill-no-1-am-s",
+  "level": 4,
+  "title": "HOUSE BILL NO. 1 am S"
+ },
+ {
+  "id": "house-bill-no-1-efd-am",
+  "level": 4,
+  "title": "HOUSE BILL NO. 1(efd am)"
+ },
+ {
+  "id": "resolution-designations",
+  "level": 4,
+  "title": "Resolution designations"
+ },
+ {
+  "id": "carryover-of-measures",
+  "level": 4,
+  "title": "Carryover of measures"
+ },
+ {
+  "id": "waiver-of-engrossment",
+  "level": 4,
+  "title": "Waiver of engrossment"
+ },
+ {
+  "id": "reengrossment",
+  "level": 4,
+  "title": "Reengrossment"
+ },
+ {
+  "id": "engrossment-in-the-second-house",
+  "level": 4,
+  "title": "Engrossment in the second house"
+ },
+ {
+  "id": "engrossment-of-a-failed-effective-date",
+  "level": 4,
+  "title": "Engrossment of a failed effective date"
+ },
+ {
+  "id": "engrossment-of-a-failed-appropriation-under-art-ix-sec-17-c-",
+  "level": 4,
+  "title": "Engrossment of a failed appropriation under art. IX, sec. 17(c), Constitution of the State Alaska"
+ },
+ {
+  "id": "engrossment-of-a-failed-court-rule-change",
+  "level": 4,
+  "title": "Engrossment of a failed court rule change"
+ },
+ {
+  "id": "renumbering-of-sections-when-a-section-is-added-or-deleted",
+  "level": 4,
+  "title": "Renumbering of sections when a section is added or deleted"
+ },
+ {
+  "id": "engrossment-of-multiple-and-conflicting-amendments",
+  "level": 4,
+  "title": "Engrossment of multiple and conflicting amendments"
+ },
+ {
+  "id": "engrossment-of-failed-measures",
+  "level": 4,
+  "title": "Engrossment of failed measures"
+ },
+ {
+  "id": "examples-of-designations",
+  "level": 4,
+  "title": "Examples of designations"
+ },
+ {
+  "id": "in-the-house-of-origin",
+  "level": 4,
+  "title": "In the house of origin"
+ },
+ {
+  "id": "in-the-other-house",
+  "level": 4,
+  "title": "In the other house"
+ },
+ {
+  "id": "in-the-house-of-origin-on-concurrence",
+  "level": 4,
+  "title": "In the house of origin on concurrence"
+ },
+ {
+  "id": "in-joint-session",
+  "level": 4,
+  "title": "In joint session"
+ },
+ {
+  "id": "conference-committee-bill",
+  "level": 4,
+  "title": "Conference committee bill"
+ },
+ {
+  "id": "free-conference-committee-bill",
+  "level": 4,
+  "title": "Free conference committee bill"
+ },
+ {
+  "id": "corrected-conference-committee-substitutes",
+  "level": 4,
+  "title": "Corrected conference committee substitutes"
+ },
+ {
+  "id": "authentication",
+  "level": 4,
+  "title": "Authentication"
+ },
+ {
+  "id": "resolution-authentication",
+  "level": 4,
+  "title": "Resolution authentication"
+ },
+ {
+  "id": "chapter-3-enrollment",
+  "level": 3,
+  "title": "CHAPTER 3. ENROLLMENT"
+ },
+ {
+  "id": "bills",
+  "level": 4,
+  "title": "Bills"
+ },
+ {
+  "id": "resolutions-2",
+  "level": 4,
+  "title": "Resolutions"
+ },
+ {
+  "id": "distribution-of-resolutions-2",
+  "level": 4,
+  "title": "Distribution of resolutions"
+ },
+ {
+  "id": "legislative-citations",
+  "level": 4,
+  "title": "Legislative citations"
+ },
+ {
+  "id": "waiver-of-enrollment",
+  "level": 4,
+  "title": "Waiver of enrollment"
+ },
+ {
+  "id": "chapter-4-retention-of-bills",
+  "level": 3,
+  "title": "CHAPTER 4. RETENTION OF BILLS"
+ },
+ {
+  "id": "part-v",
+  "level": 2,
+  "title": "PART V"
+ },
+ {
+  "id": "other-legislative-documents",
+  "level": 2,
+  "title": "OTHER LEGISLATIVE DOCUMENTS"
+ },
+ {
+  "id": "chapter-1-the-journal",
+  "level": 3,
+  "title": "CHAPTER 1. THE JOURNAL"
+ },
+ {
+  "id": "journal-content",
+  "level": 4,
+  "title": "Journal content"
+ },
+ {
+  "id": "supplements",
+  "level": 4,
+  "title": "Supplements"
+ },
+ {
+  "id": "chapter-2-fiscal-notes",
+  "level": 3,
+  "title": "CHAPTER 2. FISCAL NOTES"
+ },
+ {
+  "id": "chapter-3-histories",
+  "level": 3,
+  "title": "CHAPTER 3. HISTORIES"
+ },
+ {
+  "id": "chapter-4-daily-calendar",
+  "level": 3,
+  "title": "CHAPTER 4. DAILY CALENDAR"
+ },
+ {
+  "id": "chapter-5-initiatives",
+  "level": 4,
+  "title": "CHAPTER 5. INITIATIVES"
+ },
+ {
+  "id": "chapter-6-executive-orders",
+  "level": 4,
+  "title": "CHAPTER 6. EXECUTIVE ORDERS"
+ },
+ {
+  "id": "a-p-p-e-n-d-i-c-e-s",
+  "level": 4,
+  "title": "A P P E N D I C E S"
+ },
+ {
+  "id": "senate-bill-no-95",
+  "level": 4,
+  "title": "SENATE BILL NO. 95"
+ },
+ {
+  "id": "a-bill-2",
+  "level": 4,
+  "title": "A BILL"
+ },
+ {
+  "id": "for-an-act-entitled-2",
+  "level": 4,
+  "title": "FOR AN ACT ENTITLED"
+ },
+ {
+  "id": "an-act-making-supplemental-appropriations-to-the-department-",
+  "level": 4,
+  "title": "\"An Act making supplemental appropriations to the Department of Fish and Game; and"
+ },
+ {
+  "id": "providing-for-an-effective-date",
+  "level": 4,
+  "title": "providing for an effective date.\""
+ },
+ {
+  "id": "be-it-enacted-by-the-legislature-of-the-state-of-alaska-3",
+  "level": 4,
+  "title": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "cs-for-senate-bill-no-95-fin",
+  "level": 4,
+  "title": "CS FOR SENATE BILL NO. 95(FIN)"
+ },
+ {
+  "id": "a-bill-3",
+  "level": 4,
+  "title": "A BILL"
+ },
+ {
+  "id": "for-an-act-entitled-3",
+  "level": 4,
+  "title": "FOR AN ACT ENTITLED"
+ },
+ {
+  "id": "an-act-making-supplemental-appropriations-to-the-department--2",
+  "level": 4,
+  "title": "\"An Act making supplemental appropriations to the Department of Fish and Game; and"
+ },
+ {
+  "id": "providing-for-an-effective-date-2",
+  "level": 4,
+  "title": "providing for an effective date.\""
+ },
+ {
+  "id": "be-it-enacted-by-the-legislature-of-the-state-of-alaska-4",
+  "level": 4,
+  "title": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "conference-cs-for-house-bill-no-48",
+  "level": 4,
+  "title": "CONFERENCE CS FOR HOUSE BILL NO. 48"
+ },
+ {
+  "id": "a-bill-4",
+  "level": 4,
+  "title": "A BILL"
+ },
+ {
+  "id": "for-an-act-entitled-4",
+  "level": 4,
+  "title": "FOR AN ACT ENTITLED"
+ },
+ {
+  "id": "an-act-making-a-special-appropriation-to-the-department-of-t",
+  "level": 4,
+  "title": "\"An Act making a special appropriation to the Department of Transportation and"
+ },
+ {
+  "id": "public-facilities-for-kodiak-ferry-slips-and-providing-for-a",
+  "level": 4,
+  "title": "Public Facilities for Kodiak ferry slips; and providing for an effective date.\""
+ },
+ {
+  "id": "be-it-enacted-by-the-legislature-of-the-state-of-alaska-5",
+  "level": 4,
+  "title": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "cs-for-house-bill-no-189-sta",
+  "level": 4,
+  "title": "CS FOR HOUSE BILL NO. 189(STA)"
+ },
+ {
+  "id": "a-bill-5",
+  "level": 4,
+  "title": "A BILL"
+ },
+ {
+  "id": "for-an-act-entitled-5",
+  "level": 4,
+  "title": "FOR AN ACT ENTITLED"
+ },
+ {
+  "id": "an-act-making-a-special-appropriation-to-the-statutory-budge",
+  "level": 4,
+  "title": "\"An Act making a special appropriation to the statutory budget reserve fund; making"
+ },
+ {
+  "id": "an-appropriation-under-art-ix-sec-17-c-constitution-of-the-s",
+  "level": 4,
+  "title": "an appropriation under art. IX, sec. 17(c), Constitution of the State of Alaska, from the"
+ },
+ {
+  "id": "constitutional-budget-reserve-fund-and-providing-for-an-effe",
+  "level": 4,
+  "title": "constitutional budget reserve fund; and providing for an effective date.\""
+ },
+ {
+  "id": "be-it-enacted-by-the-legislature-of-the-state-of-alaska-6",
+  "level": 4,
+  "title": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "senate-cs-for-cs-for-house-bill-no-62-fin",
+  "level": 4,
+  "title": "SENATE CS FOR CS FOR HOUSE BILL NO. 62(FIN)"
+ },
+ {
+  "id": "a-bill-6",
+  "level": 4,
+  "title": "A BILL"
+ },
+ {
+  "id": "for-an-act-entitled-6",
+  "level": 4,
+  "title": "FOR AN ACT ENTITLED"
+ },
+ {
+  "id": "an-act-transferring-among-appropriations-and-providing-for-a",
+  "level": 4,
+  "title": "\"An Act transferring among appropriations; and providing for an effective date.\""
+ },
+ {
+  "id": "be-it-enacted-by-the-legislature-of-the-state-of-alaska-7",
+  "level": 4,
+  "title": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "house-bill-no-47",
+  "level": 4,
+  "title": "HOUSE BILL NO. 47"
+ },
+ {
+  "id": "a-bill-7",
+  "level": 4,
+  "title": "A BILL"
+ },
+ {
+  "id": "for-an-act-entitled-7",
+  "level": 4,
+  "title": "FOR AN ACT ENTITLED"
+ },
+ {
+  "id": "an-act-increasing-an-appropriation-making-an-appropriation-a",
+  "level": 4,
+  "title": "\"An Act increasing an appropriation, making an appropriation, and reappropriating"
+ },
+ {
+  "id": "money-and-providing-for-an-effective-date",
+  "level": 4,
+  "title": "money; and providing for an effective date.\""
+ },
+ {
+  "id": "be-it-enacted-by-the-legislature-of-the-state-of-alaska-8",
+  "level": 4,
+  "title": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "house-bill-no-472",
+  "level": 4,
+  "title": "HOUSE BILL NO. 472"
+ },
+ {
+  "id": "a-bill-8",
+  "level": 4,
+  "title": "A BILL"
+ },
+ {
+  "id": "for-an-act-entitled-8",
+  "level": 4,
+  "title": "FOR AN ACT ENTITLED"
+ },
+ {
+  "id": "an-act-making-a-special-appropriation-for-payment-as-a-grant",
+  "level": 4,
+  "title": "\"An Act making a special appropriation for payment as a grant to the City of White"
+ },
+ {
+  "id": "mountain-for-community-building-construction-and-providing-f",
+  "level": 4,
+  "title": "Mountain for community building construction; and providing for an effective date.\""
+ },
+ {
+  "id": "be-it-enacted-by-the-legislature-of-the-state-of-alaska-9",
+  "level": 4,
+  "title": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "house-cs-for-senate-bill-no-97-hes",
+  "level": 4,
+  "title": "HOUSE CS FOR SENATE BILL NO. 97(HES)"
+ },
+ {
+  "id": "a-bill-9",
+  "level": 4,
+  "title": "A BILL"
+ },
+ {
+  "id": "for-an-act-entitled-9",
+  "level": 4,
+  "title": "FOR AN ACT ENTITLED"
+ },
+ {
+  "id": "community-and-economic-development-for-payment-as-a-grant-to",
+  "level": 4,
+  "title": "Community, and Economic Development for payment as a grant to Bethel Social"
+ },
+ {
+  "id": "services-inc-and-providing-for-an-effective-date",
+  "level": 4,
+  "title": "Services, Inc.; and providing for an effective date.\""
+ },
+ {
+  "id": "be-it-enacted-by-the-legislature-of-the-state-of-alaska-10",
+  "level": 4,
+  "title": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "2d-cs-for-senate-bill-no-85-fin",
+  "level": 4,
+  "title": "2d CS FOR SENATE BILL NO. 85(FIN)"
+ },
+ {
+  "id": "a-bill-10",
+  "level": 4,
+  "title": "A BILL"
+ },
+ {
+  "id": "for-an-act-entitled-10",
+  "level": 4,
+  "title": "FOR AN ACT ENTITLED"
+ },
+ {
+  "id": "an-act-making-a-special-appropriation-to-the-agricultural-re",
+  "level": 4,
+  "title": "\"An Act making a special appropriation to the agricultural revolving loan fund; and"
+ },
+ {
+  "id": "providing-for-an-effective-date-3",
+  "level": 4,
+  "title": "providing for an effective date.\""
+ },
+ {
+  "id": "be-it-enacted-by-the-legislature-of-the-state-of-alaska-11",
+  "level": 4,
+  "title": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "cs-for-house-bill-no-70-2d-fin",
+  "level": 4,
+  "title": "CS FOR HOUSE BILL NO. 70(2d FIN)"
+ },
+ {
+  "id": "a-bill-11",
+  "level": 4,
+  "title": "A BILL"
+ },
+ {
+  "id": "for-an-act-entitled-11",
+  "level": 4,
+  "title": "FOR AN ACT ENTITLED"
+ },
+ {
+  "id": "an-act-making-appropriations-for-grants-capital-projects-and",
+  "level": 4,
+  "title": "\"An Act making appropriations for grants, capital projects, and miscellaneous expenses"
+ },
+ {
+  "id": "of-state-government-and-providing-for-an-effective-date",
+  "level": 4,
+  "title": "of state government; and providing for an effective date.\""
+ },
+ {
+  "id": "be-it-enacted-by-the-legislature-of-the-state-of-alaska-12",
+  "level": 4,
+  "title": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "house-bill-no-111",
+  "level": 4,
+  "title": "HOUSE BILL NO. 111"
+ },
+ {
+  "id": "a-bill-12",
+  "level": 4,
+  "title": "A BILL"
+ },
+ {
+  "id": "for-an-act-entitled-12",
+  "level": 4,
+  "title": "FOR AN ACT ENTITLED"
+ },
+ {
+  "id": "an-act-relating-to-the-powers-of-the-department-of-education",
+  "level": 4,
+  "title": "\"An Act relating to the powers of the Department of Education and Early"
+ },
+ {
+  "id": "development",
+  "level": 4,
+  "title": "Development.\""
+ },
+ {
+  "id": "be-it-enacted-by-the-legislature-of-the-state-of-alaska-13",
+  "level": 4,
+  "title": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "charged-by-the-department-to-cover-the-costs-of-providing-se",
+  "level": 4,
+  "title": "charged by the department to cover the costs of providing services under an"
+ },
+ {
+  "id": "extracurricular-programs-and-services-provided-and-schools-o",
+  "level": 4,
+  "title": "extracurricular programs and services provided and schools operated by the"
+ },
+ {
+  "id": "respect-to-the-acquisition-warehousing-distribution-or-trans",
+  "level": 4,
+  "title": "respect to the acquisition, warehousing, distribution, or transfer of donated"
+ },
+ {
+  "id": "house-cs-for-senate-bill-no-303-res",
+  "level": 4,
+  "title": "HOUSE CS FOR SENATE BILL NO. 303(RES)"
+ },
+ {
+  "id": "a-bill-13",
+  "level": 4,
+  "title": "A BILL"
+ },
+ {
+  "id": "for-an-act-entitled-13",
+  "level": 4,
+  "title": "FOR AN ACT ENTITLED"
+ },
+ {
+  "id": "an-act-establishing-the-goldstream-public-use-area",
+  "level": 4,
+  "title": "\"An Act establishing the Goldstream Public Use Area.\""
+ },
+ {
+  "id": "be-it-enacted-by-the-legislature-of-the-state-of-alaska-14",
+  "level": 4,
+  "title": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "house-bill-no-98",
+  "level": 4,
+  "title": "HOUSE BILL NO. 98"
+ },
+ {
+  "id": "a-bill-14",
+  "level": 4,
+  "title": "A BILL"
+ },
+ {
+  "id": "for-an-act-entitled-14",
+  "level": 4,
+  "title": "FOR AN ACT ENTITLED"
+ },
+ {
+  "id": "an-act-relating-to-violations-of-the-open-meetings-section-o",
+  "level": 4,
+  "title": "\"An Act relating to violations of the open meetings section of the Constitution of the"
+ },
+ {
+  "id": "alaska-rules-of-appellate-procedure-and-providing-for-an-eff",
+  "level": 4,
+  "title": "Alaska Rules of Appellate Procedure; and providing for an effective date.\""
+ },
+ {
+  "id": "be-it-enacted-by-the-legislature-of-the-state-of-alaska-15",
+  "level": 4,
+  "title": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "sec-24-40-050-defense-on-charges-of-violating-the-open-meeti",
+  "level": 4,
+  "title": "Sec. 24.40.050. Defense on charges of violating the open meeting"
+ },
+ {
+  "id": "sec-24-40-080-violation-of-open-meeting-requirements-an-indi",
+  "level": 4,
+  "title": "Sec. 24.40.080. Violation of open meeting requirements. An individual"
+ },
+ {
+  "id": "house-bill-no-26",
+  "level": 4,
+  "title": "HOUSE BILL NO. 26"
+ },
+ {
+  "id": "a-bill-15",
+  "level": 4,
+  "title": "A BILL"
+ },
+ {
+  "id": "for-an-act-entitled-15",
+  "level": 4,
+  "title": "FOR AN ACT ENTITLED"
+ },
+ {
+  "id": "an-act-amending-rule-15-alaska-rules-of-criminal-procedure-r",
+  "level": 4,
+  "title": "\"An Act amending Rule 15, Alaska Rules of Criminal Procedure, relating to"
+ },
+ {
+  "id": "depositions",
+  "level": 4,
+  "title": "depositions.\""
+ },
+ {
+  "id": "be-it-enacted-by-the-legislature-of-the-state-of-alaska-16",
+  "level": 4,
+  "title": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "either-party-upon-notice-as-provided-in-b-of-this-rule-and-u",
+  "level": 4,
+  "title": "either party, upon notice as provided in (b) of this rule and upon motion filed"
+ },
+ {
+  "id": "with-the-court-if-the-court-finds-by-clear-and-convincing-ev",
+  "level": 4,
+  "title": "with the court if the court finds by clear and convincing evidence that (1) the"
+ },
+ {
+  "id": "witness-will-not-be-present-to-testify-at-trial-or-2-due-to-",
+  "level": 4,
+  "title": "witness will not be present to testify at trial; or (2) due to exceptional"
+ },
+ {
+  "id": "circumstances-the-deposition-is-necessary-to-prevent-a-failu",
+  "level": 4,
+  "title": "circumstances, the deposition is necessary to prevent a failure of justice [UPON"
+ },
+ {
+  "id": "and-shall-apply-a-presumption-against-granting-a-deposition-",
+  "level": 4,
+  "title": "and shall apply a presumption against granting a deposition under (a)(2) of this"
+ },
+ {
+  "id": "rule-if-in-regard-to-that-action-the-witness-has-testified-b",
+  "level": 4,
+  "title": "rule if, in regard to that action, the witness has testified before the grand jury or"
+ },
+ {
+  "id": "in-a-prior-court-proceeding-or-has-given-a-recorded-statemen",
+  "level": 4,
+  "title": "in a prior court proceeding, or has given a recorded statement to a law"
+ },
+ {
+  "id": "enforcement-agency-and-the-moving-party-had-the-opportunity-",
+  "level": 4,
+  "title": "enforcement agency and the moving party had the opportunity to obtain such a"
+ },
+ {
+  "id": "recorded-in-the-same-manner-as-other-closed-court-proceeding",
+  "level": 4,
+  "title": "recorded in the same manner as other closed court proceedings. This rule does"
+ },
+ {
+  "id": "not-preclude-a-party-from-also-recording-the-deposition-by-o",
+  "level": 4,
+  "title": "not preclude a party from also recording the deposition by other means approved"
+ },
+ {
+  "id": "a-bill-16",
+  "level": 4,
+  "title": "A BILL"
+ },
+ {
+  "id": "for-an-act-entitled-16",
+  "level": 4,
+  "title": "FOR AN ACT ENTITLED"
+ },
+ {
+  "id": "an-act-providing-for-and-relating-to-the-issuance-of-general",
+  "level": 4,
+  "title": "\"An Act providing for and relating to the issuance of general obligation bonds for the"
+ },
+ {
+  "id": "purpose-of-paying-the-cost-of-_____________________________-",
+  "level": 4,
+  "title": "purpose of paying the cost of _____________________________; and providing for an"
+ },
+ {
+  "id": "effective-date",
+  "level": 4,
+  "title": "effective date.\""
+ },
+ {
+  "id": "be-it-enacted-by-the-legislature-of-the-state-of-alaska-17",
+  "level": 4,
+  "title": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "house-resolution-no-4",
+  "level": 4,
+  "title": "HOUSE RESOLUTION NO. 4"
+ },
+ {
+  "id": "a-resolution-2",
+  "level": 4,
+  "title": "A RESOLUTION"
+ },
+ {
+  "id": "be-it-resolved-by-the-house-of-representatives",
+  "level": 4,
+  "title": "BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES:"
+ },
+ {
+  "id": "house-concurrent-resolution-no-11-am-s",
+  "level": 4,
+  "title": "HOUSE CONCURRENT RESOLUTION NO. 11 am S"
+ },
+ {
+  "id": "a-resolution-3",
+  "level": 4,
+  "title": "A RESOLUTION"
+ },
+ {
+  "id": "relating-to-records-generated-and-maintained-by-the-departme",
+  "level": 4,
+  "title": "Relating to records generated and maintained by the Department of Family and"
+ },
+ {
+  "id": "be-it-resolved-by-the-legislature-of-the-state-of-alaska-2",
+  "level": 4,
+  "title": "BE IT RESOLVED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "senate-special-concurrent-resolution-no-1",
+  "level": 4,
+  "title": "SENATE SPECIAL CONCURRENT RESOLUTION NO. 1"
+ },
+ {
+  "id": "a-resolution-4",
+  "level": 4,
+  "title": "A RESOLUTION"
+ },
+ {
+  "id": "be-it-resolved-by-the-legislature-of-the-state-of-alaska-3",
+  "level": 4,
+  "title": "BE IT RESOLVED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "cs-for-senate-joint-resolution-no-42-fin",
+  "level": 4,
+  "title": "CS FOR SENATE JOINT RESOLUTION NO. 42(FIN)"
+ },
+ {
+  "id": "a-resolution-5",
+  "level": 4,
+  "title": "A RESOLUTION"
+ },
+ {
+  "id": "urging-the-united-states-congress-to-amend-the-internal-reve",
+  "level": 4,
+  "title": "Urging the United States Congress to amend the Internal Revenue Code of 1986 to"
+ },
+ {
+  "id": "eliminate-the-marriage-penalty-by-providing-that-income-tax-",
+  "level": 4,
+  "title": "eliminate the marriage penalty by providing that income tax rate bracket amounts, and"
+ },
+ {
+  "id": "the-amount-of-the-standard-deduction-for-joint-returns-shall",
+  "level": 4,
+  "title": "the amount of the standard deduction, for joint returns shall be twice the amounts"
+ },
+ {
+  "id": "be-it-resolved-by-the-legislature-of-the-state-of-alaska-4",
+  "level": 4,
+  "title": "BE IT RESOLVED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "house-joint-resolution-no-19-am",
+  "level": 4,
+  "title": "HOUSE JOINT RESOLUTION NO. 19 am"
+ },
+ {
+  "id": "a-resolution-6",
+  "level": 4,
+  "title": "A RESOLUTION"
+ },
+ {
+  "id": "ratifying-an-amendment-to-the-constitution-of-the-united-sta",
+  "level": 4,
+  "title": "Ratifying an amendment to the Constitution of the United States concerning the"
+ },
+ {
+  "id": "be-it-resolved-by-the-legislature-of-the-state-of-alaska-5",
+  "level": 4,
+  "title": "BE IT RESOLVED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "senate-joint-resolution-no-9",
+  "level": 4,
+  "title": "SENATE JOINT RESOLUTION NO. 9"
+ },
+ {
+  "id": "a-resolution-7",
+  "level": 4,
+  "title": "A RESOLUTION"
+ },
+ {
+  "id": "proposing-amendments-to-the-constitution-of-the-state-of-ala",
+  "level": 4,
+  "title": "Proposing amendments to the Constitution of the State of Alaska relating to and limiting"
+ },
+ {
+  "id": "appropriations-from-the-alaska-permanent-fund-based-on-an-av",
+  "level": 4,
+  "title": "appropriations from the Alaska permanent fund based on an averaged percent of the"
+ },
+ {
+  "id": "fund-market-value-to-protect-the-fund-from-inflation-and-ens",
+  "level": 4,
+  "title": "fund market value to protect the fund from inflation and ensure that the real value of"
+ },
+ {
+  "id": "be-it-resolved-by-the-legislature-of-the-state-of-alaska-6",
+  "level": 4,
+  "title": "BE IT RESOLVED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "house-cs-for-senate-joint-resolution-no-11-jud",
+  "level": 4,
+  "title": "HOUSE CS FOR SENATE JOINT RESOLUTION NO. 11(JUD)"
+ },
+ {
+  "id": "a-resolution-8",
+  "level": 4,
+  "title": "A RESOLUTION"
+ },
+ {
+  "id": "proposing-an-amendment-to-the-constitution-of-the-state-of-a",
+  "level": 4,
+  "title": "Proposing an amendment to the Constitution of the State of Alaska relating to the"
+ },
+ {
+  "id": "be-it-resolved-by-the-legislature-of-the-state-of-alaska-7",
+  "level": 4,
+  "title": "BE IT RESOLVED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "house-cs-for-senate-joint-resolution-no-68-jud",
+  "level": 4,
+  "title": "HOUSE CS FOR SENATE JOINT RESOLUTION NO. 68(JUD)"
+ },
+ {
+  "id": "a-resolution-9",
+  "level": 4,
+  "title": "A RESOLUTION"
+ },
+ {
+  "id": "proposing-an-amendment-to-the-constitution-of-the-state-of-a-2",
+  "level": 4,
+  "title": "Proposing an amendment to the Constitution of the State of Alaska limiting the rights of"
+ },
+ {
+  "id": "be-it-resolved-by-the-legislature-of-the-state-of-alaska-8",
+  "level": 4,
+  "title": "BE IT RESOLVED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "senate-concurrent-resolution-no-8",
+  "level": 4,
+  "title": "SENATE CONCURRENT RESOLUTION NO. 8"
+ },
+ {
+  "id": "a-resolution-10",
+  "level": 4,
+  "title": "A RESOLUTION"
+ },
+ {
+  "id": "be-it-resolved-by-the-legislature-of-the-state-of-alaska-9",
+  "level": 4,
+  "title": "BE IT RESOLVED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "house-concurrent-resolution-no-62",
+  "level": 4,
+  "title": "HOUSE CONCURRENT RESOLUTION NO. 62"
+ },
+ {
+  "id": "a-resolution-11",
+  "level": 4,
+  "title": "A RESOLUTION"
+ },
+ {
+  "id": "suspending-rules-24-c-35-41-b-and-42-e-uniform-rules-of-the-",
+  "level": 4,
+  "title": "Suspending Rules 24(c), 35, 41(b), and 42(e), Uniform Rules of the Alaska State"
+ },
+ {
+  "id": "legislature-concerning-senate-joint-resolution-no-27-proposi",
+  "level": 4,
+  "title": "Legislature, concerning Senate Joint Resolution No. 27, proposing an amendment to the"
+ },
+ {
+  "id": "constitution-of-the-state-of-alaska-concerning-revisions-of-",
+  "level": 4,
+  "title": "Constitution of the State of Alaska concerning revisions of the state constitution and a"
+ },
+ {
+  "id": "be-it-resolved-by-the-legislature-of-the-state-of-alaska-10",
+  "level": 4,
+  "title": "BE IT RESOLVED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "a-m-e-n-d-m-e-n-t",
+  "level": 4,
+  "title": "A M E N D M E N T"
+ },
+ {
+  "id": "sec-18-65-248-employment-of-correctional-probation-and-parol",
+  "level": 4,
+  "title": "Sec. 18.65.248. Employment of correctional, probation, and parole"
+ },
+ {
+  "id": "laws-of-alaska",
+  "level": 2,
+  "title": "LAWS OF ALASKA"
+ },
+ {
+  "id": "2010",
+  "level": 2,
+  "title": "2010"
+ },
+ {
+  "id": "an-act",
+  "level": 4,
+  "title": "AN ACT"
+ },
+ {
+  "id": "be-it-enacted-by-the-legislature-of-the-state-of-alaska-18",
+  "level": 4,
+  "title": "BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "an-act-2",
+  "level": 4,
+  "title": "AN ACT"
+ },
+ {
+  "id": "s-t-a-t-e-o-f-a-l-a-s-k-a-the-legislature",
+  "level": 2,
+  "title": "S T A T E O F A L A S K A THE LEGISLATURE"
+ },
+ {
+  "id": "2016",
+  "level": 2,
+  "title": "2016"
+ },
+ {
+  "id": "legislative",
+  "level": 4,
+  "title": "Legislative"
+ },
+ {
+  "id": "be-it-resolved-by-the-legislature-of-the-state-of-alaska-11",
+  "level": 4,
+  "title": "BE IT RESOLVED BY THE LEGISLATURE OF THE STATE OF ALASKA:"
+ },
+ {
+  "id": "fiscal-note",
+  "level": 2,
+  "title": "FISCAL NOTE"
+ },
+ {
+  "id": "order-of-bill-sections-2",
+  "level": 4,
+  "title": "ORDER OF BILL SECTIONS"
+ },
+ {
+  "id": "drafting-and-research-checklist",
+  "level": 4,
+  "title": "DRAFTING AND RESEARCH CHECKLIST"
+ },
+ {
+  "id": "table-of-cases-cited",
+  "level": 4,
+  "title": "TABLE OF CASES CITED"
+ },
+ {
+  "id": "i-n-d-e-x",
+  "level": 4,
+  "title": "I N D E X"
+ }
+]

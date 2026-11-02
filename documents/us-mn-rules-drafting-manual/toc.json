@@ -1,0 +1,1232 @@
+[
+ {
+  "id": "minnesota-rules-drafting-manual-with-styles-and-forms",
+  "level": 2,
+  "title": "MINNESOTA RULES Drafting Manual with Styles and Forms"
+ },
+ {
+  "id": "minnesota-rules-drafting-manual-with-styles-and-forms-2",
+  "level": 2,
+  "title": "MINNESOTA RULES Drafting Manual with Styles and Forms"
+ },
+ {
+  "id": "published-by",
+  "level": 3,
+  "title": "Published by"
+ },
+ {
+  "id": "the-office-of-the-revisor-of-statutes-st-paul-minnesota",
+  "level": 3,
+  "title": "The Office of the Revisor of Statutes St. Paul, Minnesota"
+ },
+ {
+  "id": "1997-by-the-office-of-the-revisor-of-statutes-state-of-minne",
+  "level": 3,
+  "title": "©1997 by the Office of the Revisor of Statutes, State of Minnesota."
+ },
+ {
+  "id": "table-of-contents",
+  "level": 2,
+  "title": "TABLE OF CONTENTS"
+ },
+ {
+  "id": "introduction",
+  "level": 3,
+  "title": "INTRODUCTION"
+ },
+ {
+  "id": "1-things-to-know-before-you-start-to-draft",
+  "level": 3,
+  "title": "1 THINGS TO KNOW BEFORE YOU START TO DRAFT"
+ },
+ {
+  "id": "2-the-form-of-rules",
+  "level": 3,
+  "title": "2 THE FORM OF RULES"
+ },
+ {
+  "id": "3-readability-in-drafting",
+  "level": 3,
+  "title": "3 READABILITY IN DRAFTING"
+ },
+ {
+  "id": "4-forms-of-reference",
+  "level": 3,
+  "title": "4 FORMS OF REFERENCE"
+ },
+ {
+  "id": "5-tables-illustrations-and-other-special-materials",
+  "level": 3,
+  "title": "5 TABLES, ILLUSTRATIONS, AND OTHER SPECIAL MATERIALS"
+ },
+ {
+  "id": "6-exempt-rules-81",
+  "level": 3,
+  "title": "6 EXEMPT RULES............................................................................................................. 81"
+ },
+ {
+  "id": "7-adoptions-modifications-and-withdrawals",
+  "level": 3,
+  "title": "7 ADOPTIONS, MODIFICATIONS, AND WITHDRAWALS"
+ },
+ {
+  "id": "8-quick-drafting-aids",
+  "level": 3,
+  "title": "8 QUICK DRAFTING AIDS"
+ },
+ {
+  "id": "9-frequently-asked-questions-about-rulemaking-108",
+  "level": 3,
+  "title": "9 FREQUENTLY ASKED QUESTIONS ABOUT RULEMAKING ........... 108"
+ },
+ {
+  "id": "10-a-guide-to-the-law-about-rulemaking-111",
+  "level": 3,
+  "title": "10 A GUIDE TO THE LAW ABOUT RULEMAKING ...................................... 111"
+ },
+ {
+  "id": "introduction-2",
+  "level": 2,
+  "title": "INTRODUCTION"
+ },
+ {
+  "id": "two-rulemaking-tools-manuals-and-guide",
+  "level": 3,
+  "title": "Two Rulemaking Tools: Manuals and Guide"
+ },
+ {
+  "id": "agencies-not-bound-by-the-administrative-procedure-act",
+  "level": 3,
+  "title": "Agencies Not Bound by the Administrative Procedure Act"
+ },
+ {
+  "id": "a-word-about-notices",
+  "level": 3,
+  "title": "A Word About Notices"
+ },
+ {
+  "id": "1-things-to-know-before-you-start-to-draft-2",
+  "level": 2,
+  "title": "1 THINGS TO KNOW BEFORE YOU START TO DRAFT"
+ },
+ {
+  "id": "know-what-a-rule-is",
+  "level": 3,
+  "title": "Know What a Rule Is"
+ },
+ {
+  "id": "know-the-law-that-provides-your-statutory-authority",
+  "level": 3,
+  "title": "Know the Law that Provides Your Statutory Authority"
+ },
+ {
+  "id": "know-the-laws-that-determine-how-your-rule-will-be-read",
+  "level": 3,
+  "title": "Know the Laws that Determine How Your Rule Will Be Read"
+ },
+ {
+  "id": "basic-concepts",
+  "level": 4,
+  "title": "Basic Concepts"
+ },
+ {
+  "id": "definitions",
+  "level": 4,
+  "title": "Definitions"
+ },
+ {
+  "id": "rules-of-construction",
+  "level": 4,
+  "title": "Rules of Construction"
+ },
+ {
+  "id": "know-the-common-problems-of-construction",
+  "level": 3,
+  "title": "Know the Common Problems of Construction"
+ },
+ {
+  "id": "what-makes-a-law-unclear",
+  "level": 4,
+  "title": "What Makes a Law Unclear?"
+ },
+ {
+  "id": "language-related-canons-of-construction",
+  "level": 4,
+  "title": "Language-related Canons of Construction"
+ },
+ {
+  "id": "be-aware-of-the-problem-of-unacceptable-discretion",
+  "level": 3,
+  "title": "Be Aware of the Problem of Unacceptable Discretion"
+ },
+ {
+  "id": "weasel-words",
+  "level": 4,
+  "title": "Weasel Words"
+ },
+ {
+  "id": "may-and-discretion",
+  "level": 4,
+  "title": "May and Discretion"
+ },
+ {
+  "id": "permissible-discretion-limits-to-specificity",
+  "level": 4,
+  "title": "Permissible Discretion, Limits to Specificity"
+ },
+ {
+  "id": "legal-questions-and-the-revisor-s-review",
+  "level": 4,
+  "title": "Legal Questions and the Revisor's Review"
+ },
+ {
+  "id": "2-the-form-of-rules-2",
+  "level": 2,
+  "title": "2 THE FORM OF RULES"
+ },
+ {
+  "id": "finding-the-current-text-the-rules-publication-cycle",
+  "level": 3,
+  "title": "Finding the Current Text: The Rules Publication Cycle"
+ },
+ {
+  "id": "organizing-your-draft-elements-to-avoid",
+  "level": 3,
+  "title": "Organizing Your Draft: Elements to Avoid"
+ },
+ {
+  "id": "appendixes",
+  "level": 4,
+  "title": "Appendixes"
+ },
+ {
+  "id": "footnotes",
+  "level": 4,
+  "title": "Footnotes"
+ },
+ {
+  "id": "prefaces",
+  "level": 4,
+  "title": "Prefaces"
+ },
+ {
+  "id": "the-part-and-its-divisions",
+  "level": 3,
+  "title": "The Part and Its Divisions"
+ },
+ {
+  "id": "example-part-divided-into-subparts",
+  "level": 4,
+  "title": "Example: Part Divided into Subparts"
+ },
+ {
+  "id": "example-part-divided-directly-into-items",
+  "level": 4,
+  "title": "Example: Part Divided Directly into Items"
+ },
+ {
+  "id": "example-subpart-divided-into-items-and-subitems",
+  "level": 4,
+  "title": "Example: Subpart Divided into Items and Subitems"
+ },
+ {
+  "id": "devices-for-grouping-parts-centered-headings",
+  "level": 3,
+  "title": "Devices for Grouping Parts: Centered Headings"
+ },
+ {
+  "id": "general-format-of-rule-drafts",
+  "level": 3,
+  "title": "General Format of Rule Drafts"
+ },
+ {
+  "id": "striking-and-underscoring-text",
+  "level": 3,
+  "title": "Striking and Underscoring Text"
+ },
+ {
+  "id": "should-you-amend-or-repeal",
+  "level": 3,
+  "title": "Should You Amend or Repeal?"
+ },
+ {
+  "id": "term-changes",
+  "level": 3,
+  "title": "Term Changes"
+ },
+ {
+  "id": "preparing-copy-for-the-revisor-s-office",
+  "level": 3,
+  "title": "Preparing Copy for the Revisor's Office"
+ },
+ {
+  "id": "deciding-how-much-text-to-show",
+  "level": 3,
+  "title": "Deciding How Much Text to Show"
+ },
+ {
+  "id": "example-amendatory-rule-using-for-text-of-at-subpart-level",
+  "level": 4,
+  "title": "Example: Amendatory Rule Using [For text of] at Subpart Level"
+ },
+ {
+  "id": "example-amendatory-rule-using-for-text-of-at-item-level",
+  "level": 4,
+  "title": "Example: Amendatory Rule Using [For text of] at Item Level"
+ },
+ {
+  "id": "renumbering-or-relettering-instructions",
+  "level": 3,
+  "title": "Renumbering or Relettering Instructions"
+ },
+ {
+  "id": "example-different-methods-of-relettering",
+  "level": 4,
+  "title": "Example: Different Methods of Relettering"
+ },
+ {
+  "id": "example-relettering-with-a-relettering-instruction-at-end",
+  "level": 4,
+  "title": "Example: Relettering With a Relettering Instruction at End"
+ },
+ {
+  "id": "repealing-rules",
+  "level": 3,
+  "title": "Repealing Rules"
+ },
+ {
+  "id": "example-repealer-of-part-and-subpart",
+  "level": 4,
+  "title": "Example: Repealer of Part and Subpart"
+ },
+ {
+  "id": "checking-cross-references",
+  "level": 3,
+  "title": "Checking Cross-References"
+ },
+ {
+  "id": "amending-headnotes",
+  "level": 3,
+  "title": "Amending Headnotes"
+ },
+ {
+  "id": "changing-chapter-titles-and-centered-headings",
+  "level": 3,
+  "title": "Changing Chapter Titles and Centered Headings"
+ },
+ {
+  "id": "special-types-of-amendments",
+  "level": 3,
+  "title": "Special Types of Amendments"
+ },
+ {
+  "id": "submitting-the-rules-to-the-state-register",
+  "level": 3,
+  "title": "Submitting the Rules to the State Register"
+ },
+ {
+  "id": "example-rule-as-proposed",
+  "level": 4,
+  "title": "Example: Rule as Proposed"
+ },
+ {
+  "id": "example-adding-a-subpart",
+  "level": 4,
+  "title": "Example: Adding a Subpart"
+ },
+ {
+  "id": "example-draft-combining-new-and-amendatory-rules",
+  "level": 4,
+  "title": "Example: Draft Combining New and Amendatory Rules"
+ },
+ {
+  "id": "example-a-complete-draft-of-proposed-rules",
+  "level": 4,
+  "title": "Example: A Complete Draft of Proposed Rules"
+ },
+ {
+  "id": "3-readability-in-drafting-2",
+  "level": 2,
+  "title": "3 READABILITY IN DRAFTING"
+ },
+ {
+  "id": "before-you-draft-identify-your-audience",
+  "level": 3,
+  "title": "Before You Draft, Identify Your Audience"
+ },
+ {
+  "id": "keep-the-rule-title-short-but-make-it-communicate",
+  "level": 3,
+  "title": "Keep the Rule Title Short, But Make it Communicate"
+ },
+ {
+  "id": "make-your-organization-clear-to-readers",
+  "level": 3,
+  "title": "Make Your Organization Clear to Readers"
+ },
+ {
+  "id": "avoid-some-common-headnote-problems",
+  "level": 3,
+  "title": "Avoid Some Common Headnote Problems"
+ },
+ {
+  "id": "try-organizing-a-draft-for-several-audiences",
+  "level": 3,
+  "title": "Try Organizing a Draft for Several Audiences"
+ },
+ {
+  "id": "keep-parts-and-subparts-short",
+  "level": 3,
+  "title": "Keep Parts and Subparts Short"
+ },
+ {
+  "id": "take-care-with-definitions",
+  "level": 3,
+  "title": "Take Care with Definitions"
+ },
+ {
+  "id": "don-t-duplicate-statutory-language",
+  "level": 3,
+  "title": "Don't Duplicate Statutory Language"
+ },
+ {
+  "id": "don-t-vary-your-terms",
+  "level": 3,
+  "title": "Don't Vary Your Terms"
+ },
+ {
+  "id": "don-t-use-obsolete-or-vague-words-and-phrases",
+  "level": 3,
+  "title": "Don't Use Obsolete or Vague Words and Phrases"
+ },
+ {
+  "id": "don-t-use-use",
+  "level": 3,
+  "title": "Don't Use Use"
+ },
+ {
+  "id": "limit-your-use-of-shall",
+  "level": 3,
+  "title": "Limit Your Use of \"Shall\""
+ },
+ {
+  "id": "write-in-the-third-person",
+  "level": 3,
+  "title": "Write in the Third Person"
+ },
+ {
+  "id": "use-familiar-words",
+  "level": 3,
+  "title": "Use Familiar Words"
+ },
+ {
+  "id": "don-t-use-use-2",
+  "level": 3,
+  "title": "Don't Use Use"
+ },
+ {
+  "id": "replace-wordy-expressions-with-shorter-substitutes",
+  "level": 3,
+  "title": "Replace Wordy Expressions With Shorter Substitutes"
+ },
+ {
+  "id": "don-t-use-use-3",
+  "level": 3,
+  "title": "Don't Use Use"
+ },
+ {
+  "id": "avoid-nominal-style",
+  "level": 3,
+  "title": "Avoid Nominal Style"
+ },
+ {
+  "id": "don-t-use-use-4",
+  "level": 3,
+  "title": "Don't Use Use"
+ },
+ {
+  "id": "avoid-creating-jargon",
+  "level": 3,
+  "title": "Avoid Creating Jargon"
+ },
+ {
+  "id": "avoid-strings-of-nouns-and-adjectives",
+  "level": 3,
+  "title": "Avoid Strings of Nouns and Adjectives"
+ },
+ {
+  "id": "don-t-use-use-5",
+  "level": 3,
+  "title": "Don't Use Use"
+ },
+ {
+  "id": "avoid-strings-of-initials",
+  "level": 3,
+  "title": "Avoid Strings of Initials"
+ },
+ {
+  "id": "be-on-guard-against-euphemisms",
+  "level": 3,
+  "title": "Be On Guard Against Euphemisms"
+ },
+ {
+  "id": "don-t-try-to-squeeze-everything-into-one-sentence",
+  "level": 3,
+  "title": "Don't Try to Squeeze Everything into One Sentence"
+ },
+ {
+  "id": "put-the-subject-up-front-and-make-it-a-person",
+  "level": 3,
+  "title": "Put the Subject Up Front and Make it a Person"
+ },
+ {
+  "id": "don-t-use-which-noun",
+  "level": 3,
+  "title": "Don't Use \"Which + Noun\""
+ },
+ {
+  "id": "keep-the-parts-of-a-verb-close-together",
+  "level": 3,
+  "title": "Keep the Parts of a Verb Close Together"
+ },
+ {
+  "id": "never-use-the-passive-when-you-can-use-the-active",
+  "level": 3,
+  "title": "Never Use the Passive When You Can Use the Active"
+ },
+ {
+  "id": "cut-needless-words",
+  "level": 3,
+  "title": "Cut Needless Words"
+ },
+ {
+  "id": "don-t-use-use-6",
+  "level": 3,
+  "title": "Don't Use Use"
+ },
+ {
+  "id": "put-modifiers-near-the-things-they-modify",
+  "level": 3,
+  "title": "Put Modifiers Near the Things They Modify"
+ },
+ {
+  "id": "limit-your-use-of-parentheses",
+  "level": 3,
+  "title": "Limit Your Use of Parentheses"
+ },
+ {
+  "id": "write-paragraphs-not-outlines",
+  "level": 3,
+  "title": "Write Paragraphs, Not Outlines"
+ },
+ {
+  "id": "be-careful-with-lists",
+  "level": 3,
+  "title": "Be Careful with Lists"
+ },
+ {
+  "id": "example",
+  "level": 4,
+  "title": "Example:"
+ },
+ {
+  "id": "example-2",
+  "level": 4,
+  "title": "Example:"
+ },
+ {
+  "id": "example-3",
+  "level": 4,
+  "title": "Example:"
+ },
+ {
+  "id": "example-4",
+  "level": 4,
+  "title": "Example:"
+ },
+ {
+  "id": "example-5",
+  "level": 4,
+  "title": "Example:"
+ },
+ {
+  "id": "example-6",
+  "level": 4,
+  "title": "Example:"
+ },
+ {
+  "id": "example-7",
+  "level": 4,
+  "title": "Example:"
+ },
+ {
+  "id": "some-special-problems-with-lists",
+  "level": 3,
+  "title": "Some Special Problems with Lists"
+ },
+ {
+  "id": "state-conditions-clearly",
+  "level": 3,
+  "title": "State Conditions Clearly"
+ },
+ {
+  "id": "example-8",
+  "level": 4,
+  "title": "Example:"
+ },
+ {
+  "id": "example-9",
+  "level": 4,
+  "title": "Example:"
+ },
+ {
+  "id": "example-10",
+  "level": 4,
+  "title": "Example:"
+ },
+ {
+  "id": "avoid-provisos",
+  "level": 3,
+  "title": "Avoid Provisos"
+ },
+ {
+  "id": "example-an-unnecessary-provided-that",
+  "level": 4,
+  "title": "Example: (an unnecessary provided that)"
+ },
+ {
+  "id": "example-a-clearer-version-without-such-nominal-style-or-prov",
+  "level": 4,
+  "title": "Example: (a clearer version, without such, nominal style, or provided that)"
+ },
+ {
+  "id": "keep-parallel-ideas-in-parallel-form",
+  "level": 3,
+  "title": "Keep Parallel Ideas in Parallel Form"
+ },
+ {
+  "id": "example-11",
+  "level": 4,
+  "title": "Example:"
+ },
+ {
+  "id": "untangle-computations",
+  "level": 3,
+  "title": "Untangle Computations"
+ },
+ {
+  "id": "avoid-gender-specific-language-without-sacrificing-clarity",
+  "level": 3,
+  "title": "Avoid Gender-Specific Language Without Sacrificing Clarity"
+ },
+ {
+  "id": "don-t-use-use-7",
+  "level": 3,
+  "title": "Don't Use Use"
+ },
+ {
+  "id": "don-t-draft-what-you-don-t-need",
+  "level": 3,
+  "title": "Don't Draft What You Don't Need"
+ },
+ {
+  "id": "citations-or-short-titles",
+  "level": 4,
+  "title": "Citations or Short Titles"
+ },
+ {
+  "id": "cross-references",
+  "level": 4,
+  "title": "Cross-References"
+ },
+ {
+  "id": "effective-dates",
+  "level": 4,
+  "title": "Effective Dates"
+ },
+ {
+  "id": "interpretation-clauses",
+  "level": 4,
+  "title": "Interpretation Clauses"
+ },
+ {
+  "id": "repeals",
+  "level": 4,
+  "title": "Repeals"
+ },
+ {
+  "id": "severability-clauses",
+  "level": 4,
+  "title": "Severability Clauses"
+ },
+ {
+  "id": "statements-of-policy-and-purpose",
+  "level": 4,
+  "title": "Statements of Policy and Purpose"
+ },
+ {
+  "id": "statutory-authority-statements",
+  "level": 4,
+  "title": "Statutory Authority Statements"
+ },
+ {
+  "id": "superseding-phrases",
+  "level": 4,
+  "title": "Superseding Phrases"
+ },
+ {
+  "id": "tables-of-contents",
+  "level": 4,
+  "title": "Tables of Contents"
+ },
+ {
+  "id": "composing-amendments",
+  "level": 3,
+  "title": "Composing Amendments"
+ },
+ {
+  "id": "housekeeping-changes",
+  "level": 3,
+  "title": "Housekeeping Changes"
+ },
+ {
+  "id": "get-a-second-opinion",
+  "level": 3,
+  "title": "Get A Second Opinion"
+ },
+ {
+  "id": "4-forms-of-reference-2",
+  "level": 2,
+  "title": "4 FORMS OF REFERENCE"
+ },
+ {
+  "id": "references-to-rules-in-other-rules",
+  "level": 3,
+  "title": "References to Rules in Other Rules"
+ },
+ {
+  "id": "citing-rules-in-statutes",
+  "level": 3,
+  "title": "Citing Rules in Statutes"
+ },
+ {
+  "id": "short-citation-forms-for-case-materials",
+  "level": 3,
+  "title": "Short Citation Forms for Case Materials"
+ },
+ {
+  "id": "example-internal-references-to-minnesota-rules",
+  "level": 3,
+  "title": "Example: Internal References to Minnesota Rules"
+ },
+ {
+  "id": "citing-minnesota-statutes-in-rules",
+  "level": 3,
+  "title": "Citing Minnesota Statutes in Rules"
+ },
+ {
+  "id": "citing-laws-of-minnesota-in-rules",
+  "level": 3,
+  "title": "Citing Laws of Minnesota in Rules"
+ },
+ {
+  "id": "citing-federal-laws-in-rules",
+  "level": 3,
+  "title": "Citing Federal Laws in Rules"
+ },
+ {
+  "id": "citing-federal-regulations-in-rules",
+  "level": 3,
+  "title": "Citing Federal Regulations in Rules"
+ },
+ {
+  "id": "citing-safety-standards-in-rules",
+  "level": 3,
+  "title": "Citing Safety Standards in Rules"
+ },
+ {
+  "id": "first-references",
+  "level": 3,
+  "title": "First References"
+ },
+ {
+  "id": "second-and-later-references",
+  "level": 3,
+  "title": "Second and Later References"
+ },
+ {
+  "id": "deciding-which-format-to-cite",
+  "level": 3,
+  "title": "Deciding Which Format to Cite"
+ },
+ {
+  "id": "incorporations-by-reference",
+  "level": 3,
+  "title": "Incorporations by Reference"
+ },
+ {
+  "id": "incorporating-other-rules",
+  "level": 3,
+  "title": "Incorporating Other Rules"
+ },
+ {
+  "id": "example-12",
+  "level": 4,
+  "title": "Example:"
+ },
+ {
+  "id": "incorporations-and-specificity",
+  "level": 3,
+  "title": "Incorporations and Specificity"
+ },
+ {
+  "id": "editions-dates-and-future-amendments",
+  "level": 3,
+  "title": "Editions, Dates, and Future Amendments"
+ },
+ {
+  "id": "amending-documents-incorporated-by-reference",
+  "level": 3,
+  "title": "Amending Documents Incorporated by Reference"
+ },
+ {
+  "id": "example-amending-a-document-incorporated-by-reference",
+  "level": 4,
+  "title": "Example: Amending a Document Incorporated by Reference"
+ },
+ {
+  "id": "section",
+  "level": 3,
+  "title": "* * *"
+ },
+ {
+  "id": "section-2",
+  "level": 3,
+  "title": "* * *"
+ },
+ {
+  "id": "section-3",
+  "level": 3,
+  "title": "* * *"
+ },
+ {
+  "id": "section-4",
+  "level": 3,
+  "title": "* * *"
+ },
+ {
+  "id": "5-tables-illustrations-and-other-special-materials-2",
+  "level": 2,
+  "title": "5 TABLES, ILLUSTRATIONS, AND OTHER SPECIAL MATERIALS"
+ },
+ {
+  "id": "use-of-graphics",
+  "level": 3,
+  "title": "Use of Graphics"
+ },
+ {
+  "id": "making-materials-easy-to-cite",
+  "level": 3,
+  "title": "Making Materials Easy to Cite"
+ },
+ {
+  "id": "example-illustration-shown-as-a-subpart",
+  "level": 4,
+  "title": "Example: Illustration Shown as a Subpart"
+ },
+ {
+  "id": "designing-tables",
+  "level": 3,
+  "title": "Designing Tables"
+ },
+ {
+  "id": "example-fee-schedule-in-paragraph-form-preferred-form",
+  "level": 4,
+  "title": "Example: Fee Schedule in Paragraph Form (Preferred Form)"
+ },
+ {
+  "id": "example-table-shown-as-a-part",
+  "level": 4,
+  "title": "Example: Table Shown as a Part"
+ },
+ {
+  "id": "equations",
+  "level": 3,
+  "title": "Equations"
+ },
+ {
+  "id": "tagged-image-format-tif-encapsulated-postscript-eps",
+  "level": 4,
+  "title": " Tagged Image Format (.tif)  Encapsulated Postscript (.eps)"
+ },
+ {
+  "id": "forms",
+  "level": 3,
+  "title": "Forms"
+ },
+ {
+  "id": "example-rule-to-include-camera-ready-copy-of-form",
+  "level": 4,
+  "title": "Example: Rule to Include Camera-Ready Copy of Form"
+ },
+ {
+  "id": "7416-9940-minnesota-state-permit-to-acquire-handguns-from-fe",
+  "level": 4,
+  "title": "7416.9940 MINNESOTA STATE PERMIT TO ACQUIRE HANDGUNS FROM FEDERAL"
+ },
+ {
+  "id": "photographs-illustrations-charts-maps-and-designs",
+  "level": 3,
+  "title": "Photographs, Illustrations, Charts, Maps, and Designs"
+ },
+ {
+  "id": "requested-format-for-photographs-illustrations-charts-maps-a",
+  "level": 4,
+  "title": "Requested format for Photographs, Illustrations, Charts, Maps, and Designs: If an"
+ },
+ {
+  "id": "tagged-image-format-tif-encapsulated-postscript-eps-2",
+  "level": 4,
+  "title": " Tagged Image Format (.tif)  Encapsulated Postscript (.eps)"
+ },
+ {
+  "id": "summary-on-acceptable-requested-formats-camera-ready-copy",
+  "level": 3,
+  "title": "Summary on Acceptable Requested Formats Camera-Ready Copy"
+ },
+ {
+  "id": "electronic-formats",
+  "level": 3,
+  "title": "Electronic Formats"
+ },
+ {
+  "id": "6-exempt-rules",
+  "level": 2,
+  "title": "6 EXEMPT RULES"
+ },
+ {
+  "id": "example-a-complete-draft-of-exempt-rules",
+  "level": 4,
+  "title": "Example: A Complete Draft of Exempt Rules"
+ },
+ {
+  "id": "example-a-complete-draft-of-exempt-rules-2",
+  "level": 4,
+  "title": "Example: A Complete Draft of Exempt Rules"
+ },
+ {
+  "id": "7-adoptions-modifications-and-withdrawals-2",
+  "level": 2,
+  "title": "7 ADOPTIONS, MODIFICATIONS, AND WITHDRAWALS"
+ },
+ {
+  "id": "amendments-to-proposed-rules-before-adoption",
+  "level": 3,
+  "title": "Amendments to Proposed Rules Before Adoption"
+ },
+ {
+  "id": "example-proposed-amendment-to-rules-as-proposed",
+  "level": 4,
+  "title": "Example: Proposed Amendment to Rules as Proposed"
+ },
+ {
+  "id": "modifications",
+  "level": 3,
+  "title": "Modifications"
+ },
+ {
+  "id": "preparing-copy-of-adopted-rules",
+  "level": 3,
+  "title": "Preparing Copy of Adopted Rules"
+ },
+ {
+  "id": "example-notice-of-adoption-for-adopted-rules-without-modific",
+  "level": 4,
+  "title": "Example: Notice of Adoption for Adopted Rules without Modifications"
+ },
+ {
+  "id": "example-notice-of-adoption-for-adopted-rules-with-modificati",
+  "level": 4,
+  "title": "Example: Notice of Adoption for Adopted Rules with Modifications"
+ },
+ {
+  "id": "withdrawals-of-rules",
+  "level": 3,
+  "title": "Withdrawals of Rules"
+ },
+ {
+  "id": "example-modifications-including-rules-withdrawn-at-adoption-",
+  "level": 4,
+  "title": "Example: Modifications Including Rules Withdrawn at Adoption Stage"
+ },
+ {
+  "id": "8-quick-drafting-aids-2",
+  "level": 2,
+  "title": "8 QUICK DRAFTING AIDS"
+ },
+ {
+  "id": "abbreviations",
+  "level": 3,
+  "title": "Abbreviations"
+ },
+ {
+  "id": "addresses",
+  "level": 3,
+  "title": "Addresses"
+ },
+ {
+  "id": "apostrophes",
+  "level": 3,
+  "title": "Apostrophes"
+ },
+ {
+  "id": "brackets",
+  "level": 3,
+  "title": "Brackets"
+ },
+ {
+  "id": "capitalization",
+  "level": 3,
+  "title": "Capitalization"
+ },
+ {
+  "id": "captions",
+  "level": 3,
+  "title": "Captions"
+ },
+ {
+  "id": "charts",
+  "level": 3,
+  "title": "Charts"
+ },
+ {
+  "id": "citations",
+  "level": 3,
+  "title": "Citations"
+ },
+ {
+  "id": "coding",
+  "level": 3,
+  "title": "Coding"
+ },
+ {
+  "id": "colons",
+  "level": 3,
+  "title": "Colons"
+ },
+ {
+  "id": "commas",
+  "level": 3,
+  "title": "Commas"
+ },
+ {
+  "id": "compound-words",
+  "level": 3,
+  "title": "Compound Words"
+ },
+ {
+  "id": "contractions",
+  "level": 3,
+  "title": "Contractions"
+ },
+ {
+  "id": "dashes",
+  "level": 3,
+  "title": "Dashes"
+ },
+ {
+  "id": "dates",
+  "level": 3,
+  "title": "Dates"
+ },
+ {
+  "id": "definitions-2",
+  "level": 3,
+  "title": "Definitions"
+ },
+ {
+  "id": "forms-2",
+  "level": 3,
+  "title": "Forms"
+ },
+ {
+  "id": "fractions",
+  "level": 3,
+  "title": "Fractions"
+ },
+ {
+  "id": "hyphens",
+  "level": 3,
+  "title": "Hyphens"
+ },
+ {
+  "id": "illustrations",
+  "level": 3,
+  "title": "Illustrations"
+ },
+ {
+  "id": "initials",
+  "level": 3,
+  "title": "Initials"
+ },
+ {
+  "id": "italics",
+  "level": 3,
+  "title": "Italics"
+ },
+ {
+  "id": "item",
+  "level": 3,
+  "title": "Item"
+ },
+ {
+  "id": "maps",
+  "level": 3,
+  "title": "Maps"
+ },
+ {
+  "id": "measurements",
+  "level": 3,
+  "title": "Measurements"
+ },
+ {
+  "id": "money",
+  "level": 3,
+  "title": "Money"
+ },
+ {
+  "id": "numbers",
+  "level": 3,
+  "title": "Numbers"
+ },
+ {
+  "id": "official-titles",
+  "level": 3,
+  "title": "Official Titles"
+ },
+ {
+  "id": "parentheses",
+  "level": 3,
+  "title": "Parentheses"
+ },
+ {
+  "id": "part",
+  "level": 3,
+  "title": "Part"
+ },
+ {
+  "id": "percentages",
+  "level": 3,
+  "title": "Percentages"
+ },
+ {
+  "id": "periods",
+  "level": 3,
+  "title": "Periods"
+ },
+ {
+  "id": "photographs",
+  "level": 3,
+  "title": "Photographs"
+ },
+ {
+  "id": "punctuation",
+  "level": 3,
+  "title": "Punctuation"
+ },
+ {
+  "id": "quotation-marks",
+  "level": 3,
+  "title": "Quotation Marks"
+ },
+ {
+  "id": "semicolons",
+  "level": 3,
+  "title": "Semicolons"
+ },
+ {
+  "id": "slashes",
+  "level": 3,
+  "title": "Slashes"
+ },
+ {
+  "id": "spelling",
+  "level": 3,
+  "title": "Spelling"
+ },
+ {
+  "id": "strikeouts",
+  "level": 3,
+  "title": "Strikeouts"
+ },
+ {
+  "id": "subitem",
+  "level": 3,
+  "title": "Subitem"
+ },
+ {
+  "id": "subpart",
+  "level": 3,
+  "title": "Subpart"
+ },
+ {
+  "id": "subunit",
+  "level": 3,
+  "title": "Subunit"
+ },
+ {
+  "id": "symbols",
+  "level": 3,
+  "title": "Symbols"
+ },
+ {
+  "id": "tables",
+  "level": 3,
+  "title": "Tables"
+ },
+ {
+  "id": "temperature",
+  "level": 3,
+  "title": "Temperature"
+ },
+ {
+  "id": "time-of-day",
+  "level": 3,
+  "title": "Time of Day"
+ },
+ {
+  "id": "underscoring",
+  "level": 3,
+  "title": "Underscoring"
+ },
+ {
+  "id": "unit",
+  "level": 3,
+  "title": "Unit"
+ },
+ {
+  "id": "word-division",
+  "level": 3,
+  "title": "Word Division"
+ },
+ {
+  "id": "9-frequently-asked-questions-about-rulemaking",
+  "level": 2,
+  "title": "9 FREQUENTLY ASKED QUESTIONS ABOUT RULEMAKING"
+ },
+ {
+  "id": "10-a-guide-to-the-law-about-rulemaking",
+  "level": 2,
+  "title": "10 A GUIDE TO THE LAW ABOUT RULEMAKING"
+ },
+ {
+  "id": "bibliography",
+  "level": 2,
+  "title": "BIBLIOGRAPHY"
+ },
+ {
+  "id": "index",
+  "level": 2,
+  "title": "INDEX"
+ }
+]

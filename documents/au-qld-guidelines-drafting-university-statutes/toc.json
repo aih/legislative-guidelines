@@ -1,0 +1,882 @@
+[
+ {
+  "id": "guidelines-issued-under-legislative-standards-act-1992-guide",
+  "level": 4,
+  "title": "Guidelines issued under Legislative Standards Act 1992 Guidelines issued under Legislative Standards Act 1992"
+ },
+ {
+  "id": "guidelines-for-drafting-university-statutes",
+  "level": 3,
+  "title": "Guidelines for drafting university statutes"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 4,
+  "title": "Table of contents"
+ },
+ {
+  "id": "chapter-1-introduction-to-guidelines",
+  "level": 3,
+  "title": "Chapter 1: Introduction to guidelines"
+ },
+ {
+  "id": "background-information",
+  "level": 4,
+  "title": "Background information"
+ },
+ {
+  "id": "chapter-1-introduction-to-guidelines-2",
+  "level": 3,
+  "title": "Chapter 1: Introduction to guidelines"
+ },
+ {
+  "id": "background-information-2",
+  "level": 4,
+  "title": "Background information"
+ },
+ {
+  "id": "purpose-of-guidelines-purpose-of-guidelines",
+  "level": 4,
+  "title": "Purpose of guidelines Purpose of guidelines"
+ },
+ {
+  "id": "other-relevant-documents",
+  "level": 4,
+  "title": "Other relevant documents"
+ },
+ {
+  "id": "other-relevant-documents-2",
+  "level": 4,
+  "title": "Other relevant documents"
+ },
+ {
+  "id": "structure-of-guidelines",
+  "level": 4,
+  "title": "Structure of guidelines"
+ },
+ {
+  "id": "chapter-2-effective-communication",
+  "level": 3,
+  "title": "Chapter 2: Effective communication"
+ },
+ {
+  "id": "scope",
+  "level": 4,
+  "title": "Scope"
+ },
+ {
+  "id": "chapter-2-effective-communication-2",
+  "level": 3,
+  "title": "Chapter 2: Effective communication"
+ },
+ {
+  "id": "scope-2",
+  "level": 4,
+  "title": "Scope"
+ },
+ {
+  "id": "plain-english",
+  "level": 4,
+  "title": "Plain English"
+ },
+ {
+  "id": "suggested-texts",
+  "level": 4,
+  "title": "Suggested texts"
+ },
+ {
+  "id": "readable-and-understandable-statutes",
+  "level": 4,
+  "title": "Readable and understandable statutes"
+ },
+ {
+  "id": "readable-and-understandable-statutes-2",
+  "level": 4,
+  "title": "Readable and understandable statutes"
+ },
+ {
+  "id": "structure",
+  "level": 4,
+  "title": "Structure"
+ },
+ {
+  "id": "content-and-language",
+  "level": 4,
+  "title": "Content and language"
+ },
+ {
+  "id": "content-and-language-2",
+  "level": 4,
+  "title": "Content and language"
+ },
+ {
+  "id": "presentation",
+  "level": 4,
+  "title": "Presentation"
+ },
+ {
+  "id": "presentation-2",
+  "level": 4,
+  "title": "Presentation"
+ },
+ {
+  "id": "chapter-3-guidelines-about-relationship-with-act",
+  "level": 3,
+  "title": "Chapter 3: Guidelines about relationship with Act"
+ },
+ {
+  "id": "scope-3",
+  "level": 4,
+  "title": "Scope"
+ },
+ {
+  "id": "chapter-3-guidelines-about-relationship-with-act-2",
+  "level": 3,
+  "title": "Chapter 3: Guidelines about relationship with Act"
+ },
+ {
+  "id": "scope-4",
+  "level": 4,
+  "title": "Scope"
+ },
+ {
+  "id": "consistency-with-act",
+  "level": 4,
+  "title": "Consistency with Act"
+ },
+ {
+  "id": "chapter-4-format-and-printing-style",
+  "level": 3,
+  "title": "Chapter 4: Format and printing style"
+ },
+ {
+  "id": "chapter-4-format-and-printing-style-2",
+  "level": 3,
+  "title": "Chapter 4: Format and printing style"
+ },
+ {
+  "id": "scope-5",
+  "level": 4,
+  "title": "Scope"
+ },
+ {
+  "id": "format-and-printing-style",
+  "level": 4,
+  "title": "Format and printing style"
+ },
+ {
+  "id": "chapter-5-structure",
+  "level": 3,
+  "title": "Chapter 5: Structure"
+ },
+ {
+  "id": "chapter-5-structure-2",
+  "level": 3,
+  "title": "Chapter 5: Structure"
+ },
+ {
+  "id": "scope-6",
+  "level": 4,
+  "title": "Scope"
+ },
+ {
+  "id": "general-structure",
+  "level": 4,
+  "title": "General structure"
+ },
+ {
+  "id": "provision-units",
+  "level": 4,
+  "title": "Provision units"
+ },
+ {
+  "id": "numbering",
+  "level": 4,
+  "title": "Numbering"
+ },
+ {
+  "id": "numbering-2",
+  "level": 4,
+  "title": "Numbering"
+ },
+ {
+  "id": "preliminary-provisions",
+  "level": 4,
+  "title": "Preliminary provisions"
+ },
+ {
+  "id": "preliminary-provisions-2",
+  "level": 4,
+  "title": "Preliminary provisions"
+ },
+ {
+  "id": "headings",
+  "level": 4,
+  "title": "Headings"
+ },
+ {
+  "id": "headings-2",
+  "level": 4,
+  "title": "Headings"
+ },
+ {
+  "id": "table-of-contents-of-statute",
+  "level": 4,
+  "title": "Table of contents of statute"
+ },
+ {
+  "id": "table-of-contents-of-statute-2",
+  "level": 4,
+  "title": "Table of contents of statute"
+ },
+ {
+  "id": "clearly-identifiable-definition-provisions",
+  "level": 4,
+  "title": "Clearly identifiable definition provisions"
+ },
+ {
+  "id": "other-guidelines-affecting-structure",
+  "level": 4,
+  "title": "Other guidelines affecting structure"
+ },
+ {
+  "id": "other-guidelines-affecting-structure-2",
+  "level": 4,
+  "title": "Other guidelines affecting structure"
+ },
+ {
+  "id": "chapter-6-definitions",
+  "level": 3,
+  "title": "Chapter 6: Definitions"
+ },
+ {
+  "id": "scope-7",
+  "level": 4,
+  "title": "Scope"
+ },
+ {
+  "id": "chapter-6-definitions-2",
+  "level": 3,
+  "title": "Chapter 6: Definitions"
+ },
+ {
+  "id": "scope-8",
+  "level": 4,
+  "title": "Scope"
+ },
+ {
+  "id": "meaning-and-use-of-definitions",
+  "level": 4,
+  "title": "Meaning and use of definitions"
+ },
+ {
+  "id": "list-of-definitions-for-all-of-statute",
+  "level": 4,
+  "title": "List of definitions for all of statute"
+ },
+ {
+  "id": "list-of-definitions-for-all-of-statute-2",
+  "level": 4,
+  "title": "List of definitions for all of statute"
+ },
+ {
+  "id": "schedule-dictionary",
+  "level": 5,
+  "title": "SCHEDULE DICTIONARY"
+ },
+ {
+  "id": "4-definitions",
+  "level": 5,
+  "title": "‘4 Definitions"
+ },
+ {
+  "id": "3-definitions",
+  "level": 5,
+  "title": "3 Definitions"
+ },
+ {
+  "id": "list-of-definitions-for-part-of-a-statute-other-than-a-singl",
+  "level": 4,
+  "title": "List of definitions for part of a statute, other than a single section"
+ },
+ {
+  "id": "list-of-definitions-for-part-of-a-statute-other-than-a-singl-2",
+  "level": 4,
+  "title": "List of definitions for part of a statute, other than a single section"
+ },
+ {
+  "id": "26-definitions-for-pt-3",
+  "level": 5,
+  "title": "26 Definitions for pt 3"
+ },
+ {
+  "id": "list-of-definitions-for-a-single-section",
+  "level": 4,
+  "title": "List of definitions for a single section"
+ },
+ {
+  "id": "list-of-definitions-for-a-single-section-2",
+  "level": 4,
+  "title": "List of definitions for a single section"
+ },
+ {
+  "id": "alphabetical-order-is-used-in-lists-of-definitions",
+  "level": 4,
+  "title": "Alphabetical order is used in lists of definitions"
+ },
+ {
+  "id": "tag-definitions",
+  "level": 4,
+  "title": "Tag definitions"
+ },
+ {
+  "id": "tag-definitions-2",
+  "level": 4,
+  "title": "Tag definitions"
+ },
+ {
+  "id": "verb-allocating-meaning-to-definitions",
+  "level": 4,
+  "title": "Verb allocating meaning to definitions"
+ },
+ {
+  "id": "verb-allocating-meaning-to-definitions-2",
+  "level": 4,
+  "title": "Verb allocating meaning to definitions"
+ },
+ {
+  "id": "use-of-and-and-or-between-paragraphs-of-a-definition",
+  "level": 4,
+  "title": "Use of ‘and’ and ‘or’ between paragraphs of a definition"
+ },
+ {
+  "id": "use-of-and-and-or-between-paragraphs-of-a-definition-2",
+  "level": 4,
+  "title": "Use of ‘and’ and ‘or’ between paragraphs of a definition"
+ },
+ {
+  "id": "signposting-definitions",
+  "level": 4,
+  "title": "Signposting definitions"
+ },
+ {
+  "id": "signposting-definitions-2",
+  "level": 4,
+  "title": "Signposting definitions"
+ },
+ {
+  "id": "chapter-7-disciplinary-proceedings",
+  "level": 3,
+  "title": "Chapter 7: Disciplinary proceedings"
+ },
+ {
+  "id": "scope-9",
+  "level": 4,
+  "title": "Scope"
+ },
+ {
+  "id": "chapter-7-disciplinary-proceedings-2",
+  "level": 3,
+  "title": "Chapter 7: Disciplinary proceedings"
+ },
+ {
+  "id": "scope-10",
+  "level": 4,
+  "title": "Scope"
+ },
+ {
+  "id": "general-power",
+  "level": 4,
+  "title": "General power"
+ },
+ {
+  "id": "prescribed-breaches-should-be-relevant",
+  "level": 4,
+  "title": "Prescribed breaches should be relevant"
+ },
+ {
+  "id": "prescribed-breaches-should-be-relevant-2",
+  "level": 4,
+  "title": "Prescribed breaches should be relevant"
+ },
+ {
+  "id": "types-of-breaches-should-be-defined-precisely",
+  "level": 4,
+  "title": "Types of breaches should be defined precisely"
+ },
+ {
+  "id": "types-of-breaches-should-be-defined-precisely-in-a-way-that-",
+  "level": 4,
+  "title": "Types of breaches should be defined precisely in a way that ensures breaches are capable of practical proof"
+ },
+ {
+  "id": "types-of-breaches-should-be-defined-precisely-in-a-way-that--2",
+  "level": 4,
+  "title": "Types of breaches should be defined precisely in a way that ensures breaches are capable of practical proof"
+ },
+ {
+  "id": "proportionate-penalty",
+  "level": 4,
+  "title": "Proportionate penalty"
+ },
+ {
+  "id": "proportionate-penalty-2",
+  "level": 4,
+  "title": "Proportionate penalty"
+ },
+ {
+  "id": "punishment-must-fit-the-breach",
+  "level": 4,
+  "title": "Punishment must fit the breach"
+ },
+ {
+  "id": "punishment-must-fit-the-breach-2",
+  "level": 4,
+  "title": "Punishment must fit the breach"
+ },
+ {
+  "id": "natural-justice",
+  "level": 4,
+  "title": "Natural justice"
+ },
+ {
+  "id": "natural-justice-who-will-hear-and-decide-the-disciplinary-al",
+  "level": 4,
+  "title": "Natural justice—who will hear and decide the disciplinary allegation"
+ },
+ {
+  "id": "natural-justice-who-will-hear-and-decide-the-disciplinary-al-2",
+  "level": 4,
+  "title": "Natural justice—who will hear and decide the disciplinary allegation"
+ },
+ {
+  "id": "natural-justice-notice-of-alleged-breach",
+  "level": 4,
+  "title": "Natural justice—notice of alleged breach"
+ },
+ {
+  "id": "natural-justice-how-notice-is-given",
+  "level": 4,
+  "title": "Natural justice—how notice is given"
+ },
+ {
+  "id": "natural-justice-how-notice-is-given-2",
+  "level": 4,
+  "title": "Natural justice—how notice is given"
+ },
+ {
+  "id": "natural-justice-notice-of-hearing",
+  "level": 4,
+  "title": "Natural justice—notice of hearing"
+ },
+ {
+  "id": "natural-justice-procedure-at-hearing",
+  "level": 4,
+  "title": "Natural justice—procedure at hearing"
+ },
+ {
+  "id": "natural-justice-procedure-at-hearing-2",
+  "level": 4,
+  "title": "Natural justice—procedure at hearing"
+ },
+ {
+  "id": "review",
+  "level": 4,
+  "title": "Review"
+ },
+ {
+  "id": "chapter-8-amendment-statutes",
+  "level": 3,
+  "title": "Chapter 8: Amendment statutes"
+ },
+ {
+  "id": "chapter-8-amendment-statutes-2",
+  "level": 3,
+  "title": "Chapter 8: Amendment statutes"
+ },
+ {
+  "id": "scope-11",
+  "level": 4,
+  "title": "Scope"
+ },
+ {
+  "id": "guidelines-generally-apply-to-an-amending-statute",
+  "level": 4,
+  "title": "Guidelines generally apply to an amending statute"
+ },
+ {
+  "id": "amending-or-repealing-a-statute",
+  "level": 4,
+  "title": "Amending or repealing a statute"
+ },
+ {
+  "id": "amendment-rules",
+  "level": 4,
+  "title": "Amendment rules"
+ },
+ {
+  "id": "amendment-rules-2",
+  "level": 4,
+  "title": "Amendment rules"
+ },
+ {
+  "id": "chapter-9-fundamental-legislative-principles",
+  "level": 3,
+  "title": "Chapter 9: Fundamental legislative principles"
+ },
+ {
+  "id": "scope-12",
+  "level": 4,
+  "title": "Scope"
+ },
+ {
+  "id": "chapter-9-fundamental-legislative-principles-2",
+  "level": 3,
+  "title": "Chapter 9: Fundamental legislative principles"
+ },
+ {
+  "id": "scope-13",
+  "level": 4,
+  "title": "Scope"
+ },
+ {
+  "id": "what-are-fundamental-legislative-principles",
+  "level": 4,
+  "title": "What are fundamental legislative principles"
+ },
+ {
+  "id": "status-of-flps",
+  "level": 4,
+  "title": "Status of FLPs"
+ },
+ {
+  "id": "how-to-approach-flps-in-drafting",
+  "level": 4,
+  "title": "How to approach FLPs in drafting"
+ },
+ {
+  "id": "scrutiny-committee-s-approach-to-flp-issues-in-university-st",
+  "level": 4,
+  "title": "Scrutiny Committee’s approach to FLP issues in university statutes and the consequences of departure from FLPs"
+ },
+ {
+  "id": "having-sufficient-regard-to-the-rights-and-liberties-of-indi",
+  "level": 3,
+  "title": "Having sufficient regard to the rights and liberties of individuals—issues listed in Legislative Standards Act 1992"
+ },
+ {
+  "id": "defining-administrative-power-reviewing-its-use",
+  "level": 4,
+  "title": "Defining administrative power, reviewing its use"
+ },
+ {
+  "id": "having-sufficient-regard-to-the-rights-and-liberties-of-indi-2",
+  "level": 3,
+  "title": "Having sufficient regard to the rights and liberties of individuals—issues listed in Legislative Standards Act 1992"
+ },
+ {
+  "id": "defining-administrative-power-reviewing-its-use-2",
+  "level": 4,
+  "title": "Defining administrative power, reviewing its use"
+ },
+ {
+  "id": "consistency-with-natural-justice-principles",
+  "level": 4,
+  "title": "Consistency with natural justice principles"
+ },
+ {
+  "id": "consistency-with-natural-justice-principles-2",
+  "level": 4,
+  "title": "Consistency with natural justice principles"
+ },
+ {
+  "id": "appropriateness-of-delegation-of-administrative-power",
+  "level": 4,
+  "title": "Appropriateness of delegation of administrative power"
+ },
+ {
+  "id": "appropriateness-of-delegation-of-administrative-power-2",
+  "level": 4,
+  "title": "Appropriateness of delegation of administrative power"
+ },
+ {
+  "id": "reversal-of-onus-of-proof-in-disciplinary-proceedings",
+  "level": 4,
+  "title": "Reversal of onus of proof in disciplinary proceedings"
+ },
+ {
+  "id": "reversal-of-onus-of-proof-in-disciplinary-proceedings-2",
+  "level": 4,
+  "title": "Reversal of onus of proof in disciplinary proceedings"
+ },
+ {
+  "id": "example",
+  "level": 5,
+  "title": "Example:"
+ },
+ {
+  "id": "judicial-warrant-required-for-entry-search-and-seizure",
+  "level": 4,
+  "title": "Judicial warrant required for entry, search and seizure"
+ },
+ {
+  "id": "judicial-warrant-required-for-entry-search-and-seizure-2",
+  "level": 4,
+  "title": "Judicial warrant required for entry, search and seizure"
+ },
+ {
+  "id": "protection-against-forced-self-incrimination",
+  "level": 4,
+  "title": "Protection against forced self incrimination"
+ },
+ {
+  "id": "retrospectivity",
+  "level": 4,
+  "title": "Retrospectivity"
+ },
+ {
+  "id": "retrospectivity-2",
+  "level": 4,
+  "title": "Retrospectivity"
+ },
+ {
+  "id": "immunity-from-proceeding-or-prosecution",
+  "level": 4,
+  "title": "Immunity from proceeding or prosecution"
+ },
+ {
+  "id": "immunity-from-proceeding-or-prosecution-2",
+  "level": 4,
+  "title": "Immunity from proceeding or prosecution"
+ },
+ {
+  "id": "compulsory-acquisition-of-property",
+  "level": 4,
+  "title": "Compulsory acquisition of property"
+ },
+ {
+  "id": "aboriginal-tradition-and-island-custom",
+  "level": 4,
+  "title": "Aboriginal tradition and Island custom"
+ },
+ {
+  "id": "aboriginal-tradition-and-island-custom-2",
+  "level": 4,
+  "title": "Aboriginal tradition and Island custom"
+ },
+ {
+  "id": "clarity-precision-and-no-ambiguity",
+  "level": 4,
+  "title": "Clarity, precision and no ambiguity"
+ },
+ {
+  "id": "having-sufficient-regard-to-the-rights-and-liberties-of-indi-3",
+  "level": 3,
+  "title": "Having sufficient regard to the rights and liberties of individuals—other examples"
+ },
+ {
+  "id": "justification-required-to-abrogate-common-law-and-similar-ri",
+  "level": 4,
+  "title": "Justification required to abrogate common law and similar rights"
+ },
+ {
+  "id": "having-sufficient-regard-to-the-rights-and-liberties-of-indi-4",
+  "level": 3,
+  "title": "Having sufficient regard to the rights and liberties of individuals—other examples"
+ },
+ {
+  "id": "justification-required-to-abrogate-common-law-and-similar-ri-2",
+  "level": 4,
+  "title": "Justification required to abrogate common law and similar rights"
+ },
+ {
+  "id": "inappropriate-imposition-of-responsibility",
+  "level": 4,
+  "title": "Inappropriate imposition of responsibility"
+ },
+ {
+  "id": "inappropriate-imposition-of-responsibility-2",
+  "level": 4,
+  "title": "Inappropriate imposition of responsibility"
+ },
+ {
+  "id": "undue-restriction-of-ordinary-activities",
+  "level": 4,
+  "title": "Undue restriction of ordinary activities"
+ },
+ {
+  "id": "proportionality-and-relevancy",
+  "level": 4,
+  "title": "Proportionality and relevancy"
+ },
+ {
+  "id": "proportionality-and-relevancy-2",
+  "level": 4,
+  "title": "Proportionality and relevancy"
+ },
+ {
+  "id": "appropriate-standard-of-proof",
+  "level": 4,
+  "title": "Appropriate standard of proof"
+ },
+ {
+  "id": "appropriate-standard-of-proof-2",
+  "level": 4,
+  "title": "Appropriate standard of proof"
+ },
+ {
+  "id": "appropriate-defences",
+  "level": 4,
+  "title": "Appropriate defences"
+ },
+ {
+  "id": "continuous-penalties",
+  "level": 4,
+  "title": "Continuous penalties"
+ },
+ {
+  "id": "continuous-penalties-2",
+  "level": 4,
+  "title": "Continuous penalties"
+ },
+ {
+  "id": "discrimination-prohibited",
+  "level": 4,
+  "title": "Discrimination prohibited"
+ },
+ {
+  "id": "extraordinary-power-only-in-urgent-circumstances",
+  "level": 4,
+  "title": "Extraordinary power only in urgent circumstances"
+ },
+ {
+  "id": "privacy-issues-and-confidentiality-issues",
+  "level": 4,
+  "title": "Privacy issues and confidentiality issues"
+ },
+ {
+  "id": "privacy-issues-and-confidentiality-issues-2",
+  "level": 4,
+  "title": "Privacy issues and confidentiality issues"
+ },
+ {
+  "id": "unintended-adverse-impact",
+  "level": 4,
+  "title": "Unintended adverse impact"
+ },
+ {
+  "id": "having-sufficient-regard-to-the-institution-of-parliament-is",
+  "level": 3,
+  "title": "Having sufficient regard to the institution of Parliament—issues listed in Legislative Standards Act 1992"
+ },
+ {
+  "id": "authorisation-of-statute",
+  "level": 4,
+  "title": "Authorisation of statute"
+ },
+ {
+  "id": "having-sufficient-regard-to-the-institution-of-parliament-is-2",
+  "level": 3,
+  "title": "Having sufficient regard to the institution of Parliament—issues listed in Legislative Standards Act 1992"
+ },
+ {
+  "id": "authorisation-of-statute-2",
+  "level": 4,
+  "title": "Authorisation of statute"
+ },
+ {
+  "id": "consistency-with-objectives-of-authorisation",
+  "level": 4,
+  "title": "Consistency with objectives of authorisation"
+ },
+ {
+  "id": "consistency-with-objectives-of-authorisation-2",
+  "level": 4,
+  "title": "Consistency with objectives of authorisation"
+ },
+ {
+  "id": "appropriateness-of-matter-to-level-of-legislation",
+  "level": 4,
+  "title": "Appropriateness of matter to level of legislation"
+ },
+ {
+  "id": "statute-should-only-amend-a-statute",
+  "level": 4,
+  "title": "Statute should only amend a statute"
+ },
+ {
+  "id": "statute-should-only-amend-a-statute-2",
+  "level": 4,
+  "title": "Statute should only amend a statute"
+ },
+ {
+  "id": "subdelegation",
+  "level": 4,
+  "title": "Subdelegation"
+ },
+ {
+  "id": "chapter-10-gender-neutral-language",
+  "level": 3,
+  "title": "Chapter 10: Gender neutral language"
+ },
+ {
+  "id": "chapter-10-gender-neutral-language-2",
+  "level": 3,
+  "title": "Chapter 10: Gender neutral language"
+ },
+ {
+  "id": "gender-neutral-language",
+  "level": 4,
+  "title": "Gender neutral language"
+ },
+ {
+  "id": "attachment-1",
+  "level": 2,
+  "title": "Attachment 1"
+ },
+ {
+  "id": "legislative-standards-act-1992-section-4",
+  "level": 3,
+  "title": "Legislative Standards Act 1992, section 4"
+ },
+ {
+  "id": "4-meaning-of-fundamental-legislative-principles",
+  "level": 5,
+  "title": "4 Meaning of “fundamental legislative principles”"
+ },
+ {
+  "id": "attachment-1-continued",
+  "level": 2,
+  "title": "Attachment 1 (continued)"
+ },
+ {
+  "id": "attachment-1-continued-2",
+  "level": 2,
+  "title": "Attachment 1 (continued)"
+ },
+ {
+  "id": "attachment-2",
+  "level": 2,
+  "title": "Attachment 2"
+ },
+ {
+  "id": "parliamentary-committees-act-1995",
+  "level": 3,
+  "title": "Parliamentary Committees Act 1995,"
+ },
+ {
+  "id": "section-22",
+  "level": 3,
+  "title": "section 22"
+ },
+ {
+  "id": "22-area-of-responsibility-of-scrutiny-of-legislation-committ",
+  "level": 5,
+  "title": "22 Area of responsibility of Scrutiny of Legislation Committee"
+ },
+ {
+  "id": "attachment-2-continued",
+  "level": 2,
+  "title": "Attachment 2 (continued)"
+ }
+]

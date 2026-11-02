@@ -1,0 +1,1072 @@
+[
+ {
+  "id": "chancellerie-d-etat-service-de-la-législation",
+  "level": 2,
+  "title": "Chancellerie d'Etat Service de la législation"
+ },
+ {
+  "id": "guide-de-rédaction-législative",
+  "level": 2,
+  "title": "Guide de rédaction législative"
+ },
+ {
+  "id": "version-du-20-juin-2018",
+  "level": 2,
+  "title": "Version du 20 juin 2018"
+ },
+ {
+  "id": "introduction",
+  "level": 3,
+  "title": "INTRODUCTION"
+ },
+ {
+  "id": "i-généralités",
+  "level": 2,
+  "title": "I. GÉNÉRALITÉS"
+ },
+ {
+  "id": "a-cadre-légal-et-réglementaire",
+  "level": 3,
+  "title": "A. Cadre légal et réglementaire"
+ },
+ {
+  "id": "b-choix-de-l-acte-législatif",
+  "level": 3,
+  "title": "B. Choix de l'acte législatif"
+ },
+ {
+  "id": "ii-lois",
+  "level": 2,
+  "title": "II. LOIS"
+ },
+ {
+  "id": "a-notion-de-loi-à-genève",
+  "level": 3,
+  "title": "A. Notion de loi à Genève"
+ },
+ {
+  "id": "b-processus-législatif",
+  "level": 3,
+  "title": "B. Processus législatif"
+ },
+ {
+  "id": "1-schéma",
+  "level": 3,
+  "title": "1. Schéma"
+ },
+ {
+  "id": "2-parcours-d-une-loi-explication-du-schéma",
+  "level": 3,
+  "title": "2. Parcours d'une loi (explication du schéma)"
+ },
+ {
+  "id": "3-calendrier",
+  "level": 3,
+  "title": "3. Calendrier"
+ },
+ {
+  "id": "c-utilisation-du-modèle-de-saisie",
+  "level": 3,
+  "title": "C. Utilisation du modèle de saisie"
+ },
+ {
+  "id": "choisir",
+  "level": 4,
+  "title": "Choisir"
+ },
+ {
+  "id": "1-insertion-des-données-introductives",
+  "level": 3,
+  "title": "1. Insertion des données introductives"
+ },
+ {
+  "id": "les-cellules-jaunes-sont-obligatoires-si-vous-ne-les-remplis",
+  "level": 3,
+  "title": "Les cellules jaunes sont obligatoires; si vous ne les remplissez pas, vous ne pourrez pas fermer la boîte de dialogue avec ."
+ },
+ {
+  "id": "le-bouton-permet-de-fermer-le-document",
+  "level": 3,
+  "title": "Le bouton permet de fermer le document."
+ },
+ {
+  "id": "c-a",
+  "level": 4,
+  "title": "c) a)"
+ },
+ {
+  "id": "b",
+  "level": 4,
+  "title": "b)"
+ },
+ {
+  "id": "d",
+  "level": 4,
+  "title": "d)"
+ },
+ {
+  "id": "e",
+  "level": 4,
+  "title": "e)"
+ },
+ {
+  "id": "f",
+  "level": 4,
+  "title": "f)"
+ },
+ {
+  "id": "il-n-est-pas-possible-de-changer-de-type-de-projet-une-fois-",
+  "level": 3,
+  "title": " Il n'est pas possible de changer de type de projet une fois le choix validé (bouton OK)"
+ },
+ {
+  "id": "2-choix-du-type-de-projet-de-loi",
+  "level": 3,
+  "title": "2. Choix du type de projet de loi"
+ },
+ {
+  "id": "3-saisie-du-corps-des-textes-législatifs",
+  "level": 3,
+  "title": "3. Saisie du corps des textes législatifs"
+ },
+ {
+  "id": "chapitre-dispositions-finales-et-transitoires",
+  "level": 3,
+  "title": "Chapitre ? Dispositions finales et transitoires"
+ },
+ {
+  "id": "bouton-résultat-exemple-1re-partie",
+  "level": 3,
+  "title": "Bouton Résultat Exemple 1re partie"
+ },
+ {
+  "id": "principes-et-définitions",
+  "level": 2,
+  "title": "Principes et définitions"
+ },
+ {
+  "id": "titre-titre-i-définition-et-conditions-générales",
+  "level": 3,
+  "title": "Titre Titre I Définition et conditions générales"
+ },
+ {
+  "id": "chapitre-chapitre-i-conditions-générales",
+  "level": 4,
+  "title": "Chapitre Chapitre I Conditions générales"
+ },
+ {
+  "id": "section-section-1-convocation",
+  "level": 4,
+  "title": "Section Section 1 Convocation"
+ },
+ {
+  "id": "sous-section-1-déroulement-des-opérations",
+  "level": 4,
+  "title": "Sous-section 1 : Déroulement des opérations"
+ },
+ {
+  "id": "4-gestion-des-articles-soulignés",
+  "level": 3,
+  "title": "4. Gestion des articles soulignés"
+ },
+ {
+  "id": "chapitre-vi-dispositions-finales-et-transitoires",
+  "level": 3,
+  "title": "Chapitre VI Dispositions finales et transitoires"
+ },
+ {
+  "id": "5-remarques-complémentaires",
+  "level": 3,
+  "title": "5. Remarques complémentaires"
+ },
+ {
+  "id": "6-transmission-des-textes-définitifs",
+  "level": 3,
+  "title": "6. Transmission des textes « définitifs »"
+ },
+ {
+  "id": "d-pluralité-de-lois-à-modifier",
+  "level": 3,
+  "title": "D. Pluralité de lois à modifier"
+ },
+ {
+  "id": "e-clauses-et-dispositions-particulières",
+  "level": 3,
+  "title": "E. Clauses et dispositions particulières"
+ },
+ {
+  "id": "1-titre-abréviation-et-date-de-la-loi",
+  "level": 3,
+  "title": "1. Titre, abréviation et date de la loi"
+ },
+ {
+  "id": "2-préambule",
+  "level": 3,
+  "title": "2. Préambule"
+ },
+ {
+  "id": "légales-être-mises-à-jour-par-le-département-qui-a-rapporté-",
+  "level": 4,
+  "title": "légales, être mises à jour par le département qui a rapporté sur le texte de loi. Le"
+ },
+ {
+  "id": "3-but-et-champ-d-application",
+  "level": 3,
+  "title": "3. But et champ d'application"
+ },
+ {
+  "id": "4-définitions",
+  "level": 3,
+  "title": "4. Définitions"
+ },
+ {
+  "id": "5-dispositions-engendrant-des-dépenses",
+  "level": 3,
+  "title": "5. Dispositions engendrant des dépenses"
+ },
+ {
+  "id": "6-octroi-de-subventions",
+  "level": 3,
+  "title": "6. Octroi de subventions"
+ },
+ {
+  "id": "7-clauses-d-exécution",
+  "level": 3,
+  "title": "7. Clauses d'exécution"
+ },
+ {
+  "id": "8-clauses-de-délégation-législative",
+  "level": 3,
+  "title": "8. Clauses de délégation législative"
+ },
+ {
+  "id": "9-clauses-de-réserve",
+  "level": 3,
+  "title": "9. Clauses de réserve"
+ },
+ {
+  "id": "10-renvoi-à-d-autres-dispositions-légales",
+  "level": 3,
+  "title": "10. Renvoi à d'autres dispositions légales"
+ },
+ {
+  "id": "d-une-manière-générale-tout-renvoi-externe-à-des-normes-non-",
+  "level": 4,
+  "title": "D'une manière générale, tout renvoi externe à des normes non étatiques doit être"
+ },
+ {
+  "id": "en-conséquence-les-auteurs-de-projets-de-loi-s-abstiendront-",
+  "level": 4,
+  "title": "En conséquence, les auteurs de projets de loi s'abstiendront de tout renvoi externe"
+ },
+ {
+  "id": "11-clauses-de-rétroactivité",
+  "level": 3,
+  "title": "11. Clauses de rétroactivité"
+ },
+ {
+  "id": "12-clauses-d-évaluation",
+  "level": 3,
+  "title": "12. Clauses d'évaluation"
+ },
+ {
+  "id": "13-dispositions-pénales",
+  "level": 3,
+  "title": "13. Dispositions pénales"
+ },
+ {
+  "id": "controverse-toutes-les-dispositions-pénales-devraient-se-sit",
+  "level": 4,
+  "title": "controverse, toutes les dispositions pénales devraient se situer au niveau de la loi"
+ },
+ {
+  "id": "expressément-intitulée-dispositions-pénales-dire-quelle-auto",
+  "level": 4,
+  "title": "expressément intitulée « dispositions pénales », dire quelle autorité pénale ou"
+ },
+ {
+  "id": "14-sanctions-administratives",
+  "level": 3,
+  "title": "14. Sanctions administratives"
+ },
+ {
+  "id": "les-mesures-d-exécution-forcée-ont-pour-but-d-établir-ou-de-",
+  "level": 4,
+  "title": "Les mesures d'exécution forcée ont pour but d'établir ou de rétablir une situation"
+ },
+ {
+  "id": "que-toutes-les-amendes-administratives-qu-elles-soient-ou-no",
+  "level": 4,
+  "title": "que toutes les amendes administratives, qu'elles soient ou non désignées comme"
+ },
+ {
+  "id": "on-recommande-l-adoption-d-une-base-légale-formelle-pour-ser",
+  "level": 4,
+  "title": "On recommande l'adoption d'une base légale formelle pour servir de siège à des"
+ },
+ {
+  "id": "revanche-il-n-existe-pas-en-droit-administratif-de-corpus-gé",
+  "level": 4,
+  "title": "revanche, il n'existe pas en droit administratif de corpus général de règles comparable"
+ },
+ {
+  "id": "répressive-telle-que-l-amende-avec-une-mesure-d-exécution-fo",
+  "level": 4,
+  "title": "répressive telle que l'amende avec une mesure d'exécution forcée ou un retrait"
+ },
+ {
+  "id": "f-dispositions-finales-et-transitoires",
+  "level": 3,
+  "title": "F. Dispositions finales et transitoires"
+ },
+ {
+  "id": "1-clause-abrogatoire",
+  "level": 3,
+  "title": "1. Clause abrogatoire"
+ },
+ {
+  "id": "formes-une-loi-ne-peut-abroger-qu-une-loi-et-non-un-texte-de",
+  "level": 4,
+  "title": "formes. Une loi ne peut abroger qu'une loi, et non un texte de rang supérieur"
+ },
+ {
+  "id": "2-clause-d-entrée-en-vigueur",
+  "level": 3,
+  "title": "2. Clause d'entrée en vigueur"
+ },
+ {
+  "id": "règles-générales-et-abstraites-ne-devraient-dès-lors-pas-con",
+  "level": 4,
+  "title": "règles générales et abstraites ne devraient dès lors pas contenir de clause d'entrée en"
+ },
+ {
+  "id": "3-clause-référendaire",
+  "level": 3,
+  "title": "3. Clause référendaire"
+ },
+ {
+  "id": "4-clause-d-urgence",
+  "level": 3,
+  "title": "4. Clause d'urgence"
+ },
+ {
+  "id": "l-utilisation-de-la-clause-d-urgence-législative-est-réglée-",
+  "level": 4,
+  "title": "L'utilisation de la clause d'urgence législative est réglée par l’article 70 Cst-GE. Selon"
+ },
+ {
+  "id": "5-durée-de-validité-limitée",
+  "level": 3,
+  "title": "5. Durée de validité limitée"
+ },
+ {
+  "id": "6-dispositions-transitoires",
+  "level": 3,
+  "title": "6. Dispositions transitoires"
+ },
+ {
+  "id": "indiqué-que-le-nouveau-droit-s-applique-à-toutes-les-situati",
+  "level": 4,
+  "title": "indiqué que le nouveau droit s'applique à toutes les situations qu'il vise dès son"
+ },
+ {
+  "id": "g-exposé-des-motifs-et-annexes",
+  "level": 3,
+  "title": "G. Exposé des motifs et annexes"
+ },
+ {
+  "id": "h-transmission-du-projet-de-loi",
+  "level": 3,
+  "title": "H. Transmission du projet de loi"
+ },
+ {
+  "id": "1-plumitif-original-tiré-à-part",
+  "level": 3,
+  "title": "1. Plumitif, original, tiré à part"
+ },
+ {
+  "id": "2-garantie-fédérale",
+  "level": 3,
+  "title": "2. Garantie fédérale"
+ },
+ {
+  "id": "3-approbation-fédérale",
+  "level": 3,
+  "title": "3. Approbation fédérale"
+ },
+ {
+  "id": "4-information-à-la-confédération",
+  "level": 3,
+  "title": "4. Information à la Confédération"
+ },
+ {
+  "id": "i-rectification-et-adaptation-de-textes-légaux",
+  "level": 3,
+  "title": "I. Rectification et adaptation de textes légaux"
+ },
+ {
+  "id": "j-exemples-de-lois",
+  "level": 3,
+  "title": "J. Exemples de lois"
+ },
+ {
+  "id": "1-loi-générale-nouvelle",
+  "level": 3,
+  "title": "1. Loi générale – Nouvelle"
+ },
+ {
+  "id": "loi-sur-l-occupation-des-eaux-publiques-loep-10168-l-2-10",
+  "level": 4,
+  "title": "Loi sur l'occupation des eaux publiques (LOEP) (10168) L 2 10"
+ },
+ {
+  "id": "chapitre-i-dispositions-générales",
+  "level": 4,
+  "title": "Chapitre I Dispositions générales"
+ },
+ {
+  "id": "chapitre-ii-permission-et-concession",
+  "level": 4,
+  "title": "Chapitre II Permission et concession"
+ },
+ {
+  "id": "section-1-principes-généraux",
+  "level": 4,
+  "title": "Section 1 Principes généraux"
+ },
+ {
+  "id": "chapitre-vi-dispositions-finales-et-transitoires-2",
+  "level": 4,
+  "title": "Chapitre VI Dispositions finales et transitoires"
+ },
+ {
+  "id": "2-loi-générale-modification",
+  "level": 3,
+  "title": "2. Loi générale – Modification"
+ },
+ {
+  "id": "loi-modifiant-la-loi-sur-la-santé-ls-10228-k-1-03",
+  "level": 4,
+  "title": "Loi modifiant la loi sur la santé (LS) (10228) K 1 03"
+ },
+ {
+  "id": "3-lois-financières-budget-de-l-etat",
+  "level": 3,
+  "title": "3. Lois financières – Budget de l'Etat"
+ },
+ {
+  "id": "loi-établissant-le-budget-administratif-de-l-etat-de-genève-",
+  "level": 4,
+  "title": "Loi établissant le budget administratif de l'Etat de Genève pour l'exercice 2015 (LBu-2015) (11536) D 3 70"
+ },
+ {
+  "id": "chapitre-i-contributions-publiques",
+  "level": 4,
+  "title": "Chapitre I Contributions publiques"
+ },
+ {
+  "id": "chapitre-ii-centimes-additionnels",
+  "level": 4,
+  "title": "Chapitre II Centimes additionnels"
+ },
+ {
+  "id": "chapitre-iii-budget",
+  "level": 4,
+  "title": "Chapitre III Budget"
+ },
+ {
+  "id": "chapitre-iv-emprunts",
+  "level": 4,
+  "title": "Chapitre IV Emprunts"
+ },
+ {
+  "id": "chapitre-v-garantie-de-l-etat",
+  "level": 4,
+  "title": "Chapitre V Garantie de l’Etat"
+ },
+ {
+  "id": "4-lois-financières-comptes-de-l-etat-états-financiers-indivi",
+  "level": 3,
+  "title": "4. Lois financières – Comptes de l'Etat (états financiers individuels)"
+ },
+ {
+  "id": "loi-approuvant-les-états-financiers-individuels-de-l-etat-de",
+  "level": 4,
+  "title": "Loi approuvant les états financiers individuels de l’Etat de Genève pour l’année 2013 (11419)"
+ },
+ {
+  "id": "5-lois-financières-loi-approuvant-le-rapport-de-gestion-d-un",
+  "level": 3,
+  "title": "5. Lois financières – Loi approuvant le rapport de gestion d’un établissement de droit public"
+ },
+ {
+  "id": "loi-approuvant-le-rapport-de-gestion-des-transports-publics-",
+  "level": 4,
+  "title": "Loi approuvant le rapport de gestion des Transports publics genevois (TPG) pour l’année 2014 (11652)"
+ },
+ {
+  "id": "6-lois-financières-loi-approuvant-les-états-financiers-d-un-",
+  "level": 3,
+  "title": "6. Lois financières – Loi approuvant les états financiers d’un établissement de droit public"
+ },
+ {
+  "id": "loi-approuvant-les-états-financiers-individuels-des-transpor",
+  "level": 4,
+  "title": "Loi approuvant les états financiers individuels des Transports publics genevois pour l'année 2014 (11653)"
+ },
+ {
+  "id": "7-lois-financières-budget-d-un-établissement-public-autonome",
+  "level": 3,
+  "title": "7. Lois financières – Budget d’un établissement public autonome"
+ },
+ {
+  "id": "loi-approuvant-les-budgets-d-exploitation-et-d-investissemen",
+  "level": 4,
+  "title": "Loi approuvant les budgets d'exploitation et d'investissement des Services industriels de Genève pour l'année 2010 (10566)"
+ },
+ {
+  "id": "8-lois-financières-crédit-d-investissement",
+  "level": 3,
+  "title": "8. Lois financières – Crédit d'investissement"
+ },
+ {
+  "id": "loi-ouvrant-un-crédit-d-investissement-de-17-554-000-f-pour-",
+  "level": 4,
+  "title": "Loi ouvrant un crédit d’investissement de 17 554 000 F pour l’extension de l’Observatoire de Genève à Sauverny, ainsi qu’une subvention d’équipement de 480 000 F (11325)"
+ },
+ {
+  "id": "9-lois-financières-crédit-de-renouvellement",
+  "level": 3,
+  "title": "9. Lois financières – Crédit de renouvellement"
+ },
+ {
+  "id": "pour-les-exercices-2015-à-2019-destiné-à-divers-investisseme",
+  "level": 4,
+  "title": "pour les exercices 2015 à 2019, destiné à divers investissements de renouvellement du département présidentiel (11510)"
+ },
+ {
+  "id": "10-lois-financières-bouclement-de-crédit",
+  "level": 3,
+  "title": "10. Lois financières – Bouclement de crédit"
+ },
+ {
+  "id": "loi-de-bouclement-de-la-loi-10792-ouvrant-un-crédit-extraord",
+  "level": 4,
+  "title": "Loi de bouclement de la loi 10792 ouvrant un crédit extraordinaire d’investissement de 5 000 F pour la constitution d’un capital de dotation de l’Etat de Genève en faveur de la Fondation des Cinémas du Grütli (11347)"
+ },
+ {
+  "id": "11-lois-financières-liaf",
+  "level": 3,
+  "title": "11. Lois financières – LIAF"
+ },
+ {
+  "id": "loi-accordant-une-indemnité-de-10-587-125-f-à-la-société-des",
+  "level": 4,
+  "title": "Loi accordant une indemnité de 10 587 125 F à la Société des Mouettes Genevoises Navigation SA (SMGN) pour les années 2015 à 2018 (11530)"
+ },
+ {
+  "id": "12-lois-financières-crédit-d-étude",
+  "level": 3,
+  "title": "12. Lois financières – Crédit d'étude"
+ },
+ {
+  "id": "loi-ouvrant-un-crédit-d-étude-de-1-331-000-f-en-vue-de-mener",
+  "level": 4,
+  "title": "Loi ouvrant un crédit d'étude de 1 331 000 F en vue de mener les études d'une liaison entre la route de Saconnex-d'Arve et la route d'Annecy, dite L1, et d'une liaison entre la route d'Annecy et la route de Pierre- Grand, dite L2, dans le cadre des projets d'infrastructures de mobilité dans le secteur de Genève-Sud (11310)"
+ },
+ {
+  "id": "13-loi-autorisant-l-aliénation-d-un-terrain",
+  "level": 3,
+  "title": "13. Loi autorisant l'aliénation d'un terrain"
+ },
+ {
+  "id": "loi-autorisant-le-conseil-d-etat-à-aliéner-la-parcelle-n-428",
+  "level": 4,
+  "title": "Loi autorisant le Conseil d'Etat à aliéner la parcelle N° 4288 de la commune de Versoix (10092)"
+ },
+ {
+  "id": "14-loi-de-modification-de-limites-de-zones",
+  "level": 3,
+  "title": "14. Loi de modification de limites de zones"
+ },
+ {
+  "id": "loi-modifiant-les-limites-de-zones-sur-le-territoire-de-la-c",
+  "level": 4,
+  "title": "Loi modifiant les limites de zones sur le territoire de la commune de Versoix (création d'une zone de développement 4A et d'une zone de développement 4A protégée, situées entre la route de Suisse, le chemin des Graviers et le chemin Huber-Saladin) (11289)"
+ },
+ {
+  "id": "15-loi-de-modification-de-limites-de-zones-avec-levée-d-oppo",
+  "level": 3,
+  "title": "15. Loi de modification de limites de zones (avec levée d’opposition)"
+ },
+ {
+  "id": "loi-modifiant-les-limites-de-zones-sur-le-territoire-des-com",
+  "level": 4,
+  "title": "Loi modifiant les limites de zones sur le territoire des communes de Meyrin et Vernier (création d’une zone de développement 3 destinée à des activités sans nuisances, de cinq zones des bois et forêts, et abrogation d’une zone de développement 3 et d’une zone de développement industriel et artisanal dans les secteurs de Cointrin et Pré-Bois, au sud de l’Aéroport international de Genève) (10878)"
+ },
+ {
+  "id": "16-loi-de-déclaration-d-utilité-publique",
+  "level": 3,
+  "title": "16. Loi de déclaration d'utilité publique"
+ },
+ {
+  "id": "loi-déclarant-d-utilité-publique-la-réalisation-du-plan-loca",
+  "level": 4,
+  "title": "Loi déclarant d’utilité publique la réalisation du plan localisé de quartier n° 28670B-264, situé le long de l’Arve et de l’avenue de la Roseraie, sur le territoire de la Ville de Genève, section Plainpalais, et des bâtiments prévus par ce plan (9516)"
+ },
+ {
+  "id": "17-loi-autorisant-le-conseil-d-etat-à-adhérer-à-une-conventi",
+  "level": 3,
+  "title": "17. Loi autorisant le Conseil d’Etat à adhérer à une convention intercantonale"
+ },
+ {
+  "id": "loi-autorisant-le-conseil-d-etat-à-adhérer-à-la-convention-i",
+  "level": 4,
+  "title": "Loi autorisant le Conseil d'Etat à adhérer à la convention intercantonale relative aux institutions sociales (9962) K 1 37.0"
+ },
+ {
+  "id": "convention-intercantonale-relative-aux-institutions-sociales",
+  "level": 4,
+  "title": "Convention intercantonale relative aux institutions sociales (CIIS) K 1 37"
+ },
+ {
+  "id": "chapitre-i-dispositions-générales-2",
+  "level": 4,
+  "title": "Chapitre I Dispositions générales"
+ },
+ {
+  "id": "champ-d-application",
+  "level": 4,
+  "title": "Champ d'application"
+ },
+ {
+  "id": "dispositions-transitoires-cii-ciis",
+  "level": 4,
+  "title": "Dispositions transitoires CII/CIIS"
+ },
+ {
+  "id": "18-loi-de-création-d-une-fondation-de-droit-public",
+  "level": 3,
+  "title": "18. Loi de création d'une fondation de droit public"
+ },
+ {
+  "id": "loi-concernant-la-constitution-de-la-fondation-communale-de-",
+  "level": 4,
+  "title": "Loi concernant la constitution de la Fondation communale de droit public pour le développement des emplois et du tissu économique en ville de Genève (Fondetec) (9657) PA 457.00"
+ },
+ {
+  "id": "statuts-de-la-fondation-communale-de-droit-public-pour-le-dé",
+  "level": 4,
+  "title": "Statuts de la Fondation communale de droit public pour le développement des emplois et du tissu économique en ville de Genève (Fondetec) PA 457.01"
+ },
+ {
+  "id": "chapitre-i-dispositions-générales-3",
+  "level": 4,
+  "title": "Chapitre I Dispositions générales"
+ },
+ {
+  "id": "chapitre-v-dissolution-et-liquidation",
+  "level": 4,
+  "title": "Chapitre V Dissolution et liquidation"
+ },
+ {
+  "id": "19-loi-de-modification-d-une-fondation-de-droit-public-et-de",
+  "level": 3,
+  "title": "19. Loi de modification d'une fondation de droit public et de ses statuts"
+ },
+ {
+  "id": "loi-modifiant-la-loi-concernant-la-création-de-la-fondation-",
+  "level": 4,
+  "title": "Loi modifiant la loi concernant la création de la Fondation communale immobilière de Lancy (11606) PA 574.00"
+ },
+ {
+  "id": "modification-des-statuts-de-la-fondation-communale-immobiliè",
+  "level": 2,
+  "title": "Modification des statuts de la Fondation communale immobilière de Lancy"
+ },
+ {
+  "id": "pa-574-01",
+  "level": 4,
+  "title": "PA 574.01"
+ },
+ {
+  "id": "iii-règlements",
+  "level": 2,
+  "title": "III. RÈGLEMENTS"
+ },
+ {
+  "id": "a-procédure-d-adoption",
+  "level": 3,
+  "title": "A. Procédure d'adoption"
+ },
+ {
+  "id": "1-elaboration-du-projet-et-adoption-du-règlement",
+  "level": 3,
+  "title": "1. Elaboration du projet et adoption du règlement"
+ },
+ {
+  "id": "2-procédures-postérieures",
+  "level": 3,
+  "title": "2. Procédures postérieures"
+ },
+ {
+  "id": "b-utilisation-du-modèle-de-saisie",
+  "level": 3,
+  "title": "B. Utilisation du modèle de saisie"
+ },
+ {
+  "id": "choisir-2",
+  "level": 4,
+  "title": "Choisir"
+ },
+ {
+  "id": "1-insertion-des-données-introductives-2",
+  "level": 3,
+  "title": "1. Insertion des données introductives"
+ },
+ {
+  "id": "les-cellules-jaunes-sont-obligatoires-si-vous-ne-les-remplis-2",
+  "level": 3,
+  "title": "Les cellules jaunes sont obligatoires; si vous ne les remplissez pas, vous ne pourrez pas fermer la boîte de dialogue avec ."
+ },
+ {
+  "id": "le-bouton-permet-de-fermer-le-document-2",
+  "level": 3,
+  "title": "Le bouton permet de fermer le document."
+ },
+ {
+  "id": "c-a-2",
+  "level": 4,
+  "title": "c) a)"
+ },
+ {
+  "id": "b-2",
+  "level": 4,
+  "title": "b)"
+ },
+ {
+  "id": "d-e",
+  "level": 4,
+  "title": "d) e)"
+ },
+ {
+  "id": "f-2",
+  "level": 4,
+  "title": "f)"
+ },
+ {
+  "id": "il-n-est-pas-possible-de-changer-de-type-de-projet-une-fois--2",
+  "level": 3,
+  "title": " Il n'est pas possible de changer de type de projet une fois le choix fait (bouton OK)"
+ },
+ {
+  "id": "2-choix-du-type-de-projet-de-règlement",
+  "level": 3,
+  "title": "2. Choix du type de projet de règlement"
+ },
+ {
+  "id": "3-saisie-du-corps-des-textes-législatifs-2",
+  "level": 3,
+  "title": "3. Saisie du corps des textes législatifs"
+ },
+ {
+  "id": "chapitre-dispositions-finales-et-transitoires-2",
+  "level": 3,
+  "title": "Chapitre ? Dispositions finales et transitoires"
+ },
+ {
+  "id": "bouton-résultat-exemple",
+  "level": 3,
+  "title": "Bouton Résultat Exemple"
+ },
+ {
+  "id": "titre-titre-i-définition-et-conditions-générales-2",
+  "level": 3,
+  "title": "Titre Titre I Définition et conditions générales"
+ },
+ {
+  "id": "chapitre-chapitre-i-conditions-générales-2",
+  "level": 4,
+  "title": "Chapitre Chapitre I Conditions générales"
+ },
+ {
+  "id": "section-section-1-convocation-2",
+  "level": 4,
+  "title": "Section Section 1 Convocation"
+ },
+ {
+  "id": "sous-section-1-déroulement-des-opérations-2",
+  "level": 4,
+  "title": "Sous-section 1 : Déroulement des opérations"
+ },
+ {
+  "id": "4-gestion-des-articles-soulignés-2",
+  "level": 3,
+  "title": "4. Gestion des articles soulignés"
+ },
+ {
+  "id": "5-remarques-complémentaires-2",
+  "level": 3,
+  "title": "5. Remarques complémentaires"
+ },
+ {
+  "id": "6-transmission-des-textes-définitifs-2",
+  "level": 3,
+  "title": "6. Transmission des textes « définitifs »"
+ },
+ {
+  "id": "c-pluralité-de-règlements-à-modifier",
+  "level": 3,
+  "title": "C. Pluralité de règlements à modifier"
+ },
+ {
+  "id": "d-clauses-et-dispositions-particulières",
+  "level": 3,
+  "title": "D. Clauses et dispositions particulières"
+ },
+ {
+  "id": "1-titre-abréviation-et-date-du-règlement",
+  "level": 3,
+  "title": "1. Titre, abréviation et date du règlement"
+ },
+ {
+  "id": "2-préambule-2",
+  "level": 3,
+  "title": "2. Préambule"
+ },
+ {
+  "id": "3-but-et-champ-d-application-2",
+  "level": 3,
+  "title": "3. But et champ d'application"
+ },
+ {
+  "id": "4-définitions-2",
+  "level": 3,
+  "title": "4. Définitions"
+ },
+ {
+  "id": "5-clauses-de-réserve",
+  "level": 3,
+  "title": "5. Clauses de réserve"
+ },
+ {
+  "id": "6-renvoi-à-d-autres-dispositions-légales",
+  "level": 3,
+  "title": "6. Renvoi à d'autres dispositions légales"
+ },
+ {
+  "id": "7-clauses-de-rétroactivité",
+  "level": 3,
+  "title": "7. Clauses de rétroactivité"
+ },
+ {
+  "id": "8-clauses-d-évaluation",
+  "level": 3,
+  "title": "8. Clauses d'évaluation"
+ },
+ {
+  "id": "9-dispositions-pénales",
+  "level": 3,
+  "title": "9. Dispositions pénales"
+ },
+ {
+  "id": "controverse-toutes-les-dispositions-pénales-devraient-se-sit-2",
+  "level": 4,
+  "title": "controverse, toutes les dispositions pénales devraient se situer au niveau de la loi"
+ },
+ {
+  "id": "10-sanctions-administratives",
+  "level": 3,
+  "title": "10. Sanctions administratives"
+ },
+ {
+  "id": "e-dispositions-finales-et-transitoires",
+  "level": 3,
+  "title": "E. Dispositions finales et transitoires"
+ },
+ {
+  "id": "1-clause-abrogatoire-2",
+  "level": 3,
+  "title": "1. Clause abrogatoire"
+ },
+ {
+  "id": "formes-un-règlement-ne-peut-abroger-qu-un-règlement-et-non-u",
+  "level": 4,
+  "title": "formes. Un règlement ne peut abroger qu'un règlement, et non un texte de rang"
+ },
+ {
+  "id": "2-clause-d-entrée-en-vigueur-2",
+  "level": 3,
+  "title": "2. Clause d'entrée en vigueur"
+ },
+ {
+  "id": "3-durée-de-validité-limitée",
+  "level": 3,
+  "title": "3. Durée de validité limitée"
+ },
+ {
+  "id": "4-dispositions-transitoires",
+  "level": 3,
+  "title": "4. Dispositions transitoires"
+ },
+ {
+  "id": "indiqué-que-le-nouveau-droit-s-applique-à-toutes-les-situati-2",
+  "level": 4,
+  "title": "indiqué que le nouveau droit s'applique à toutes les situations qu'il vise dès son"
+ },
+ {
+  "id": "f-annexes",
+  "level": 3,
+  "title": "F. Annexes"
+ },
+ {
+  "id": "g-transmission-du-projet-de-règlement",
+  "level": 3,
+  "title": "G. Transmission du projet de règlement"
+ },
+ {
+  "id": "1-plumitif-et-original",
+  "level": 3,
+  "title": "1. Plumitif et original"
+ },
+ {
+  "id": "2-approbation-fédérale",
+  "level": 3,
+  "title": "2. Approbation fédérale"
+ },
+ {
+  "id": "h-rectification-et-adaptation-de-textes-réglementaires",
+  "level": 3,
+  "title": "H. Rectification et adaptation de textes réglementaires"
+ },
+ {
+  "id": "iv-diffusion-des-textes-législatifs",
+  "level": 2,
+  "title": "IV. DIFFUSION DES TEXTES LÉGISLATIFS"
+ },
+ {
+  "id": "cette-occasion-l-arrêté-de-promulgation-des-lois-est-égaleme",
+  "level": 4,
+  "title": "cette occasion), l’arrêté de promulgation des lois est également publié dans la FAO"
+ },
+ {
+  "id": "v-règles-de-rédaction",
+  "level": 2,
+  "title": "V. RÈGLES DE RÉDACTION"
+ },
+ {
+  "id": "a-aspects-stylistiques",
+  "level": 3,
+  "title": "A. Aspects stylistiques"
+ },
+ {
+  "id": "1-précision-et-clarté",
+  "level": 3,
+  "title": "1. Précision et clarté"
+ },
+ {
+  "id": "2-uniformité-et-cohérence",
+  "level": 3,
+  "title": "2. Uniformité et cohérence"
+ },
+ {
+  "id": "3-concision",
+  "level": 3,
+  "title": "3. Concision"
+ },
+ {
+  "id": "4-normativité",
+  "level": 3,
+  "title": "4. Normativité"
+ },
+ {
+  "id": "5-utilisation-de-graphiques-dessins-et-tableaux",
+  "level": 3,
+  "title": "5. Utilisation de graphiques, dessins et tableaux"
+ },
+ {
+  "id": "b-aspects-linguistiques",
+  "level": 3,
+  "title": "B. Aspects linguistiques"
+ },
+ {
+  "id": "1-orthographe",
+  "level": 3,
+  "title": "1. Orthographe"
+ },
+ {
+  "id": "2-formes-verbales",
+  "level": 3,
+  "title": "2. Formes verbales"
+ },
+ {
+  "id": "3-choix-des-mots",
+  "level": 3,
+  "title": "3. Choix des mots"
+ },
+ {
+  "id": "4-helvétismes",
+  "level": 3,
+  "title": "4. Helvétismes"
+ },
+ {
+  "id": "5-néologismes",
+  "level": 3,
+  "title": "5. Néologismes"
+ },
+ {
+  "id": "6-emprunts-à-des-langues-étrangères",
+  "level": 3,
+  "title": "6. Emprunts à des langues étrangères"
+ },
+ {
+  "id": "7-formulation-non-sexiste",
+  "level": 3,
+  "title": "7. Formulation non sexiste"
+ },
+ {
+  "id": "c-aspects-typographiques",
+  "level": 3,
+  "title": "C. Aspects typographiques"
+ },
+ {
+  "id": "1-abréviations",
+  "level": 3,
+  "title": "1. Abréviations"
+ },
+ {
+  "id": "2-emploi-des-chiffres",
+  "level": 3,
+  "title": "2. Emploi des chiffres"
+ },
+ {
+  "id": "3-citations-et-références",
+  "level": 3,
+  "title": "3. Citations et références"
+ },
+ {
+  "id": "4-emploi-des-majuscules",
+  "level": 3,
+  "title": "4. Emploi des majuscules"
+ },
+ {
+  "id": "5-emploi-des-traits-d-union",
+  "level": 3,
+  "title": "5. Emploi des traits d'union"
+ },
+ {
+  "id": "6-unités-de-mesure",
+  "level": 3,
+  "title": "6. Unités de mesure"
+ },
+ {
+  "id": "annexe-exemples-de-modifications-loi-ou-règlement-police-tim",
+  "level": 3,
+  "title": "Annexe : Exemples de modifications (loi ou règlement) – Police : Times New Roman"
+ },
+ {
+  "id": "vi-table-des-matières",
+  "level": 2,
+  "title": "VI. TABLE DES MATIÈRES"
+ }
+]

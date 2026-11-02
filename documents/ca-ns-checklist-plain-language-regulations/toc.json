@@ -1,0 +1,62 @@
+[
+ {
+  "id": "checklist-for-plain-language-ns-regulations",
+  "level": 3,
+  "title": "Checklist for plain language NS regulations:"
+ },
+ {
+  "id": "checklist-for-plain-language-ns-regulations-2",
+  "level": 3,
+  "title": "Checklist for Plain Language NS Regulations"
+ },
+ {
+  "id": "1-structure",
+  "level": 2,
+  "title": "1. Structure:"
+ },
+ {
+  "id": "check",
+  "level": 4,
+  "title": "Check"
+ },
+ {
+  "id": "2-definitions",
+  "level": 2,
+  "title": "2. Definitions:"
+ },
+ {
+  "id": "check-2",
+  "level": 4,
+  "title": "Check"
+ },
+ {
+  "id": "3-formatting",
+  "level": 2,
+  "title": "3. Formatting:"
+ },
+ {
+  "id": "check-3",
+  "level": 4,
+  "title": "Check"
+ },
+ {
+  "id": "4-other",
+  "level": 2,
+  "title": "4. Other:"
+ },
+ {
+  "id": "check-4",
+  "level": 4,
+  "title": "Check"
+ },
+ {
+  "id": "5-replacements",
+  "level": 2,
+  "title": "5. Replacements"
+ },
+ {
+  "id": "replace-this-with-that-check",
+  "level": 3,
+  "title": "Replace this With that Check"
+ }
+]

@@ -1,0 +1,572 @@
+[
+ {
+  "id": "standards-manual",
+  "level": 2,
+  "title": "STANDARDS MANUAL"
+ },
+ {
+  "id": "for-drafting-and-filing-regulations",
+  "level": 2,
+  "title": "FOR DRAFTING AND FILING REGULATIONS"
+ },
+ {
+  "id": "deirdre-brevard-smith-editor",
+  "level": 2,
+  "title": "DEIRDRE BREVARD SMITH, EDITOR"
+ },
+ {
+  "id": "south-carolina-state-register",
+  "level": 2,
+  "title": "SOUTH CAROLINA STATE REGISTER"
+ },
+ {
+  "id": "table-of-contents",
+  "level": 3,
+  "title": "TABLE OF CONTENTS"
+ },
+ {
+  "id": "table-of-contents-2",
+  "level": 3,
+  "title": "TABLE OF CONTENTS"
+ },
+ {
+  "id": "i-introduction",
+  "level": 3,
+  "title": "I. INTRODUCTION"
+ },
+ {
+  "id": "ii-south-carolina-state-register",
+  "level": 3,
+  "title": "II. SOUTH CAROLINA STATE REGISTER"
+ },
+ {
+  "id": "a-documents-published-in-the-state-register",
+  "level": 3,
+  "title": "A. DOCUMENTS PUBLISHED IN THE STATE REGISTER"
+ },
+ {
+  "id": "b-publication-schedule-and-filing-deadlines",
+  "level": 3,
+  "title": "B. PUBLICATION SCHEDULE AND FILING DEADLINES"
+ },
+ {
+  "id": "this-manual-will-be-returned-to-the-agency-returned-document",
+  "level": 3,
+  "title": "this manual will be returned to the agency. Returned documents must be refiled by the deadline in"
+ },
+ {
+  "id": "c-subscriptions",
+  "level": 3,
+  "title": "C. SUBSCRIPTIONS"
+ },
+ {
+  "id": "iii-agency-promulgation-of-regulations",
+  "level": 3,
+  "title": "III. AGENCY PROMULGATION OF REGULATIONS"
+ },
+ {
+  "id": "a-definitions",
+  "level": 3,
+  "title": "A. DEFINITIONS"
+ },
+ {
+  "id": "b-steps-in-promulgating-permanent-regulations",
+  "level": 3,
+  "title": "B. STEPS IN PROMULGATING PERMANENT REGULATIONS"
+ },
+ {
+  "id": "step-1",
+  "level": 3,
+  "title": "STEP 1"
+ },
+ {
+  "id": "publication-of-a-notice-of-drafting",
+  "level": 3,
+  "title": "PUBLICATION OF A NOTICE OF DRAFTING"
+ },
+ {
+  "id": "step-2",
+  "level": 3,
+  "title": "STEP 2"
+ },
+ {
+  "id": "publication-of-the-proposed-regulation-with-a-notice-of-oppo",
+  "level": 3,
+  "title": "PUBLICATION OF THE PROPOSED REGULATION WITH A NOTICE OF OPPORTUNITY FOR PUBLIC COMMENT"
+ },
+ {
+  "id": "step-3",
+  "level": 3,
+  "title": "STEP 3"
+ },
+ {
+  "id": "public-hearing-on-a-proposed-regulation",
+  "level": 3,
+  "title": "PUBLIC HEARING ON A PROPOSED REGULATION"
+ },
+ {
+  "id": "step-4",
+  "level": 3,
+  "title": "STEP 4"
+ },
+ {
+  "id": "regulations-requiring-general-assembly-review",
+  "level": 3,
+  "title": "REGULATIONS REQUIRING GENERAL ASSEMBLY REVIEW"
+ },
+ {
+  "id": "step-5",
+  "level": 3,
+  "title": "STEP 5"
+ },
+ {
+  "id": "regulations-exempt-from-general-assembly-review",
+  "level": 3,
+  "title": "REGULATIONS EXEMPT FROM GENERAL ASSEMBLY REVIEW"
+ },
+ {
+  "id": "c-emergency-regulations",
+  "level": 3,
+  "title": "C. EMERGENCY REGULATIONS"
+ },
+ {
+  "id": "iv-legislative-review-of-regulations",
+  "level": 3,
+  "title": "IV. LEGISLATIVE REVIEW OF REGULATIONS"
+ },
+ {
+  "id": "a-one-hundred-ten-day-review-period",
+  "level": 3,
+  "title": "A. ONE-HUNDRED-TEN-DAY REVIEW PERIOD"
+ },
+ {
+  "id": "b-methods-of-approval-and-disapproval-of-regulations",
+  "level": 3,
+  "title": "B. METHODS OF APPROVAL AND DISAPPROVAL OF REGULATIONS"
+ },
+ {
+  "id": "c-modification-withdrawal-and-resubmission-of-regulations",
+  "level": 3,
+  "title": "C. MODIFICATION, WITHDRAWAL, AND RESUBMISSION OF REGULATIONS"
+ },
+ {
+  "id": "d-effective-dates-of-regulations",
+  "level": 3,
+  "title": "D. EFFECTIVE DATES OF REGULATIONS"
+ },
+ {
+  "id": "e-correcting-errors-in-regulations",
+  "level": 3,
+  "title": "E. CORRECTING ERRORS IN REGULATIONS"
+ },
+ {
+  "id": "f-statutory-five-year-review-of-regulations",
+  "level": 3,
+  "title": "F. STATUTORY FIVE-YEAR REVIEW OF REGULATIONS"
+ },
+ {
+  "id": "v-special-reports",
+  "level": 3,
+  "title": "V. SPECIAL REPORTS"
+ },
+ {
+  "id": "a-assessment-reports",
+  "level": 3,
+  "title": "A. ASSESSMENT REPORTS"
+ },
+ {
+  "id": "b-small-business-regulatory-flexibility-reports",
+  "level": 3,
+  "title": "B. SMALL BUSINESS REGULATORY FLEXIBILITY REPORTS"
+ },
+ {
+  "id": "vi-preparing-documents-for-filing-and-publication",
+  "level": 3,
+  "title": "VI. PREPARING DOCUMENTS FOR FILING AND PUBLICATION"
+ },
+ {
+  "id": "a-development-of-standards",
+  "level": 3,
+  "title": "A. DEVELOPMENT OF STANDARDS"
+ },
+ {
+  "id": "b-submission-of-documents",
+  "level": 3,
+  "title": "B. SUBMISSION OF DOCUMENTS"
+ },
+ {
+  "id": "c-codification",
+  "level": 3,
+  "title": "C. CODIFICATION"
+ },
+ {
+  "id": "d-word-processing-standards",
+  "level": 3,
+  "title": "D. WORD PROCESSING STANDARDS"
+ },
+ {
+  "id": "not",
+  "level": 3,
+  "title": "NOT:"
+ },
+ {
+  "id": "e-processing-of-submitted-documents",
+  "level": 3,
+  "title": "E. PROCESSING OF SUBMITTED DOCUMENTS"
+ },
+ {
+  "id": "vii-guidelines-for-drafting-text",
+  "level": 3,
+  "title": "VII. GUIDELINES FOR DRAFTING TEXT"
+ },
+ {
+  "id": "a-language-style",
+  "level": 3,
+  "title": "A. LANGUAGE STYLE"
+ },
+ {
+  "id": "b-citations",
+  "level": 3,
+  "title": "B. CITATIONS"
+ },
+ {
+  "id": "c-incorporation-by-reference",
+  "level": 3,
+  "title": "C. INCORPORATION BY REFERENCE"
+ },
+ {
+  "id": "viii-examples-and-formats",
+  "level": 3,
+  "title": "VIII. EXAMPLES AND FORMATS"
+ },
+ {
+  "id": "a-example-of-notices-of-general-public-interest",
+  "level": 3,
+  "title": "A. EXAMPLE OF NOTICES OF GENERAL PUBLIC INTEREST"
+ },
+ {
+  "id": "department-of-health-and-environmental-control",
+  "level": 3,
+  "title": "DEPARTMENT OF HEALTH AND ENVIRONMENTAL CONTROL"
+ },
+ {
+  "id": "notice-of-general-public-interest",
+  "level": 3,
+  "title": "NOTICE OF GENERAL PUBLIC INTEREST"
+ },
+ {
+  "id": "affecting-berkeley-county-roper-st-francis-hospital-berkeley",
+  "level": 3,
+  "title": "Affecting Berkeley County Roper St. Francis Hospital - Berkeley, Inc. d/b/a Roper St. Francis Hospital – Berkeley"
+ },
+ {
+  "id": "affecting-florence-county-medical-university-hospital-author",
+  "level": 3,
+  "title": "Affecting Florence County Medical University Hospital Authority d/b/a MUSC Health Florence Medical Center Freestanding Emergency Department"
+ },
+ {
+  "id": "affecting-georgetown-county-georgetown-treatment-specialists",
+  "level": 3,
+  "title": "Affecting Georgetown County Georgetown Treatment Specialists, LLC"
+ },
+ {
+  "id": "affecting-horry-county-conway-hospital-inc-d-b-a-conway-medi",
+  "level": 3,
+  "title": "Affecting Horry County Conway Hospital, Inc. d/b/a Conway Medical Center - Carolina Forest"
+ },
+ {
+  "id": "affecting-orangeburg-county-the-regional-medical-center-of-o",
+  "level": 3,
+  "title": "Affecting Orangeburg County The Regional Medical Center of Orangeburg and Calhoun Counties d/b/a RMC Ambulatory Surgery Center"
+ },
+ {
+  "id": "affecting-sumter-county-sumter-behavioral-health-llc-d-b-a-m",
+  "level": 3,
+  "title": "Affecting Sumter County Sumter Behavioral Health, LLC d/b/a Midlands Behavioral Health Hospital"
+ },
+ {
+  "id": "affecting-abbeville-county-prisma-health-upstate-d-b-a-prism",
+  "level": 3,
+  "title": "Affecting Abbeville County Prisma Health-Upstate d/b/a Prisma Health Home Health Agency"
+ },
+ {
+  "id": "affecting-florence-county-palmetto-faith-operating-llc-d-b-a",
+  "level": 3,
+  "title": "Affecting Florence County Palmetto Faith Operating, LLC d/b/a Wellsprings Health and Rehabilitation"
+ },
+ {
+  "id": "affecting-greenwood-county-prisma-health-upstate-d-b-a-prism",
+  "level": 3,
+  "title": "Affecting Greenwood County Prisma Health-Upstate d/b/a Prisma Health Home Health Agency"
+ },
+ {
+  "id": "affecting-laurens-county-prisma-health-upstate-d-b-a-prisma-",
+  "level": 3,
+  "title": "Affecting Laurens County Prisma Health-Upstate d/b/a Prisma Health Home Health Agency"
+ },
+ {
+  "id": "affecting-newberry-county-prisma-health-upstate-d-b-a-prisma",
+  "level": 3,
+  "title": "Affecting Newberry County Prisma Health-Upstate d/b/a Prisma Health Home Health Agency"
+ },
+ {
+  "id": "affecting-spartanburg-county-prisma-health-upstate-d-b-a-pri",
+  "level": 3,
+  "title": "Affecting Spartanburg County Prisma Health-Upstate d/b/a Prisma Health Home Health Agency"
+ },
+ {
+  "id": "department-of-health-and-environmental-control-2",
+  "level": 3,
+  "title": "DEPARTMENT OF HEALTH AND ENVIRONMENTAL CONTROL"
+ },
+ {
+  "id": "errata",
+  "level": 3,
+  "title": "ERRATA"
+ },
+ {
+  "id": "b-example-of-notice-of-drafting-regulation",
+  "level": 3,
+  "title": "B. EXAMPLE OF NOTICE OF DRAFTING REGULATION"
+ },
+ {
+  "id": "department-of-health-and-environmental-control-3",
+  "level": 3,
+  "title": "DEPARTMENT OF HEALTH AND ENVIRONMENTAL CONTROL"
+ },
+ {
+  "id": "notice-of-drafting",
+  "level": 3,
+  "title": "Notice of Drafting:"
+ },
+ {
+  "id": "synopsis",
+  "level": 3,
+  "title": "Synopsis:"
+ },
+ {
+  "id": "c-format-of-a-proposed-regulation",
+  "level": 3,
+  "title": "C. FORMAT OF A PROPOSED REGULATION"
+ },
+ {
+  "id": "name-of-agency",
+  "level": 3,
+  "title": "NAME OF AGENCY"
+ },
+ {
+  "id": "d-format-of-a-regulation-submitted-for-general-assembly-revi",
+  "level": 3,
+  "title": "D. FORMAT OF A REGULATION SUBMITTED FOR GENERAL ASSEMBLY REVIEW"
+ },
+ {
+  "id": "name-of-agency-2",
+  "level": 3,
+  "title": "NAME OF AGENCY"
+ },
+ {
+  "id": "final-assessment-report-summary-prepared-by-the-office-of-re",
+  "level": 3,
+  "title": "Final Assessment Report Summary Prepared by the Office of Research and Statistics of the Revenue"
+ },
+ {
+  "id": "e-format-for-an-emergency-regulation",
+  "level": 3,
+  "title": "E. FORMAT FOR AN EMERGENCY REGULATION"
+ },
+ {
+  "id": "name-of-agency-3",
+  "level": 3,
+  "title": "NAME OF AGENCY"
+ },
+ {
+  "id": "emergency-situation",
+  "level": 3,
+  "title": "Emergency Situation:"
+ },
+ {
+  "id": "text",
+  "level": 3,
+  "title": "Text:"
+ },
+ {
+  "id": "final-assessment-report-summary-prepared-by-the-office-of-re-2",
+  "level": 3,
+  "title": "Final Assessment Report Summary Prepared by the Office of Research and Statistics of the Revenue"
+ },
+ {
+  "id": "ix-appendices-appendix-1",
+  "level": 3,
+  "title": "IX. APPENDICES APPENDIX 1"
+ },
+ {
+  "id": "appendix-2",
+  "level": 3,
+  "title": "APPENDIX 2"
+ },
+ {
+  "id": "preliminary-or-final-fiscal-impact-statement",
+  "level": 3,
+  "title": "PRELIMINARY OR FINAL FISCAL IMPACT STATEMENT"
+ },
+ {
+  "id": "preliminary-or-final-fiscal-impact-statement-2",
+  "level": 3,
+  "title": "Preliminary or Final Fiscal Impact Statement:"
+ },
+ {
+  "id": "appendix-3",
+  "level": 3,
+  "title": "APPENDIX 3"
+ },
+ {
+  "id": "statement-of-need-and-reasonableness",
+  "level": 3,
+  "title": "STATEMENT OF NEED AND REASONABLENESS"
+ },
+ {
+  "id": "statement-of-need-and-reasonableness-2",
+  "level": 3,
+  "title": "Statement of Need and Reasonableness:"
+ },
+ {
+  "id": "appendix-4",
+  "level": 3,
+  "title": "APPENDIX 4"
+ },
+ {
+  "id": "preliminary-assessment-report",
+  "level": 3,
+  "title": "PRELIMINARY ASSESSMENT REPORT"
+ },
+ {
+  "id": "content-requirements-for-the-assessment-report",
+  "level": 3,
+  "title": "Content Requirements for the Assessment Report"
+ },
+ {
+  "id": "responsibility-of-the-promulgating-agency-to-update-the-prel",
+  "level": 3,
+  "title": "Responsibility of the Promulgating Agency to Update the Preliminary Assessment Report"
+ },
+ {
+  "id": "suggested-format-preliminary-assessment-report",
+  "level": 3,
+  "title": "Suggested Format: Preliminary Assessment Report"
+ },
+ {
+  "id": "title-1",
+  "level": 3,
+  "title": "TITLE 1"
+ },
+ {
+  "id": "administration-of-the-government",
+  "level": 3,
+  "title": "Administration of the Government"
+ },
+ {
+  "id": "chapter-23",
+  "level": 3,
+  "title": "CHAPTER 23"
+ },
+ {
+  "id": "state-agency-rule-making-and-adjudication-of-contested-cases",
+  "level": 3,
+  "title": "State Agency Rule Making and Adjudication of Contested Cases"
+ },
+ {
+  "id": "article-1",
+  "level": 3,
+  "title": "Article 1"
+ },
+ {
+  "id": "state-register-and-code-of-regulations",
+  "level": 3,
+  "title": "State Register and Code of Regulations"
+ },
+ {
+  "id": "section-1-23-20-custody-printing-and-distribution-of-documen",
+  "level": 3,
+  "title": "SECTION 1-23-20. Custody, printing and distribution of documents charged to Legislative Council; establishment of State"
+ },
+ {
+  "id": "section-1-23-30-filing-of-documents-with",
+  "level": 3,
+  "title": "SECTION 1-23-30. Filing of documents with"
+ },
+ {
+  "id": "section-1-23-40-documents-required-to-be",
+  "level": 3,
+  "title": "SECTION 1-23-40. Documents required to be"
+ },
+ {
+  "id": "section-1-23-50-legislative-council-to",
+  "level": 3,
+  "title": "SECTION 1-23-50. Legislative Council to"
+ },
+ {
+  "id": "section-1-23-60-effect-of-filing-and-of",
+  "level": 3,
+  "title": "SECTION 1-23-60. Effect of filing and of"
+ },
+ {
+  "id": "section-1-23-80-costs-incurred-and",
+  "level": 3,
+  "title": "SECTION 1-23-80. Costs incurred and"
+ },
+ {
+  "id": "section-1-23-90-complete-codifications-of-documents-code-of-",
+  "level": 3,
+  "title": "SECTION 1-23-90. Complete codifications of documents; Code of State Regulations"
+ },
+ {
+  "id": "section-1-23-100-exemptions-for-executive-orders-proclamatio",
+  "level": 3,
+  "title": "SECTION 1-23-100. Exemptions for Executive Orders, proclamations or"
+ },
+ {
+  "id": "treatment-of-some-executive-orders-for",
+  "level": 3,
+  "title": "treatment of some Executive Orders for"
+ },
+ {
+  "id": "section-1-23-110-procedures-for-publication-of-notice-of-pro",
+  "level": 3,
+  "title": "SECTION 1-23-110. Procedures for publication of notice of proposed promulgation of regulations; public participation; contest of regulation for"
+ },
+ {
+  "id": "section-1-23-115-regulations-requiring",
+  "level": 3,
+  "title": "SECTION 1-23-115. Regulations requiring"
+ },
+ {
+  "id": "submission-to-legislative-council-for",
+  "level": 3,
+  "title": "submission to Legislative Council for"
+ },
+ {
+  "id": "requirements-and-procedures-compliance",
+  "level": 3,
+  "title": "requirements and procedures; compliance"
+ },
+ {
+  "id": "section-1-23-125-approval-disapproval",
+  "level": 3,
+  "title": "SECTION 1-23-125. Approval, disapproval"
+ },
+ {
+  "id": "section-1-23-126-petition-requesting-promulgation-amendment-",
+  "level": 3,
+  "title": "SECTION 1-23-126. Petition requesting promulgation, amendment or repeal of"
+ },
+ {
+  "id": "section-1-23-150-appeals-contesting",
+  "level": 3,
+  "title": "SECTION 1-23-150. Appeals contesting"
+ },
+ {
+  "id": "section-1-23-160-prior-filed-regulations",
+  "level": 3,
+  "title": "SECTION 1-23-160. Prior filed regulations"
+ }
+]

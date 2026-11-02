@@ -1,0 +1,617 @@
+[
+ {
+  "id": "rechtsetzungs-leitfaden",
+  "level": 2,
+  "title": "Rechtsetzungs- leitfaden"
+ },
+ {
+  "id": "juni-2016",
+  "level": 2,
+  "title": "Juni 2016"
+ },
+ {
+  "id": "kanton-st-gallen",
+  "level": 3,
+  "title": "Kanton St.Gallen"
+ },
+ {
+  "id": "impressum",
+  "level": 2,
+  "title": "Impressum"
+ },
+ {
+  "id": "inhaltsverzeichnis",
+  "level": 2,
+  "title": "Inhaltsverzeichnis"
+ },
+ {
+  "id": "1-grundlagen-6",
+  "level": 4,
+  "title": "1 Grundlagen 6"
+ },
+ {
+  "id": "2-gliederung-von-erlassen-6",
+  "level": 4,
+  "title": "2 Gliederung von Erlassen 6"
+ },
+ {
+  "id": "3-neuer-erlass-totalrevision-7",
+  "level": 4,
+  "title": "3 Neuer Erlass / Totalrevision 7"
+ },
+ {
+  "id": "4-änderung-von-erlassen-teilrevision-35",
+  "level": 4,
+  "title": "4 Änderung von Erlassen (Teilrevision) 35"
+ },
+ {
+  "id": "5-aufhebung-eines-erlasses-45",
+  "level": 4,
+  "title": "5 Aufhebung eines Erlasses 45"
+ },
+ {
+  "id": "6-aufhebung-mehrerer-erlasse-46",
+  "level": 4,
+  "title": "6 Aufhebung mehrerer Erlasse 46"
+ },
+ {
+  "id": "7-hinweise-zur-erlasssprache-46",
+  "level": 4,
+  "title": "7 Hinweise zur Erlasssprache 46"
+ },
+ {
+  "id": "anhang-54",
+  "level": 4,
+  "title": "Anhang 54"
+ },
+ {
+  "id": "1-grundlagen",
+  "level": 2,
+  "title": "1 Grundlagen"
+ },
+ {
+  "id": "1-1-anwendungsbereich",
+  "level": 2,
+  "title": "1.1 Anwendungsbereich"
+ },
+ {
+  "id": "1-2-technisch-formale-gestaltung",
+  "level": 2,
+  "title": "1.2 Technisch-formale Gestaltung"
+ },
+ {
+  "id": "2-gliederung-von-erlassen",
+  "level": 2,
+  "title": "2 Gliederung von Erlassen"
+ },
+ {
+  "id": "3-neuer-erlass-totalrevision",
+  "level": 2,
+  "title": "3 Neuer Erlass / Totalrevision"
+ },
+ {
+  "id": "3-1-erlasstitel",
+  "level": 2,
+  "title": "3.1 Erlasstitel"
+ },
+ {
+  "id": "3-2-erlassdatum",
+  "level": 2,
+  "title": "3.2 Erlassdatum"
+ },
+ {
+  "id": "3-3-ingress",
+  "level": 2,
+  "title": "3.3 Ingress"
+ },
+ {
+  "id": "3-3-1-bezeichnung-des-erlassorgans",
+  "level": 3,
+  "title": "3.3.1 Bezeichnung des Erlassorgans"
+ },
+ {
+  "id": "3-3-2-verweis-auf-die-rechtsgrundlagen",
+  "level": 3,
+  "title": "3.3.2 Verweis auf die Rechtsgrundlagen"
+ },
+ {
+  "id": "3-4-ingressfussnote",
+  "level": 2,
+  "title": "3.4 Ingressfussnote"
+ },
+ {
+  "id": "3-5-abschnitt-i-einleitung-hauptteil-schlussbestimmungen",
+  "level": 2,
+  "title": "3.5 Abschnitt I: Einleitung, Hauptteil, Schlussbestimmungen"
+ },
+ {
+  "id": "3-5-1-übergreifende-formale-vorgaben",
+  "level": 3,
+  "title": "3.5.1 Übergreifende formale Vorgaben"
+ },
+ {
+  "id": "3-5-1-a-gliederungsebenen",
+  "level": 3,
+  "title": "3.5.1.a Gliederungsebenen"
+ },
+ {
+  "id": "3-5-1-b-artikel-und-absätze",
+  "level": 3,
+  "title": "3.5.1.b Artikel und Absätze"
+ },
+ {
+  "id": "3-5-1-c-ausnahme-ziffern-statt-artikel",
+  "level": 3,
+  "title": "3.5.1.c Ausnahme: Ziffern statt Artikel"
+ },
+ {
+  "id": "3-5-1-d-artikeltitel",
+  "level": 3,
+  "title": "3.5.1.d Artikeltitel"
+ },
+ {
+  "id": "3-5-1-e-aufzählungen",
+  "level": 3,
+  "title": "3.5.1.e Aufzählungen"
+ },
+ {
+  "id": "3-5-1-f-besonderheiten-bei-gebühren-tarifen-taxen-und-andere",
+  "level": 3,
+  "title": "3.5.1.f Besonderheiten bei Gebühren, Tarifen, Taxen und anderen Spezialfällen"
+ },
+ {
+  "id": "3-5-1-g-verweise",
+  "level": 3,
+  "title": "3.5.1.g Verweise"
+ },
+ {
+  "id": "3-5-2-einleitungsteil",
+  "level": 3,
+  "title": "3.5.2 Einleitungsteil"
+ },
+ {
+  "id": "3-5-2-a-vorbemerkung",
+  "level": 3,
+  "title": "3.5.2.a Vorbemerkung"
+ },
+ {
+  "id": "3-5-2-b-gegenstand",
+  "level": 3,
+  "title": "3.5.2.b Gegenstand"
+ },
+ {
+  "id": "3-5-2-c-zweckartikel",
+  "level": 3,
+  "title": "3.5.2.c Zweckartikel"
+ },
+ {
+  "id": "3-5-2-d-geltungsbereich",
+  "level": 3,
+  "title": "3.5.2.d Geltungsbereich"
+ },
+ {
+  "id": "3-5-2-e-legaldefinitionen",
+  "level": 3,
+  "title": "3.5.2.e Legaldefinitionen"
+ },
+ {
+  "id": "3-5-3-hauptteil",
+  "level": 3,
+  "title": "3.5.3 Hauptteil"
+ },
+ {
+  "id": "3-5-3-a-inhalt",
+  "level": 3,
+  "title": "3.5.3.a Inhalt"
+ },
+ {
+  "id": "3-5-3-b-inhaltliche-gliederung",
+  "level": 3,
+  "title": "3.5.3.b Inhaltliche Gliederung"
+ },
+ {
+  "id": "3-5-4-schlussbestimmungen",
+  "level": 3,
+  "title": "3.5.4 Schlussbestimmungen"
+ },
+ {
+  "id": "3-5-4-a-reihenfolge",
+  "level": 3,
+  "title": "3.5.4.a Reihenfolge"
+ },
+ {
+  "id": "3-5-4-b-strafbestimmungen",
+  "level": 3,
+  "title": "3.5.4.b Strafbestimmungen"
+ },
+ {
+  "id": "3-5-4-c-ergänzendes-recht",
+  "level": 3,
+  "title": "3.5.4.c Ergänzendes Recht"
+ },
+ {
+  "id": "3-5-4-d-übergangsbestimmungen",
+  "level": 3,
+  "title": "3.5.4.d Übergangsbestimmungen"
+ },
+ {
+  "id": "3-6-abschnitt-ii-änderung-anderer-erlasse",
+  "level": 2,
+  "title": "3.6 Abschnitt II: Änderung anderer Erlasse"
+ },
+ {
+  "id": "3-7-abschnitt-iii-aufhebung-anderer-erlasse",
+  "level": 2,
+  "title": "3.7 Abschnitt III: Aufhebung anderer Erlasse"
+ },
+ {
+  "id": "3-8-abschnitt-iv-vollzugsbeginn-sowie-bestimmungen-zu-rechts",
+  "level": 2,
+  "title": "3.8 Abschnitt IV: Vollzugsbeginn sowie Bestimmungen zu Rechtsgül- tigkeit, Genehmigungsvorbehalt und Referendum"
+ },
+ {
+  "id": "3-8-1-vollzugsbeginn",
+  "level": 3,
+  "title": "3.8.1 Vollzugsbeginn"
+ },
+ {
+  "id": "3-8-2-rechtsgültigkeit",
+  "level": 3,
+  "title": "3.8.2 Rechtsgültigkeit"
+ },
+ {
+  "id": "3-8-3-genehmigungsvorbehalt",
+  "level": 3,
+  "title": "3.8.3 Genehmigungsvorbehalt"
+ },
+ {
+  "id": "3-8-4-referendum",
+  "level": 3,
+  "title": "3.8.4 Referendum"
+ },
+ {
+  "id": "3-9-anhang",
+  "level": 2,
+  "title": "3.9 Anhang"
+ },
+ {
+  "id": "3-10-spezialerlasse",
+  "level": 2,
+  "title": "3.10 Spezialerlasse"
+ },
+ {
+  "id": "4-änderung-von-erlassen-teilrevision",
+  "level": 2,
+  "title": "4 Änderung von Erlassen (Teilrevision)"
+ },
+ {
+  "id": "4-1-änderung-eines-einzigen-erlasses",
+  "level": 2,
+  "title": "4.1 Änderung eines einzigen Erlasses"
+ },
+ {
+  "id": "4-1-1-erlasstitel",
+  "level": 3,
+  "title": "4.1.1 Erlasstitel"
+ },
+ {
+  "id": "4-1-2-erlassdatum",
+  "level": 3,
+  "title": "4.1.2 Erlassdatum"
+ },
+ {
+  "id": "4-1-3-ingress",
+  "level": 3,
+  "title": "4.1.3 Ingress"
+ },
+ {
+  "id": "4-1-4-abschnitte",
+  "level": 3,
+  "title": "4.1.4 Abschnitte"
+ },
+ {
+  "id": "4-1-5-änderung-eines-anhangs",
+  "level": 3,
+  "title": "4.1.5 Änderung eines Anhangs"
+ },
+ {
+  "id": "4-2-änderung-mehrerer-erlasse",
+  "level": 2,
+  "title": "4.2 Änderung mehrerer Erlasse"
+ },
+ {
+  "id": "4-2-1-erlasstitel",
+  "level": 3,
+  "title": "4.2.1 Erlasstitel"
+ },
+ {
+  "id": "4-2-2-erlassdatum",
+  "level": 3,
+  "title": "4.2.2 Erlassdatum"
+ },
+ {
+  "id": "4-2-3-ingress",
+  "level": 3,
+  "title": "4.2.3 Ingress"
+ },
+ {
+  "id": "4-2-4-abschnitte",
+  "level": 3,
+  "title": "4.2.4 Abschnitte"
+ },
+ {
+  "id": "4-2-5-besonderheiten-bei-spezialerlassen",
+  "level": 3,
+  "title": "4.2.5 Besonderheiten bei Spezialerlassen"
+ },
+ {
+  "id": "4-3-formulierung-und-darstellung-der-änderungen",
+  "level": 2,
+  "title": "4.3 Formulierung und Darstellung der Änderungen"
+ },
+ {
+  "id": "4-3-1-grundsätze",
+  "level": 3,
+  "title": "4.3.1 Grundsätze"
+ },
+ {
+  "id": "4-3-2-änderung-des-erlasstitels-des-grunderlasses",
+  "level": 3,
+  "title": "4.3.2 Änderung des Erlasstitels des Grunderlasses"
+ },
+ {
+  "id": "christkatholische-kirchgemeinde-st-gallen",
+  "level": 4,
+  "title": "christkatholische Kirchgemeinde St.Gallen"
+ },
+ {
+  "id": "4-3-3-änderung-des-ingresses-des-grunderlasses",
+  "level": 3,
+  "title": "4.3.3 Änderung des Ingresses des Grunderlasses"
+ },
+ {
+  "id": "4-3-4-änderung-von-gliederungstiteln-des-grunderlasses",
+  "level": 3,
+  "title": "4.3.4 Änderung von Gliederungstiteln des Grunderlasses"
+ },
+ {
+  "id": "bestimmungen",
+  "level": 4,
+  "title": "Bestimmungen"
+ },
+ {
+  "id": "4-3-5-aufnahme-neuer-gliederungstitel-in-den-grunderlass",
+  "level": 3,
+  "title": "4.3.5 Aufnahme neuer Gliederungstitel in den Grunderlass"
+ },
+ {
+  "id": "4-3-6-änderung-von-bestehenden-artikeln-des-grunderlasses",
+  "level": 3,
+  "title": "4.3.6 Änderung von bestehenden Artikeln des Grunderlasses"
+ },
+ {
+  "id": "2-regierungsräte-und-staatssekretär-leisten-eid-oder-gelübde",
+  "level": 4,
+  "title": "2 Regierungsräte und Staatssekretär leisten Eid oder Gelübde vor dem Kantonsrat zu Be-"
+ },
+ {
+  "id": "kantonale-aufträge-oder-besondere-fälle-ein-amtspool-im-umfa",
+  "level": 4,
+  "title": "kantonale Aufträge oder besondere Fälle ein Amtspool im Umfang von 175 Stellenprozen-"
+ },
+ {
+  "id": "4-3-7-aufhebung-von-artikeln-des-grunderlasses",
+  "level": 3,
+  "title": "4.3.7 Aufhebung von Artikeln des Grunderlasses"
+ },
+ {
+  "id": "4-3-8-aufnahme-von-neuen-artikeln-in-den-grunderlass",
+  "level": 3,
+  "title": "4.3.8 Aufnahme von neuen Artikeln in den Grunderlass"
+ },
+ {
+  "id": "art-3a-neu-geheimhaltung-1-die-staatsverwaltung-hält-tatsach",
+  "level": 4,
+  "title": "Art. 3a (neu) Geheimhaltung 1 Die Staatsverwaltung hält Tatsachen geheim, die nach ihrer Natur oder nach besonderer"
+ },
+ {
+  "id": "4-3-9-aufnahme-von-neuen-absätzen-in-den-grunderlass",
+  "level": 3,
+  "title": "4.3.9 Aufnahme von neuen Absätzen in den Grunderlass"
+ },
+ {
+  "id": "1bis-regierung-und-zuständiges-departement-können-im-rahmen-",
+  "level": 4,
+  "title": "1bis Regierung und zuständiges Departement können im Rahmen ihrer Zuständigkeiten die"
+ },
+ {
+  "id": "4-3-10-aufnahme-von-neuen-positionen-in-gebührentarife",
+  "level": 3,
+  "title": "4.3.10 Aufnahme von neuen Positionen in Gebührentarife"
+ },
+ {
+  "id": "123-neu-teich-200-bis-2000",
+  "level": 4,
+  "title": "123 (neu) Teich 200.– bis 2000.–"
+ },
+ {
+  "id": "4-3-11-änderung-von-bezeichnungen-oder-ausdrücken-im-grunder",
+  "level": 3,
+  "title": "4.3.11 Änderung von Bezeichnungen oder Ausdrücken im Grunderlass"
+ },
+ {
+  "id": "4-3-12-rechtsgültigkeit-und-referendum",
+  "level": 3,
+  "title": "4.3.12 Rechtsgültigkeit und Referendum"
+ },
+ {
+  "id": "4-3-13-änderung-von-fussnoten",
+  "level": 3,
+  "title": "4.3.13 Änderung von Fussnoten"
+ },
+ {
+  "id": "5-aufhebung-eines-erlasses",
+  "level": 2,
+  "title": "5 Aufhebung eines Erlasses"
+ },
+ {
+  "id": "6-aufhebung-mehrerer-erlasse",
+  "level": 2,
+  "title": "6 Aufhebung mehrerer Erlasse"
+ },
+ {
+  "id": "7-hinweise-zur-erlasssprache",
+  "level": 2,
+  "title": "7 Hinweise zur Erlasssprache"
+ },
+ {
+  "id": "7-1-grundsätze",
+  "level": 2,
+  "title": "7.1 Grundsätze"
+ },
+ {
+  "id": "7-2-formulierung-von-verhaltensanweisungen",
+  "level": 2,
+  "title": "7.2 Formulierung von Verhaltensanweisungen"
+ },
+ {
+  "id": "7-2-1-modalität",
+  "level": 3,
+  "title": "7.2.1 Modalität"
+ },
+ {
+  "id": "7-2-2-adressat",
+  "level": 3,
+  "title": "7.2.2 Adressat"
+ },
+ {
+  "id": "7-2-3-konditionale-beziehungen",
+  "level": 3,
+  "title": "7.2.3 Konditionale Beziehungen"
+ },
+ {
+  "id": "7-2-4-hinweis-auf-die-sachgemässe-anwendung",
+  "level": 3,
+  "title": "7.2.4 Hinweis auf die «sachgemässe» Anwendung"
+ },
+ {
+  "id": "7-3-terminologie",
+  "level": 2,
+  "title": "7.3 Terminologie"
+ },
+ {
+  "id": "7-3-1-verwendung-gleicher-begriffe",
+  "level": 3,
+  "title": "7.3.1 Verwendung gleicher Begriffe"
+ },
+ {
+  "id": "7-3-2-verwendung-von-fachbegriffen",
+  "level": 3,
+  "title": "7.3.2 Verwendung von Fachbegriffen"
+ },
+ {
+  "id": "7-3-3-verwendung-von-fremdwörtern",
+  "level": 3,
+  "title": "7.3.3 Verwendung von Fremdwörtern"
+ },
+ {
+  "id": "7-3-4-verwendung-von-formulierungen-des-bundesrechts",
+  "level": 3,
+  "title": "7.3.4 Verwendung von Formulierungen des Bundesrechts"
+ },
+ {
+  "id": "7-3-5-verwendung-des-titels-von-bundeserlassen",
+  "level": 3,
+  "title": "7.3.5 Verwendung des Titels von Bundeserlassen"
+ },
+ {
+  "id": "7-3-6-hinweis-auf-den-kanton",
+  "level": 3,
+  "title": "7.3.6 Hinweis auf den Kanton"
+ },
+ {
+  "id": "7-4-grammatik",
+  "level": 2,
+  "title": "7.4 Grammatik"
+ },
+ {
+  "id": "7-4-1-verwendung-der-singular-form",
+  "level": 3,
+  "title": "7.4.1 Verwendung der Singular-Form"
+ },
+ {
+  "id": "7-4-2-verwendung-der-genitiv-form",
+  "level": 3,
+  "title": "7.4.2 Verwendung der Genitiv-Form"
+ },
+ {
+  "id": "7-4-3-verwendung-des-genitiv-e",
+  "level": 3,
+  "title": "7.4.3 Verwendung des «Genitiv-e»"
+ },
+ {
+  "id": "7-4-4-verwendung-von-pronomen",
+  "level": 3,
+  "title": "7.4.4 Verwendung von Pronomen"
+ },
+ {
+  "id": "7-5-rechtschreibung",
+  "level": 2,
+  "title": "7.5 Rechtschreibung"
+ },
+ {
+  "id": "7-6-sprachliche-gleichbehandlung-der-geschlechter",
+  "level": 2,
+  "title": "7.6 Sprachliche Gleichbehandlung der Geschlechter"
+ },
+ {
+  "id": "7-6-1-grundsatz",
+  "level": 3,
+  "title": "7.6.1 Grundsatz"
+ },
+ {
+  "id": "7-6-2-möglichkeiten-der-sprachlichen-gleichbehandlung",
+  "level": 3,
+  "title": "7.6.2 Möglichkeiten der sprachlichen Gleichbehandlung"
+ },
+ {
+  "id": "7-6-2-a-paarformen",
+  "level": 3,
+  "title": "7.6.2.a Paarformen"
+ },
+ {
+  "id": "7-6-2-b-geschlechtsneutrale-ausdrücke",
+  "level": 3,
+  "title": "7.6.2.b Geschlechtsneutrale Ausdrücke"
+ },
+ {
+  "id": "7-6-2-c-geschlechtsabstrakte-ausdrücke",
+  "level": 3,
+  "title": "7.6.2.c Geschlechtsabstrakte Ausdrücke"
+ },
+ {
+  "id": "7-6-2-d-geschlechtsunspezifische-pronomen",
+  "level": 3,
+  "title": "7.6.2.d Geschlechtsunspezifische Pronomen"
+ },
+ {
+  "id": "7-6-2-e-passivform",
+  "level": 3,
+  "title": "7.6.2.e Passivform"
+ },
+ {
+  "id": "7-6-3-umsetzung-bei-total-und-bei-teilrevisionen-von-erlasse",
+  "level": 3,
+  "title": "7.6.3 Umsetzung bei Total- und bei Teilrevisionen von Erlassen"
+ },
+ {
+  "id": "anhang",
+  "level": 2,
+  "title": "Anhang"
+ },
+ {
+  "id": "sgs-nr-titel-des-erlasses",
+  "level": 4,
+  "title": "sGS-Nr. Titel des Erlasses"
+ }
+]

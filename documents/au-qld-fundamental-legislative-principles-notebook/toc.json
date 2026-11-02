@@ -1,0 +1,1757 @@
+[
+ {
+  "id": "contents",
+  "level": 2,
+  "title": "Contents"
+ },
+ {
+  "id": "abbreviations",
+  "level": 2,
+  "title": "Abbreviations"
+ },
+ {
+  "id": "introduction",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "chapter-1-fundamental-legislative-principles-and-how-they-sh",
+  "level": 2,
+  "title": "Chapter 1: Fundamental legislative principles and how they should be approached"
+ },
+ {
+  "id": "34a-prescribed-drafting-standards",
+  "level": 5,
+  "title": "34A Prescribed drafting standards"
+ },
+ {
+  "id": "chapter-2-individuals-rights-and-liberties-flp-issues-listed",
+  "level": 2,
+  "title": "Chapter 2: Individuals’ rights and liberties—FLP issues listed in the Legislative Standards Act"
+ },
+ {
+  "id": "2-1-defining-administrative-power",
+  "level": 3,
+  "title": "2.1 Defining administrative power"
+ },
+ {
+  "id": "2-1-1-flp-issue-legislation-should-make-rights-and-liberties",
+  "level": 4,
+  "title": "2.1.1 FLP issue Legislation should make rights and liberties, or obligations, dependent"
+ },
+ {
+  "id": "2-1-2-conditions-on-grant-of-licence",
+  "level": 4,
+  "title": "2.1.2 Conditions on grant of licence"
+ },
+ {
+  "id": "2-1-3-suitability-eligibility-and-similar-criteria",
+  "level": 4,
+  "title": "2.1.3 Suitability, eligibility and similar criteria"
+ },
+ {
+  "id": "2-1-4-power-of-appointment-or-employment",
+  "level": 4,
+  "title": "2.1.4 Power of appointment or employment"
+ },
+ {
+  "id": "2-1-5-power-to-direct-others-to-take-action",
+  "level": 4,
+  "title": "2.1.5 Power to direct others to take action"
+ },
+ {
+  "id": "2-1-6-power-to-delegate-the-setting-of-criteria-for-the-exer",
+  "level": 4,
+  "title": "2.1.6 Power to delegate the setting of criteria for the exercise of power"
+ },
+ {
+  "id": "2-1-7-power-of-trustee-scrutiny-committee",
+  "level": 4,
+  "title": "2.1.7 Power of trustee Scrutiny Committee"
+ },
+ {
+  "id": "2-1-8-power-to-direct-independent-persons-and-bodies",
+  "level": 4,
+  "title": "2.1.8 Power to direct independent persons and bodies"
+ },
+ {
+  "id": "2-1-9-limiting-the-period-within-which-a-prosecution-or-proc",
+  "level": 4,
+  "title": "2.1.9 Limiting the period within which a prosecution or proceeding may be started"
+ },
+ {
+  "id": "2-2-reviewing-the-use-of-administrative-power",
+  "level": 3,
+  "title": "2.2 Reviewing the use of administrative power"
+ },
+ {
+  "id": "2-2-1-flp-issue-legislation-should-make-rights-and-liberties",
+  "level": 4,
+  "title": "2.2.1 FLP issue Legislation should make rights and liberties, or obligations, dependent"
+ },
+ {
+  "id": "2-2-2-reasons-for-decision-and-information-about-review-and-",
+  "level": 4,
+  "title": "2.2.2 Reasons for decision and information about review and appeal"
+ },
+ {
+  "id": "2-2-3-peremptory-exercise-of-power",
+  "level": 4,
+  "title": "2.2.3 Peremptory exercise of power"
+ },
+ {
+  "id": "2-2-4-grant-of-commercial-rights",
+  "level": 4,
+  "title": "2.2.4 Grant of commercial rights"
+ },
+ {
+  "id": "2-2-5-unexplained-reduction-in-review-or-appeal-rights",
+  "level": 4,
+  "title": "2.2.5 Unexplained reduction in review or appeal rights"
+ },
+ {
+  "id": "2-2-6-political-accountability-instead-of-appeal-or-review",
+  "level": 4,
+  "title": "2.2.6 Political accountability instead of appeal or review"
+ },
+ {
+  "id": "2-2-7-review-or-appeal-with-less-than-full-process",
+  "level": 4,
+  "title": "2.2.7 Review or appeal with less than full process"
+ },
+ {
+  "id": "2-2-8-national-scheme-legislation",
+  "level": 4,
+  "title": "2.2.8 National scheme legislation"
+ },
+ {
+  "id": "2-2-9-miscellaneous-subjects-of-review",
+  "level": 4,
+  "title": "2.2.9 Miscellaneous subjects of review"
+ },
+ {
+  "id": "2-3-consistency-with-natural-justice-3-main-principles",
+  "level": 3,
+  "title": "2.3 Consistency with natural justice—3 main principles"
+ },
+ {
+  "id": "2-3-1-flp-issue-legislation-should-be-consistent-with-the-pr",
+  "level": 4,
+  "title": "2.3.1 FLP issue Legislation should be consistent with the principles of natural justice—"
+ },
+ {
+  "id": "2-4-consistency-with-natural-justice-right-to-be-heard",
+  "level": 3,
+  "title": "2.4 Consistency with natural justice—right to be heard"
+ },
+ {
+  "id": "2-4-1-flp-issue-legislation-should-be-consistent-with-the-pr",
+  "level": 4,
+  "title": "2.4.1 FLP issue Legislation should be consistent with the principles of natural justice—"
+ },
+ {
+  "id": "2-4-2-immediate-action-without-hearing",
+  "level": 4,
+  "title": "2.4.2 Immediate action without hearing"
+ },
+ {
+  "id": "2-4-3-consideration-for-third-parties",
+  "level": 4,
+  "title": "2.4.3 Consideration for third parties"
+ },
+ {
+  "id": "2-4-4-public-safety-scrutiny-committee",
+  "level": 4,
+  "title": "2.4.4 Public safety Scrutiny Committee"
+ },
+ {
+  "id": "2-4-5-hearing-only-on-the-papers",
+  "level": 4,
+  "title": "2.4.5 Hearing only on the papers"
+ },
+ {
+  "id": "2-5-consistency-with-natural-justice-procedural-fairness",
+  "level": 3,
+  "title": "2.5 Consistency with natural justice—procedural fairness"
+ },
+ {
+  "id": "2-5-1-flp-issue-legislation-should-be-consistent-with-the-pr",
+  "level": 4,
+  "title": "2.5.1 FLP issue Legislation should be consistent with the principles of natural justice—"
+ },
+ {
+  "id": "2-5-2-premature-action-depending-on-the-nature-of-the-conseq",
+  "level": 4,
+  "title": "2.5.2 Premature action Depending on the nature of the consequence resulting from a"
+ },
+ {
+  "id": "2-5-3-adequate-notice-of-hearing",
+  "level": 4,
+  "title": "2.5.3 Adequate notice of hearing"
+ },
+ {
+  "id": "2-5-4-notice-of-any-allegation",
+  "level": 4,
+  "title": "2.5.4 Notice of any allegation"
+ },
+ {
+  "id": "2-5-5-notice-of-requirements",
+  "level": 4,
+  "title": "2.5.5 Notice of requirements"
+ },
+ {
+  "id": "2-5-6-conduct-of-a-hearing",
+  "level": 4,
+  "title": "2.5.6 Conduct of a hearing"
+ },
+ {
+  "id": "2-5-7-legal-representation",
+  "level": 4,
+  "title": "2.5.7 Legal representation"
+ },
+ {
+  "id": "2-5-8-evidence-rules-justification-is-required-for-relaxatio",
+  "level": 4,
+  "title": "2.5.8 Evidence rules Justification is required for relaxation of the normal rules of evidence"
+ },
+ {
+  "id": "2-5-9-reduction-of-full-process-in-urgent-cases",
+  "level": 4,
+  "title": "2.5.9 Reduction of full process in urgent cases"
+ },
+ {
+  "id": "2-5-10-committal-proceeding-for-trial-on-indictment",
+  "level": 4,
+  "title": "2.5.10 Committal proceeding for trial on indictment"
+ },
+ {
+  "id": "2-5-11-inconsistency-in-process",
+  "level": 4,
+  "title": "2.5.11 Inconsistency in process"
+ },
+ {
+  "id": "2-6-consistency-with-natural-justice-unbiased-decider",
+  "level": 3,
+  "title": "2.6 Consistency with natural justice—unbiased decider"
+ },
+ {
+  "id": "2-6-1-flp-issue-if-a-decision-is-subject-to-the-rules-of-nat",
+  "level": 4,
+  "title": "2.6.1 FLP issue If a decision is subject to the rules of natural justice, a person making"
+ },
+ {
+  "id": "2-6-2-reviewer-separate-to-decider",
+  "level": 4,
+  "title": "2.6.2 Reviewer separate to decider"
+ },
+ {
+  "id": "2-7-appropriateness-of-delegation-of-administrative-power",
+  "level": 3,
+  "title": "2.7 Appropriateness of delegation of administrative power"
+ },
+ {
+  "id": "2-7-1-flp-issue-legislation-should-allow-the-delegation-of-a",
+  "level": 4,
+  "title": "2.7.1 FLP issue Legislation should allow the delegation of administrative power only"
+ },
+ {
+  "id": "2-7-2-competence-of-delegate-should-match-the-power-delegate",
+  "level": 4,
+  "title": "2.7.2 Competence of delegate should match the power delegated"
+ },
+ {
+  "id": "2-7-3-delegate-should-be-properly-instructed",
+  "level": 4,
+  "title": "2.7.3 Delegate should be properly instructed"
+ },
+ {
+  "id": "2-7-4-evidential-facilitation-added-to-by-subordinate-legisl",
+  "level": 4,
+  "title": "2.7.4 Evidential facilitation added to by subordinate legislation"
+ },
+ {
+  "id": "2-7-5-appointment-power",
+  "level": 4,
+  "title": "2.7.5 Appointment power"
+ },
+ {
+  "id": "2-7-6-removal-from-office",
+  "level": 4,
+  "title": "2.7.6 Removal from office"
+ },
+ {
+  "id": "2-7-7-setting-of-amounts-payable",
+  "level": 4,
+  "title": "2.7.7 Setting of amounts payable"
+ },
+ {
+  "id": "2-8-appropriateness-of-delegation-of-administrative-power-su",
+  "level": 3,
+  "title": "2.8 Appropriateness of delegation of administrative power—subdelegation"
+ },
+ {
+  "id": "2-8-1-flp-issue-legislation-should-allow-the-delegation-of-a",
+  "level": 4,
+  "title": "2.8.1 FLP issue Legislation should allow the delegation of administrative power only"
+ },
+ {
+  "id": "2-8-2-power-of-appointment",
+  "level": 4,
+  "title": "2.8.2 Power of appointment"
+ },
+ {
+  "id": "2-9-appropriateness-of-reversal-of-onus-of-proof-in-criminal",
+  "level": 3,
+  "title": "2.9 Appropriateness of reversal of onus of proof in criminal proceedings"
+ },
+ {
+  "id": "2-9-1-flp-issue-legislation-should-not-reverse-the-onus-of-p",
+  "level": 4,
+  "title": "2.9.1 FLP issue Legislation should not reverse the onus of proof in criminal"
+ },
+ {
+  "id": "2-9-2-matter-peculiarly-within-defendant-s-knowledge-expensi",
+  "level": 4,
+  "title": "2.9.2 Matter peculiarly within defendant’s knowledge, expensive to prove"
+ },
+ {
+  "id": "2-9-3-consistency-with-common-law",
+  "level": 4,
+  "title": "2.9.3 Consistency with common law"
+ },
+ {
+  "id": "2-9-4-administration-of-legislation-otherwise-impractical",
+  "level": 4,
+  "title": "2.9.4 Administration of legislation otherwise impractical"
+ },
+ {
+  "id": "2-9-5-consistency-with-general-policy-underlying-provisions-",
+  "level": 4,
+  "title": "2.9.5 Consistency with general policy underlying provisions of empowering Act"
+ },
+ {
+  "id": "2-9-6-whether-a-circumstance-should-be-an-excuse-or-a-defenc",
+  "level": 4,
+  "title": "2.9.6 Whether a circumstance should be an excuse or a defence"
+ },
+ {
+  "id": "2-9-7-inappropriate-to-override-criminal-code-sections-23-an",
+  "level": 4,
+  "title": "2.9.7 Inappropriate to override Criminal Code sections 23 and 24"
+ },
+ {
+  "id": "2-9-8-facilitation-of-evidence-by-certificate-etc-may-be-app",
+  "level": 4,
+  "title": "2.9.8 Facilitation of evidence by certificate etc. may be appropriate"
+ },
+ {
+  "id": "2-9-9-right-of-review-or-appeal-may-be-relevant",
+  "level": 4,
+  "title": "2.9.9 Right of review or appeal may be relevant"
+ },
+ {
+  "id": "2-9-10-provision-for-guilt-by-association-is-inappropriate",
+  "level": 4,
+  "title": "2.9.10 Provision for guilt by association is inappropriate"
+ },
+ {
+  "id": "2-9-11-holding-occupiers-responsible-for-things-found",
+  "level": 4,
+  "title": "2.9.11 Holding occupiers responsible for things found"
+ },
+ {
+  "id": "2-9-12-immature-age-protection",
+  "level": 4,
+  "title": "2.9.12 Immature age protection"
+ },
+ {
+  "id": "2-9-13-weapon-against-crime",
+  "level": 4,
+  "title": "2.9.13 Weapon against crime"
+ },
+ {
+  "id": "2-9-14-civil-proceedings-distinguished",
+  "level": 4,
+  "title": "2.9.14 Civil proceedings distinguished"
+ },
+ {
+  "id": "2-10-judicial-warrant-required-for-entry-search-and-seizure",
+  "level": 3,
+  "title": "2.10 Judicial warrant required for entry, search and seizure"
+ },
+ {
+  "id": "2-10-1-flp-issue-legislation-should-confer-power-to-enter-pr",
+  "level": 4,
+  "title": "2.10.1 FLP issue Legislation should confer power to enter premises, and search for or"
+ },
+ {
+  "id": "2-10-2-residential-premises-especially-protected",
+  "level": 4,
+  "title": "2.10.2 Residential premises especially protected"
+ },
+ {
+  "id": "2-10-3-extended-powers-for-health-and-safety-reasons",
+  "level": 4,
+  "title": "2.10.3 Extended powers for health and safety reasons"
+ },
+ {
+  "id": "2-10-4-pest-control-scrutiny-committee",
+  "level": 4,
+  "title": "2.10.4 Pest control Scrutiny Committee"
+ },
+ {
+  "id": "2-10-5-powers-after-entry-immediate-production-of-documents",
+  "level": 4,
+  "title": "2.10.5 Powers after entry—immediate production of documents"
+ },
+ {
+  "id": "2-10-6-power-to-enter-access-land-to-gain-entry-to-primary-l",
+  "level": 4,
+  "title": "2.10.6 Power to enter ‘access land’ to gain entry to ‘primary land’"
+ },
+ {
+  "id": "2-10-7-width-of-powers-to-enter-and-act",
+  "level": 4,
+  "title": "2.10.7 Width of powers to enter and act"
+ },
+ {
+  "id": "2-10-8-warrants-required-to-be-obtained-later-if-entry-made-",
+  "level": 4,
+  "title": "2.10.8 Warrants required to be obtained later if entry made without warrant"
+ },
+ {
+  "id": "2-10-9-status-of-the-issuing-authority",
+  "level": 4,
+  "title": "2.10.9 Status of the issuing authority"
+ },
+ {
+  "id": "2-10-10-general-warrants-and-similar-authorisations",
+  "level": 4,
+  "title": "2.10.10 General warrants and similar authorisations"
+ },
+ {
+  "id": "2-11-providing-appropriate-protection-against-selfincriminat",
+  "level": 3,
+  "title": "2.11 Providing appropriate protection against selfincrimination"
+ },
+ {
+  "id": "2-11-1-flp-issue-legislation-should-provide-appropriate-prot",
+  "level": 4,
+  "title": "2.11.1 FLP issue Legislation should provide appropriate protection against"
+ },
+ {
+  "id": "2-11-2-filtering-devices-to-control-misuse-of-power-to-obtai",
+  "level": 4,
+  "title": "2.11.2 Filtering devices to control misuse of power to obtain information"
+ },
+ {
+  "id": "2-11-3-increased-access-to-information-in-prescribed-documen",
+  "level": 4,
+  "title": "2.11.3 Increased access to information in prescribed documents"
+ },
+ {
+  "id": "2-11-4-increased-access-to-information-in-issued-documents",
+  "level": 4,
+  "title": "2.11.4 Increased access to information in issued documents"
+ },
+ {
+  "id": "2-11-5-use-immunity-and-requirement-to-claim-the-privilege",
+  "level": 4,
+  "title": "2.11.5 Use immunity and requirement to claim the privilege"
+ },
+ {
+  "id": "2-11-6-corporations-scrutiny-committee",
+  "level": 4,
+  "title": "2.11.6 Corporations Scrutiny Committee"
+ },
+ {
+  "id": "2-12-retrospectivity",
+  "level": 3,
+  "title": "2.12 Retrospectivity"
+ },
+ {
+  "id": "2-12-1-flp-issue-legislation-should-not-adversely-affect-rig",
+  "level": 4,
+  "title": "2.12.1 FLP issue Legislation should not adversely affect rights and liberties, or impose"
+ },
+ {
+  "id": "2-12-2-parliament-s-role-to-directly-authorise-retrospectivi",
+  "level": 4,
+  "title": "2.12.2 Parliament’s role to directly authorise retrospectivity"
+ },
+ {
+  "id": "2-12-3-penalty-liability-the-retrospective-imposition-of-a-l",
+  "level": 4,
+  "title": "2.12.3 Penalty liability The retrospective imposition of a liability to pay a penalty, in"
+ },
+ {
+  "id": "2-12-4-investigation-liability",
+  "level": 4,
+  "title": "2.12.4 Investigation liability"
+ },
+ {
+  "id": "2-12-5-extending-time-for-starting-proceedings",
+  "level": 4,
+  "title": "2.12.5 Extending time for starting proceedings"
+ },
+ {
+  "id": "2-12-6-commercial-liability",
+  "level": 4,
+  "title": "2.12.6 Commercial liability"
+ },
+ {
+  "id": "2-12-7-curing-defects-to-protect-or-enhance-rights-or-withou",
+  "level": 4,
+  "title": "2.12.7 Curing defects to protect or enhance rights or without significantly interfering with rights"
+ },
+ {
+  "id": "2-12-8-removal-of-uncertainty-in-the-general-law",
+  "level": 4,
+  "title": "2.12.8 Removal of uncertainty in the general law"
+ },
+ {
+  "id": "2-12-9-removal-of-uncertainty-in-legislation",
+  "level": 4,
+  "title": "2.12.9 Removal of uncertainty in legislation"
+ },
+ {
+  "id": "2-12-10fixing-a-mistake-in-the-legislative-process",
+  "level": 4,
+  "title": "2.12.10Fixing a mistake in the legislative process"
+ },
+ {
+  "id": "2-12-11-reliance-on-announced-proposal-as-basis-for-later-re",
+  "level": 4,
+  "title": "2.12.11 Reliance on announced proposal as basis for later retrospectivity"
+ },
+ {
+  "id": "2-12-12protection-of-the-interests-of-children",
+  "level": 4,
+  "title": "2.12.12Protection of the interests of children"
+ },
+ {
+  "id": "2-12-13protecting-the-affordability-and-availability-of-publ",
+  "level": 4,
+  "title": "2.12.13Protecting the affordability and availability of public liability insurance"
+ },
+ {
+  "id": "2-12-14preserving-an-established-administration-of-the-law-l",
+  "level": 4,
+  "title": "2.12.14Preserving an established administration of the law later requiring validation"
+ },
+ {
+  "id": "2-12-15removing-unintended-adverse-effect",
+  "level": 4,
+  "title": "2.12.15Removing unintended adverse effect"
+ },
+ {
+  "id": "2-12-16retrospectivity-justified-by-nature-of-activity",
+  "level": 4,
+  "title": "2.12.16Retrospectivity justified by nature of activity"
+ },
+ {
+  "id": "2-12-17retrospectivity-of-legislative-process",
+  "level": 4,
+  "title": "2.12.17Retrospectivity of legislative process"
+ },
+ {
+  "id": "2-13-immunity-from-proceeding-or-prosecution",
+  "level": 3,
+  "title": "2.13 Immunity from proceeding or prosecution"
+ },
+ {
+  "id": "2-13-1-flp-issue-legislation-should-not-confer-immunity-from",
+  "level": 4,
+  "title": "2.13.1 FLP issue Legislation should not confer immunity from proceeding or"
+ },
+ {
+  "id": "2-13-2-binding-the-state-scrutiny-committee",
+  "level": 4,
+  "title": "2.13.2 Binding the State Scrutiny Committee"
+ },
+ {
+  "id": "2-13-3-public-servants-implementing-announced-policy",
+  "level": 4,
+  "title": "2.13.3 Public servants implementing announced policy"
+ },
+ {
+  "id": "2-13-4-persons-acting-judicially-or-in-roles-akin-to-or-asso",
+  "level": 4,
+  "title": "2.13.4 Persons acting judicially or in roles akin to or associated with judicial process"
+ },
+ {
+  "id": "2-13-5-immunity-for-carrying-out-statutory-functions",
+  "level": 4,
+  "title": "2.13.5 Immunity for carrying out statutory functions"
+ },
+ {
+  "id": "2-13-6-immunity-for-carrying-out-statutory-obligations",
+  "level": 4,
+  "title": "2.13.6 Immunity for carrying out statutory obligations"
+ },
+ {
+  "id": "2-13-7-immunity-granted-to-an-unusual-extent",
+  "level": 4,
+  "title": "2.13.7 Immunity granted to an unusual extent"
+ },
+ {
+  "id": "2-13-8-whistleblowing-and-disclosures-akin-to-whistleblowing",
+  "level": 4,
+  "title": "2.13.8 Whistleblowing and disclosures akin to whistleblowing"
+ },
+ {
+  "id": "2-13-9-public-safety-scrutiny-committee",
+  "level": 4,
+  "title": "2.13.9 Public safety Scrutiny Committee"
+ },
+ {
+  "id": "2-13-10disclosures-to-statutory-bodies-or-inquiries",
+  "level": 4,
+  "title": "2.13.10Disclosures to statutory bodies or inquiries"
+ },
+ {
+  "id": "2-13-11-achieving-significant-benefits-in-the-public-interes",
+  "level": 4,
+  "title": "2.13.11 Achieving significant benefits in the public interest"
+ },
+ {
+  "id": "2-13-12protective-of-other-rights",
+  "level": 4,
+  "title": "2.13.12Protective of other rights"
+ },
+ {
+  "id": "2-14-compulsory-acquisition-of-property",
+  "level": 3,
+  "title": "2.14 Compulsory acquisition of property"
+ },
+ {
+  "id": "2-14-1-flp-issue-legislation-should-provide-for-the-compulso",
+  "level": 4,
+  "title": "2.14.1 FLP issue Legislation should provide for the compulsory acquisition of property"
+ },
+ {
+  "id": "2-14-2-legal-implication-of-right-to-compensation",
+  "level": 4,
+  "title": "2.14.2 Legal implication of right to compensation"
+ },
+ {
+  "id": "2-14-3-when-strict-right-of-compensation-impractical",
+  "level": 4,
+  "title": "2.14.3 When strict right of compensation impractical"
+ },
+ {
+  "id": "2-14-4-part-of-a-commercial-bargain",
+  "level": 4,
+  "title": "2.14.4 Part of a commercial bargain"
+ },
+ {
+  "id": "2-14-5-part-of-a-voluntary-process",
+  "level": 4,
+  "title": "2.14.5 Part of a voluntary process"
+ },
+ {
+  "id": "2-14-6-loss-of-office-scrutiny-committee",
+  "level": 4,
+  "title": "2.14.6 Loss of office Scrutiny Committee"
+ },
+ {
+  "id": "2-14-7-termination-of-contractual-rights-recognised-in-legis",
+  "level": 4,
+  "title": "2.14.7 Termination of contractual rights recognised in legislation"
+ },
+ {
+  "id": "2-14-8-illegal-contract-scrutiny-committee",
+  "level": 4,
+  "title": "2.14.8 Illegal contract Scrutiny Committee"
+ },
+ {
+  "id": "2-14-9-public-interest-scrutiny-committee",
+  "level": 4,
+  "title": "2.14.9 Public interest Scrutiny Committee"
+ },
+ {
+  "id": "2-14-10indirect-loss-due-to-primary-acquisition",
+  "level": 4,
+  "title": "2.14.10Indirect loss due to primary acquisition"
+ },
+ {
+  "id": "2-14-11-loss-due-to-legislative-activity",
+  "level": 4,
+  "title": "2.14.11 Loss due to legislative activity"
+ },
+ {
+  "id": "2-14-12confiscation-scrutiny-committee",
+  "level": 4,
+  "title": "2.14.12Confiscation Scrutiny Committee"
+ },
+ {
+  "id": "2-14-13application-of-acquisition-of-land-act-1967",
+  "level": 4,
+  "title": "2.14.13Application of Acquisition of Land Act 1967"
+ },
+ {
+  "id": "2-14-14native-title-see-entries-under-2-15-sufficient-regard",
+  "level": 4,
+  "title": "2.14.14Native title See entries under ‘2.15 Sufficient regard to Aboriginal tradition and"
+ },
+ {
+  "id": "2-14-15utility-easements-scrutiny-committee",
+  "level": 4,
+  "title": "2.14.15Utility easements Scrutiny Committee"
+ },
+ {
+  "id": "2-14-16land-title-clarification",
+  "level": 4,
+  "title": "2.14.16Land title clarification"
+ },
+ {
+  "id": "2-15-sufficient-regard-to-aboriginal-tradition-and-island-cu",
+  "level": 3,
+  "title": "2.15 Sufficient regard to Aboriginal tradition and Island custom"
+ },
+ {
+  "id": "2-15-1-flp-issue-legislation-should-have-sufficient-regard-t",
+  "level": 4,
+  "title": "2.15.1 FLP issue Legislation should have sufficient regard to Aboriginal tradition and"
+ },
+ {
+  "id": "2-15-2-consultation-on-proposed-legislation",
+  "level": 4,
+  "title": "2.15.2 Consultation on proposed legislation"
+ },
+ {
+  "id": "2-15-3-animal-welfare-scrutiny-committee",
+  "level": 4,
+  "title": "2.15.3 Animal welfare Scrutiny Committee"
+ },
+ {
+  "id": "2-15-4-relationships-scrutiny-committee",
+  "level": 4,
+  "title": "2.15.4 Relationships Scrutiny Committee"
+ },
+ {
+  "id": "2-15-5-child-care-scrutiny-committee",
+  "level": 4,
+  "title": "2.15.5 Child Care Scrutiny Committee"
+ },
+ {
+  "id": "2-15-6-process-scrutiny-committee",
+  "level": 4,
+  "title": "2.15.6 Process Scrutiny Committee"
+ },
+ {
+  "id": "2-15-7-self-management-principle-of-aboriginal-and-torres-st",
+  "level": 4,
+  "title": "2.15.7 Self management principle of Aboriginal and Torres Strait Islander Communities"
+ },
+ {
+  "id": "2-15-8-corrective-services",
+  "level": 4,
+  "title": "2.15.8 Corrective services"
+ },
+ {
+  "id": "2-15-9-financial-accountability",
+  "level": 4,
+  "title": "2.15.9 Financial accountability"
+ },
+ {
+  "id": "2-15-10recognition-of-customary-laws",
+  "level": 4,
+  "title": "2.15.10Recognition of customary laws"
+ },
+ {
+  "id": "2-15-11-control-over-access-to-liquor",
+  "level": 4,
+  "title": "2.15.11 Control over access to liquor"
+ },
+ {
+  "id": "2-15-12native-title-scrutiny-committee",
+  "level": 4,
+  "title": "2.15.12Native title Scrutiny Committee"
+ },
+ {
+  "id": "2-16-unambiguous-and-clear-and-precise-drafting",
+  "level": 3,
+  "title": "2.16 Unambiguous and clear and precise drafting"
+ },
+ {
+  "id": "2-16-1-flp-issue-legislation-should-be-unambiguous-and-draft",
+  "level": 4,
+  "title": "2.16.1 FLP issue Legislation should be unambiguous and drafted in a sufficiently clear"
+ },
+ {
+  "id": "2-16-2-location-within-appropriate-legislation",
+  "level": 4,
+  "title": "2.16.2 Location within appropriate legislation"
+ },
+ {
+  "id": "2-16-3-definitions-about-definitional-provisions",
+  "level": 4,
+  "title": "2.16.3 Definitions about definitional provisions"
+ },
+ {
+  "id": "2-16-4-format-must-help-and-not-obscure-interpretation",
+  "level": 4,
+  "title": "2.16.4 Format must help and not obscure interpretation"
+ },
+ {
+  "id": "2-16-5-covering-the-field-scrutiny-committee",
+  "level": 4,
+  "title": "2.16.5 Covering the field Scrutiny Committee"
+ },
+ {
+  "id": "2-16-6-liability-should-be-expressed-with-clarity",
+  "level": 4,
+  "title": "2.16.6 Liability should be expressed with clarity"
+ },
+ {
+  "id": "2-16-7-power-should-be-expressed-with-clarity",
+  "level": 4,
+  "title": "2.16.7 Power should be expressed with clarity"
+ },
+ {
+  "id": "2-16-8-mental-element-in-provisions-creating-criminal-liabil",
+  "level": 4,
+  "title": "2.16.8 Mental element in provisions creating criminal liability"
+ },
+ {
+  "id": "2-16-9-onus-of-proof-scrutiny-committee",
+  "level": 4,
+  "title": "2.16.9 Onus of proof Scrutiny Committee"
+ },
+ {
+  "id": "2-16-10suspicion-or-belief",
+  "level": 4,
+  "title": "2.16.10Suspicion or belief"
+ },
+ {
+  "id": "2-16-11-unintended-adverse-impact-must-be-avoided",
+  "level": 4,
+  "title": "2.16.11 Unintended adverse impact must be avoided"
+ },
+ {
+  "id": "chapter-3-individuals-rights-and-liberties-flp-issues-not-li",
+  "level": 2,
+  "title": "Chapter 3: Individuals’ rights and liberties—FLP issues not listed in the Legislative Standards Act"
+ },
+ {
+  "id": "3-1-abrogation-of-common-law-rights-must-be-justified",
+  "level": 3,
+  "title": "3.1 Abrogation of common law rights must be justified"
+ },
+ {
+  "id": "3-1-1-flp-issue-legislation-should-not-abrogate-common-law-r",
+  "level": 4,
+  "title": "3.1.1 FLP issue Legislation should not abrogate common law rights without sufficient"
+ },
+ {
+  "id": "3-1-2-common-law-right-to-personal-liberty",
+  "level": 4,
+  "title": "3.1.2 Common law right to personal liberty"
+ },
+ {
+  "id": "3-1-3-common-law-right-to-silence",
+  "level": 4,
+  "title": "3.1.3 Common law right to silence"
+ },
+ {
+  "id": "3-1-4-common-law-right-to-silence-relating-to-spouses",
+  "level": 4,
+  "title": "3.1.4 Common law right to silence relating to spouses"
+ },
+ {
+  "id": "3-1-5-common-law-property-rights",
+  "level": 4,
+  "title": "3.1.5 Common law property rights"
+ },
+ {
+  "id": "3-1-6-common-law-contractual-rights",
+  "level": 4,
+  "title": "3.1.6 Common law contractual rights"
+ },
+ {
+  "id": "3-1-7-common-law-rights-to-freedom-of-movement-and-associati",
+  "level": 4,
+  "title": "3.1.7 Common law rights to freedom of movement and association"
+ },
+ {
+  "id": "3-1-8-right-not-to-be-subjected-to-violence",
+  "level": 4,
+  "title": "3.1.8 Right not to be subjected to violence"
+ },
+ {
+  "id": "3-1-9-freedom-of-speech-and-the-implied-constitutional-right",
+  "level": 4,
+  "title": "3.1.9 Freedom of speech and the implied constitutional right to communication on matters of government and politics"
+ },
+ {
+  "id": "3-1-10-freedom-of-speech-and-the-imposition-of-a-secrecy-obl",
+  "level": 4,
+  "title": "3.1.10 Freedom of speech and the imposition of a secrecy obligation"
+ },
+ {
+  "id": "3-1-11-freedom-of-speech-and-the-imposition-of-an-obligation",
+  "level": 4,
+  "title": "3.1.11 Freedom of speech and the imposition of an obligation to report"
+ },
+ {
+  "id": "3-1-12-freedom-of-speech-and-anti-vilification-laws",
+  "level": 4,
+  "title": "3.1.12 Freedom of speech and anti-vilification laws"
+ },
+ {
+  "id": "3-1-13-freedom-of-speech-and-the-right-not-to-be-defamed",
+  "level": 4,
+  "title": "3.1.13 Freedom of speech and the right not to be defamed"
+ },
+ {
+  "id": "3-1-14-right-of-action-the-right-to-take-legal-action-over-a",
+  "level": 4,
+  "title": "3.1.14 Right of action The right to take legal action over a wrong is an essential element of"
+ },
+ {
+  "id": "3-1-15-right-not-to-be-subjected-to-harmful-interference-wit",
+  "level": 4,
+  "title": "3.1.15 Right not to be subjected to harmful interference with health or safety"
+ },
+ {
+  "id": "3-2-abrogation-of-established-statute-law-rights-and-liberti",
+  "level": 3,
+  "title": "3.2 Abrogation of established statute law rights and liberties must be justified"
+ },
+ {
+  "id": "3-2-1-flp-issue-abrogation-of-established-statute-law-rights",
+  "level": 4,
+  "title": "3.2.1 FLP issue Abrogation of established statute law rights and liberties must be"
+ },
+ {
+  "id": "3-2-2-acquisition-of-land-act-1967",
+  "level": 4,
+  "title": "3.2.2 Acquisition of Land Act 1967"
+ },
+ {
+  "id": "3-2-3-criminal-law-rehabilitation-of-offenders-act-1986",
+  "level": 4,
+  "title": "3.2.3 Criminal Law (Rehabilitation of Offenders) Act 1986"
+ },
+ {
+  "id": "3-2-4-freedom-of-information-act-1992",
+  "level": 4,
+  "title": "3.2.4 Freedom of Information Act 1992"
+ },
+ {
+  "id": "3-2-5-ombudsman-act-2001",
+  "level": 4,
+  "title": "3.2.5 Ombudsman Act 2001"
+ },
+ {
+  "id": "3-2-6-whistleblowers-protection-act-1994",
+  "level": 4,
+  "title": "3.2.6 Whistleblowers Protection Act 1994"
+ },
+ {
+  "id": "3-2-7-self-management-principle-of-aboriginal-and-torres-str",
+  "level": 4,
+  "title": "3.2.7 Self management principle of Aboriginal and Torres Strait Islander Communities"
+ },
+ {
+  "id": "3-2-8-right-to-be-consulted-under-statutory-instruments-act-",
+  "level": 4,
+  "title": "3.2.8 Right to be consulted under Statutory Instruments Act 1992 regulatory impact statement process"
+ },
+ {
+  "id": "3-3-abrogation-of-rights-and-liberties-from-any-source-must-",
+  "level": 3,
+  "title": "3.3 Abrogation of rights and liberties from any source must be justified"
+ },
+ {
+  "id": "3-3-1-flp-issue-legislation-should-not-abrogate-other-rights",
+  "level": 4,
+  "title": "3.3.1 FLP issue Legislation should not abrogate other rights, in the broadest sense of"
+ },
+ {
+  "id": "3-3-2-rights-of-prisoners-and-other-persons-in-the-state-s-c",
+  "level": 4,
+  "title": "3.3.2 Rights of prisoners and other persons in the State’s custody"
+ },
+ {
+  "id": "3-3-3-protection-of-the-interests-of-children",
+  "level": 4,
+  "title": "3.3.3 Protection of the interests of children"
+ },
+ {
+  "id": "3-3-4-election-and-referendum",
+  "level": 4,
+  "title": "3.3.4 Election and referendum"
+ },
+ {
+  "id": "3-3-5-australia-s-international-treaty-obligations",
+  "level": 4,
+  "title": "3.3.5 Australia’s international treaty obligations"
+ },
+ {
+  "id": "3-3-6-privacy-and-confidentiality-rights",
+  "level": 4,
+  "title": "3.3.6 Privacy and confidentiality rights"
+ },
+ {
+  "id": "3-3-7-compulsory-blood-and-other-personal-tests",
+  "level": 4,
+  "title": "3.3.7 Compulsory blood and other personal tests"
+ },
+ {
+  "id": "3-3-8-access-to-liquor-and-liquor-licences",
+  "level": 4,
+  "title": "3.3.8 Access to liquor and liquor licences"
+ },
+ {
+  "id": "3-3-9-access-to-statutory-rights-generally",
+  "level": 4,
+  "title": "3.3.9 Access to statutory rights generally"
+ },
+ {
+  "id": "3-3-10-right-to-strike-the-right-of-employees-to-take-indust",
+  "level": 4,
+  "title": "3.3.10 Right to strike The right of employees to take industrial action has never been"
+ },
+ {
+  "id": "3-4-imposition-of-presumed-responsibility-must-be-justified",
+  "level": 3,
+  "title": "3.4 Imposition of presumed responsibility must be justified"
+ },
+ {
+  "id": "3-4-1-flp-issue-legislation-should-not-ordinarily-make-a-per",
+  "level": 4,
+  "title": "3.4.1 FLP issue Legislation should not ordinarily make a person responsible for"
+ },
+ {
+  "id": "3-4-2-vicarious-liability-for-offences",
+  "level": 4,
+  "title": "3.4.2 Vicarious liability for offences"
+ },
+ {
+  "id": "3-4-3-strict-civil-liability",
+  "level": 4,
+  "title": "3.4.3 Strict civil liability"
+ },
+ {
+  "id": "3-5-ordinary-activities-should-not-be-unduly-restricted",
+  "level": 3,
+  "title": "3.5 Ordinary activities should not be unduly restricted"
+ },
+ {
+  "id": "3-5-1-flp-issue-legislation-should-not-without-sufficient-ju",
+  "level": 4,
+  "title": "3.5.1 FLP issue Legislation should not, without sufficient justification, unduly restrict"
+ },
+ {
+  "id": "3-5-2-right-to-conduct-business-without-interference",
+  "level": 4,
+  "title": "3.5.2 Right to conduct business without interference"
+ },
+ {
+  "id": "3-5-3-gambling-organised-gambling-activities-have-historical",
+  "level": 4,
+  "title": "3.5.3 Gambling Organised gambling activities have historically been extensively"
+ },
+ {
+  "id": "3-6-proportion-and-relevance",
+  "level": 3,
+  "title": "3.6 Proportion and relevance"
+ },
+ {
+  "id": "3-6-1-flp-issue-consequences-imposed-by-legislation-should-b",
+  "level": 4,
+  "title": "3.6.1 FLP issue Consequences imposed by legislation should be proportionate and"
+ },
+ {
+  "id": "3-6-2-penalties-of-appropriate-level",
+  "level": 4,
+  "title": "3.6.2 Penalties of appropriate level"
+ },
+ {
+  "id": "3-6-3-continuous-penalties",
+  "level": 4,
+  "title": "3.6.3 Continuous penalties"
+ },
+ {
+  "id": "3-6-4-penalties-of-appropriate-nature",
+  "level": 4,
+  "title": "3.6.4 Penalties of appropriate nature"
+ },
+ {
+  "id": "3-6-5-authority-should-be-needed-to-prosecute-some-offences",
+  "level": 4,
+  "title": "3.6.5 Authority should be needed to prosecute some offences"
+ },
+ {
+  "id": "3-6-6-information-requirements-should-be-relevant-and-propor",
+  "level": 4,
+  "title": "3.6.6 Information requirements should be relevant and proportionate to the interests being protected"
+ },
+ {
+  "id": "3-6-7-extraordinary-power-must-be-conferred-only-for-extraor",
+  "level": 4,
+  "title": "3.6.7 Extraordinary power must be conferred only for extraordinary or urgent circumstances"
+ },
+ {
+  "id": "3-7-circumstances-imposing-liability-should-be-adequately-de",
+  "level": 3,
+  "title": "3.7 Circumstances imposing liability should be adequately defined"
+ },
+ {
+  "id": "3-7-1-flp-issue-legislation-should-only-prescribe-acts-or-om",
+  "level": 4,
+  "title": "3.7.1 FLP issue Legislation should only prescribe acts or omissions as circumstances"
+ },
+ {
+  "id": "3-7-2-potential-unfairness-of-broadly-framed-statutory-offen",
+  "level": 4,
+  "title": "3.7.2 Potential unfairness of broadly framed statutory offences, with substantial penalties, for negligent acts"
+ },
+ {
+  "id": "3-8-when-criminal-liability-should-require-proof-of-intent",
+  "level": 3,
+  "title": "3.8 When criminal liability should require proof of intent"
+ },
+ {
+  "id": "3-8-1-flp-issue-legislation-defining-criminal-liability-shou",
+  "level": 4,
+  "title": "3.8.1 FLP issue Legislation defining criminal liability should require proof of specific"
+ },
+ {
+  "id": "3-8-2-intent-in-relation-to-a-false-or-misleading-communicat",
+  "level": 4,
+  "title": "3.8.2 Intent in relation to a false or misleading communication"
+ },
+ {
+  "id": "3-9-appropriate-standard-of-proof",
+  "level": 3,
+  "title": "3.9 Appropriate standard of proof"
+ },
+ {
+  "id": "3-9-1-flp-issue-legislation-should-provide-for-an-appropriat",
+  "level": 4,
+  "title": "3.9.1 FLP issue Legislation should provide for an appropriate standard of proof of"
+ },
+ {
+  "id": "3-10-appropriate-defences-to-liability-must-be-provided",
+  "level": 3,
+  "title": "3.10 Appropriate defences to liability must be provided"
+ },
+ {
+  "id": "3-10-1-flp-issue-if-legislation-imposes-liability-on-a-perso",
+  "level": 4,
+  "title": "3.10.1 FLP issue If legislation imposes liability on a person, the legislation should"
+ },
+ {
+  "id": "3-10-2-reasonable-excuse-the-words-without-reasonable-excuse",
+  "level": 4,
+  "title": "3.10.2 Reasonable excuse The words ‘without reasonable excuse’ are often used in provisions"
+ },
+ {
+  "id": "3-11-multiple-court-or-tribunal-processes-for-the-same-liabi",
+  "level": 3,
+  "title": "3.11 Multiple court or tribunal processes for the same liability must be justified"
+ },
+ {
+  "id": "3-11-1-flp-issue-legislation-should-not-subject-a-person-to-",
+  "level": 4,
+  "title": "3.11.1 FLP issue Legislation should not subject a person to more than one court or"
+ },
+ {
+  "id": "3-12-equality-under-the-law",
+  "level": 3,
+  "title": "3.12 Equality under the law"
+ },
+ {
+  "id": "3-12-1-flp-issue-equality-under-the-law-is-a-basic-concept-o",
+  "level": 4,
+  "title": "3.12.1 FLP issue Equality under the law is a basic concept of justice. This requires that,"
+ },
+ {
+  "id": "3-12-2-gender-discrimination",
+  "level": 4,
+  "title": "3.12.2 Gender discrimination"
+ },
+ {
+  "id": "3-12-3-relationship-discrimination",
+  "level": 4,
+  "title": "3.12.3 Relationship discrimination"
+ },
+ {
+  "id": "3-12-4-imposition-of-financial-obligations",
+  "level": 4,
+  "title": "3.12.4 Imposition of financial obligations"
+ },
+ {
+  "id": "3-12-5-appointment-or-employment",
+  "level": 4,
+  "title": "3.12.5 Appointment or employment"
+ },
+ {
+  "id": "3-12-6-citizens-government-officials",
+  "level": 4,
+  "title": "3.12.6 Citizens /government officials"
+ },
+ {
+  "id": "3-12-7-application-variations",
+  "level": 4,
+  "title": "3.12.7 Application variations"
+ },
+ {
+  "id": "3-13-sensitivity-of-powers-of-investigation-or-inquiry",
+  "level": 3,
+  "title": "3.13 Sensitivity of powers of investigation or inquiry"
+ },
+ {
+  "id": "3-13-1-flp-issue-when-deciding-the-powers-that-should-be-con",
+  "level": 4,
+  "title": "3.13.1 FLP issue When deciding the powers that should be conferred on authorities to"
+ },
+ {
+  "id": "3-13-2-powers-of-entrapment",
+  "level": 4,
+  "title": "3.13.2 Powers of entrapment"
+ },
+ {
+  "id": "3-14-reasonable-and-fair-treatment-generally",
+  "level": 3,
+  "title": "3.14 Reasonable and fair treatment generally"
+ },
+ {
+  "id": "3-14-1-flp-issue-legislation-should-be-reasonable-and-fair-i",
+  "level": 4,
+  "title": "3.14.1 FLP issue Legislation should be reasonable and fair in its treatment of"
+ },
+ {
+  "id": "3-14-2-imposition-of-liability",
+  "level": 4,
+  "title": "3.14.2 Imposition of liability"
+ },
+ {
+  "id": "3-14-3-imposition-of-unnecessary-regulation",
+  "level": 4,
+  "title": "3.14.3 Imposition of unnecessary regulation"
+ },
+ {
+  "id": "3-14-4-removal-of-rights-generally",
+  "level": 4,
+  "title": "3.14.4 Removal of rights generally"
+ },
+ {
+  "id": "3-14-5-information-as-an-important-aspect-of-the-protection-",
+  "level": 4,
+  "title": "3.14.5 Information as an important aspect of the protection of rights"
+ },
+ {
+  "id": "3-15-balancing-individual-and-community-or-more-general-inte",
+  "level": 3,
+  "title": "3.15 Balancing individual and community or more general interests"
+ },
+ {
+  "id": "3-15-1-flp-issue-consideration-of-the-effect-of-legislation-",
+  "level": 4,
+  "title": "3.15.1 FLP issue Consideration of the effect of legislation on the rights and liberties of"
+ },
+ {
+  "id": "3-15-2-criminal-law-generally",
+  "level": 4,
+  "title": "3.15.2 Criminal law generally"
+ },
+ {
+  "id": "3-15-3-public-interest-in-winning-the-fight-against-crime",
+  "level": 4,
+  "title": "3.15.3 Public interest in winning the fight against crime"
+ },
+ {
+  "id": "3-15-4-public-order-offences",
+  "level": 4,
+  "title": "3.15.4 Public order offences"
+ },
+ {
+  "id": "3-15-5-consensual-life-threatening-medical-treatment",
+  "level": 4,
+  "title": "3.15.5 Consensual life threatening medical treatment"
+ },
+ {
+  "id": "3-15-6-right-to-have-weapons",
+  "level": 4,
+  "title": "3.15.6 Right to have weapons"
+ },
+ {
+  "id": "3-15-7-health-and-safety-scrutiny-committee",
+  "level": 4,
+  "title": "3.15.7 Health and safety Scrutiny Committee"
+ },
+ {
+  "id": "3-15-8-compulsory-education",
+  "level": 4,
+  "title": "3.15.8 Compulsory education"
+ },
+ {
+  "id": "3-15-9-third-party-considerations",
+  "level": 4,
+  "title": "3.15.9 Third party considerations"
+ },
+ {
+  "id": "3-15-10consumer-protection",
+  "level": 4,
+  "title": "3.15.10Consumer protection"
+ },
+ {
+  "id": "3-15-11-immunity-from-prosecution",
+  "level": 4,
+  "title": "3.15.11 Immunity from prosecution"
+ },
+ {
+  "id": "3-15-12reputation-and-freedom-of-speech",
+  "level": 4,
+  "title": "3.15.12Reputation and freedom of speech"
+ },
+ {
+  "id": "3-15-13reputation-and-whistleblower-protection",
+  "level": 4,
+  "title": "3.15.13Reputation and whistleblower protection"
+ },
+ {
+  "id": "3-15-14restricting-right-of-action",
+  "level": 4,
+  "title": "3.15.14Restricting right of action"
+ },
+ {
+  "id": "3-15-15enhancing-right-of-action",
+  "level": 4,
+  "title": "3.15.15Enhancing right of action"
+ },
+ {
+  "id": "chapter-4-the-institution-of-parliament-flp-issues-listed-in",
+  "level": 2,
+  "title": "Chapter 4: The institution of Parliament—FLP issues listed in the Legislative Standards Act related to Bills"
+ },
+ {
+  "id": "4-1-appropriateness-of-delegation-of-legislative-power",
+  "level": 3,
+  "title": "4.1 Appropriateness of delegation of legislative power"
+ },
+ {
+  "id": "4-1-1-flp-issue-a-bill-should-allow-the-delegation-of-legisl",
+  "level": 4,
+  "title": "4.1.1 FLP issue A Bill should allow the delegation of legislative power only in"
+ },
+ {
+  "id": "4-1-2-taxation-a-power-to-impose-a-significant-new-tax-is-li",
+  "level": 4,
+  "title": "4.1.2 Taxation A power to impose a significant new tax is likely to be only"
+ },
+ {
+  "id": "4-1-3-jurisdiction-of-the-supreme-court",
+  "level": 4,
+  "title": "4.1.3 Jurisdiction of the Supreme Court"
+ },
+ {
+  "id": "4-1-4-process-of-review-and-appeal",
+  "level": 4,
+  "title": "4.1.4 Process of review and appeal"
+ },
+ {
+  "id": "4-1-5-exclusion-of-automatic-commencement-of-legislation",
+  "level": 4,
+  "title": "4.1.5 Exclusion of automatic commencement of legislation"
+ },
+ {
+  "id": "4-1-6-delegation-of-power-to-commence-legislation-to-someone",
+  "level": 4,
+  "title": "4.1.6 Delegation of power to commence legislation to someone other than Parliament or Governor or Governor in Council"
+ },
+ {
+  "id": "4-1-7-delegation-to-governor-of-power-to-terminate-a-referen",
+  "level": 4,
+  "title": "4.1.7 Delegation to Governor of power to terminate a reference of legislative power to Commonwealth"
+ },
+ {
+  "id": "4-1-8-postponement-of-automatic-expiry-by-subordinate-legisl",
+  "level": 4,
+  "title": "4.1.8 Postponement of automatic expiry by subordinate legislation"
+ },
+ {
+  "id": "4-1-9-henry-viii-clauses",
+  "level": 4,
+  "title": "4.1.9 Henry VIII clauses"
+ },
+ {
+  "id": "4-1-10-modifying-existing-list-of-matters-by-another-instrum",
+  "level": 4,
+  "title": "4.1.10 Modifying existing list of matters by another instrument"
+ },
+ {
+  "id": "4-1-11-outside-bodies-effectively-making-queensland-law",
+  "level": 4,
+  "title": "4.1.11 Outside bodies effectively making Queensland law"
+ },
+ {
+  "id": "4-1-12-offences-and-penalties-in-subordinate-legislation",
+  "level": 4,
+  "title": "4.1.12 Offences and penalties in subordinate legislation"
+ },
+ {
+  "id": "4-1-13-delegation-of-power-the-exercise-of-which-has-potenti",
+  "level": 4,
+  "title": "4.1.13 Delegation of power the exercise of which has potentially significant affect on individual’s rights and liberties"
+ },
+ {
+  "id": "4-1-14-nature-of-legislation-may-require-substantial-delegat",
+  "level": 4,
+  "title": "4.1.14 Nature of legislation may require substantial delegated power to prescribe under regulation"
+ },
+ {
+  "id": "4-1-15-prescription-of-persons-and-things-to-have-benefit-of",
+  "level": 4,
+  "title": "4.1.15 Prescription of persons and things to have benefit of legislation"
+ },
+ {
+  "id": "4-1-16-imposing-a-positive-requirement-on-the-governor-in-co",
+  "level": 4,
+  "title": "4.1.16 Imposing a positive requirement on the Governor in Council to make a regulation"
+ },
+ {
+  "id": "4-1-17-unreasonably-general-power-to-make-delegated-legislat",
+  "level": 4,
+  "title": "4.1.17 Unreasonably general power to make delegated legislation"
+ },
+ {
+  "id": "4-1-18-regulation-making-power-to-fill-legislative-gaps",
+  "level": 4,
+  "title": "4.1.18 Regulation-making power to fill legislative gaps"
+ },
+ {
+  "id": "4-2-sufficient-parliamentary-scrutiny",
+  "level": 3,
+  "title": "4.2 Sufficient parliamentary scrutiny"
+ },
+ {
+  "id": "4-2-1-flp-issue-a-bill-should-sufficiently-subject-the-exerc",
+  "level": 4,
+  "title": "4.2.1 FLP issue A Bill should sufficiently subject the exercise of a delegated legislative"
+ },
+ {
+  "id": "4-2-2-use-of-prescription-other-than-subordinate-legislation",
+  "level": 4,
+  "title": "4.2.2 Use of prescription other than subordinate legislation"
+ },
+ {
+  "id": "4-2-3-local-laws-in-the-local-government-context-where-deleg",
+  "level": 4,
+  "title": "4.2.3 Local laws In the local government context, where delegated legislation is not"
+ },
+ {
+  "id": "4-2-4-national-scheme-legislation",
+  "level": 4,
+  "title": "4.2.4 National scheme legislation"
+ },
+ {
+  "id": "4-3-prohibition-on-henry-viii-clauses",
+  "level": 3,
+  "title": "4.3 Prohibition on Henry VIII clauses"
+ },
+ {
+  "id": "4-3-1-flp-issue-a-bill-should-only-authorise-the-amendment-o",
+  "level": 4,
+  "title": "4.3.1 FLP issue A Bill should only authorise the amendment of an Act by another"
+ },
+ {
+  "id": "4-3-2-facilitating-immediate-executive-action",
+  "level": 4,
+  "title": "4.3.2 Facilitating immediate executive action"
+ },
+ {
+  "id": "4-3-3-transitional-regulation-making-powers",
+  "level": 4,
+  "title": "4.3.3 Transitional regulation-making powers"
+ },
+ {
+  "id": "4-3-4-national-scheme-legislation",
+  "level": 4,
+  "title": "4.3.4 National scheme legislation"
+ },
+ {
+  "id": "4-3-5-agreement-acts-scrutiny-committee",
+  "level": 4,
+  "title": "4.3.5 Agreement Acts Scrutiny Committee"
+ },
+ {
+  "id": "4-3-6-staged-introduction-of-law",
+  "level": 4,
+  "title": "4.3.6 Staged introduction of law"
+ },
+ {
+  "id": "4-3-7-exemptions-from-operation-of-act",
+  "level": 4,
+  "title": "4.3.7 Exemptions from operation of Act"
+ },
+ {
+  "id": "4-3-8-impact-of-absence-of-appropriate-explanatory-note",
+  "level": 4,
+  "title": "4.3.8 Impact of absence of appropriate explanatory note"
+ },
+ {
+  "id": "chapter-5-the-institution-of-parliament-flp-issues-listed-in",
+  "level": 2,
+  "title": "Chapter 5: The institution of Parliament—FLP issues listed in the Legislative Standards Act related to subordinate legislation"
+ },
+ {
+  "id": "5-1-authorisation-of-law",
+  "level": 3,
+  "title": "5.1 Authorisation of law"
+ },
+ {
+  "id": "5-1-1-flp-issue-subordinate-legislation-should-be-within-the",
+  "level": 4,
+  "title": "5.1.1 FLP issue Subordinate legislation should be within the power that, under an Act or"
+ },
+ {
+  "id": "5-2-consistency-with-objectives-of-authorisation",
+  "level": 3,
+  "title": "5.2 Consistency with objectives of authorisation"
+ },
+ {
+  "id": "5-2-1-flp-issue-subordinate-legislation-should-be-consistent",
+  "level": 4,
+  "title": "5.2.1 FLP issue Subordinate legislation should be consistent with the policy objectives"
+ },
+ {
+  "id": "5-3-appropriateness-of-matter-to-level-of-legislation",
+  "level": 3,
+  "title": "5.3 Appropriateness of matter to level of legislation"
+ },
+ {
+  "id": "5-3-1-flp-issue-subordinate-legislation-should-contain-only-",
+  "level": 4,
+  "title": "5.3.1 FLP issue Subordinate legislation should contain only matter appropriate to that"
+ },
+ {
+  "id": "5-3-2-taxation-laws-taxation-should-normally-be-dealt-with-b",
+  "level": 4,
+  "title": "5.3.2 Taxation laws Taxation should normally be dealt with by primary legislation."
+ },
+ {
+  "id": "5-3-3-rights-of-appeal-or-review",
+  "level": 4,
+  "title": "5.3.3 Rights of appeal or review"
+ },
+ {
+  "id": "5-4-subordinate-legislation-should-only-amend-a-statutory-in",
+  "level": 3,
+  "title": "5.4 Subordinate legislation should only amend a statutory instrument"
+ },
+ {
+  "id": "5-4-1-flp-issue-subordinate-legislation-should-amend-statuto",
+  "level": 4,
+  "title": "5.4.1 FLP issue Subordinate legislation should amend statutory instruments only—"
+ },
+ {
+  "id": "5-4-2-modification-of-application-of-government-owned-corpor",
+  "level": 4,
+  "title": "5.4.2 Modification of application of Government Owned Corporations (GOC) Act"
+ },
+ {
+  "id": "5-4-3-need-for-urgent-executive-action",
+  "level": 4,
+  "title": "5.4.3 Need for urgent executive action"
+ },
+ {
+  "id": "5-4-4-enabling-commercial-agreements",
+  "level": 4,
+  "title": "5.4.4 Enabling commercial agreements"
+ },
+ {
+  "id": "5-5-subdelegation",
+  "level": 3,
+  "title": "5.5 Subdelegation"
+ },
+ {
+  "id": "5-5-1-flp-issue-subordinate-legislation-should-allow-the-sub",
+  "level": 4,
+  "title": "5.5.1 FLP issue Subordinate legislation should allow the subdelegation of a power"
+ },
+ {
+  "id": "chapter-6-the-institution-of-parliament-issues-not-listed-in",
+  "level": 2,
+  "title": "Chapter 6: The institution of Parliament—issues not listed in the Legislative Standards Act"
+ },
+ {
+  "id": "6-1-constitutional-validity",
+  "level": 3,
+  "title": "6.1 Constitutional validity"
+ },
+ {
+  "id": "6-1-1-flp-issue-the-institution-of-parliament-is-enhanced-by",
+  "level": 4,
+  "title": "6.1.1 FLP issue The institution of Parliament is enhanced by the enactment of"
+ },
+ {
+  "id": "6-1-2-connection-with-the-state",
+  "level": 4,
+  "title": "6.1.2 Connection with the State"
+ },
+ {
+  "id": "6-1-3-freedom-of-political-communication",
+  "level": 4,
+  "title": "6.1.3 Freedom of political communication"
+ },
+ {
+  "id": "6-1-4-inconsistency-with-commonwealth-electoral-laws",
+  "level": 4,
+  "title": "6.1.4 Inconsistency with Commonwealth electoral laws"
+ },
+ {
+  "id": "6-2-direct-democracy",
+  "level": 3,
+  "title": "6.2 Direct democracy"
+ },
+ {
+  "id": "6-2-1-flp-issue-the-institution-of-parliament-must-be-distin",
+  "level": 4,
+  "title": "6.2.1 FLP issue The institution of Parliament must be distinguished from another"
+ },
+ {
+  "id": "6-2-2-citizen-initiated-referendum",
+  "level": 4,
+  "title": "6.2.2 Citizen initiated referendum"
+ },
+ {
+  "id": "6-3-delegation-to-executive-of-power-to-confer-office-and-ot",
+  "level": 3,
+  "title": "6.3 Delegation to executive of power to confer office and other rewards on members"
+ },
+ {
+  "id": "6-3-1-flp-issue-the-official-activities-of-members-of-the-le",
+  "level": 4,
+  "title": "6.3.1 FLP issue The official activities of members of the Legislative Assembly should"
+ },
+ {
+  "id": "6-3-2-parliamentary-secretaries",
+  "level": 4,
+  "title": "6.3.2 Parliamentary secretaries"
+ },
+ {
+  "id": "6-3-3-members-of-the-legislative-assembly",
+  "level": 4,
+  "title": "6.3.3 Members of the Legislative Assembly"
+ },
+ {
+  "id": "6-4-membership-of-legislative-assembly",
+  "level": 3,
+  "title": "6.4 Membership of Legislative Assembly"
+ },
+ {
+  "id": "6-4-1-flp-issue-there-is-an-inherent-connection-between-resp",
+  "level": 4,
+  "title": "6.4.1 FLP issue There is an inherent connection between respect for the institution of"
+ },
+ {
+  "id": "6-4-2-restrictions-on-candidature",
+  "level": 4,
+  "title": "6.4.2 Restrictions on candidature"
+ },
+ {
+  "id": "6-4-3-penalty-for-early-resignations",
+  "level": 4,
+  "title": "6.4.3 Penalty for early resignations"
+ },
+ {
+  "id": "6-4-4-automatic-vacation-of-office-if-change-of-political-st",
+  "level": 4,
+  "title": "6.4.4 Automatic vacation of office if change of political status"
+ },
+ {
+  "id": "6-5-national-scheme-legislation",
+  "level": 3,
+  "title": "6.5 National scheme legislation"
+ },
+ {
+  "id": "6-5-1-flp-issue-parliament-s-sovereign-power-to-make-laws-fo",
+  "level": 4,
+  "title": "6.5.1 FLP issue Parliament’s sovereign power to make laws for Queensland should not"
+ },
+ {
+  "id": "6-5-2-queensland-filters-concerns-about-the-implementation-o",
+  "level": 4,
+  "title": "6.5.2 Queensland filters Concerns about the implementation of national scheme legislation can"
+ },
+ {
+  "id": "6-6-an-informed-parliament",
+  "level": 3,
+  "title": "6.6 An informed Parliament"
+ },
+ {
+  "id": "6-6-1-flp-issue-the-institution-of-parliament-is-enhanced-by",
+  "level": 4,
+  "title": "6.6.1 FLP issue The institution of Parliament is enhanced by Parliament being better"
+ },
+ {
+  "id": "6-7-information-about-parliament",
+  "level": 3,
+  "title": "6.7 Information about Parliament"
+ },
+ {
+  "id": "6-7-1-flp-issue-the-institution-of-parliament-is-enhanced-by",
+  "level": 4,
+  "title": "6.7.1 FLP issue The institution of Parliament is enhanced by legislative provisions"
+ },
+ {
+  "id": "chapter-7-other-fundamental-legislative-principles",
+  "level": 2,
+  "title": "Chapter 7: Other fundamental legislative principles"
+ },
+ {
+  "id": "7-1-independence-of-the-judiciary",
+  "level": 3,
+  "title": "7.1 Independence of the judiciary"
+ },
+ {
+  "id": "7-1-1-flp-issue-legislation-should-not-prejudice-the-indepen",
+  "level": 4,
+  "title": "7.1.1 FLP issue Legislation should not prejudice the independence of the judiciary."
+ },
+ {
+  "id": "7-1-2-administration-of-the-judiciary",
+  "level": 4,
+  "title": "7.1.2 Administration of the judiciary"
+ },
+ {
+  "id": "7-1-3-non-judicial-instruction-or-oversight-of-judicial-deci",
+  "level": 4,
+  "title": "7.1.3 Non judicial instruction or oversight of judicial decision making"
+ },
+ {
+  "id": "appendixes",
+  "level": 2,
+  "title": "Appendixes"
+ },
+ {
+  "id": "appendix-a-legislative-standards-act-1992-section-4",
+  "level": 3,
+  "title": "Appendix A: Legislative Standards Act 1992, section 4"
+ },
+ {
+  "id": "4-meaning-of-fundamental-legislative-principles",
+  "level": 5,
+  "title": "4 Meaning of fundamental legislative principles"
+ },
+ {
+  "id": "appendix-b-parliament-of-queensland-act-2001",
+  "level": 3,
+  "title": "Appendix B: Parliament of Queensland Act 2001,"
+ },
+ {
+  "id": "section-103",
+  "level": 3,
+  "title": "section 103"
+ },
+ {
+  "id": "103-area-of-responsibility-of-scrutiny-of-legislation-commit",
+  "level": 5,
+  "title": "103 Area of responsibility of Scrutiny of Legislation Committee"
+ }
+]

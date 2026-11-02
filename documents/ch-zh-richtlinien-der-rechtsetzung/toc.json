@@ -1,0 +1,832 @@
+[
+ {
+  "id": "regierungsrat-des-kantons-zürich",
+  "level": 5,
+  "title": "Regierungsrat des Kantons Zürich"
+ },
+ {
+  "id": "richtlinien-der-rechtsetzung",
+  "level": 2,
+  "title": "Richtlinien der Rechtsetzung"
+ },
+ {
+  "id": "i-grundlagen-6",
+  "level": 5,
+  "title": "I. GRUNDLAGEN...............................................................................................6"
+ },
+ {
+  "id": "ii-neue-erlasse-und-formelle-totalrevisionen-12",
+  "level": 5,
+  "title": "II. NEUE ERLASSE UND FORMELLE TOTALREVISIONEN ..........................12"
+ },
+ {
+  "id": "iii-änderung-von-erlassen-teilrevision-37",
+  "level": 5,
+  "title": "III. ÄNDERUNG VON ERLASSEN (TEILREVISION) ........................................37"
+ },
+ {
+  "id": "iv-aufhebung-von-erlassen-52",
+  "level": 5,
+  "title": "IV. AUFHEBUNG VON ERLASSEN ..................................................................52"
+ },
+ {
+  "id": "v-rechtsetzungstechnische-einzelfragen-54",
+  "level": 5,
+  "title": "V. RECHTSETZUNGSTECHNISCHE EINZELFRAGEN...................................54"
+ },
+ {
+  "id": "vi-formulierung-von-rechtssätzen-64",
+  "level": 5,
+  "title": "VI. FORMULIERUNG VON RECHTSSÄTZEN...................................................64"
+ },
+ {
+  "id": "vii-regierungsratsbeschlüsse-für-erlasse-83",
+  "level": 5,
+  "title": "VII. REGIERUNGSRATSBESCHLÜSSE FÜR ERLASSE..................................83"
+ },
+ {
+  "id": "i-grundlagen",
+  "level": 2,
+  "title": "I. Grundlagen"
+ },
+ {
+  "id": "a-gegenstand-und-geltungsbereich-dieser-richtlinien",
+  "level": 3,
+  "title": "A. Gegenstand und Geltungsbereich dieser Richtlinien"
+ },
+ {
+  "id": "1-gegenstand",
+  "level": 4,
+  "title": "1. Gegenstand"
+ },
+ {
+  "id": "2-geltungsbereich",
+  "level": 4,
+  "title": "2. Geltungsbereich"
+ },
+ {
+  "id": "b-erlassformen-und-bezeichnungen",
+  "level": 3,
+  "title": "B. Erlassformen und -bezeichnungen"
+ },
+ {
+  "id": "1-verfassung",
+  "level": 4,
+  "title": "1. Verfassung"
+ },
+ {
+  "id": "2-gesetze",
+  "level": 4,
+  "title": "2. Gesetze"
+ },
+ {
+  "id": "3-bezeichnungen-für-erlasse-unterhalb-der-gesetzesstufe",
+  "level": 4,
+  "title": "3. Bezeichnungen für Erlasse unterhalb der Gesetzesstufe"
+ },
+ {
+  "id": "4-erlassformen-für-interkantonale-vereinbarungen",
+  "level": 4,
+  "title": "4. Erlassformen für interkantonale Vereinbarungen"
+ },
+ {
+  "id": "5-erlassformen-für-vereinbarungen-mit-andern-körperschaften",
+  "level": 4,
+  "title": "5. Erlassformen für Vereinbarungen mit andern Körperschaften"
+ },
+ {
+  "id": "ii-neue-erlasse-und-formelle-totalrevisionen",
+  "level": 2,
+  "title": "II. Neue Erlasse und formelle Totalrevisionen"
+ },
+ {
+  "id": "a-titel-und-datum",
+  "level": 3,
+  "title": "A. Titel und Datum"
+ },
+ {
+  "id": "b-ingress",
+  "level": 3,
+  "title": "B. Ingress"
+ },
+ {
+  "id": "1-rechtsetzendes-organ",
+  "level": 4,
+  "title": "1. Rechtsetzendes Organ"
+ },
+ {
+  "id": "2-rechtsgrundlage",
+  "level": 4,
+  "title": "2. Rechtsgrundlage"
+ },
+ {
+  "id": "3-anträge-und-stellungnahmen",
+  "level": 4,
+  "title": "3. Anträge und Stellungnahmen"
+ },
+ {
+  "id": "c-einleitungsteil",
+  "level": 3,
+  "title": "C. Einleitungsteil"
+ },
+ {
+  "id": "1-gegenstand-2",
+  "level": 4,
+  "title": "1. Gegenstand"
+ },
+ {
+  "id": "2-zweckbestimmung",
+  "level": 4,
+  "title": "2. Zweckbestimmung"
+ },
+ {
+  "id": "3-geltungsbereich",
+  "level": 4,
+  "title": "3. Geltungsbereich"
+ },
+ {
+  "id": "4-legaldefinitionen",
+  "level": 4,
+  "title": "4. Legaldefinitionen"
+ },
+ {
+  "id": "d-hauptteil",
+  "level": 3,
+  "title": "D. Hauptteil"
+ },
+ {
+  "id": "1-gliederungskriterien",
+  "level": 4,
+  "title": "1. Gliederungskriterien"
+ },
+ {
+  "id": "2-empfehlungen-für-die-gliederung",
+  "level": 4,
+  "title": "2. Empfehlungen für die Gliederung"
+ },
+ {
+  "id": "e-schlussbestimmungen",
+  "level": 3,
+  "title": "E. Schlussbestimmungen"
+ },
+ {
+  "id": "1-elemente",
+  "level": 4,
+  "title": "1. Elemente"
+ },
+ {
+  "id": "2-normen-über-den-vollzug",
+  "level": 4,
+  "title": "2. Normen über den Vollzug"
+ },
+ {
+  "id": "3-ausführungserlasse",
+  "level": 4,
+  "title": "3. Ausführungserlasse"
+ },
+ {
+  "id": "4-aufhebung-von-erlassen",
+  "level": 4,
+  "title": "4. Aufhebung von Erlassen"
+ },
+ {
+  "id": "5-änderung-von-erlassen",
+  "level": 4,
+  "title": "5. Änderung von Erlassen"
+ },
+ {
+  "id": "6-übergangsbestimmungen",
+  "level": 4,
+  "title": "6. Übergangsbestimmungen"
+ },
+ {
+  "id": "7-bedingte-geltung",
+  "level": 4,
+  "title": "7. Bedingte Geltung"
+ },
+ {
+  "id": "8-genehmigung",
+  "level": 4,
+  "title": "8. Genehmigung"
+ },
+ {
+  "id": "9-inkrafttreten-und-befristung",
+  "level": 4,
+  "title": "9. Inkrafttreten und Befristung"
+ },
+ {
+  "id": "f-unterschriftsformel",
+  "level": 3,
+  "title": "F. Unterschriftsformel"
+ },
+ {
+  "id": "g-anhänge",
+  "level": 3,
+  "title": "G. Anhänge"
+ },
+ {
+  "id": "1-anwendungsbereich",
+  "level": 4,
+  "title": "1. Anwendungsbereich"
+ },
+ {
+  "id": "2-ausgestaltung",
+  "level": 4,
+  "title": "2. Ausgestaltung"
+ },
+ {
+  "id": "h-inhaltsverzeichnis",
+  "level": 3,
+  "title": "H. Inhaltsverzeichnis"
+ },
+ {
+  "id": "iii-änderung-von-erlassen-teilrevision",
+  "level": 2,
+  "title": "III. Änderung von Erlassen (Teilrevision)"
+ },
+ {
+  "id": "a-im-allgemeinen",
+  "level": 3,
+  "title": "A. Im Allgemeinen"
+ },
+ {
+  "id": "1-begriff-der-teilrevision",
+  "level": 4,
+  "title": "1. Begriff der Teilrevision"
+ },
+ {
+  "id": "2-total-oder-teilrevision",
+  "level": 4,
+  "title": "2. Total- oder Teilrevision?"
+ },
+ {
+  "id": "3-änderungserlass-und-zu-ändernder-erlass",
+  "level": 4,
+  "title": "3. Änderungserlass und zu ändernder Erlass"
+ },
+ {
+  "id": "4-änderung-mehrerer-erlasse",
+  "level": 4,
+  "title": "4. Änderung mehrerer Erlasse"
+ },
+ {
+  "id": "5-parallel-laufende-teilrevisionen",
+  "level": 4,
+  "title": "5. Parallel laufende Teilrevisionen"
+ },
+ {
+  "id": "6-gliederung-eines-änderungserlasses",
+  "level": 4,
+  "title": "6. Gliederung eines Änderungserlasses"
+ },
+ {
+  "id": "b-titel-und-datum-des-änderungserlasses",
+  "level": 3,
+  "title": "B. Titel und Datum des Änderungserlasses"
+ },
+ {
+  "id": "1-ls-nummer",
+  "level": 4,
+  "title": "1. LS-Nummer"
+ },
+ {
+  "id": "2-änderung-eines-einzigen-erlasses",
+  "level": 4,
+  "title": "2. Änderung eines einzigen Erlasses"
+ },
+ {
+  "id": "3-gleichzeitige-änderung-mehrerer-gesetze",
+  "level": 4,
+  "title": "3. Gleichzeitige Änderung mehrerer Gesetze"
+ },
+ {
+  "id": "4-gleichzeitige-änderung-mehrerer-verordnungen",
+  "level": 4,
+  "title": "4. Gleichzeitige Änderung mehrerer Verordnungen"
+ },
+ {
+  "id": "c-ingress-des-änderungserlasses",
+  "level": 3,
+  "title": "C. Ingress des Änderungserlasses"
+ },
+ {
+  "id": "d-hauptteil-des-änderungserlasses",
+  "level": 3,
+  "title": "D. Hauptteil des Änderungserlasses"
+ },
+ {
+  "id": "1-einleitung-des-hauptteils",
+  "level": 4,
+  "title": "1. Einleitung des Hauptteils"
+ },
+ {
+  "id": "2-änderung-des-titels-des-grunderlasses",
+  "level": 4,
+  "title": "2. Änderung des Titels des Grunderlasses"
+ },
+ {
+  "id": "3-änderung-des-ingresses-des-grunderlasses",
+  "level": 4,
+  "title": "3. Änderung des Ingresses des Grunderlasses"
+ },
+ {
+  "id": "4-änderung-von-paragrafen-absätzen-oder-ziffern",
+  "level": 4,
+  "title": "4. Änderung von Paragrafen, Absätzen oder Ziffern"
+ },
+ {
+  "id": "5-einschub-oder-aufhebung-von-paragrafen",
+  "level": 4,
+  "title": "5. Einschub oder Aufhebung von Paragrafen"
+ },
+ {
+  "id": "6-änderung-von-gliederungstiteln",
+  "level": 4,
+  "title": "6. Änderung von Gliederungstiteln"
+ },
+ {
+  "id": "7-änderung-von-bezeichnungen-oder-ausdrücken",
+  "level": 4,
+  "title": "7. Änderung von Bezeichnungen oder Ausdrücken"
+ },
+ {
+  "id": "8-änderung-von-anhängen",
+  "level": 4,
+  "title": "8. Änderung von Anhängen"
+ },
+ {
+  "id": "e-schlussbestimmungen-des-änderungserlasses",
+  "level": 3,
+  "title": "E. Schlussbestimmungen des Änderungserlasses"
+ },
+ {
+  "id": "1-elemente-und-gliederung",
+  "level": 4,
+  "title": "1. Elemente und Gliederung"
+ },
+ {
+  "id": "2-übergangsbestimmungen",
+  "level": 4,
+  "title": "2. Übergangsbestimmungen"
+ },
+ {
+  "id": "3-inkrafttreten",
+  "level": 4,
+  "title": "3. Inkrafttreten"
+ },
+ {
+  "id": "4-referendumsklausel",
+  "level": 4,
+  "title": "4. Referendumsklausel"
+ },
+ {
+  "id": "f-unterschriftsformel-2",
+  "level": 3,
+  "title": "F. Unterschriftsformel"
+ },
+ {
+  "id": "iv-aufhebung-von-erlassen",
+  "level": 2,
+  "title": "IV. Aufhebung von Erlassen"
+ },
+ {
+  "id": "v-rechtsetzungstechnische-einzelfragen",
+  "level": 2,
+  "title": "V. Rechtsetzungstechnische Einzelfragen"
+ },
+ {
+  "id": "a-formale-gliederung-eines-erlasses",
+  "level": 3,
+  "title": "A. Formale Gliederung eines Erlasses"
+ },
+ {
+  "id": "1-gliederung-des-erlasses-als-ganzes",
+  "level": 4,
+  "title": "1. Gliederung des Erlasses als Ganzes"
+ },
+ {
+  "id": "2-gliederung-der-einzelnen-paragrafen",
+  "level": 4,
+  "title": "2. Gliederung der einzelnen Paragrafen"
+ },
+ {
+  "id": "3-aufzählungen",
+  "level": 4,
+  "title": "3. Aufzählungen"
+ },
+ {
+  "id": "b-wiederholungen",
+  "level": 3,
+  "title": "B. Wiederholungen"
+ },
+ {
+  "id": "c-verweisungen",
+  "level": 3,
+  "title": "C. Verweisungen"
+ },
+ {
+  "id": "1-begriff",
+  "level": 4,
+  "title": "1. Begriff"
+ },
+ {
+  "id": "2-deklaratorische-verweisungen",
+  "level": 4,
+  "title": "2. Deklaratorische Verweisungen"
+ },
+ {
+  "id": "3-normative-verweisungen",
+  "level": 4,
+  "title": "3. Normative Verweisungen"
+ },
+ {
+  "id": "vi-formulierung-von-rechtssätzen",
+  "level": 2,
+  "title": "VI. Formulierung von Rechtssätzen"
+ },
+ {
+  "id": "a-zum-gebietenden-charakter-von-rechtssätzen",
+  "level": 3,
+  "title": "A. Zum gebietenden Charakter von Rechtssätzen"
+ },
+ {
+  "id": "1-rechtssätze-sind-staatliche-anordnungen",
+  "level": 4,
+  "title": "1. Rechtssätze sind staatliche Anordnungen"
+ },
+ {
+  "id": "2-müssen-sollen-und-haben-zu",
+  "level": 4,
+  "title": "2. „Müssen“, „sollen“ und „haben ... zu“"
+ },
+ {
+  "id": "3-rechtssätze-geben-die-geltende-rechtslage-wieder",
+  "level": 4,
+  "title": "3. Rechtssätze geben die geltende Rechtslage wieder"
+ },
+ {
+  "id": "b-anforderungen-an-den-formulierungsprozess",
+  "level": 3,
+  "title": "B. Anforderungen an den Formulierungsprozess"
+ },
+ {
+  "id": "c-anforderungen-an-die-rechtssätze",
+  "level": 3,
+  "title": "C. Anforderungen an die Rechtssätze"
+ },
+ {
+  "id": "1-rechtssätze-müssen-präzise-sein",
+  "level": 4,
+  "title": "1. Rechtssätze müssen präzise sein"
+ },
+ {
+  "id": "2-rechtssätze-müssen-verständlich-sein",
+  "level": 4,
+  "title": "2. Rechtssätze müssen verständlich sein"
+ },
+ {
+  "id": "3-rechtssätze-sollen-knapp-sein",
+  "level": 4,
+  "title": "3. Rechtssätze sollen knapp sein"
+ },
+ {
+  "id": "d-sprachliche-gleichbehandlung-der-geschlechter",
+  "level": 3,
+  "title": "D. Sprachliche Gleichbehandlung der Geschlechter"
+ },
+ {
+  "id": "1-grundsatz-und-ausnahmen-der-sprachlichen-gleichbehand-lung",
+  "level": 4,
+  "title": "1. Grundsatz und Ausnahmen der sprachlichen Gleichbehand- lung"
+ },
+ {
+  "id": "2-möglichkeiten-zur-sprachlichen-gleichbehandlung",
+  "level": 4,
+  "title": "2. Möglichkeiten zur sprachlichen Gleichbehandlung"
+ },
+ {
+  "id": "e-einzelfragen-bei-der-formulierung-von-rechtssätzen",
+  "level": 3,
+  "title": "E. Einzelfragen bei der Formulierung von Rechtssätzen"
+ },
+ {
+  "id": "1-abkürzungen-für-erlasse",
+  "level": 4,
+  "title": "1. Abkürzungen für Erlasse"
+ },
+ {
+  "id": "2-abkürzungen-für-paragrafen-absätze-und-ziffern",
+  "level": 4,
+  "title": "2. Abkürzungen für Paragrafen, Absätze und Ziffern"
+ },
+ {
+  "id": "3-zahlen",
+  "level": 4,
+  "title": "3. Zahlen"
+ },
+ {
+  "id": "4-franken-prozent-datum-klammern",
+  "level": 4,
+  "title": "4. Franken, Prozent, Datum, Klammern"
+ },
+ {
+  "id": "vii-regierungsratsbeschlüsse-für-erlasse",
+  "level": 2,
+  "title": "VII. Regierungsratsbeschlüsse für Erlasse"
+ },
+ {
+  "id": "a-beschlüsse-für-gesetze-und-verfassungsänderungen",
+  "level": 3,
+  "title": "A. Beschlüsse für Gesetze und Verfassungsänderungen"
+ },
+ {
+  "id": "1-neues-gesetz-oder-totalrevision-eines-gesetzes",
+  "level": 4,
+  "title": "1. Neues Gesetz oder Totalrevision eines Gesetzes"
+ },
+ {
+  "id": "2-änderung-der-verfassung-oder-eines-gesetzes",
+  "level": 4,
+  "title": "2. Änderung der Verfassung oder eines Gesetzes"
+ },
+ {
+  "id": "3-aufhebung-eines-gesetzes",
+  "level": 4,
+  "title": "3. Aufhebung eines Gesetzes"
+ },
+ {
+  "id": "4-abschreibung-von-parlamentarischen-vorstössen",
+  "level": 4,
+  "title": "4. Abschreibung von parlamentarischen Vorstössen"
+ },
+ {
+  "id": "5-inkraftsetzung",
+  "level": 4,
+  "title": "5. Inkraftsetzung"
+ },
+ {
+  "id": "b-beschlüsse-für-verordnungen",
+  "level": 3,
+  "title": "B. Beschlüsse für Verordnungen"
+ },
+ {
+  "id": "1-neue-verordnung",
+  "level": 4,
+  "title": "1. Neue Verordnung"
+ },
+ {
+  "id": "2-änderung-von-verordnungen",
+  "level": 4,
+  "title": "2. Änderung von Verordnungen"
+ },
+ {
+  "id": "3-aufhebung-einer-verordnung",
+  "level": 4,
+  "title": "3. Aufhebung einer Verordnung"
+ },
+ {
+  "id": "4-regierungsratsbeschluss-für-eine-genehmigungsbedürftige-ve",
+  "level": 4,
+  "title": "4. Regierungsratsbeschluss für eine genehmigungsbedürftige Ver- ordnung"
+ },
+ {
+  "id": "5-regierungsratsbeschluss-für-vom-kantonsrat-zu-erlassende-v",
+  "level": 4,
+  "title": "5. Regierungsratsbeschluss für vom Kantonsrat zu erlassende Verordnung"
+ },
+ {
+  "id": "6-regierungsratsbeschluss-über-den-beitritt-zu-einem-konkord",
+  "level": 4,
+  "title": "6. Regierungsratsbeschluss über den Beitritt zu einem Konkordat"
+ },
+ {
+  "id": "c-kombinierte-regierungsratsbeschlüsse",
+  "level": 3,
+  "title": "C. Kombinierte Regierungsratsbeschlüsse"
+ },
+ {
+  "id": "a-absatznummerierung-180",
+  "level": 5,
+  "title": "A Absatznummerierung 180"
+ },
+ {
+  "id": "änderung",
+  "level": 5,
+  "title": "Änderung"
+ },
+ {
+  "id": "aufhebung-von-erlassen",
+  "level": 5,
+  "title": "Aufhebung von Erlassen"
+ },
+ {
+  "id": "b",
+  "level": 5,
+  "title": "B"
+ },
+ {
+  "id": "beitrittsbeschluss-beitrittsgesetz",
+  "level": 5,
+  "title": "Beitrittsbeschluss, Beitrittsgesetz"
+ },
+ {
+  "id": "d-datum",
+  "level": 5,
+  "title": "D Datum"
+ },
+ {
+  "id": "e-eindeutigkeit-von-rechtssätzen-232",
+  "level": 5,
+  "title": "E Eindeutigkeit von Rechtssätzen 232"
+ },
+ {
+  "id": "einheit-der-materie-127-erlass",
+  "level": 5,
+  "title": "Einheit der Materie 127 Erlass"
+ },
+ {
+  "id": "f-formulierung-von-normen",
+  "level": 5,
+  "title": "F Formulierung von Normen"
+ },
+ {
+  "id": "franken-schreibweise-von-298",
+  "level": 5,
+  "title": "Franken, Schreibweise von 298"
+ },
+ {
+  "id": "g-gedankenklammer-n-260-gegenstand",
+  "level": 5,
+  "title": "G Gedankenklammer(n) 260 Gegenstand"
+ },
+ {
+  "id": "geltungsbereich",
+  "level": 5,
+  "title": "Geltungsbereich"
+ },
+ {
+  "id": "generalanweisung-160-gesetzessammlung",
+  "level": 5,
+  "title": "Generalanweisung 160 Gesetzessammlung"
+ },
+ {
+  "id": "gleichbehandlung-der-geschlech",
+  "level": 5,
+  "title": "Gleichbehandlung der Geschlech-"
+ },
+ {
+  "id": "gliederung",
+  "level": 5,
+  "title": "Gliederung"
+ },
+ {
+  "id": "h-hauptteil",
+  "level": 5,
+  "title": "H Hauptteil"
+ },
+ {
+  "id": "i-ingress",
+  "level": 5,
+  "title": "I Ingress"
+ },
+ {
+  "id": "initiative-einzel-oder-behördenini",
+  "level": 5,
+  "title": "Initiative, Einzel- oder Behördenini-"
+ },
+ {
+  "id": "inkrafttreten",
+  "level": 5,
+  "title": "Inkrafttreten"
+ },
+ {
+  "id": "interpunktion-bei-aufzählungen-188",
+  "level": 5,
+  "title": "Interpunktion, bei Aufzählungen 188"
+ },
+ {
+  "id": "k",
+  "level": 5,
+  "title": "K"
+ },
+ {
+  "id": "kohärenz-von-begriffen-und-formu",
+  "level": 5,
+  "title": "Kohärenz, von Begriffen und Formu-"
+ },
+ {
+  "id": "l",
+  "level": 5,
+  "title": "L"
+ },
+ {
+  "id": "m",
+  "level": 5,
+  "title": "M"
+ },
+ {
+  "id": "massnahmegesetz-14-muster-für-regierungsratsbeschlüs",
+  "level": 5,
+  "title": "Massnahmegesetz 14 Muster für Regierungsratsbeschlüs-"
+ },
+ {
+  "id": "n",
+  "level": 5,
+  "title": "N"
+ },
+ {
+  "id": "normalarbeitsvertrag-19-normen-nichtsstaatliche-verwei",
+  "level": 5,
+  "title": "Normalarbeitsvertrag 19 Normen, nichtsstaatliche, Verwei-"
+ },
+ {
+  "id": "o-oder-bei-aufzählungen-189-organ-rechtsetzendes-36",
+  "level": 5,
+  "title": "O „oder“ bei Aufzählungen 189 Organ, rechtsetzendes 36"
+ },
+ {
+  "id": "p-paragraf",
+  "level": 5,
+  "title": "P Paragraf"
+ },
+ {
+  "id": "prozent-schreibweise-von-299",
+  "level": 5,
+  "title": "Prozent, Schreibweise von 299"
+ },
+ {
+  "id": "r",
+  "level": 5,
+  "title": "R"
+ },
+ {
+  "id": "rechtsgrundlage-angabe-der",
+  "level": 5,
+  "title": "Rechtsgrundlage, Angabe der"
+ },
+ {
+  "id": "referendumsklausel",
+  "level": 5,
+  "title": "Referendumsklausel"
+ },
+ {
+  "id": "regierungsratsbeschlüsse-zu-er",
+  "level": 5,
+  "title": "Regierungsratsbeschlüsse zu Er-"
+ },
+ {
+  "id": "s",
+  "level": 5,
+  "title": "S"
+ },
+ {
+  "id": "schlussbestimmungen",
+  "level": 5,
+  "title": "Schlussbestimmungen"
+ },
+ {
+  "id": "substantivierung-von-verben-263",
+  "level": 5,
+  "title": "Substantivierung, von Verben 263"
+ },
+ {
+  "id": "t-titel",
+  "level": 5,
+  "title": "T Titel"
+ },
+ {
+  "id": "u-übergangsbestimmungen",
+  "level": 5,
+  "title": "U Übergangsbestimmungen"
+ },
+ {
+  "id": "und-bei-aufzählungen-180",
+  "level": 5,
+  "title": "„und“ bei Aufzählungen 180"
+ },
+ {
+  "id": "v-vereinbarung",
+  "level": 5,
+  "title": "V Vereinbarung"
+ },
+ {
+  "id": "vollzugsbestimmungen-74-78",
+  "level": 5,
+  "title": "Vollzugsbestimmungen 74, 78"
+ },
+ {
+  "id": "w-wiederholung-übergeordneten",
+  "level": 5,
+  "title": "W Wiederholung, übergeordneten"
+ },
+ {
+  "id": "z",
+  "level": 5,
+  "title": "Z"
+ },
+ {
+  "id": "zweckbestimmung-en-50",
+  "level": 5,
+  "title": "Zweckbestimmung(en) 50"
+ }
+]

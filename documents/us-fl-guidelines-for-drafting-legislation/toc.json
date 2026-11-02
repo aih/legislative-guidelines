@@ -1,0 +1,1302 @@
+[
+ {
+  "id": "guidelines-f-o-r-d-r-a-f-t-i-n-g-l-e-g-i-s-l-at-i-o-n",
+  "level": 2,
+  "title": "Guidelines F O R D R A F T I N G L E G I S L AT I O N"
+ },
+ {
+  "id": "florida-house-of-representatives-house-bill-drafting-service",
+  "level": 2,
+  "title": "Florida House of Representatives House Bill Drafting Service 2014"
+ },
+ {
+  "id": "guidelines-f-o-r-d-r-a-f-t-i-n-g-l-e-g-i-s-l-at-i-o-n-2",
+  "level": 2,
+  "title": "Guidelines F O R D R A F T I N G L E G I S L AT I O N"
+ },
+ {
+  "id": "florida-house-of-representatives-house-bill-drafting-service-2",
+  "level": 2,
+  "title": "Florida House of Representatives House Bill Drafting Service 2014"
+ },
+ {
+  "id": "part-i-types-of-legislation",
+  "level": 5,
+  "title": "PART I TYPES OF LEGISLATION"
+ },
+ {
+  "id": "general-laws",
+  "level": 5,
+  "title": "GENERAL LAWS"
+ },
+ {
+  "id": "may-a-bill-contain-more-than-one-subject",
+  "level": 5,
+  "title": "May a bill contain more than one subject?"
+ },
+ {
+  "id": "what-happens-if-a-bill-passes-with-more-than-one-subject",
+  "level": 5,
+  "title": "What happens if a bill passes with more than one subject?"
+ },
+ {
+  "id": "what-is-a-general-law-of-local-application",
+  "level": 5,
+  "title": "What is a \"general law of local application\"?"
+ },
+ {
+  "id": "what-is-a-relief-act-or-claim-bill",
+  "level": 5,
+  "title": "What is a relief act or “claim bill”?"
+ },
+ {
+  "id": "what-are-companion-bills",
+  "level": 5,
+  "title": "What are companion bills?"
+ },
+ {
+  "id": "special-acts",
+  "level": 5,
+  "title": "SPECIAL ACTS"
+ },
+ {
+  "id": "what-are-the-requirements-for-advertising-special-acts",
+  "level": 5,
+  "title": "What are the requirements for “advertising” special acts?"
+ },
+ {
+  "id": "what-is-the-proper-form-for-a-local-bill-referendum",
+  "level": 5,
+  "title": "What is the proper form for a local bill referendum?"
+ },
+ {
+  "id": "joint-resolutions",
+  "level": 5,
+  "title": "JOINT RESOLUTIONS"
+ },
+ {
+  "id": "how-does-a-constitutional-amendment-proposed-by-joint-resolu",
+  "level": 5,
+  "title": "How does a constitutional amendment proposed by joint resolution actually become part of the Florida Constitution?"
+ },
+ {
+  "id": "when-does-a-constitutional-amendment-take-effect",
+  "level": 5,
+  "title": "When does a constitutional amendment take effect?"
+ },
+ {
+  "id": "simple-resolutions",
+  "level": 5,
+  "title": "SIMPLE RESOLUTIONS"
+ },
+ {
+  "id": "house-tributes",
+  "level": 5,
+  "title": "HOUSE TRIBUTES"
+ },
+ {
+  "id": "concurrent-resolutions",
+  "level": 5,
+  "title": "CONCURRENT RESOLUTIONS"
+ },
+ {
+  "id": "memorials",
+  "level": 5,
+  "title": "MEMORIALS"
+ },
+ {
+  "id": "amendments",
+  "level": 5,
+  "title": "AMENDMENTS"
+ },
+ {
+  "id": "what-is-a-title-amendment",
+  "level": 5,
+  "title": "What is a title amendment?"
+ },
+ {
+  "id": "what-is-a-directory-amendment",
+  "level": 5,
+  "title": "What is a directory amendment?"
+ },
+ {
+  "id": "what-is-a-ballot-statement-amendment",
+  "level": 5,
+  "title": "What is a ballot statement amendment?"
+ },
+ {
+  "id": "committee-substitute",
+  "level": 5,
+  "title": "COMMITTEE SUBSTITUTE"
+ },
+ {
+  "id": "title",
+  "level": 2,
+  "title": "TITLE"
+ },
+ {
+  "id": "enacting-clause",
+  "level": 2,
+  "title": "ENACTING CLAUSE"
+ },
+ {
+  "id": "directory-lines-8-9",
+  "level": 2,
+  "title": "DIRECTORY (LINES 8-9)"
+ },
+ {
+  "id": "body",
+  "level": 2,
+  "title": "BODY*"
+ },
+ {
+  "id": "effective-date",
+  "level": 2,
+  "title": "EFFECTIVE DATE"
+ },
+ {
+  "id": "request",
+  "level": 2,
+  "title": "REQUEST"
+ },
+ {
+  "id": "number",
+  "level": 3,
+  "title": "NUMBER"
+ },
+ {
+  "id": "parts-of-a-bill",
+  "level": 2,
+  "title": "PARTS OF A BILL"
+ },
+ {
+  "id": "reference-to-the-body-of-a-bill-is-generally-understood-to-m",
+  "level": 2,
+  "title": "*Reference to the \"body\" of a bill is generally understood to mean all material following the enacting clause, including all directory language and the effective date."
+ },
+ {
+  "id": "part-ii-form-of-legislation",
+  "level": 5,
+  "title": "PART II FORM OF LEGISLATION"
+ },
+ {
+  "id": "title-of-bill",
+  "level": 5,
+  "title": "TITLE OF BILL"
+ },
+ {
+  "id": "what-happens-if-a-bill-passes-with-an-insufficient-title",
+  "level": 5,
+  "title": "What happens if a bill passes with an insufficient title?"
+ },
+ {
+  "id": "must-the-title-to-a-resolution-comply-with-the-same-rules",
+  "level": 5,
+  "title": "Must the title to a resolution comply with the same rules?"
+ },
+ {
+  "id": "are-there-any-particular-types-of-provisions-in-an-act-for-w",
+  "level": 5,
+  "title": "Are there any particular types of provisions in an act for which notice must or should be given in the title?"
+ },
+ {
+  "id": "should-a-statement-of-sections-to-be-repealed-be-included-in",
+  "level": 5,
+  "title": "Should a statement of sections to be repealed be included in the title?"
+ },
+ {
+  "id": "is-it-necessary-that-the-title-disclose-in-detail-all-of-the",
+  "level": 5,
+  "title": "Is it necessary that the title disclose in detail all of the provisions contained in the body of the bill?"
+ },
+ {
+  "id": "what-if-a-bill-does-less-than-the-title-indicates",
+  "level": 5,
+  "title": "What if a bill does less than the title indicates?"
+ },
+ {
+  "id": "the-enacting-clause",
+  "level": 5,
+  "title": "THE ENACTING CLAUSE"
+ },
+ {
+  "id": "body-of-the-bill",
+  "level": 5,
+  "title": "BODY OF THE BILL"
+ },
+ {
+  "id": "what-is-the-proper-format-for-the-body-of-a-bill",
+  "level": 5,
+  "title": "What is the proper format for the body of a bill?"
+ },
+ {
+  "id": "what-is-the-significance-of-the-directory-language",
+  "level": 5,
+  "title": "What is the significance of the “directory language”?"
+ },
+ {
+  "id": "what-is-the-proper-way-to-use-the-underlining-and-striking-t",
+  "level": 5,
+  "title": "What is the proper way to use the underlining and striking through with hyphens?"
+ },
+ {
+  "id": "does-underlined-text-come-before-or-after-stricken-text",
+  "level": 5,
+  "title": "Does underlined text come before or after stricken text?"
+ },
+ {
+  "id": "what-language-should-be-underlined",
+  "level": 5,
+  "title": "What language should be underlined?"
+ },
+ {
+  "id": "what-is-the-significance-of-section-headings",
+  "level": 5,
+  "title": "What is the significance of section headings?"
+ },
+ {
+  "id": "what-if-the-section-being-amended-or-repealed-contains-a-ref",
+  "level": 5,
+  "title": "What if the section being amended or repealed contains a reference to another section or is itself referred to elsewhere in Florida Statutes?"
+ },
+ {
+  "id": "repeals",
+  "level": 5,
+  "title": "REPEALS"
+ },
+ {
+  "id": "does-the-repealed-language-have-to-be-set-forth-in-the-bill",
+  "level": 5,
+  "title": "Does the repealed language have to be set forth in the bill?"
+ },
+ {
+  "id": "what-about-using-a-general-repealer-clause",
+  "level": 5,
+  "title": "What about using a “general repealer” clause?"
+ },
+ {
+  "id": "the-effective-date",
+  "level": 5,
+  "title": "THE EFFECTIVE DATE"
+ },
+ {
+  "id": "what-is-the-difference-between-taking-effect-and-becoming-a-",
+  "level": 5,
+  "title": "What is the difference between “taking effect” and “becoming a law”?"
+ },
+ {
+  "id": "how-can-a-bill-be-made-to-take-effect-at-the-earliest-possib",
+  "level": 5,
+  "title": "How can a bill be made to take effect at the earliest possible moment?"
+ },
+ {
+  "id": "may-separate-provisions-of-an-act-take-effect-at-different-t",
+  "level": 5,
+  "title": "May separate provisions of an act take effect at different times?"
+ },
+ {
+  "id": "what-happens-if-an-act-fails-to-become-a-law-until-after-the",
+  "level": 5,
+  "title": "What happens if an act fails to become a law until after the effective date provided in it?"
+ },
+ {
+  "id": "miscellaneous-provisions",
+  "level": 5,
+  "title": "MISCELLANEOUS PROVISIONS"
+ },
+ {
+  "id": "bills-with-special-requirements",
+  "level": 5,
+  "title": "BILLS WITH SPECIAL REQUIREMENTS"
+ },
+ {
+  "id": "public-records",
+  "level": 5,
+  "title": "Public records"
+ },
+ {
+  "id": "public-meetings",
+  "level": 5,
+  "title": "Public meetings"
+ },
+ {
+  "id": "part-iii-preparing-legislation",
+  "level": 5,
+  "title": "PART III PREPARING LEGISLATION"
+ },
+ {
+  "id": "drafting",
+  "level": 5,
+  "title": "DRAFTING"
+ },
+ {
+  "id": "preliminary-considerations",
+  "level": 5,
+  "title": "PRELIMINARY CONSIDERATIONS"
+ },
+ {
+  "id": "what-precisely-is-the-object-of-the-proposal",
+  "level": 5,
+  "title": "What precisely is the object of the proposal?"
+ },
+ {
+  "id": "what-does-existing-law-presently-provide",
+  "level": 5,
+  "title": "What does existing law presently provide?"
+ },
+ {
+  "id": "is-the-proposal-constitutional",
+  "level": 5,
+  "title": "Is the proposal constitutional?"
+ },
+ {
+  "id": "what-is-the-proper-approach",
+  "level": 5,
+  "title": "What is the proper approach?"
+ },
+ {
+  "id": "general-suggestions",
+  "level": 5,
+  "title": "GENERAL SUGGESTIONS"
+ },
+ {
+  "id": "look-to-work-already-done",
+  "level": 5,
+  "title": "Look to work already done"
+ },
+ {
+  "id": "avoid-technician-s-verbosity",
+  "level": 5,
+  "title": "Avoid \"technician's verbosity\""
+ },
+ {
+  "id": "be-consistent",
+  "level": 5,
+  "title": "Be consistent"
+ },
+ {
+  "id": "choose-terminology-with-care",
+  "level": 5,
+  "title": "Choose terminology with care"
+ },
+ {
+  "id": "prepare-the-title-last",
+  "level": 5,
+  "title": "Prepare the title last"
+ },
+ {
+  "id": "specific-suggestions",
+  "level": 5,
+  "title": "SPECIFIC SUGGESTIONS"
+ },
+ {
+  "id": "definitions",
+  "level": 5,
+  "title": "Definitions"
+ },
+ {
+  "id": "provisos",
+  "level": 5,
+  "title": "Provisos"
+ },
+ {
+  "id": "choosing-new-section-numbers",
+  "level": 5,
+  "title": "Choosing new section numbers"
+ },
+ {
+  "id": "cross-references-and-adjectival-references",
+  "level": 5,
+  "title": "Cross-references and adjectival references"
+ },
+ {
+  "id": "references-to-effective-date",
+  "level": 5,
+  "title": "References to effective date"
+ },
+ {
+  "id": "administrative-provisions",
+  "level": 5,
+  "title": "Administrative provisions"
+ },
+ {
+  "id": "repeals-2",
+  "level": 5,
+  "title": "Repeals"
+ },
+ {
+  "id": "submission-of-requests-for-drafting-to-the-house-bill-drafti",
+  "level": 5,
+  "title": "SUBMISSION OF REQUESTS FOR DRAFTING TO THE HOUSE BILL DRAFTING SERVICE"
+ },
+ {
+  "id": "amending-florida-statutes-general-procedures",
+  "level": 5,
+  "title": "AMENDING FLORIDA STATUTES GENERAL PROCEDURES"
+ },
+ {
+  "id": "special-session-disclaimer",
+  "level": 5,
+  "title": "SPECIAL SESSION DISCLAIMER"
+ },
+ {
+  "id": "or",
+  "level": 5,
+  "title": "-OR-"
+ },
+ {
+  "id": "amending-subdivisions-general-procedures",
+  "level": 5,
+  "title": "AMENDING SUBDIVISIONS GENERAL PROCEDURES"
+ },
+ {
+  "id": "amending-a-subsection",
+  "level": 5,
+  "title": "AMENDING A SUBSECTION"
+ },
+ {
+  "id": "amending-a-paragraph",
+  "level": 5,
+  "title": "AMENDING A PARAGRAPH"
+ },
+ {
+  "id": "or-subdivisions-below-the-paragraph-level",
+  "level": 5,
+  "title": "OR SUBDIVISIONS BELOW THE PARAGRAPH LEVEL"
+ },
+ {
+  "id": "adding-subdivisions-to-an-existing-section",
+  "level": 5,
+  "title": "ADDING SUBDIVISIONS TO AN EXISTING SECTION"
+ },
+ {
+  "id": "amending-and-adding-subdivisions-at-the-same-time",
+  "level": 5,
+  "title": "AMENDING AND ADDING SUBDIVISIONS AT THE SAME TIME"
+ },
+ {
+  "id": "splitting-a-section-into-multiple-sections",
+  "level": 5,
+  "title": "SPLITTING A SECTION INTO MULTIPLE SECTIONS"
+ },
+ {
+  "id": "amending-more-than-one-consecutive-section",
+  "level": 5,
+  "title": "AMENDING MORE THAN ONE CONSECUTIVE SECTION"
+ },
+ {
+  "id": "amending-an-entire-chapter-or-splitting-a-chapter-into-parts",
+  "level": 5,
+  "title": "AMENDING AN ENTIRE CHAPTER OR SPLITTING A CHAPTER INTO PARTS"
+ },
+ {
+  "id": "creating-florida-statutes-general-procedures",
+  "level": 5,
+  "title": "CREATING FLORIDA STATUTES GENERAL PROCEDURES"
+ },
+ {
+  "id": "creating-more-than-one-consecutive-section",
+  "level": 5,
+  "title": "CREATING MORE THAN ONE CONSECUTIVE SECTION"
+ },
+ {
+  "id": "creating-an-entire-chapter",
+  "level": 5,
+  "title": "CREATING AN ENTIRE CHAPTER"
+ },
+ {
+  "id": "creating-a-part",
+  "level": 5,
+  "title": "CREATING A PART"
+ },
+ {
+  "id": "or-2",
+  "level": 5,
+  "title": "-OR-"
+ },
+ {
+  "id": "style-and-usage",
+  "level": 5,
+  "title": "STYLE AND USAGE"
+ },
+ {
+  "id": "capitalization",
+  "level": 5,
+  "title": "Capitalization"
+ },
+ {
+  "id": "acts-popular-names",
+  "level": 5,
+  "title": "Acts (Popular names)"
+ },
+ {
+  "id": "agencies-state-and-federal",
+  "level": 5,
+  "title": "Agencies (state and federal)"
+ },
+ {
+  "id": "colleges-and-universities",
+  "level": 5,
+  "title": "Colleges and universities"
+ },
+ {
+  "id": "constitutions-state-and-federal",
+  "level": 5,
+  "title": "Constitutions (state and federal)"
+ },
+ {
+  "id": "courts-and-rules-of-court",
+  "level": 5,
+  "title": "Courts and rules of court"
+ },
+ {
+  "id": "florida-statutes",
+  "level": 5,
+  "title": "Florida Statutes"
+ },
+ {
+  "id": "funds",
+  "level": 5,
+  "title": "Funds"
+ },
+ {
+  "id": "governments-state-and-federal",
+  "level": 5,
+  "title": "Governments (state and federal)"
+ },
+ {
+  "id": "highways",
+  "level": 5,
+  "title": "Highways"
+ },
+ {
+  "id": "legislative-bodies-state-and-federal",
+  "level": 5,
+  "title": "Legislative bodies (state and federal)"
+ },
+ {
+  "id": "officers",
+  "level": 5,
+  "title": "Officers"
+ },
+ {
+  "id": "political-subdivisions",
+  "level": 5,
+  "title": "Political subdivisions"
+ },
+ {
+  "id": "miscellaneous",
+  "level": 5,
+  "title": "Miscellaneous"
+ },
+ {
+  "id": "punctuation",
+  "level": 5,
+  "title": "Punctuation"
+ },
+ {
+  "id": "specifying-time-periods",
+  "level": 5,
+  "title": "Specifying time periods"
+ },
+ {
+  "id": "expressing-exact-time",
+  "level": 5,
+  "title": "Expressing exact time"
+ },
+ {
+  "id": "dates",
+  "level": 5,
+  "title": "Dates"
+ },
+ {
+  "id": "age",
+  "level": 5,
+  "title": "Age"
+ },
+ {
+  "id": "numbers",
+  "level": 5,
+  "title": "Numbers"
+ },
+ {
+  "id": "distinguish-between-shall-and-may",
+  "level": 5,
+  "title": "Distinguish between \"shall\" and \"may\""
+ },
+ {
+  "id": "avoid-state-of-florida",
+  "level": 5,
+  "title": "Avoid \"State of Florida\""
+ },
+ {
+  "id": "subdividing-a-section",
+  "level": 5,
+  "title": "Subdividing a section"
+ },
+ {
+  "id": "flush-left",
+  "level": 5,
+  "title": "\"Flush left\""
+ },
+ {
+  "id": "punctuating-subdivisions",
+  "level": 5,
+  "title": "Punctuating subdivisions"
+ },
+ {
+  "id": "keep-ideas-parallel",
+  "level": 5,
+  "title": "Keep ideas parallel"
+ },
+ {
+  "id": "be-aware-of-the-ambiguities-inherent-in-and-and-or",
+  "level": 5,
+  "title": "Be aware of the ambiguities inherent in \"and\" and \"or\""
+ },
+ {
+  "id": "be-specific-eschew-legalese",
+  "level": 5,
+  "title": "Be specific; eschew \"legalese\""
+ },
+ {
+  "id": "avoid-the-future-the-negative-and-the-plural",
+  "level": 5,
+  "title": "Avoid the future, the negative, and the plural"
+ },
+ {
+  "id": "final-checklist",
+  "level": 5,
+  "title": "FINAL CHECKLIST"
+ },
+ {
+  "id": "part-iv-sample-legislation",
+  "level": 5,
+  "title": "PART IV SAMPLE LEGISLATION"
+ },
+ {
+  "id": "general-bill-amending-florida-statutes",
+  "level": 2,
+  "title": "GENERAL BILL AMENDING FLORIDA STATUTES"
+ },
+ {
+  "id": "a-bill-to-be-entitled-an-act-relating-to-railroads-amending-",
+  "level": 5,
+  "title": "A bill to be entitled An act relating to railroads; amending s. 860.04, F.S., relating to persons riding or attempting to ride on a railroad train with intent to ride free; increasing the penalty for such offense; providing an effective date."
+ },
+ {
+  "id": "section-1-section-860-04-florida-statutes-is-amended-to",
+  "level": 5,
+  "title": "Section 1. Section 860.04, Florida Statutes, is amended to"
+ },
+ {
+  "id": "general-bill-amending-subdivisions-of",
+  "level": 3,
+  "title": "GENERAL BILL AMENDING SUBDIVISIONS OF"
+ },
+ {
+  "id": "florida-statutes-2",
+  "level": 5,
+  "title": "FLORIDA STATUTES"
+ },
+ {
+  "id": "a-bill-to-be-entitled-an-act-relating-to-anatomical-gifts-am",
+  "level": 5,
+  "title": "A bill to be entitled An act relating to anatomical gifts; amending s. 765.511,"
+ },
+ {
+  "id": "f-s-revising-the-definition-of-donor-defining-donee-providin",
+  "level": 5,
+  "title": "F.S.; revising the definition of \"donor\"; defining \"donee\"; providing an effective date."
+ },
+ {
+  "id": "joint-resolution-proposing",
+  "level": 3,
+  "title": "JOINT RESOLUTION PROPOSING"
+ },
+ {
+  "id": "constitutional-amendment",
+  "level": 4,
+  "title": "CONSTITUTIONAL AMENDMENT"
+ },
+ {
+  "id": "article-vi-of-the-state-constitution-relating-to-electors-to",
+  "level": 5,
+  "title": "Article VI of the State Constitution, relating to electors, to limit the right to vote to women only."
+ },
+ {
+  "id": "house-resolution-of-commendation",
+  "level": 3,
+  "title": "HOUSE RESOLUTION OF COMMENDATION"
+ },
+ {
+  "id": "concurrent-resolution",
+  "level": 4,
+  "title": "CONCURRENT RESOLUTION"
+ },
+ {
+  "id": "a-concurrent-resolution-extending-the-2009-regular-legislati",
+  "level": 5,
+  "title": "A concurrent resolution extending the 2009 regular legislative session under the authority of Article III,"
+ },
+ {
+  "id": "section-3-d-of-the-state-constitution-and-establishing-limit",
+  "level": 5,
+  "title": "Section 3(d) of the State Constitution and establishing limitations on the scope of legislation to be considered."
+ },
+ {
+  "id": "memorial-requesting-action-from-congress",
+  "level": 3,
+  "title": "MEMORIAL REQUESTING ACTION FROM CONGRESS"
+ },
+ {
+  "id": "a-memorial-to-the-congress-of-the-united-states-urging-congr",
+  "level": 5,
+  "title": "A memorial to the Congress of the United States, urging Congress to reauthorize the Older Americans Act."
+ },
+ {
+  "id": "general-relief-act-or-claim-bill",
+  "level": 2,
+  "title": "GENERAL RELIEF ACT or \"CLAIM BILL\""
+ },
+ {
+  "id": "local-relief-act-or-claim-bill",
+  "level": 2,
+  "title": "LOCAL RELIEF ACT or \"CLAIM BILL\""
+ },
+ {
+  "id": "a-bill-to-be-entitled",
+  "level": 5,
+  "title": "A bill to be entitled"
+ },
+ {
+  "id": "for-injuries-sustained-as-a-result-of-the-negligence-of-wash",
+  "level": 5,
+  "title": "for injuries sustained as a result of the negligence of Washington County; providing an effective date."
+ },
+ {
+  "id": "house-tribute",
+  "level": 4,
+  "title": "HOUSE TRIBUTE"
+ },
+ {
+  "id": "representative-district-135",
+  "level": 5,
+  "title": "Representative, District 135"
+ },
+ {
+  "id": "part-v-amendments",
+  "level": 5,
+  "title": "PART V AMENDMENTS"
+ },
+ {
+  "id": "in-subcommittee-or-committee",
+  "level": 5,
+  "title": "IN SUBCOMMITTEE OR COMMITTEE"
+ },
+ {
+  "id": "on-the-floor",
+  "level": 5,
+  "title": "ON THE FLOOR"
+ },
+ {
+  "id": "a-house-or-senate-bill-is-being-taken-up-for-the-first-time",
+  "level": 5,
+  "title": "A House or Senate bill is being taken up for the first time"
+ },
+ {
+  "id": "amendment-with-directory-and-title-amendments",
+  "level": 5,
+  "title": "Amendment (with directory and title amendments)"
+ },
+ {
+  "id": "amendment-to-amendment-012345-with-directory-and-title-amend",
+  "level": 5,
+  "title": "Amendment to amendment (012345) (with directory and title amendments)"
+ },
+ {
+  "id": "substitute-amendment-for-amendment-012345",
+  "level": 5,
+  "title": "Substitute Amendment for Amendment (012345)"
+ },
+ {
+  "id": "amendment-to-substitute-amendment-012345",
+  "level": 5,
+  "title": "*Amendment to Substitute Amendment (012345)"
+ },
+ {
+  "id": "strike-everything-amendments",
+  "level": 5,
+  "title": "\"Strike everything\" amendments"
+ },
+ {
+  "id": "clerk-s-desk-must-be-modified-so-that-it-relates-to-the-appr",
+  "level": 5,
+  "title": "Clerk's desk must be modified so that it relates to the appropriate line numbers of the pending \"strike everything\" amendment. To accomplish this, a new request for the amendment must be submitted in LEAGIS. If the"
+ },
+ {
+  "id": "once-a-strike-everything-amendment-has-been-adopted-further-",
+  "level": 5,
+  "title": "Once a \"strike everything\" amendment has been adopted, further amendment is in order and the text of the \"strike everything\" amendment is"
+ },
+ {
+  "id": "a-house-bill-is-returned-from-the-senate-with-an-amendment",
+  "level": 5,
+  "title": "A House bill is returned from the Senate with an amendment"
+ },
+ {
+  "id": "amendment-to-senate-amendment-543210",
+  "level": 5,
+  "title": "Amendment to Senate Amendment (543210)"
+ },
+ {
+  "id": "amendment-to-amendment-012345",
+  "level": 5,
+  "title": "Amendment to Amendment (012345)"
+ },
+ {
+  "id": "substitute-amendment-for-amendment-012345-2",
+  "level": 5,
+  "title": "Substitute Amendment for Amendment (012345)"
+ },
+ {
+  "id": "amendment-to-substitute-amendment-012345-2",
+  "level": 5,
+  "title": "Amendment to Substitute Amendment (012345)"
+ },
+ {
+  "id": "6-4",
+  "level": 2,
+  "title": "6 4"
+ },
+ {
+  "id": "_7",
+  "level": 2,
+  "title": "_7"
+ },
+ {
+  "id": "8-11",
+  "level": 5,
+  "title": "8 11"
+ },
+ {
+  "id": "model-floor-amendment-template",
+  "level": 2,
+  "title": "MODEL FLOOR AMENDMENT TEMPLATE"
+ },
+ {
+  "id": "1-bill-no",
+  "level": 2,
+  "title": "1 Bill No."
+ },
+ {
+  "id": "amendment-with-directory-and-title-amendments-2",
+  "level": 5,
+  "title": "Amendment (with directory and title amendments)"
+ },
+ {
+  "id": "d-ire-c-tor-yam-end-men-t",
+  "level": 5,
+  "title": "=========== D IRE C TOR YAM END MEN T =========="
+ },
+ {
+  "id": "tit-lea-men-d-men-t",
+  "level": 5,
+  "title": "================ TIT LEA MEN D MEN T ============="
+ },
+ {
+  "id": "floor-amendment-template-guide",
+  "level": 5,
+  "title": "FLOOR AMENDMENT TEMPLATE GUIDE"
+ },
+ {
+  "id": "space-1",
+  "level": 5,
+  "title": "SPACE # 1"
+ },
+ {
+  "id": "this-information-is-derived-from-the-information-supplied-in",
+  "level": 5,
+  "title": "This information is derived from the information supplied in the LEAGIS request for the amendment. For this reason, it is extremely important that you double-check any request for an amendment before you transmit it to House"
+ },
+ {
+  "id": "space-2",
+  "level": 5,
+  "title": "SPACE #2"
+ },
+ {
+  "id": "space-3",
+  "level": 5,
+  "title": "SPACE # 3"
+ },
+ {
+  "id": "space-4",
+  "level": 5,
+  "title": "SPACE # 4"
+ },
+ {
+  "id": "space-5",
+  "level": 5,
+  "title": "SPACE # 5"
+ },
+ {
+  "id": "amendment-amendment-to-amendment-012345-amendment-to-substit",
+  "level": 5,
+  "title": "Amendment Amendment to Amendment (012345) Amendment to Substitute Amendment (012345) Substitute Amendment for Amendment (012345)"
+ },
+ {
+  "id": "space-6",
+  "level": 5,
+  "title": "SPACE #6"
+ },
+ {
+  "id": "important-that-you-double-check-for-accuracy-and-correctness",
+  "level": 5,
+  "title": "important that you double-check for accuracy and correctness. See pages 125-"
+ },
+ {
+  "id": "space-7",
+  "level": 5,
+  "title": "SPACE # 7"
+ },
+ {
+  "id": "space-8",
+  "level": 5,
+  "title": "SPACE # 8"
+ },
+ {
+  "id": "space-9",
+  "level": 5,
+  "title": "SPACE # 9"
+ },
+ {
+  "id": "754077",
+  "level": 5,
+  "title": "(754077).\""
+ },
+ {
+  "id": "an-amendment-barcode-number-can-only-be-generated-when-an-am",
+  "level": 5,
+  "title": "An amendment barcode number can only be generated when an amendment that has been requested through LEAGIS has been filed. LEAGIS does not allow for the preparation of a \"generic amendment\" that does not have a sponsor or that does not identify a specific bill number to be amended (sometimes referred to as the \"vehicle\"). Floor amendments can only be"
+ },
+ {
+  "id": "prepared-by-house-bill-drafting-pursuant-to-a-leagis-request",
+  "level": 5,
+  "title": "prepared by House Bill Drafting pursuant to a LEAGIS request for amendment"
+ },
+ {
+  "id": "transmitted-to-house-bill-drafting-or-through-a-leagis-reque",
+  "level": 5,
+  "title": "transmitted to House Bill Drafting or through a LEAGIS request for amendment"
+ },
+ {
+  "id": "space-10",
+  "level": 5,
+  "title": "SPACE # 10"
+ },
+ {
+  "id": "odel-committee-amendment-tem-plate",
+  "level": 2,
+  "title": "~'ODEL COMMITTEE AMENDMENT TEM'PLATE"
+ },
+ {
+  "id": "1-adopted-as-amended-y-n",
+  "level": 2,
+  "title": "1 ADOPTED AS AMENDED (Y/N)"
+ },
+ {
+  "id": "2-1",
+  "level": 2,
+  "title": "2 1"
+ },
+ {
+  "id": "council-committee-hearing-bill",
+  "level": 5,
+  "title": "Council/Committee hearing bill:"
+ },
+ {
+  "id": "d-ire-c-tor-y-a-men-d-m-e-nt",
+  "level": 5,
+  "title": "D IRE C TOR Y A MEN D M E NT =========="
+ },
+ {
+  "id": "tit-lea-men-d-men-t-2",
+  "level": 5,
+  "title": "================ TIT LEA MEN D MEN T ============="
+ },
+ {
+  "id": "committee-amendment-template-guide",
+  "level": 5,
+  "title": "COMMITTEE AMENDMENT TEMPLATE GUIDE"
+ },
+ {
+  "id": "space-1-2",
+  "level": 5,
+  "title": "SPACE # 1"
+ },
+ {
+  "id": "space-2-2",
+  "level": 5,
+  "title": "SPACE # 2"
+ },
+ {
+  "id": "space-3-2",
+  "level": 5,
+  "title": "SPACE # 3"
+ },
+ {
+  "id": "or-number-this-identification-number-is-not-a-leagis-amendme",
+  "level": 5,
+  "title": "or number. This identification number is not a LEAGIS amendment number of"
+ },
+ {
+  "id": "please-keep-in-mind-that-if-you-are-attempting-to-amend-a-ho",
+  "level": 5,
+  "title": "Please keep in mind that If you are attempting to amend a House bill on the floor using an amendment previously prepared and offered in subcommittee or committee, that amendment must be transmitted via LEAGIS to Bill Drafting as a new request for a floor amendment and prepared as a floor"
+ },
+ {
+  "id": "content-of-an-amendment",
+  "level": 5,
+  "title": "CONTENT OF AN AMENDMENT"
+ },
+ {
+  "id": "or-3",
+  "level": 5,
+  "title": "-OR-"
+ },
+ {
+  "id": "adding-a-new-section-or-sections",
+  "level": 5,
+  "title": "Adding a new section or sections"
+ },
+ {
+  "id": "section",
+  "level": 5,
+  "title": ". . . \""
+ },
+ {
+  "id": "or-4",
+  "level": 5,
+  "title": "-OR-"
+ },
+ {
+  "id": "amendment-with-title-amendment-amendment-to-amendment-012345",
+  "level": 5,
+  "title": "Amendment (with title amendment) Amendment to Amendment (012345) (with title amendment)"
+ },
+ {
+  "id": "amendment-with-directory-amendment",
+  "level": 5,
+  "title": "Amendment (with directory amendment)"
+ },
+ {
+  "id": "important-things-to-remember",
+  "level": 5,
+  "title": "IMPORTANT THINGS TO REMEMBER"
+ },
+ {
+  "id": "special-types-of-amendments",
+  "level": 5,
+  "title": "SPECIAL TYPES OF AMENDMENTS"
+ },
+ {
+  "id": "amendment-samples-are-drafted-to-this-bill",
+  "level": 4,
+  "title": "AMENDMENT SAMPLES ARE DRAFTED TO THIS BILL"
+ },
+ {
+  "id": "136",
+  "level": 5,
+  "title": "-136-"
+ },
+ {
+  "id": "senate-house",
+  "level": 5,
+  "title": "Senate House"
+ },
+ {
+  "id": "removes-coded-text-from-body-of-the-bill",
+  "level": 4,
+  "title": "REMOVES CODED TEXT FROM BODY OF THE BILL"
+ },
+ {
+  "id": "137",
+  "level": 5,
+  "title": "-137-"
+ },
+ {
+  "id": "strikes-existing-statute-text",
+  "level": 3,
+  "title": "STRIKES EXISTING STATUTE TEXT"
+ },
+ {
+  "id": "of-s-24-1055-f-s",
+  "level": 5,
+  "title": "of s. 24.1055, F.S.]"
+ },
+ {
+  "id": "138",
+  "level": 5,
+  "title": "-138-"
+ },
+ {
+  "id": "restores-existing-statute-text",
+  "level": 4,
+  "title": "RESTORES EXISTING STATUTE TEXT"
+ },
+ {
+  "id": "139",
+  "level": 5,
+  "title": "-139-"
+ },
+ {
+  "id": "senate-house-2",
+  "level": 5,
+  "title": "Senate House"
+ },
+ {
+  "id": "removes-and-inserts-coded-text-in-body-and-conforms-title",
+  "level": 3,
+  "title": "REMOVES AND INSERTS.CODED TEXT IN BODY AND CONFORMS TITLE"
+ },
+ {
+  "id": "140",
+  "level": 5,
+  "title": "-140-"
+ },
+ {
+  "id": "tit-l-e-a-men-d-men-t",
+  "level": 5,
+  "title": "================ TIT L E A MEN D MEN T"
+ },
+ {
+  "id": "141",
+  "level": 5,
+  "title": "-141-"
+ },
+ {
+  "id": "removes-text-from-bill-and-conforms-title-and",
+  "level": 4,
+  "title": "REMOVES TEXT FROM BILL AND CONFORMS TITLE AND"
+ },
+ {
+  "id": "directory",
+  "level": 2,
+  "title": "DIRECTORY"
+ },
+ {
+  "id": "removes-subsection-3-rom-the-bi-makes-the-appropriate",
+  "level": 5,
+  "title": "[Removes subsection (3) £rom the bi~~, makes the appropriate"
+ },
+ {
+  "id": "amendment-with-directory-and-title-amendments-3",
+  "level": 5,
+  "title": "Amendment (with directory and title amendments)"
+ },
+ {
+  "id": "d-ire-c-tor-y-a-men-d-men-t",
+  "level": 5,
+  "title": "D IRE C TOR Y A MEN D MEN T"
+ },
+ {
+  "id": "section-1-subsection-1-of-section-24-1055-florida",
+  "level": 5,
+  "title": "Section 1. Subsection (1) of section 24.1055; Florida"
+ },
+ {
+  "id": "142",
+  "level": 5,
+  "title": "-142-"
+ },
+ {
+  "id": "143",
+  "level": 5,
+  "title": "-143-"
+ },
+ {
+  "id": "adds-new-amended-subsection-to-bill-and-conforms-title-and-d",
+  "level": 3,
+  "title": "ADDS NEW AMENDED SUBSECTION TO BILL AND CONFORMS TITLE AND DIRECTORY"
+ },
+ {
+  "id": "adds-amended-subsection-2-of-section-24-1055-to-text-of-the-",
+  "level": 5,
+  "title": "[Adds amended subsection (2) of section 24.1055 to text of the bi22, confor.ms the directo~ (section 24.1055 is now.shown in its entirety), and confor.ms the tit2e by adding \"specifying certain sign requirements;\"]"
+ },
+ {
+  "id": "page-l-of-2",
+  "level": 5,
+  "title": "Page'l of 2"
+ },
+ {
+  "id": "144",
+  "level": 5,
+  "title": "-144-"
+ },
+ {
+  "id": "tit-l-e-a-men-d-men-t-2",
+  "level": 5,
+  "title": "TIT L E A MEN D MEN T"
+ },
+ {
+  "id": "section-2",
+  "level": 5,
+  "title": "------------- -------------"
+ },
+ {
+  "id": "145",
+  "level": 5,
+  "title": "-145-"
+ },
+ {
+  "id": "amendment-to-an-amendment",
+  "level": 3,
+  "title": "AMENDMENT TO AN AMENDMENT"
+ },
+ {
+  "id": "or-redeems-on-l-ine-6-of-the-amendment",
+  "level": 5,
+  "title": "\"or redeems\" on l.ine 6 of the amendment. ]"
+ },
+ {
+  "id": "146",
+  "level": 5,
+  "title": "-146-"
+ },
+ {
+  "id": "substitute-amendment",
+  "level": 3,
+  "title": "SUBSTITUTE AMENDMENT"
+ },
+ {
+  "id": "147",
+  "level": 5,
+  "title": "-147-"
+ },
+ {
+  "id": "d-ire-c-tor-y",
+  "level": 5,
+  "title": "=========== D IRE C TOR Y"
+ },
+ {
+  "id": "tit-l-e",
+  "level": 5,
+  "title": "================ TIT L E"
+ },
+ {
+  "id": "148",
+  "level": 5,
+  "title": "-148-"
+ },
+ {
+  "id": "glossary",
+  "level": 5,
+  "title": "GLOSSARY"
+ },
+ {
+  "id": "skill-service-trust-house-bill-drafting-service",
+  "level": 2,
+  "title": "skill. service. trust. House Bill Drafting Service"
+ }
+]

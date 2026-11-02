@@ -1,0 +1,5297 @@
+[
+ {
+  "id": "legislative-drafting-manual",
+  "level": 2,
+  "title": "Legislative Drafting Manual"
+ },
+ {
+  "id": "department-of-legislative-services-2027",
+  "level": 3,
+  "title": "DEPARTMENT OF LEGISLATIVE SERVICES 2027"
+ },
+ {
+  "id": "legislative-drafting-manual-2027",
+  "level": 2,
+  "title": "Legislative Drafting Manual 2027"
+ },
+ {
+  "id": "department-of-legislative-services-office-of-policy-analysis",
+  "level": 3,
+  "title": "Department of Legislative Services Office of Policy Analysis Annapolis, Maryland"
+ },
+ {
+  "id": "october-2026",
+  "level": 3,
+  "title": "October 2026"
+ },
+ {
+  "id": "for-further-information-concerning-this-document-contact",
+  "level": 5,
+  "title": "For further information concerning this document contact:"
+ },
+ {
+  "id": "introduction",
+  "level": 2,
+  "title": "Introduction"
+ },
+ {
+  "id": "changes-in-the-2027-legislative-drafting-manual",
+  "level": 2,
+  "title": "Changes in the 2027 Legislative Drafting Manual"
+ },
+ {
+  "id": "important-dates-and-deadlines",
+  "level": 2,
+  "title": "Important Dates and Deadlines"
+ },
+ {
+  "id": "contents",
+  "level": 2,
+  "title": "Contents"
+ },
+ {
+  "id": "changes-in-the-2027-legislative-drafting-manual-v-important-",
+  "level": 5,
+  "title": "Changes in the 2027 Legislative Drafting Manual ............................................. v Important Dates and Deadlines ........................................................................... vii"
+ },
+ {
+  "id": "chapter-1-the-law-and-the-power-of-the-general-assembly-1",
+  "level": 5,
+  "title": "Chapter 1. The Law and the Power of the General Assembly ........................................ 1"
+ },
+ {
+  "id": "chapter-2-the-legislative-process-how-a-bill-becomes-law-7",
+  "level": 5,
+  "title": "Chapter 2. The Legislative Process (How a Bill Becomes Law) .................................... 7"
+ },
+ {
+  "id": "chapter-3-overview-of-the-bill-drafting-process-15",
+  "level": 5,
+  "title": "Chapter 3. Overview of the Bill Drafting Process ............................................................ 15"
+ },
+ {
+  "id": "chapter-4-general-considerations-for-drafting-33",
+  "level": 5,
+  "title": "Chapter 4. General Considerations for Drafting .............................................................. 33"
+ },
+ {
+  "id": "chapter-6-drafting-to-the-annotated-code-67",
+  "level": 5,
+  "title": "Chapter 6. Drafting to the Annotated Code ........................................................................ 67"
+ },
+ {
+  "id": "chapter-7-drafting-uncodified-provisions-119",
+  "level": 5,
+  "title": "Chapter 7. Drafting Uncodified Provisions ...................................................................... 119"
+ },
+ {
+  "id": "chapter-8-drafting-changes-to-uncodified-provisions-in-the-s",
+  "level": 5,
+  "title": "Chapter 8. Drafting Changes to Uncodified Provisions in the Session Laws ...... 133"
+ },
+ {
+  "id": "chapter-9-drafting-constitutional-amendments-139",
+  "level": 5,
+  "title": "Chapter 9. Drafting Constitutional Amendments .......................................................... 139"
+ },
+ {
+  "id": "chapter-10-drafting-to-the-public-local-laws-145",
+  "level": 5,
+  "title": "Chapter 10. Drafting to the Public Local Laws ............................................................... 145"
+ },
+ {
+  "id": "chapter-11-funding-provisions-and-audits-161",
+  "level": 5,
+  "title": "Chapter 11. Funding Provisions and Audits .................................................................... 161"
+ },
+ {
+  "id": "chapter-13-effective-dates-double-drafting-and-termination-p",
+  "level": 5,
+  "title": "Chapter 13. Effective Dates, Double Drafting, and Termination Provisions ....... 197"
+ },
+ {
+  "id": "chapter-15-amendments-to-bills-and-other-documents-233",
+  "level": 5,
+  "title": "Chapter 15. Amendments to Bills and Other Documents ............................................ 233"
+ },
+ {
+  "id": "chapter-1-the-law-and-the-power-of-the-general-assembly",
+  "level": 2,
+  "title": "Chapter 1. The Law and the Power of the General Assembly"
+ },
+ {
+  "id": "the-law-and-where-it-is-found",
+  "level": 3,
+  "title": "The Law and Where It Is Found"
+ },
+ {
+  "id": "power-of-the-general-assembly-to-legislate-statewide",
+  "level": 3,
+  "title": "Power of the General Assembly to Legislate Statewide"
+ },
+ {
+  "id": "local-governments",
+  "level": 3,
+  "title": "Local Governments"
+ },
+ {
+  "id": "commission-counties",
+  "level": 5,
+  "title": "Commission Counties"
+ },
+ {
+  "id": "charter-home-rule-counties",
+  "level": 5,
+  "title": "Charter Home Rule Counties"
+ },
+ {
+  "id": "baltimore-city",
+  "level": 5,
+  "title": "Baltimore City"
+ },
+ {
+  "id": "code-home-rule-counties",
+  "level": 5,
+  "title": "Code Home Rule Counties"
+ },
+ {
+  "id": "bicounty-and-multicounty-entities",
+  "level": 5,
+  "title": "Bicounty and Multicounty Entities"
+ },
+ {
+  "id": "municipalities",
+  "level": 5,
+  "title": "Municipalities"
+ },
+ {
+  "id": "conflict-between-statewide-and-local-law",
+  "level": 3,
+  "title": "Conflict between Statewide and Local Law"
+ },
+ {
+  "id": "chapter-2-the-legislative-process-how-a-bill-becomes-law",
+  "level": 2,
+  "title": "Chapter 2. The Legislative Process (How a Bill Becomes Law)"
+ },
+ {
+  "id": "in-general",
+  "level": 3,
+  "title": "In General"
+ },
+ {
+  "id": "house-of-origin-first-reading",
+  "level": 3,
+  "title": "House of Origin First Reading"
+ },
+ {
+  "id": "second-reading",
+  "level": 3,
+  "title": "Second Reading"
+ },
+ {
+  "id": "third-reading",
+  "level": 3,
+  "title": "Third Reading"
+ },
+ {
+  "id": "committee-reprints",
+  "level": 3,
+  "title": "Committee Reprints"
+ },
+ {
+  "id": "bill-as-printed-for-third-reading",
+  "level": 3,
+  "title": "Bill As Printed for Third Reading"
+ },
+ {
+  "id": "opposite-house-first-reading",
+  "level": 3,
+  "title": "Opposite House First Reading"
+ },
+ {
+  "id": "second-reading-2",
+  "level": 3,
+  "title": "Second Reading"
+ },
+ {
+  "id": "third-reading-2",
+  "level": 3,
+  "title": "Third Reading"
+ },
+ {
+  "id": "concurrence-votes-and-conference-committees",
+  "level": 3,
+  "title": "Concurrence Votes and Conference Committees"
+ },
+ {
+  "id": "enrollment-and-recall",
+  "level": 3,
+  "title": "Enrollment and Recall"
+ },
+ {
+  "id": "signature-or-veto-by-the-governor",
+  "level": 3,
+  "title": "Signature or Veto by the Governor"
+ },
+ {
+  "id": "special-sessions",
+  "level": 3,
+  "title": "Special Sessions"
+ },
+ {
+  "id": "legislative-process",
+  "level": 3,
+  "title": "LEGISLATIVE PROCESS"
+ },
+ {
+  "id": "chapter-3-overview-of-the-bill-drafting-process",
+  "level": 2,
+  "title": "Chapter 3. Overview of the Bill Drafting Process"
+ },
+ {
+  "id": "bill-requests",
+  "level": 3,
+  "title": "Bill Requests"
+ },
+ {
+  "id": "example",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-2",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "the-bill-drafting-process-in-general",
+  "level": 3,
+  "title": "The Bill Drafting Process In General"
+ },
+ {
+  "id": "determining-the-sponsor-s-intent",
+  "level": 3,
+  "title": "Determining the Sponsor’s Intent"
+ },
+ {
+  "id": "what-is-the-sponsor-s-objective-what-is-the-problem-the-spon",
+  "level": 3,
+  "title": "• What is the sponsor’s objective? • What is the problem the sponsor seeks to remedy? • What is the current situation? • Who will be affected by the bill? • When will the bill be effective? Is it an emergency bill? • Where is additional information available? • What unusual features does the bill request contain? • How can the sponsor’s objective be implemented?"
+ },
+ {
+  "id": "what-will-the-new-speed-limit-be-to-which-vehicles-will-the-",
+  "level": 3,
+  "title": "• What will the new speed limit be? • To which vehicles will the new speed limit apply? • Which highways will be affected? • What will the penalty be for a violation? • How will the new law be enforced?"
+ },
+ {
+  "id": "researching-the-existing-law",
+  "level": 3,
+  "title": "Researching the Existing Law"
+ },
+ {
+  "id": "federal-and-state-constitutional-provisions-e-g-is-the-gener",
+  "level": 3,
+  "title": "• federal and State constitutional provisions (e.g., is the General Assembly’s"
+ },
+ {
+  "id": "federal-statutory-law-e-g-has-the-federal-government-preempt",
+  "level": 3,
+  "title": "• federal statutory law (e.g., has the federal government preempted the field?);"
+ },
+ {
+  "id": "regulations-e-g-has-the-problem-identified-by-the-sponsor-be",
+  "level": 3,
+  "title": "• regulations (e.g., has the problem identified by the sponsor been addressed"
+ },
+ {
+  "id": "developing-an-outline",
+  "level": 3,
+  "title": "Developing an Outline"
+ },
+ {
+  "id": "preparing-a-first-draft",
+  "level": 3,
+  "title": "Preparing a First Draft"
+ },
+ {
+  "id": "revising-and-revising-again",
+  "level": 3,
+  "title": "Revising (And Revising Again!)"
+ },
+ {
+  "id": "is-the-bill-clear-and-unambiguous-for-instance-is-it-clear-t",
+  "level": 3,
+  "title": "• Is the bill clear and unambiguous? (For instance, is it clear to a person reading"
+ },
+ {
+  "id": "is-the-bill-internally-consistent-for-instance-is-the-same-t",
+  "level": 3,
+  "title": "• Is the bill internally consistent? (For instance, is the same term used to convey"
+ },
+ {
+  "id": "is-the-bill-externally-consistent-for-instance-does-the-prop",
+  "level": 3,
+  "title": "• Is the bill externally consistent? (For instance, does the proposed statutory"
+ },
+ {
+  "id": "file-codes",
+  "level": 3,
+  "title": "File Codes"
+ },
+ {
+  "id": "bill-synopses",
+  "level": 3,
+  "title": "Bill Synopses"
+ },
+ {
+  "id": "in-general-2",
+  "level": 5,
+  "title": "In General"
+ },
+ {
+  "id": "completing-the-synopsis-paragraph-see-p-21-synopsis-paragrap",
+  "level": 3,
+  "title": "• completing the synopsis paragraph (see p. 21, “Synopsis Paragraph”); • completing the code reference, which indicates the Annotated Code sections,"
+ },
+ {
+  "id": "filling-out-the-bill-s-effective-date-or-dates-see-p-25-effe",
+  "level": 3,
+  "title": "• filling out the bill’s effective date or dates (see p. 25, “Effective Date”); • indicating whether or not the bill requires a mandated appropriation (see p. 24,"
+ },
+ {
+  "id": "making-a-preliminary-assessment-of-whether-the-bill-imposes-",
+  "level": 3,
+  "title": "• making a preliminary assessment of whether the bill imposes a mandate on"
+ },
+ {
+  "id": "indicating-whether-the-bill-is-contingent-see-p-25-contingen",
+  "level": 3,
+  "title": "• indicating whether the bill is contingent (see p. 25, “Contingency”); and"
+ },
+ {
+  "id": "indicating-whether-the-bill-creates-a-task-force-a-commissio",
+  "level": 3,
+  "title": "• indicating whether the bill creates a task force, a commission, or other similar"
+ },
+ {
+  "id": "synopsis-paragraph",
+  "level": 5,
+  "title": "Synopsis Paragraph"
+ },
+ {
+  "id": "code-reference",
+  "level": 5,
+  "title": "Code Reference"
+ },
+ {
+  "id": "examples",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "examples-2",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "examples-3",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "example-3",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-4",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "examples-4",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "local-government-mandate",
+  "level": 5,
+  "title": "Local Government Mandate"
+ },
+ {
+  "id": "mandated-appropriation",
+  "level": 5,
+  "title": "Mandated Appropriation"
+ },
+ {
+  "id": "effective-date",
+  "level": 5,
+  "title": "Effective Date"
+ },
+ {
+  "id": "contingency",
+  "level": 5,
+  "title": "Contingency"
+ },
+ {
+  "id": "task-force-or-commission",
+  "level": 5,
+  "title": "Task Force or Commission"
+ },
+ {
+  "id": "submitting-the-draft-bill-for-review",
+  "level": 3,
+  "title": "Submitting the Draft Bill for Review"
+ },
+ {
+  "id": "bill-preparation-online-bill-drafting-system",
+  "level": 3,
+  "title": "Bill Preparation Online Bill Drafting System"
+ },
+ {
+  "id": "review-of-draft",
+  "level": 3,
+  "title": "Review of Draft"
+ },
+ {
+  "id": "prior-introductions-and-similar-bills",
+  "level": 3,
+  "title": "Prior Introductions and Similar Bills"
+ },
+ {
+  "id": "cross-filed-and-identical-bills",
+  "level": 3,
+  "title": "Cross-filed and Identical Bills"
+ },
+ {
+  "id": "revising-an-lr-prepared-for-introduction",
+  "level": 3,
+  "title": "Revising an “LR” Prepared for Introduction"
+ },
+ {
+  "id": "yellow-sheeting",
+  "level": 3,
+  "title": "“Yellow Sheeting”"
+ },
+ {
+  "id": "marking-up-the-backing",
+  "level": 3,
+  "title": "Marking Up the Backing"
+ },
+ {
+  "id": "computer-processing-of-draft-bills",
+  "level": 3,
+  "title": "Computer Processing of Draft Bills"
+ },
+ {
+  "id": "delivery-and-filing-of-draft-bills-for-introduction-in-gener",
+  "level": 3,
+  "title": "Delivery and Filing of Draft Bills for Introduction In General"
+ },
+ {
+  "id": "prefiling",
+  "level": 3,
+  "title": "Prefiling"
+ },
+ {
+  "id": "computerized-bill-status-information",
+  "level": 3,
+  "title": "Computerized Bill Status Information"
+ },
+ {
+  "id": "chapter-4-general-considerations-for-drafting",
+  "level": 2,
+  "title": "Chapter 4. General Considerations for Drafting"
+ },
+ {
+  "id": "source-materials-for-bills",
+  "level": 3,
+  "title": "Source Materials for Bills"
+ },
+ {
+  "id": "sections-of-the-annotated-code-on-the-same-general-subject-s",
+  "level": 3,
+  "title": "• sections of the Annotated Code on the same general subject; • similar statutes from other states’ codes (available through the Department of"
+ },
+ {
+  "id": "bills-introduced-during-previous-sessions-of-the-general-ass",
+  "level": 3,
+  "title": "• bills introduced during previous sessions of the General Assembly (referred to"
+ },
+ {
+  "id": "reports-produced-by-a-task-force-commission-workgroup-or-oth",
+  "level": 3,
+  "title": "• reports produced by a task force, commission, workgroup, or other similar"
+ },
+ {
+  "id": "subject-matter-drafting-guides",
+  "level": 3,
+  "title": "• subject matter drafting guides."
+ },
+ {
+  "id": "subject-index-lists-the-bill-number-short-title-and-final-st",
+  "level": 3,
+  "title": "• Subject Index – lists the bill number, short title, and final status of each bill"
+ },
+ {
+  "id": "statute-index-lists-the-articles-and-sections-of-the-annotat",
+  "level": 3,
+  "title": "• Statute Index – lists the articles and sections of the Annotated Code affected"
+ },
+ {
+  "id": "sponsor-index-lists-the-bill-number-short-title-and-final-st",
+  "level": 3,
+  "title": "• Sponsor Index – lists the bill number, short title, and final status of each bill"
+ },
+ {
+  "id": "committee-index-lists-the-bill-number-short-title-and-final-",
+  "level": 3,
+  "title": "• Committee Index – lists the bill number, short title, and final status of each"
+ },
+ {
+  "id": "general-resource-materials-u-s-c-a-annotated-code-of-marylan",
+  "level": 3,
+  "title": "General Resource Materials • U.S.C.A., Annotated Code of Maryland, and codes of all other states and the"
+ },
+ {
+  "id": "session-laws-of-maryland-federal-legal-materials-digests-tre",
+  "level": 3,
+  "title": "• Session Laws of Maryland • Federal legal materials (digests, treatises, etc.) • State agency publications • Law reviews • Books, pamphlets, reports, and periodicals on topics related to law, legislation,"
+ },
+ {
+  "id": "files-of-news-clippings-on-issues-of-interest-online-databas",
+  "level": 3,
+  "title": "• Files of news clippings on issues of interest Online Database Research Capability • The Code of Maryland can be searched from the General Assembly website."
+ },
+ {
+  "id": "department-of-legislative-services-library-catalog-provides-",
+  "level": 3,
+  "title": "• Department of Legislative Services Library Catalog provides access to"
+ },
+ {
+  "id": "national-conference-of-state-legislatures-ncsl-website-provi",
+  "level": 3,
+  "title": "• National Conference of State Legislatures (NCSL) Website provides"
+ },
+ {
+  "id": "thurgood-marshall-state-law-library-digital-collection-provi",
+  "level": 3,
+  "title": "• Thurgood Marshall State Law Library Digital Collection provides"
+ },
+ {
+  "id": "westlaw-and-lexis-have-the-full-text-of-u-s-primary-law-incl",
+  "level": 3,
+  "title": "• Westlaw and Lexis have the full-text of U.S. primary law including court"
+ },
+ {
+  "id": "websites-for-other-states",
+  "level": 3,
+  "title": "• Websites for other states."
+ },
+ {
+  "id": "uniform-and-model-laws",
+  "level": 3,
+  "title": "Uniform and Model Laws"
+ },
+ {
+  "id": "other-resources",
+  "level": 3,
+  "title": "Other Resources"
+ },
+ {
+  "id": "style-general-considerations",
+  "level": 3,
+  "title": "Style – General Considerations"
+ },
+ {
+  "id": "drafting-defects-resulting-in-vetoes-or-implementation-advic",
+  "level": 3,
+  "title": "Drafting Defects Resulting in Vetoes or Implementation Advice In General"
+ },
+ {
+  "id": "defective-titles-including",
+  "level": 3,
+  "title": "• defective titles, including:"
+ },
+ {
+  "id": "unconstitutional-subject-matter-including",
+  "level": 3,
+  "title": "• unconstitutional subject matter, including:"
+ },
+ {
+  "id": "defective-titles",
+  "level": 3,
+  "title": "Defective Titles"
+ },
+ {
+  "id": "incorrect-description-of-subject-matter-or-effect",
+  "level": 5,
+  "title": "Incorrect Description of Subject Matter or Effect"
+ },
+ {
+  "id": "title-too-narrow",
+  "level": 5,
+  "title": "Title Too Narrow"
+ },
+ {
+  "id": "unconstitutional-subject-matter",
+  "level": 3,
+  "title": "Unconstitutional Subject Matter"
+ },
+ {
+  "id": "vagueness",
+  "level": 5,
+  "title": "Vagueness"
+ },
+ {
+  "id": "equal-protection-guarantee",
+  "level": 5,
+  "title": "Equal Protection Guarantee"
+ },
+ {
+  "id": "classifications-based-on-suspect-lines-and-infringement-of",
+  "level": 5,
+  "title": "Classifications Based on Suspect Lines and Infringement of"
+ },
+ {
+  "id": "nonuniformity-of-taxation",
+  "level": 5,
+  "title": "Nonuniformity of Taxation"
+ },
+ {
+  "id": "improper-delegation-of-authority",
+  "level": 5,
+  "title": "Improper Delegation of Authority"
+ },
+ {
+  "id": "extra-compensation-for-past-services",
+  "level": 5,
+  "title": "Extra Compensation for Past Services"
+ },
+ {
+  "id": "holding-two-offices-of-profit",
+  "level": 5,
+  "title": "Holding Two Offices of Profit"
+ },
+ {
+  "id": "separation-of-powers",
+  "level": 5,
+  "title": "Separation of Powers"
+ },
+ {
+  "id": "improper-enactment-of-local-legislation",
+  "level": 5,
+  "title": "Improper Enactment of Local Legislation"
+ },
+ {
+  "id": "one-subject-rule",
+  "level": 5,
+  "title": "“One Subject” Rule"
+ },
+ {
+  "id": "legislative-entrenchment-binding-future-legislature",
+  "level": 5,
+  "title": "Legislative Entrenchment (Binding Future Legislature)"
+ },
+ {
+  "id": "miscellaneous-constitutional-violations",
+  "level": 5,
+  "title": "Miscellaneous Constitutional Violations"
+ },
+ {
+  "id": "constitutional-amendments",
+  "level": 3,
+  "title": "Constitutional Amendments"
+ },
+ {
+  "id": "chapter-5-bills-in-general",
+  "level": 2,
+  "title": "Chapter 5. Bills in General"
+ },
+ {
+  "id": "in-general-3",
+  "level": 3,
+  "title": "In General"
+ },
+ {
+  "id": "title-legal-requirements",
+  "level": 3,
+  "title": "Title Legal Requirements"
+ },
+ {
+  "id": "the-short-title",
+  "level": 3,
+  "title": "The Short Title"
+ },
+ {
+  "id": "examples-5",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "housing-real-property-closing-costs",
+  "level": 5,
+  "title": "Housing – Real Property Closing Costs"
+ },
+ {
+  "id": "vehicle-laws-abandoned-vehicles-definition",
+  "level": 5,
+  "title": "Vehicle Laws – Abandoned Vehicles – Definition"
+ },
+ {
+  "id": "washington-county-transient-or-temporary-vendors-licensure",
+  "level": 5,
+  "title": "Washington County – Transient or Temporary Vendors – Licensure"
+ },
+ {
+  "id": "caroline-county-and-queen-s-anne-county-sunday-hunting",
+  "level": 5,
+  "title": "Caroline County and Queen’s Anne County – Sunday Hunting"
+ },
+ {
+  "id": "prince-george-s-county-board-of-education-compensation-pg-40",
+  "level": 5,
+  "title": "Prince George’s County – Board of Education – Compensation PG 402-27"
+ },
+ {
+  "id": "washington-suburban-sanitary-commission-minority-business-pr",
+  "level": 5,
+  "title": "Washington Suburban Sanitary Commission – Minority Business Program"
+ },
+ {
+  "id": "mc-pg-119-27",
+  "level": 5,
+  "title": "MC/PG 119-27"
+ },
+ {
+  "id": "family-law-minors-emancipation-emancipation-of-minors-act-of",
+  "level": 5,
+  "title": "Family Law – Minors – Emancipation (Emancipation of Minors Act of 2027)"
+ },
+ {
+  "id": "the-purpose-paragraph",
+  "level": 3,
+  "title": "The Purpose Paragraph"
+ },
+ {
+  "id": "in-general-4",
+  "level": 5,
+  "title": "In General"
+ },
+ {
+  "id": "does-the-purpose-paragraph-adequately-inform-members-of-the-",
+  "level": 3,
+  "title": "• Does the purpose paragraph adequately inform members of the General"
+ },
+ {
+  "id": "would-the-inclusion-or-exclusion-of-a-specific-clause-or-the",
+  "level": 3,
+  "title": "• Would the inclusion or exclusion of a specific clause or the way a change to the"
+ },
+ {
+  "id": "does-the-purpose-paragraph-describe-provisions-of-the-bill-t",
+  "level": 3,
+  "title": "• Does the purpose paragraph describe provisions of the bill that would be"
+ },
+ {
+  "id": "are-there-clauses-that-could-be-eliminated-because-the-provi",
+  "level": 3,
+  "title": "• Are there clauses that could be eliminated because the provisions being"
+ },
+ {
+  "id": "are-there-clauses-that-could-be-combined-to-make-the-purpose",
+  "level": 3,
+  "title": "• Are there clauses that could be combined to make the purpose of the bill clearer"
+ },
+ {
+  "id": "does-the-purpose-paragraph-include-descriptions-of-provision",
+  "level": 3,
+  "title": "• Does the purpose paragraph include descriptions of provisions that would be"
+ },
+ {
+  "id": "does-the-purpose-paragraph-describe-only-proposed-changes-as",
+  "level": 3,
+  "title": "• Does the purpose paragraph describe only proposed changes as they apply to"
+ },
+ {
+  "id": "technical-aspects",
+  "level": 5,
+  "title": "Technical Aspects"
+ },
+ {
+  "id": "example-5",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "do-not-use",
+  "level": 5,
+  "title": "Do not use:"
+ },
+ {
+  "id": "the-function-paragraph",
+  "level": 3,
+  "title": "The Function Paragraph"
+ },
+ {
+  "id": "in-general-5",
+  "level": 5,
+  "title": "In General"
+ },
+ {
+  "id": "example-6",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "the-bill-is-drafted-to-more-than-one-article-of-the-annotate",
+  "level": 3,
+  "title": "• the bill is drafted to more than one article of the Annotated Code (or more than"
+ },
+ {
+  "id": "the-bill-is-drafted-to-more-than-one-source-of-law-annotated",
+  "level": 3,
+  "title": "• the bill is drafted to more than one source of law (Annotated Code, Maryland"
+ },
+ {
+  "id": "the-bill-employs-more-than-one-function-e-g-repealing-with-a",
+  "level": 3,
+  "title": "• the bill employs more than one function (e.g., repealing with amendments,"
+ },
+ {
+  "id": "the-function-line",
+  "level": 5,
+  "title": "The Function Line"
+ },
+ {
+  "id": "by-repealing-and-reenacting-with-amendments-by-repealing-by-",
+  "level": 3,
+  "title": "• BY repealing and reenacting, with amendments; • BY repealing; • BY adding to; and • BY repealing and reenacting, without amendments."
+ },
+ {
+  "id": "by-renumbering",
+  "level": 3,
+  "title": "• BY renumbering."
+ },
+ {
+  "id": "by-transferring-by-repealing-and-reenacting-with-amendments-",
+  "level": 3,
+  "title": "• BY transferring; • BY repealing and reenacting, with amendments, and transferring; or • BY repealing and reenacting, with amendments, and transferring to the"
+ },
+ {
+  "id": "by-repealing-and-reenacting-with-amendments-by-repealing-and",
+  "level": 3,
+  "title": "• BY repealing and reenacting, with amendments; • BY repealing; and • BY repealing and reenacting, without amendments."
+ },
+ {
+  "id": "by-proposing-an-amendment-to-the-maryland-constitution-by-pr",
+  "level": 3,
+  "title": "• BY proposing an amendment to the Maryland Constitution; • BY proposing an addition to the Maryland Constitution; and • BY proposing a repeal of the Maryland Constitution."
+ },
+ {
+  "id": "the-article-line",
+  "level": 5,
+  "title": "The Article Line"
+ },
+ {
+  "id": "example-7",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-8",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "the-section-line",
+  "level": 5,
+  "title": "The Section Line"
+ },
+ {
+  "id": "example-9",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "the-source-law-line",
+  "level": 5,
+  "title": "The Source Law Line"
+ },
+ {
+  "id": "example-10",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-11",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "the-volume-and-supplement-citation-line",
+  "level": 5,
+  "title": "The Volume and Supplement Citation Line"
+ },
+ {
+  "id": "example-12",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-13",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "body-in-general",
+  "level": 3,
+  "title": "Body In General"
+ },
+ {
+  "id": "enacting-clauses",
+  "level": 3,
+  "title": "Enacting Clauses"
+ },
+ {
+  "id": "a-bill-that-amends-the-maryland-constitution-a-bill-that-mak",
+  "level": 3,
+  "title": "• a bill that amends the Maryland Constitution; • a bill that makes changes to the Annotated Code or a public local law and"
+ },
+ {
+  "id": "a-bill-that-adds-a-section-to-the-annotated-code-or-a-public",
+  "level": 3,
+  "title": "• a bill that adds a section to the Annotated Code or a public local law and further"
+ },
+ {
+  "id": "bill-text",
+  "level": 3,
+  "title": "Bill Text"
+ },
+ {
+  "id": "special-sections",
+  "level": 3,
+  "title": "Special Sections"
+ },
+ {
+  "id": "effective-dates-and-termination-provisions",
+  "level": 3,
+  "title": "Effective Dates and Termination Provisions"
+ },
+ {
+  "id": "miscellaneous-preambles-in-bills",
+  "level": 3,
+  "title": "Miscellaneous Preambles in Bills"
+ },
+ {
+  "id": "example-14",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "it-is-the-intent-of-the-general-assembly-that-it-is-the-purp",
+  "level": 3,
+  "title": "• “It is the intent of the General Assembly that ….”; • “It is the purpose of the General Assembly in enacting….”; or • “The General Assembly finds ….”."
+ },
+ {
+  "id": "example-15",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "article-education-5-309",
+  "level": 5,
+  "title": "Article – Education 5-309."
+ },
+ {
+  "id": "regulations",
+  "level": 3,
+  "title": "Regulations"
+ },
+ {
+  "id": "chapter-6-drafting-to-the-annotated-code",
+  "level": 2,
+  "title": "Chapter 6. Drafting to the Annotated Code"
+ },
+ {
+  "id": "edition-of-the-annotated-code",
+  "level": 3,
+  "title": "Edition of the Annotated Code"
+ },
+ {
+  "id": "annotated-code-organization-in-general",
+  "level": 3,
+  "title": "Annotated Code Organization In General"
+ },
+ {
+  "id": "numbering-system-for-titles-subtitles-and-sections",
+  "level": 3,
+  "title": "Numbering System for Titles, Subtitles, and Sections"
+ },
+ {
+  "id": "in-general-6",
+  "level": 5,
+  "title": "In General"
+ },
+ {
+  "id": "adding-a-new-title-between-existing-titles",
+  "level": 5,
+  "title": "Adding a New Title Between Existing Titles"
+ },
+ {
+  "id": "adding-a-new-subtitle-between-existing-subtitles",
+  "level": 5,
+  "title": "Adding a New Subtitle Between Existing Subtitles"
+ },
+ {
+  "id": "adding-a-new-section-between-existing-sections",
+  "level": 5,
+  "title": "Adding a New Section Between Existing Sections"
+ },
+ {
+  "id": "subdivision-of-sections",
+  "level": 3,
+  "title": "Subdivision of Sections"
+ },
+ {
+  "id": "in-general-7",
+  "level": 5,
+  "title": "In General"
+ },
+ {
+  "id": "adding-a-new-subdivision-between-existing-subdivisions",
+  "level": 5,
+  "title": "Adding a New Subdivision Between Existing Subdivisions"
+ },
+ {
+  "id": "example-16",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "2-the-fee-shall-be-paid-in-the-manner-required-by-the",
+  "level": 5,
+  "title": "(2) THE FEE SHALL BE PAID IN THE MANNER REQUIRED BY THE"
+ },
+ {
+  "id": "example-17",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "3-if-the-plaintiff-prevails-in-the-suit-the-plaintiff-may-re",
+  "level": 5,
+  "title": "(3) If the plaintiff prevails in the suit, the plaintiff may recover, as"
+ },
+ {
+  "id": "use-of-divisions",
+  "level": 3,
+  "title": "Use of Divisions"
+ },
+ {
+  "id": "use-of-parts",
+  "level": 3,
+  "title": "Use of Parts"
+ },
+ {
+  "id": "8-501-text",
+  "level": 5,
+  "title": "8-501. (TEXT)"
+ },
+ {
+  "id": "8-502-text",
+  "level": 5,
+  "title": "8-502. (TEXT)"
+ },
+ {
+  "id": "8-505-text",
+  "level": 5,
+  "title": "8-505. (TEXT)"
+ },
+ {
+  "id": "8-508-text-8-509-text",
+  "level": 5,
+  "title": "8-508. (TEXT) 8-509. (TEXT)"
+ },
+ {
+  "id": "8-514-text",
+  "level": 5,
+  "title": "8-514. (TEXT)"
+ },
+ {
+  "id": "8-504-text",
+  "level": 5,
+  "title": "8–504. (TEXT)"
+ },
+ {
+  "id": "function-paragraphs-the-function-line",
+  "level": 3,
+  "title": "Function Paragraphs The Function Line"
+ },
+ {
+  "id": "repeal-and-reenact-with-amendments",
+  "level": 5,
+  "title": "Repeal and Reenact, with Amendments"
+ },
+ {
+  "id": "example-18",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "total-repeal-of-a-section-or-other-portion-of-the-annotated-",
+  "level": 5,
+  "title": "Total Repeal of a Section or Other Portion of the Annotated Code"
+ },
+ {
+  "id": "example-19",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "adding-material-to-the-annotated-code",
+  "level": 5,
+  "title": "Adding Material to the Annotated Code"
+ },
+ {
+  "id": "example-20",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-21",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "article-election-law",
+  "level": 5,
+  "title": "Article – Election Law"
+ },
+ {
+  "id": "do-not-use-2",
+  "level": 5,
+  "title": "Do not use:"
+ },
+ {
+  "id": "article-election-law-2",
+  "level": 5,
+  "title": "Article – Election Law"
+ },
+ {
+  "id": "example-22",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "repeal-of-a-section-and-enactment-of-a-new-section-to-replac",
+  "level": 5,
+  "title": "Repeal of a Section and Enactment of a New Section to Replace It"
+ },
+ {
+  "id": "example-23",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-24",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "article-criminal-law",
+  "level": 5,
+  "title": "Article – Criminal Law"
+ },
+ {
+  "id": "example-25",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "renumbering",
+  "level": 5,
+  "title": "Renumbering"
+ },
+ {
+  "id": "example-26",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-27",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-28",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "transferring",
+  "level": 5,
+  "title": "Transferring"
+ },
+ {
+  "id": "example-29",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-30",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-31",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-32",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-33",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "repeal-and-reenact-without-amendments",
+  "level": 5,
+  "title": "Repeal and Reenact, without Amendments"
+ },
+ {
+  "id": "example-34",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "renaming-an-article",
+  "level": 5,
+  "title": "Renaming an Article"
+ },
+ {
+  "id": "example-35",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "the-article-line-2",
+  "level": 3,
+  "title": "The Article Line"
+ },
+ {
+  "id": "example-36",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "the-section-line-2",
+  "level": 3,
+  "title": "The Section Line"
+ },
+ {
+  "id": "in-general-8",
+  "level": 5,
+  "title": "In General"
+ },
+ {
+  "id": "example-37",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-38",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-39",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "inclusion-of-the-name-of-a-title-subtitle-or-part",
+  "level": 5,
+  "title": "Inclusion of the Name of a Title, Subtitle, or Part"
+ },
+ {
+  "id": "a-new-title-subtitle-or-part-is-being-added-a-title-subtitle",
+  "level": 3,
+  "title": "• a new title, subtitle, or part is being added; • a title, subtitle, or part name is being amended; • a title, subtitle, or part is being repealed; or • the title, subtitle, or part is being renumbered or transferred."
+ },
+ {
+  "id": "example-40",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "if-the-title-subtitle-or-part-is-being-repealed-entirely-the",
+  "level": 3,
+  "title": "• If the title, subtitle, or part is being repealed entirely, the name of the largest"
+ },
+ {
+  "id": "if-the-title-subtitle-or-part-is-being-renumbered-using-a-sh",
+  "level": 3,
+  "title": "• If the title, subtitle, or part is being renumbered using a short renumbering"
+ },
+ {
+  "id": "if-the-title-subtitle-or-part-is-being-transferred-using-the",
+  "level": 3,
+  "title": "• If the title, subtitle, or part is being transferred using the transferring enacting"
+ },
+ {
+  "id": "if-the-name-of-the-title-subtitle-or-part-is-being-added-the",
+  "level": 3,
+  "title": "• If the name of the title, subtitle, or part is being added, the name should appear"
+ },
+ {
+  "id": "if-the-name-of-the-title-subtitle-or-part-is-being-amended-t",
+  "level": 3,
+  "title": "• If the name of the title, subtitle, or part is being amended, the name should"
+ },
+ {
+  "id": "example-41",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-42",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-43",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-44",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-45",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-46",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-47",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-48",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-49",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-50",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-51",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-52",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-53",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "the-source-law-line-2",
+  "level": 3,
+  "title": "The Source Law Line"
+ },
+ {
+  "id": "example-54",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "the-volume-and-supplement-citation-line-2",
+  "level": 3,
+  "title": "The Volume and Supplement Citation Line"
+ },
+ {
+  "id": "example-55",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "the-fifth-line",
+  "level": 3,
+  "title": "The Fifth Line"
+ },
+ {
+  "id": "in-general-9",
+  "level": 5,
+  "title": "In General"
+ },
+ {
+  "id": "example-56",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-57",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-58",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "does-not-reflect-the-annotated-code-because",
+  "level": 3,
+  "title": "• does not reflect the Annotated Code because:"
+ },
+ {
+  "id": "bill-does-not-reflect-annotated-code-further-changes-to-anno",
+  "level": 5,
+  "title": "Bill Does not Reflect Annotated Code Further Changes to Annotated Code Affected in Previous Section of"
+ },
+ {
+  "id": "example-59",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "hb-1321-of-2026-first-reader-version-material-being-amended-",
+  "level": 3,
+  "title": "• HB 1321 of 2026, first reader version (material being amended in Section 1 of"
+ },
+ {
+  "id": "hb-1482-of-2026-material-being-renumbered-in-section-1-of-th",
+  "level": 3,
+  "title": "• HB 1482 of 2026 (material being renumbered in Section 1 of the bill through a"
+ },
+ {
+  "id": "sb-247-of-2026-material-first-being-transferred-as-is-genera",
+  "level": 3,
+  "title": "• SB 247 of 2026 (material first being transferred, as is generally appropriate,"
+ },
+ {
+  "id": "changes-made-by-a-chapter-of-the-session-laws-not-yet-printe",
+  "level": 5,
+  "title": "Changes Made by a Chapter of the Session Laws Not Yet Printed: A fifth"
+ },
+ {
+  "id": "during-the-same-legislative-session-because-another-bill-pas",
+  "level": 3,
+  "title": "• during the same legislative session because another bill passed and has been"
+ },
+ {
+  "id": "during-the-same-legislative-session-because-another-bill-was",
+  "level": 3,
+  "title": "• during the same legislative session because another bill was subject to a veto"
+ },
+ {
+  "id": "at-a-previous-legislative-session-and-the-changes-have-not-b",
+  "level": 3,
+  "title": "• at a previous legislative session and the changes have not been printed yet in"
+ },
+ {
+  "id": "example-60",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "chapter-55-of-the-acts-of-2021-fifth-lines-were-necessary-in",
+  "level": 3,
+  "title": "• Chapter 55 of the Acts of 2021 (fifth lines were necessary in multiple function"
+ },
+ {
+  "id": "chapter-47-of-the-acts-of-2021-fifth-lines-were-necessary-in",
+  "level": 3,
+  "title": "• Chapter 47 of the Acts of 2021 (fifth lines were necessary in multiple function"
+ },
+ {
+  "id": "incorporates-changes-being-made-to-the-annotated-code-in-a-d",
+  "level": 5,
+  "title": "Incorporates Changes Being Made to the Annotated Code in a Different"
+ },
+ {
+  "id": "example-61",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "sb-688-hb-869-of-2021-showing-without-amendment-15-127-a-of-",
+  "level": 3,
+  "title": "• SB 688/HB 869 of 2021 (showing without amendment § 15-127(a) of the"
+ },
+ {
+  "id": "the-enrolled-version-of-sb-824-of-2021-and-the-third-reading",
+  "level": 3,
+  "title": "• the enrolled version of SB 824 of 2021 and the third reading version of HB 1328"
+ },
+ {
+  "id": "hb-1204-of-2020-amending-7-1a-04-c-4-of-the-education-articl",
+  "level": 3,
+  "title": "• HB 1204 of 2020 (amending § 7-1A-04(c)(4) of the Education Article, as added"
+ },
+ {
+  "id": "annotated-code-provision-incorrectly-codified-by-the-publish",
+  "level": 5,
+  "title": "Annotated Code Provision Incorrectly Codified by the Publishers: Since"
+ },
+ {
+  "id": "annotated-code-provision-not-in-effect",
+  "level": 5,
+  "title": "Annotated Code Provision Not in Effect"
+ },
+ {
+  "id": "example-62",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-63",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "annotated-code-provision-that-is-subject-to-a-contingency-or",
+  "level": 5,
+  "title": "Annotated Code Provision That Is Subject to a Contingency or Is"
+ },
+ {
+  "id": "example-64",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "enacting-clauses-standard-enacting-clauses",
+  "level": 3,
+  "title": "Enacting Clauses Standard Enacting Clauses"
+ },
+ {
+  "id": "example-65",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-66",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "nonstandard-enacting-clauses",
+  "level": 3,
+  "title": "Nonstandard Enacting Clauses"
+ },
+ {
+  "id": "renumbering-2",
+  "level": 5,
+  "title": "Renumbering"
+ },
+ {
+  "id": "examples-6",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "subsections-renumbered",
+  "level": 5,
+  "title": "Subsections Renumbered"
+ },
+ {
+  "id": "subtitle-renumbered",
+  "level": 5,
+  "title": "Subtitle Renumbered"
+ },
+ {
+  "id": "transferring-2",
+  "level": 5,
+  "title": "Transferring"
+ },
+ {
+  "id": "examples-7",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "section-and-subsection-transferred",
+  "level": 5,
+  "title": "Section and Subsection Transferred"
+ },
+ {
+  "id": "subtitle-transferred",
+  "level": 5,
+  "title": "Subtitle Transferred"
+ },
+ {
+  "id": "short-repealer",
+  "level": 5,
+  "title": "Short Repealer"
+ },
+ {
+  "id": "example-67",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-68",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "renaming-article",
+  "level": 5,
+  "title": "Renaming Article"
+ },
+ {
+  "id": "example-69",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "transferring-to-session-laws",
+  "level": 5,
+  "title": "Transferring to Session Laws"
+ },
+ {
+  "id": "example-70",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "adding-a-new-title-subtitle-or-part",
+  "level": 5,
+  "title": "Adding a New Title, Subtitle, or Part"
+ },
+ {
+  "id": "example-71",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "bill-text-in-general",
+  "level": 3,
+  "title": "Bill Text In General"
+ },
+ {
+  "id": "cross-references",
+  "level": 3,
+  "title": "Cross-references"
+ },
+ {
+  "id": "catchlines-and-captions",
+  "level": 3,
+  "title": "Catchlines and Captions"
+ },
+ {
+  "id": "definitions",
+  "level": 3,
+  "title": "Definitions"
+ },
+ {
+  "id": "example-72",
+  "level": 3,
+  "title": "Example"
+ },
+ {
+  "id": "example-73",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "chesapeake-conservation-corps-program-and-corps-board-altera",
+  "level": 5,
+  "title": "Chesapeake Conservation Corps Program and Corps Board – Alterations"
+ },
+ {
+  "id": "article-natural-resources",
+  "level": 5,
+  "title": "Article – Natural Resources"
+ },
+ {
+  "id": "miscellaneous-uniform-laws-model-laws-and-interstate-compact",
+  "level": 3,
+  "title": "Miscellaneous Uniform Laws, Model Laws, and Interstate Compacts"
+ },
+ {
+  "id": "correct-technical-and-grammatical-errors-e-g-an-incorrect-in",
+  "level": 3,
+  "title": "• correct technical and grammatical errors (e.g. an incorrect internal reference"
+ },
+ {
+  "id": "address-any-issues-that-are-unique-to-maryland-and-make-lang",
+  "level": 3,
+  "title": "• address any issues that are unique to Maryland; and • make language gender-neutral and change “shall not” to “may not.”"
+ },
+ {
+  "id": "example-74",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "sunset-law",
+  "level": 3,
+  "title": "“Sunset Law”"
+ },
+ {
+  "id": "example-75",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "penalties-and-sentencing",
+  "level": 3,
+  "title": "Penalties and Sentencing"
+ },
+ {
+  "id": "civil-penalties",
+  "level": 5,
+  "title": "Civil Penalties"
+ },
+ {
+  "id": "criminal-penalties-and-sentencing",
+  "level": 5,
+  "title": "Criminal Penalties and Sentencing"
+ },
+ {
+  "id": "example-76",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "__-1-a-person-who-violates-this-section-is-guilty-of-a",
+  "level": 5,
+  "title": "(__) (1) A PERSON WHO VIOLATES THIS SECTION IS GUILTY OF A"
+ },
+ {
+  "id": "2-notwithstanding-14-102-of-the-criminal-law",
+  "level": 5,
+  "title": "(2) NOTWITHSTANDING § 14-102 OF THE CRIMINAL LAW"
+ },
+ {
+  "id": "3-the-court-may-not-suspend-any-part-of-the",
+  "level": 5,
+  "title": "(3) THE COURT MAY NOT SUSPEND ANY PART OF THE"
+ },
+ {
+  "id": "example-77",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-78",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "__-a",
+  "level": 5,
+  "title": "(__) A"
+ },
+ {
+  "id": "example-79",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-80",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "criminal-history-records-checks",
+  "level": 3,
+  "title": "Criminal History Records Checks"
+ },
+ {
+  "id": "example-81",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "1",
+  "level": 5,
+  "title": "(1)"
+ },
+ {
+  "id": "2-the-fee-authorized-under-10-221-b-7-of-the",
+  "level": 5,
+  "title": "(2) THE FEE AUTHORIZED UNDER § 10-221(B)(7) OF THE"
+ },
+ {
+  "id": "3",
+  "level": 5,
+  "title": "(3)"
+ },
+ {
+  "id": "1-is-confidential-2-may-not-be-redisseminated-and-3",
+  "level": 5,
+  "title": "(1) IS CONFIDENTIAL; (2) MAY NOT BE REDISSEMINATED; AND (3)"
+ },
+ {
+  "id": "revisor-s-notes",
+  "level": 3,
+  "title": "Revisor’s Notes"
+ },
+ {
+  "id": "chapter-7-drafting-uncodified-provisions",
+  "level": 2,
+  "title": "Chapter 7. Drafting Uncodified Provisions"
+ },
+ {
+  "id": "in-general-10",
+  "level": 3,
+  "title": "In General"
+ },
+ {
+  "id": "a-provision-establishing-a-task-force-workgroup-or-study-of-",
+  "level": 3,
+  "title": "• a provision establishing a task force, workgroup, or study of short–duration"
+ },
+ {
+  "id": "acts-granting-a-commission-county-the-authority-to-sell-bond",
+  "level": 3,
+  "title": "• Acts granting a commission county the authority to sell bonds (see, e.g.,"
+ },
+ {
+  "id": "acts-granting-authority-to-a-state-agency-to-condemn-propert",
+  "level": 3,
+  "title": "• Acts granting authority to a State agency to condemn property; • the annual State operating budget (Budget Bill) (see, e.g., Chapter 4 of the Acts"
+ },
+ {
+  "id": "the-annual-maryland-consolidated-capital-bond-loan-capital-b",
+  "level": 3,
+  "title": "• the annual Maryland Consolidated Capital Bond Loan (Capital Budget) (which"
+ },
+ {
+  "id": "a-provision-requiring-the-maryland-historical-trust-to-extin",
+  "level": 3,
+  "title": "• a provision requiring the Maryland Historical Trust to extinguish or terminate"
+ },
+ {
+  "id": "a-provision-requiring-the-maryland-department-of-health-to-a",
+  "level": 3,
+  "title": "• a provision requiring the Maryland Department of Health to apply to the"
+ },
+ {
+  "id": "function-paragraphs",
+  "level": 3,
+  "title": "Function Paragraphs"
+ },
+ {
+  "id": "enacting-clause",
+  "level": 3,
+  "title": "Enacting Clause"
+ },
+ {
+  "id": "example-82",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-83",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "bill-text-2",
+  "level": 3,
+  "title": "Bill Text"
+ },
+ {
+  "id": "example-84",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-85",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "font-type",
+  "level": 3,
+  "title": "Font Type"
+ },
+ {
+  "id": "tabulation",
+  "level": 3,
+  "title": "Tabulation"
+ },
+ {
+  "id": "example-86",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-87",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "special-sections-2",
+  "level": 3,
+  "title": "Special Sections"
+ },
+ {
+  "id": "miscellaneous-legalization-of-revisions-to-public-local-laws",
+  "level": 3,
+  "title": "Miscellaneous Legalization of Revisions to Public Local Laws"
+ },
+ {
+  "id": "example-88",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "baltimore-county-code-of-public-local-laws-2025-edition-lega",
+  "level": 5,
+  "title": "Baltimore County Code of Public Local Laws – 2025 Edition – Legalization"
+ },
+ {
+  "id": "establishing-a-task-force",
+  "level": 3,
+  "title": "Establishing a Task Force"
+ },
+ {
+  "id": "in-general-11",
+  "level": 5,
+  "title": "In General"
+ },
+ {
+  "id": "example-89",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "membership",
+  "level": 5,
+  "title": "Membership"
+ },
+ {
+  "id": "staffing",
+  "level": 5,
+  "title": "Staffing"
+ },
+ {
+  "id": "reimbursement-of-expenses",
+  "level": 5,
+  "title": "Reimbursement of Expenses"
+ },
+ {
+  "id": "reporting-requirement",
+  "level": 5,
+  "title": "Reporting Requirement"
+ },
+ {
+  "id": "termination-date",
+  "level": 5,
+  "title": "Termination Date"
+ },
+ {
+  "id": "requiring-a-workgroup",
+  "level": 3,
+  "title": "Requiring a Workgroup"
+ },
+ {
+  "id": "what-entity-will-convene-the-workgroup-should-representative",
+  "level": 3,
+  "title": "• What entity will convene the workgroup? • Should representatives of certain organizations be included on the workgroup? • Do specifics about the study need to be included (e.g. should the entity be"
+ },
+ {
+  "id": "are-recommendations-to-be-made-based-on-the-results-of-the-s",
+  "level": 3,
+  "title": "• Are recommendations to be made based on the results of the study? • To whom should the results of the study (and any recommendations, if being"
+ },
+ {
+  "id": "what-is-the-deadline-for-submitting-the-results-of-the-study",
+  "level": 3,
+  "title": "• What is the deadline for submitting the results of the study (and any"
+ },
+ {
+  "id": "requiring-a-study",
+  "level": 3,
+  "title": "Requiring a Study"
+ },
+ {
+  "id": "what-entity-will-be-doing-the-study-what-is-the-issue-to-be-",
+  "level": 3,
+  "title": "• What entity will be doing the study? • What is the issue to be studied? • Do specifics about the study need to be included (e.g. should the entity be"
+ },
+ {
+  "id": "are-recommendations-to-be-made-based-on-the-results-of-the-s-2",
+  "level": 3,
+  "title": "• Are recommendations to be made based on the results of the study?"
+ },
+ {
+  "id": "to-whom-should-the-results-of-the-study-and-any-recommendati",
+  "level": 3,
+  "title": "• To whom should the results of the study (and any recommendations, if being"
+ },
+ {
+  "id": "what-is-the-deadline-for-submitting-the-results-of-the-study-2",
+  "level": 3,
+  "title": "• What is the deadline for submitting the results of the study (and any"
+ },
+ {
+  "id": "straw-ballots",
+  "level": 3,
+  "title": "Straw Ballots"
+ },
+ {
+  "id": "example-90",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "_______-county-subject-straw-ballot",
+  "level": 5,
+  "title": "_______ County – (Subject) – Straw Ballot"
+ },
+ {
+  "id": "chapter-8-drafting-changes-to-uncodified-provisions-in-the-s-2",
+  "level": 2,
+  "title": "Chapter 8. Drafting Changes to Uncodified Provisions in the Session Laws"
+ },
+ {
+  "id": "in-general-12",
+  "level": 3,
+  "title": "In General"
+ },
+ {
+  "id": "function-paragraphs-2",
+  "level": 3,
+  "title": "Function Paragraphs"
+ },
+ {
+  "id": "example-91",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-92",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-93",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "enacting-clause-2",
+  "level": 3,
+  "title": "Enacting Clause"
+ },
+ {
+  "id": "example-94",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "chapter-154-of-the-acts-of-2012-as-amended-by-chapters-200-a",
+  "level": 5,
+  "title": "Chapter 154 of the Acts of 2012, as amended by Chapters 200 and 201 of the Acts of 2013, Chapter 340 of the Acts of 2017, Chapter 117 of the Acts of 2022, and Chapters 137 and 138 of the Acts of 2023"
+ },
+ {
+  "id": "bill-text-3",
+  "level": 3,
+  "title": "Bill Text"
+ },
+ {
+  "id": "example-95",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "chapter-180-of-the-acts-of-2022",
+  "level": 5,
+  "title": "Chapter 180 of the Acts of 2022"
+ },
+ {
+  "id": "example-96",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "chapter-180-of-the-acts-of-2022-as-amended-by-chapter-5-of-t",
+  "level": 5,
+  "title": "Chapter 180 of the Acts of 2022, as amended by Chapter 5 of the Acts of 2023"
+ },
+ {
+  "id": "example-97",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "chapter-491-of-the-acts-of-2014-as-amended-by-chapters-64-an",
+  "level": 5,
+  "title": "Chapter 491 of the Acts of 2014, as amended by Chapters 64 and 65 of the Acts of 2017 and Chapter 734 of the Acts of 2020"
+ },
+ {
+  "id": "chapter-492-of-the-acts-of-2014-as-amended-by-chapters-64-an",
+  "level": 5,
+  "title": "Chapter 492 of the Acts of 2014, as amended by Chapters 64 and 65 of the Acts of 2017 and Chapter 734 of the Acts of 2020"
+ },
+ {
+  "id": "chapter-9-drafting-constitutional-amendments",
+  "level": 2,
+  "title": "Chapter 9. Drafting Constitutional Amendments"
+ },
+ {
+  "id": "in-general-13",
+  "level": 3,
+  "title": "In General"
+ },
+ {
+  "id": "title-requirements-in-general",
+  "level": 3,
+  "title": "Title Requirements In General"
+ },
+ {
+  "id": "purpose-paragraph",
+  "level": 3,
+  "title": "Purpose Paragraph"
+ },
+ {
+  "id": "example-98",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "function-paragraphs-3",
+  "level": 3,
+  "title": "Function Paragraphs"
+ },
+ {
+  "id": "amending-a-section-of-the-constitution-example",
+  "level": 5,
+  "title": "Amending a Section of the Constitution Example"
+ },
+ {
+  "id": "adding-a-new-section-to-the-constitution-example",
+  "level": 5,
+  "title": "Adding a New Section to the Constitution Example"
+ },
+ {
+  "id": "adding-a-new-article-to-the-constitution-example",
+  "level": 5,
+  "title": "Adding a New Article to the Constitution Example"
+ },
+ {
+  "id": "repealing-a-section-of-the-constitution-example",
+  "level": 5,
+  "title": "Repealing a Section of the Constitution Example"
+ },
+ {
+  "id": "withdrawing-recalling-and-repealing-a-bill-proposing-a-const",
+  "level": 5,
+  "title": "Withdrawing, Recalling, and Repealing a Bill Proposing a Constitutional Amendment"
+ },
+ {
+  "id": "example-99",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "amending-adding-to-or-repealing-the-declaration-of-rights",
+  "level": 5,
+  "title": "Amending, Adding to, or Repealing the Declaration of Rights"
+ },
+ {
+  "id": "example-100",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "enacting-clause-proposing-an-amendment-to-the-maryland-const",
+  "level": 3,
+  "title": "Enacting Clause Proposing an Amendment to the Maryland Constitution"
+ },
+ {
+  "id": "example-101",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "withdrawing-recalling-and-repealing-a-bill-proposing-a-const-2",
+  "level": 3,
+  "title": "Withdrawing, Recalling, and Repealing a Bill Proposing a Constitutional Amendment"
+ },
+ {
+  "id": "example-102",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "bill-text-in-general-2",
+  "level": 3,
+  "title": "Bill Text In General"
+ },
+ {
+  "id": "effective-dates-and-special-sections",
+  "level": 3,
+  "title": "Effective Dates and Special Sections"
+ },
+ {
+  "id": "chapter-10-drafting-to-the-public-local-laws",
+  "level": 2,
+  "title": "Chapter 10. Drafting to the Public Local Laws"
+ },
+ {
+  "id": "in-general-14",
+  "level": 3,
+  "title": "In General"
+ },
+ {
+  "id": "code-of-public-local-laws",
+  "level": 3,
+  "title": "Code of Public Local Laws"
+ },
+ {
+  "id": "function-paragraphs-in-general",
+  "level": 3,
+  "title": "Function Paragraphs In General"
+ },
+ {
+  "id": "function-line",
+  "level": 3,
+  "title": "Function Line"
+ },
+ {
+  "id": "repeal-and-reenact-with-amendments-2",
+  "level": 5,
+  "title": "Repeal and Reenact, with Amendments"
+ },
+ {
+  "id": "example-103",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "total-repeal-of-a-section-or-other-portion-of-a-public-local",
+  "level": 5,
+  "title": "Total Repeal of a Section or Other Portion of a Public Local Law"
+ },
+ {
+  "id": "example-104",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "adding-a-new-section-or-subsection",
+  "level": 5,
+  "title": "Adding a New Section or Subsection"
+ },
+ {
+  "id": "example-105",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "repeal-of-a-section-and-enactment-of-a-new-section-to-replac-2",
+  "level": 5,
+  "title": "Repeal of a Section and Enactment of a New Section to Replace It"
+ },
+ {
+  "id": "example-106",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "renumbering-3",
+  "level": 5,
+  "title": "Renumbering"
+ },
+ {
+  "id": "example-107",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-108",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "repeal-and-reenact-without-amendments-2",
+  "level": 5,
+  "title": "Repeal and Reenact, without Amendments"
+ },
+ {
+  "id": "example-109",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "source-and-volume-and-supplement-citation-lines",
+  "level": 3,
+  "title": "Source and Volume and Supplement Citation Lines"
+ },
+ {
+  "id": "example-110",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "fifth-line",
+  "level": 3,
+  "title": "Fifth Line"
+ },
+ {
+  "id": "example-111",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-112",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "enacting-clauses-standard-enacting-clauses-2",
+  "level": 3,
+  "title": "Enacting Clauses Standard Enacting Clauses"
+ },
+ {
+  "id": "example-113",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "nonstandard-enacting-clauses-2",
+  "level": 3,
+  "title": "Nonstandard Enacting Clauses"
+ },
+ {
+  "id": "renumbering-4",
+  "level": 5,
+  "title": "Renumbering"
+ },
+ {
+  "id": "example-114",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "short-repealer-2",
+  "level": 5,
+  "title": "Short Repealer"
+ },
+ {
+  "id": "example-115",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "bill-text-4",
+  "level": 3,
+  "title": "Bill Text"
+ },
+ {
+  "id": "example-116",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "article-4-baltimore-city",
+  "level": 5,
+  "title": "Article 4 – Baltimore City"
+ },
+ {
+  "id": "amendment-to-grant-urban-renewal-power",
+  "level": 3,
+  "title": "Amendment to Grant Urban Renewal Power"
+ },
+ {
+  "id": "example-117",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "city-town-of-__________-__________-county-urban-renewal-auth",
+  "level": 5,
+  "title": "(City)(Town) of __________ (__________ County) – Urban Renewal Authority for (Slum/Blight) Clearance"
+ },
+ {
+  "id": "municipal-charters-in-general",
+  "level": 3,
+  "title": "Municipal Charters In General"
+ },
+ {
+  "id": "title",
+  "level": 3,
+  "title": "Title"
+ },
+ {
+  "id": "example-118",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "town-of-williamsport-washington-county-urban-renewal-authori",
+  "level": 5,
+  "title": "Town of Williamsport (Washington County) – Urban Renewal Authority for Blight Clearance"
+ },
+ {
+  "id": "example-119",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "town-of-mount-airy-carroll-county-and-frederick-county-urban",
+  "level": 5,
+  "title": "Town of Mount Airy (Carroll County and Frederick County) – Urban Renewal Authority"
+ },
+ {
+  "id": "amending-a-municipal-charter",
+  "level": 3,
+  "title": "Amending a Municipal Charter"
+ },
+ {
+  "id": "amendment-to-fix-tax-rates-for-municipalities",
+  "level": 5,
+  "title": "Amendment to Fix Tax Rates for Municipalities"
+ },
+ {
+  "id": "example-120",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "city-town-of-__________-__________-county-modification-of-ta",
+  "level": 5,
+  "title": "(City)(Town) of __________ (__________ County) − Modification of Tax Limits"
+ },
+ {
+  "id": "amendment-to-regulate-maximum-debt-created-by-municipalities",
+  "level": 5,
+  "title": "Amendment to Regulate Maximum Debt Created by Municipalities"
+ },
+ {
+  "id": "example-121",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "city-town-of-__________-__________-county-maximum-amount-of-",
+  "level": 5,
+  "title": "(City)(Town) of __________ (__________ County) − Maximum Amount of Bonded Indebtedness"
+ },
+ {
+  "id": "baltimore-city-charter-amendment",
+  "level": 3,
+  "title": "Baltimore City Charter Amendment"
+ },
+ {
+  "id": "example-122",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "baltimore-city-charter-amendment-department-of-public-works-",
+  "level": 5,
+  "title": "Baltimore City Charter Amendment – Department of Public Works – Frozen-Pipe Prevention Rebate Program"
+ },
+ {
+  "id": "the-charter-of-baltimore-city",
+  "level": 5,
+  "title": "The Charter of Baltimore City"
+ },
+ {
+  "id": "70",
+  "level": 5,
+  "title": "(70)"
+ },
+ {
+  "id": "1-2",
+  "level": 5,
+  "title": "(1)"
+ },
+ {
+  "id": "2-a-rebate-shall-be-provided-on-a-per-diem-basis",
+  "level": 5,
+  "title": "(2) A REBATE SHALL BE PROVIDED ON A PER DIEM BASIS."
+ },
+ {
+  "id": "chapter-11-funding-provisions-and-audits",
+  "level": 2,
+  "title": "Chapter 11. Funding Provisions and Audits"
+ },
+ {
+  "id": "state-budget-and-state-debt",
+  "level": 3,
+  "title": "State Budget and State Debt"
+ },
+ {
+  "id": "budget-bill",
+  "level": 3,
+  "title": "Budget Bill"
+ },
+ {
+  "id": "in-general-15",
+  "level": 5,
+  "title": "In General"
+ },
+ {
+  "id": "title-requirements",
+  "level": 5,
+  "title": "Title Requirements"
+ },
+ {
+  "id": "example-123",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "budget-bill-fiscal-year-2028",
+  "level": 5,
+  "title": "Budget Bill (Fiscal Year 2028)"
+ },
+ {
+  "id": "maryland-consolidated-capital-bond-loan-bill",
+  "level": 3,
+  "title": "Maryland Consolidated Capital Bond Loan Bill"
+ },
+ {
+  "id": "supplementary-appropriation-bill",
+  "level": 3,
+  "title": "Supplementary Appropriation Bill"
+ },
+ {
+  "id": "mandatory-funding-provisions-in-general",
+  "level": 3,
+  "title": "Mandatory Funding Provisions In General"
+ },
+ {
+  "id": "dollar-amount",
+  "level": 3,
+  "title": "Dollar Amount"
+ },
+ {
+  "id": "example-124",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-125",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "objective-basis",
+  "level": 3,
+  "title": "Objective Basis"
+ },
+ {
+  "id": "language-requiring-that-funds-be-included-in-the-budget-in-a",
+  "level": 3,
+  "title": "• language requiring that funds be included in the budget in an amount equal to"
+ },
+ {
+  "id": "language-requiring-that-funding-for-a-certain-number-of-slot",
+  "level": 3,
+  "title": "• language requiring that funding for a certain number of slots in a program be"
+ },
+ {
+  "id": "language-requiring-an-appropriation-in-the-annual-budget-bil",
+  "level": 3,
+  "title": "• language requiring an appropriation in the annual budget bill in an amount"
+ },
+ {
+  "id": "language-requiring-the-governor-to-include-funds-in-the-stat",
+  "level": 3,
+  "title": "• language requiring the Governor to “include funds in the State budget to"
+ },
+ {
+  "id": "example-126",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-127",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-128",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-129",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "bills-creating-special-funds-in-general",
+  "level": 3,
+  "title": "Bills Creating Special Funds In General"
+ },
+ {
+  "id": "example-130",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "complex-special-fund-language",
+  "level": 3,
+  "title": "Complex Special Fund Language"
+ },
+ {
+  "id": "example-131",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "2-the-state-treasurer",
+  "level": 5,
+  "title": "(2) THE STATE TREASURER"
+ },
+ {
+  "id": "1-3",
+  "level": 5,
+  "title": "(1)"
+ },
+ {
+  "id": "2-money-appropriated-in-the-state-budget-to-the",
+  "level": 5,
+  "title": "(2) MONEY APPROPRIATED IN THE STATE BUDGET TO THE"
+ },
+ {
+  "id": "3-interest-earnings-include-only-if-interest-earnings-are-to",
+  "level": 5,
+  "title": "(3) INTEREST EARNINGS (include only if interest earnings are to be"
+ },
+ {
+  "id": "4",
+  "level": 5,
+  "title": "(4)"
+ },
+ {
+  "id": "2-any-interest-earnings-of-the-fund-shall-be",
+  "level": 5,
+  "title": "(2) ANY INTEREST EARNINGS OF THE FUND SHALL BE"
+ },
+ {
+  "id": "audits-of-special-funds",
+  "level": 3,
+  "title": "Audits of Special Funds"
+ },
+ {
+  "id": "example-132",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-133",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "interest-earnings-of-special-funds",
+  "level": 3,
+  "title": "Interest Earnings of Special Funds"
+ },
+ {
+  "id": "example-134",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-135",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "article-state-finance-and-procurement",
+  "level": 5,
+  "title": "Article – State Finance and Procurement"
+ },
+ {
+  "id": "audits",
+  "level": 3,
+  "title": "Audits"
+ },
+ {
+  "id": "local-bond-issues-county-bond-issues",
+  "level": 3,
+  "title": "Local Bond Issues County Bond Issues"
+ },
+ {
+  "id": "example-136",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "_____-county-bonding-authority-public-facilities",
+  "level": 5,
+  "title": "_____ County − Bonding Authority − Public Facilities"
+ },
+ {
+  "id": "baltimore-city-bond-issues",
+  "level": 3,
+  "title": "Baltimore City Bond Issues"
+ },
+ {
+  "id": "example-137",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "baltimore-city-bond-issue",
+  "level": 5,
+  "title": "Baltimore City − Bond Issue"
+ },
+ {
+  "id": "chapter-12-special-sections",
+  "level": 2,
+  "title": "Chapter 12. Special Sections"
+ },
+ {
+  "id": "in-general-16",
+  "level": 3,
+  "title": "In General"
+ },
+ {
+  "id": "applicability",
+  "level": 3,
+  "title": "Applicability"
+ },
+ {
+  "id": "prospective-effect",
+  "level": 3,
+  "title": "Prospective Effect"
+ },
+ {
+  "id": "example-138",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-139",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-140",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-141",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "retroactive-effect",
+  "level": 3,
+  "title": "Retroactive Effect"
+ },
+ {
+  "id": "example-142",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "legacy-clause",
+  "level": 3,
+  "title": "Legacy Clause"
+ },
+ {
+  "id": "example-143",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "catchline-or-caption-not-part-of-the-law",
+  "level": 3,
+  "title": "Catchline or Caption Not Part of the Law"
+ },
+ {
+  "id": "example-144",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "correction-by-publisher-of-incorrect-cross-references-and-te",
+  "level": 3,
+  "title": "Correction by Publisher of Incorrect Cross-references and Terminology"
+ },
+ {
+  "id": "example-145",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "government-reorganization",
+  "level": 3,
+  "title": "Government Reorganization"
+ },
+ {
+  "id": "the-transfer-of-responsibility-for-carrying-out-the-services",
+  "level": 3,
+  "title": "• the transfer of responsibility for carrying out the services or duties of the"
+ },
+ {
+  "id": "the-transfer-of-the-appropriations-held-by-agencies-and-unit",
+  "level": 3,
+  "title": "• the transfer of the appropriations held by agencies and units of the State to"
+ },
+ {
+  "id": "the-provision-of-funding-for-services-and-programs-under-the",
+  "level": 3,
+  "title": "• the provision of funding for services and programs under the new unit; • the transfer of federal or State grants; • the transfer of the functions, powers, duties, books and records, real and"
+ },
+ {
+  "id": "the-abolishment-of-the-old-unit-and-any-related-boards-or-ot",
+  "level": 3,
+  "title": "• the abolishment of the old unit and any related boards or other units and the"
+ },
+ {
+  "id": "the-transfer-of-employees-to-the-new-unit-and-the-effect-of-",
+  "level": 3,
+  "title": "• the transfer of employees to the new unit and the effect of the transfer on the"
+ },
+ {
+  "id": "the-validity-of-transactions-affected-by-or-flowing-from-sta",
+  "level": 3,
+  "title": "• the validity of transactions affected by or flowing from statutory changes made"
+ },
+ {
+  "id": "the-continuance-of-existing-laws-regulations-proposed-regula",
+  "level": 3,
+  "title": "• the continuance of existing laws, regulations, proposed regulations, standards"
+ },
+ {
+  "id": "the-effect-of-the-transfer-on-the-terms-of-office-of-a-membe",
+  "level": 3,
+  "title": "• the effect of the transfer on the terms of office of a member of a board, council,"
+ },
+ {
+  "id": "the-effect-of-the-transfer-on-a-license-registration-permit-",
+  "level": 3,
+  "title": "• the effect of the transfer on a license, registration, permit, or certification"
+ },
+ {
+  "id": "whether-or-not-the-individual-serving-as-the-head-of-the-ent",
+  "level": 3,
+  "title": "• whether or not the individual serving as the head of the entity being"
+ },
+ {
+  "id": "hold-harmless-clause",
+  "level": 3,
+  "title": "Hold Harmless Clause"
+ },
+ {
+  "id": "example-146",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "impairment-of-rights-or-contracts",
+  "level": 3,
+  "title": "Impairment of Rights or Contracts"
+ },
+ {
+  "id": "example-147",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "legislative-mandate",
+  "level": 3,
+  "title": "Legislative Mandate"
+ },
+ {
+  "id": "example-148",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-149",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "more-stringent-provisions",
+  "level": 3,
+  "title": "“More Stringent” Provisions"
+ },
+ {
+  "id": "example-150",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "repeal-of-inconsistent-laws",
+  "level": 3,
+  "title": "Repeal of Inconsistent Laws"
+ },
+ {
+  "id": "example-151",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "reporting-requirements-in-general",
+  "level": 3,
+  "title": "Reporting Requirements In General"
+ },
+ {
+  "id": "example-152",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-153",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "report-to-a-delegation",
+  "level": 3,
+  "title": "Report to a Delegation"
+ },
+ {
+  "id": "example-154",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-155",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "interim-and-final-reports",
+  "level": 3,
+  "title": "Interim and Final Reports"
+ },
+ {
+  "id": "example-156",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "salary-increase-or-decrease-not-to-affect-incumbent",
+  "level": 3,
+  "title": "Salary Increase or Decrease Not to Affect Incumbent"
+ },
+ {
+  "id": "example-157",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-158",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "public-officers",
+  "level": 3,
+  "title": "Public Officers"
+ },
+ {
+  "id": "the-position-was-created-by-law-and-casts-on-the-incumbent-d",
+  "level": 3,
+  "title": "• the position was created by law and casts on the incumbent duties that are"
+ },
+ {
+  "id": "the-incumbent-performs-an-important-public-duty",
+  "level": 3,
+  "title": "• the incumbent performs an important public duty;"
+ },
+ {
+  "id": "the-position-calls-for-the-exercise-of-some-portion-of-the-s",
+  "level": 3,
+  "title": "• the position calls for the exercise of some portion of the sovereign power of"
+ },
+ {
+  "id": "the-position-has-a-definite-term-for-which-a-commission-is-i",
+  "level": 3,
+  "title": "• the position has a definite term, for which a commission is issued, and a bond"
+ },
+ {
+  "id": "the-position-is-one-of-dignity-and-importance",
+  "level": 3,
+  "title": "• the position is one of dignity and importance."
+ },
+ {
+  "id": "state-s-attorney-sheriff-clerk-of-a-circuit-court-orphans-co",
+  "level": 3,
+  "title": "• State’s Attorney; • sheriff; • clerk of a circuit court; • orphans’ court judge; • register of wills; • member of a local board of supervisors of elections; • chair of a board of license commissioners; • member of a board of license commissioners;"
+ },
+ {
+  "id": "commissioner-of-the-maryland-national-capital-park-and-plann",
+  "level": 3,
+  "title": "• commissioner of the Maryland-National Capital Park and Planning"
+ },
+ {
+  "id": "commissioner-of-the-washington-suburban-sanitary-commission-",
+  "level": 3,
+  "title": "• commissioner of the Washington Suburban Sanitary Commission; • commissioner of the Washington Suburban Transit Commission; and • county commissioner."
+ },
+ {
+  "id": "increase-or-decrease-in-salary-or-compensation-during-a-term",
+  "level": 3,
+  "title": "Increase or Decrease in Salary or Compensation During a Term"
+ },
+ {
+  "id": "when-will-the-salary-or-compensation-legislation-be-enacted-",
+  "level": 3,
+  "title": "• When will the salary or compensation legislation be enacted? • When does the public officer’s term of office begin? • Is the salary increase known and objectively established in advance of the"
+ },
+ {
+  "id": "a-public-officer-s-salary-may-not-be-increased-directly-or-i",
+  "level": 3,
+  "title": "• A public officer’s salary may not be increased, directly or indirectly, by"
+ },
+ {
+  "id": "a-change-in-salary-cannot-be-applied-if-the-legislation-chan",
+  "level": 3,
+  "title": "• A change in salary cannot be applied if the legislation changing the salary"
+ },
+ {
+  "id": "if-the-salary-of-a-public-officer-is-tied-to-the-salary-of-a",
+  "level": 3,
+  "title": "• If the salary of a public officer is tied to the salary of another position, the"
+ },
+ {
+  "id": "article-iii-35-does-not-prohibit-a-public-officer-from-recei",
+  "level": 3,
+  "title": "• Article III, § 35 does not prohibit a public officer from receiving a change in"
+ },
+ {
+  "id": "a-public-officer-may-not-receive-compensation-authorized-dur",
+  "level": 3,
+  "title": "• A public officer may not receive compensation authorized during the public"
+ },
+ {
+  "id": "salary-increases-that-are-to-be-implemented-in-a-step-manner",
+  "level": 3,
+  "title": "• Salary increases that are to be implemented in a step manner over a period of"
+ },
+ {
+  "id": "automatic-pay-raises-that-are-tied-to-the-cost-of-living-do-",
+  "level": 3,
+  "title": "• Automatic pay raises that are tied to the cost of living do not violate Article III,"
+ },
+ {
+  "id": "an-individual-who-was-appointed-to-fill-a-vacancy-in-a-publi",
+  "level": 3,
+  "title": "• An individual who was appointed to fill a vacancy in a public office must receive"
+ },
+ {
+  "id": "severability-clause-and-nonseverability-clause",
+  "level": 3,
+  "title": "Severability Clause and Nonseverability Clause"
+ },
+ {
+  "id": "example-159",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-160",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "staggered-terms-of-office",
+  "level": 3,
+  "title": "Staggered Terms of Office"
+ },
+ {
+  "id": "example-161",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "_-1-the-term-of-a-member-is-___-years-2-the-terms-of-members",
+  "level": 5,
+  "title": "(_) (1) THE TERM OF A MEMBER IS ___ YEARS. (2) THE TERMS OF MEMBERS ARE STAGGERED AS REQUIRED BY"
+ },
+ {
+  "id": "proposed-effective-date-of-the-bill-e-g-october-1-2027",
+  "level": 5,
+  "title": "proposed effective date of the bill, e.g., October 1, 2027)."
+ },
+ {
+  "id": "3-at-the-end-of-a-term-a-member-continues-to-serve",
+  "level": 5,
+  "title": "(3) AT THE END OF A TERM, A MEMBER CONTINUES TO SERVE"
+ },
+ {
+  "id": "4-a-member-who-is-appointed-after-a-term-has-begun",
+  "level": 5,
+  "title": "(4) A MEMBER WHO IS APPOINTED AFTER A TERM HAS BEGUN"
+ },
+ {
+  "id": "example-162",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "statement-of-legislative-intent",
+  "level": 3,
+  "title": "Statement of Legislative Intent"
+ },
+ {
+  "id": "example-163",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-164",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "supplemental-powers",
+  "level": 3,
+  "title": "Supplemental Powers"
+ },
+ {
+  "id": "example-165",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "chapter-13-effective-dates-double-drafting-and-termination-p-2",
+  "level": 2,
+  "title": "Chapter 13. Effective Dates, Double Drafting, and Termination Provisions"
+ },
+ {
+  "id": "in-general-17",
+  "level": 3,
+  "title": "In General"
+ },
+ {
+  "id": "using-a-delayed-effective-date-see-p-200-delayed-effective-d",
+  "level": 3,
+  "title": "• using a delayed effective date (see p. 200, “Delayed Effective Date”); • making the bill an emergency measure or using another pre-June 1 effective"
+ },
+ {
+  "id": "subjecting-the-effectiveness-of-the-bill-to-a-contingency-se",
+  "level": 3,
+  "title": "• subjecting the effectiveness of the bill to a contingency (see p. 203, “Effective"
+ },
+ {
+  "id": "using-multiple-effective-dates-see-p-218-multiple-effective-",
+  "level": 3,
+  "title": "• using multiple effective dates (see p. 218, “Multiple Effective Dates”)."
+ },
+ {
+  "id": "effective-dates-for-special-session-legislation",
+  "level": 3,
+  "title": "Effective Dates for Special Session Legislation"
+ },
+ {
+  "id": "special-considerations",
+  "level": 3,
+  "title": "Special Considerations"
+ },
+ {
+  "id": "standard-effective-dates",
+  "level": 3,
+  "title": "Standard Effective Dates"
+ },
+ {
+  "id": "tax-and-budget-related-bills-june-1-or-july-1-to-coincide-wi",
+  "level": 3,
+  "title": "• tax and budget-related bills (June 1 or July 1 to coincide with the start of the"
+ },
+ {
+  "id": "election-law-bills-introduced-in-an-election-year-june-1-or-",
+  "level": 3,
+  "title": "• election law bills introduced in an election year (June 1 or a delayed effective"
+ },
+ {
+  "id": "education-bills-generally-july-1-so-that-the-bill-is-in-effe",
+  "level": 3,
+  "title": "• education bills (generally July 1 so that the bill is in effect before the next"
+ },
+ {
+  "id": "hunting-and-fishing-bills-generally-july-1-so-that-the-bill-",
+  "level": 3,
+  "title": "• hunting and fishing bills (generally July 1 so that the bill is in effect before the"
+ },
+ {
+  "id": "health-insurance-bills-january-1-to-coincide-with-the-plan-y",
+  "level": 3,
+  "title": "• health insurance bills (January 1 to coincide with the plan year); • situations that logically require an earlier effective date (e.g., adding additional"
+ },
+ {
+  "id": "specific-request-by-the-sponsor",
+  "level": 3,
+  "title": "• specific request by the sponsor."
+ },
+ {
+  "id": "example-166",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-167",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-168",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "delayed-effective-date",
+  "level": 3,
+  "title": "Delayed Effective Date"
+ },
+ {
+  "id": "example-169",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-170",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "pre-june-1-effective-dates",
+  "level": 3,
+  "title": "Pre-June 1 Effective Dates"
+ },
+ {
+  "id": "emergency-effective-date",
+  "level": 3,
+  "title": "Emergency Effective Date"
+ },
+ {
+  "id": "example-171",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-172",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "laws-not-subject-to-referendum",
+  "level": 3,
+  "title": "Laws Not Subject to Referendum"
+ },
+ {
+  "id": "effective-date-subject-to-a-contingency-in-general",
+  "level": 3,
+  "title": "Effective Date Subject to a Contingency In General"
+ },
+ {
+  "id": "bill-contingent-on-another-bill",
+  "level": 3,
+  "title": "Bill Contingent on Another Bill"
+ },
+ {
+  "id": "example-173",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-174",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-175",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-176",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "bill-contingent-on-the-termination-of-an-act",
+  "level": 3,
+  "title": "Bill Contingent on the Termination of an Act"
+ },
+ {
+  "id": "example-177",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "statewide-referendum-constitutional-amendments",
+  "level": 3,
+  "title": "Statewide Referendum – Constitutional Amendments"
+ },
+ {
+  "id": "example-178",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "statewide-referendum-commercial-gaming",
+  "level": 3,
+  "title": "Statewide Referendum – Commercial Gaming"
+ },
+ {
+  "id": "example-179",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "local-referendum-provisions",
+  "level": 3,
+  "title": "Local Referendum Provisions"
+ },
+ {
+  "id": "example-180",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-181",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "constitutional-amendment-contingency-clauses",
+  "level": 3,
+  "title": "Constitutional Amendment Contingency Clauses"
+ },
+ {
+  "id": "example-182",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-183",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-184",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "local-referendum-contingency-clauses",
+  "level": 3,
+  "title": "Local Referendum Contingency Clauses"
+ },
+ {
+  "id": "example-185",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "effective-date-subject-to-concurrence-interstate-compacts",
+  "level": 3,
+  "title": "Effective Date Subject to Concurrence (Interstate Compacts)"
+ },
+ {
+  "id": "example-186",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "nonstandard-contingencies",
+  "level": 3,
+  "title": "Nonstandard Contingencies"
+ },
+ {
+  "id": "the-period-of-time-within-which-the-contingent-event-must-ta",
+  "level": 3,
+  "title": "• the period of time within which the contingent event must take place (i.e., avoid"
+ },
+ {
+  "id": "what-will-happen-if-the-contingency-is-not-fulfilled-and-who",
+  "level": 3,
+  "title": "• what will happen if the contingency is not fulfilled; and • who will monitor whether the contingency has been fulfilled and report back"
+ },
+ {
+  "id": "example-187",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-188",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-189",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "chapter-623-of-the-acts-of-1981-was-contingent-on-the-availa",
+  "level": 3,
+  "title": "• Chapter 623 of the Acts of 1981 was contingent on “the availability” of"
+ },
+ {
+  "id": "chapter-587-of-the-acts-of-1981-provided-that-if-on-july-1-1",
+  "level": 3,
+  "title": "• Chapter 587 of the Acts of 1981 provided that “if on July 1, 1981 any litigation"
+ },
+ {
+  "id": "chapter-500-of-the-acts-of-1995-included-the-following-inade",
+  "level": 3,
+  "title": "• Chapter 500 of the Acts of 1995 included the following inadequate contingency"
+ },
+ {
+  "id": "multiple-effective-dates",
+  "level": 3,
+  "title": "Multiple Effective Dates"
+ },
+ {
+  "id": "example-190",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "double-drafting",
+  "level": 3,
+  "title": "Double Drafting"
+ },
+ {
+  "id": "amends-or-adds-an-annotated-code-section-in-one-section-of-t",
+  "level": 3,
+  "title": "• amends or adds an Annotated Code section in one section of the bill"
+ },
+ {
+  "id": "includes-an-annotated-code-section-subject-to-termination-or",
+  "level": 3,
+  "title": "• includes an Annotated Code section subject to termination or a delayed"
+ },
+ {
+  "id": "drafting-to-annotated-code-section-amended-or-added-and-then",
+  "level": 3,
+  "title": "Drafting to Annotated Code Section Amended or Added and then Further Amended in Same Bill"
+ },
+ {
+  "id": "drafting-to-annotated-code-section-subject-to-termination",
+  "level": 3,
+  "title": "Drafting to Annotated Code Section Subject to Termination"
+ },
+ {
+  "id": "example-191",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "drafting-to-provision-with-a-delayed-effective-date",
+  "level": 3,
+  "title": "Drafting to Provision with a Delayed Effective Date"
+ },
+ {
+  "id": "example-192",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "termination-provisions-effective-date-with-a-termination-pro",
+  "level": 3,
+  "title": "Termination Provisions Effective Date with a Termination Provision (Sunset)"
+ },
+ {
+  "id": "example-193",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-194",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-195",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-196",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-197",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-198",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-199",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "adding-new-material-to-provisions-of-limited-duration",
+  "level": 3,
+  "title": "Adding New Material to Provisions of Limited Duration"
+ },
+ {
+  "id": "example-200",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "termination-subject-to-contingency",
+  "level": 3,
+  "title": "Termination Subject to Contingency"
+ },
+ {
+  "id": "example-201",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "chapter-14-resolutions",
+  "level": 2,
+  "title": "Chapter 14. Resolutions"
+ },
+ {
+  "id": "in-general-18",
+  "level": 3,
+  "title": "In General"
+ },
+ {
+  "id": "joint-resolutions-in-general",
+  "level": 3,
+  "title": "Joint Resolutions In General"
+ },
+ {
+  "id": "title-2",
+  "level": 3,
+  "title": "Title"
+ },
+ {
+  "id": "example-202",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "united-states-of-america-district-of-columbia-statehood",
+  "level": 5,
+  "title": "United States of America – District of Columbia – Statehood"
+ },
+ {
+  "id": "whereas-clauses",
+  "level": 3,
+  "title": "“WHEREAS” Clauses"
+ },
+ {
+  "id": "example-203",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "resolved-clauses",
+  "level": 3,
+  "title": "“RESOLVED” Clauses"
+ },
+ {
+  "id": "in-general-19",
+  "level": 5,
+  "title": "In General"
+ },
+ {
+  "id": "example-204",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-205",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-206",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "amendments-to-the-u-s-constitution",
+  "level": 5,
+  "title": "Amendments to the U.S. Constitution"
+ },
+ {
+  "id": "simple-resolutions",
+  "level": 3,
+  "title": "Simple Resolutions"
+ },
+ {
+  "id": "resolutions",
+  "level": 3,
+  "title": "Resolutions"
+ },
+ {
+  "id": "chapter-15-amendments-to-bills-and-other-documents",
+  "level": 2,
+  "title": "Chapter 15. Amendments to Bills and Other Documents"
+ },
+ {
+  "id": "background",
+  "level": 3,
+  "title": "Background"
+ },
+ {
+  "id": "categories-of-amendments-county-delegation-amendments",
+  "level": 3,
+  "title": "Categories of Amendments County Delegation Amendments"
+ },
+ {
+  "id": "amendments-offered-in-standing-committees",
+  "level": 3,
+  "title": "Amendments Offered in Standing Committees"
+ },
+ {
+  "id": "committee-amendments",
+  "level": 3,
+  "title": "Committee Amendments"
+ },
+ {
+  "id": "floor-amendments",
+  "level": 3,
+  "title": "Floor Amendments"
+ },
+ {
+  "id": "preparation-of-amendments-confidentiality",
+  "level": 3,
+  "title": "Preparation of Amendments Confidentiality"
+ },
+ {
+  "id": "accuracy",
+  "level": 3,
+  "title": "Accuracy"
+ },
+ {
+  "id": "determination-of-the-sponsor-of-an-amendment",
+  "level": 3,
+  "title": "Determination of the Sponsor of an Amendment"
+ },
+ {
+  "id": "requesters",
+  "level": 5,
+  "title": "Requesters"
+ },
+ {
+  "id": "sponsors",
+  "level": 5,
+  "title": "Sponsors"
+ },
+ {
+  "id": "a-committee-which-may-be-either-a-standing-committee-e-g-the",
+  "level": 3,
+  "title": "• a committee, which may be either a standing committee (e.g., the Finance"
+ },
+ {
+  "id": "one-member-of-the-senate-or-house-of-delegates",
+  "level": 3,
+  "title": "• one member of the Senate or House of Delegates."
+ },
+ {
+  "id": "examples-8",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "determination-of-the-place-and-time-an-amendment-will-be-off",
+  "level": 3,
+  "title": "Determination of the Place and Time an Amendment Will Be Offered"
+ },
+ {
+  "id": "in-general-20",
+  "level": 5,
+  "title": "In General"
+ },
+ {
+  "id": "amendments-to-be-offered-in-committee-including-delegation",
+  "level": 5,
+  "title": "Amendments to be Offered in Committee (Including Delegation)"
+ },
+ {
+  "id": "example-207",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-208",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-209",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "jointly-assigned-bills",
+  "level": 5,
+  "title": "Jointly Assigned Bills"
+ },
+ {
+  "id": "example-210",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "floor-amendments-2",
+  "level": 5,
+  "title": "Floor Amendments"
+ },
+ {
+  "id": "determination-of-the-status-of-the-document-to-be-amended",
+  "level": 3,
+  "title": "Determination of the Status of the Document to Be Amended"
+ },
+ {
+  "id": "on-second-reading-in-the-house-of-origin-on-second-reading-i",
+  "level": 3,
+  "title": "• on second reading in the house of origin; • on second reading in the opposite house;"
+ },
+ {
+  "id": "on-third-reading-in-the-opposite-house-if-the-bill-is-recall",
+  "level": 3,
+  "title": "• on third reading in the opposite house; • if the bill is recalled from the Governor’s desk (rare occurrence); and • if the bill is in a conference committee."
+ },
+ {
+  "id": "printings-of-a-bill",
+  "level": 3,
+  "title": "Printings of a Bill"
+ },
+ {
+  "id": "in-general-21",
+  "level": 5,
+  "title": "In General"
+ },
+ {
+  "id": "a-first-reading-file-bill-may-be-amended-on-second-reading-i",
+  "level": 3,
+  "title": "• A “first reading file bill” may be amended on second reading in the house of"
+ },
+ {
+  "id": "since-a-bill-may-not-be-amended-on-third-reading-in-the-hous",
+  "level": 3,
+  "title": "• Since a bill may not be amended on third reading in the house of origin, if the"
+ },
+ {
+  "id": "a-bill-may-be-amended-on-second-or-third-reading-in-the-oppo",
+  "level": 3,
+  "title": "• A bill may be amended on second or third reading in the opposite house. If a"
+ },
+ {
+  "id": "if-a-bill-is-passed-by-both-houses-is-sent-to-the-governor-a",
+  "level": 3,
+  "title": "• If a bill is passed by both houses, is sent to the Governor, and then is recalled,"
+ },
+ {
+  "id": "if-a-bill-is-passed-by-both-houses-was-amended-in-the-opposi",
+  "level": 3,
+  "title": "• If a bill is passed by both houses, was amended in the opposite house, neither"
+ },
+ {
+  "id": "stage-correct-reference",
+  "level": 5,
+  "title": "Stage Correct Reference"
+ },
+ {
+  "id": "stage-correct-reference-2",
+  "level": 5,
+  "title": "Stage Correct Reference"
+ },
+ {
+  "id": "second-printing-of-a-bill",
+  "level": 5,
+  "title": "Second Printing of a Bill"
+ },
+ {
+  "id": "example-211",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "committee-reprints-2",
+  "level": 3,
+  "title": "Committee Reprints"
+ },
+ {
+  "id": "example-212",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "status-of-an-amendment",
+  "level": 3,
+  "title": "Status of an Amendment"
+ },
+ {
+  "id": "amendment-headings",
+  "level": 3,
+  "title": "Amendment Headings"
+ },
+ {
+  "id": "amendments-to-bill-only",
+  "level": 5,
+  "title": "Amendments to Bill Only"
+ },
+ {
+  "id": "examples-9",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "amendments-to-previously-adopted-amendments-only",
+  "level": 5,
+  "title": "Amendments to Previously Adopted Amendments Only"
+ },
+ {
+  "id": "example-213",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "amendments-to-bill-and-previously-adopted-amendments",
+  "level": 5,
+  "title": "Amendments to Bill and Previously Adopted Amendments"
+ },
+ {
+  "id": "examples-10",
+  "level": 5,
+  "title": "Examples"
+ },
+ {
+  "id": "amendments-to-committee-amendments-before-adoption",
+  "level": 5,
+  "title": "Amendments to Committee Amendments Before Adoption"
+ },
+ {
+  "id": "example-214",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-215",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "substitute-committee-amendments",
+  "level": 5,
+  "title": "Substitute Committee Amendments"
+ },
+ {
+  "id": "example-216",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "amendments-to-bills-substantive-aspects-checking-the-title-a",
+  "level": 3,
+  "title": "Amendments to Bills − Substantive Aspects Checking the Title after Drafting a Change to the Body of a Bill"
+ },
+ {
+  "id": "maintenance-of-the-one-subject-requirement-of-the-constituti",
+  "level": 3,
+  "title": "Maintenance of the “One Subject” Requirement of the Constitution"
+ },
+ {
+  "id": "amendments-to-bills-technical-aspects-application-of-the-rul",
+  "level": 3,
+  "title": "Amendments to Bills − Technical Aspects Application of the Rules of Bill Drafting"
+ },
+ {
+  "id": "example-217",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "do-not-use-3",
+  "level": 5,
+  "title": "Do not use:"
+ },
+ {
+  "id": "example-218",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "do-not-use-4",
+  "level": 5,
+  "title": "Do not use:"
+ },
+ {
+  "id": "line-references",
+  "level": 3,
+  "title": "Line References"
+ },
+ {
+  "id": "flow-of-an-amendment",
+  "level": 3,
+  "title": "Flow of an Amendment"
+ },
+ {
+  "id": "directional-language",
+  "level": 3,
+  "title": "Directional Language"
+ },
+ {
+  "id": "example-219",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "multiple-changes-in-same-line",
+  "level": 3,
+  "title": "Multiple Changes in Same Line"
+ },
+ {
+  "id": "example-220",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "striking-words-within-quotation-marks",
+  "level": 3,
+  "title": "Striking Words within Quotation Marks"
+ },
+ {
+  "id": "strike-vs-use-of-brackets",
+  "level": 3,
+  "title": "“Strike” vs. Use of Brackets"
+ },
+ {
+  "id": "example-221",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "removing-the-language-from-the-bill-or-repealing-the-languag",
+  "level": 3,
+  "title": "• removing the language from the bill; or • repealing the language from the law."
+ },
+ {
+  "id": "strike-vs-delete",
+  "level": 3,
+  "title": "“Strike” vs. “Delete”"
+ },
+ {
+  "id": "location-of-insertions",
+  "level": 3,
+  "title": "Location of Insertions"
+ },
+ {
+  "id": "in-general-22",
+  "level": 5,
+  "title": "In General"
+ },
+ {
+  "id": "example-222",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-223",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-224",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "not",
+  "level": 5,
+  "title": "Not"
+ },
+ {
+  "id": "use-of-punctuation-as-a-point-of-reference",
+  "level": 5,
+  "title": "Use of Punctuation as a Point of Reference"
+ },
+ {
+  "id": "example-225",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "do-not-use-5",
+  "level": 5,
+  "title": "Do not use:"
+ },
+ {
+  "id": "punctuation",
+  "level": 3,
+  "title": "Punctuation"
+ },
+ {
+  "id": "example-226",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "do-not-use-6",
+  "level": 5,
+  "title": "Do not use:"
+ },
+ {
+  "id": "portion-of-word",
+  "level": 3,
+  "title": "Portion of Word"
+ },
+ {
+  "id": "example-227",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "do-not-use-7",
+  "level": 5,
+  "title": "Do not use:"
+ },
+ {
+  "id": "repetitive-words-reference-in-amendment",
+  "level": 3,
+  "title": "Repetitive Words − Reference in Amendment"
+ },
+ {
+  "id": "example-228",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-229",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "single-amendments",
+  "level": 3,
+  "title": "Single Amendments"
+ },
+ {
+  "id": "example-230",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "multiple-amendments",
+  "level": 3,
+  "title": "Multiple Amendments"
+ },
+ {
+  "id": "one-page-bills",
+  "level": 3,
+  "title": "One-page Bills"
+ },
+ {
+  "id": "example-231",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "types-of-amendments-amendment-to-insert-material-after-a-lin",
+  "level": 3,
+  "title": "Types of Amendments Amendment to Insert Material after a Line of Text"
+ },
+ {
+  "id": "example-232",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "amendment-to-strike-words-in-a-line",
+  "level": 3,
+  "title": "Amendment to Strike Words in a Line"
+ },
+ {
+  "id": "example-233",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "amendment-to-strike-a-long-sentence",
+  "level": 3,
+  "title": "Amendment to Strike a Long Sentence"
+ },
+ {
+  "id": "example-234",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-235",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-236",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "amendment-to-substantially-rewrite-a-bill",
+  "level": 3,
+  "title": "Amendment to Substantially Rewrite a Bill"
+ },
+ {
+  "id": "in-general-23",
+  "level": 5,
+  "title": "In General"
+ },
+ {
+  "id": "example-237",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-238",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "or",
+  "level": 5,
+  "title": "or"
+ },
+ {
+  "id": "amendment-that-changes-purpose-or-includes-constitutional-am",
+  "level": 5,
+  "title": "Amendment that Changes Purpose or Includes Constitutional Amendment"
+ },
+ {
+  "id": "amendment-to-add-or-alter-uncodified-language-in-a-bill",
+  "level": 3,
+  "title": "Amendment to Add or Alter Uncodified Language in a Bill"
+ },
+ {
+  "id": "amendment-to-insert-existing-section-of-codified-law-into-a-",
+  "level": 3,
+  "title": "Amendment to Insert Existing Section of Codified Law into a Bill"
+ },
+ {
+  "id": "example-239",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "amendment-to-return-to-the-law-words-in-a-bill-proposed-for-",
+  "level": 3,
+  "title": "Amendment to Return to the Law Words in a Bill Proposed for Repeal"
+ },
+ {
+  "id": "example-240",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-241",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "amendment-to-propose-the-repeal-of-existing-law-in-a-bill",
+  "level": 3,
+  "title": "Amendment to Propose the Repeal of Existing Law in a Bill"
+ },
+ {
+  "id": "example-242",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "amendment-to-make-multiple-but-identical-changes",
+  "level": 3,
+  "title": "Amendment to Make Multiple but Identical Changes"
+ },
+ {
+  "id": "example-243",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-244",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-245",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-246",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-247",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "amendment-to-make-multiple-but-different-changes-to-tabulati",
+  "level": 3,
+  "title": "Amendment to Make Multiple but Different Changes to Tabulation"
+ },
+ {
+  "id": "example-248",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "amendment-to-change-the-sponsorship-of-a-bill",
+  "level": 3,
+  "title": "Amendment to Change the Sponsorship of a Bill"
+ },
+ {
+  "id": "example-249",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-250",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-251",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-252",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-253",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "amendment-to-make-a-bill-an-emergency-measure",
+  "level": 3,
+  "title": "Amendment to Make a Bill an Emergency Measure"
+ },
+ {
+  "id": "include-directional-language-that-states",
+  "level": 3,
+  "title": "• include directional language that states:"
+ },
+ {
+  "id": "strike-the-effective-date-so-you-are-only-left-with-section-",
+  "level": 3,
+  "title": "• strike the effective date so you are only left with “SECTION __. AND BE IT"
+ },
+ {
+  "id": "include-directional-language-that-states-2",
+  "level": 3,
+  "title": "• include directional language that states:"
+ },
+ {
+  "id": "strike-the-standard-boilerplate-emergency-effective-date-lan",
+  "level": 3,
+  "title": "• strike the standard boilerplate emergency effective date language shown"
+ },
+ {
+  "id": "amendments-to-amendments",
+  "level": 3,
+  "title": "Amendments to Amendments"
+ },
+ {
+  "id": "order-of-amendments-to-amendments",
+  "level": 3,
+  "title": "Order of Amendments to Amendments"
+ },
+ {
+  "id": "directional-language-and-heading",
+  "level": 3,
+  "title": "Directional Language and Heading"
+ },
+ {
+  "id": "example-254",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-255",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "identifier-number-and-sponsor-name",
+  "level": 3,
+  "title": "Identifier Number and Sponsor Name"
+ },
+ {
+  "id": "example-256",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "counting-lines",
+  "level": 3,
+  "title": "Counting Lines"
+ },
+ {
+  "id": "example-257",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-258",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-259",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-260",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "striking-language-in-an-adopted-amendment",
+  "level": 3,
+  "title": "Striking Language in an Adopted Amendment"
+ },
+ {
+  "id": "example-261",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "striking-an-adopted-amendment-in-its-entirety",
+  "level": 3,
+  "title": "Striking an Adopted Amendment in its Entirety"
+ },
+ {
+  "id": "example-262",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-263",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "example-264",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "striking-punctuation-in-an-adopted-amendment",
+  "level": 3,
+  "title": "Striking Punctuation in an Adopted Amendment"
+ },
+ {
+  "id": "example-265",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "adding-language-to-an-adopted-amendment",
+  "level": 3,
+  "title": "Adding Language to an Adopted Amendment"
+ },
+ {
+  "id": "example-266",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "examples-of-amendments-to-amendments",
+  "level": 3,
+  "title": "Examples of Amendments to Amendments"
+ },
+ {
+  "id": "amendments-to-adopted-committee-amendments-example",
+  "level": 5,
+  "title": "Amendments to Adopted Committee Amendments Example"
+ },
+ {
+  "id": "example-267",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "amendment-to-an-adopted-floor-amendment-example",
+  "level": 5,
+  "title": "Amendment to an Adopted Floor Amendment Example"
+ },
+ {
+  "id": "substitute-committee-amendment-example",
+  "level": 5,
+  "title": "Substitute Committee Amendment Example"
+ },
+ {
+  "id": "1-due-and-unpaid-and-2-i-not-currently-under-appeal-or-ii",
+  "level": 5,
+  "title": "(1) DUE AND UNPAID; AND (2) (I) NOT CURRENTLY UNDER APPEAL; OR (II)"
+ },
+ {
+  "id": "amendment-to-both-an-adopted-committee-amendment-and-the-bil",
+  "level": 5,
+  "title": "Amendment to Both an Adopted Committee Amendment and the Bill Example"
+ },
+ {
+  "id": "amendment-to-committee-amendments-not-yet-adopted-example",
+  "level": 5,
+  "title": "Amendment to Committee Amendments Not Yet Adopted Example"
+ },
+ {
+  "id": "amendments-to-a-joint-resolution",
+  "level": 3,
+  "title": "Amendments to a Joint Resolution"
+ },
+ {
+  "id": "first-reading-file-joint-resolution-first-reading-file-joint",
+  "level": 3,
+  "title": "• (First Reading File Joint Resolution); • (First Reading File Joint Resolution – Second Printing); • (Third Reading File Joint Resolution); • (Third Reading File Joint Resolution – Second Printing); or • (Joint Resolution as Printed for Third Reading)."
+ },
+ {
+  "id": "administrative-preparation-of-amendments-amendment-office-st",
+  "level": 3,
+  "title": "Administrative Preparation of Amendments Amendment Office Staff"
+ },
+ {
+  "id": "recording-of-requests",
+  "level": 3,
+  "title": "Recording of Requests"
+ },
+ {
+  "id": "review",
+  "level": 3,
+  "title": "Review"
+ },
+ {
+  "id": "proofreading-stamps-of-approval",
+  "level": 3,
+  "title": "Proofreading; Stamps of Approval"
+ },
+ {
+  "id": "copying-of-amendments",
+  "level": 3,
+  "title": "Copying of Amendments"
+ },
+ {
+  "id": "delivery-of-amendments",
+  "level": 3,
+  "title": "Delivery of Amendments"
+ },
+ {
+  "id": "access-to-amendment-copies-and-reprints",
+  "level": 3,
+  "title": "Access to Amendment Copies and Reprints"
+ },
+ {
+  "id": "confidentiality-of-amendments",
+  "level": 3,
+  "title": "Confidentiality of Amendments"
+ },
+ {
+  "id": "other-documents-prepared-by-the-amendment-office-change-in-r",
+  "level": 3,
+  "title": "Other Documents Prepared by the Amendment Office Change in Rules of Senate or House"
+ },
+ {
+  "id": "example-268",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "petition-of-a-bill-from-committee",
+  "level": 3,
+  "title": "Petition of a Bill from Committee"
+ },
+ {
+  "id": "example-269",
+  "level": 5,
+  "title": "Example"
+ },
+ {
+  "id": "conference-committee-reports",
+  "level": 3,
+  "title": "Conference Committee Reports"
+ },
+ {
+  "id": "adopt-all-of-the-amendments-of-the-opposite-house-reject-all",
+  "level": 3,
+  "title": "• adopt all of the amendments of the opposite house; • reject all of the amendments of the opposite house; or • reject all of the amendments of the opposite house and adopt new conference"
+ },
+ {
+  "id": "amendments-to-the-annual-operating-and-capital-budget-bills",
+  "level": 3,
+  "title": "Amendments to the Annual Operating and Capital Budget Bills"
+ },
+ {
+  "id": "appendix",
+  "level": 2,
+  "title": "Appendix"
+ },
+ {
+  "id": "sample-annotated-code-section",
+  "level": 3,
+  "title": "Sample Annotated Code Section"
+ },
+ {
+  "id": "sample-bill-request-form",
+  "level": 3,
+  "title": "Sample Bill Request Form"
+ },
+ {
+  "id": "sample-reviewer-copy",
+  "level": 3,
+  "title": "Sample Reviewer Copy"
+ },
+ {
+  "id": "sample-lr",
+  "level": 3,
+  "title": "Sample LR"
+ },
+ {
+  "id": "sample-first-reading-file-bill",
+  "level": 3,
+  "title": "Sample First Reading File Bill"
+ },
+ {
+  "id": "sample-first-reading-file-bill-2",
+  "level": 3,
+  "title": "Sample First Reading File Bill"
+ },
+ {
+  "id": "sample-third-reading-file-bill",
+  "level": 3,
+  "title": "Sample Third Reading File Bill"
+ },
+ {
+  "id": "sample-third-reading-file-bill-2",
+  "level": 3,
+  "title": "Sample Third Reading File Bill"
+ },
+ {
+  "id": "sample-enrolled-bill",
+  "level": 3,
+  "title": "Sample Enrolled Bill"
+ },
+ {
+  "id": "sample-enrolled-bill-2",
+  "level": 3,
+  "title": "Sample Enrolled Bill"
+ },
+ {
+  "id": "sample-chapter-law",
+  "level": 3,
+  "title": "Sample Chapter Law"
+ },
+ {
+  "id": "sample-chapter-law-2",
+  "level": 3,
+  "title": "Sample Chapter Law"
+ },
+ {
+  "id": "sample-uncodified-bill",
+  "level": 3,
+  "title": "Sample Uncodified Bill"
+ },
+ {
+  "id": "sample-uncodified-bill-2",
+  "level": 3,
+  "title": "Sample Uncodified Bill"
+ },
+ {
+  "id": "sample-joint-resolution",
+  "level": 3,
+  "title": "Sample Joint Resolution"
+ },
+ {
+  "id": "sample-joint-resolution-2",
+  "level": 3,
+  "title": "Sample Joint Resolution"
+ },
+ {
+  "id": "sample-amendment-request-form",
+  "level": 3,
+  "title": "Sample Amendment Request Form"
+ },
+ {
+  "id": "sample-amendments-to-be-offered-in-committee",
+  "level": 3,
+  "title": "Sample Amendments to be Offered in Committee"
+ },
+ {
+  "id": "sample-amendments-to-bill-to-be-offered-on-the-floor",
+  "level": 3,
+  "title": "Sample Amendments to Bill to be Offered on the Floor"
+ },
+ {
+  "id": "sample-amendments-to-amendments-to-be-offered-on-the-floor",
+  "level": 3,
+  "title": "Sample Amendments to Amendments to be Offered on the Floor"
+ },
+ {
+  "id": "sample-amendments-to-amendments-to-be-offered-on-the-floor-2",
+  "level": 3,
+  "title": "Sample Amendments to Amendments to be Offered on the Floor"
+ },
+ {
+  "id": "sample-amendments-to-bill-and-amendments-to-be-offered-on-th",
+  "level": 3,
+  "title": "Sample Amendments to Bill and Amendments to be Offered on the Floor"
+ },
+ {
+  "id": "sample-amendments-to-bill-and-amendments-to-be-offered-on-th-2",
+  "level": 3,
+  "title": "Sample Amendments to Bill and Amendments to be Offered on the Floor"
+ },
+ {
+  "id": "sample-conference-committee-report-cover-sheet",
+  "level": 3,
+  "title": "Sample Conference Committee Report Cover Sheet"
+ },
+ {
+  "id": "file-codes-2027-session",
+  "level": 3,
+  "title": "File Codes – 2027 Session"
+ },
+ {
+  "id": "file-codes-2027-session-2",
+  "level": 3,
+  "title": "File Codes – 2027 Session"
+ },
+ {
+  "id": "file-codes-2027-session-3",
+  "level": 3,
+  "title": "File Codes – 2027 Session"
+ },
+ {
+  "id": "file-codes-2027-session-4",
+  "level": 3,
+  "title": "File Codes – 2027 Session"
+ },
+ {
+  "id": "file-codes-2027-session-5",
+  "level": 3,
+  "title": "File Codes – 2027 Session"
+ },
+ {
+  "id": "synopsis-code-volume-abbreviations",
+  "level": 3,
+  "title": "Synopsis Code Volume Abbreviations"
+ },
+ {
+  "id": "constitutional-statutory-and-rule-provisions-related-to-legi",
+  "level": 3,
+  "title": "Constitutional, Statutory, and Rule Provisions Related to Legislative Drafting"
+ },
+ {
+  "id": "maryland-constitution",
+  "level": 5,
+  "title": "Maryland Constitution"
+ },
+ {
+  "id": "constitutional-statutory-and-rule-provisions-related-to-legi-2",
+  "level": 3,
+  "title": "Constitutional, Statutory, and Rule Provisions Related to Legislative Drafting"
+ },
+ {
+  "id": "sources",
+  "level": 2,
+  "title": "Sources"
+ },
+ {
+  "id": "legislative-drafting-resources",
+  "level": 3,
+  "title": "Legislative Drafting Resources"
+ },
+ {
+  "id": "websites",
+  "level": 3,
+  "title": "Websites"
+ },
+ {
+  "id": "books",
+  "level": 3,
+  "title": "Books"
+ },
+ {
+  "id": "law-review-articles",
+  "level": 3,
+  "title": "Law Review Articles"
+ },
+ {
+  "id": "other-articles",
+  "level": 3,
+  "title": "Other Articles"
+ },
+ {
+  "id": "index",
+  "level": 2,
+  "title": "Index"
+ },
+ {
+  "id": "abrogation-see-termination-provisions-administrative-procedu",
+  "level": 3,
+  "title": "Abrogation. See Termination Provisions Administrative Procedures"
+ },
+ {
+  "id": "alcoholic-beverages-laws",
+  "level": 3,
+  "title": "Alcoholic Beverages Laws"
+ },
+ {
+  "id": "amendments-to-bills-and-other-documents",
+  "level": 3,
+  "title": "Amendments to Bills and Other Documents"
+ },
+ {
+  "id": "amendments-to-the-maryland-constitution",
+  "level": 3,
+  "title": "Amendments to the Maryland Constitution"
+ },
+ {
+  "id": "annotated-code",
+  "level": 3,
+  "title": "Annotated Code"
+ },
+ {
+  "id": "applicability-2",
+  "level": 3,
+  "title": "Applicability"
+ },
+ {
+  "id": "article-line",
+  "level": 3,
+  "title": "Article Line"
+ },
+ {
+  "id": "attorney-general-s-letters-opinions",
+  "level": 3,
+  "title": "Attorney General’s Letters, Opinions."
+ },
+ {
+  "id": "audits-2",
+  "level": 3,
+  "title": "Audits"
+ },
+ {
+  "id": "baltimore-city-2",
+  "level": 3,
+  "title": "Baltimore City"
+ },
+ {
+  "id": "bills",
+  "level": 3,
+  "title": "Bills"
+ },
+ {
+  "id": "bill-numbers",
+  "level": 3,
+  "title": "Bill Numbers"
+ },
+ {
+  "id": "boards-and-commissions",
+  "level": 3,
+  "title": "Boards and Commissions"
+ },
+ {
+  "id": "bond-bills",
+  "level": 3,
+  "title": "Bond Bills"
+ },
+ {
+  "id": "budget-bills",
+  "level": 3,
+  "title": "Budget Bills"
+ },
+ {
+  "id": "captions",
+  "level": 3,
+  "title": "Captions"
+ },
+ {
+  "id": "catchall-provision-in-purpose-paragraph-56",
+  "level": 5,
+  "title": "Catchall Provision in Purpose Paragraph ............................................ 56"
+ },
+ {
+  "id": "catchlines",
+  "level": 3,
+  "title": "Catchlines"
+ },
+ {
+  "id": "charter-home-rule-counties-2",
+  "level": 3,
+  "title": "Charter Home Rule Counties"
+ },
+ {
+  "id": "charters",
+  "level": 3,
+  "title": "Charters"
+ },
+ {
+  "id": "code-home-rule-counties-2",
+  "level": 3,
+  "title": "Code Home Rule Counties"
+ },
+ {
+  "id": "code-of-maryland-regulations-comar-as-source-325",
+  "level": 4,
+  "title": "Code of Maryland Regulations (COMAR), as Source ..................... 325"
+ },
+ {
+  "id": "code-of-public-local-laws-2",
+  "level": 3,
+  "title": "Code of Public Local Laws"
+ },
+ {
+  "id": "commercial-gaming-referendum-provisions-207-208",
+  "level": 4,
+  "title": "Commercial Gaming, Referendum Provisions ........................... 207-208"
+ },
+ {
+  "id": "commission-counties-2",
+  "level": 3,
+  "title": "Commission Counties"
+ },
+ {
+  "id": "committees",
+  "level": 3,
+  "title": "Committees"
+ },
+ {
+  "id": "compacts-see-interstate-compacts-concurrent-sentence-114",
+  "level": 3,
+  "title": "Compacts. See Interstate Compacts Concurrent Sentence……………………………………………………...114"
+ },
+ {
+  "id": "conference-committees",
+  "level": 3,
+  "title": "Conference Committees"
+ },
+ {
+  "id": "confidentiality",
+  "level": 3,
+  "title": "Confidentiality"
+ },
+ {
+  "id": "constitution-maryland",
+  "level": 3,
+  "title": "Constitution, Maryland"
+ },
+ {
+  "id": "constitution-of-the-united-states",
+  "level": 3,
+  "title": "Constitution of the United States"
+ },
+ {
+  "id": "construction",
+  "level": 3,
+  "title": "Construction"
+ },
+ {
+  "id": "contingent-bills",
+  "level": 3,
+  "title": "Contingent Bills"
+ },
+ {
+  "id": "contract-clause-constitution-of-the-united-states-181",
+  "level": 4,
+  "title": "Contract Clause, Constitution of the United States ....................... 181"
+ },
+ {
+  "id": "counties",
+  "level": 3,
+  "title": "Counties"
+ },
+ {
+  "id": "county-delegations",
+  "level": 3,
+  "title": "County Delegations"
+ },
+ {
+  "id": "criminal-penalties-and-sentencing-2",
+  "level": 3,
+  "title": "Criminal Penalties and Sentencing"
+ },
+ {
+  "id": "cross-filed-bills",
+  "level": 3,
+  "title": "Cross-filed Bills"
+ },
+ {
+  "id": "declaration-of-rights",
+  "level": 3,
+  "title": "Declaration of Rights"
+ },
+ {
+  "id": "delayed-effective-date-2",
+  "level": 3,
+  "title": "Delayed Effective Date"
+ },
+ {
+  "id": "delegations-county-see-county-delegations",
+  "level": 3,
+  "title": "Delegations, County. See County Delegations"
+ },
+ {
+  "id": "double-drafting-2",
+  "level": 3,
+  "title": "Double Drafting"
+ },
+ {
+  "id": "effective-dates",
+  "level": 3,
+  "title": "Effective Dates"
+ },
+ {
+  "id": "emergency-bills",
+  "level": 3,
+  "title": "Emergency Bills"
+ },
+ {
+  "id": "enacting-clauses-2",
+  "level": 3,
+  "title": "Enacting Clauses"
+ },
+ {
+  "id": "enrolled-bills",
+  "level": 3,
+  "title": "Enrolled Bills"
+ },
+ {
+  "id": "equal-protection",
+  "level": 3,
+  "title": "Equal Protection"
+ },
+ {
+  "id": "file-codes-2",
+  "level": 3,
+  "title": "File Codes"
+ },
+ {
+  "id": "fifth-line-2",
+  "level": 3,
+  "title": "Fifth Line"
+ },
+ {
+  "id": "first-reading",
+  "level": 3,
+  "title": "First Reading"
+ },
+ {
+  "id": "floor-amendments-3",
+  "level": 3,
+  "title": "Floor Amendments"
+ },
+ {
+  "id": "function-paragraphs-4",
+  "level": 3,
+  "title": "Function Paragraphs"
+ },
+ {
+  "id": "general-assembly",
+  "level": 3,
+  "title": "General Assembly"
+ },
+ {
+  "id": "identical-bills",
+  "level": 3,
+  "title": "Identical Bills"
+ },
+ {
+  "id": "indexes",
+  "level": 3,
+  "title": "Indexes"
+ },
+ {
+  "id": "interstate-compacts",
+  "level": 3,
+  "title": "Interstate Compacts"
+ },
+ {
+  "id": "joint-resolutions",
+  "level": 3,
+  "title": "Joint Resolutions"
+ },
+ {
+  "id": "legislative-intent",
+  "level": 3,
+  "title": "Legislative Intent"
+ },
+ {
+  "id": "legislative-services-department-of",
+  "level": 3,
+  "title": "Legislative Services, Department of"
+ },
+ {
+  "id": "local-laws-see-also-counties-municipalities",
+  "level": 3,
+  "title": "Local Laws (See also: Counties; Municipalities)"
+ },
+ {
+  "id": "mandatory-funding-provisions",
+  "level": 3,
+  "title": "Mandatory Funding Provisions"
+ },
+ {
+  "id": "maryland-program-evaluation-act-sunset-law-111-112",
+  "level": 4,
+  "title": "Maryland Program Evaluation Act (“Sunset Law”) ................. 111-112"
+ },
+ {
+  "id": "maryland-style-manual-for-statutory-law-37",
+  "level": 5,
+  "title": "Maryland Style Manual for Statutory Law ........................................... 37"
+ },
+ {
+  "id": "model-laws",
+  "level": 3,
+  "title": "Model Laws"
+ },
+ {
+  "id": "municipalities-2",
+  "level": 3,
+  "title": "Municipalities"
+ },
+ {
+  "id": "nonstandard-enacting-clauses-3",
+  "level": 3,
+  "title": "Nonstandard Enacting Clauses"
+ },
+ {
+  "id": "one-subject-rule-2",
+  "level": 3,
+  "title": "“One Subject” Rule"
+ },
+ {
+  "id": "online-research-as-bill-drafting-source-35-36",
+  "level": 5,
+  "title": "Online Research as Bill Drafting Source .......................................... 35-36"
+ },
+ {
+  "id": "penalties-see-civil-penalties-criminal-penalties",
+  "level": 3,
+  "title": "Penalties. See Civil Penalties; Criminal Penalties"
+ },
+ {
+  "id": "pre-june-1-effective-dates-2",
+  "level": 3,
+  "title": "Pre-June 1 Effective Dates"
+ },
+ {
+  "id": "printings-of-bills",
+  "level": 3,
+  "title": "Printings of Bills"
+ },
+ {
+  "id": "prior-introductions",
+  "level": 3,
+  "title": "Prior Introductions"
+ },
+ {
+  "id": "public-general-laws",
+  "level": 3,
+  "title": "Public General Laws"
+ },
+ {
+  "id": "public-local-laws",
+  "level": 3,
+  "title": "Public Local Laws"
+ },
+ {
+  "id": "purpose-paragraph-2",
+  "level": 3,
+  "title": "Purpose Paragraph"
+ },
+ {
+  "id": "referendum",
+  "level": 3,
+  "title": "Referendum"
+ },
+ {
+  "id": "renumbering-5",
+  "level": 3,
+  "title": "Renumbering"
+ },
+ {
+  "id": "reporting-requirements",
+  "level": 3,
+  "title": "Reporting Requirements"
+ },
+ {
+  "id": "reserved-sections",
+  "level": 3,
+  "title": "Reserved Sections"
+ },
+ {
+  "id": "resolutions-2",
+  "level": 3,
+  "title": "Resolutions"
+ },
+ {
+  "id": "resolved-clauses-2",
+  "level": 3,
+  "title": "“RESOLVED” Clauses"
+ },
+ {
+  "id": "rules-of-house-and-senate",
+  "level": 3,
+  "title": "Rules of House and Senate"
+ },
+ {
+  "id": "rules-of-interpretation",
+  "level": 3,
+  "title": "Rules of Interpretation"
+ },
+ {
+  "id": "salary-increase-or-decrease-not-to-affect-incumbent-186-191-",
+  "level": 3,
+  "title": "Salary Increase or Decrease not to Affect Incumbent ............ 186-191 Samples"
+ },
+ {
+  "id": "second-reading-3",
+  "level": 3,
+  "title": "Second Reading"
+ },
+ {
+  "id": "session-laws",
+  "level": 3,
+  "title": "Session Laws"
+ },
+ {
+  "id": "source-law-line",
+  "level": 3,
+  "title": "Source Law Line"
+ },
+ {
+  "id": "special-funds",
+  "level": 3,
+  "title": "Special Funds"
+ },
+ {
+  "id": "special-sections-3",
+  "level": 3,
+  "title": "Special Sections"
+ },
+ {
+  "id": "special-sessions-2",
+  "level": 3,
+  "title": "Special Sessions"
+ },
+ {
+  "id": "sponsors-2",
+  "level": 3,
+  "title": "Sponsors"
+ },
+ {
+  "id": "standing-committees",
+  "level": 3,
+  "title": "Standing Committees"
+ },
+ {
+  "id": "statewide-referendum",
+  "level": 3,
+  "title": "Statewide Referendum"
+ },
+ {
+  "id": "substitute-committee-amendments-2",
+  "level": 3,
+  "title": "Substitute Committee Amendments"
+ },
+ {
+  "id": "subtitle",
+  "level": 3,
+  "title": "Subtitle"
+ },
+ {
+  "id": "sunset-law-maryland-program-evaluation-act-111-112-sunset-pr",
+  "level": 4,
+  "title": "“Sunset Law” (Maryland Program Evaluation Act) ................. 111-112 “Sunset” Provision (Termination Provision) .............................. 221-224"
+ },
+ {
+  "id": "synopses",
+  "level": 3,
+  "title": "Synopses"
+ },
+ {
+  "id": "tabulation-2",
+  "level": 3,
+  "title": "Tabulation"
+ },
+ {
+  "id": "task-force-establishing-a",
+  "level": 3,
+  "title": "Task Force, Establishing a"
+ },
+ {
+  "id": "termination-provisions",
+  "level": 3,
+  "title": "Termination Provisions"
+ },
+ {
+  "id": "third-reading-3",
+  "level": 3,
+  "title": "Third Reading"
+ },
+ {
+  "id": "titles",
+  "level": 3,
+  "title": "Titles"
+ },
+ {
+  "id": "uncodified-provisions",
+  "level": 3,
+  "title": "Uncodified Provisions"
+ },
+ {
+  "id": "uniform-laws",
+  "level": 3,
+  "title": "Uniform Laws"
+ },
+ {
+  "id": "vetoes",
+  "level": 3,
+  "title": "Vetoes"
+ },
+ {
+  "id": "volume-and-supplement-citation-line",
+  "level": 3,
+  "title": "Volume and Supplement Citation Line"
+ }
+]

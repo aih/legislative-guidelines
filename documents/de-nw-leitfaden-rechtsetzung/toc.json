@@ -1,0 +1,237 @@
+[
+ {
+  "id": "leitfaden-rechtsetzung-in-nordrhein-westfalen",
+  "level": 3,
+  "title": "Leitfaden „Rechtsetzung in Nordrhein-Westfalen“"
+ },
+ {
+  "id": "inhaltsverzeichnis",
+  "level": 3,
+  "title": "Inhaltsverzeichnis"
+ },
+ {
+  "id": "vorwort",
+  "level": 2,
+  "title": "Vorwort"
+ },
+ {
+  "id": "1-allgemeines",
+  "level": 2,
+  "title": "1. Allgemeines"
+ },
+ {
+  "id": "2-leitprinzipien-und-weitere-prinzipien-bei-der-rechtsetzung",
+  "level": 2,
+  "title": "2. Leitprinzipien und weitere Prinzipien bei der Rechtsetzung"
+ },
+ {
+  "id": "2-1-gender-mainstreaming",
+  "level": 2,
+  "title": "2.1 Gender Mainstreaming"
+ },
+ {
+  "id": "2-2-vereinbarkeit-mit-der-un-behindertenrechtskonvention",
+  "level": 2,
+  "title": "2.2 Vereinbarkeit mit der UN-Behindertenrechtskonvention"
+ },
+ {
+  "id": "2-3-vereinbarkeit-mit-dem-gesetz-zur-förderung-der-gesellsch",
+  "level": 2,
+  "title": "2.3 Vereinbarkeit mit dem Gesetz zur Förderung der gesellschaftlichen Teilhabe und Integration in Nordrhein-Westfalen (Teilhabe- und Integrationsgesetz)"
+ },
+ {
+  "id": "2-4-nachhaltigkeit",
+  "level": 2,
+  "title": "2.4 Nachhaltigkeit"
+ },
+ {
+  "id": "2-5-mittelstandsverträglichkeit",
+  "level": 2,
+  "title": "2.5 Mittelstandsverträglichkeit"
+ },
+ {
+  "id": "2-6-e-government-digitalisierung",
+  "level": 2,
+  "title": "2.6 E-Government / Digitalisierung"
+ },
+ {
+  "id": "3-formelle-kriterien",
+  "level": 2,
+  "title": "3. Formelle Kriterien"
+ },
+ {
+  "id": "3-1-zusammenarbeit-und-beteiligung",
+  "level": 2,
+  "title": "3.1 Zusammenarbeit und Beteiligung"
+ },
+ {
+  "id": "3-2-aufbau-von-gesetzesvorlagen",
+  "level": 2,
+  "title": "3.2 Aufbau von Gesetzesvorlagen"
+ },
+ {
+  "id": "3-3-ressortabstimmung-und-kabinettberatung",
+  "level": 2,
+  "title": "3.3 Ressortabstimmung und Kabinettberatung"
+ },
+ {
+  "id": "4-inhaltliche-kriterien",
+  "level": 2,
+  "title": "4. Inhaltliche Kriterien"
+ },
+ {
+  "id": "4-1-fragestellungen-im-erarbeitungsprozess-einer-rechtsnorm",
+  "level": 2,
+  "title": "4.1 Fragestellungen im Erarbeitungsprozess einer Rechtsnorm"
+ },
+ {
+  "id": "4-2-gesetzesbegründung",
+  "level": 2,
+  "title": "4.2 Gesetzesbegründung"
+ },
+ {
+  "id": "4-3-rechtssprache",
+  "level": 2,
+  "title": "4.3 Rechtssprache"
+ },
+ {
+  "id": "4-4-finanzfolgenabschätzung",
+  "level": 2,
+  "title": "4.4 Finanzfolgenabschätzung"
+ },
+ {
+  "id": "4-4-1-grundlagen-der-finanzfolgenabschätzung",
+  "level": 2,
+  "title": "4.4.1 Grundlagen der Finanzfolgenabschätzung"
+ },
+ {
+  "id": "4-4-2-verfahren-der-finanzfolgenabschätzung",
+  "level": 2,
+  "title": "4.4.2 Verfahren der Finanzfolgenabschätzung"
+ },
+ {
+  "id": "4-4-3-die-vorausschauende-finanzfolgenabschätzung",
+  "level": 2,
+  "title": "4.4.3 Die vorausschauende Finanzfolgenabschätzung"
+ },
+ {
+  "id": "4-4-4-die-begleitende-finanzfolgenabschätzung",
+  "level": 2,
+  "title": "4.4.4 Die begleitende Finanzfolgenabschätzung"
+ },
+ {
+  "id": "4-4-5-methoden-und-instrumente-für-eine-finanzfolgenabschätz",
+  "level": 2,
+  "title": "4.4.5 Methoden und Instrumente für eine Finanzfolgenabschätzung"
+ },
+ {
+  "id": "pauschalierte-aufwandsätze",
+  "level": 3,
+  "title": "Pauschalierte Aufwandsätze"
+ },
+ {
+  "id": "normadressat-wirtschaft",
+  "level": 3,
+  "title": "Normadressat Wirtschaft:"
+ },
+ {
+  "id": "normadressat-öffentliche-verwaltung",
+  "level": 3,
+  "title": "Normadressat Öffentliche Verwaltung:"
+ },
+ {
+  "id": "normadressat-privatpersonen",
+  "level": 3,
+  "title": "Normadressat Privatpersonen:"
+ },
+ {
+  "id": "ermittlung-der-aufwandshöhe",
+  "level": 3,
+  "title": "Ermittlung der Aufwandshöhe:"
+ },
+ {
+  "id": "erfüllungsaufwand",
+  "level": 3,
+  "title": "Erfüllungsaufwand:"
+ },
+ {
+  "id": "betriebsaufwand",
+  "level": 3,
+  "title": "Betriebsaufwand:"
+ },
+ {
+  "id": "4-4-6-dokumentation-der-finanzfolgenabschätzung",
+  "level": 2,
+  "title": "4.4.6 Dokumentation der Finanzfolgenabschätzung"
+ },
+ {
+  "id": "4-5-geschlechterdifferenzierte-folgenabschätzung-gender-main",
+  "level": 2,
+  "title": "4.5 Geschlechterdifferenzierte Folgenabschätzung (Gender Mainstreaming)"
+ },
+ {
+  "id": "4-6-wahrung-der-belange-von-menschen-mit-behinderungen-disab",
+  "level": 2,
+  "title": "4.6 Wahrung der Belange von Menschen mit Behinderungen (Disability Mainstreaming)"
+ },
+ {
+  "id": "4-7-nachhaltigkeitsprüfung",
+  "level": 2,
+  "title": "4.7 Nachhaltigkeitsprüfung"
+ },
+ {
+  "id": "4-8-klimaschutz",
+  "level": 2,
+  "title": "4.8 Klimaschutz"
+ },
+ {
+  "id": "4-9-e-government-digitalisierung",
+  "level": 2,
+  "title": "4.9 E-Government / Digitalisierung"
+ },
+ {
+  "id": "4-10-das-konnexitätsausführungsgesetz-konnexag",
+  "level": 2,
+  "title": "4.10 Das Konnexitätsausführungsgesetz (KonnexAG)"
+ },
+ {
+  "id": "4-11-das-standardkostenmodell-als-sonderfall",
+  "level": 2,
+  "title": "4.11 Das Standardkostenmodell als Sonderfall"
+ },
+ {
+  "id": "5-befristung",
+  "level": 2,
+  "title": "5. Befristung"
+ },
+ {
+  "id": "6-ressortübergreifende-normprüfung",
+  "level": 2,
+  "title": "6. Ressortübergreifende Normprüfung"
+ },
+ {
+  "id": "6-1-allgemeines",
+  "level": 2,
+  "title": "6.1 Allgemeines"
+ },
+ {
+  "id": "6-2-normprüfbögen",
+  "level": 2,
+  "title": "6.2 Normprüfbögen"
+ },
+ {
+  "id": "weitere-arbeitshilfen",
+  "level": 3,
+  "title": "Weitere Arbeitshilfen"
+ },
+ {
+  "id": "anhang-ii",
+  "level": 2,
+  "title": "Anhang II"
+ },
+ {
+  "id": "öffentliche-und-weiterführende-informationsangebote",
+  "level": 3,
+  "title": "Öffentliche und weiterführende Informationsangebote"
+ }
+]

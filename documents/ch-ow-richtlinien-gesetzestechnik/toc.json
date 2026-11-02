@@ -1,0 +1,562 @@
+[
+ {
+  "id": "richtlinien-über-die-erarbeitung-und-gestaltung-kantonaler-e",
+  "level": 2,
+  "title": "Richtlinien über die Erarbeitung und Gestaltung kantonaler Erlasse (Richtlinien zur Gesetzestechnik)"
+ },
+ {
+  "id": "inhaltsverzeichnis",
+  "level": 3,
+  "title": "Inhaltsverzeichnis"
+ },
+ {
+  "id": "i-die-kantonalen-gesetzessammlungen-4",
+  "level": 4,
+  "title": "I. Die kantonalen Gesetzessammlungen ............................................................................. 4"
+ },
+ {
+  "id": "iv-normative-und-steuernde-funktion-des-erlasses-8",
+  "level": 4,
+  "title": "IV. Normative und steuernde Funktion des Erlasses ........................................................... 8"
+ },
+ {
+  "id": "viii-änderung-bestehender-erlasse-nachträge-26",
+  "level": 4,
+  "title": "VIII. Änderung bestehender Erlasse (Nachträge) .................................................................. 26"
+ },
+ {
+  "id": "ix-darstellung-von-nachträgen-im-amtsblatt-35",
+  "level": 4,
+  "title": "IX. Darstellung von Nachträgen im Amtsblatt ..................................................................... 35"
+ },
+ {
+  "id": "xii-darstellungen-im-laufe-des-rechtsetzungsverfahrens-38",
+  "level": 4,
+  "title": "XII. Darstellungen im Laufe des Rechtsetzungsverfahrens ................................................ 38"
+ },
+ {
+  "id": "xiv-anhaltspunkte-zum-verfahren-und-zeitbedarf-für-die-recht",
+  "level": 4,
+  "title": "XIV. Anhaltspunkte zum Verfahren und Zeitbedarf für die Rechtssetzung ........................ 40"
+ },
+ {
+  "id": "i-die-kantonalen-gesetzessammlungen",
+  "level": 3,
+  "title": "I. Die kantonalen Gesetzessammlungen"
+ },
+ {
+  "id": "ii-erlassformen",
+  "level": 3,
+  "title": "II. Erlassformen"
+ },
+ {
+  "id": "erlassstufe-zuständigkeit-grundlagen",
+  "level": 4,
+  "title": "Erlassstufe Zuständigkeit Grundlagen"
+ },
+ {
+  "id": "gesetz",
+  "level": 4,
+  "title": "Gesetz"
+ },
+ {
+  "id": "verordnung",
+  "level": 4,
+  "title": "Verordnung"
+ },
+ {
+  "id": "ausführungsbestimmungen",
+  "level": 4,
+  "title": "Ausführungsbestimmungen"
+ },
+ {
+  "id": "sonderfälle",
+  "level": 4,
+  "title": "Sonderfälle"
+ },
+ {
+  "id": "gesetzesdelegation",
+  "level": 4,
+  "title": "Gesetzesdelegation"
+ },
+ {
+  "id": "iii-verfahrensablauf",
+  "level": 3,
+  "title": "III. Verfahrensablauf"
+ },
+ {
+  "id": "analyse-des-gesetzgebungsauftrags",
+  "level": 4,
+  "title": "Analyse des Gesetzgebungsauftrags"
+ },
+ {
+  "id": "feststellen-des-ist-zustands",
+  "level": 4,
+  "title": "Feststellen des Ist-Zustands"
+ },
+ {
+  "id": "ausarbeiten-eines-konzepts",
+  "level": 4,
+  "title": "Ausarbeiten eines Konzepts"
+ },
+ {
+  "id": "iv-normative-und-steuernde-funktion-des-erlasses",
+  "level": 3,
+  "title": "IV. Normative und steuernde Funktion des Erlasses"
+ },
+ {
+  "id": "v-aufbau-von-erlassen",
+  "level": 3,
+  "title": "V. Aufbau von Erlassen"
+ },
+ {
+  "id": "vi-sprache",
+  "level": 3,
+  "title": "VI. Sprache"
+ },
+ {
+  "id": "vii-gestaltung-neuer-erlasse",
+  "level": 3,
+  "title": "VII. Gestaltung neuer Erlasse"
+ },
+ {
+  "id": "allgemeines",
+  "level": 4,
+  "title": "Allgemeines"
+ },
+ {
+  "id": "gesetz-über-den-ausbau-des-kantonsspitals",
+  "level": 2,
+  "title": "Gesetz über den Ausbau des Kantonsspitals"
+ },
+ {
+  "id": "gesundheitsgesetz",
+  "level": 2,
+  "title": "Gesundheitsgesetz"
+ },
+ {
+  "id": "einführungsgesetz-zum-tierseuchengesetz",
+  "level": 2,
+  "title": "Einführungsgesetz zum Tierseuchengesetz"
+ },
+ {
+  "id": "kurztitel",
+  "level": 4,
+  "title": "Kurztitel"
+ },
+ {
+  "id": "gesetz-über-die-ausübung-der-politischen-rechte-abstimmungsg",
+  "level": 2,
+  "title": "Gesetz über die Ausübung der politischen Rechte (Abstimmungsgesetz)"
+ },
+ {
+  "id": "gesetz-über-den-erwerb-und-den-verlust-des-kantons-und-gemei",
+  "level": 2,
+  "title": "Gesetz über den Erwerb und den Verlust des Kantons- und Gemeindebürgerrechts (Bürgerrechtsgesetz)"
+ },
+ {
+  "id": "staatsverwaltungsgesetz",
+  "level": 2,
+  "title": "Staatsverwaltungsgesetz"
+ },
+ {
+  "id": "kantonsverfassung-ergänzung-der-unvereinbarkeitsregelung",
+  "level": 2,
+  "title": "Kantonsverfassung (Ergänzung der Unvereinbarkeitsregelung)"
+ },
+ {
+  "id": "bei-neuen-erlassen-des-kantonalen-rechts",
+  "level": 4,
+  "title": "Bei neuen Erlassen des kantonalen Rechts"
+ },
+ {
+  "id": "gesetz-über-den-bürgschaftsfonds-obwalden",
+  "level": 2,
+  "title": "Gesetz über den Bürgschaftsfonds Obwalden"
+ },
+ {
+  "id": "personalverordnung",
+  "level": 2,
+  "title": "Personalverordnung"
+ },
+ {
+  "id": "ausführungsbestimmungen-zum-allgemeinen-gebührengesetz",
+  "level": 2,
+  "title": "Ausführungsbestimmungen zum Allgemeinen Gebührengesetz"
+ },
+ {
+  "id": "bei-neuen-ausführungserlassen-zu-bundesrecht",
+  "level": 4,
+  "title": "Bei neuen Ausführungserlassen zu Bundesrecht"
+ },
+ {
+  "id": "verordnung-betreffend-die-einführung-des-kindes-und-erwach-s",
+  "level": 2,
+  "title": "Verordnung betreffend die Einführung des Kindes- und Erwach- senenschutzrechts"
+ },
+ {
+  "id": "ausführungsbestimmungen-über-die-arbeitsleistung-infolge-mil",
+  "level": 2,
+  "title": "Ausführungsbestimmungen über die Arbeitsleistung infolge Militärdienstverwei- gerung"
+ },
+ {
+  "id": "kennzeichnung-interpunktion",
+  "level": 4,
+  "title": "Kennzeichnung Interpunktion"
+ },
+ {
+  "id": "bei-verweisungen-auf-andere-artikel-des-erlasses-oder-artike",
+  "level": 4,
+  "title": "Bei Verweisungen auf andere Artikel des Erlasses oder Artikel eines anderen Erlasses"
+ },
+ {
+  "id": "der-erlass-gdb-211-61-verordnung-betreffend-die-einführung-d",
+  "level": 4,
+  "title": "Der Erlass GDB 211.61 (Verordnung betreffend die Einführung des Kin- des- und Erwachsenenschutzrechts vom 3. Mai 2012) (Stand"
+ },
+ {
+  "id": "der-erlass-gdb-710-111-ausführungsbestimmungen-über-die-verf",
+  "level": 4,
+  "title": "Der Erlass GDB 710.111 (Ausführungsbestimmungen über die Verfah- renskoordination im Baurecht vom 17. Oktober 2006) (Stand"
+ },
+ {
+  "id": "der-erlass-gdb-410-51-schulgesundheitsverordnung-vom-29-juni",
+  "level": 4,
+  "title": "Der Erlass GDB 410.51 (Schulgesundheitsverordnung vom 29. Juni 2001)"
+ },
+ {
+  "id": "der-erlass-gdb-410-511-ausführungsbestimmungen-über-die-tari",
+  "level": 4,
+  "title": "Der Erlass GDB 410.511 (Ausführungsbestimmungen über die Tarife und Taxen gemäss Schulgesundheitsverordnung vom 9. Oktober 2001) wird"
+ },
+ {
+  "id": "der-erlass-gdb-810-1-gesundheitsgesetz-vom-20-oktober-1991-w",
+  "level": 4,
+  "title": "Der Erlass GDB 810.1 (Gesundheitsgesetz vom 20. Oktober 1991) wird"
+ },
+ {
+  "id": "inkrafttreten",
+  "level": 4,
+  "title": "Inkrafttreten"
+ },
+ {
+  "id": "gestaffeltes-inkrafttreten",
+  "level": 4,
+  "title": "Gestaffeltes Inkrafttreten"
+ },
+ {
+  "id": "genehmigungsvorbehalt-und-mitteilungspflicht",
+  "level": 4,
+  "title": "Genehmigungsvorbehalt und Mitteilungspflicht"
+ },
+ {
+  "id": "referendum",
+  "level": 4,
+  "title": "Referendum"
+ },
+ {
+  "id": "behördenreferendum",
+  "level": 4,
+  "title": "Behördenreferendum"
+ },
+ {
+  "id": "veröffentlichung",
+  "level": 4,
+  "title": "Veröffentlichung"
+ },
+ {
+  "id": "datum-und-unterschriften",
+  "level": 4,
+  "title": "Datum und Unterschriften"
+ },
+ {
+  "id": "art-6-abs-3",
+  "level": 4,
+  "title": "Art. 6 Abs. 3"
+ },
+ {
+  "id": "anhang-1",
+  "level": 2,
+  "title": "Anhang 1"
+ },
+ {
+  "id": "ausserkantonale-ausbildungen-und-höchststipendien",
+  "level": 4,
+  "title": "Ausserkantonale Ausbildungen und Höchststipendien"
+ },
+ {
+  "id": "gesetz-über-die-förderung-des-öffentlichen-verkehrs",
+  "level": 4,
+  "title": "Gesetz über die Förderung des öffentlichen Verkehrs"
+ },
+ {
+  "id": "vorlage-des-regierungsrats-vom-25-juni-2013-notizen",
+  "level": 4,
+  "title": "Vorlage des Regierungsrats vom 25. Juni 2013 Notizen"
+ },
+ {
+  "id": "gesetz-über-die-förderung-des-öffentlichen-ver-kehrs",
+  "level": 4,
+  "title": "Gesetz über die Förderung des öffentlichen Ver- kehrs"
+ },
+ {
+  "id": "art-1",
+  "level": 4,
+  "title": "Art. 1"
+ },
+ {
+  "id": "viii-änderung-bestehender-erlasse-nachträge",
+  "level": 3,
+  "title": "VIII. Änderung bestehender Erlasse (Nachträge)"
+ },
+ {
+  "id": "grundsatz",
+  "level": 4,
+  "title": "Grundsatz"
+ },
+ {
+  "id": "gesetz-über-die-ausübung-der-politischen-rechte-abstimmungsg-2",
+  "level": 2,
+  "title": "Gesetz über die Ausübung der politischen Rechte (Abstimmungsgesetz)"
+ },
+ {
+  "id": "kantonsverfassung-ergänzung-der-unvereinbarkeitsregelungen",
+  "level": 2,
+  "title": "Kantonsverfassung (Ergänzung der Unvereinbarkeitsregelungen)"
+ },
+ {
+  "id": "gesetz-über-die-strassenverkehrssteuern",
+  "level": 2,
+  "title": "Gesetz über die Strassenverkehrssteuern"
+ },
+ {
+  "id": "der-erlass-gdb-771-2-gesetz-über-die-strassenverkehrssteuern",
+  "level": 4,
+  "title": "Der Erlass GDB 771.2 (Gesetz über die Strassenverkehrssteuern vom"
+ },
+ {
+  "id": "der-erlass-gdb-740-2-gesetz-über-die-regelung-der-abflussver",
+  "level": 4,
+  "title": "Der Erlass GDB 740.2 (Gesetz über die Regelung der Abflussverhältnisse des Sarnersees zur Hochwassersicherheit des Sarneraatals vom"
+ },
+ {
+  "id": "der-erlass-gdb-540-21-verordnung-über-den-koordinierten-sani",
+  "level": 4,
+  "title": "Der Erlass GDB 540.21 (Verordnung über den Koordinierten Sanitäts- dienst vom 27. Januar 2006) (Stand 1. Januar 2006) wird wie folgt geän- dert: Ingress (geändert)"
+ },
+ {
+  "id": "nachtrag-zum-gesetz-über-die-strassenverkehrssteuern",
+  "level": 4,
+  "title": "Nachtrag zum Gesetz über die Strassenverkehrssteuern"
+ },
+ {
+  "id": "geltendes-recht",
+  "level": 4,
+  "title": "Geltendes Recht"
+ },
+ {
+  "id": "februar-2014-notizen",
+  "level": 4,
+  "title": "Februar 2014 Notizen"
+ },
+ {
+  "id": "gesetz-über-die-strassenverkehrssteuern-2",
+  "level": 4,
+  "title": "Gesetz über die Strassenverkehrssteuern"
+ },
+ {
+  "id": "der-erlass-gdb-771-2-gesetz-über-die-strassenverkehrssteuern-2",
+  "level": 4,
+  "title": "Der Erlass GDB 771.2 (Gesetz über die Strassenverkehrssteuern vom 4. De- zember 2008) (Stand 1. Januar 2009) wird wie folgt geändert: Art. 3"
+ },
+ {
+  "id": "geltendes-recht-vorlage-des-regierungsrats-vom-notizen-art-6",
+  "level": 4,
+  "title": "Geltendes Recht Vorlage des Regierungsrats vom ... Notizen Art. 62"
+ },
+ {
+  "id": "art-58",
+  "level": 4,
+  "title": "Art. 58"
+ },
+ {
+  "id": "art-58-2",
+  "level": 4,
+  "title": "Art. 58"
+ },
+ {
+  "id": "tionenvollzugs-art-17a",
+  "level": 4,
+  "title": "tionenvollzugs Art. 17a"
+ },
+ {
+  "id": "geltendes-recht-vorlage-des-regierungsrats",
+  "level": 4,
+  "title": "Geltendes Recht Vorlage des Regierungsrats"
+ },
+ {
+  "id": "änderungsanträge-der-vor-beratenden-kommission",
+  "level": 4,
+  "title": "Änderungsanträge der vor- beratenden Kommission"
+ },
+ {
+  "id": "art-1-2",
+  "level": 4,
+  "title": "Art. 1"
+ },
+ {
+  "id": "art-1-3",
+  "level": 4,
+  "title": "Art. 1"
+ },
+ {
+  "id": "art-1-4",
+  "level": 4,
+  "title": "Art. 1"
+ },
+ {
+  "id": "art-15a",
+  "level": 4,
+  "title": "Art. 15a"
+ },
+ {
+  "id": "geltendes-recht-vorlage-des-regierungsrats-vom-mit-variante-",
+  "level": 4,
+  "title": "Geltendes Recht Vorlage des Regierungsrats vom ... (mit Variante) Notizen Art. 67"
+ },
+ {
+  "id": "variante-1",
+  "level": 4,
+  "title": "Variante 1"
+ },
+ {
+  "id": "variante-2",
+  "level": 4,
+  "title": "Variante 2"
+ },
+ {
+  "id": "art-1a-art-1b",
+  "level": 4,
+  "title": "Art. 1a Art. 1b"
+ },
+ {
+  "id": "abs-1a",
+  "level": 4,
+  "title": "Abs. 1a"
+ },
+ {
+  "id": "bst-a1",
+  "level": 4,
+  "title": "Bst. a1"
+ },
+ {
+  "id": "ziff-1a",
+  "level": 4,
+  "title": "Ziff. 1a"
+ },
+ {
+  "id": "1-1a-zwischentitel",
+  "level": 4,
+  "title": "1.1a. Zwischentitel"
+ },
+ {
+  "id": "art-16-abs-2",
+  "level": 4,
+  "title": "Art. 16 Abs. 2"
+ },
+ {
+  "id": "ix-darstellung-von-nachträgen-im-amtsblatt",
+  "level": 3,
+  "title": "IX. Darstellung von Nachträgen im Amtsblatt"
+ },
+ {
+  "id": "der-erlass-gdb-130-1-staatsverwaltungsgesetz-vom-8-juni-1997",
+  "level": 4,
+  "title": "Der Erlass GDB 130.1 (Staatsverwaltungsgesetz vom 8. Juni 1997) (Stand"
+ },
+ {
+  "id": "referendumsvorlage",
+  "level": 3,
+  "title": "Referendumsvorlage"
+ },
+ {
+  "id": "gesetz-über-die-förderung-des-öffentlichen-verkehrs-2",
+  "level": 2,
+  "title": "Gesetz über die Förderung des öffentlichen Verkehrs"
+ },
+ {
+  "id": "ablauf-der-referendumsfrist-montag-30-juni-2014-17-00-uhr",
+  "level": 4,
+  "title": "Ablauf der Referendumsfrist: Montag, 30. Juni 2014, 17.00 Uhr"
+ },
+ {
+  "id": "x-mantelerlass",
+  "level": 3,
+  "title": "X. Mantelerlass"
+ },
+ {
+  "id": "gesetz-über-die-justizreform",
+  "level": 2,
+  "title": "Gesetz über die Justizreform"
+ },
+ {
+  "id": "xi-aufhebungserlass",
+  "level": 3,
+  "title": "XI. Aufhebungserlass"
+ },
+ {
+  "id": "verordnung-über-schulgeldbeiträge-an-schüler-von-bildungsins",
+  "level": 2,
+  "title": "Verordnung über Schulgeldbeiträge an Schüler von Bildungsinstitutionen der Sekundarstufe II"
+ },
+ {
+  "id": "i",
+  "level": 3,
+  "title": "I."
+ },
+ {
+  "id": "der-erlass-gdb-419-21-verordnung-über-schulgeldbeiträge-an-s",
+  "level": 4,
+  "title": "Der Erlass GDB 419.21 (Verordnung über Schulgeldbeiträge an Schüler von Bildungsinstitutionen der Sekundarstufe II vom 15. September 1988)"
+ },
+ {
+  "id": "ii",
+  "level": 3,
+  "title": "II."
+ },
+ {
+  "id": "iii",
+  "level": 3,
+  "title": "III."
+ },
+ {
+  "id": "xii-darstellungen-im-laufe-des-rechtsetzungsverfahrens",
+  "level": 3,
+  "title": "XII. Darstellungen im Laufe des Rechtsetzungsverfahrens"
+ },
+ {
+  "id": "xiii-darstellung-in-der-gdb",
+  "level": 3,
+  "title": "XIII. Darstellung in der GDB"
+ },
+ {
+  "id": "informationen-zum-erlass",
+  "level": 4,
+  "title": "Informationen zum Erlass"
+ },
+ {
+  "id": "xiv-anhaltspunkte-zum-verfahren-und-zeitbedarf-für-die-recht-2",
+  "level": 2,
+  "title": "XIV. Anhaltspunkte zum Verfahren und Zeitbedarf für die Rechtsset- zung"
+ },
+ {
+  "id": "ohne-vernehmlassungsverfahren-und-nur-einmalige-lesung",
+  "level": 4,
+  "title": "(ohne Vernehmlassungsverfahren und nur einmalige Lesung)"
+ },
+ {
+  "id": "xv-quellenhinweise",
+  "level": 3,
+  "title": "XV. Quellenhinweise"
+ }
+]

@@ -1,0 +1,432 @@
+[
+ {
+  "id": "regierungsrat-des-kantons-schwyz",
+  "level": 2,
+  "title": "Regierungsrat des Kantons Schwyz"
+ },
+ {
+  "id": "richtlinien-für-die-rechtsetzung",
+  "level": 2,
+  "title": "Richtlinien für die Rechtsetzung"
+ },
+ {
+  "id": "übersicht",
+  "level": 2,
+  "title": "Übersicht"
+ },
+ {
+  "id": "3-rechtsetzungskompetenzen-und-formen-17",
+  "level": 3,
+  "title": "3 Rechtsetzungskompetenzen und -formen ................................................................... 17"
+ },
+ {
+  "id": "4-aufbau-und-gliederung-von-erlassen-und-paragrafen-19",
+  "level": 3,
+  "title": "4 Aufbau und Gliederung von Erlassen und Paragrafen ................................................... 19"
+ },
+ {
+  "id": "5-besonderheiten-bei-der-änderung-von-erlassen-25",
+  "level": 3,
+  "title": "5 Besonderheiten bei der Änderung von Erlassen ........................................................... 25"
+ },
+ {
+  "id": "7-information-der-öffentlichkeit-29",
+  "level": 3,
+  "title": "7 Information der Öffentlichkeit ................................................................................... 29"
+ },
+ {
+  "id": "inhaltsverzeichnis",
+  "level": 2,
+  "title": "Inhaltsverzeichnis"
+ },
+ {
+  "id": "3-rechtsetzungskompetenzen-und-formen-17-2",
+  "level": 3,
+  "title": "3 Rechtsetzungskompetenzen und -formen ................................................................... 17"
+ },
+ {
+  "id": "4-aufbau-und-gliederung-von-erlassen-und-paragrafen-19-2",
+  "level": 3,
+  "title": "4 Aufbau und Gliederung von Erlassen und Paragrafen ................................................... 19"
+ },
+ {
+  "id": "5-besonderheiten-bei-der-änderung-von-erlassen-25-2",
+  "level": 3,
+  "title": "5 Besonderheiten bei der Änderung von Erlassen ........................................................... 25"
+ },
+ {
+  "id": "7-information-der-öffentlichkeit-29-2",
+  "level": 3,
+  "title": "7 Information der Öffentlichkeit ................................................................................... 29"
+ },
+ {
+  "id": "allgemeines",
+  "level": 2,
+  "title": "Allgemeines"
+ },
+ {
+  "id": "1-1-gegenstand",
+  "level": 3,
+  "title": "1.1 Gegenstand"
+ },
+ {
+  "id": "1-2-zuständigkeit",
+  "level": 3,
+  "title": "1.2 Zuständigkeit"
+ },
+ {
+  "id": "1-3-ausgangslage",
+  "level": 3,
+  "title": "1.3 Ausgangslage"
+ },
+ {
+  "id": "1-3-1-rechtsetzungsprojekt",
+  "level": 3,
+  "title": "1.3.1 Rechtsetzungsprojekt"
+ },
+ {
+  "id": "1-3-2-originäre-kantonale-rechtsetzung",
+  "level": 3,
+  "title": "1.3.2 Originäre kantonale Rechtsetzung"
+ },
+ {
+  "id": "1-3-3-rechtsetzung-durch-konkordate",
+  "level": 3,
+  "title": "1.3.3 Rechtsetzung durch Konkordate"
+ },
+ {
+  "id": "1-3-4-umsetzung-von-bundesrecht",
+  "level": 3,
+  "title": "1.3.4 Umsetzung von Bundesrecht"
+ },
+ {
+  "id": "1-4-terminplan",
+  "level": 3,
+  "title": "1.4 Terminplan"
+ },
+ {
+  "id": "1-5-vollzugsplanung",
+  "level": 3,
+  "title": "1.5 Vollzugsplanung"
+ },
+ {
+  "id": "1-6-qualitätskontrolle",
+  "level": 3,
+  "title": "1.6 Qualitätskontrolle"
+ },
+ {
+  "id": "1-7-rechtsetzung-im-digitalen-zeitalter",
+  "level": 3,
+  "title": "1.7 Rechtsetzung im digitalen Zeitalter"
+ },
+ {
+  "id": "rechtsetzungsphasen",
+  "level": 2,
+  "title": "Rechtsetzungsphasen"
+ },
+ {
+  "id": "2-1-vorbereitungsphase",
+  "level": 3,
+  "title": "2.1 Vorbereitungsphase"
+ },
+ {
+  "id": "2-2-auftragserteilung",
+  "level": 3,
+  "title": "2.2 Auftragserteilung"
+ },
+ {
+  "id": "2-3-entwurfsphase",
+  "level": 3,
+  "title": "2.3 Entwurfsphase"
+ },
+ {
+  "id": "2-4-mitberichtsverfahren",
+  "level": 3,
+  "title": "2.4 Mitberichtsverfahren"
+ },
+ {
+  "id": "2-5-vernehmlassungsverfahren",
+  "level": 3,
+  "title": "2.5 Vernehmlassungsverfahren"
+ },
+ {
+  "id": "2-6-beschlussfassung-durch-den-regierungsrat",
+  "level": 3,
+  "title": "2.6 Beschlussfassung durch den Regierungsrat"
+ },
+ {
+  "id": "2-6-1-erlass-des-regierungsrates",
+  "level": 3,
+  "title": "2.6.1 Erlass des Regierungsrates"
+ },
+ {
+  "id": "2-6-2-bericht-und-vorlage-an-den-kantonsrat",
+  "level": 3,
+  "title": "2.6.2 Bericht und Vorlage an den Kantonsrat"
+ },
+ {
+  "id": "2-7-parlamentarische-beratung",
+  "level": 3,
+  "title": "2.7 Parlamentarische Beratung"
+ },
+ {
+  "id": "2-7-1-kommissionsberatung",
+  "level": 3,
+  "title": "2.7.1 Kommissionsberatung"
+ },
+ {
+  "id": "2-7-2-stellungnahme-des-regierungsrates",
+  "level": 3,
+  "title": "2.7.2 Stellungnahme des Regierungsrates"
+ },
+ {
+  "id": "2-7-3-beschlussfassung-durch-den-kantonsrat",
+  "level": 3,
+  "title": "2.7.3 Beschlussfassung durch den Kantonsrat"
+ },
+ {
+  "id": "2-8-referendumsphase",
+  "level": 3,
+  "title": "2.8 Referendumsphase"
+ },
+ {
+  "id": "2-8-1-referendumsarten",
+  "level": 3,
+  "title": "2.8.1 Referendumsarten"
+ },
+ {
+  "id": "2-8-2-vorbereitung-volksabstimmung",
+  "level": 3,
+  "title": "2.8.2 Vorbereitung Volksabstimmung"
+ },
+ {
+  "id": "2-9-genehmigung-oder-gewährleistung-durch-den-bund",
+  "level": 3,
+  "title": "2.9 Genehmigung oder Gewährleistung durch den Bund"
+ },
+ {
+  "id": "2-10-publikation-und-inkraftsetzung",
+  "level": 3,
+  "title": "2.10 Publikation und Inkraftsetzung"
+ },
+ {
+  "id": "rechtsetzungskompetenzen-und-formen",
+  "level": 2,
+  "title": "Rechtsetzungskompetenzen und -formen"
+ },
+ {
+  "id": "3-1-rechtsetzungskompetenzen",
+  "level": 3,
+  "title": "3.1 Rechtsetzungskompetenzen"
+ },
+ {
+  "id": "3-1-1-kantonsrat",
+  "level": 3,
+  "title": "3.1.1 Kantonsrat"
+ },
+ {
+  "id": "3-1-2-regierungsrat",
+  "level": 3,
+  "title": "3.1.2 Regierungsrat"
+ },
+ {
+  "id": "3-1-3-andere-staatsorgane",
+  "level": 3,
+  "title": "3.1.3 Andere Staatsorgane"
+ },
+ {
+  "id": "3-2-erlassformen-und-bezeichnungen",
+  "level": 3,
+  "title": "3.2 Erlassformen und -bezeichnungen"
+ },
+ {
+  "id": "3-2-1-verfassung",
+  "level": 3,
+  "title": "3.2.1 Verfassung"
+ },
+ {
+  "id": "3-2-2-gesetze",
+  "level": 3,
+  "title": "3.2.2 Gesetze"
+ },
+ {
+  "id": "3-2-3-verordnungen",
+  "level": 3,
+  "title": "3.2.3 Verordnungen"
+ },
+ {
+  "id": "3-2-4-verwaltungsverordnungen",
+  "level": 3,
+  "title": "3.2.4 Verwaltungsverordnungen"
+ },
+ {
+  "id": "aufbau-und-gliederung-von-erlassen-und-paragrafen",
+  "level": 2,
+  "title": "Aufbau und Gliederung von Erlassen und Paragrafen"
+ },
+ {
+  "id": "4-1-formatvorlagen-für-gesetze-und-verordnungen",
+  "level": 3,
+  "title": "4.1 Formatvorlagen für Gesetze und Verordnungen"
+ },
+ {
+  "id": "4-2-gliederungsstruktur",
+  "level": 3,
+  "title": "4.2 Gliederungsstruktur"
+ },
+ {
+  "id": "4-3-titel",
+  "level": 3,
+  "title": "4.3 Titel"
+ },
+ {
+  "id": "4-4-ingress",
+  "level": 3,
+  "title": "4.4 Ingress"
+ },
+ {
+  "id": "4-5-paragrafen",
+  "level": 3,
+  "title": "4.5 Paragrafen"
+ },
+ {
+  "id": "4-6-einleitungsteil",
+  "level": 3,
+  "title": "4.6 Einleitungsteil"
+ },
+ {
+  "id": "4-7-hauptteil",
+  "level": 3,
+  "title": "4.7 Hauptteil"
+ },
+ {
+  "id": "4-8-schlussbestimmungen",
+  "level": 3,
+  "title": "4.8 Schlussbestimmungen"
+ },
+ {
+  "id": "4-8-1-anhänge",
+  "level": 3,
+  "title": "4.8.1 Anhänge"
+ },
+ {
+  "id": "4-8-2-übergangsbestimmungen",
+  "level": 3,
+  "title": "4.8.2 Übergangsbestimmungen"
+ },
+ {
+  "id": "4-8-3-änderung-und-aufhebung-anderer-erlasse",
+  "level": 3,
+  "title": "4.8.3 Änderung und Aufhebung anderer Erlasse"
+ },
+ {
+  "id": "4-8-4-referendumsbestimmung",
+  "level": 3,
+  "title": "4.8.4 Referendumsbestimmung"
+ },
+ {
+  "id": "4-8-5-publikationsklausel",
+  "level": 3,
+  "title": "4.8.5 Publikationsklausel"
+ },
+ {
+  "id": "4-8-6-inkraftsetzung",
+  "level": 3,
+  "title": "4.8.6 Inkraftsetzung"
+ },
+ {
+  "id": "4-8-7-schlussformel",
+  "level": 3,
+  "title": "4.8.7 Schlussformel"
+ },
+ {
+  "id": "besonderheiten-bei-der-änderung-von-erlassen",
+  "level": 2,
+  "title": "Besonderheiten bei der Änderung von Erlassen"
+ },
+ {
+  "id": "5-1-grundsätze-und-regeln",
+  "level": 3,
+  "title": "5.1 Grundsätze und Regeln"
+ },
+ {
+  "id": "5-2-titel",
+  "level": 3,
+  "title": "5.2 Titel"
+ },
+ {
+  "id": "5-3-ingress",
+  "level": 3,
+  "title": "5.3 Ingress"
+ },
+ {
+  "id": "5-4-änderungen-von-paragrafen",
+  "level": 3,
+  "title": "5.4 Änderungen von Paragrafen"
+ },
+ {
+  "id": "5-5-schlussbestimmungen",
+  "level": 3,
+  "title": "5.5 Schlussbestimmungen"
+ },
+ {
+  "id": "5-5-1-übergangsbestimmungen",
+  "level": 3,
+  "title": "5.5.1 Übergangsbestimmungen"
+ },
+ {
+  "id": "5-5-2-änderung-weiteren-bisherigen-rechts",
+  "level": 3,
+  "title": "5.5.2 Änderung weiteren bisherigen Rechts"
+ },
+ {
+  "id": "5-6-sonderfälle-von-änderungen",
+  "level": 3,
+  "title": "5.6 Sonderfälle von Änderungen"
+ },
+ {
+  "id": "gesetzessprache",
+  "level": 2,
+  "title": "Gesetzessprache"
+ },
+ {
+  "id": "6-1-allgemeine-regeln",
+  "level": 3,
+  "title": "6.1 Allgemeine Regeln"
+ },
+ {
+  "id": "6-2-sprachliche-gleichbehandlung",
+  "level": 3,
+  "title": "6.2 Sprachliche Gleichbehandlung"
+ },
+ {
+  "id": "6-3-verweisungen-abkürzungen",
+  "level": 3,
+  "title": "6.3 Verweisungen, Abkürzungen"
+ },
+ {
+  "id": "information-der-öffentlichkeit",
+  "level": 2,
+  "title": "Information der Öffentlichkeit"
+ },
+ {
+  "id": "literatur-leitfäden-richtlinien",
+  "level": 2,
+  "title": "Literatur, Leitfäden, Richtlinien"
+ },
+ {
+  "id": "stichwortverzeichnis",
+  "level": 2,
+  "title": "Stichwortverzeichnis"
+ },
+ {
+  "id": "anhang-werkzeugkoffer",
+  "level": 2,
+  "title": "Anhang: Werkzeugkoffer"
+ },
+ {
+  "id": "wk-arbeitshilfen-vorlagen-beispiel-anleitungen",
+  "level": 3,
+  "title": "WK Arbeitshilfen Vorlagen Beispiel Anleitungen"
+ }
+]

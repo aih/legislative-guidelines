@@ -1,0 +1,797 @@
+[
+ {
+  "id": "elaboración-de-leyes",
+  "level": 2,
+  "title": "elaboración de leyes"
+ },
+ {
+  "id": "elaboración-de-leyes-proyectos-e-iniciativas-legislativas",
+  "level": 2,
+  "title": "elaboración de leyes Proyectos e iniciativas legislativas"
+ },
+ {
+  "id": "martha-gallegos-moreno",
+  "level": 2,
+  "title": "Martha Gallegos Moreno"
+ },
+ {
+  "id": "presentación",
+  "level": 3,
+  "title": "Presentación"
+ },
+ {
+  "id": "l",
+  "level": 2,
+  "title": "L"
+ },
+ {
+  "id": "introducción",
+  "level": 3,
+  "title": "INTRODUCCIÓN"
+ },
+ {
+  "id": "l-2",
+  "level": 2,
+  "title": "L"
+ },
+ {
+  "id": "introducción-al-capítulo-primero",
+  "level": 4,
+  "title": "Introducción al capítulo primero"
+ },
+ {
+  "id": "capítulo-primero",
+  "level": 3,
+  "title": "caPítULO PRIMERO"
+ },
+ {
+  "id": "antecedentes-de-teoría-y-técnica-legislativa",
+  "level": 3,
+  "title": "ANTECEDENTES DE TEORÍA Y TÉCNICA LEGISLATIVA"
+ },
+ {
+  "id": "c",
+  "level": 2,
+  "title": "C"
+ },
+ {
+  "id": "i-primera-etapa-de-interés-por-las-leyes",
+  "level": 4,
+  "title": "I. Primera etapa de interés por las leyes"
+ },
+ {
+  "id": "a-teoría-de-la-legislación-antigua",
+  "level": 4,
+  "title": "A. Teoría de la legislación antigua"
+ },
+ {
+  "id": "a-virtudes-de-los-legisladores",
+  "level": 4,
+  "title": "a. Virtudes de los legisladores"
+ },
+ {
+  "id": "b-cualidades-de-la-ley",
+  "level": 4,
+  "title": "b. Cualidades de la ley"
+ },
+ {
+  "id": "b-teoría-de-la-legislación-moderna",
+  "level": 4,
+  "title": "B. Teoría de la legislación moderna"
+ },
+ {
+  "id": "c-teoría-y-técnica-legislativa-en-obras-clásicas",
+  "level": 4,
+  "title": "C. Teoría y técnica legislativa en obras clásicas"
+ },
+ {
+  "id": "ii-segunda-etapa-periodo-de-oro-de-las-técnicas-legislativas",
+  "level": 4,
+  "title": "II. Segunda etapa: periodo de oro de las técnicas legislativas"
+ },
+ {
+  "id": "a-las-codificaciones-mejorar-y-conocer-la-legislación",
+  "level": 4,
+  "title": "A. Las codificaciones, mejorar y conocer la legislación"
+ },
+ {
+  "id": "b-decadencia-de-las-técnicas-legislativas",
+  "level": 4,
+  "title": "B. Decadencia de las técnicas legislativas"
+ },
+ {
+  "id": "iii-tercera-etapa-estudios-de-la-legislación-en-la-actualida",
+  "level": 4,
+  "title": "III. Tercera etapa: estudios de la legislación en la actualidad"
+ },
+ {
+  "id": "a-evolución-en-el-derecho-comparado",
+  "level": 4,
+  "title": "A. Evolución en el derecho comparado"
+ },
+ {
+  "id": "iv-estudios-de-la-legislación-en-méxico",
+  "level": 4,
+  "title": "IV. Estudios de la legislación en México"
+ },
+ {
+  "id": "a-técnica-legislativa-en-la-doctrina-mexicana",
+  "level": 4,
+  "title": "A. Técnica legislativa en la doctrina mexicana"
+ },
+ {
+  "id": "b-estudios-en-teoría-de-la-legislación-y-técnica-legislativa",
+  "level": 4,
+  "title": "B. Estudios en teoría de la legislación y técnica legislativa"
+ },
+ {
+  "id": "1o-técnicas-normativas",
+  "level": 4,
+  "title": "1O. Técnicas normativas"
+ },
+ {
+  "id": "introducción-al-capítulo-segundo",
+  "level": 4,
+  "title": "Introducción al capítulo segundo"
+ },
+ {
+  "id": "capítulo-segundo",
+  "level": 3,
+  "title": "CAPÍTULO SEGUNDO"
+ },
+ {
+  "id": "estudios-de-la-legislación",
+  "level": 3,
+  "title": "ESTUDIOS DE LA LEGISLACIÓN"
+ },
+ {
+  "id": "i-definición-de-técnica-legislativa",
+  "level": 4,
+  "title": "I. Definición de técnica legislativa"
+ },
+ {
+  "id": "a-objeto-de-la-técnica-legislativa",
+  "level": 4,
+  "title": "A. Objeto de la técnica legislativa"
+ },
+ {
+  "id": "ii-precisión-de-términos",
+  "level": 4,
+  "title": "II. Precisión de términos"
+ },
+ {
+  "id": "a-ciencia-o-doctrina-de-la-legislación",
+  "level": 4,
+  "title": "A. Ciencia o doctrina de la legislación"
+ },
+ {
+  "id": "b-ciencia-estudios-teoría-o-técnica",
+  "level": 4,
+  "title": "B. Ciencia, estudios, teoría o técnica"
+ },
+ {
+  "id": "c-ciencia-o-arte-de-legislar",
+  "level": 4,
+  "title": "C. Ciencia o arte de legislar"
+ },
+ {
+  "id": "d-técnica-legislativa-o-técnicas-legislativas",
+  "level": 4,
+  "title": "D. Técnica legislativa o técnicas legislativas"
+ },
+ {
+  "id": "e-técnica-legislativa-o-normativa",
+  "level": 4,
+  "title": "E. Técnica legislativa o normativa"
+ },
+ {
+  "id": "f-técnica-legislativa-en-sentido-estricto-y-en-sentido-ampli",
+  "level": 4,
+  "title": "F. Técnica legislativa en sentido estricto y en sentido amplio"
+ },
+ {
+  "id": "g-técnica-legislativa-en-sentido-formal-y-sustancial",
+  "level": 4,
+  "title": "G. Técnica legislativa en sentido formal y sustancial"
+ },
+ {
+  "id": "h-técnica-legislativa-de-enfoque-minimalista-o-maximalista",
+  "level": 4,
+  "title": "H. Técnica legislativa de enfoque minimalista o maximalista"
+ },
+ {
+  "id": "i-redacción-o-producción-normativa",
+  "level": 4,
+  "title": "I. Redacción o producción normativa"
+ },
+ {
+  "id": "iii-técnica-legislativa-en-tres-planos-metodológicos",
+  "level": 4,
+  "title": "III. Técnica Legislativa en tres planos metodológicos"
+ },
+ {
+  "id": "a-teoría-de-la-legislación-y-técnica-legislativa",
+  "level": 4,
+  "title": "A. Teoría de la legislación y técnica legislativa"
+ },
+ {
+  "id": "b-derecho-parlamentario-y-técnica-legislativa",
+  "level": 4,
+  "title": "B. Derecho parlamentario y técnica legislativa"
+ },
+ {
+  "id": "c-metodología-jurídica-y-técnica-legislativa",
+  "level": 4,
+  "title": "C. Metodología jurídica y técnica legislativa"
+ },
+ {
+  "id": "iv-ubicación-de-la-técnica-legislativa",
+  "level": 4,
+  "title": "IV. Ubicación de la técnica legislativa"
+ },
+ {
+  "id": "a-técnica-legislativa-y-epistemología-jurídica",
+  "level": 4,
+  "title": "A. Técnica legislativa y epistemología jurídica"
+ },
+ {
+  "id": "b-posición-de-la-técnica-legislativa-en-la-dogmática-jurídic",
+  "level": 4,
+  "title": "B. Posición de la técnica legislativa en la dogmática jurídica"
+ },
+ {
+  "id": "c-técnica-legislativa-y-teoría-de-la-legislación",
+  "level": 4,
+  "title": "C. Técnica legislativa y teoría de la legislación"
+ },
+ {
+  "id": "d-dogmática-hermenéutica-y-epistemología-legislativas",
+  "level": 4,
+  "title": "D. Dogmática, hermenéutica y epistemología legislativas"
+ },
+ {
+  "id": "e-axiología-y-sociología-jurídicas-en-la-técnica-legislativa",
+  "level": 4,
+  "title": "E. Axiología y sociología jurídicas en la técnica legislativa"
+ },
+ {
+  "id": "f-axiología-y-técnica-legislativa",
+  "level": 4,
+  "title": "F. Axiología y técnica legislativa"
+ },
+ {
+  "id": "g-axiología-legislativa",
+  "level": 4,
+  "title": "G. Axiología legislativa"
+ },
+ {
+  "id": "h-técnica-jurídica-y-dimensión-diacrónica-del-derecho",
+  "level": 4,
+  "title": "H. Técnica Jurídica y dimensión diacrónica del Derecho"
+ },
+ {
+  "id": "i-implementación-sistémica-y-técnica-legislativa",
+  "level": 4,
+  "title": "I. Implementación sistémica y técnica legislativa"
+ },
+ {
+  "id": "introducción-al-capítulo-tercero",
+  "level": 4,
+  "title": "Introducción al capítulo tercero"
+ },
+ {
+  "id": "capítulo-tercero",
+  "level": 3,
+  "title": "CAPÍTULO TERCERO"
+ },
+ {
+  "id": "modelos-de-cómo-legislar",
+  "level": 3,
+  "title": "MODELOS DE CÓMO LEGISLAR"
+ },
+ {
+  "id": "d",
+  "level": 2,
+  "title": "D"
+ },
+ {
+  "id": "i-enfoque-de-metódica-de-la-legislación",
+  "level": 4,
+  "title": "I. Enfoque de metódica de la legislación"
+ },
+ {
+  "id": "ii-modelo-crítica-de-valoración-racional-noll",
+  "level": 4,
+  "title": "II. Modelo crítica de valoración racional. Noll"
+ },
+ {
+  "id": "iii-modelo-de-legislar-racional-wróblewski",
+  "level": 4,
+  "title": "III. Modelo de legislar racional. Wróblewski"
+ },
+ {
+  "id": "iv-modelo-de-análisis-interdisciplinar-del-iter-legislativo-",
+  "level": 4,
+  "title": "IV. Modelo de análisis interdisciplinar del iter legislativo. Losano"
+ },
+ {
+  "id": "v-modelo-de-racionalidad-legislativa-atienza",
+  "level": 4,
+  "title": "V. Modelo de racionalidad legislativa. Atienza"
+ },
+ {
+  "id": "a-análisis-interno-niveles-de-racionalidad-legislativa",
+  "level": 4,
+  "title": "A. Análisis interno. Niveles de racionalidad legislativa"
+ },
+ {
+  "id": "racionalidad-edictores-destinatarios-fines-valores-disciplin",
+  "level": 4,
+  "title": "Racionalidad Edictores – Destinatarios Fines Valores Disciplinas técnicas*"
+ },
+ {
+  "id": "b-análisis-externo-de-la-legislación-estático-y-dinámico",
+  "level": 4,
+  "title": "B. Análisis externo de la legislación. Estático y dinámico"
+ },
+ {
+  "id": "vi-modelo-test-de-racionalidad-calsamiglia",
+  "level": 4,
+  "title": "VI. Modelo test de racionalidad. Calsamiglia"
+ },
+ {
+  "id": "a-comentarios-al-modelo-de-atienza",
+  "level": 4,
+  "title": "A. Comentarios al modelo de Atienza"
+ },
+ {
+  "id": "gema-marcilla",
+  "level": 4,
+  "title": "Gema Marcilla"
+ },
+ {
+  "id": "pedroza-y-cruz",
+  "level": 4,
+  "title": "Pedroza y Cruz"
+ },
+ {
+  "id": "a-racionalidad-lingüística",
+  "level": 4,
+  "title": "A. Racionalidad lingüística"
+ },
+ {
+  "id": "b-racionalidad-jurídico-formal",
+  "level": 4,
+  "title": "B. Racionalidad jurídico-formal"
+ },
+ {
+  "id": "ix-modelo-de-flujo-circular-mora-donatto",
+  "level": 4,
+  "title": "IX. Modelo de flujo circular. Mora-Donatto"
+ },
+ {
+  "id": "x-modelo-de-etapas-en-la-producción-legislativa-reyes",
+  "level": 4,
+  "title": "X. Modelo de etapas en la producción legislativa. Reyes"
+ },
+ {
+  "id": "a-etapa-prelegislativa",
+  "level": 4,
+  "title": "A. Etapa prelegislativa"
+ },
+ {
+  "id": "b-etapa-legislativa",
+  "level": 4,
+  "title": "B. Etapa legislativa"
+ },
+ {
+  "id": "c-etapa-postlegislativa",
+  "level": 4,
+  "title": "C. Etapa postlegislativa"
+ },
+ {
+  "id": "adriana-chacón",
+  "level": 4,
+  "title": "Adriana Chacón"
+ },
+ {
+  "id": "a-etapa-prelegislativa-racionalidad-ética-y-teleológica",
+  "level": 4,
+  "title": "A. Etapa prelegislativa. Racionalidad ética y teleológica"
+ },
+ {
+  "id": "b-etapa-legislativa-racionalidad-jurídico-formal-y-lingüísti",
+  "level": 4,
+  "title": "B. Etapa legislativa. Racionalidad jurídico-formal y lingüística"
+ },
+ {
+  "id": "c-etapa-postlegislativa-racionalidad-pragmática",
+  "level": 4,
+  "title": "C. Etapa postlegislativa. Racionalidad pragmática"
+ },
+ {
+  "id": "introducción-al-capítulo-cuarto",
+  "level": 4,
+  "title": "Introducción al capítulo cuarto"
+ },
+ {
+  "id": "capítulo-cuarto",
+  "level": 3,
+  "title": "CAPÍTULO CUARTO"
+ },
+ {
+  "id": "investigación-legislativa",
+  "level": 3,
+  "title": "investigación legislativa"
+ },
+ {
+  "id": "e",
+  "level": 2,
+  "title": "E"
+ },
+ {
+  "id": "i-investigación-legislativa",
+  "level": 4,
+  "title": "I. Investigación legislativa"
+ },
+ {
+  "id": "a-investigación-legislativa-científica-y-académica",
+  "level": 4,
+  "title": "A. Investigación legislativa, científica y académica"
+ },
+ {
+  "id": "b-metodología-de-la-investigación-legislativa",
+  "level": 4,
+  "title": "B. Metodología de la investigación legislativa"
+ },
+ {
+  "id": "c-proceso-metodología-y-técnicas-de-investigación-legislativ",
+  "level": 4,
+  "title": "C. Proceso, metodología y técnicas de investigación legislativa"
+ },
+ {
+  "id": "d-productos-de-la-investigación-legislativa",
+  "level": 4,
+  "title": "D. Productos de la investigación legislativa"
+ },
+ {
+  "id": "ii-metodología-legislativa",
+  "level": 4,
+  "title": "II. Metodología legislativa"
+ },
+ {
+  "id": "a-método-histórico",
+  "level": 4,
+  "title": "A. Método histórico"
+ },
+ {
+  "id": "b-método-sistemático",
+  "level": 4,
+  "title": "B. Método sistemático"
+ },
+ {
+  "id": "c-método-comparativo-o-analógico",
+  "level": 4,
+  "title": "C. Método comparativo o analógico"
+ },
+ {
+  "id": "d-método-sociológico",
+  "level": 4,
+  "title": "D. Método sociológico"
+ },
+ {
+  "id": "e-método-científico",
+  "level": 4,
+  "title": "E. Método científico"
+ },
+ {
+  "id": "iii-técnicas-de-investigación-legislativa",
+  "level": 4,
+  "title": "III. Técnicas de investigación legislativa"
+ },
+ {
+  "id": "a-técnicas-de-investigación-social-o-de-campo",
+  "level": 4,
+  "title": "A. Técnicas de investigación social o de campo"
+ },
+ {
+  "id": "a-aplicación-de-la-observación-en-proyectos-legislativos",
+  "level": 4,
+  "title": "a. Aplicación de la observación en proyectos legislativos"
+ },
+ {
+  "id": "b-aplicación-de-la-observación-en-el-dictamen",
+  "level": 4,
+  "title": "b. Aplicación de la observación en el dictamen"
+ },
+ {
+  "id": "a-entrevista-en-proyectos-legislativos",
+  "level": 4,
+  "title": "a. Entrevista en proyectos legislativos"
+ },
+ {
+  "id": "b-entrevista-en-fase-de-dictamen",
+  "level": 4,
+  "title": "b. Entrevista en fase de dictamen"
+ },
+ {
+  "id": "a-estadística-en-la-investigación-legislativa",
+  "level": 4,
+  "title": "a. Estadística en la investigación legislativa"
+ },
+ {
+  "id": "b-técnicas-de-investigación-documental-de-carácter-legislati",
+  "level": 4,
+  "title": "B. Técnicas de investigación documental de carácter legislativo"
+ },
+ {
+  "id": "c-técnicas-de-captura-y-sistematización-de-información",
+  "level": 4,
+  "title": "C. Técnicas de captura y sistematización de información"
+ },
+ {
+  "id": "sistemática-legislativa",
+  "level": 4,
+  "title": "Sistemática legislativa"
+ },
+ {
+  "id": "a-aplicación-sistema-mexicano-de-información-legislativa",
+  "level": 4,
+  "title": "a. Aplicación. Sistema Mexicano de Información Legislativa"
+ },
+ {
+  "id": "b-sistema-estatal-normativo-de-zacatecas",
+  "level": 4,
+  "title": "b. Sistema Estatal Normativo de Zacatecas"
+ },
+ {
+  "id": "c-sistema-de-información-legislativa",
+  "level": 4,
+  "title": "c. Sistema de Información Legislativa"
+ },
+ {
+  "id": "d-sistema-de-jurisprudencia-y-tesis-aisladas-ius",
+  "level": 4,
+  "title": "d. Sistema de jurisprudencia y tesis aisladas IUS"
+ },
+ {
+  "id": "e-sistemas-de-información-legislativa-de-la-unam",
+  "level": 4,
+  "title": "e. Sistemas de información legislativa de la UNAM"
+ },
+ {
+  "id": "informática-legislativa",
+  "level": 4,
+  "title": "Informática legislativa"
+ },
+ {
+  "id": "a-aplicación-páginas-web-de-los-congresos",
+  "level": 4,
+  "title": "a. Aplicación. Páginas web de los congresos"
+ },
+ {
+  "id": "b-aplicación-informática-legislativa-al-elaborar-iniciativas",
+  "level": 4,
+  "title": "b. Aplicación. Informática legislativa al elaborar iniciativas"
+ },
+ {
+  "id": "introducción-al-capítulo-quinto",
+  "level": 4,
+  "title": "Introducción al capítulo quinto"
+ },
+ {
+  "id": "capítulo-quinto",
+  "level": 3,
+  "title": "CAPÍTULO QUINTO"
+ },
+ {
+  "id": "técnicas-legislativas",
+  "level": 3,
+  "title": "TÉCNICAS LEGISLATIVAS"
+ },
+ {
+  "id": "e-2",
+  "level": 2,
+  "title": "E"
+ },
+ {
+  "id": "i-evaluación-del-impacto-social",
+  "level": 4,
+  "title": "I. Evaluación del impacto social"
+ },
+ {
+  "id": "a-concepto-de-la-eis",
+  "level": 4,
+  "title": "A. Concepto de la EIS"
+ },
+ {
+  "id": "b-características-de-la-eis-en-un-contexto-internacional",
+  "level": 4,
+  "title": "B. Características de la EIS en un contexto internacional"
+ },
+ {
+  "id": "c-los-impactos-sociales",
+  "level": 4,
+  "title": "C. Los impactos sociales"
+ },
+ {
+  "id": "d-valores-principios-y-lineamientos",
+  "level": 4,
+  "title": "D. Valores, principios y lineamientos"
+ },
+ {
+  "id": "ii-técnica-de-análisis-del-impacto-regulatorio",
+  "level": 4,
+  "title": "II. Técnica de análisis del impacto regulatorio"
+ },
+ {
+  "id": "a-modelo-air-de-la-ocde",
+  "level": 4,
+  "title": "A. Modelo AIR de la OCDE"
+ },
+ {
+  "id": "b-análisis-de-impacto-regulatorio-lépinette",
+  "level": 4,
+  "title": "B. Análisis de impacto regulatorio. Lépinette"
+ },
+ {
+  "id": "iii-técnica-de-lista-de-chequeo-checklist",
+  "level": 4,
+  "title": "III. Técnica de lista de chequeo –checklist–"
+ },
+ {
+  "id": "a-término-y-concepto-de-checklist",
+  "level": 4,
+  "title": "A. Término y concepto de checklist"
+ },
+ {
+  "id": "b-checklist-eficacia-viabilidad-evaluación",
+  "level": 4,
+  "title": "B. Checklist: eficacia, viabilidad, evaluación"
+ },
+ {
+  "id": "c-checklist-puntos-a-verificar-en-un-proceso",
+  "level": 4,
+  "title": "C. Checklist: puntos a verificar en un proceso"
+ },
+ {
+  "id": "d-uso-y-aplicación-de-la-checklist",
+  "level": 4,
+  "title": "D. Uso y aplicación de la checklist"
+ },
+ {
+  "id": "iv-directrices-para-la-redacción-y-estructura-de-leyes",
+  "level": 4,
+  "title": "IV. Directrices para la redacción y estructura de leyes"
+ },
+ {
+  "id": "a-modelos-de-redacción",
+  "level": 4,
+  "title": "A. Modelos de redacción"
+ },
+ {
+  "id": "b-antecedentes-de-las-directrices",
+  "level": 4,
+  "title": "B. Antecedentes de las directrices"
+ },
+ {
+  "id": "c-término-y-concepto-de-directrices",
+  "level": 4,
+  "title": "C. Término y concepto de directrices"
+ },
+ {
+  "id": "d-objetivos-de-las-directrices",
+  "level": 4,
+  "title": "D. Objetivos de las directrices"
+ },
+ {
+  "id": "e-directrices-de-concepción-formal-y-sustancial",
+  "level": 4,
+  "title": "E. Directrices de concepción formal y sustancial"
+ },
+ {
+  "id": "v-técnica-de-evaluación-de-leyes",
+  "level": 4,
+  "title": "V. Técnica de evaluación de leyes"
+ },
+ {
+  "id": "a-evaluación-legislativa-abando",
+  "level": 4,
+  "title": "A. Evaluación legislativa. Abando"
+ },
+ {
+  "id": "b-evaluación-de-leyes-karpen",
+  "level": 4,
+  "title": "B. Evaluación de leyes. Karpen"
+ },
+ {
+  "id": "c-evaluación-racional-de-leyes-atienza",
+  "level": 4,
+  "title": "C. Evaluación racional de leyes. Atienza"
+ },
+ {
+  "id": "d-evaluación-de-leyes-y-regulaciones-en-países-de-la-ocde",
+  "level": 4,
+  "title": "D. Evaluación de leyes y regulaciones en países de la OCDE"
+ },
+ {
+  "id": "introducción-al-capítulo-sexto",
+  "level": 4,
+  "title": "Introducción al capítulo sexto"
+ },
+ {
+  "id": "capítulo-sexto",
+  "level": 3,
+  "title": "CAPÍTULO SEXTO"
+ },
+ {
+  "id": "reglamento-de-técnicas-legislativas",
+  "level": 3,
+  "title": "REGLAMENTO DE TÉCNICAS LEGISLATIVAS"
+ },
+ {
+  "id": "e-3",
+  "level": 2,
+  "title": "E"
+ },
+ {
+  "id": "i-reglas-para-elaborar-legislación",
+  "level": 4,
+  "title": "I. Reglas para elaborar legislación"
+ },
+ {
+  "id": "ii-análisis-del-marco-jurídico-vigente",
+  "level": 4,
+  "title": "II. Análisis del marco jurídico vigente"
+ },
+ {
+  "id": "a-etapa-prelegislativa-2",
+  "level": 4,
+  "title": "A. Etapa prelegislativa"
+ },
+ {
+  "id": "b-etapa-legislativa-2",
+  "level": 4,
+  "title": "B. Etapa legislativa"
+ },
+ {
+  "id": "c-etapa-postlegislativa-2",
+  "level": 4,
+  "title": "C. Etapa postlegislativa"
+ },
+ {
+  "id": "iii-reglamento-de-técnicas-legislativas",
+  "level": 4,
+  "title": "III. Reglamento de Técnicas Legislativas"
+ },
+ {
+  "id": "exposición-de-motivos",
+  "level": 4,
+  "title": "EXPOSICIÓN DE MOTIVOS"
+ },
+ {
+  "id": "a-problemática-que-este-reglamento-pretende-resolver",
+  "level": 4,
+  "title": "A. Problemática que este reglamento pretende resolver"
+ },
+ {
+  "id": "b-alternativa-legislativa",
+  "level": 4,
+  "title": "B. Alternativa legislativa"
+ },
+ {
+  "id": "c-disposiciones-del-reglamento",
+  "level": 4,
+  "title": "C. Disposiciones del reglamento"
+ },
+ {
+  "id": "conclusiones",
+  "level": 3,
+  "title": "CONCLUSIONES"
+ },
+ {
+  "id": "fuentes-de-investigación",
+  "level": 3,
+  "title": "FUENTES DE INVESTIGACIÓN"
+ }
+]
