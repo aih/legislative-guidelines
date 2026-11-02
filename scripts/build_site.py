@@ -225,6 +225,11 @@ def group_sections(groups: list[dict]) -> list[dict]:
     return sections
 
 
+def groups_with_subnational(groups: list[dict]) -> list[dict]:
+    """Groups that have sub-national entries, in alphabetical order of name."""
+    return sorted((grp for grp in groups if grp["sub_count"]), key=lambda grp: sort_key(grp["name"]))
+
+
 def load_matrix() -> dict:
     matrix_path = ROOT / "data" / "comparative_matrix.yml"
     if matrix_path.exists():
@@ -310,10 +315,12 @@ def main() -> int:
     catalog_az = sorted(catalog, key=lambda g: (sort_key(g["display_jurisdiction"]), sort_key(g["title"])))
     groups = build_groups(catalog)
     sections = group_sections(groups)
+    groups_with_subs = groups_with_subnational(groups)
     for name in ["index.html", "compare.html", "auditor.html", "search.html", "contribute.html", "about.html", "opensearch.xml"]:
         tpl = env.get_template(name)
         write(DIST / name, tpl.render(**common, base="", facets=facets, stats=stats, catalog_az=catalog_az,
-                                           groups=groups, sections=sections, page=name))
+                                           groups=groups, sections=sections,
+                                           groups_with_subs=groups_with_subs, page=name))
 
     tpl = env.get_template("guideline.html")
     for g in catalog:

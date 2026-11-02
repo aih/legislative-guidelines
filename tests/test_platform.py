@@ -45,6 +45,14 @@ def test_subnational_entries_grouped_under_country(tmp_path):
     assert groups["EU"]["kind"] == "organisation"
 
 
+def test_groups_with_subnational_sorted_alphabetically():
+    import build_site
+    groups = build_site.build_groups(build_site.load())
+    names = [g["name"] for g in build_site.groups_with_subnational(groups)]
+    assert "Australia" in names
+    assert names == sorted(names, key=build_site.sort_key)
+
+
 def test_flawed_bill_scores_low_under_uk_opc():
     flawed = """
     A BILL ENTITLED AN ACT TO REGULATE ALGORITHMS.

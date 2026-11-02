@@ -36,11 +36,10 @@
         <p>Choose a country or organisation from the list to see its guidelines. In the list, the first number counts
           national (or organisation) guidelines; <span class="c-s">+N</span> counts guidelines of its states, provinces,
           territories or devolved governments, which open from the country's page.</p>
-        {% set with_subs = groups|selectattr('sub_count')|list %}
-        {% if with_subs %}
+        {% if groups_with_subs %}
         <h3>Countries with sub-national guidelines</h3>
         <ul class="c-quick">
-          {% for grp in with_subs %}
+          {% for grp in groups_with_subs %}
           <li><a href="#{{ grp.code }}">{{ grp.name }}</a> <span class="muted">{{ grp.subs|length }} {{ grp.sub_label|lower }} · {{ grp.sub_count }} guideline{{ '' if grp.sub_count == 1 else 's' }}</span></li>
           {% endfor %}
         </ul>
