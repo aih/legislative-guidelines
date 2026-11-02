@@ -18,6 +18,8 @@ Conversion by source format:
 
 Usage:
     python scripts/convert.py [ids...]
+    python scripts/convert.py --from-s3 [ids...]   # first download originals missing locally
+                                                   # from ORIGINALS_S3_BUCKET (scripts/originals_store.py)
 """
 from __future__ import annotations
 
@@ -397,7 +399,18 @@ def convert(doc_dir: Path) -> str:
 
 
 def main(argv: list[str]) -> int:
-    ids = set(argv)
+    from_s3 = "--from-s3" in argv
+    ids = {a for a in argv if a != "--from-s3"}
+    if from_s3:
+        import originals_store
+
+        if not originals_store.enabled():
+            print("--from-s3 needs ORIGINALS_S3_BUCKET")
+            return 1
+        client = originals_store._client()
+        remote = originals_store.remote_originals(client)
+        for doc_id in sorted(ids or remote):
+            originals_store.download(doc_id, client, remote)
     if not DOCS.exists():
         print("no documents/ directory; run scripts/fetch.py first")
         return 0

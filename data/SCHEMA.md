@@ -73,5 +73,6 @@ A sub-national entry:
 ## `retrieval.json`
 
 Per `id`: `retrieved_at` (UTC), `requested_url`, `final_url`, `http_status`, `content_type`,
-`last_modified_header`, `file`, `format`, `bytes`, `sha256`, and `pages` for crawled guides.
+`last_modified_header`, `file`, `format`, `bytes`, `sha256`, `pages` for crawled guides, and `s3_uri` when the
+original was uploaded to S3 (see `scripts/originals_store.py`).
 An `error` key records a failed download.
