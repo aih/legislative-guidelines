@@ -105,6 +105,10 @@ Objects are stored at `<prefix><id>/original.<ext>` with the file's SHA-256 in t
 objects whose SHA-256 already matches. The IAM principal needs `s3:ListBucket` on the bucket and `s3:GetObject`,
 `s3:PutObject` and `s3:DeleteObject` on the prefix. When `ORIGINALS_S3_BUCKET` is unset, nothing changes.
 
+In an environment shared with other projects, the scripts also read project-specific names: `S3_BUCKET_LEGDRAFT`
+(when `ORIGINALS_S3_BUCKET` is unset), `AWS_ACCESS_KEY_ID_LEGDRAFT` and `AWS_SECRET_ACCESS_KEY_LEGDRAFT` (used instead
+of the default credential chain), and `AWS_REGION_LEGDRAFT`.
+
 `tests/test_documents.py` fails for any converted document under 1,000 words or whose opening text matches a block
 or login page.
 

@@ -8,7 +8,14 @@ that are missing locally before converting.
 Environment:
     ORIGINALS_S3_BUCKET   bucket name; S3 storage is off when unset
     ORIGINALS_S3_PREFIX   key prefix, default "originals/"
-    AWS credentials and region are read by boto3 in the usual way
+
+    Project-specific names, for environments shared with other projects:
+    S3_BUCKET_LEGDRAFT              used when ORIGINALS_S3_BUCKET is unset
+    AWS_ACCESS_KEY_ID_LEGDRAFT      with AWS_SECRET_ACCESS_KEY_LEGDRAFT, used instead of
+    AWS_SECRET_ACCESS_KEY_LEGDRAFT  boto3's default credential chain
+    AWS_REGION_LEGDRAFT             region for the S3 client
+
+    Otherwise boto3 reads credentials and region in the usual way
     (AWS_PROFILE, AWS_ACCESS_KEY_ID/AWS_SECRET_ACCESS_KEY, AWS_REGION, instance role).
 
 Object key: <prefix><id>/original.<ext>, with the file's SHA-256 in the
@@ -41,7 +48,7 @@ CONTENT_TYPES = {
 
 
 def bucket() -> str | None:
-    return os.environ.get("ORIGINALS_S3_BUCKET") or None
+    return os.environ.get("ORIGINALS_S3_BUCKET") or os.environ.get("S3_BUCKET_LEGDRAFT") or None
 
 
 def prefix() -> str:
@@ -58,7 +65,13 @@ def _client():
         import boto3
     except ImportError as exc:  # pragma: no cover - depends on environment
         raise SystemExit("ORIGINALS_S3_BUCKET is set but boto3 is not installed: pip install boto3") from exc
-    return boto3.client("s3")
+    kwargs = {}
+    if os.environ.get("AWS_ACCESS_KEY_ID_LEGDRAFT") and os.environ.get("AWS_SECRET_ACCESS_KEY_LEGDRAFT"):
+        kwargs["aws_access_key_id"] = os.environ["AWS_ACCESS_KEY_ID_LEGDRAFT"]
+        kwargs["aws_secret_access_key"] = os.environ["AWS_SECRET_ACCESS_KEY_LEGDRAFT"]
+    if os.environ.get("AWS_REGION_LEGDRAFT"):
+        kwargs["region_name"] = os.environ["AWS_REGION_LEGDRAFT"]
+    return boto3.client("s3", **kwargs)
 
 
 def _sha256(path: Path) -> str:

@@ -66,3 +66,16 @@ def test_upload_replaces_original_with_other_extension(store):
 def test_download_missing_returns_none(store):
     client, _ = store
     assert originals_store.download("not-there", client) is None
+
+
+def test_project_specific_variables(monkeypatch):
+    for name in ("ORIGINALS_S3_BUCKET", "AWS_ACCESS_KEY_ID", "AWS_SECRET_ACCESS_KEY", "AWS_DEFAULT_REGION", "AWS_REGION"):
+        monkeypatch.delenv(name, raising=False)
+    monkeypatch.setenv("S3_BUCKET_LEGDRAFT", "legdraft-bucket")
+    monkeypatch.setenv("AWS_ACCESS_KEY_ID_LEGDRAFT", "AKIALEGDRAFT")
+    monkeypatch.setenv("AWS_SECRET_ACCESS_KEY_LEGDRAFT", "secret")
+    monkeypatch.setenv("AWS_REGION_LEGDRAFT", "eu-west-2")
+    assert originals_store.bucket() == "legdraft-bucket"
+    client = originals_store._client()
+    assert client.meta.region_name == "eu-west-2"
+    assert client._request_signer._credentials.access_key == "AKIALEGDRAFT"
